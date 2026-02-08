@@ -1,0 +1,182 @@
+﻿PokerStars Hand #259553683058: Tournament #3971214040, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:32:07 CET [2026/02/01 15:32:07 ET]
+Table '3971214040 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: rottybogart (500 in chips) 
+Seat 3: jeki2803 (500 in chips) 
+rottybogart: posts small blind 10
+jeki2803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 6c]
+mabeal1: raises 20 to 40
+rottybogart: folds 
+jeki2803: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: rottybogart (small blind) folded before Flop
+Seat 3: jeki2803 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259553686581: Tournament #3971214040, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:32:18 CET [2026/02/01 15:32:18 ET]
+Table '3971214040 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: rottybogart (490 in chips) 
+Seat 3: jeki2803 (480 in chips) 
+jeki2803: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 2d]
+rottybogart: calls 20
+jeki2803: folds 
+mabeal1: checks 
+*** FLOP *** [4c 5d 3d]
+mabeal1: bets 38
+rottybogart: calls 38
+*** TURN *** [4c 5d 3d] [6d]
+mabeal1: bets 100
+rottybogart: folds 
+Uncalled bet (100) returned to mabeal1
+mabeal1 collected 126 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [4c 5d 3d 6d]
+Seat 1: mabeal1 (big blind) collected (126)
+Seat 2: rottybogart (button) folded on the Turn
+Seat 3: jeki2803 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553693757: Tournament #3971214040, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:32:42 CET [2026/02/01 15:32:42 ET]
+Table '3971214040 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (598 in chips) 
+Seat 2: rottybogart (432 in chips) 
+Seat 3: jeki2803 (470 in chips) 
+mabeal1: posts small blind 10
+rottybogart: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 5s]
+jeki2803: folds 
+mabeal1: raises 578 to 598 and is all-in
+rottybogart: folds 
+Uncalled bet (578) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: rottybogart (big blind) folded before Flop
+Seat 3: jeki2803 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553698670: Tournament #3971214040, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:32:57 CET [2026/02/01 15:32:57 ET]
+Table '3971214040 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (618 in chips) 
+Seat 2: rottybogart (412 in chips) 
+Seat 3: jeki2803 (470 in chips) 
+rottybogart: posts small blind 10
+jeki2803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 7c]
+mabeal1: raises 20 to 40
+rottybogart: calls 30
+jeki2803: calls 20
+*** FLOP *** [Qh 3d 7s]
+rottybogart: checks 
+jeki2803: checks 
+mabeal1: checks 
+*** TURN *** [Qh 3d 7s] [9s]
+rottybogart: checks 
+jeki2803: bets 20
+mabeal1: folds 
+rottybogart: folds 
+Uncalled bet (20) returned to jeki2803
+jeki2803 collected 120 from pot
+jeki2803: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh 3d 7s 9s]
+Seat 1: mabeal1 (button) folded on the Turn
+Seat 2: rottybogart (small blind) folded on the Turn
+Seat 3: jeki2803 (big blind) collected (120)
+
+
+
+PokerStars Hand #259553710036: Tournament #3971214040, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:33:35 CET [2026/02/01 15:33:35 ET]
+Table '3971214040 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (578 in chips) 
+Seat 2: rottybogart (372 in chips) 
+Seat 3: jeki2803 (550 in chips) 
+jeki2803: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Jh]
+rottybogart: folds 
+jeki2803: calls 10
+mabeal1: raises 40 to 60
+jeki2803: calls 40
+*** FLOP *** [Kc Qd 8d]
+jeki2803: bets 120
+mabeal1: calls 120
+*** TURN *** [Kc Qd 8d] [4c]
+jeki2803: bets 360
+mabeal1: raises 38 to 398 and is all-in
+jeki2803: calls 10 and is all-in
+Uncalled bet (28) returned to mabeal1
+*** RIVER *** [Kc Qd 8d 4c] [5s]
+*** SHOW DOWN ***
+jeki2803: shows [Kh 5d] (two pair, Kings and Fives)
+mabeal1: shows [Kd Jh] (a pair of Kings)
+jeki2803 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [Kc Qd 8d 4c 5s]
+Seat 1: mabeal1 (big blind) showed [Kd Jh] and lost with a pair of Kings
+Seat 2: rottybogart (button) folded before Flop (didn't bet)
+Seat 3: jeki2803 (small blind) showed [Kh 5d] and won (1100) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #259553723727: Tournament #3971214040, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:34:19 CET [2026/02/01 15:34:19 ET]
+Table '3971214040 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (28 in chips) 
+Seat 2: rottybogart (372 in chips) 
+Seat 3: jeki2803 (1100 in chips) 
+mabeal1: posts small blind 15
+rottybogart: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 2c]
+jeki2803: raises 30 to 60
+mabeal1: calls 13 and is all-in
+rottybogart: calls 30
+*** FLOP *** [5s 4c 7h]
+rottybogart: checks 
+jeki2803: bets 30
+rottybogart: calls 30
+*** TURN *** [5s 4c 7h] [Qh]
+rottybogart: checks 
+jeki2803: checks 
+*** RIVER *** [5s 4c 7h Qh] [6s]
+rottybogart: bets 60
+jeki2803: calls 60
+*** SHOW DOWN ***
+rottybogart: shows [Ah 8c] (a straight, Four to Eight)
+jeki2803: mucks hand 
+rottybogart collected 244 from side pot
+mabeal1: mucks hand 
+rottybogart collected 84 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 328 Main pot 84. Side pot 244. | Rake 0 
+Board [5s 4c 7h Qh 6s]
+Seat 1: mabeal1 (small blind) mucked [Ks 2c]
+Seat 2: rottybogart (big blind) showed [Ah 8c] and won (328) with a straight, Four to Eight
+Seat 3: jeki2803 (button) mucked [6d Ac]
+
+
+

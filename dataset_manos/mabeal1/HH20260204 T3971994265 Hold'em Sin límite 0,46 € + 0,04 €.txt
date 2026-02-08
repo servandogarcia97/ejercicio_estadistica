@@ -1,0 +1,932 @@
+﻿PokerStars Hand #259588321805: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:38:20 CET [2026/02/04 9:38:20 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: frede60 (500 in chips) 
+mabeal1: posts small blind 10
+frede60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Tc]
+cylou55: folds 
+mabeal1: raises 30 to 50
+frede60: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: cylou55 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: frede60 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259588323167: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:38:29 CET [2026/02/04 9:38:29 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: frede60 (480 in chips) 
+frede60: posts small blind 10
+cylou55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Th]
+mabeal1: raises 30 to 50
+frede60: folds 
+cylou55: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: cylou55 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: frede60 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588325570: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:38:43 CET [2026/02/04 9:38:43 ET]
+Table '3971994265 1' 3-max Seat #3 is the button
+Seat 1: cylou55 (480 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: frede60 (470 in chips) 
+cylou55: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 3d]
+frede60: folds 
+cylou55: calls 10
+mabeal1: checks 
+*** FLOP *** [4s 8d 5h]
+cylou55: checks 
+mabeal1: bets 20
+cylou55: raises 140 to 160
+mabeal1: raises 370 to 530 and is all-in
+cylou55: folds 
+Uncalled bet (370) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4s 8d 5h]
+Seat 1: cylou55 (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (360)
+Seat 3: frede60 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259588330598: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:39:15 CET [2026/02/04 9:39:15 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (300 in chips) 
+Seat 2: mabeal1 (730 in chips) 
+Seat 3: frede60 (470 in chips) 
+mabeal1: posts small blind 10
+frede60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Th]
+cylou55: calls 20
+mabeal1: calls 10
+frede60: checks 
+*** FLOP *** [7d 2h 9d]
+mabeal1: checks 
+frede60: checks 
+cylou55: bets 280 and is all-in
+mabeal1: folds 
+frede60: folds 
+Uncalled bet (280) returned to cylou55
+cylou55 collected 60 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 2h 9d]
+Seat 1: cylou55 (button) collected (60)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: frede60 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259588334522: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:39:39 CET [2026/02/04 9:39:39 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (340 in chips) 
+Seat 2: mabeal1 (710 in chips) 
+Seat 3: frede60 (450 in chips) 
+frede60: posts small blind 10
+cylou55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4h]
+mabeal1: raises 20 to 40
+frede60: calls 30
+cylou55: calls 20
+*** FLOP *** [Th 2c Qh]
+frede60: checks 
+cylou55: checks 
+mabeal1: checks 
+*** TURN *** [Th 2c Qh] [7s]
+frede60: checks 
+cylou55: checks 
+mabeal1: checks 
+*** RIVER *** [Th 2c Qh 7s] [Ks]
+frede60: bets 80
+cylou55: folds 
+mabeal1: folds 
+Uncalled bet (80) returned to frede60
+frede60 collected 120 from pot
+frede60: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th 2c Qh 7s Ks]
+Seat 1: cylou55 (big blind) folded on the River
+Seat 2: mabeal1 (button) folded on the River
+Seat 3: frede60 (small blind) collected (120)
+
+
+
+PokerStars Hand #259588341383: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:40:22 CET [2026/02/04 9:40:22 ET]
+Table '3971994265 1' 3-max Seat #3 is the button
+Seat 1: cylou55 (300 in chips) 
+Seat 2: mabeal1 (670 in chips) 
+Seat 3: frede60 (530 in chips) 
+cylou55: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 8s]
+frede60: folds 
+cylou55: raises 60 to 80
+mabeal1: folds 
+Uncalled bet (60) returned to cylou55
+cylou55 collected 40 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: cylou55 (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: frede60 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259588343136: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:40:33 CET [2026/02/04 9:40:33 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (320 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: frede60 (530 in chips) 
+mabeal1: posts small blind 10
+frede60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 5c]
+cylou55: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to frede60
+frede60 collected 20 from pot
+frede60: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: cylou55 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: frede60 (big blind) collected (20)
+
+
+
+PokerStars Hand #259588344475: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:40:41 CET [2026/02/04 9:40:41 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (320 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: frede60 (540 in chips) 
+frede60: posts small blind 10
+cylou55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 3s]
+mabeal1: folds 
+frede60: raises 60 to 80
+cylou55: calls 60
+*** FLOP *** [5d 7s Ts]
+frede60: bets 460 and is all-in
+cylou55: calls 240 and is all-in
+Uncalled bet (220) returned to frede60
+*** TURN *** [5d 7s Ts] [8h]
+*** RIVER *** [5d 7s Ts 8h] [5c]
+*** SHOW DOWN ***
+frede60: shows [Ac Jc] (a pair of Fives)
+cylou55: shows [Kh Td] (two pair, Tens and Fives)
+cylou55 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [5d 7s Ts 8h 5c]
+Seat 1: cylou55 (big blind) showed [Kh Td] and won (640) with two pair, Tens and Fives
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: frede60 (small blind) showed [Ac Jc] and lost with a pair of Fives
+
+
+
+PokerStars Hand #259588348604: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:41:06 CET [2026/02/04 9:41:06 ET]
+Table '3971994265 1' 3-max Seat #3 is the button
+Seat 1: cylou55 (640 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: frede60 (220 in chips) 
+cylou55: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 4d]
+frede60: folds 
+cylou55: raises 620 to 640 and is all-in
+mabeal1: folds 
+Uncalled bet (620) returned to cylou55
+cylou55 collected 40 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: cylou55 (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: frede60 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259588350107: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:41:16 CET [2026/02/04 9:41:16 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (660 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: frede60 (220 in chips) 
+mabeal1: posts small blind 10
+frede60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Qd]
+cylou55: calls 20
+mabeal1: calls 10
+frede60: checks 
+*** FLOP *** [Ac 9d 5d]
+mabeal1: checks 
+frede60: checks 
+cylou55: checks 
+*** TURN *** [Ac 9d 5d] [Qh]
+mabeal1: checks 
+frede60: checks 
+cylou55: bets 100
+mabeal1: calls 100
+frede60: folds 
+*** RIVER *** [Ac 9d 5d Qh] [5s]
+mabeal1: checks 
+cylou55: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Th Qd] (two pair, Queens and Fives)
+cylou55: shows [Ad Jh] (two pair, Aces and Fives)
+cylou55 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Ac 9d 5d Qh 5s]
+Seat 1: cylou55 (button) showed [Ad Jh] and won (260) with two pair, Aces and Fives
+Seat 2: mabeal1 (small blind) showed [Th Qd] and lost with two pair, Queens and Fives
+Seat 3: frede60 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259588356358: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:41:55 CET [2026/02/04 9:41:55 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (800 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: frede60 (200 in chips) 
+frede60: posts small blind 15
+cylou55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Tc]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+mabeal1 has returned
+frede60: raises 170 to 200 and is all-in
+cylou55: folds 
+Uncalled bet (170) returned to frede60
+frede60 collected 60 from pot
+frede60: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cylou55 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: frede60 (small blind) collected (60)
+
+
+
+PokerStars Hand #259588359595: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:42:14 CET [2026/02/04 9:42:14 ET]
+Table '3971994265 1' 3-max Seat #3 is the button
+Seat 1: cylou55 (770 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: frede60 (230 in chips) 
+cylou55: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 6d]
+frede60: folds 
+cylou55: calls 15
+mabeal1: checks 
+*** FLOP *** [As 8h 2h]
+cylou55: checks 
+mabeal1: checks 
+*** TURN *** [As 8h 2h] [3c]
+cylou55: checks 
+mabeal1: checks 
+*** RIVER *** [As 8h 2h 3c] [Qc]
+cylou55: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to cylou55
+cylou55 collected 60 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 8h 2h 3c Qc]
+Seat 1: cylou55 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: frede60 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259588365069: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:42:48 CET [2026/02/04 9:42:48 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (800 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: frede60 (230 in chips) 
+mabeal1: posts small blind 15
+frede60: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 7h]
+cylou55: calls 30
+mabeal1: calls 15
+frede60: checks 
+*** FLOP *** [3s Qc 9s]
+mabeal1: checks 
+frede60: checks 
+cylou55: bets 60
+mabeal1: calls 60
+frede60: folds 
+*** TURN *** [3s Qc 9s] [Qh]
+mabeal1: checks 
+cylou55: checks 
+*** RIVER *** [3s Qc 9s Qh] [3h]
+mabeal1: bets 158
+cylou55: folds 
+Uncalled bet (158) returned to mabeal1
+mabeal1 collected 210 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [3s Qc 9s Qh 3h]
+Seat 1: cylou55 (button) folded on the River
+Seat 2: mabeal1 (small blind) collected (210)
+Seat 3: frede60 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259588370068: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:43:19 CET [2026/02/04 9:43:19 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (710 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: frede60 (200 in chips) 
+frede60: posts small blind 15
+cylou55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 6s]
+mabeal1: raises 30 to 60
+frede60: calls 45
+cylou55: folds 
+*** FLOP *** [4s 3c Kc]
+frede60: checks 
+mabeal1: bets 60
+frede60: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [4s 3c Kc]
+Seat 1: cylou55 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (150)
+Seat 3: frede60 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259588372707: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:43:35 CET [2026/02/04 9:43:35 ET]
+Table '3971994265 1' 3-max Seat #3 is the button
+Seat 1: cylou55 (680 in chips) 
+Seat 2: mabeal1 (680 in chips) 
+Seat 3: frede60 (140 in chips) 
+cylou55: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9c]
+frede60: raises 110 to 140 and is all-in
+cylou55: raises 110 to 250
+mabeal1: folds 
+Uncalled bet (110) returned to cylou55
+*** FLOP *** [3d 4s 4h]
+*** TURN *** [3d 4s 4h] [4c]
+*** RIVER *** [3d 4s 4h 4c] [7d]
+*** SHOW DOWN ***
+cylou55: shows [Kh Ks] (a full house, Fours full of Kings)
+frede60: shows [Ac 2h] (three of a kind, Fours)
+cylou55 collected 310 from pot
+frede60 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [3d 4s 4h 4c 7d]
+Seat 1: cylou55 (small blind) showed [Kh Ks] and won (310) with a full house, Fours full of Kings
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: frede60 (button) showed [Ac 2h] and lost with three of a kind, Fours
+
+
+
+PokerStars Hand #259588376269: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:43:57 CET [2026/02/04 9:43:57 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (850 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+mabeal1: posts small blind 15
+cylou55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 4d]
+mabeal1: folds 
+Uncalled bet (15) returned to cylou55
+cylou55 collected 30 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: cylou55 (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588378533: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:44:11 CET [2026/02/04 9:44:11 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (865 in chips) 
+Seat 2: mabeal1 (635 in chips) 
+cylou55: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 9h]
+cylou55: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to cylou55
+cylou55 collected 60 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cylou55 (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259588381524: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:44:30 CET [2026/02/04 9:44:30 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (895 in chips) 
+Seat 2: mabeal1 (605 in chips) 
+mabeal1: posts small blind 20
+cylou55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ts]
+mabeal1: calls 20
+cylou55: raises 160 to 200
+mabeal1: folds 
+Uncalled bet (160) returned to cylou55
+cylou55 collected 80 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: cylou55 (big blind) collected (80)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588384051: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:44:45 CET [2026/02/04 9:44:45 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (935 in chips) 
+Seat 2: mabeal1 (565 in chips) 
+cylou55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 8h]
+cylou55: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to cylou55
+cylou55 collected 80 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: cylou55 (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259588386023: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:44:57 CET [2026/02/04 9:44:57 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (975 in chips) 
+Seat 2: mabeal1 (525 in chips) 
+mabeal1: posts small blind 20
+cylou55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Jh]
+mabeal1: raises 40 to 80
+cylou55: calls 40
+*** FLOP *** [9c Th 5c]
+cylou55: checks 
+mabeal1: checks 
+*** TURN *** [9c Th 5c] [3d]
+cylou55: checks 
+mabeal1: bets 120
+cylou55: calls 120
+*** RIVER *** [9c Th 5c 3d] [Ad]
+cylou55: checks 
+mabeal1: bets 325 and is all-in
+cylou55: folds 
+Uncalled bet (325) returned to mabeal1
+mabeal1 collected 400 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [9c Th 5c 3d Ad]
+Seat 1: cylou55 (big blind) folded on the River
+Seat 2: mabeal1 (button) (small blind) collected (400)
+
+
+
+PokerStars Hand #259588390906: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:45:27 CET [2026/02/04 9:45:27 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (775 in chips) 
+Seat 2: mabeal1 (725 in chips) 
+cylou55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ts]
+cylou55: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: cylou55 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259588391681: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:45:32 CET [2026/02/04 9:45:32 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (755 in chips) 
+Seat 2: mabeal1 (745 in chips) 
+mabeal1: posts small blind 20
+cylou55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7s]
+mabeal1: calls 20
+cylou55: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [5s Qc 3h]
+cylou55: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to cylou55
+cylou55 collected 160 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5s Qc 3h]
+Seat 1: cylou55 (big blind) collected (160)
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259588394860: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:45:51 CET [2026/02/04 9:45:51 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (835 in chips) 
+Seat 2: mabeal1 (665 in chips) 
+cylou55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 2h]
+cylou55: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to cylou55
+cylou55 collected 80 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: cylou55 (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259588396095: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:45:59 CET [2026/02/04 9:45:59 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (875 in chips) 
+Seat 2: mabeal1 (625 in chips) 
+mabeal1: posts small blind 20
+cylou55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5h]
+mabeal1: calls 20
+cylou55: checks 
+*** FLOP *** [6h Jc 7d]
+cylou55: checks 
+mabeal1: checks 
+*** TURN *** [6h Jc 7d] [Kd]
+cylou55: checks 
+mabeal1: checks 
+*** RIVER *** [6h Jc 7d Kd] [6c]
+cylou55: bets 40
+mabeal1: raises 120 to 160
+cylou55: folds [3c]
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6h Jc 7d Kd 6c]
+Seat 1: cylou55 (big blind) folded on the River
+Seat 2: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259588400796: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:46:28 CET [2026/02/04 9:46:28 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (795 in chips) 
+Seat 2: mabeal1 (705 in chips) 
+cylou55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qs]
+cylou55: calls 20
+mabeal1: checks 
+*** FLOP *** [6h 2h 3s]
+mabeal1: bets 60
+cylou55: calls 60
+*** TURN *** [6h 2h 3s] [5s]
+mabeal1: checks 
+cylou55: bets 695 and is all-in
+mabeal1: folds 
+Uncalled bet (695) returned to cylou55
+cylou55 collected 200 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [6h 2h 3s 5s]
+Seat 1: cylou55 (button) (small blind) collected (200)
+Seat 2: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259588405747: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:46:58 CET [2026/02/04 9:46:58 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (895 in chips) 
+Seat 2: mabeal1 (605 in chips) 
+mabeal1: posts small blind 20
+cylou55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Jd]
+mabeal1: calls 20
+cylou55: checks 
+*** FLOP *** [2c 9c 9d]
+cylou55: checks 
+mabeal1: bets 40
+cylou55: calls 40
+*** TURN *** [2c 9c 9d] [6s]
+cylou55: checks 
+mabeal1: bets 120
+cylou55: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c 9c 9d 6s]
+Seat 1: cylou55 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259588413203: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:47:44 CET [2026/02/04 9:47:44 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (815 in chips) 
+Seat 2: mabeal1 (685 in chips) 
+cylou55: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 9h]
+cylou55: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cylou55 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259588413920: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:47:48 CET [2026/02/04 9:47:48 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (785 in chips) 
+Seat 2: mabeal1 (715 in chips) 
+mabeal1: posts small blind 30
+cylou55: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 9s]
+mabeal1: calls 30
+cylou55: checks 
+*** FLOP *** [8d Ts 4s]
+cylou55: checks 
+mabeal1: checks 
+*** TURN *** [8d Ts 4s] [Js]
+cylou55: checks 
+mabeal1: bets 90
+cylou55: calls 90
+*** RIVER *** [8d Ts 4s Js] [Qs]
+cylou55: checks 
+mabeal1: bets 225
+cylou55: calls 225
+*** SHOW DOWN ***
+mabeal1: shows [4d 9s] (a flush, Queen high)
+cylou55: mucks hand 
+mabeal1 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [8d Ts 4s Js Qs]
+Seat 1: cylou55 (big blind) mucked [9c 2s]
+Seat 2: mabeal1 (button) (small blind) showed [4d 9s] and won (750) with a flush, Queen high
+
+
+
+PokerStars Hand #259588419642: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:48:23 CET [2026/02/04 9:48:23 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (410 in chips) 
+Seat 2: mabeal1 (1090 in chips) 
+cylou55: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Kc]
+cylou55: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cylou55 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259588420771: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:48:30 CET [2026/02/04 9:48:30 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (380 in chips) 
+Seat 2: mabeal1 (1120 in chips) 
+mabeal1: posts small blind 30
+cylou55: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7s]
+mabeal1: folds 
+Uncalled bet (30) returned to cylou55
+cylou55 collected 60 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cylou55 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588422147: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:48:38 CET [2026/02/04 9:48:38 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (410 in chips) 
+Seat 2: mabeal1 (1090 in chips) 
+cylou55: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 2c]
+cylou55: raises 60 to 120
+mabeal1: calls 60
+*** FLOP *** [3c 9s 5d]
+mabeal1: checks 
+cylou55: bets 290 and is all-in
+mabeal1: folds 
+Uncalled bet (290) returned to cylou55
+cylou55 collected 240 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3c 9s 5d]
+Seat 1: cylou55 (button) (small blind) collected (240)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259588424914: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:48:55 CET [2026/02/04 9:48:55 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (530 in chips) 
+Seat 2: mabeal1 (970 in chips) 
+mabeal1: posts small blind 30
+cylou55: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4s]
+mabeal1: calls 30
+cylou55: checks 
+*** FLOP *** [Qs 7h 5h]
+cylou55: checks 
+mabeal1: bets 60
+cylou55: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs 7h 5h]
+Seat 1: cylou55 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259588428415: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:49:16 CET [2026/02/04 9:49:16 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (470 in chips) 
+Seat 2: mabeal1 (1030 in chips) 
+cylou55: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Kc]
+cylou55: raises 60 to 120
+mabeal1: raises 910 to 1030 and is all-in
+cylou55: folds 
+Uncalled bet (910) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: cylou55 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (240)
+
+
+
+PokerStars Hand #259588429970: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:49:25 CET [2026/02/04 9:49:25 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (350 in chips) 
+Seat 2: mabeal1 (1150 in chips) 
+mabeal1: posts small blind 30
+cylou55: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 3c]
+mabeal1: folds 
+Uncalled bet (30) returned to cylou55
+cylou55 collected 60 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: cylou55 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588432161: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:49:38 CET [2026/02/04 9:49:38 ET]
+Table '3971994265 1' 3-max Seat #1 is the button
+Seat 1: cylou55 (380 in chips) 
+Seat 2: mabeal1 (1120 in chips) 
+cylou55: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Jc]
+cylou55: calls 30
+mabeal1: checks 
+*** FLOP *** [3h 4h 2d]
+mabeal1: checks 
+cylou55: checks 
+*** TURN *** [3h 4h 2d] [5d]
+mabeal1: bets 60
+cylou55: raises 260 to 320 and is all-in
+mabeal1: folds 
+Uncalled bet (260) returned to cylou55
+cylou55 collected 240 from pot
+cylou55: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3h 4h 2d 5d]
+Seat 1: cylou55 (button) (small blind) collected (240)
+Seat 2: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259588437323: Tournament #3971994265, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:50:09 CET [2026/02/04 9:50:09 ET]
+Table '3971994265 1' 3-max Seat #2 is the button
+Seat 1: cylou55 (500 in chips) 
+Seat 2: mabeal1 (1000 in chips) 
+mabeal1: posts small blind 30
+cylou55: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d As]
+mabeal1: raises 940 to 1000 and is all-in
+cylou55: calls 440 and is all-in
+Uncalled bet (500) returned to mabeal1
+*** FLOP *** [Kh 4c 5s]
+*** TURN *** [Kh 4c 5s] [Jh]
+*** RIVER *** [Kh 4c 5s Jh] [Ad]
+*** SHOW DOWN ***
+cylou55: shows [3s 3h] (a pair of Threes)
+mabeal1: shows [7d As] (a pair of Aces)
+mabeal1 collected 1000 from pot
+cylou55 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Kh 4c 5s Jh Ad]
+Seat 1: cylou55 (big blind) showed [3s 3h] and lost with a pair of Threes
+Seat 2: mabeal1 (button) (small blind) showed [7d As] and won (1000) with a pair of Aces
+
+
+

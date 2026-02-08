@@ -1,0 +1,224 @@
+﻿PokerStars Hand #259550364405: Tournament #3971154104, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:12:31 CET [2026/02/01 12:12:31 ET]
+Table '3971154104 1' 3-max Seat #1 is the button
+Seat 1: NitramAllin (500 in chips) 
+Seat 2: lateamframor (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+lateamframor: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Kc]
+NitramAllin: raises 20 to 40
+lateamframor: folds 
+mabeal1: calls 20
+*** FLOP *** [5d Td 5h]
+mabeal1: checks 
+NitramAllin: bets 30
+mabeal1: calls 30
+*** TURN *** [5d Td 5h] [2d]
+mabeal1: checks 
+NitramAllin: bets 99
+mabeal1: raises 331 to 430 and is all-in
+NitramAllin: folds 
+Uncalled bet (331) returned to mabeal1
+mabeal1 collected 348 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 348 | Rake 0 
+Board [5d Td 5h 2d]
+Seat 1: NitramAllin (button) folded on the Turn
+Seat 2: lateamframor (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (348)
+
+
+
+PokerStars Hand #259550370409: Tournament #3971154104, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:12:54 CET [2026/02/01 12:12:54 ET]
+Table '3971154104 1' 3-max Seat #2 is the button
+Seat 1: NitramAllin (331 in chips) 
+Seat 2: lateamframor (490 in chips) 
+Seat 3: mabeal1 (679 in chips) 
+mabeal1: posts small blind 10
+NitramAllin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4d]
+lateamframor: raises 30 to 50
+mabeal1: folds 
+NitramAllin: folds 
+Uncalled bet (30) returned to lateamframor
+lateamframor collected 50 from pot
+lateamframor: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: NitramAllin (big blind) folded before Flop
+Seat 2: lateamframor (button) collected (50)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259550372819: Tournament #3971154104, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:13:03 CET [2026/02/01 12:13:03 ET]
+Table '3971154104 1' 3-max Seat #3 is the button
+Seat 1: NitramAllin (311 in chips) 
+Seat 2: lateamframor (520 in chips) 
+Seat 3: mabeal1 (669 in chips) 
+NitramAllin: posts small blind 10
+lateamframor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s As]
+mabeal1: raises 20 to 40
+NitramAllin: raises 271 to 311 and is all-in
+lateamframor: folds 
+mabeal1: folds 
+Uncalled bet (271) returned to NitramAllin
+NitramAllin collected 100 from pot
+NitramAllin: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: NitramAllin (small blind) collected (100)
+Seat 2: lateamframor (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop
+
+
+
+PokerStars Hand #259550375900: Tournament #3971154104, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:13:15 CET [2026/02/01 12:13:15 ET]
+Table '3971154104 1' 3-max Seat #1 is the button
+Seat 1: NitramAllin (371 in chips) 
+Seat 2: lateamframor (500 in chips) 
+Seat 3: mabeal1 (629 in chips) 
+lateamframor: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 3c]
+NitramAllin: folds 
+lateamframor: raises 30 to 50
+mabeal1: raises 579 to 629 and is all-in
+lateamframor: folds 
+Uncalled bet (579) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: NitramAllin (button) folded before Flop (didn't bet)
+Seat 2: lateamframor (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (100)
+
+
+
+PokerStars Hand #259550378765: Tournament #3971154104, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:13:26 CET [2026/02/01 12:13:26 ET]
+Table '3971154104 1' 3-max Seat #2 is the button
+Seat 1: NitramAllin (371 in chips) 
+Seat 2: lateamframor (450 in chips) 
+Seat 3: mabeal1 (679 in chips) 
+mabeal1: posts small blind 10
+NitramAllin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Js]
+lateamframor: raises 30 to 50
+mabeal1: folds 
+NitramAllin: raises 321 to 371 and is all-in
+lateamframor: calls 321
+*** FLOP *** [4c 3c Td]
+*** TURN *** [4c 3c Td] [Ah]
+*** RIVER *** [4c 3c Td Ah] [Ac]
+*** SHOW DOWN ***
+NitramAllin: shows [Qc As] (three of a kind, Aces)
+lateamframor: shows [2c 2h] (two pair, Aces and Deuces)
+NitramAllin collected 752 from pot
+*** SUMMARY ***
+Total pot 752 | Rake 0 
+Board [4c 3c Td Ah Ac]
+Seat 1: NitramAllin (big blind) showed [Qc As] and won (752) with three of a kind, Aces
+Seat 2: lateamframor (button) showed [2c 2h] and lost with two pair, Aces and Deuces
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259550385455: Tournament #3971154104, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:13:52 CET [2026/02/01 12:13:52 ET]
+Table '3971154104 1' 3-max Seat #3 is the button
+Seat 1: NitramAllin (752 in chips) 
+Seat 2: lateamframor (79 in chips) 
+Seat 3: mabeal1 (669 in chips) 
+NitramAllin: posts small blind 10
+lateamframor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 9c]
+mabeal1: folds 
+NitramAllin: raises 60 to 80
+lateamframor: calls 59 and is all-in
+Uncalled bet (1) returned to NitramAllin
+*** FLOP *** [Kh Ah 7c]
+*** TURN *** [Kh Ah 7c] [2d]
+*** RIVER *** [Kh Ah 7c 2d] [5d]
+*** SHOW DOWN ***
+NitramAllin: shows [Ac Qh] (a pair of Aces)
+lateamframor: shows [8h Kc] (a pair of Kings)
+NitramAllin collected 158 from pot
+lateamframor finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 158 | Rake 0 
+Board [Kh Ah 7c 2d 5d]
+Seat 1: NitramAllin (small blind) showed [Ac Qh] and won (158) with a pair of Aces
+Seat 2: lateamframor (big blind) showed [8h Kc] and lost with a pair of Kings
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259550390641: Tournament #3971154104, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:14:12 CET [2026/02/01 12:14:12 ET]
+Table '3971154104 1' 3-max Seat #1 is the button
+Seat 1: NitramAllin (831 in chips) 
+Seat 3: mabeal1 (669 in chips) 
+NitramAllin: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9h]
+NitramAllin: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [3d 4s Ts]
+mabeal1: checks 
+NitramAllin: bets 26
+mabeal1: raises 99 to 125
+NitramAllin: calls 99
+*** TURN *** [3d 4s Ts] [Ac]
+mabeal1: checks 
+NitramAllin: bets 580
+mabeal1: calls 504 and is all-in
+Uncalled bet (76) returned to NitramAllin
+*** RIVER *** [3d 4s Ts Ac] [Jc]
+*** SHOW DOWN ***
+mabeal1: shows [Tc 9h] (a pair of Tens)
+NitramAllin: shows [8s 7s] (high card Ace)
+mabeal1 collected 1338 from pot
+*** SUMMARY ***
+Total pot 1338 | Rake 0 
+Board [3d 4s Ts Ac Jc]
+Seat 1: NitramAllin (button) (small blind) showed [8s 7s] and lost with high card Ace
+Seat 3: mabeal1 (big blind) showed [Tc 9h] and won (1338) with a pair of Tens
+
+
+
+PokerStars Hand #259550398181: Tournament #3971154104, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:14:41 CET [2026/02/01 12:14:41 ET]
+Table '3971154104 1' 3-max Seat #3 is the button
+Seat 1: NitramAllin (162 in chips) 
+Seat 3: mabeal1 (1338 in chips) 
+mabeal1: posts small blind 15
+NitramAllin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Ks]
+mabeal1: raises 1308 to 1338 and is all-in
+NitramAllin: calls 132 and is all-in
+Uncalled bet (1176) returned to mabeal1
+*** FLOP *** [7d 4c 6d]
+*** TURN *** [7d 4c 6d] [Kc]
+*** RIVER *** [7d 4c 6d Kc] [3s]
+*** SHOW DOWN ***
+NitramAllin: shows [Qc 7s] (a pair of Sevens)
+mabeal1: shows [5d Ks] (a straight, Three to Seven)
+mabeal1 collected 324 from pot
+NitramAllin finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 324 | Rake 0 
+Board [7d 4c 6d Kc 3s]
+Seat 1: NitramAllin (big blind) showed [Qc 7s] and lost with a pair of Sevens
+Seat 3: mabeal1 (button) (small blind) showed [5d Ks] and won (324) with a straight, Three to Seven
+
+
+

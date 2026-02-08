@@ -1,0 +1,167 @@
+﻿PokerStars Hand #259582047938:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/03 23:00:03 CET [2026/02/03 17:00:03 ET]
+Table 'Unitas VII' 6-max Seat #4 is the button
+Seat 5: pascaloug (€0.70 in chips) is sitting out
+Seat 1: mabeal1 (€2 in chips) 
+Seat 2: PRESTIDIG_93 (€2.28 in chips) 
+Seat 3: Apodo10 (€2 in chips) 
+Seat 4: fran442 (€5.41 in chips) 
+Seat 6: asvs33 (€7.15 in chips) 
+asvs33: posts small blind €0.01
+mabeal1: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 7c]
+PRESTIDIG_93: folds 
+Apodo10: raises €0.03 to €0.05
+fran442: folds 
+asvs33: folds 
+mabeal1: folds 
+Uncalled bet (€0.03) returned to Apodo10
+Apodo10 collected €0.05 from pot
+Apodo10: doesn't show hand 
+*** SUMMARY ***
+Total pot €0.05 | Rake €0 
+Seat 5: pascaloug
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: PRESTIDIG_93 folded before Flop (didn't bet)
+Seat 3: Apodo10 collected (€0.05)
+Seat 4: fran442 (button) folded before Flop (didn't bet)
+Seat 6: asvs33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259582051783:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/03 23:00:24 CET [2026/02/03 17:00:24 ET]
+Table 'Unitas VII' 6-max Seat #6 is the button
+Seat 5: pascaloug (€0.70 in chips) is sitting out
+Seat 1: mabeal1 (€2 in chips) 
+Seat 2: PRESTIDIG_93 (€2.28 in chips) 
+Seat 3: Apodo10 (€2.03 in chips) 
+Seat 4: fran442 (€5.41 in chips) 
+Seat 6: asvs33 (€7.14 in chips) 
+mabeal1: posts small blind €0.01
+PRESTIDIG_93: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 5s]
+Apodo10: folds 
+fran442: folds 
+asvs33: folds 
+mabeal1: folds 
+Uncalled bet (€0.01) returned to PRESTIDIG_93
+PRESTIDIG_93 collected €0.02 from pot
+*** SUMMARY ***
+Total pot €0.02 | Rake €0 
+Seat 5: pascaloug
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: PRESTIDIG_93 (big blind) collected (€0.02)
+Seat 3: Apodo10 folded before Flop (didn't bet)
+Seat 4: fran442 folded before Flop (didn't bet)
+Seat 6: asvs33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259582054829:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/03 23:00:40 CET [2026/02/03 17:00:40 ET]
+Table 'Unitas VII' 6-max Seat #1 is the button
+Seat 5: pascaloug (€0.70 in chips) is sitting out
+Seat 1: mabeal1 (€2 in chips) 
+Seat 2: PRESTIDIG_93 (€2.29 in chips) 
+Seat 3: Apodo10 (€2.03 in chips) 
+Seat 4: fran442 (€5.41 in chips) 
+Seat 6: asvs33 (€7.14 in chips) 
+PRESTIDIG_93: posts small blind €0.01
+Apodo10: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Kh]
+fran442: folds 
+asvs33: folds 
+asvs33 leaves the table
+mabeal1: folds 
+PRESTIDIG_93: raises €0.06 to €0.08
+Apodo10: folds 
+Uncalled bet (€0.06) returned to PRESTIDIG_93
+PRESTIDIG_93 collected €0.04 from pot
+*** SUMMARY ***
+Total pot €0.04 | Rake €0 
+Seat 5: pascaloug
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: PRESTIDIG_93 (small blind) collected (€0.04)
+Seat 3: Apodo10 (big blind) folded before Flop
+Seat 4: fran442 folded before Flop (didn't bet)
+Seat 6: asvs33 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259582064636:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/03 23:01:23 CET [2026/02/03 17:01:23 ET]
+Table 'Unitas VII' 6-max Seat #2 is the button
+Seat 5: pascaloug (€0.70 in chips) is sitting out
+Seat 1: mabeal1 (€2 in chips) 
+Seat 2: PRESTIDIG_93 (€2.31 in chips) 
+Seat 3: Apodo10 (€2.01 in chips) 
+Seat 4: fran442 (€5.41 in chips) 
+Apodo10: posts small blind €0.01
+fran442: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2s]
+Noobunaga joins the table at seat #6 
+mabeal1: folds 
+PRESTIDIG_93: raises €0.04 to €0.06
+Apodo10: folds 
+fran442: calls €0.04
+*** FLOP *** [6h As Td]
+fran442: checks 
+PRESTIDIG_93: bets €0.06
+fran442: folds 
+Uncalled bet (€0.06) returned to PRESTIDIG_93
+PRESTIDIG_93 collected €0.12 from pot
+*** SUMMARY ***
+Total pot €0.13 | Rake €0.01 
+Board [6h As Td]
+Seat 5: pascaloug
+Seat 1: mabeal1 folded before Flop (didn't bet)
+Seat 2: PRESTIDIG_93 (button) collected (€0.12)
+Seat 3: Apodo10 (small blind) folded before Flop
+Seat 4: fran442 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259582075903:  Hold'em No Limit (€0.01/€0.02 EUR) - 2026/02/03 23:02:00 CET [2026/02/03 17:02:00 ET]
+Table 'Unitas VII' 6-max Seat #3 is the button
+Seat 5: pascaloug (€0.70 in chips) is sitting out
+Seat 1: mabeal1 (€2 in chips) 
+Seat 2: PRESTIDIG_93 (€2.37 in chips) 
+Seat 3: Apodo10 (€2 in chips) 
+Seat 4: fran442 (€5.35 in chips) 
+Seat 6: Noobunaga (€2 in chips) 
+fran442: posts small blind €0.01
+Noobunaga: posts big blind €0.02
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 7d]
+mabeal1: folds 
+PRESTIDIG_93: calls €0.02
+Apodo10 has timed out
+Apodo10: folds 
+fran442: folds 
+Noobunaga: checks 
+*** FLOP *** [2h Th Ad]
+Noobunaga: checks 
+PRESTIDIG_93: checks 
+*** TURN *** [2h Th Ad] [8s]
+Noobunaga: bets €0.03
+PRESTIDIG_93: calls €0.03
+*** RIVER *** [2h Th Ad 8s] [Jd]
+Noobunaga: checks 
+PRESTIDIG_93: checks 
+*** SHOW DOWN ***
+Noobunaga: shows [Jh 6h] (a pair of Jacks)
+PRESTIDIG_93: mucks hand 
+Noobunaga collected €0.10 from pot
+*** SUMMARY ***
+Total pot €0.11 | Rake €0.01 
+Board [2h Th Ad 8s Jd]
+Seat 5: pascaloug
+Seat 1: mabeal1 folded before Flop (didn't bet)
+Seat 2: PRESTIDIG_93 mucked [7s 8h]
+Seat 3: Apodo10 (button) folded before Flop (didn't bet)
+Seat 4: fran442 (small blind) folded before Flop
+Seat 6: Noobunaga (big blind) showed [Jh 6h] and won (€0.10) with a pair of Jacks
+
+
+

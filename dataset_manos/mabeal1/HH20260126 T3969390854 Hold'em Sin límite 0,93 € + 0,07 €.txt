@@ -1,0 +1,300 @@
+﻿PokerStars Hand #259474006645: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:33:30 CET [2026/01/26 15:33:30 ET]
+Table '3969390854 1' 3-max Seat #1 is the button
+Seat 1: steevo886 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: ssobez (500 in chips) 
+mabeal1: posts small blind 10
+ssobez: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 4h]
+steevo886: raises 40 to 60
+mabeal1: folds 
+ssobez: folds 
+Uncalled bet (40) returned to steevo886
+steevo886 collected 50 from pot
+steevo886: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: steevo886 (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ssobez (big blind) folded before Flop
+
+
+
+PokerStars Hand #259474009597: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:33:41 CET [2026/01/26 15:33:41 ET]
+Table '3969390854 1' 3-max Seat #2 is the button
+Seat 1: steevo886 (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: ssobez (480 in chips) 
+ssobez: posts small blind 10
+steevo886: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ts]
+mabeal1: raises 20 to 40
+ssobez: calls 30
+steevo886: calls 20
+*** FLOP *** [7d Jd 5h]
+ssobez: checks 
+steevo886: checks 
+mabeal1: bets 40
+ssobez: folds 
+steevo886: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d Jd 5h]
+Seat 1: steevo886 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (120)
+Seat 3: ssobez (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259474013769: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:33:56 CET [2026/01/26 15:33:56 ET]
+Table '3969390854 1' 3-max Seat #3 is the button
+Seat 1: steevo886 (490 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: ssobez (440 in chips) 
+steevo886: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 2d]
+ssobez: raises 40 to 60
+steevo886: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to ssobez
+ssobez collected 50 from pot
+ssobez: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: steevo886 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: ssobez (button) collected (50)
+
+
+
+PokerStars Hand #259474017258: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:34:09 CET [2026/01/26 15:34:09 ET]
+Table '3969390854 1' 3-max Seat #1 is the button
+Seat 1: steevo886 (480 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: ssobez (470 in chips) 
+mabeal1: posts small blind 10
+ssobez: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s As]
+steevo886: folds 
+mabeal1: raises 20 to 40
+ssobez: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: steevo886 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: ssobez (big blind) folded before Flop
+
+
+
+PokerStars Hand #259474021615: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:34:25 CET [2026/01/26 15:34:25 ET]
+Table '3969390854 1' 3-max Seat #2 is the button
+Seat 1: steevo886 (480 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: ssobez (450 in chips) 
+ssobez: posts small blind 10
+steevo886: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 3h]
+mabeal1: folds 
+ssobez: raises 20 to 40
+steevo886: calls 20
+*** FLOP *** [Js 9d 5d]
+ssobez: bets 80
+steevo886: raises 80 to 160
+ssobez: raises 250 to 410 and is all-in
+steevo886: calls 250
+*** TURN *** [Js 9d 5d] [Kh]
+*** RIVER *** [Js 9d 5d Kh] [4s]
+*** SHOW DOWN ***
+ssobez: shows [Jh Th] (a pair of Jacks)
+steevo886: shows [9c Jc] (two pair, Jacks and Nines)
+steevo886 collected 900 from pot
+ssobez finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Js 9d 5d Kh 4s]
+Seat 1: steevo886 (big blind) showed [9c Jc] and won (900) with two pair, Jacks and Nines
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ssobez (small blind) showed [Jh Th] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259474029412: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:34:54 CET [2026/01/26 15:34:54 ET]
+Table '3969390854 1' 3-max Seat #1 is the button
+Seat 1: steevo886 (930 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+steevo886: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qc]
+steevo886: calls 10
+mabeal1: checks 
+*** FLOP *** [6c 8c 5c]
+mabeal1: checks 
+steevo886: bets 20
+mabeal1: calls 20
+*** TURN *** [6c 8c 5c] [2d]
+mabeal1: checks 
+steevo886: bets 20
+mabeal1: raises 80 to 100
+steevo886: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6c 8c 5c 2d]
+Seat 1: steevo886 (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259474036034: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:35:19 CET [2026/01/26 15:35:19 ET]
+Table '3969390854 1' 3-max Seat #2 is the button
+Seat 1: steevo886 (870 in chips) 
+Seat 2: mabeal1 (630 in chips) 
+mabeal1: posts small blind 10
+steevo886: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 3s]
+mabeal1: calls 10
+steevo886: checks 
+*** FLOP *** [As Kc Ah]
+steevo886: checks 
+mabeal1: bets 20
+steevo886: calls 20
+*** TURN *** [As Kc Ah] [Tc]
+steevo886: checks 
+mabeal1: checks 
+*** RIVER *** [As Kc Ah Tc] [Ad]
+steevo886: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+steevo886: shows [4h Th] (a full house, Aces full of Tens)
+mabeal1: shows [Td 3s] (a full house, Aces full of Tens)
+steevo886 collected 100 from pot
+mabeal1 collected 100 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [As Kc Ah Tc Ad]
+Seat 1: steevo886 (big blind) showed [4h Th] and won (100) with a full house, Aces full of Tens
+Seat 2: mabeal1 (button) (small blind) showed [Td 3s] and won (100) with a full house, Aces full of Tens
+
+
+
+PokerStars Hand #259474042506: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:35:43 CET [2026/01/26 15:35:43 ET]
+Table '3969390854 1' 3-max Seat #1 is the button
+Seat 1: steevo886 (870 in chips) 
+Seat 2: mabeal1 (630 in chips) 
+steevo886: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Qh]
+steevo886: calls 15
+mabeal1: checks 
+*** FLOP *** [7h 3s 8h]
+mabeal1: checks 
+steevo886: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to steevo886
+steevo886 collected 60 from pot
+steevo886: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h 3s 8h]
+Seat 1: steevo886 (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259474047647: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:36:01 CET [2026/01/26 15:36:01 ET]
+Table '3969390854 1' 3-max Seat #2 is the button
+Seat 1: steevo886 (900 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+mabeal1: posts small blind 15
+steevo886: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3h]
+mabeal1: calls 15
+steevo886: checks 
+*** FLOP *** [7d 2s 2h]
+steevo886: checks 
+mabeal1: bets 30
+steevo886: calls 30
+*** TURN *** [7d 2s 2h] [4s]
+steevo886: checks 
+mabeal1: bets 90
+steevo886: calls 90
+*** RIVER *** [7d 2s 2h 4s] [Ac]
+steevo886: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+steevo886: shows [4h 9h] (two pair, Fours and Deuces)
+mabeal1: shows [7h 3h] (two pair, Sevens and Deuces)
+mabeal1 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7d 2s 2h 4s Ac]
+Seat 1: steevo886 (big blind) showed [4h 9h] and lost with two pair, Fours and Deuces
+Seat 2: mabeal1 (button) (small blind) showed [7h 3h] and won (300) with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #259474054789: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:36:28 CET [2026/01/26 15:36:28 ET]
+Table '3969390854 1' 3-max Seat #1 is the button
+Seat 1: steevo886 (750 in chips) 
+Seat 2: mabeal1 (750 in chips) 
+steevo886: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 6c]
+steevo886: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: steevo886 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259474056663: Tournament #3969390854, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:36:34 CET [2026/01/26 15:36:34 ET]
+Table '3969390854 1' 3-max Seat #2 is the button
+Seat 1: steevo886 (735 in chips) 
+Seat 2: mabeal1 (765 in chips) 
+mabeal1: posts small blind 15
+steevo886: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 5d]
+mabeal1: raises 735 to 765 and is all-in
+steevo886: calls 705 and is all-in
+Uncalled bet (30) returned to mabeal1
+*** FLOP *** [4c 6s Qh]
+*** TURN *** [4c 6s Qh] [Qc]
+*** RIVER *** [4c 6s Qh Qc] [Ac]
+*** SHOW DOWN ***
+steevo886: shows [Ts 9s] (a pair of Queens)
+mabeal1: shows [5c 5d] (two pair, Queens and Fives)
+mabeal1 collected 1470 from pot
+steevo886 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1470 | Rake 0 
+Board [4c 6s Qh Qc Ac]
+Seat 1: steevo886 (big blind) showed [Ts 9s] and lost with a pair of Queens
+Seat 2: mabeal1 (button) (small blind) showed [5c 5d] and won (1470) with two pair, Queens and Fives
+
+
+

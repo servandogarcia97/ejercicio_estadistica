@@ -1,0 +1,615 @@
+﻿PokerStars Hand #259595892025: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 1:03:18 CET [2026/02/04 19:03:18 ET]
+Table '3972164025 1' 3-max Seat #1 is the button
+Seat 1: satttob (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: eltitop (500 in chips) 
+mabeal1: posts small blind 10
+eltitop: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7h]
+satttob: folds 
+mabeal1: raises 30 to 50
+eltitop: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: satttob (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: eltitop (big blind) folded before Flop
+
+
+
+PokerStars Hand #259595896528: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 1:03:41 CET [2026/02/04 19:03:41 ET]
+Table '3972164025 1' 3-max Seat #2 is the button
+Seat 1: satttob (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: eltitop (480 in chips) 
+eltitop: posts small blind 10
+satttob: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 8s]
+mabeal1: raises 20 to 40
+eltitop: calls 30
+satttob: calls 20
+*** FLOP *** [Ks 9s 7h]
+eltitop: checks 
+satttob: checks 
+mabeal1: checks 
+*** TURN *** [Ks 9s 7h] [3d]
+eltitop: checks 
+satttob: bets 20
+mabeal1: calls 20
+eltitop: folds 
+*** RIVER *** [Ks 9s 7h 3d] [Ts]
+satttob: checks 
+mabeal1: bets 160
+satttob: folds 
+Uncalled bet (160) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ks 9s 7h 3d Ts]
+Seat 1: satttob (big blind) folded on the River
+Seat 2: mabeal1 (button) collected (160)
+Seat 3: eltitop (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259595904396: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 1:04:22 CET [2026/02/04 19:04:22 ET]
+Table '3972164025 1' 3-max Seat #3 is the button
+Seat 1: satttob (440 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: eltitop (440 in chips) 
+satttob: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Kc]
+eltitop: folds 
+satttob: calls 10
+mabeal1: checks 
+*** FLOP *** [7c 9d Ah]
+satttob: checks 
+mabeal1: checks 
+*** TURN *** [7c 9d Ah] [5s]
+satttob: checks 
+mabeal1: checks 
+*** RIVER *** [7c 9d Ah 5s] [Js]
+satttob: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+satttob: shows [4s Qh] (high card Ace)
+mabeal1: shows [2d Kc] (high card Ace - King kicker)
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7c 9d Ah 5s Js]
+Seat 1: satttob (small blind) showed [4s Qh] and lost with high card Ace
+Seat 2: mabeal1 (big blind) showed [2d Kc] and won (40) with high card Ace
+Seat 3: eltitop (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259595909546: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 1:04:49 CET [2026/02/04 19:04:49 ET]
+Table '3972164025 1' 3-max Seat #1 is the button
+Seat 1: satttob (420 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: eltitop (440 in chips) 
+mabeal1: posts small blind 10
+eltitop: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 6s]
+satttob: calls 20
+mabeal1: calls 10
+eltitop: checks 
+*** FLOP *** [3c Ad 4d]
+mabeal1: checks 
+eltitop: checks 
+satttob: checks 
+*** TURN *** [3c Ad 4d] [4s]
+mabeal1: checks 
+eltitop: checks 
+satttob: checks 
+*** RIVER *** [3c Ad 4d 4s] [9h]
+mabeal1: checks 
+eltitop: checks 
+satttob: bets 20
+mabeal1: folds 
+eltitop: folds 
+Uncalled bet (20) returned to satttob
+satttob collected 60 from pot
+satttob: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c Ad 4d 4s 9h]
+Seat 1: satttob (button) collected (60)
+Seat 2: mabeal1 (small blind) folded on the River
+Seat 3: eltitop (big blind) folded on the River
+
+
+
+PokerStars Hand #259595917000: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 1:05:28 CET [2026/02/04 19:05:28 ET]
+Table '3972164025 1' 3-max Seat #2 is the button
+Seat 1: satttob (460 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: eltitop (420 in chips) 
+eltitop: posts small blind 10
+satttob: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 9c]
+mabeal1: raises 20 to 40
+eltitop: calls 30
+satttob: calls 20
+*** FLOP *** [7c 3c Th]
+eltitop: checks 
+satttob: bets 120
+mabeal1: folds 
+eltitop: folds 
+Uncalled bet (120) returned to satttob
+satttob collected 120 from pot
+satttob: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c 3c Th]
+Seat 1: satttob (big blind) collected (120)
+Seat 2: mabeal1 (button) folded on the Flop
+Seat 3: eltitop (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259595921862: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 1:05:53 CET [2026/02/04 19:05:53 ET]
+Table '3972164025 1' 3-max Seat #3 is the button
+Seat 1: satttob (540 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: eltitop (380 in chips) 
+satttob: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Jc]
+eltitop: calls 20
+satttob: calls 10
+mabeal1: checks 
+*** FLOP *** [8d 2d 6h]
+satttob: checks 
+mabeal1: checks 
+eltitop: checks 
+*** TURN *** [8d 2d 6h] [As]
+satttob: checks 
+mabeal1: bets 40
+eltitop: folds 
+satttob: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8d 2d 6h As]
+Seat 1: satttob (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: eltitop (button) folded on the Turn
+
+
+
+PokerStars Hand #259595928145: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 1:06:26 CET [2026/02/04 19:06:26 ET]
+Table '3972164025 1' 3-max Seat #1 is the button
+Seat 1: satttob (520 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: eltitop (360 in chips) 
+mabeal1: posts small blind 15
+eltitop: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Ad]
+satttob: raises 30 to 60
+mabeal1: calls 45
+eltitop: calls 30
+*** FLOP *** [3c 6h Qd]
+mabeal1: checks 
+eltitop: checks 
+satttob: bets 90
+mabeal1: calls 90
+eltitop: folds 
+*** TURN *** [3c 6h Qd] [Jc]
+mabeal1: checks 
+satttob: checks 
+*** RIVER *** [3c 6h Qd Jc] [6d]
+mabeal1: checks 
+satttob: checks 
+*** SHOW DOWN ***
+mabeal1: shows [3d Ad] (two pair, Sixes and Threes)
+satttob: shows [8h 8d] (two pair, Eights and Sixes)
+satttob collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [3c 6h Qd Jc 6d]
+Seat 1: satttob (button) showed [8h 8d] and won (360) with two pair, Eights and Sixes
+Seat 2: mabeal1 (small blind) showed [3d Ad] and lost with two pair, Sixes and Threes
+Seat 3: eltitop (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259595935816: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 1:07:06 CET [2026/02/04 19:07:06 ET]
+Table '3972164025 1' 3-max Seat #2 is the button
+Seat 1: satttob (730 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: eltitop (300 in chips) 
+eltitop: posts small blind 15
+satttob: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 6d]
+mabeal1: folds 
+eltitop: calls 15
+satttob: checks 
+*** FLOP *** [Th Jd Kc]
+eltitop: checks 
+satttob: checks 
+*** TURN *** [Th Jd Kc] [6c]
+eltitop: checks 
+satttob: checks 
+*** RIVER *** [Th Jd Kc 6c] [6h]
+eltitop: checks 
+satttob: checks 
+*** SHOW DOWN ***
+eltitop: shows [7c 2h] (a pair of Sixes)
+satttob: shows [3h 2c] (a pair of Sixes)
+eltitop collected 30 from pot
+satttob collected 30 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Th Jd Kc 6c 6h]
+Seat 1: satttob (big blind) showed [3h 2c] and won (30) with a pair of Sixes
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: eltitop (small blind) showed [7c 2h] and won (30) with a pair of Sixes
+
+
+
+PokerStars Hand #259595941440: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 1:07:36 CET [2026/02/04 19:07:36 ET]
+Table '3972164025 1' 3-max Seat #3 is the button
+Seat 1: satttob (730 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: eltitop (300 in chips) 
+satttob: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 7d]
+eltitop: calls 30
+satttob: calls 15
+mabeal1: checks 
+*** FLOP *** [Kh Jh 2c]
+satttob: checks 
+mabeal1: checks 
+eltitop: checks 
+*** TURN *** [Kh Jh 2c] [6s]
+satttob: bets 30
+mabeal1: folds 
+eltitop: folds 
+Uncalled bet (30) returned to satttob
+satttob collected 90 from pot
+satttob: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Kh Jh 2c 6s]
+Seat 1: satttob (small blind) collected (90)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: eltitop (button) folded on the Turn
+
+
+
+PokerStars Hand #259595947329: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 1:08:08 CET [2026/02/04 19:08:08 ET]
+Table '3972164025 1' 3-max Seat #1 is the button
+Seat 1: satttob (790 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: eltitop (270 in chips) 
+mabeal1: posts small blind 15
+eltitop: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ks]
+satttob: calls 30
+mabeal1: calls 15
+eltitop: checks 
+*** FLOP *** [3c Tc Kh]
+mabeal1: checks 
+eltitop: checks 
+satttob: checks 
+*** TURN *** [3c Tc Kh] [Kd]
+mabeal1: bets 30
+eltitop: folds 
+satttob: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3c Tc Kh Kd]
+Seat 1: satttob (button) folded on the Turn
+Seat 2: mabeal1 (small blind) collected (90)
+Seat 3: eltitop (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259595955672: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 1:08:52 CET [2026/02/04 19:08:52 ET]
+Table '3972164025 1' 3-max Seat #2 is the button
+Seat 1: satttob (760 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: eltitop (240 in chips) 
+eltitop: posts small blind 15
+satttob: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 5s]
+mabeal1: folds 
+eltitop: calls 15
+satttob: checks 
+*** FLOP *** [Qs 6c 4d]
+eltitop: checks 
+satttob: checks 
+*** TURN *** [Qs 6c 4d] [8s]
+eltitop: bets 60
+satttob: folds 
+Uncalled bet (60) returned to eltitop
+eltitop collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 6c 4d 8s]
+Seat 1: satttob (big blind) folded on the Turn
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: eltitop (small blind) collected (60)
+
+
+
+PokerStars Hand #259595961492: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 1:09:23 CET [2026/02/04 19:09:23 ET]
+Table '3972164025 1' 3-max Seat #3 is the button
+Seat 1: satttob (730 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: eltitop (270 in chips) 
+satttob: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8s]
+eltitop: folds 
+satttob: calls 20
+mabeal1: checks 
+*** FLOP *** [Kc Ac 7s]
+satttob: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to satttob
+satttob collected 80 from pot
+satttob: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc Ac 7s]
+Seat 1: satttob (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: eltitop (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259595966220: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 1:09:48 CET [2026/02/04 19:09:48 ET]
+Table '3972164025 1' 3-max Seat #1 is the button
+Seat 1: satttob (770 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: eltitop (270 in chips) 
+mabeal1: posts small blind 20
+eltitop: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9h]
+satttob: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to eltitop
+eltitop collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: satttob (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: eltitop (big blind) collected (40)
+
+
+
+PokerStars Hand #259595969550: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 1:10:06 CET [2026/02/04 19:10:06 ET]
+Table '3972164025 1' 3-max Seat #2 is the button
+Seat 1: satttob (770 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: eltitop (290 in chips) 
+eltitop: posts small blind 20
+satttob: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 9s]
+mabeal1: raises 40 to 80
+eltitop: calls 60
+satttob: raises 690 to 770 and is all-in
+mabeal1: folds 
+eltitop: calls 210 and is all-in
+Uncalled bet (480) returned to satttob
+*** FLOP *** [8d Kd 5c]
+*** TURN *** [8d Kd 5c] [6s]
+*** RIVER *** [8d Kd 5c 6s] [3c]
+*** SHOW DOWN ***
+eltitop: shows [Qd 8c] (a pair of Eights)
+satttob: shows [Ac Jd] (high card Ace)
+eltitop collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [8d Kd 5c 6s 3c]
+Seat 1: satttob (big blind) showed [Ac Jd] and lost with high card Ace
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: eltitop (small blind) showed [Qd 8c] and won (660) with a pair of Eights
+
+
+
+PokerStars Hand #259595975246: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 1:10:36 CET [2026/02/04 19:10:36 ET]
+Table '3972164025 1' 3-max Seat #3 is the button
+Seat 1: satttob (480 in chips) 
+Seat 2: mabeal1 (360 in chips) 
+Seat 3: eltitop (660 in chips) 
+satttob: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 9d]
+eltitop: calls 40
+satttob: calls 20
+mabeal1: raises 320 to 360 and is all-in
+eltitop: folds 
+satttob: calls 320
+*** FLOP *** [9h Jc Ah]
+*** TURN *** [9h Jc Ah] [6c]
+*** RIVER *** [9h Jc Ah 6c] [2s]
+*** SHOW DOWN ***
+satttob: shows [Qc Ts] (high card Ace)
+mabeal1: shows [9c 9d] (three of a kind, Nines)
+mabeal1 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [9h Jc Ah 6c 2s]
+Seat 1: satttob (small blind) showed [Qc Ts] and lost with high card Ace
+Seat 2: mabeal1 (big blind) showed [9c 9d] and won (760) with three of a kind, Nines
+Seat 3: eltitop (button) folded before Flop
+
+
+
+PokerStars Hand #259595979799: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 1:11:01 CET [2026/02/04 19:11:01 ET]
+Table '3972164025 1' 3-max Seat #1 is the button
+Seat 1: satttob (120 in chips) 
+Seat 2: mabeal1 (760 in chips) 
+Seat 3: eltitop (620 in chips) 
+mabeal1: posts small blind 20
+eltitop: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 9c]
+satttob: raises 40 to 80
+mabeal1: folds 
+eltitop: calls 40
+*** FLOP *** [Kh 6s 8s]
+eltitop: checks 
+satttob: bets 40 and is all-in
+eltitop: calls 40
+*** TURN *** [Kh 6s 8s] [7h]
+*** RIVER *** [Kh 6s 8s 7h] [4d]
+*** SHOW DOWN ***
+eltitop: shows [Ts 8h] (a pair of Eights)
+satttob: shows [Td Th] (a pair of Tens)
+satttob collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Kh 6s 8s 7h 4d]
+Seat 1: satttob (button) showed [Td Th] and won (260) with a pair of Tens
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: eltitop (big blind) showed [Ts 8h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259595986156: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 1:11:36 CET [2026/02/04 19:11:36 ET]
+Table '3972164025 1' 3-max Seat #2 is the button
+Seat 1: satttob (260 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: eltitop (500 in chips) 
+eltitop: posts small blind 20
+satttob: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d As]
+mabeal1: raises 700 to 740 and is all-in
+eltitop: folds 
+satttob: folds 
+Uncalled bet (700) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: satttob (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (100)
+Seat 3: eltitop (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595988556: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 1:11:49 CET [2026/02/04 19:11:49 ET]
+Table '3972164025 1' 3-max Seat #3 is the button
+Seat 1: satttob (220 in chips) 
+Seat 2: mabeal1 (800 in chips) 
+Seat 3: eltitop (480 in chips) 
+satttob: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Kc]
+eltitop: calls 40
+satttob: raises 180 to 220 and is all-in
+mabeal1: raises 580 to 800 and is all-in
+eltitop: folds 
+Uncalled bet (580) returned to mabeal1
+*** FLOP *** [6d Td 3d]
+*** TURN *** [6d Td 3d] [Kd]
+*** RIVER *** [6d Td 3d Kd] [7s]
+*** SHOW DOWN ***
+satttob: shows [3h Ah] (a pair of Threes)
+mabeal1: shows [Qs Kc] (a pair of Kings)
+mabeal1 collected 480 from pot
+satttob finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [6d Td 3d Kd 7s]
+Seat 1: satttob (small blind) showed [3h Ah] and lost with a pair of Threes
+Seat 2: mabeal1 (big blind) showed [Qs Kc] and won (480) with a pair of Kings
+Seat 3: eltitop (button) folded before Flop
+
+
+
+PokerStars Hand #259595993208: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 1:12:14 CET [2026/02/04 19:12:14 ET]
+Table '3972164025 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1060 in chips) 
+Seat 3: eltitop (440 in chips) 
+mabeal1: posts small blind 20
+eltitop: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Kh]
+mabeal1: raises 80 to 120
+eltitop: calls 80
+*** FLOP *** [Ad 9h Jh]
+eltitop: checks 
+mabeal1: checks 
+*** TURN *** [Ad 9h Jh] [Js]
+eltitop: checks 
+mabeal1: bets 80
+eltitop: calls 80
+*** RIVER *** [Ad 9h Jh Js] [As]
+eltitop: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+eltitop: shows [Kd Qs] (two pair, Aces and Jacks)
+mabeal1: shows [Th Kh] (two pair, Aces and Jacks)
+eltitop collected 200 from pot
+mabeal1 collected 200 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Ad 9h Jh Js As]
+Seat 2: mabeal1 (button) (small blind) showed [Th Kh] and won (200) with two pair, Aces and Jacks
+Seat 3: eltitop (big blind) showed [Kd Qs] and won (200) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #259596001630: Tournament #3972164025, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 1:13:00 CET [2026/02/04 19:13:00 ET]
+Table '3972164025 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1060 in chips) 
+Seat 3: eltitop (440 in chips) 
+eltitop: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Kc]
+eltitop: calls 30
+mabeal1: raises 1000 to 1060 and is all-in
+eltitop: calls 380 and is all-in
+Uncalled bet (620) returned to mabeal1
+*** FLOP *** [5h 2d Ah]
+*** TURN *** [5h 2d Ah] [Ac]
+*** RIVER *** [5h 2d Ah Ac] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [Js Kc] (a pair of Aces)
+eltitop: shows [9h Kd] (a pair of Aces - lower kicker)
+mabeal1 collected 880 from pot
+eltitop finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [5h 2d Ah Ac 4c]
+Seat 2: mabeal1 (big blind) showed [Js Kc] and won (880) with a pair of Aces
+Seat 3: eltitop (button) (small blind) showed [9h Kd] and lost with a pair of Aces
+
+
+

@@ -1,0 +1,668 @@
+﻿PokerStars Hand #259550183605: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:59:58 CET [2026/02/01 11:59:58 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: rodrigova110 (500 in chips) 
+Seat 3: herrera18935 (500 in chips) 
+rodrigova110: posts small blind 10
+herrera18935: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4c]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+mabeal1 has returned
+rodrigova110: raises 20 to 40
+herrera18935: calls 20
+*** FLOP *** [9h Qh 4s]
+rodrigova110: bets 80
+herrera18935: folds 
+Uncalled bet (80) returned to rodrigova110
+rodrigova110 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Qh 4s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: rodrigova110 (small blind) collected (80)
+Seat 3: herrera18935 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259550187670: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:00:22 CET [2026/02/01 12:00:22 ET]
+Table '3971150604 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: rodrigova110 (540 in chips) 
+Seat 3: herrera18935 (460 in chips) 
+herrera18935: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8c]
+rodrigova110: calls 20
+herrera18935: raises 40 to 60
+mabeal1: folds 
+rodrigova110: folds 
+Uncalled bet (40) returned to herrera18935
+herrera18935 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: rodrigova110 (button) folded before Flop
+Seat 3: herrera18935 (small blind) collected (60)
+
+
+
+PokerStars Hand #259550189355: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:00:33 CET [2026/02/01 12:00:33 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: rodrigova110 (520 in chips) 
+Seat 3: herrera18935 (500 in chips) 
+mabeal1: posts small blind 10
+rodrigova110: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ad]
+herrera18935: raises 40 to 60
+mabeal1: calls 50
+rodrigova110: calls 40
+*** FLOP *** [Td Qs Jh]
+mabeal1: checks 
+rodrigova110: checks 
+herrera18935: checks 
+*** TURN *** [Td Qs Jh] [4c]
+mabeal1: checks 
+rodrigova110: checks 
+herrera18935: checks 
+*** RIVER *** [Td Qs Jh 4c] [Qd]
+mabeal1: checks 
+rodrigova110: checks 
+herrera18935: checks 
+*** SHOW DOWN ***
+mabeal1: shows [4d Ad] (two pair, Queens and Fours)
+rodrigova110: mucks hand 
+herrera18935: mucks hand 
+mabeal1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Td Qs Jh 4c Qd]
+Seat 1: mabeal1 (small blind) showed [4d Ad] and won (180) with two pair, Queens and Fours
+Seat 2: rodrigova110 (big blind) mucked [Ah 6s]
+Seat 3: herrera18935 (button) mucked [As 3s]
+
+
+
+PokerStars Hand #259550195070: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:01:04 CET [2026/02/01 12:01:04 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: rodrigova110 (460 in chips) 
+Seat 3: herrera18935 (440 in chips) 
+rodrigova110: posts small blind 10
+herrera18935: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Qs]
+mabeal1: raises 20 to 40
+rodrigova110: calls 30
+herrera18935: calls 20
+*** FLOP *** [Tc Js 7h]
+rodrigova110: bets 60
+herrera18935: calls 60
+mabeal1: calls 60
+*** TURN *** [Tc Js 7h] [9c]
+rodrigova110: bets 150
+herrera18935: raises 190 to 340 and is all-in
+mabeal1: folds 
+rodrigova110: folds 
+Uncalled bet (190) returned to herrera18935
+herrera18935 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Tc Js 7h 9c]
+Seat 1: mabeal1 (button) folded on the Turn
+Seat 2: rodrigova110 (small blind) folded on the Turn
+Seat 3: herrera18935 (big blind) collected (600)
+
+
+
+PokerStars Hand #259550203506: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:01:45 CET [2026/02/01 12:01:45 ET]
+Table '3971150604 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: rodrigova110 (210 in chips) 
+Seat 3: herrera18935 (790 in chips) 
+herrera18935: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kc]
+rodrigova110: raises 50 to 70
+herrera18935: raises 720 to 790 and is all-in
+mabeal1: calls 480 and is all-in
+rodrigova110: calls 140 and is all-in
+Uncalled bet (290) returned to herrera18935
+*** FLOP *** [Ac 7c Jh]
+*** TURN *** [Ac 7c Jh] [7s]
+*** RIVER *** [Ac 7c Jh 7s] [5c]
+*** SHOW DOWN ***
+herrera18935: shows [Jc Kh] (two pair, Jacks and Sevens)
+mabeal1: shows [Ks Kc] (two pair, Kings and Sevens)
+mabeal1 collected 580 from side pot
+rodrigova110: shows [9s 9c] (two pair, Nines and Sevens)
+mabeal1 collected 630 from main pot
+rodrigova110 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1210 Main pot 630. Side pot 580. | Rake 0 
+Board [Ac 7c Jh 7s 5c]
+Seat 1: mabeal1 (big blind) showed [Ks Kc] and won (1210) with two pair, Kings and Sevens
+Seat 2: rodrigova110 (button) showed [9s 9c] and lost with two pair, Nines and Sevens
+Seat 3: herrera18935 (small blind) showed [Jc Kh] and lost with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #259550207736: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:02:04 CET [2026/02/01 12:02:04 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1210 in chips) 
+Seat 3: herrera18935 (290 in chips) 
+mabeal1: posts small blind 15
+herrera18935: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6d]
+mabeal1: calls 15
+herrera18935: checks 
+*** FLOP *** [Td 9h 3h]
+herrera18935: checks 
+mabeal1: bets 30
+herrera18935: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Td 9h 3h]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: herrera18935 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259550210401: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:02:16 CET [2026/02/01 12:02:16 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1240 in chips) 
+Seat 3: herrera18935 (260 in chips) 
+herrera18935: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jd]
+herrera18935: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: herrera18935 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259550211455: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:02:20 CET [2026/02/01 12:02:20 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1255 in chips) 
+Seat 3: herrera18935 (245 in chips) 
+mabeal1: posts small blind 15
+herrera18935: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ks]
+mabeal1: calls 15
+herrera18935: checks 
+*** FLOP *** [2h Ah Jd]
+herrera18935: checks 
+mabeal1: checks 
+*** TURN *** [2h Ah Jd] [7h]
+herrera18935: bets 30
+mabeal1: calls 30
+*** RIVER *** [2h Ah Jd 7h] [4s]
+herrera18935: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to herrera18935
+herrera18935 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h Ah Jd 7h 4s]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 3: herrera18935 (big blind) collected (120)
+
+
+
+PokerStars Hand #259550215312: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:02:37 CET [2026/02/01 12:02:37 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1195 in chips) 
+Seat 3: herrera18935 (305 in chips) 
+herrera18935: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Tc]
+herrera18935: raises 275 to 305 and is all-in
+mabeal1: folds 
+Uncalled bet (275) returned to herrera18935
+herrera18935 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: herrera18935 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259550216715: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:02:43 CET [2026/02/01 12:02:43 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1165 in chips) 
+Seat 3: herrera18935 (335 in chips) 
+mabeal1: posts small blind 15
+herrera18935: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 5h]
+mabeal1: calls 15
+herrera18935: checks 
+*** FLOP *** [Js 3s 9h]
+herrera18935: checks 
+mabeal1: bets 30
+herrera18935: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 3s 9h]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: herrera18935 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259550218674: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:02:53 CET [2026/02/01 12:02:53 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1195 in chips) 
+Seat 3: herrera18935 (305 in chips) 
+herrera18935: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6d]
+herrera18935: raises 275 to 305 and is all-in
+mabeal1: folds 
+Uncalled bet (275) returned to herrera18935
+herrera18935 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: herrera18935 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259550220004: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:02:59 CET [2026/02/01 12:02:59 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1165 in chips) 
+Seat 3: herrera18935 (335 in chips) 
+mabeal1: posts small blind 15
+herrera18935: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Qd]
+mabeal1: raises 30 to 60
+herrera18935: calls 30
+*** FLOP *** [Kh 7c 2s]
+herrera18935: checks 
+mabeal1: bets 60
+herrera18935: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kh 7c 2s]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: herrera18935 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259550222861: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:03:10 CET [2026/02/01 12:03:10 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1225 in chips) 
+Seat 3: herrera18935 (275 in chips) 
+herrera18935: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Jd]
+herrera18935: calls 15
+mabeal1: raises 1195 to 1225 and is all-in
+herrera18935: folds 
+Uncalled bet (1195) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: herrera18935 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259550224834: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:03:19 CET [2026/02/01 12:03:19 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1255 in chips) 
+Seat 3: herrera18935 (245 in chips) 
+mabeal1: posts small blind 15
+herrera18935: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 2d]
+mabeal1: calls 15
+herrera18935: checks 
+*** FLOP *** [Qc 2s Ac]
+herrera18935: bets 215 and is all-in
+mabeal1: calls 215
+*** TURN *** [Qc 2s Ac] [5s]
+*** RIVER *** [Qc 2s Ac 5s] [Jd]
+*** SHOW DOWN ***
+herrera18935: shows [Qh 3c] (a pair of Queens)
+mabeal1: shows [6d 2d] (a pair of Deuces)
+herrera18935 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [Qc 2s Ac 5s Jd]
+Seat 1: mabeal1 (button) (small blind) showed [6d 2d] and lost with a pair of Deuces
+Seat 3: herrera18935 (big blind) showed [Qh 3c] and won (490) with a pair of Queens
+
+
+
+PokerStars Hand #259550228373: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:03:34 CET [2026/02/01 12:03:34 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1010 in chips) 
+Seat 3: herrera18935 (490 in chips) 
+herrera18935: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Jh]
+herrera18935: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [7h 6d 4c]
+mabeal1: checks 
+herrera18935: checks 
+*** TURN *** [7h 6d 4c] [5c]
+mabeal1: bets 90
+herrera18935: raises 340 to 430 and is all-in
+mabeal1: folds 
+Uncalled bet (340) returned to herrera18935
+herrera18935 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7h 6d 4c 5c]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 3: herrera18935 (button) (small blind) collected (300)
+
+
+
+PokerStars Hand #259550232243: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:03:50 CET [2026/02/01 12:03:50 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (860 in chips) 
+Seat 3: herrera18935 (640 in chips) 
+mabeal1: posts small blind 15
+herrera18935: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 7h]
+mabeal1: calls 15
+herrera18935: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [5h Qh 9h]
+herrera18935: checks 
+mabeal1: checks 
+*** TURN *** [5h Qh 9h] [3s]
+herrera18935: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to herrera18935
+herrera18935 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h Qh 9h 3s]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: herrera18935 (big blind) collected (120)
+
+
+
+PokerStars Hand #259550237714: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:04:11 CET [2026/02/01 12:04:11 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (800 in chips) 
+Seat 3: herrera18935 (700 in chips) 
+herrera18935: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Tc]
+herrera18935: calls 20
+mabeal1: checks 
+*** FLOP *** [2c Th Kd]
+mabeal1: checks 
+herrera18935: bets 80
+mabeal1: calls 80
+*** TURN *** [2c Th Kd] [4s]
+mabeal1: checks 
+herrera18935: bets 120
+mabeal1: calls 120
+*** RIVER *** [2c Th Kd 4s] [4h]
+mabeal1: checks 
+herrera18935: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7h Tc] (two pair, Tens and Fours)
+herrera18935: mucks hand 
+mabeal1 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2c Th Kd 4s 4h]
+Seat 1: mabeal1 (big blind) showed [7h Tc] and won (480) with two pair, Tens and Fours
+Seat 3: herrera18935 (button) (small blind) mucked [7s 5d]
+
+
+
+PokerStars Hand #259550243107: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:04:33 CET [2026/02/01 12:04:33 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 3: herrera18935 (460 in chips) 
+mabeal1: posts small blind 20
+herrera18935: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4h]
+mabeal1: calls 20
+herrera18935: checks 
+*** FLOP *** [9s 9d 3h]
+herrera18935: bets 420 and is all-in
+mabeal1: folds 
+Uncalled bet (420) returned to herrera18935
+herrera18935 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s 9d 3h]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: herrera18935 (big blind) collected (80)
+
+
+
+PokerStars Hand #259550246081: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:04:45 CET [2026/02/01 12:04:45 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 3: herrera18935 (500 in chips) 
+herrera18935: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 7c]
+herrera18935: raises 460 to 500 and is all-in
+mabeal1: folds 
+Uncalled bet (460) returned to herrera18935
+herrera18935 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: herrera18935 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259550247462: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:04:51 CET [2026/02/01 12:04:51 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 3: herrera18935 (540 in chips) 
+mabeal1: posts small blind 20
+herrera18935: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 8s]
+mabeal1: calls 20
+herrera18935: checks 
+*** FLOP *** [Th 4s Ac]
+herrera18935: checks 
+mabeal1: bets 120
+herrera18935: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th 4s Ac]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: herrera18935 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259550250353: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:05:02 CET [2026/02/01 12:05:02 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 3: herrera18935 (500 in chips) 
+herrera18935: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 2h]
+herrera18935: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [5h 9s 2c]
+mabeal1: checks 
+herrera18935: bets 80
+mabeal1: calls 80
+*** TURN *** [5h 9s 2c] [Ad]
+mabeal1: checks 
+herrera18935: bets 120
+mabeal1: calls 120
+*** RIVER *** [5h 9s 2c Ad] [3d]
+mabeal1: checks 
+herrera18935: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ks 2h] (a pair of Deuces)
+herrera18935: shows [Qd Qh] (a pair of Queens)
+herrera18935 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [5h 9s 2c Ad 3d]
+Seat 1: mabeal1 (big blind) showed [Ks 2h] and lost with a pair of Deuces
+Seat 3: herrera18935 (button) (small blind) showed [Qd Qh] and won (560) with a pair of Queens
+
+
+
+PokerStars Hand #259550255946: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:05:24 CET [2026/02/01 12:05:24 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (720 in chips) 
+Seat 3: herrera18935 (780 in chips) 
+mabeal1: posts small blind 20
+herrera18935: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Jc]
+mabeal1: calls 20
+herrera18935: raises 740 to 780 and is all-in
+mabeal1: folds 
+Uncalled bet (740) returned to herrera18935
+herrera18935 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: herrera18935 (big blind) collected (80)
+
+
+
+PokerStars Hand #259550258253: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:05:33 CET [2026/02/01 12:05:33 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (680 in chips) 
+Seat 3: herrera18935 (820 in chips) 
+herrera18935: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 6s]
+herrera18935: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: herrera18935 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259550259484: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:05:38 CET [2026/02/01 12:05:38 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (700 in chips) 
+Seat 3: herrera18935 (800 in chips) 
+mabeal1: posts small blind 20
+herrera18935: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Kh]
+mabeal1: raises 40 to 80
+herrera18935: calls 40
+*** FLOP *** [Jh Kd Kc]
+herrera18935: checks 
+mabeal1: checks 
+*** TURN *** [Jh Kd Kc] [4h]
+herrera18935: bets 120
+mabeal1: calls 120
+*** RIVER *** [Jh Kd Kc 4h] [3d]
+herrera18935: bets 160
+mabeal1: raises 340 to 500 and is all-in
+herrera18935: folds 
+Uncalled bet (340) returned to mabeal1
+mabeal1 collected 720 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Jh Kd Kc 4h 3d]
+Seat 1: mabeal1 (button) (small blind) collected (720)
+Seat 3: herrera18935 (big blind) folded on the River
+
+
+
+PokerStars Hand #259550263997: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:05:56 CET [2026/02/01 12:05:56 ET]
+Table '3971150604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: herrera18935 (440 in chips) 
+herrera18935: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9s]
+herrera18935: raises 400 to 440 and is all-in
+mabeal1: folds 
+Uncalled bet (400) returned to herrera18935
+herrera18935 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: herrera18935 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259550266250: Tournament #3971150604, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 18:06:05 CET [2026/02/01 12:06:05 ET]
+Table '3971150604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: herrera18935 (480 in chips) 
+mabeal1: posts small blind 30
+herrera18935: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Jh]
+mabeal1: raises 960 to 1020 and is all-in
+herrera18935: calls 420 and is all-in
+Uncalled bet (540) returned to mabeal1
+*** FLOP *** [Qh Js Jd]
+*** TURN *** [Qh Js Jd] [As]
+*** RIVER *** [Qh Js Jd As] [6c]
+*** SHOW DOWN ***
+herrera18935: shows [Kc Qs] (two pair, Queens and Jacks)
+mabeal1: shows [Th Jh] (three of a kind, Jacks)
+mabeal1 collected 960 from pot
+herrera18935 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Qh Js Jd As 6c]
+Seat 1: mabeal1 (button) (small blind) showed [Th Jh] and won (960) with three of a kind, Jacks
+Seat 3: herrera18935 (big blind) showed [Kc Qs] and lost with two pair, Queens and Jacks
+
+
+

@@ -1,0 +1,61 @@
+﻿PokerStars Hand #259521384611: Tournament #3970506291, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 16:50:44 CET [2026/01/30 10:50:44 ET]
+Table '3970506291 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: RoiDjcv9 (500 in chips) 
+Seat 3: kathytron189 (500 in chips) 
+RoiDjcv9: posts small blind 10
+kathytron189: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qd]
+mabeal1: raises 20 to 40
+RoiDjcv9: calls 30
+kathytron189: raises 20 to 60
+mabeal1: raises 440 to 500 and is all-in
+RoiDjcv9: folds 
+kathytron189: calls 440 and is all-in
+*** FLOP *** [3s 6c Ks]
+*** TURN *** [3s 6c Ks] [8h]
+*** RIVER *** [3s 6c Ks 8h] [4d]
+*** SHOW DOWN ***
+kathytron189: shows [Ad Js] (high card Ace)
+mabeal1: shows [Ac Qd] (high card Ace - King+Queen kicker)
+mabeal1 collected 1040 from pot
+kathytron189 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [3s 6c Ks 8h 4d]
+Seat 1: mabeal1 (button) showed [Ac Qd] and won (1040) with high card Ace
+Seat 2: RoiDjcv9 (small blind) folded before Flop
+Seat 3: kathytron189 (big blind) showed [Ad Js] and lost with high card Ace
+
+
+
+PokerStars Hand #259521389757: Tournament #3970506291, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 16:51:14 CET [2026/01/30 10:51:14 ET]
+Table '3970506291 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 2: RoiDjcv9 (460 in chips) 
+RoiDjcv9: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Js]
+RoiDjcv9: raises 20 to 40
+mabeal1: raises 1000 to 1040 and is all-in
+RoiDjcv9: calls 420 and is all-in
+Uncalled bet (580) returned to mabeal1
+*** FLOP *** [2h Qs 6c]
+*** TURN *** [2h Qs 6c] [9h]
+*** RIVER *** [2h Qs 6c 9h] [5d]
+*** SHOW DOWN ***
+mabeal1: shows [Jh Js] (a pair of Jacks)
+RoiDjcv9: shows [8c Ks] (high card King)
+mabeal1 collected 920 from pot
+RoiDjcv9 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [2h Qs 6c 9h 5d]
+Seat 1: mabeal1 (big blind) showed [Jh Js] and won (920) with a pair of Jacks
+Seat 2: RoiDjcv9 (button) (small blind) showed [8c Ks] and lost with high card King
+
+
+

@@ -1,0 +1,680 @@
+﻿PokerStars Hand #259622935633: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 1:18:59 CET [2026/02/06 19:18:59 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: joseliito79 (500 in chips) 
+Seat 3: bordalonga (500 in chips) 
+joseliito79: posts small blind 10
+bordalonga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Kc]
+mabeal1: folds 
+joseliito79: raises 40 to 60
+bordalonga: folds 
+Uncalled bet (40) returned to joseliito79
+joseliito79 collected 40 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: joseliito79 (small blind) collected (40)
+Seat 3: bordalonga (big blind) folded before Flop
+
+
+
+PokerStars Hand #259622937676: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 1:19:09 CET [2026/02/06 19:19:09 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: joseliito79 (520 in chips) 
+Seat 3: bordalonga (480 in chips) 
+bordalonga: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 2d]
+joseliito79: raises 20 to 40
+bordalonga: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to joseliito79
+joseliito79 collected 50 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: joseliito79 (button) collected (50)
+Seat 3: bordalonga (small blind) folded before Flop
+
+
+
+PokerStars Hand #259622940990: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 1:19:26 CET [2026/02/06 19:19:26 ET]
+Table '3972799633 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: joseliito79 (550 in chips) 
+Seat 3: bordalonga (470 in chips) 
+mabeal1: posts small blind 10
+joseliito79: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9s]
+bordalonga: raises 20 to 40
+mabeal1: calls 30
+joseliito79: calls 20
+*** FLOP *** [As 2c 8d]
+mabeal1: checks 
+joseliito79: checks 
+bordalonga: checks 
+*** TURN *** [As 2c 8d] [Kc]
+mabeal1: checks 
+joseliito79: checks 
+bordalonga: checks 
+*** RIVER *** [As 2c 8d Kc] [4s]
+mabeal1: bets 90
+joseliito79: folds 
+bordalonga: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As 2c 8d Kc 4s]
+Seat 1: mabeal1 (small blind) collected (120)
+Seat 2: joseliito79 (big blind) folded on the River
+Seat 3: bordalonga (button) folded on the River
+
+
+
+PokerStars Hand #259622947557: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 1:19:59 CET [2026/02/06 19:19:59 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: joseliito79 (510 in chips) 
+Seat 3: bordalonga (430 in chips) 
+joseliito79: posts small blind 10
+bordalonga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 7d]
+mabeal1: folds 
+joseliito79: folds 
+Uncalled bet (10) returned to bordalonga
+bordalonga collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: joseliito79 (small blind) folded before Flop
+Seat 3: bordalonga (big blind) collected (20)
+
+
+
+PokerStars Hand #259622950332: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 1:20:12 CET [2026/02/06 19:20:12 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: joseliito79 (500 in chips) 
+Seat 3: bordalonga (440 in chips) 
+bordalonga: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Ts]
+joseliito79 has timed out
+joseliito79: folds 
+joseliito79 is sitting out
+joseliito79 has returned
+bordalonga: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [3h Tc 8c]
+bordalonga: bets 40
+mabeal1: calls 40
+*** TURN *** [3h Tc 8c] [5h]
+bordalonga: bets 20
+mabeal1: raises 100 to 120
+bordalonga: folds 
+Uncalled bet (100) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3h Tc 8c 5h]
+Seat 1: mabeal1 (big blind) collected (200)
+Seat 2: joseliito79 (button) folded before Flop (didn't bet)
+Seat 3: bordalonga (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259622962546: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 1:21:14 CET [2026/02/06 19:21:14 ET]
+Table '3972799633 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 2: joseliito79 (500 in chips) 
+Seat 3: bordalonga (340 in chips) 
+mabeal1: posts small blind 10
+joseliito79: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Qh]
+bordalonga: raises 20 to 40
+mabeal1: folds 
+joseliito79: calls 20
+*** FLOP *** [4s 7d 5s]
+joseliito79: checks 
+bordalonga: bets 50
+joseliito79: raises 410 to 460 and is all-in
+bordalonga: calls 250 and is all-in
+Uncalled bet (160) returned to joseliito79
+*** TURN *** [4s 7d 5s] [Kh]
+*** RIVER *** [4s 7d 5s Kh] [6c]
+*** SHOW DOWN ***
+joseliito79: shows [7c 6s] (two pair, Sevens and Sixes)
+bordalonga: shows [7h Ad] (a pair of Sevens)
+joseliito79 collected 690 from pot
+bordalonga finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [4s 7d 5s Kh 6c]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: joseliito79 (big blind) showed [7c 6s] and won (690) with two pair, Sevens and Sixes
+Seat 3: bordalonga (button) showed [7h Ad] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #259622971783: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 1:22:00 CET [2026/02/06 19:22:00 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: joseliito79 (850 in chips) 
+joseliito79: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 9s]
+joseliito79: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to joseliito79
+joseliito79 collected 40 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: joseliito79 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259622973963: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 1:22:11 CET [2026/02/06 19:22:11 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (630 in chips) 
+Seat 2: joseliito79 (870 in chips) 
+mabeal1: posts small blind 15
+joseliito79: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 5c]
+mabeal1: calls 15
+joseliito79: checks 
+*** FLOP *** [Kd 7s 6d]
+joseliito79: checks 
+mabeal1: checks 
+*** TURN *** [Kd 7s 6d] [3d]
+joseliito79: bets 30
+mabeal1: calls 30
+*** RIVER *** [Kd 7s 6d 3d] [2s]
+joseliito79: checks 
+mabeal1: bets 45
+joseliito79: calls 45
+*** SHOW DOWN ***
+mabeal1: shows [6c 5c] (a pair of Sixes)
+joseliito79: shows [Ad 6s] (a pair of Sixes - Ace kicker)
+joseliito79 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Kd 7s 6d 3d 2s]
+Seat 1: mabeal1 (button) (small blind) showed [6c 5c] and lost with a pair of Sixes
+Seat 2: joseliito79 (big blind) showed [Ad 6s] and won (210) with a pair of Sixes
+
+
+
+PokerStars Hand #259622978381: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 1:22:33 CET [2026/02/06 19:22:33 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (525 in chips) 
+Seat 2: joseliito79 (975 in chips) 
+joseliito79: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Qc]
+joseliito79 has timed out
+joseliito79: folds 
+joseliito79 is sitting out
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+joseliito79 has returned
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: joseliito79 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259622981474: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 1:22:48 CET [2026/02/06 19:22:48 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: joseliito79 (960 in chips) 
+mabeal1: posts small blind 15
+joseliito79: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Kh]
+mabeal1: raises 30 to 60
+joseliito79: calls 30
+*** FLOP *** [5c Kd 7c]
+joseliito79: checks 
+mabeal1: bets 60
+joseliito79: calls 60
+*** TURN *** [5c Kd 7c] [As]
+joseliito79: checks 
+mabeal1: bets 120
+joseliito79: calls 120
+*** RIVER *** [5c Kd 7c As] [2d]
+joseliito79: checks 
+mabeal1: bets 300 and is all-in
+joseliito79: folds 
+Uncalled bet (300) returned to mabeal1
+mabeal1 collected 480 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [5c Kd 7c As 2d]
+Seat 1: mabeal1 (button) (small blind) collected (480)
+Seat 2: joseliito79 (big blind) folded on the River
+
+
+
+PokerStars Hand #259622987435: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 1:23:17 CET [2026/02/06 19:23:17 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: joseliito79 (720 in chips) 
+joseliito79: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 4h]
+joseliito79: calls 15
+mabeal1: checks 
+*** FLOP *** [Ah 9c Jc]
+mabeal1: checks 
+joseliito79: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to joseliito79
+joseliito79 collected 60 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ah 9c Jc]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: joseliito79 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259622990687: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 1:23:33 CET [2026/02/06 19:23:33 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (750 in chips) 
+Seat 2: joseliito79 (750 in chips) 
+mabeal1: posts small blind 15
+joseliito79: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 9h]
+mabeal1: calls 15
+joseliito79: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [6c Qc 6h]
+joseliito79: checks 
+mabeal1: bets 90
+joseliito79: calls 90
+*** TURN *** [6c Qc 6h] [Qd]
+joseliito79: checks 
+mabeal1: checks 
+*** RIVER *** [6c Qc 6h Qd] [Jd]
+joseliito79: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to joseliito79
+joseliito79 collected 360 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6c Qc 6h Qd Jd]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 2: joseliito79 (big blind) collected (360)
+
+
+
+PokerStars Hand #259622999024: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 1:24:15 CET [2026/02/06 19:24:15 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: joseliito79 (930 in chips) 
+joseliito79: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Jc]
+joseliito79: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: joseliito79 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259623001141: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 1:24:25 CET [2026/02/06 19:24:25 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (585 in chips) 
+Seat 2: joseliito79 (915 in chips) 
+mabeal1: posts small blind 15
+joseliito79: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 3c]
+mabeal1: calls 15
+joseliito79: checks 
+*** FLOP *** [6h Js Kh]
+joseliito79: checks 
+mabeal1: bets 30
+joseliito79: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h Js Kh]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: joseliito79 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259623003535: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 1:24:37 CET [2026/02/06 19:24:37 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (615 in chips) 
+Seat 2: joseliito79 (885 in chips) 
+joseliito79: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 7h]
+joseliito79: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Jh Kd Td]
+mabeal1: checks 
+joseliito79: checks 
+*** TURN *** [Jh Kd Td] [9h]
+mabeal1: checks 
+joseliito79: checks 
+*** RIVER *** [Jh Kd Td 9h] [Th]
+mabeal1: checks 
+joseliito79: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ad 7h] (a pair of Tens)
+joseliito79: shows [4h As] (a pair of Tens)
+mabeal1 collected 60 from pot
+joseliito79 collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh Kd Td 9h Th]
+Seat 1: mabeal1 (big blind) showed [Ad 7h] and won (60) with a pair of Tens
+Seat 2: joseliito79 (button) (small blind) showed [4h As] and won (60) with a pair of Tens
+
+
+
+PokerStars Hand #259623008804: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:25:04 CET [2026/02/06 19:25:04 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (615 in chips) 
+Seat 2: joseliito79 (885 in chips) 
+mabeal1: posts small blind 20
+joseliito79: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2h]
+mabeal1: calls 20
+joseliito79: checks 
+*** FLOP *** [Jd As Ad]
+joseliito79: checks 
+mabeal1: bets 40
+joseliito79: calls 40
+*** TURN *** [Jd As Ad] [9d]
+joseliito79: checks 
+mabeal1: checks 
+*** RIVER *** [Jd As Ad 9d] [2c]
+joseliito79: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+joseliito79: shows [6c Kd] (a pair of Aces)
+mabeal1: shows [Jc 2h] (two pair, Aces and Jacks)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jd As Ad 9d 2c]
+Seat 1: mabeal1 (button) (small blind) showed [Jc 2h] and won (240) with two pair, Aces and Jacks
+Seat 2: joseliito79 (big blind) showed [6c Kd] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259623013493: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:25:27 CET [2026/02/06 19:25:27 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (735 in chips) 
+Seat 2: joseliito79 (765 in chips) 
+joseliito79: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2h]
+joseliito79: calls 20
+mabeal1: checks 
+*** FLOP *** [Ad Qd 3d]
+mabeal1: checks 
+joseliito79: checks 
+*** TURN *** [Ad Qd 3d] [Qs]
+mabeal1: bets 40
+joseliito79: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to joseliito79
+joseliito79 collected 160 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ad Qd 3d Qs]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: joseliito79 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259623017885: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:25:49 CET [2026/02/06 19:25:49 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (655 in chips) 
+Seat 2: joseliito79 (845 in chips) 
+mabeal1: posts small blind 20
+joseliito79: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 4c]
+mabeal1: folds 
+Uncalled bet (20) returned to joseliito79
+joseliito79 collected 40 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: joseliito79 (big blind) collected (40)
+
+
+
+PokerStars Hand #259623018909: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:25:55 CET [2026/02/06 19:25:55 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 2: joseliito79 (865 in chips) 
+joseliito79: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 5d]
+joseliito79: calls 20
+mabeal1: checks 
+*** FLOP *** [8d 2c 3s]
+mabeal1: bets 60
+joseliito79: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 2c 3s]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: joseliito79 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259623020630: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:26:03 CET [2026/02/06 19:26:03 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (675 in chips) 
+Seat 2: joseliito79 (825 in chips) 
+mabeal1: posts small blind 20
+joseliito79: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 5d]
+mabeal1: calls 20
+joseliito79: checks 
+*** FLOP *** [9h Tc 3c]
+joseliito79: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to joseliito79
+joseliito79 collected 80 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Tc 3c]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 2: joseliito79 (big blind) collected (80)
+
+
+
+PokerStars Hand #259623024015: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:26:21 CET [2026/02/06 19:26:21 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 2: joseliito79 (865 in chips) 
+joseliito79: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Qd]
+joseliito79: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: joseliito79 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259623025209: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:26:26 CET [2026/02/06 19:26:26 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (655 in chips) 
+Seat 2: joseliito79 (845 in chips) 
+mabeal1: posts small blind 20
+joseliito79: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3s]
+mabeal1: folds 
+Uncalled bet (20) returned to joseliito79
+joseliito79 collected 40 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: joseliito79 (big blind) collected (40)
+
+
+
+PokerStars Hand #259623027128: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:26:36 CET [2026/02/06 19:26:36 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 2: joseliito79 (865 in chips) 
+joseliito79: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 2s]
+joseliito79: calls 20
+mabeal1: checks 
+*** FLOP *** [Jh Td Tc]
+mabeal1: checks 
+joseliito79: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to joseliito79
+joseliito79 collected 80 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh Td Tc]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: joseliito79 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259623029700: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:26:50 CET [2026/02/06 19:26:50 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: joseliito79 (905 in chips) 
+mabeal1: posts small blind 20
+joseliito79: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 6d]
+mabeal1: calls 20
+joseliito79: checks 
+*** FLOP *** [Ah Qd 5d]
+joseliito79: checks 
+mabeal1: checks 
+*** TURN *** [Ah Qd 5d] [2h]
+joseliito79: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to joseliito79
+joseliito79 collected 80 from pot
+joseliito79: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ah Qd 5d 2h]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 2: joseliito79 (big blind) collected (80)
+
+
+
+PokerStars Hand #259623033253: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:27:08 CET [2026/02/06 19:27:08 ET]
+Table '3972799633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 2: joseliito79 (945 in chips) 
+joseliito79: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 4h]
+joseliito79: calls 20
+mabeal1: raises 40 to 80
+joseliito79: calls 40
+*** FLOP *** [Th 2c 2s]
+mabeal1: bets 80
+joseliito79: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Th 2c 2s]
+Seat 1: mabeal1 (big blind) collected (160)
+Seat 2: joseliito79 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259623035654: Tournament #3972799633, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 1:27:20 CET [2026/02/06 19:27:20 ET]
+Table '3972799633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 2: joseliito79 (865 in chips) 
+mabeal1: posts small blind 20
+joseliito79: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Ac]
+mabeal1: raises 595 to 635 and is all-in
+joseliito79: calls 595
+*** FLOP *** [6c Kh 2h]
+*** TURN *** [6c Kh 2h] [6s]
+*** RIVER *** [6c Kh 2h 6s] [3d]
+*** SHOW DOWN ***
+joseliito79: shows [9h 9s] (two pair, Nines and Sixes)
+mabeal1: shows [9c Ac] (a pair of Sixes)
+joseliito79 collected 1270 from pot
+mabeal1 finished the tournament in 2nd place
+joseliito79 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1270 | Rake 0 
+Board [6c Kh 2h 6s 3d]
+Seat 1: mabeal1 (button) (small blind) showed [9c Ac] and lost with a pair of Sixes
+Seat 2: joseliito79 (big blind) showed [9h 9s] and won (1270) with two pair, Nines and Sixes
+
+
+

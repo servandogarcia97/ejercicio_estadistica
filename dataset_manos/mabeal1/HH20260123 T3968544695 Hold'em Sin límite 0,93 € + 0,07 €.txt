@@ -1,0 +1,584 @@
+﻿PokerStars Hand #259435919544: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 1:53:52 CET [2026/01/23 19:53:52 ET]
+Table '3968544695 1' 3-max Seat #1 is the button
+Seat 1: grilo 1387 (500 in chips) 
+Seat 2: charritodb (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+charritodb: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4c]
+grilo 1387: folds 
+charritodb: calls 10
+mabeal1: checks 
+*** FLOP *** [2c 3h 7d]
+charritodb: checks 
+mabeal1: bets 20
+charritodb: calls 20
+*** TURN *** [2c 3h 7d] [Kc]
+charritodb: checks 
+mabeal1: checks 
+*** RIVER *** [2c 3h 7d Kc] [Js]
+charritodb: bets 20
+mabeal1: calls 20
+*** SHOW DOWN ***
+charritodb: shows [4h 8s] (high card King)
+mabeal1: shows [7s 4c] (a pair of Sevens)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 3h 7d Kc Js]
+Seat 1: grilo 1387 (button) folded before Flop (didn't bet)
+Seat 2: charritodb (small blind) showed [4h 8s] and lost with high card King
+Seat 3: mabeal1 (big blind) showed [7s 4c] and won (120) with a pair of Sevens
+
+
+
+PokerStars Hand #259435923223: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 1:54:13 CET [2026/01/23 19:54:13 ET]
+Table '3968544695 1' 3-max Seat #2 is the button
+Seat 1: grilo 1387 (500 in chips) 
+Seat 2: charritodb (440 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+mabeal1: posts small blind 10
+grilo 1387: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 2h]
+charritodb: calls 20
+mabeal1: folds 
+grilo 1387: checks 
+*** FLOP *** [9h Th Jh]
+grilo 1387: checks 
+charritodb: bets 20
+grilo 1387: calls 20
+*** TURN *** [9h Th Jh] [7s]
+grilo 1387: checks 
+charritodb: bets 20
+grilo 1387: calls 20
+*** RIVER *** [9h Th Jh 7s] [9c]
+grilo 1387: bets 130
+charritodb: folds 
+Uncalled bet (130) returned to grilo 1387
+grilo 1387 collected 130 from pot
+grilo 1387: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [9h Th Jh 7s 9c]
+Seat 1: grilo 1387 (big blind) collected (130)
+Seat 2: charritodb (button) folded on the River
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259435928437: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 1:54:42 CET [2026/01/23 19:54:42 ET]
+Table '3968544695 1' 3-max Seat #3 is the button
+Seat 1: grilo 1387 (570 in chips) 
+Seat 2: charritodb (380 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+grilo 1387: posts small blind 10
+charritodb: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 7s]
+mabeal1: raises 20 to 40
+grilo 1387: folds 
+charritodb: calls 20
+*** FLOP *** [5s Qh 7h]
+charritodb: checks 
+mabeal1: bets 30
+charritodb: calls 30
+*** TURN *** [5s Qh 7h] [9s]
+charritodb: checks 
+mabeal1: checks 
+*** RIVER *** [5s Qh 7h 9s] [Kh]
+charritodb: checks 
+mabeal1: bets 40
+charritodb: calls 40
+*** SHOW DOWN ***
+mabeal1: shows [Js 7s] (a pair of Sevens)
+charritodb: mucks hand 
+mabeal1 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [5s Qh 7h 9s Kh]
+Seat 1: grilo 1387 (small blind) folded before Flop
+Seat 2: charritodb (big blind) mucked [Ah 5d]
+Seat 3: mabeal1 (button) showed [Js 7s] and won (230) with a pair of Sevens
+
+
+
+PokerStars Hand #259435933977: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 1:55:17 CET [2026/01/23 19:55:17 ET]
+Table '3968544695 1' 3-max Seat #1 is the button
+Seat 1: grilo 1387 (560 in chips) 
+Seat 2: charritodb (270 in chips) 
+Seat 3: mabeal1 (670 in chips) 
+charritodb: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Kd]
+grilo 1387: folds 
+charritodb: calls 10
+mabeal1: checks 
+*** FLOP *** [Jc 6s 5s]
+charritodb: checks 
+mabeal1: bets 20
+charritodb: calls 20
+*** TURN *** [Jc 6s 5s] [8c]
+charritodb: checks 
+mabeal1: bets 80
+charritodb: calls 80
+*** RIVER *** [Jc 6s 5s 8c] [4c]
+charritodb: checks 
+mabeal1: bets 550 and is all-in
+charritodb: folds 
+Uncalled bet (550) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jc 6s 5s 8c 4c]
+Seat 1: grilo 1387 (button) folded before Flop (didn't bet)
+Seat 2: charritodb (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (240)
+
+
+
+PokerStars Hand #259435940852: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 1:56:05 CET [2026/01/23 19:56:05 ET]
+Table '3968544695 1' 3-max Seat #2 is the button
+Seat 1: grilo 1387 (560 in chips) 
+Seat 2: charritodb (150 in chips) 
+Seat 3: mabeal1 (790 in chips) 
+mabeal1: posts small blind 15
+grilo 1387: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 8s]
+charritodb: calls 30
+mabeal1: folds 
+grilo 1387: checks 
+*** FLOP *** [Th 4c 4s]
+grilo 1387: checks 
+charritodb: checks 
+*** TURN *** [Th 4c 4s] [Ah]
+grilo 1387: checks 
+charritodb: checks 
+*** RIVER *** [Th 4c 4s Ah] [3c]
+grilo 1387: bets 30
+charritodb: calls 30
+*** SHOW DOWN ***
+grilo 1387: shows [3s 7s] (two pair, Fours and Threes)
+charritodb: shows [9d Ac] (two pair, Aces and Fours)
+charritodb collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Th 4c 4s Ah 3c]
+Seat 1: grilo 1387 (big blind) showed [3s 7s] and lost with two pair, Fours and Threes
+Seat 2: charritodb (button) showed [9d Ac] and won (135) with two pair, Aces and Fours
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259435944292: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 1:56:29 CET [2026/01/23 19:56:29 ET]
+Table '3968544695 1' 3-max Seat #3 is the button
+Seat 1: grilo 1387 (500 in chips) 
+Seat 2: charritodb (225 in chips) 
+Seat 3: mabeal1 (775 in chips) 
+grilo 1387: posts small blind 15
+charritodb: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Kc]
+mabeal1: raises 30 to 60
+grilo 1387: folds 
+charritodb: calls 30
+*** FLOP *** [8h 7s 3h]
+charritodb: checks 
+mabeal1: bets 45
+charritodb: calls 45
+*** TURN *** [8h 7s 3h] [6d]
+charritodb: checks 
+mabeal1: bets 169
+charritodb: calls 120 and is all-in
+Uncalled bet (49) returned to mabeal1
+*** RIVER *** [8h 7s 3h 6d] [Kh]
+*** SHOW DOWN ***
+charritodb: shows [7h 8c] (two pair, Eights and Sevens)
+mabeal1: shows [7c Kc] (two pair, Kings and Sevens)
+mabeal1 collected 465 from pot
+charritodb finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 465 | Rake 0 
+Board [8h 7s 3h 6d Kh]
+Seat 1: grilo 1387 (small blind) folded before Flop
+Seat 2: charritodb (big blind) showed [7h 8c] and lost with two pair, Eights and Sevens
+Seat 3: mabeal1 (button) showed [7c Kc] and won (465) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #259435949355: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 1:57:05 CET [2026/01/23 19:57:05 ET]
+Table '3968544695 1' 3-max Seat #1 is the button
+Seat 1: grilo 1387 (485 in chips) 
+Seat 3: mabeal1 (1015 in chips) 
+grilo 1387: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4d]
+grilo 1387: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to grilo 1387
+grilo 1387 collected 60 from pot
+grilo 1387: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: grilo 1387 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259435951097: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 1:57:17 CET [2026/01/23 19:57:17 ET]
+Table '3968544695 1' 3-max Seat #3 is the button
+Seat 1: grilo 1387 (515 in chips) 
+Seat 3: mabeal1 (985 in chips) 
+mabeal1: posts small blind 15
+grilo 1387: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 5h]
+mabeal1: calls 15
+grilo 1387: checks 
+*** FLOP *** [Jh Jd 4c]
+grilo 1387: checks 
+mabeal1: checks 
+*** TURN *** [Jh Jd 4c] [6c]
+grilo 1387: checks 
+mabeal1: bets 30
+grilo 1387: calls 30
+*** RIVER *** [Jh Jd 4c 6c] [3d]
+grilo 1387: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to grilo 1387
+grilo 1387 collected 120 from pot
+grilo 1387: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh Jd 4c 6c 3d]
+Seat 1: grilo 1387 (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259435954433: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 1:57:41 CET [2026/01/23 19:57:41 ET]
+Table '3968544695 1' 3-max Seat #1 is the button
+Seat 1: grilo 1387 (575 in chips) 
+Seat 3: mabeal1 (925 in chips) 
+grilo 1387: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 4h]
+grilo 1387: calls 15
+mabeal1: checks 
+*** FLOP *** [Ks As 5s]
+mabeal1: checks 
+grilo 1387: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to grilo 1387
+grilo 1387 collected 60 from pot
+grilo 1387: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks As 5s]
+Seat 1: grilo 1387 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259435955925: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 1:57:52 CET [2026/01/23 19:57:52 ET]
+Table '3968544695 1' 3-max Seat #3 is the button
+Seat 1: grilo 1387 (605 in chips) 
+Seat 3: mabeal1 (895 in chips) 
+mabeal1: posts small blind 15
+grilo 1387: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4d]
+mabeal1: calls 15
+grilo 1387: checks 
+*** FLOP *** [Ac Ts Qh]
+grilo 1387: checks 
+mabeal1: checks 
+*** TURN *** [Ac Ts Qh] [Kc]
+grilo 1387: checks 
+mabeal1: bets 30
+grilo 1387: calls 30
+*** RIVER *** [Ac Ts Qh Kc] [Ah]
+grilo 1387: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+grilo 1387: shows [Td 7h] (two pair, Aces and Tens)
+mabeal1: shows [Ks 4d] (two pair, Aces and Kings)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ac Ts Qh Kc Ah]
+Seat 1: grilo 1387 (big blind) showed [Td 7h] and lost with two pair, Aces and Tens
+Seat 3: mabeal1 (button) (small blind) showed [Ks 4d] and won (240) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #259435959264: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 1:58:16 CET [2026/01/23 19:58:16 ET]
+Table '3968544695 1' 3-max Seat #1 is the button
+Seat 1: grilo 1387 (485 in chips) 
+Seat 3: mabeal1 (1015 in chips) 
+grilo 1387: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3h]
+grilo 1387: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to grilo 1387
+grilo 1387 collected 80 from pot
+grilo 1387: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: grilo 1387 (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259435960280: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 1:58:23 CET [2026/01/23 19:58:23 ET]
+Table '3968544695 1' 3-max Seat #3 is the button
+Seat 1: grilo 1387 (525 in chips) 
+Seat 3: mabeal1 (975 in chips) 
+mabeal1: posts small blind 20
+grilo 1387: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8d]
+mabeal1: calls 20
+grilo 1387: checks 
+*** FLOP *** [Qd 5d Kh]
+grilo 1387: bets 40
+mabeal1: calls 40
+*** TURN *** [Qd 5d Kh] [4s]
+grilo 1387: bets 80
+mabeal1: calls 80
+*** RIVER *** [Qd 5d Kh 4s] [2s]
+grilo 1387: bets 160
+mabeal1: folds 
+Uncalled bet (160) returned to grilo 1387
+grilo 1387 collected 320 from pot
+grilo 1387: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qd 5d Kh 4s 2s]
+Seat 1: grilo 1387 (big blind) collected (320)
+Seat 3: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259435964367: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 1:58:52 CET [2026/01/23 19:58:52 ET]
+Table '3968544695 1' 3-max Seat #1 is the button
+Seat 1: grilo 1387 (685 in chips) 
+Seat 3: mabeal1 (815 in chips) 
+grilo 1387: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8c]
+grilo 1387: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [3s Ts 6d]
+mabeal1: checks 
+grilo 1387: bets 80
+mabeal1: raises 655 to 735 and is all-in
+grilo 1387: folds 
+Uncalled bet (655) returned to mabeal1
+mabeal1 collected 320 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3s Ts 6d]
+Seat 1: grilo 1387 (button) (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (320)
+
+
+
+PokerStars Hand #259435966373: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 1:59:06 CET [2026/01/23 19:59:06 ET]
+Table '3968544695 1' 3-max Seat #3 is the button
+Seat 1: grilo 1387 (525 in chips) 
+Seat 3: mabeal1 (975 in chips) 
+mabeal1: posts small blind 20
+grilo 1387: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 6c]
+mabeal1: calls 20
+grilo 1387: raises 120 to 160
+mabeal1: folds 
+Uncalled bet (120) returned to grilo 1387
+grilo 1387 collected 80 from pot
+grilo 1387: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: grilo 1387 (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259435967748: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 1:59:15 CET [2026/01/23 19:59:15 ET]
+Table '3968544695 1' 3-max Seat #1 is the button
+Seat 1: grilo 1387 (565 in chips) 
+Seat 3: mabeal1 (935 in chips) 
+grilo 1387: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 5h]
+grilo 1387: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: grilo 1387 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259435968513: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 1:59:21 CET [2026/01/23 19:59:21 ET]
+Table '3968544695 1' 3-max Seat #3 is the button
+Seat 1: grilo 1387 (545 in chips) 
+Seat 3: mabeal1 (955 in chips) 
+mabeal1: posts small blind 20
+grilo 1387: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 9s]
+mabeal1: calls 20
+grilo 1387: checks 
+*** FLOP *** [8c 3c 7d]
+grilo 1387: checks 
+mabeal1: bets 40
+grilo 1387: calls 40
+*** TURN *** [8c 3c 7d] [Kh]
+grilo 1387: checks 
+mabeal1: bets 120
+grilo 1387: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8c 3c 7d Kh]
+Seat 1: grilo 1387 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259435971976: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 1:59:46 CET [2026/01/23 19:59:46 ET]
+Table '3968544695 1' 3-max Seat #1 is the button
+Seat 1: grilo 1387 (465 in chips) 
+Seat 3: mabeal1 (1035 in chips) 
+grilo 1387: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Jh]
+grilo 1387: calls 20
+mabeal1: checks 
+*** FLOP *** [3h Th 4d]
+mabeal1: checks 
+grilo 1387: checks 
+*** TURN *** [3h Th 4d] [As]
+mabeal1: checks 
+grilo 1387: bets 40
+mabeal1: calls 40
+*** RIVER *** [3h Th 4d As] [Jd]
+mabeal1: checks 
+grilo 1387: checks 
+*** SHOW DOWN ***
+mabeal1: shows [8d Jh] (a pair of Jacks)
+grilo 1387: mucks hand 
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3h Th 4d As Jd]
+Seat 1: grilo 1387 (button) (small blind) mucked [Kd 4c]
+Seat 3: mabeal1 (big blind) showed [8d Jh] and won (160) with a pair of Jacks
+
+
+
+PokerStars Hand #259435975343: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 2:00:10 CET [2026/01/23 20:00:10 ET]
+Table '3968544695 1' 3-max Seat #3 is the button
+Seat 1: grilo 1387 (385 in chips) 
+Seat 3: mabeal1 (1115 in chips) 
+mabeal1: posts small blind 30
+grilo 1387: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Js]
+mabeal1: calls 30
+grilo 1387: checks 
+*** FLOP *** [7s 5h Td]
+grilo 1387: checks 
+mabeal1: checks 
+*** TURN *** [7s 5h Td] [3c]
+grilo 1387: checks 
+mabeal1: checks 
+*** RIVER *** [7s 5h Td 3c] [Ah]
+grilo 1387: checks 
+mabeal1: bets 60
+grilo 1387: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [5d Js] (a pair of Fives)
+grilo 1387: mucks hand 
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7s 5h Td 3c Ah]
+Seat 1: grilo 1387 (big blind) mucked [3s 8d]
+Seat 3: mabeal1 (button) (small blind) showed [5d Js] and won (240) with a pair of Fives
+
+
+
+PokerStars Hand #259435978633: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 2:00:32 CET [2026/01/23 20:00:32 ET]
+Table '3968544695 1' 3-max Seat #1 is the button
+Seat 1: grilo 1387 (265 in chips) 
+Seat 3: mabeal1 (1235 in chips) 
+grilo 1387: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 5c]
+grilo 1387: calls 30
+mabeal1: checks 
+*** FLOP *** [Kc 9h Ac]
+mabeal1: checks 
+grilo 1387: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to grilo 1387
+grilo 1387 collected 120 from pot
+grilo 1387: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc 9h Ac]
+Seat 1: grilo 1387 (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259435981006: Tournament #3968544695, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 2:00:47 CET [2026/01/23 20:00:47 ET]
+Table '3968544695 1' 3-max Seat #3 is the button
+Seat 1: grilo 1387 (325 in chips) 
+Seat 3: mabeal1 (1175 in chips) 
+mabeal1: posts small blind 30
+grilo 1387: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Ah]
+mabeal1: calls 30
+grilo 1387: raises 120 to 180
+mabeal1: raises 995 to 1175 and is all-in
+grilo 1387: calls 145 and is all-in
+Uncalled bet (850) returned to mabeal1
+*** FLOP *** [Ad 8s Qc]
+*** TURN *** [Ad 8s Qc] [3c]
+*** RIVER *** [Ad 8s Qc 3c] [Td]
+*** SHOW DOWN ***
+grilo 1387: shows [6d 6s] (a pair of Sixes)
+mabeal1: shows [Kc Ah] (a pair of Aces)
+mabeal1 collected 650 from pot
+grilo 1387 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Ad 8s Qc 3c Td]
+Seat 1: grilo 1387 (big blind) showed [6d 6s] and lost with a pair of Sixes
+Seat 3: mabeal1 (button) (small blind) showed [Kc Ah] and won (650) with a pair of Aces
+
+
+

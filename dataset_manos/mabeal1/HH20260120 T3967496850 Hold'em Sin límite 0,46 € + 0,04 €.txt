@@ -1,0 +1,130 @@
+﻿PokerStars Hand #259392472852: Tournament #3967496850, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:29:31 CET [2026/01/20 13:29:31 ET]
+Table '3967496850 1' 3-max Seat #1 is the button
+Seat 1: olivia59700 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Kimco125 (500 in chips) 
+mabeal1: posts small blind 10
+Kimco125: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5s]
+olivia59700: calls 20
+mabeal1: raises 480 to 500 and is all-in
+Kimco125: folds 
+olivia59700: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: olivia59700 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Kimco125 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259392477362: Tournament #3967496850, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:29:50 CET [2026/01/20 13:29:50 ET]
+Table '3967496850 1' 3-max Seat #2 is the button
+Seat 1: olivia59700 (480 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Kimco125 (480 in chips) 
+Kimco125: posts small blind 10
+olivia59700: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 3h]
+mabeal1: folds 
+Kimco125: calls 10
+olivia59700: checks 
+*** FLOP *** [4h Qs 7d]
+Kimco125: checks 
+olivia59700: bets 20
+Kimco125: calls 20
+*** TURN *** [4h Qs 7d] [5h]
+Kimco125: checks 
+olivia59700: bets 20
+Kimco125: raises 120 to 140
+olivia59700: calls 120
+*** RIVER *** [4h Qs 7d 5h] [4c]
+Kimco125: bets 300 and is all-in
+olivia59700: calls 300 and is all-in
+*** SHOW DOWN ***
+Kimco125: shows [5c 5s] (a full house, Fives full of Fours)
+olivia59700: shows [4d Qh] (a full house, Fours full of Queens)
+Kimco125 collected 960 from pot
+olivia59700 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [4h Qs 7d 5h 4c]
+Seat 1: olivia59700 (big blind) showed [4d Qh] and lost with a full house, Fours full of Queens
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Kimco125 (small blind) showed [5c 5s] and won (960) with a full house, Fives full of Fours
+
+
+
+PokerStars Hand #259392486406: Tournament #3967496850, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:30:27 CET [2026/01/20 13:30:27 ET]
+Table '3967496850 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Kimco125 (960 in chips) 
+Kimco125: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 3d]
+Kimco125: calls 10
+mabeal1: checks 
+*** FLOP *** [2s 9s Kc]
+mabeal1: checks 
+Kimco125 is disconnected 
+Kimco125 is connected 
+Kimco125 is disconnected 
+Kimco125 is connected 
+Kimco125: checks 
+*** TURN *** [2s 9s Kc] [Td]
+mabeal1: bets 20
+Kimco125: calls 20
+*** RIVER *** [2s 9s Kc Td] [3s]
+mabeal1: checks 
+Kimco125: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7c 3d] (a pair of Threes)
+Kimco125: shows [8s 9c] (a pair of Nines)
+Kimco125 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 9s Kc Td 3s]
+Seat 2: mabeal1 (big blind) showed [7c 3d] and lost with a pair of Threes
+Seat 3: Kimco125 (button) (small blind) showed [8s 9c] and won (80) with a pair of Nines
+
+
+
+PokerStars Hand #259392497839: Tournament #3967496850, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:31:15 CET [2026/01/20 13:31:15 ET]
+Table '3967496850 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Kimco125 (1000 in chips) 
+mabeal1: posts small blind 10
+Kimco125: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ts]
+mabeal1: raises 40 to 60
+Kimco125: raises 40 to 100
+mabeal1: raises 400 to 500 and is all-in
+Kimco125 is disconnected 
+Kimco125 is connected 
+Kimco125 is disconnected 
+Kimco125 is connected 
+Kimco125: calls 400
+*** FLOP *** [2d 8d 7c]
+*** TURN *** [2d 8d 7c] [6h]
+*** RIVER *** [2d 8d 7c 6h] [5c]
+*** SHOW DOWN ***
+Kimco125: shows [7h 7d] (three of a kind, Sevens)
+mabeal1: shows [As Ts] (high card Ace)
+Kimco125 collected 1000 from pot
+mabeal1 finished the tournament in 2nd place
+Kimco125 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [2d 8d 7c 6h 5c]
+Seat 2: mabeal1 (button) (small blind) showed [As Ts] and lost with high card Ace
+Seat 3: Kimco125 (big blind) showed [7h 7d] and won (1000) with three of a kind, Sevens
+
+
+

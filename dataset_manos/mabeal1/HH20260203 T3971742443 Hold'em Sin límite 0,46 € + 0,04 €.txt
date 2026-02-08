@@ -1,0 +1,209 @@
+﻿PokerStars Hand #259577382247: Tournament #3971742443, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:35:55 CET [2026/02/03 11:35:55 ET]
+Table '3971742443 1' 3-max Seat #1 is the button
+Seat 1: Hotei7777 (500 in chips) 
+Seat 2: VersHache (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+VersHache: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 2h]
+Hotei7777: folds 
+VersHache: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to VersHache
+VersHache collected 40 from pot
+VersHache: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Hotei7777 (button) folded before Flop (didn't bet)
+Seat 2: VersHache (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577383650: Tournament #3971742443, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:36:02 CET [2026/02/03 11:36:02 ET]
+Table '3971742443 1' 3-max Seat #2 is the button
+Seat 1: Hotei7777 (500 in chips) 
+Seat 2: VersHache (520 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+Hotei7777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6d]
+VersHache: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Hotei7777
+Hotei7777 collected 20 from pot
+Hotei7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Hotei7777 (big blind) collected (20)
+Seat 2: VersHache (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577384917: Tournament #3971742443, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:36:09 CET [2026/02/03 11:36:09 ET]
+Table '3971742443 1' 3-max Seat #3 is the button
+Seat 1: Hotei7777 (510 in chips) 
+Seat 2: VersHache (520 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+Hotei7777: posts small blind 10
+VersHache: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 3d]
+mabeal1: folds 
+Hotei7777: calls 10
+VersHache: checks 
+*** FLOP *** [Tc 5d 6h]
+Hotei7777: bets 20
+VersHache: calls 20
+*** TURN *** [Tc 5d 6h] [Kh]
+Hotei7777: bets 20
+VersHache: folds 
+Uncalled bet (20) returned to Hotei7777
+Hotei7777 collected 80 from pot
+Hotei7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc 5d 6h Kh]
+Seat 1: Hotei7777 (small blind) collected (80)
+Seat 2: VersHache (big blind) folded on the Turn
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259577388399: Tournament #3971742443, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:36:27 CET [2026/02/03 11:36:27 ET]
+Table '3971742443 1' 3-max Seat #1 is the button
+Seat 1: Hotei7777 (550 in chips) 
+Seat 2: VersHache (480 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+VersHache: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 8d]
+Hotei7777: calls 20
+VersHache: folds 
+mabeal1: checks 
+*** FLOP *** [Qh 6d 3d]
+mabeal1: checks 
+Hotei7777: bets 20
+mabeal1: raises 40 to 60
+Hotei7777: calls 40
+*** TURN *** [Qh 6d 3d] [Jd]
+mabeal1: bets 128
+Hotei7777: raises 128 to 256
+mabeal1: folds 
+Uncalled bet (128) returned to Hotei7777
+Hotei7777 collected 426 from pot
+Hotei7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 426 | Rake 0 
+Board [Qh 6d 3d Jd]
+Seat 1: Hotei7777 (button) collected (426)
+Seat 2: VersHache (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259577395730: Tournament #3971742443, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:37:06 CET [2026/02/03 11:37:06 ET]
+Table '3971742443 1' 3-max Seat #2 is the button
+Seat 1: Hotei7777 (768 in chips) 
+Seat 2: VersHache (470 in chips) 
+Seat 3: mabeal1 (262 in chips) 
+mabeal1: posts small blind 10
+Hotei7777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Jc]
+VersHache: raises 20 to 40
+mabeal1: raises 222 to 262 and is all-in
+Hotei7777: folds 
+VersHache: folds 
+Uncalled bet (222) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Hotei7777 (big blind) folded before Flop
+Seat 2: VersHache (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (100)
+
+
+
+PokerStars Hand #259577399402: Tournament #3971742443, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:37:25 CET [2026/02/03 11:37:25 ET]
+Table '3971742443 1' 3-max Seat #3 is the button
+Seat 1: Hotei7777 (748 in chips) 
+Seat 2: VersHache (430 in chips) 
+Seat 3: mabeal1 (322 in chips) 
+Hotei7777: posts small blind 10
+VersHache: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Qs]
+mabeal1: raises 20 to 40
+Hotei7777: calls 30
+VersHache: calls 20
+*** FLOP *** [9c Ah Tc]
+Hotei7777: checks 
+VersHache: checks 
+mabeal1: checks 
+*** TURN *** [9c Ah Tc] [Jd]
+Hotei7777: bets 20
+VersHache: raises 20 to 40
+mabeal1: calls 40
+Hotei7777: raises 20 to 60
+VersHache: calls 20
+mabeal1: calls 20
+*** RIVER *** [9c Ah Tc Jd] [6d]
+Hotei7777: bets 648 and is all-in
+VersHache: folds 
+mabeal1: folds 
+Uncalled bet (648) returned to Hotei7777
+Hotei7777 collected 300 from pot
+Hotei7777: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [9c Ah Tc Jd 6d]
+Seat 1: Hotei7777 (small blind) collected (300)
+Seat 2: VersHache (big blind) folded on the River
+Seat 3: mabeal1 (button) folded on the River
+
+
+
+PokerStars Hand #259577405217: Tournament #3971742443, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:37:56 CET [2026/02/03 11:37:56 ET]
+Table '3971742443 1' 3-max Seat #1 is the button
+Seat 1: Hotei7777 (948 in chips) 
+Seat 2: VersHache (330 in chips) 
+Seat 3: mabeal1 (222 in chips) 
+VersHache: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7d]
+Hotei7777: calls 20
+VersHache: folds 
+mabeal1: checks 
+*** FLOP *** [Td Qc 4h]
+mabeal1: checks 
+Hotei7777: checks 
+*** TURN *** [Td Qc 4h] [3d]
+mabeal1: checks 
+Hotei7777: bets 20
+mabeal1: calls 20
+*** RIVER *** [Td Qc 4h 3d] [9c]
+mabeal1: checks 
+Hotei7777: bets 908 and is all-in
+mabeal1: calls 182 and is all-in
+Uncalled bet (726) returned to Hotei7777
+*** SHOW DOWN ***
+Hotei7777: shows [4c 4d] (three of a kind, Fours)
+mabeal1: shows [3h 7d] (a pair of Threes)
+Hotei7777 collected 454 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 454 | Rake 0 
+Board [Td Qc 4h 3d 9c]
+Seat 1: Hotei7777 (button) showed [4c 4d] and won (454) with three of a kind, Fours
+Seat 2: VersHache (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [3h 7d] and lost with a pair of Threes
+
+
+

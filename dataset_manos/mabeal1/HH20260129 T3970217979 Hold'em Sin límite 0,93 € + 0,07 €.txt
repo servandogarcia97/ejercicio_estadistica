@@ -1,0 +1,601 @@
+﻿PokerStars Hand #259509942555: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:18:31 CET [2026/01/29 12:18:31 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (500 in chips) 
+Seat 2: dirki1981 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+dirki1981: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5c]
+naxeteoner: folds 
+dirki1981: calls 10
+mabeal1: checks 
+*** FLOP *** [5d Ac Jh]
+dirki1981: checks 
+mabeal1: checks 
+*** TURN *** [5d Ac Jh] [7d]
+dirki1981: checks 
+mabeal1: checks 
+*** RIVER *** [5d Ac Jh 7d] [As]
+dirki1981: bets 20
+mabeal1: calls 20
+*** SHOW DOWN ***
+dirki1981: shows [5h Qh] (two pair, Aces and Fives)
+mabeal1: mucks hand 
+dirki1981 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d Ac Jh 7d As]
+Seat 1: naxeteoner (button) folded before Flop (didn't bet)
+Seat 2: dirki1981 (small blind) showed [5h Qh] and won (80) with two pair, Aces and Fives
+Seat 3: mabeal1 (big blind) mucked [Ts 5c]
+
+
+
+PokerStars Hand #259509946556: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:18:51 CET [2026/01/29 12:18:51 ET]
+Table '3970217979 1' 3-max Seat #2 is the button
+Seat 1: naxeteoner (500 in chips) 
+Seat 2: dirki1981 (540 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+naxeteoner: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Td]
+dirki1981: folds 
+mabeal1: raises 20 to 40
+naxeteoner: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: naxeteoner (big blind) folded before Flop
+Seat 2: dirki1981 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259509950199: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:19:09 CET [2026/01/29 12:19:09 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (480 in chips) 
+Seat 2: dirki1981 (540 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+naxeteoner: posts small blind 10
+dirki1981: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 6h]
+mabeal1: folds 
+naxeteoner: calls 10
+dirki1981: checks 
+*** FLOP *** [6c Ac 4s]
+naxeteoner: bets 20
+dirki1981: folds 
+Uncalled bet (20) returned to naxeteoner
+naxeteoner collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c Ac 4s]
+Seat 1: naxeteoner (small blind) collected (40)
+Seat 2: dirki1981 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259509954751: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:19:32 CET [2026/01/29 12:19:32 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (500 in chips) 
+Seat 2: dirki1981 (520 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+dirki1981: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 8h]
+naxeteoner: calls 20
+dirki1981: calls 10
+mabeal1: checks 
+*** FLOP *** [6h 7h 6s]
+dirki1981: checks 
+mabeal1: bets 20
+naxeteoner: folds 
+dirki1981: calls 20
+*** TURN *** [6h 7h 6s] [Jd]
+dirki1981: checks 
+mabeal1: checks 
+*** RIVER *** [6h 7h 6s Jd] [Qh]
+dirki1981: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+dirki1981: shows [4c 5s] (a pair of Sixes)
+mabeal1: shows [7c 8h] (two pair, Sevens and Sixes)
+mabeal1 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6h 7h 6s Jd Qh]
+Seat 1: naxeteoner (button) folded on the Flop
+Seat 2: dirki1981 (small blind) showed [4c 5s] and lost with a pair of Sixes
+Seat 3: mabeal1 (big blind) showed [7c 8h] and won (100) with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #259509961427: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:20:05 CET [2026/01/29 12:20:05 ET]
+Table '3970217979 1' 3-max Seat #2 is the button
+Seat 1: naxeteoner (480 in chips) 
+Seat 2: dirki1981 (480 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+mabeal1: posts small blind 10
+naxeteoner: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 8c]
+dirki1981: raises 20 to 40
+mabeal1: raises 500 to 540 and is all-in
+naxeteoner: folds 
+dirki1981: calls 440 and is all-in
+Uncalled bet (60) returned to mabeal1
+*** FLOP *** [3d 5d 9h]
+*** TURN *** [3d 5d 9h] [3h]
+*** RIVER *** [3d 5d 9h 3h] [Jc]
+*** SHOW DOWN ***
+mabeal1: shows [8h 8c] (two pair, Eights and Threes)
+dirki1981: shows [Qh Kc] (a pair of Threes)
+mabeal1 collected 980 from pot
+dirki1981 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [3d 5d 9h 3h Jc]
+Seat 1: naxeteoner (big blind) folded before Flop
+Seat 2: dirki1981 (button) showed [Qh Kc] and lost with a pair of Threes
+Seat 3: mabeal1 (small blind) showed [8h 8c] and won (980) with two pair, Eights and Threes
+
+
+
+PokerStars Hand #259509966687: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:20:31 CET [2026/01/29 12:20:31 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+naxeteoner: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 9h]
+naxeteoner: calls 10
+mabeal1: checks 
+*** FLOP *** [6c Qs 2s]
+mabeal1: checks 
+naxeteoner: checks 
+*** TURN *** [6c Qs 2s] [Kd]
+mabeal1: checks 
+naxeteoner: checks 
+*** RIVER *** [6c Qs 2s Kd] [8h]
+mabeal1: bets 20
+naxeteoner: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c Qs 2s Kd 8h]
+Seat 1: naxeteoner (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259509971665: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:20:56 CET [2026/01/29 12:20:56 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+mabeal1: posts small blind 15
+naxeteoner: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Jh]
+mabeal1: calls 15
+naxeteoner: checks 
+*** FLOP *** [Ks 9s Js]
+naxeteoner: checks 
+mabeal1: checks 
+*** TURN *** [Ks 9s Js] [6d]
+naxeteoner: checks 
+mabeal1: checks 
+*** RIVER *** [Ks 9s Js 6d] [5h]
+naxeteoner: checks 
+mabeal1: bets 30
+naxeteoner: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks 9s Js 6d 5h]
+Seat 1: naxeteoner (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259509976179: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:21:19 CET [2026/01/29 12:21:19 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (410 in chips) 
+Seat 3: mabeal1 (1090 in chips) 
+naxeteoner: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Ah]
+naxeteoner: calls 15
+mabeal1: raises 1060 to 1090 and is all-in
+naxeteoner: folds 
+Uncalled bet (1060) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: naxeteoner (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259509978144: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:21:29 CET [2026/01/29 12:21:29 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (380 in chips) 
+Seat 3: mabeal1 (1120 in chips) 
+mabeal1: posts small blind 15
+naxeteoner: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 8s]
+mabeal1: calls 15
+naxeteoner: raises 350 to 380 and is all-in
+mabeal1: folds 
+Uncalled bet (350) returned to naxeteoner
+naxeteoner collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: naxeteoner (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259509979897: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:21:37 CET [2026/01/29 12:21:37 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (410 in chips) 
+Seat 3: mabeal1 (1090 in chips) 
+naxeteoner: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ks]
+naxeteoner: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: naxeteoner (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259509980711: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:21:42 CET [2026/01/29 12:21:42 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (395 in chips) 
+Seat 3: mabeal1 (1105 in chips) 
+mabeal1: posts small blind 15
+naxeteoner: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 6d]
+mabeal1: calls 15
+naxeteoner: checks 
+*** FLOP *** [4c Jd As]
+naxeteoner: bets 365 and is all-in
+mabeal1: folds 
+Uncalled bet (365) returned to naxeteoner
+naxeteoner collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c Jd As]
+Seat 1: naxeteoner (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259509982930: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:21:53 CET [2026/01/29 12:21:53 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (425 in chips) 
+Seat 3: mabeal1 (1075 in chips) 
+naxeteoner: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Kh]
+naxeteoner: calls 15
+mabeal1: raises 1045 to 1075 and is all-in
+naxeteoner: folds 
+Uncalled bet (1045) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: naxeteoner (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259509984577: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:22:01 CET [2026/01/29 12:22:01 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (395 in chips) 
+Seat 3: mabeal1 (1105 in chips) 
+mabeal1: posts small blind 15
+naxeteoner: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Jd]
+mabeal1: raises 1075 to 1105 and is all-in
+naxeteoner: calls 365 and is all-in
+Uncalled bet (710) returned to mabeal1
+*** FLOP *** [Qd 6h 4d]
+*** TURN *** [Qd 6h 4d] [2c]
+*** RIVER *** [Qd 6h 4d 2c] [9d]
+*** SHOW DOWN ***
+naxeteoner: shows [Kd 2s] (a pair of Deuces)
+mabeal1: shows [As Jd] (high card Ace)
+naxeteoner collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [Qd 6h 4d 2c 9d]
+Seat 1: naxeteoner (big blind) showed [Kd 2s] and won (790) with a pair of Deuces
+Seat 3: mabeal1 (button) (small blind) showed [As Jd] and lost with high card Ace
+
+
+
+PokerStars Hand #259509987354: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:22:14 CET [2026/01/29 12:22:14 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (790 in chips) 
+Seat 3: mabeal1 (710 in chips) 
+naxeteoner: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 7d]
+naxeteoner: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: naxeteoner (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259509988571: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:22:20 CET [2026/01/29 12:22:20 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (775 in chips) 
+Seat 3: mabeal1 (725 in chips) 
+mabeal1: posts small blind 15
+naxeteoner: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Td]
+mabeal1: calls 15
+naxeteoner: checks 
+*** FLOP *** [Kh Js 4d]
+naxeteoner: checks 
+mabeal1: bets 30
+naxeteoner: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh Js 4d]
+Seat 1: naxeteoner (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259509990743: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:22:31 CET [2026/01/29 12:22:31 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (745 in chips) 
+Seat 3: mabeal1 (755 in chips) 
+naxeteoner: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5h]
+naxeteoner: raises 715 to 745 and is all-in
+mabeal1: folds 
+Uncalled bet (715) returned to naxeteoner
+naxeteoner collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: naxeteoner (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259509993031: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 18:22:43 CET [2026/01/29 12:22:43 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (775 in chips) 
+Seat 3: mabeal1 (725 in chips) 
+mabeal1: posts small blind 20
+naxeteoner: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 7c]
+mabeal1: calls 20
+naxeteoner: checks 
+*** FLOP *** [Ah 5c 4d]
+naxeteoner: checks 
+mabeal1: bets 40
+naxeteoner: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ah 5c 4d]
+Seat 1: naxeteoner (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259509994904: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 18:22:52 CET [2026/01/29 12:22:52 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (735 in chips) 
+Seat 3: mabeal1 (765 in chips) 
+naxeteoner: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3s]
+naxeteoner: calls 20
+mabeal1: checks 
+*** FLOP *** [Th 2c Jh]
+mabeal1: checks 
+naxeteoner: bets 40
+mabeal1: raises 120 to 160
+naxeteoner: calls 120
+*** TURN *** [Th 2c Jh] [Qh]
+mabeal1: bets 565 and is all-in
+naxeteoner: folds 
+Uncalled bet (565) returned to mabeal1
+mabeal1 collected 400 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Th 2c Jh Qh]
+Seat 1: naxeteoner (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (400)
+
+
+
+PokerStars Hand #259509998810: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 18:23:11 CET [2026/01/29 12:23:11 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (535 in chips) 
+Seat 3: mabeal1 (965 in chips) 
+mabeal1: posts small blind 20
+naxeteoner: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9s]
+mabeal1: calls 20
+naxeteoner: raises 495 to 535 and is all-in
+mabeal1: folds 
+Uncalled bet (495) returned to naxeteoner
+naxeteoner collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: naxeteoner (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259510000638: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 18:23:20 CET [2026/01/29 12:23:20 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (575 in chips) 
+Seat 3: mabeal1 (925 in chips) 
+naxeteoner: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 6c]
+naxeteoner: raises 535 to 575 and is all-in
+mabeal1: folds 
+Uncalled bet (535) returned to naxeteoner
+naxeteoner collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: naxeteoner (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259510001912: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 18:23:26 CET [2026/01/29 12:23:26 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (615 in chips) 
+Seat 3: mabeal1 (885 in chips) 
+mabeal1: posts small blind 20
+naxeteoner: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Jc]
+mabeal1: calls 20
+naxeteoner: checks 
+*** FLOP *** [2d 9s Qh]
+naxeteoner: checks 
+mabeal1: bets 40
+naxeteoner: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d 9s Qh]
+Seat 1: naxeteoner (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259510004350: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 18:23:38 CET [2026/01/29 12:23:38 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (575 in chips) 
+Seat 3: mabeal1 (925 in chips) 
+naxeteoner: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Jc]
+naxeteoner: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: naxeteoner (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259510005342: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 18:23:43 CET [2026/01/29 12:23:43 ET]
+Table '3970217979 1' 3-max Seat #3 is the button
+Seat 1: naxeteoner (555 in chips) 
+Seat 3: mabeal1 (945 in chips) 
+mabeal1: posts small blind 20
+naxeteoner: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qd]
+mabeal1: raises 40 to 80
+naxeteoner: calls 40
+*** FLOP *** [Jh 5d 8s]
+naxeteoner: checks 
+mabeal1: bets 80
+naxeteoner: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jh 5d 8s]
+Seat 1: naxeteoner (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259510008838: Tournament #3970217979, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 18:24:00 CET [2026/01/29 12:24:00 ET]
+Table '3970217979 1' 3-max Seat #1 is the button
+Seat 1: naxeteoner (475 in chips) 
+Seat 3: mabeal1 (1025 in chips) 
+naxeteoner: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Tc]
+naxeteoner: calls 20
+mabeal1: checks 
+*** FLOP *** [8c Kh 5d]
+mabeal1: checks 
+naxeteoner: bets 40
+mabeal1: calls 40
+*** TURN *** [8c Kh 5d] [5s]
+mabeal1: checks 
+naxeteoner: bets 40
+mabeal1: raises 120 to 160
+naxeteoner: raises 235 to 395 and is all-in
+mabeal1: calls 235
+*** RIVER *** [8c Kh 5d 5s] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [5c Tc] (three of a kind, Fives)
+naxeteoner: shows [Ah Ad] (two pair, Aces and Fives)
+mabeal1 collected 950 from pot
+naxeteoner finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [8c Kh 5d 5s 6h]
+Seat 1: naxeteoner (button) (small blind) showed [Ah Ad] and lost with two pair, Aces and Fives
+Seat 3: mabeal1 (big blind) showed [5c Tc] and won (950) with three of a kind, Fives
+
+
+

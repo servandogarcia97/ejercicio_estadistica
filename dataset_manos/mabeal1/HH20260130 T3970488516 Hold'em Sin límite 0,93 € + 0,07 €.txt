@@ -1,0 +1,1259 @@
+﻿PokerStars Hand #259520683580: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:37:22 CET [2026/01/30 9:37:22 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: joaquinal2277 (500 in chips) 
+mabeal1: posts small blind 10
+joaquinal2277: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Js]
+makuy85: folds 
+mabeal1: raises 20 to 40
+joaquinal2277: calls 20
+*** FLOP *** [8d Kh 3s]
+mabeal1: bets 40
+joaquinal2277: calls 40
+*** TURN *** [8d Kh 3s] [9s]
+mabeal1: bets 120
+joaquinal2277: calls 120
+*** RIVER *** [8d Kh 3s 9s] [2c]
+mabeal1: checks 
+joaquinal2277: checks 
+*** SHOW DOWN ***
+mabeal1: shows [6s Js] (high card King)
+joaquinal2277: shows [9d 6d] (a pair of Nines)
+joaquinal2277 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [8d Kh 3s 9s 2c]
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [6s Js] and lost with high card King
+Seat 3: joaquinal2277 (big blind) showed [9d 6d] and won (400) with a pair of Nines
+
+
+
+PokerStars Hand #259520689703: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:38:05 CET [2026/01/30 9:38:05 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (500 in chips) 
+Seat 2: mabeal1 (300 in chips) 
+Seat 3: joaquinal2277 (700 in chips) 
+joaquinal2277: posts small blind 10
+makuy85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Kd]
+mabeal1: raises 20 to 40
+joaquinal2277: folds 
+makuy85: calls 20
+*** FLOP *** [9c Td 7h]
+makuy85: checks 
+mabeal1: checks 
+*** TURN *** [9c Td 7h] [6s]
+makuy85: checks 
+mabeal1: checks 
+*** RIVER *** [9c Td 7h 6s] [Jh]
+makuy85: checks 
+mabeal1: bets 100
+makuy85: folds 
+Uncalled bet (100) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9c Td 7h 6s Jh]
+Seat 1: makuy85 (big blind) folded on the River
+Seat 2: mabeal1 (button) collected (90)
+Seat 3: joaquinal2277 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259520693517: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:38:30 CET [2026/01/30 9:38:30 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (460 in chips) 
+Seat 2: mabeal1 (350 in chips) 
+Seat 3: joaquinal2277 (690 in chips) 
+makuy85: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 8c]
+joaquinal2277: calls 20
+makuy85: folds 
+mabeal1: checks 
+*** FLOP *** [Js Qd 9c]
+mabeal1: checks 
+joaquinal2277: bets 20
+mabeal1: calls 20
+*** TURN *** [Js Qd 9c] [4d]
+mabeal1: checks 
+joaquinal2277: bets 20
+mabeal1: calls 20
+*** RIVER *** [Js Qd 9c 4d] [Jh]
+mabeal1: bets 290 and is all-in
+joaquinal2277: folds 
+Uncalled bet (290) returned to mabeal1
+mabeal1 collected 130 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Js Qd 9c 4d Jh]
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (130)
+Seat 3: joaquinal2277 (button) folded on the River
+
+
+
+PokerStars Hand #259520697190: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:38:55 CET [2026/01/30 9:38:55 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (450 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: joaquinal2277 (630 in chips) 
+mabeal1: posts small blind 10
+joaquinal2277: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 4d]
+makuy85: folds 
+mabeal1: raises 400 to 420 and is all-in
+joaquinal2277: folds 
+Uncalled bet (400) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: joaquinal2277 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259520698679: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:39:05 CET [2026/01/30 9:39:05 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (450 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: joaquinal2277 (610 in chips) 
+joaquinal2277: posts small blind 10
+makuy85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3c]
+mabeal1: folds 
+joaquinal2277: calls 10
+makuy85: checks 
+*** FLOP *** [Ah 2h 4h]
+joaquinal2277: bets 20
+makuy85: folds 
+Uncalled bet (20) returned to joaquinal2277
+joaquinal2277 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah 2h 4h]
+Seat 1: makuy85 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joaquinal2277 (small blind) collected (40)
+
+
+
+PokerStars Hand #259520700409: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:39:16 CET [2026/01/30 9:39:16 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (430 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: joaquinal2277 (630 in chips) 
+makuy85: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9s]
+joaquinal2277: raises 20 to 40
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to joaquinal2277
+joaquinal2277 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: joaquinal2277 (button) collected (50)
+
+
+
+PokerStars Hand #259520701680: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:39:25 CET [2026/01/30 9:39:25 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (420 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: joaquinal2277 (660 in chips) 
+mabeal1: posts small blind 10
+joaquinal2277: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 3d]
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to joaquinal2277
+joaquinal2277 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) collected (20)
+
+
+
+PokerStars Hand #259520702717: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:39:32 CET [2026/01/30 9:39:32 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (420 in chips) 
+Seat 2: mabeal1 (410 in chips) 
+Seat 3: joaquinal2277 (670 in chips) 
+joaquinal2277: posts small blind 10
+makuy85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7d]
+mabeal1: raises 20 to 40
+joaquinal2277: folds 
+makuy85: calls 20
+*** FLOP *** [Tc Qh 6d]
+makuy85: checks 
+mabeal1: checks 
+*** TURN *** [Tc Qh 6d] [Td]
+makuy85: checks 
+mabeal1: bets 60
+makuy85: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Tc Qh 6d Td]
+Seat 1: makuy85 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) collected (90)
+Seat 3: joaquinal2277 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259520705484: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:39:50 CET [2026/01/30 9:39:50 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (380 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: joaquinal2277 (660 in chips) 
+makuy85: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 6s]
+joaquinal2277: calls 20
+makuy85: calls 10
+mabeal1: checks 
+*** FLOP *** [Qs 5c 3c]
+makuy85: checks 
+mabeal1: checks 
+joaquinal2277: bets 40
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to joaquinal2277
+joaquinal2277 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 5c 3c]
+Seat 1: makuy85 (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: joaquinal2277 (button) collected (60)
+
+
+
+PokerStars Hand #259520707811: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:40:06 CET [2026/01/30 9:40:06 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (360 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: joaquinal2277 (700 in chips) 
+mabeal1: posts small blind 10
+joaquinal2277: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 8c]
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to joaquinal2277
+joaquinal2277 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) collected (20)
+
+
+
+PokerStars Hand #259520708926: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 15:40:13 CET [2026/01/30 9:40:13 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (360 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: joaquinal2277 (710 in chips) 
+joaquinal2277: posts small blind 10
+makuy85: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ad]
+mabeal1: raises 20 to 40
+joaquinal2277: calls 30
+makuy85: calls 20
+*** FLOP *** [5c 4d 5h]
+joaquinal2277: bets 20
+makuy85: calls 20
+mabeal1: calls 20
+*** TURN *** [5c 4d 5h] [7s]
+joaquinal2277: checks 
+makuy85: checks 
+mabeal1: checks 
+*** RIVER *** [5c 4d 5h 7s] [7h]
+joaquinal2277: bets 40
+makuy85: folds 
+mabeal1: calls 40
+*** SHOW DOWN ***
+joaquinal2277: shows [Ks Tc] (two pair, Sevens and Fives)
+mabeal1: shows [3s Ad] (two pair, Sevens and Fives - Ace kicker)
+mabeal1 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [5c 4d 5h 7s 7h]
+Seat 1: makuy85 (big blind) folded on the River
+Seat 2: mabeal1 (button) showed [3s Ad] and won (260) with two pair, Sevens and Fives
+Seat 3: joaquinal2277 (small blind) showed [Ks Tc] and lost with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #259520712739: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:40:40 CET [2026/01/30 9:40:40 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (300 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: joaquinal2277 (610 in chips) 
+makuy85: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Jc]
+joaquinal2277: folds 
+makuy85: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to makuy85
+makuy85 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: makuy85 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520713819: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:40:47 CET [2026/01/30 9:40:47 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (330 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: joaquinal2277 (610 in chips) 
+mabeal1: posts small blind 15
+joaquinal2277: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 2s]
+makuy85: raises 30 to 60
+mabeal1: folds 
+joaquinal2277: calls 30
+*** FLOP *** [6s 2c 9s]
+joaquinal2277: bets 30
+makuy85: calls 30
+*** TURN *** [6s 2c 9s] [Kh]
+joaquinal2277: bets 60
+makuy85: folds 
+Uncalled bet (60) returned to joaquinal2277
+joaquinal2277 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [6s 2c 9s Kh]
+Seat 1: makuy85 (button) folded on the Turn
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) collected (195)
+
+
+
+PokerStars Hand #259520716441: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:41:04 CET [2026/01/30 9:41:04 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (240 in chips) 
+Seat 2: mabeal1 (545 in chips) 
+Seat 3: joaquinal2277 (715 in chips) 
+joaquinal2277: posts small blind 15
+makuy85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 2d]
+mabeal1: folds 
+joaquinal2277: calls 15
+makuy85: raises 210 to 240 and is all-in
+joaquinal2277: folds 
+Uncalled bet (210) returned to makuy85
+makuy85 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: makuy85 (big blind) collected (60)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joaquinal2277 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259520717930: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:41:14 CET [2026/01/30 9:41:14 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (270 in chips) 
+Seat 2: mabeal1 (545 in chips) 
+Seat 3: joaquinal2277 (685 in chips) 
+makuy85: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 2c]
+joaquinal2277: folds 
+makuy85: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to makuy85
+makuy85 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: makuy85 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520718975: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:41:21 CET [2026/01/30 9:41:21 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (300 in chips) 
+Seat 2: mabeal1 (515 in chips) 
+Seat 3: joaquinal2277 (685 in chips) 
+mabeal1: posts small blind 15
+joaquinal2277: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6d]
+makuy85: calls 30
+mabeal1: folds 
+joaquinal2277: checks 
+*** FLOP *** [Qd 2d 9h]
+joaquinal2277: bets 120
+makuy85: raises 150 to 270 and is all-in
+joaquinal2277: calls 150
+*** TURN *** [Qd 2d 9h] [As]
+*** RIVER *** [Qd 2d 9h As] [7c]
+*** SHOW DOWN ***
+joaquinal2277: shows [3c Qh] (a pair of Queens)
+makuy85: shows [Qs Tc] (a pair of Queens - Ace+Ten kicker)
+makuy85 collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [Qd 2d 9h As 7c]
+Seat 1: makuy85 (button) showed [Qs Tc] and won (615) with a pair of Queens
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) showed [3c Qh] and lost with a pair of Queens
+
+
+
+PokerStars Hand #259520722040: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:41:41 CET [2026/01/30 9:41:41 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (615 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: joaquinal2277 (385 in chips) 
+joaquinal2277: posts small blind 15
+makuy85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Jh]
+mabeal1: raises 30 to 60
+joaquinal2277: folds 
+makuy85: calls 30
+*** FLOP *** [5d 7h 5c]
+makuy85: checks 
+mabeal1: checks 
+*** TURN *** [5d 7h 5c] [Qd]
+makuy85: checks 
+mabeal1: bets 101
+makuy85: folds 
+Uncalled bet (101) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [5d 7h 5c Qd]
+Seat 1: makuy85 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) collected (135)
+Seat 3: joaquinal2277 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259520724518: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:41:58 CET [2026/01/30 9:41:58 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (555 in chips) 
+Seat 2: mabeal1 (575 in chips) 
+Seat 3: joaquinal2277 (370 in chips) 
+makuy85: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 5d]
+joaquinal2277: folds 
+makuy85: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520725497: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:42:05 CET [2026/01/30 9:42:05 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (540 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: joaquinal2277 (370 in chips) 
+mabeal1: posts small blind 15
+joaquinal2277: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 4h]
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to joaquinal2277
+joaquinal2277 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) collected (30)
+
+
+
+PokerStars Hand #259520726547: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:42:12 CET [2026/01/30 9:42:12 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (540 in chips) 
+Seat 2: mabeal1 (575 in chips) 
+Seat 3: joaquinal2277 (385 in chips) 
+joaquinal2277: posts small blind 15
+makuy85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 5s]
+mabeal1: folds 
+joaquinal2277: raises 355 to 385 and is all-in
+makuy85: folds 
+Uncalled bet (355) returned to joaquinal2277
+joaquinal2277 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: makuy85 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joaquinal2277 (small blind) collected (60)
+
+
+
+PokerStars Hand #259520727829: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:42:20 CET [2026/01/30 9:42:20 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (510 in chips) 
+Seat 2: mabeal1 (575 in chips) 
+Seat 3: joaquinal2277 (415 in chips) 
+makuy85: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 5c]
+joaquinal2277: folds 
+makuy85: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520728705: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:42:26 CET [2026/01/30 9:42:26 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (495 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: joaquinal2277 (415 in chips) 
+mabeal1: posts small blind 15
+joaquinal2277: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 3s]
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to joaquinal2277
+joaquinal2277 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) collected (30)
+
+
+
+PokerStars Hand #259520729559: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:42:32 CET [2026/01/30 9:42:32 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (495 in chips) 
+Seat 2: mabeal1 (575 in chips) 
+Seat 3: joaquinal2277 (430 in chips) 
+joaquinal2277: posts small blind 15
+makuy85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5c]
+mabeal1: raises 545 to 575 and is all-in
+joaquinal2277: folds 
+makuy85: folds 
+Uncalled bet (545) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: makuy85 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (75)
+Seat 3: joaquinal2277 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259520730699: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:42:39 CET [2026/01/30 9:42:39 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (465 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: joaquinal2277 (415 in chips) 
+makuy85: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Qs]
+joaquinal2277: folds 
+makuy85: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520731584: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:42:45 CET [2026/01/30 9:42:45 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (450 in chips) 
+Seat 2: mabeal1 (635 in chips) 
+Seat 3: joaquinal2277 (415 in chips) 
+mabeal1: posts small blind 15
+joaquinal2277: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 3h]
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to joaquinal2277
+joaquinal2277 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) collected (30)
+
+
+
+PokerStars Hand #259520732449: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:42:51 CET [2026/01/30 9:42:51 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (450 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: joaquinal2277 (430 in chips) 
+joaquinal2277: posts small blind 15
+makuy85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 6h]
+mabeal1: folds 
+joaquinal2277: raises 30 to 60
+makuy85: calls 30
+*** FLOP *** [4c Kd 3c]
+joaquinal2277: checks 
+makuy85: checks 
+*** TURN *** [4c Kd 3c] [7h]
+joaquinal2277: bets 30
+makuy85: calls 30
+*** RIVER *** [4c Kd 3c 7h] [6d]
+joaquinal2277: checks 
+makuy85: bets 30
+joaquinal2277: folds 
+Uncalled bet (30) returned to makuy85
+makuy85 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4c Kd 3c 7h 6d]
+Seat 1: makuy85 (big blind) collected (180)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joaquinal2277 (small blind) folded on the River
+
+
+
+PokerStars Hand #259520736635: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 15:43:19 CET [2026/01/30 9:43:19 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (540 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: joaquinal2277 (340 in chips) 
+makuy85: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 9s]
+joaquinal2277: folds 
+makuy85: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520738286: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:43:30 CET [2026/01/30 9:43:30 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (525 in chips) 
+Seat 2: mabeal1 (635 in chips) 
+Seat 3: joaquinal2277 (340 in chips) 
+mabeal1: posts small blind 20
+joaquinal2277: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2c]
+makuy85: raises 100 to 140
+mabeal1: folds 
+joaquinal2277: folds 
+Uncalled bet (100) returned to makuy85
+makuy85 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: makuy85 (button) collected (100)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259520739277: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:43:37 CET [2026/01/30 9:43:37 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (585 in chips) 
+Seat 2: mabeal1 (615 in chips) 
+Seat 3: joaquinal2277 (300 in chips) 
+joaquinal2277: posts small blind 20
+makuy85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 2s]
+mabeal1: folds 
+joaquinal2277: raises 260 to 300 and is all-in
+makuy85: folds 
+Uncalled bet (260) returned to joaquinal2277
+joaquinal2277 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: makuy85 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joaquinal2277 (small blind) collected (80)
+
+
+
+PokerStars Hand #259520741329: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:43:51 CET [2026/01/30 9:43:51 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (545 in chips) 
+Seat 2: mabeal1 (615 in chips) 
+Seat 3: joaquinal2277 (340 in chips) 
+makuy85: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Kh]
+joaquinal2277: raises 300 to 340 and is all-in
+makuy85: folds 
+mabeal1: calls 300
+*** FLOP *** [3d Qc 7c]
+*** TURN *** [3d Qc 7c] [Kd]
+*** RIVER *** [3d Qc 7c Kd] [2c]
+*** SHOW DOWN ***
+mabeal1: shows [Ah Kh] (a pair of Kings)
+joaquinal2277: shows [3s Ks] (two pair, Kings and Threes)
+joaquinal2277 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [3d Qc 7c Kd 2c]
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [Ah Kh] and lost with a pair of Kings
+Seat 3: joaquinal2277 (button) showed [3s Ks] and won (700) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #259520743306: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:44:04 CET [2026/01/30 9:44:04 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (525 in chips) 
+Seat 2: mabeal1 (275 in chips) 
+Seat 3: joaquinal2277 (700 in chips) 
+mabeal1: posts small blind 20
+joaquinal2277: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Kc]
+makuy85: folds 
+mabeal1: raises 235 to 275 and is all-in
+joaquinal2277: folds 
+Uncalled bet (235) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (80)
+Seat 3: joaquinal2277 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259520744607: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:44:13 CET [2026/01/30 9:44:13 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (525 in chips) 
+Seat 2: mabeal1 (315 in chips) 
+Seat 3: joaquinal2277 (660 in chips) 
+joaquinal2277: posts small blind 20
+makuy85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 2s]
+mabeal1: folds 
+joaquinal2277: folds 
+Uncalled bet (20) returned to makuy85
+makuy85 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: makuy85 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joaquinal2277 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259520745415: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:44:19 CET [2026/01/30 9:44:19 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (545 in chips) 
+Seat 2: mabeal1 (315 in chips) 
+Seat 3: joaquinal2277 (640 in chips) 
+makuy85: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 8h]
+joaquinal2277: calls 40
+makuy85: folds 
+mabeal1: raises 275 to 315 and is all-in
+joaquinal2277: calls 275
+*** FLOP *** [9s Js 2c]
+*** TURN *** [9s Js 2c] [3d]
+*** RIVER *** [9s Js 2c 3d] [4s]
+*** SHOW DOWN ***
+mabeal1: shows [8d 8h] (a pair of Eights)
+joaquinal2277: shows [As 2h] (a pair of Deuces)
+mabeal1 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [9s Js 2c 3d 4s]
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [8d 8h] and won (650) with a pair of Eights
+Seat 3: joaquinal2277 (button) showed [As 2h] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259520747878: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:44:35 CET [2026/01/30 9:44:35 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (525 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: joaquinal2277 (325 in chips) 
+mabeal1: posts small blind 20
+joaquinal2277: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2s]
+makuy85: raises 100 to 140
+mabeal1: folds 
+joaquinal2277: raises 185 to 325 and is all-in
+makuy85: calls 185
+*** FLOP *** [Ks Jd Js]
+*** TURN *** [Ks Jd Js] [6c]
+*** RIVER *** [Ks Jd Js 6c] [Kd]
+*** SHOW DOWN ***
+joaquinal2277: shows [4h Ad] (two pair, Kings and Jacks)
+makuy85: shows [Ts Tc] (two pair, Kings and Jacks - lower kicker)
+joaquinal2277 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [Ks Jd Js 6c Kd]
+Seat 1: makuy85 (button) showed [Ts Tc] and lost with two pair, Kings and Jacks
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) showed [4h Ad] and won (670) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #259520750688: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:44:54 CET [2026/01/30 9:44:54 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (200 in chips) 
+Seat 2: mabeal1 (630 in chips) 
+Seat 3: joaquinal2277 (670 in chips) 
+joaquinal2277: posts small blind 20
+makuy85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 6c]
+mabeal1: raises 40 to 80
+joaquinal2277: folds 
+makuy85: raises 120 to 200 and is all-in
+mabeal1: folds 
+Uncalled bet (120) returned to makuy85
+makuy85 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: makuy85 (big blind) collected (180)
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: joaquinal2277 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259520753205: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:45:11 CET [2026/01/30 9:45:11 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (300 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: joaquinal2277 (650 in chips) 
+makuy85: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 7c]
+joaquinal2277: folds 
+makuy85: calls 20
+mabeal1: checks 
+*** FLOP *** [5d Ac Jh]
+makuy85: bets 260 and is all-in
+mabeal1: folds 
+Uncalled bet (260) returned to makuy85
+makuy85 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d Ac Jh]
+Seat 1: makuy85 (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520755001: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:45:23 CET [2026/01/30 9:45:23 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (340 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: joaquinal2277 (650 in chips) 
+mabeal1: posts small blind 20
+joaquinal2277: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 3c]
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to joaquinal2277
+joaquinal2277 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) collected (40)
+
+
+
+PokerStars Hand #259520755788: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:45:28 CET [2026/01/30 9:45:28 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (340 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: joaquinal2277 (670 in chips) 
+joaquinal2277: posts small blind 20
+makuy85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3s]
+mabeal1: folds 
+joaquinal2277: calls 20
+makuy85: checks 
+*** FLOP *** [Ts 4h Th]
+joaquinal2277: bets 40
+makuy85: calls 40
+*** TURN *** [Ts 4h Th] [Qd]
+joaquinal2277: bets 80
+makuy85: raises 180 to 260 and is all-in
+joaquinal2277: calls 180
+*** RIVER *** [Ts 4h Th Qd] [7h]
+*** SHOW DOWN ***
+joaquinal2277: shows [Qh 7c] (two pair, Queens and Tens)
+makuy85: shows [2d Td] (three of a kind, Tens)
+makuy85 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [Ts 4h Th Qd 7h]
+Seat 1: makuy85 (big blind) showed [2d Td] and won (680) with three of a kind, Tens
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joaquinal2277 (small blind) showed [Qh 7c] and lost with two pair, Queens and Tens
+
+
+
+PokerStars Hand #259520759161: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:45:50 CET [2026/01/30 9:45:50 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (680 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: joaquinal2277 (330 in chips) 
+makuy85: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9d]
+joaquinal2277: raises 290 to 330 and is all-in
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (290) returned to joaquinal2277
+joaquinal2277 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: joaquinal2277 (button) collected (100)
+
+
+
+PokerStars Hand #259520760568: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:45:59 CET [2026/01/30 9:45:59 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (660 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: joaquinal2277 (390 in chips) 
+mabeal1: posts small blind 20
+joaquinal2277: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8c]
+makuy85: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to joaquinal2277
+joaquinal2277 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) collected (40)
+
+
+
+PokerStars Hand #259520761672: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:46:07 CET [2026/01/30 9:46:07 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (660 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: joaquinal2277 (410 in chips) 
+joaquinal2277: posts small blind 20
+makuy85: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 3h]
+mabeal1: folds 
+joaquinal2277: folds 
+Uncalled bet (20) returned to makuy85
+makuy85 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: makuy85 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joaquinal2277 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259520762510: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 15:46:12 CET [2026/01/30 9:46:12 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (680 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: joaquinal2277 (390 in chips) 
+makuy85: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2c]
+joaquinal2277: folds 
+makuy85: calls 20
+mabeal1: checks 
+*** FLOP *** [9h Tc 7d]
+makuy85: checks 
+mabeal1: bets 80
+makuy85: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Tc 7d]
+Seat 1: makuy85 (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520765160: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 15:46:29 CET [2026/01/30 9:46:29 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (640 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: joaquinal2277 (390 in chips) 
+mabeal1: posts small blind 30
+joaquinal2277: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kh]
+makuy85: raises 150 to 210
+mabeal1: folds 
+joaquinal2277: raises 180 to 390 and is all-in
+makuy85: calls 180
+*** FLOP *** [9h 6c 3s]
+*** TURN *** [9h 6c 3s] [6s]
+*** RIVER *** [9h 6c 3s 6s] [9d]
+*** SHOW DOWN ***
+joaquinal2277: shows [3h Ac] (two pair, Nines and Sixes)
+makuy85: shows [Qs As] (two pair, Nines and Sixes)
+joaquinal2277 collected 405 from pot
+makuy85 collected 405 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [9h 6c 3s 6s 9d]
+Seat 1: makuy85 (button) showed [Qs As] and won (405) with two pair, Nines and Sixes
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joaquinal2277 (big blind) showed [3h Ac] and won (405) with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #259520768501: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 15:46:52 CET [2026/01/30 9:46:52 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (655 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: joaquinal2277 (405 in chips) 
+joaquinal2277: posts small blind 30
+makuy85: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 8h]
+mabeal1: raises 380 to 440 and is all-in
+joaquinal2277: folds 
+makuy85: folds 
+Uncalled bet (380) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: makuy85 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (150)
+Seat 3: joaquinal2277 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259520769932: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 15:47:01 CET [2026/01/30 9:47:01 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (595 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: joaquinal2277 (375 in chips) 
+makuy85: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Ad]
+joaquinal2277: folds 
+makuy85: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520770862: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 15:47:07 CET [2026/01/30 9:47:07 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (565 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: joaquinal2277 (375 in chips) 
+mabeal1: posts small blind 30
+joaquinal2277: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6s]
+makuy85: folds 
+mabeal1: raises 500 to 560 and is all-in
+joaquinal2277: calls 315 and is all-in
+Uncalled bet (185) returned to mabeal1
+*** FLOP *** [Kd Ah Qd]
+*** TURN *** [Kd Ah Qd] [3c]
+*** RIVER *** [Kd Ah Qd 3c] [7h]
+*** SHOW DOWN ***
+mabeal1: shows [6c 6s] (a pair of Sixes)
+joaquinal2277: shows [Ts Js] (a straight, Ten to Ace)
+joaquinal2277 collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [Kd Ah Qd 3c 7h]
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [6c 6s] and lost with a pair of Sixes
+Seat 3: joaquinal2277 (big blind) showed [Ts Js] and won (750) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #259520772875: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 15:47:20 CET [2026/01/30 9:47:20 ET]
+Table '3970488516 1' 3-max Seat #2 is the button
+Seat 1: makuy85 (565 in chips) 
+Seat 2: mabeal1 (185 in chips) 
+Seat 3: joaquinal2277 (750 in chips) 
+joaquinal2277: posts small blind 30
+makuy85: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2h]
+mabeal1: folds 
+joaquinal2277: calls 30
+makuy85: checks 
+*** FLOP *** [Jh Kh Ts]
+joaquinal2277: checks 
+makuy85: bets 60
+joaquinal2277: calls 60
+*** TURN *** [Jh Kh Ts] [8h]
+joaquinal2277: bets 60
+makuy85: calls 60
+*** RIVER *** [Jh Kh Ts 8h] [As]
+joaquinal2277: checks 
+makuy85: checks 
+*** SHOW DOWN ***
+joaquinal2277: shows [9s 2s] (high card Ace)
+makuy85: shows [8s Th] (two pair, Tens and Eights)
+makuy85 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Jh Kh Ts 8h As]
+Seat 1: makuy85 (big blind) showed [8s Th] and won (360) with two pair, Tens and Eights
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joaquinal2277 (small blind) showed [9s 2s] and lost with high card Ace
+
+
+
+PokerStars Hand #259520776723: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 15:47:46 CET [2026/01/30 9:47:46 ET]
+Table '3970488516 1' 3-max Seat #3 is the button
+Seat 1: makuy85 (745 in chips) 
+Seat 2: mabeal1 (185 in chips) 
+Seat 3: joaquinal2277 (570 in chips) 
+makuy85: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 3d]
+joaquinal2277: folds 
+makuy85: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: makuy85 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: joaquinal2277 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259520777872: Tournament #3970488516, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 15:47:53 CET [2026/01/30 9:47:53 ET]
+Table '3970488516 1' 3-max Seat #1 is the button
+Seat 1: makuy85 (715 in chips) 
+Seat 2: mabeal1 (215 in chips) 
+Seat 3: joaquinal2277 (570 in chips) 
+mabeal1: posts small blind 30
+joaquinal2277: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jc]
+makuy85: folds 
+mabeal1: raises 155 to 215 and is all-in
+joaquinal2277: calls 155
+*** FLOP *** [5d As 2d]
+*** TURN *** [5d As 2d] [2h]
+*** RIVER *** [5d As 2d 2h] [6s]
+*** SHOW DOWN ***
+mabeal1: shows [7d Jc] (a pair of Deuces)
+joaquinal2277: shows [Ah 7h] (two pair, Aces and Deuces)
+joaquinal2277 collected 430 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [5d As 2d 2h 6s]
+Seat 1: makuy85 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [7d Jc] and lost with a pair of Deuces
+Seat 3: joaquinal2277 (big blind) showed [Ah 7h] and won (430) with two pair, Aces and Deuces
+
+
+

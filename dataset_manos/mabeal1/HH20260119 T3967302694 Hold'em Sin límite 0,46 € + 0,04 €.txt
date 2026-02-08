@@ -1,0 +1,44 @@
+﻿PokerStars Hand #259384481545: Tournament #3967302694, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 1:32:15 CET [2026/01/19 19:32:15 ET]
+Table '3967302694 1' 3-max Seat #1 is the button
+Seat 1: julenpulido (500 in chips) 
+Seat 2: vallribera1 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+vallribera1: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 4d]
+julenpulido: raises 20 to 40
+vallribera1: calls 30
+mabeal1: calls 20
+*** FLOP *** [Ad 8h 2d]
+vallribera1: bets 20
+mabeal1: calls 20
+julenpulido: calls 20
+*** TURN *** [Ad 8h 2d] [Tc]
+vallribera1: bets 20
+mabeal1: raises 120 to 140
+julenpulido: calls 140
+vallribera1: raises 120 to 260
+mabeal1: calls 120
+julenpulido: calls 120
+*** RIVER *** [Ad 8h 2d Tc] [2c]
+vallribera1: checks 
+mabeal1: checks 
+julenpulido: bets 20
+vallribera1: folds 
+mabeal1: raises 160 to 180 and is all-in
+julenpulido: calls 160 and is all-in
+*** SHOW DOWN ***
+mabeal1: shows [3d 4d] (a pair of Deuces)
+julenpulido: shows [Ac Kd] (two pair, Aces and Deuces)
+julenpulido collected 1320 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Ad 8h 2d Tc 2c]
+Seat 1: julenpulido (button) showed [Ac Kd] and won (1320) with two pair, Aces and Deuces
+Seat 2: vallribera1 (small blind) folded on the River
+Seat 3: mabeal1 (big blind) showed [3d 4d] and lost with a pair of Deuces
+
+
+

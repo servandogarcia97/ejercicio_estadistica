@@ -1,0 +1,719 @@
+﻿PokerStars Hand #259472528652: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:58:22 CET [2026/01/26 13:58:22 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: memiranraro (500 in chips) 
+Seat 3: MocosoPoker (500 in chips) 
+memiranraro: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Js]
+mabeal1: raises 20 to 40
+memiranraro: folds 
+MocosoPoker: calls 20
+*** FLOP *** [2s 9h 8s]
+MocosoPoker: checks 
+mabeal1: checks 
+*** TURN *** [2s 9h 8s] [Qs]
+MocosoPoker: bets 45
+mabeal1: calls 45
+*** RIVER *** [2s 9h 8s Qs] [5h]
+MocosoPoker: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to MocosoPoker
+MocosoPoker collected 180 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2s 9h 8s Qs 5h]
+Seat 1: mabeal1 (button) folded on the River
+Seat 2: memiranraro (small blind) folded before Flop
+Seat 3: MocosoPoker (big blind) collected (180)
+
+
+
+PokerStars Hand #259472532965: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:58:48 CET [2026/01/26 13:58:48 ET]
+Table '3969361001 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 2: memiranraro (490 in chips) 
+Seat 3: MocosoPoker (595 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 5c]
+memiranraro: raises 20 to 40
+MocosoPoker: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to memiranraro
+memiranraro collected 50 from pot
+memiranraro: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: memiranraro (button) collected (50)
+Seat 3: MocosoPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472534706: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:58:58 CET [2026/01/26 13:58:58 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (395 in chips) 
+Seat 2: memiranraro (520 in chips) 
+Seat 3: MocosoPoker (585 in chips) 
+mabeal1: posts small blind 10
+memiranraro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 4h]
+MocosoPoker: raises 20 to 40
+mabeal1: folds 
+memiranraro: calls 20
+*** FLOP *** [4c 3s 3c]
+memiranraro: checks 
+MocosoPoker: checks 
+*** TURN *** [4c 3s 3c] [6c]
+memiranraro: checks 
+MocosoPoker: checks 
+*** RIVER *** [4c 3s 3c 6c] [7h]
+memiranraro: bets 90
+MocosoPoker: folds 
+Uncalled bet (90) returned to memiranraro
+memiranraro collected 90 from pot
+memiranraro: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4c 3s 3c 6c 7h]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: memiranraro (big blind) collected (90)
+Seat 3: MocosoPoker (button) folded on the River
+
+
+
+PokerStars Hand #259472538243: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:59:19 CET [2026/01/26 13:59:19 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (385 in chips) 
+Seat 2: memiranraro (570 in chips) 
+Seat 3: MocosoPoker (545 in chips) 
+memiranraro: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 4c]
+mabeal1: folds 
+memiranraro: folds 
+Uncalled bet (10) returned to MocosoPoker
+MocosoPoker collected 20 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: memiranraro (small blind) folded before Flop
+Seat 3: MocosoPoker (big blind) collected (20)
+
+
+
+PokerStars Hand #259472539073: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:59:24 CET [2026/01/26 13:59:24 ET]
+Table '3969361001 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (385 in chips) 
+Seat 2: memiranraro (560 in chips) 
+Seat 3: MocosoPoker (555 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 9s]
+memiranraro: folds 
+MocosoPoker: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: memiranraro (button) folded before Flop (didn't bet)
+Seat 3: MocosoPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472540894: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:59:34 CET [2026/01/26 13:59:34 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (395 in chips) 
+Seat 2: memiranraro (560 in chips) 
+Seat 3: MocosoPoker (545 in chips) 
+mabeal1: posts small blind 10
+memiranraro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7h]
+MocosoPoker: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to memiranraro
+memiranraro collected 20 from pot
+memiranraro: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: memiranraro (big blind) collected (20)
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472542026: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:59:41 CET [2026/01/26 13:59:41 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (385 in chips) 
+Seat 2: memiranraro (570 in chips) 
+Seat 3: MocosoPoker (545 in chips) 
+memiranraro: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 8h]
+mabeal1: raises 20 to 40
+memiranraro: folds 
+MocosoPoker: calls 20
+*** FLOP *** [2c 6s 3s]
+MocosoPoker: checks 
+mabeal1: checks 
+*** TURN *** [2c 6s 3s] [Ks]
+MocosoPoker: checks 
+mabeal1: bets 68
+MocosoPoker: folds 
+Uncalled bet (68) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2c 6s 3s Ks]
+Seat 1: mabeal1 (button) collected (90)
+Seat 2: memiranraro (small blind) folded before Flop
+Seat 3: MocosoPoker (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259472546637: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:00:06 CET [2026/01/26 14:00:06 ET]
+Table '3969361001 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (435 in chips) 
+Seat 2: memiranraro (560 in chips) 
+Seat 3: MocosoPoker (505 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h As]
+memiranraro: folds 
+MocosoPoker: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: memiranraro (button) folded before Flop (didn't bet)
+Seat 3: MocosoPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472548129: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:00:15 CET [2026/01/26 14:00:15 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: memiranraro (560 in chips) 
+Seat 3: MocosoPoker (495 in chips) 
+mabeal1: posts small blind 10
+memiranraro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Qc]
+MocosoPoker: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to memiranraro
+memiranraro collected 20 from pot
+memiranraro: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: memiranraro (big blind) collected (20)
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472548866: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:00:19 CET [2026/01/26 14:00:19 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (435 in chips) 
+Seat 2: memiranraro (570 in chips) 
+Seat 3: MocosoPoker (495 in chips) 
+memiranraro: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Ad]
+mabeal1: raises 20 to 40
+memiranraro: folds 
+MocosoPoker: calls 20
+*** FLOP *** [Ks 9s 7c]
+MocosoPoker: checks 
+mabeal1: checks 
+*** TURN *** [Ks 9s 7c] [Th]
+MocosoPoker: checks 
+mabeal1: checks 
+*** RIVER *** [Ks 9s 7c Th] [5d]
+MocosoPoker: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+MocosoPoker: shows [7d 6s] (a pair of Sevens)
+mabeal1: mucks hand 
+MocosoPoker collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ks 9s 7c Th 5d]
+Seat 1: mabeal1 (button) mucked [4s Ad]
+Seat 2: memiranraro (small blind) folded before Flop
+Seat 3: MocosoPoker (big blind) showed [7d 6s] and won (90) with a pair of Sevens
+
+
+
+PokerStars Hand #259472552762: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:00:41 CET [2026/01/26 14:00:41 ET]
+Table '3969361001 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (395 in chips) 
+Seat 2: memiranraro (560 in chips) 
+Seat 3: MocosoPoker (545 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 4h]
+memiranraro: calls 20
+MocosoPoker: calls 10
+mabeal1: raises 375 to 395 and is all-in
+memiranraro: folds 
+MocosoPoker: folds 
+Uncalled bet (375) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: memiranraro (button) folded before Flop
+Seat 3: MocosoPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472556041: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:00:57 CET [2026/01/26 14:00:57 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (435 in chips) 
+Seat 2: memiranraro (540 in chips) 
+Seat 3: MocosoPoker (525 in chips) 
+mabeal1: posts small blind 10
+memiranraro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 3d]
+MocosoPoker: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to memiranraro
+memiranraro collected 20 from pot
+memiranraro: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: memiranraro (big blind) collected (20)
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472557258: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:01:02 CET [2026/01/26 14:01:02 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (425 in chips) 
+Seat 2: memiranraro (550 in chips) 
+Seat 3: MocosoPoker (525 in chips) 
+memiranraro: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 6h]
+mabeal1: folds 
+memiranraro: calls 10
+MocosoPoker: checks 
+*** FLOP *** [9d Th 8h]
+memiranraro: checks 
+MocosoPoker: bets 20
+memiranraro: calls 20
+*** TURN *** [9d Th 8h] [Kc]
+memiranraro: checks 
+MocosoPoker: checks 
+*** RIVER *** [9d Th 8h Kc] [Jh]
+memiranraro: checks 
+MocosoPoker: checks 
+*** SHOW DOWN ***
+memiranraro: shows [As 7c] (a straight, Seven to Jack)
+MocosoPoker: mucks hand 
+memiranraro collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d Th 8h Kc Jh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: memiranraro (small blind) showed [As 7c] and won (80) with a straight, Seven to Jack
+Seat 3: MocosoPoker (big blind) mucked [9s 8s]
+
+
+
+PokerStars Hand #259472565337: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:01:40 CET [2026/01/26 14:01:40 ET]
+Table '3969361001 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (425 in chips) 
+Seat 2: memiranraro (590 in chips) 
+Seat 3: MocosoPoker (485 in chips) 
+MocosoPoker: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3h]
+memiranraro: calls 30
+MocosoPoker: folds 
+mabeal1: checks 
+*** FLOP *** [8s Qh 6s]
+mabeal1: checks 
+memiranraro: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to memiranraro
+memiranraro collected 75 from pot
+memiranraro: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [8s Qh 6s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: memiranraro (button) collected (75)
+Seat 3: MocosoPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472569448: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:01:58 CET [2026/01/26 14:01:58 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (395 in chips) 
+Seat 2: memiranraro (635 in chips) 
+Seat 3: MocosoPoker (470 in chips) 
+mabeal1: posts small blind 15
+memiranraro: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Qd]
+MocosoPoker: folds 
+mabeal1: raises 30 to 60
+memiranraro: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: memiranraro (big blind) folded before Flop
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472572887: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:02:12 CET [2026/01/26 14:02:12 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (425 in chips) 
+Seat 2: memiranraro (605 in chips) 
+Seat 3: MocosoPoker (470 in chips) 
+memiranraro: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Kh]
+mabeal1: folds 
+memiranraro: calls 15
+MocosoPoker: checks 
+*** FLOP *** [7h Kd Ts]
+memiranraro: checks 
+MocosoPoker: checks 
+*** TURN *** [7h Kd Ts] [Qc]
+memiranraro: checks 
+MocosoPoker: checks 
+*** RIVER *** [7h Kd Ts Qc] [Jh]
+memiranraro: bets 60
+MocosoPoker: folds 
+Uncalled bet (60) returned to memiranraro
+memiranraro collected 60 from pot
+memiranraro: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h Kd Ts Qc Jh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: memiranraro (small blind) collected (60)
+Seat 3: MocosoPoker (big blind) folded on the River
+
+
+
+PokerStars Hand #259472578361: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:02:35 CET [2026/01/26 14:02:35 ET]
+Table '3969361001 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (425 in chips) 
+Seat 2: memiranraro (635 in chips) 
+Seat 3: MocosoPoker (440 in chips) 
+MocosoPoker: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9c]
+memiranraro: calls 30
+MocosoPoker: folds 
+mabeal1: checks 
+*** FLOP *** [Jc 9d 9h]
+mabeal1: checks 
+memiranraro: checks 
+*** TURN *** [Jc 9d 9h] [6s]
+mabeal1: bets 30
+memiranraro: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Jc 9d 9h 6s]
+Seat 1: mabeal1 (big blind) collected (75)
+Seat 2: memiranraro (button) folded on the Turn
+Seat 3: MocosoPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472582088: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:02:50 CET [2026/01/26 14:02:50 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: memiranraro (605 in chips) 
+Seat 3: MocosoPoker (425 in chips) 
+mabeal1: posts small blind 15
+memiranraro: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 2h]
+MocosoPoker: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to memiranraro
+memiranraro collected 30 from pot
+memiranraro: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: memiranraro (big blind) collected (30)
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472583305: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:02:56 CET [2026/01/26 14:02:56 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 2: memiranraro (620 in chips) 
+Seat 3: MocosoPoker (425 in chips) 
+memiranraro: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Qd]
+mabeal1: folds 
+memiranraro: calls 15
+MocosoPoker: raises 395 to 425 and is all-in
+memiranraro: folds 
+Uncalled bet (395) returned to MocosoPoker
+MocosoPoker collected 60 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: memiranraro (small blind) folded before Flop
+Seat 3: MocosoPoker (big blind) collected (60)
+
+
+
+PokerStars Hand #259472586413: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:03:08 CET [2026/01/26 14:03:08 ET]
+Table '3969361001 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 2: memiranraro (590 in chips) 
+Seat 3: MocosoPoker (455 in chips) 
+MocosoPoker: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Jc]
+memiranraro: folds 
+MocosoPoker: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Jd Ac 9c]
+MocosoPoker: bets 60
+mabeal1: calls 60
+*** TURN *** [Jd Ac 9c] [9h]
+MocosoPoker: bets 180
+mabeal1: folds 
+Uncalled bet (180) returned to MocosoPoker
+MocosoPoker collected 240 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jd Ac 9c 9h]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: memiranraro (button) folded before Flop (didn't bet)
+Seat 3: MocosoPoker (small blind) collected (240)
+
+
+
+PokerStars Hand #259472593492: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:03:37 CET [2026/01/26 14:03:37 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (335 in chips) 
+Seat 2: memiranraro (590 in chips) 
+Seat 3: MocosoPoker (575 in chips) 
+mabeal1: posts small blind 15
+memiranraro: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jd]
+MocosoPoker: raises 30 to 60
+mabeal1: raises 275 to 335 and is all-in
+memiranraro: raises 255 to 590 and is all-in
+MocosoPoker: folds 
+Uncalled bet (255) returned to memiranraro
+*** FLOP *** [2d Tc Ac]
+*** TURN *** [2d Tc Ac] [7s]
+*** RIVER *** [2d Tc Ac 7s] [Th]
+*** SHOW DOWN ***
+mabeal1: shows [Ad Jd] (two pair, Aces and Tens)
+memiranraro: shows [Kc Kd] (two pair, Kings and Tens)
+mabeal1 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [2d Tc Ac 7s Th]
+Seat 1: mabeal1 (small blind) showed [Ad Jd] and won (730) with two pair, Aces and Tens
+Seat 2: memiranraro (big blind) showed [Kc Kd] and lost with two pair, Kings and Tens
+Seat 3: MocosoPoker (button) folded before Flop
+
+
+
+PokerStars Hand #259472597470: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:03:53 CET [2026/01/26 14:03:53 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: memiranraro (255 in chips) 
+Seat 3: MocosoPoker (515 in chips) 
+memiranraro: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 2s]
+mabeal1: raises 30 to 60
+memiranraro: raises 195 to 255 and is all-in
+MocosoPoker: raises 260 to 515 and is all-in
+mabeal1: folds 
+Uncalled bet (260) returned to MocosoPoker
+*** FLOP *** [3c 5c 4c]
+*** TURN *** [3c 5c 4c] [Kd]
+*** RIVER *** [3c 5c 4c Kd] [9h]
+*** SHOW DOWN ***
+memiranraro: shows [6h 6s] (a pair of Sixes)
+MocosoPoker: shows [9d 9c] (three of a kind, Nines)
+MocosoPoker collected 570 from pot
+memiranraro finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [3c 5c 4c Kd 9h]
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: memiranraro (small blind) showed [6h 6s] and lost with a pair of Sixes
+Seat 3: MocosoPoker (big blind) showed [9d 9c] and won (570) with three of a kind, Nines
+
+
+
+PokerStars Hand #259472602784: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:04:14 CET [2026/01/26 14:04:14 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (670 in chips) 
+Seat 3: MocosoPoker (830 in chips) 
+MocosoPoker: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 5c]
+MocosoPoker: calls 15
+mabeal1: checks 
+*** FLOP *** [2d Qs Jc]
+mabeal1: checks 
+MocosoPoker: checks 
+*** TURN *** [2d Qs Jc] [7d]
+mabeal1: bets 30
+MocosoPoker: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d Qs Jc 7d]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: MocosoPoker (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259472607151: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 20:04:32 CET [2026/01/26 14:04:32 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (700 in chips) 
+Seat 3: MocosoPoker (800 in chips) 
+mabeal1: posts small blind 20
+MocosoPoker: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Ah]
+mabeal1: raises 40 to 80
+MocosoPoker: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: MocosoPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #259472608982: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 20:04:39 CET [2026/01/26 14:04:39 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (740 in chips) 
+Seat 3: MocosoPoker (760 in chips) 
+MocosoPoker: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Kc]
+MocosoPoker: calls 20
+mabeal1: raises 80 to 120
+MocosoPoker: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: MocosoPoker (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472612729: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 20:04:54 CET [2026/01/26 14:04:54 ET]
+Table '3969361001 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 3: MocosoPoker (720 in chips) 
+mabeal1: posts small blind 20
+MocosoPoker: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ad]
+mabeal1: raises 740 to 780 and is all-in
+MocosoPoker: calls 680 and is all-in
+Uncalled bet (60) returned to mabeal1
+*** FLOP *** [7d 8s 8c]
+*** TURN *** [7d 8s 8c] [9d]
+*** RIVER *** [7d 8s 8c 9d] [Qs]
+*** SHOW DOWN ***
+MocosoPoker: shows [Qc Qd] (a full house, Queens full of Eights)
+mabeal1: shows [Td Ad] (a pair of Eights)
+MocosoPoker collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | Rake 0 
+Board [7d 8s 8c 9d Qs]
+Seat 1: mabeal1 (button) (small blind) showed [Td Ad] and lost with a pair of Eights
+Seat 3: MocosoPoker (big blind) showed [Qc Qd] and won (1440) with a full house, Queens full of Eights
+
+
+
+PokerStars Hand #259472616186: Tournament #3969361001, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 20:05:08 CET [2026/01/26 14:05:08 ET]
+Table '3969361001 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (60 in chips) 
+Seat 3: MocosoPoker (1440 in chips) 
+MocosoPoker: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4h]
+MocosoPoker: raises 1400 to 1440 and is all-in
+mabeal1: calls 20 and is all-in
+Uncalled bet (1380) returned to MocosoPoker
+*** FLOP *** [8s 3s Tc]
+*** TURN *** [8s 3s Tc] [4d]
+*** RIVER *** [8s 3s Tc 4d] [6c]
+*** SHOW DOWN ***
+mabeal1: shows [7s 4h] (a pair of Fours)
+MocosoPoker: shows [6h 3h] (two pair, Sixes and Threes)
+MocosoPoker collected 120 from pot
+mabeal1 finished the tournament in 2nd place
+MocosoPoker wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s 3s Tc 4d 6c]
+Seat 1: mabeal1 (big blind) showed [7s 4h] and lost with a pair of Fours
+Seat 3: MocosoPoker (button) (small blind) showed [6h 3h] and won (120) with two pair, Sixes and Threes
+
+
+

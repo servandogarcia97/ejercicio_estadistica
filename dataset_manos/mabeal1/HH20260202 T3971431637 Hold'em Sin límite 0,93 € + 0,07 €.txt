@@ -1,0 +1,675 @@
+﻿PokerStars Hand #259563174294: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:11:27 CET [2026/02/02 11:11:27 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Maccagoy (500 in chips) 
+mabeal1: posts small blind 10
+Maccagoy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 4h]
+Wanemoning: calls 20
+mabeal1: folds 
+Maccagoy: raises 50 to 70
+Wanemoning: calls 50
+*** FLOP *** [Ad Td Ts]
+Maccagoy: checks 
+Wanemoning: checks 
+*** TURN *** [Ad Td Ts] [Kd]
+Maccagoy: bets 20
+Wanemoning: calls 20
+*** RIVER *** [Ad Td Ts Kd] [4c]
+Maccagoy: bets 60
+Wanemoning: calls 60
+*** SHOW DOWN ***
+Maccagoy: shows [As Th] (a full house, Tens full of Aces)
+Wanemoning: mucks hand 
+Maccagoy collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [Ad Td Ts Kd 4c]
+Seat 1: Wanemoning (button) mucked [7c Kc]
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Maccagoy (big blind) showed [As Th] and won (310) with a full house, Tens full of Aces
+
+
+
+PokerStars Hand #259563182642: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:12:13 CET [2026/02/02 11:12:13 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (350 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Maccagoy (660 in chips) 
+Maccagoy: posts small blind 10
+Wanemoning: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8h]
+mabeal1: raises 20 to 40
+Maccagoy: folds 
+Wanemoning: calls 20
+*** FLOP *** [8c 2h Qc]
+Wanemoning: checks 
+mabeal1: bets 25
+Wanemoning: folds 
+Uncalled bet (25) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8c 2h Qc]
+Seat 1: Wanemoning (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (90)
+Seat 3: Maccagoy (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563187118: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:12:38 CET [2026/02/02 11:12:38 ET]
+Table '3971431637 1' 3-max Seat #3 is the button
+Seat 1: Wanemoning (310 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Maccagoy (650 in chips) 
+Wanemoning: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7c]
+Maccagoy: folds 
+Wanemoning: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Wanemoning (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: Maccagoy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259563188218: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:12:44 CET [2026/02/02 11:12:44 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (300 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: Maccagoy (650 in chips) 
+mabeal1: posts small blind 10
+Maccagoy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3c]
+Wanemoning: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Maccagoy
+Maccagoy collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Wanemoning (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Maccagoy (big blind) collected (20)
+
+
+
+PokerStars Hand #259563189538: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:12:51 CET [2026/02/02 11:12:51 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (300 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Maccagoy (660 in chips) 
+Maccagoy: posts small blind 10
+Wanemoning: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4d]
+mabeal1: raises 20 to 40
+Maccagoy: calls 30
+Wanemoning: calls 20
+*** FLOP *** [Td 2d 2s]
+Maccagoy: checks 
+Wanemoning: checks 
+mabeal1: checks 
+*** TURN *** [Td 2d 2s] [Jc]
+Maccagoy: bets 40
+Wanemoning: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to Maccagoy
+Maccagoy collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Td 2d 2s Jc]
+Seat 1: Wanemoning (big blind) folded on the Turn
+Seat 2: mabeal1 (button) folded on the Turn
+Seat 3: Maccagoy (small blind) collected (120)
+
+
+
+PokerStars Hand #259563193775: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:13:15 CET [2026/02/02 11:13:15 ET]
+Table '3971431637 1' 3-max Seat #3 is the button
+Seat 1: Wanemoning (260 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Maccagoy (740 in chips) 
+Wanemoning: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 3d]
+Maccagoy: calls 20
+Wanemoning: raises 240 to 260 and is all-in
+mabeal1: folds 
+Maccagoy: folds 
+Uncalled bet (240) returned to Wanemoning
+Wanemoning collected 60 from pot
+Wanemoning: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Wanemoning (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Maccagoy (button) folded before Flop
+
+
+
+PokerStars Hand #259563195863: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:13:27 CET [2026/02/02 11:13:27 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (300 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: Maccagoy (720 in chips) 
+mabeal1: posts small blind 10
+Maccagoy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 9s]
+Wanemoning: calls 20
+mabeal1: calls 10
+Maccagoy: checks 
+*** FLOP *** [Qs 7d Ks]
+mabeal1: bets 30
+Maccagoy: folds 
+Wanemoning: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 7d Ks]
+Seat 1: Wanemoning (button) folded on the Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Maccagoy (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259563199597: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:13:47 CET [2026/02/02 11:13:47 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (280 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Maccagoy (700 in chips) 
+Maccagoy: posts small blind 10
+Wanemoning: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Ah]
+mabeal1: raises 20 to 40
+Maccagoy: raises 100 to 140
+Wanemoning: folds 
+mabeal1: raises 380 to 520 and is all-in
+Maccagoy: calls 380
+*** FLOP *** [8h 6h Qs]
+*** TURN *** [8h 6h Qs] [6s]
+*** RIVER *** [8h 6h Qs 6s] [6c]
+*** SHOW DOWN ***
+Maccagoy: shows [As Qc] (a full house, Sixes full of Queens)
+mabeal1: shows [Ad Ah] (a full house, Sixes full of Aces)
+mabeal1 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [8h 6h Qs 6s 6c]
+Seat 1: Wanemoning (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [Ad Ah] and won (1060) with a full house, Sixes full of Aces
+Seat 3: Maccagoy (small blind) showed [As Qc] and lost with a full house, Sixes full of Queens
+
+
+
+PokerStars Hand #259563203051: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:14:07 CET [2026/02/02 11:14:07 ET]
+Table '3971431637 1' 3-max Seat #3 is the button
+Seat 1: Wanemoning (260 in chips) 
+Seat 2: mabeal1 (1060 in chips) 
+Seat 3: Maccagoy (180 in chips) 
+Wanemoning: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 6h]
+Maccagoy: raises 160 to 180 and is all-in
+Wanemoning: raises 80 to 260 and is all-in
+mabeal1: folds 
+Uncalled bet (80) returned to Wanemoning
+*** FLOP *** [3s Qs 4h]
+*** TURN *** [3s Qs 4h] [5h]
+*** RIVER *** [3s Qs 4h 5h] [3h]
+*** SHOW DOWN ***
+Wanemoning: shows [Kd 9d] (a pair of Threes)
+Maccagoy: shows [3c Ac] (three of a kind, Threes)
+Maccagoy collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [3s Qs 4h 5h 3h]
+Seat 1: Wanemoning (small blind) showed [Kd 9d] and lost with a pair of Threes
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Maccagoy (button) showed [3c Ac] and won (380) with three of a kind, Threes
+
+
+
+PokerStars Hand #259563206532: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:14:26 CET [2026/02/02 11:14:26 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (80 in chips) 
+Seat 2: mabeal1 (1040 in chips) 
+Seat 3: Maccagoy (380 in chips) 
+mabeal1: posts small blind 10
+Maccagoy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8c]
+Wanemoning: raises 60 to 80 and is all-in
+mabeal1: folds 
+Maccagoy: folds 
+Uncalled bet (60) returned to Wanemoning
+Wanemoning collected 50 from pot
+Wanemoning: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Wanemoning (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Maccagoy (big blind) folded before Flop
+
+
+
+PokerStars Hand #259563208874: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:14:39 CET [2026/02/02 11:14:39 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (110 in chips) 
+Seat 2: mabeal1 (1030 in chips) 
+Seat 3: Maccagoy (360 in chips) 
+Maccagoy: posts small blind 15
+Wanemoning: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ah]
+mabeal1: raises 1000 to 1030 and is all-in
+Maccagoy: folds 
+Wanemoning: folds 
+Uncalled bet (1000) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Wanemoning (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (75)
+Seat 3: Maccagoy (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563210975: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:14:51 CET [2026/02/02 11:14:51 ET]
+Table '3971431637 1' 3-max Seat #3 is the button
+Seat 1: Wanemoning (80 in chips) 
+Seat 2: mabeal1 (1075 in chips) 
+Seat 3: Maccagoy (345 in chips) 
+Wanemoning: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9c]
+Maccagoy: calls 30
+Wanemoning: raises 50 to 80 and is all-in
+mabeal1: calls 50
+Maccagoy: raises 265 to 345 and is all-in
+mabeal1: folds 
+Uncalled bet (265) returned to Maccagoy
+*** FLOP *** [3c Qc Tc]
+*** TURN *** [3c Qc Tc] [6c]
+*** RIVER *** [3c Qc Tc 6c] [8s]
+*** SHOW DOWN ***
+Wanemoning: shows [4c As] (a flush, Queen high)
+Maccagoy: shows [Ts Ah] (a pair of Tens)
+Wanemoning collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3c Qc Tc 6c 8s]
+Seat 1: Wanemoning (small blind) showed [4c As] and won (240) with a flush, Queen high
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Maccagoy (button) showed [Ts Ah] and lost with a pair of Tens
+
+
+
+PokerStars Hand #259563214923: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:15:12 CET [2026/02/02 11:15:12 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (240 in chips) 
+Seat 2: mabeal1 (995 in chips) 
+Seat 3: Maccagoy (265 in chips) 
+mabeal1: posts small blind 15
+Maccagoy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 8c]
+Wanemoning: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Maccagoy
+Maccagoy collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Wanemoning (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Maccagoy (big blind) collected (30)
+
+
+
+PokerStars Hand #259563217231: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:15:25 CET [2026/02/02 11:15:25 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (240 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+Seat 3: Maccagoy (280 in chips) 
+Maccagoy: posts small blind 15
+Wanemoning: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9s]
+mabeal1: folds 
+Maccagoy: calls 15
+Wanemoning: checks 
+*** FLOP *** [7h 9d Ad]
+Maccagoy: bets 60
+Wanemoning: folds 
+Uncalled bet (60) returned to Maccagoy
+Maccagoy collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h 9d Ad]
+Seat 1: Wanemoning (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Maccagoy (small blind) collected (60)
+
+
+
+PokerStars Hand #259563220761: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:15:44 CET [2026/02/02 11:15:44 ET]
+Table '3971431637 1' 3-max Seat #3 is the button
+Seat 1: Wanemoning (210 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+Seat 3: Maccagoy (310 in chips) 
+Wanemoning: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ac]
+Maccagoy: folds 
+Wanemoning: raises 180 to 210 and is all-in
+mabeal1: calls 180
+*** FLOP *** [8h Td 7s]
+*** TURN *** [8h Td 7s] [8c]
+*** RIVER *** [8h Td 7s 8c] [4d]
+*** SHOW DOWN ***
+Wanemoning: shows [Th Jc] (two pair, Tens and Eights)
+mabeal1: shows [5h Ac] (a pair of Eights)
+Wanemoning collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [8h Td 7s 8c 4d]
+Seat 1: Wanemoning (small blind) showed [Th Jc] and won (420) with two pair, Tens and Eights
+Seat 2: mabeal1 (big blind) showed [5h Ac] and lost with a pair of Eights
+Seat 3: Maccagoy (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259563223668: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:16:00 CET [2026/02/02 11:16:00 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (420 in chips) 
+Seat 2: mabeal1 (770 in chips) 
+Seat 3: Maccagoy (310 in chips) 
+mabeal1: posts small blind 15
+Maccagoy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Qh]
+Wanemoning: raises 390 to 420 and is all-in
+mabeal1: folds 
+Maccagoy: folds 
+Uncalled bet (390) returned to Wanemoning
+Wanemoning collected 75 from pot
+Wanemoning: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Wanemoning (button) collected (75)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Maccagoy (big blind) folded before Flop
+
+
+
+PokerStars Hand #259563225587: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:16:10 CET [2026/02/02 11:16:10 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (465 in chips) 
+Seat 2: mabeal1 (755 in chips) 
+Seat 3: Maccagoy (280 in chips) 
+Maccagoy: posts small blind 15
+Wanemoning: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Qd]
+mabeal1: raises 30 to 60
+Maccagoy: raises 220 to 280 and is all-in
+Wanemoning: folds 
+mabeal1: calls 220
+*** FLOP *** [4s Ad Qh]
+*** TURN *** [4s Ad Qh] [Jh]
+*** RIVER *** [4s Ad Qh Jh] [Kc]
+*** SHOW DOWN ***
+Maccagoy: shows [As 7s] (a pair of Aces)
+mabeal1: shows [Kd Qd] (two pair, Kings and Queens)
+mabeal1 collected 590 from pot
+Maccagoy finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [4s Ad Qh Jh Kc]
+Seat 1: Wanemoning (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [Kd Qd] and won (590) with two pair, Kings and Queens
+Seat 3: Maccagoy (small blind) showed [As 7s] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259563229165: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:16:29 CET [2026/02/02 11:16:29 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (435 in chips) 
+Seat 2: mabeal1 (1065 in chips) 
+Wanemoning: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 3c]
+Wanemoning: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Wanemoning (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259563230189: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:16:35 CET [2026/02/02 11:16:35 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (420 in chips) 
+Seat 2: mabeal1 (1080 in chips) 
+mabeal1: posts small blind 15
+Wanemoning: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 5c]
+mabeal1: raises 1050 to 1080 and is all-in
+Wanemoning: folds 
+Uncalled bet (1050) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Wanemoning (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259563231748: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:16:43 CET [2026/02/02 11:16:43 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (390 in chips) 
+Seat 2: mabeal1 (1110 in chips) 
+Wanemoning: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Jc]
+Wanemoning: calls 15
+mabeal1: checks 
+*** FLOP *** [6d Js 3c]
+mabeal1: checks 
+Wanemoning: checks 
+*** TURN *** [6d Js 3c] [7h]
+mabeal1: bets 30
+Wanemoning: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d Js 3c 7h]
+Seat 1: Wanemoning (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259563236099: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:17:07 CET [2026/02/02 11:17:07 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+mabeal1: posts small blind 15
+Wanemoning: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6d]
+mabeal1: calls 15
+Wanemoning: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Wanemoning
+Wanemoning collected 60 from pot
+Wanemoning: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Wanemoning (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563238736: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:17:21 CET [2026/02/02 11:17:21 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (390 in chips) 
+Seat 2: mabeal1 (1110 in chips) 
+Wanemoning: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ad]
+Wanemoning: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Wanemoning (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259563239649: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:17:27 CET [2026/02/02 11:17:27 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (375 in chips) 
+Seat 2: mabeal1 (1125 in chips) 
+mabeal1: posts small blind 15
+Wanemoning: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5h]
+mabeal1: calls 15
+Wanemoning: checks 
+*** FLOP *** [3d 4c 2s]
+Wanemoning: checks 
+mabeal1: bets 30
+Wanemoning: calls 30
+*** TURN *** [3d 4c 2s] [Qs]
+Wanemoning: checks 
+mabeal1: bets 90
+Wanemoning: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d 4c 2s Qs]
+Seat 1: Wanemoning (big blind) folded on the Turn
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259563244390: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:17:53 CET [2026/02/02 11:17:53 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (315 in chips) 
+Seat 2: mabeal1 (1185 in chips) 
+Wanemoning: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Tc]
+Wanemoning: raises 275 to 315 and is all-in
+mabeal1: folds 
+Uncalled bet (275) returned to Wanemoning
+Wanemoning collected 80 from pot
+Wanemoning: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Wanemoning (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259563245878: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:18:01 CET [2026/02/02 11:18:01 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (355 in chips) 
+Seat 2: mabeal1 (1145 in chips) 
+mabeal1: posts small blind 20
+Wanemoning: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Th]
+mabeal1: raises 1105 to 1145 and is all-in
+Wanemoning: folds 
+Uncalled bet (1105) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Wanemoning (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259563246974: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:18:07 CET [2026/02/02 11:18:07 ET]
+Table '3971431637 1' 3-max Seat #1 is the button
+Seat 1: Wanemoning (315 in chips) 
+Seat 2: mabeal1 (1185 in chips) 
+Wanemoning: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 2h]
+Wanemoning: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Wanemoning (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259563247847: Tournament #3971431637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:18:11 CET [2026/02/02 11:18:11 ET]
+Table '3971431637 1' 3-max Seat #2 is the button
+Seat 1: Wanemoning (295 in chips) 
+Seat 2: mabeal1 (1205 in chips) 
+mabeal1: posts small blind 20
+Wanemoning: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Jd]
+mabeal1: raises 1165 to 1205 and is all-in
+Wanemoning: calls 255 and is all-in
+Uncalled bet (910) returned to mabeal1
+*** FLOP *** [Kd 6d 9d]
+*** TURN *** [Kd 6d 9d] [Ad]
+*** RIVER *** [Kd 6d 9d Ad] [4c]
+*** SHOW DOWN ***
+Wanemoning: shows [As Jh] (a pair of Aces)
+mabeal1: shows [2d Jd] (a flush, Ace high)
+mabeal1 collected 590 from pot
+Wanemoning finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [Kd 6d 9d Ad 4c]
+Seat 1: Wanemoning (big blind) showed [As Jh] and lost with a pair of Aces
+Seat 2: mabeal1 (button) (small blind) showed [2d Jd] and won (590) with a flush, Ace high
+
+
+

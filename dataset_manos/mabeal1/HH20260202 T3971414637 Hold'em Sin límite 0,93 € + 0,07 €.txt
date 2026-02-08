@@ -1,0 +1,565 @@
+﻿PokerStars Hand #259562473645: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:00:23 CET [2026/02/02 10:00:23 ET]
+Table '3971414637 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: PATRICE14036 (500 in chips) 
+Seat 3: padre57400 (500 in chips) 
+PATRICE14036: posts small blind 10
+padre57400: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Jh]
+mabeal1: raises 20 to 40
+PATRICE14036: calls 30
+padre57400: calls 20
+*** FLOP *** [2d Kh 6s]
+PATRICE14036: bets 20
+padre57400: folds 
+mabeal1: calls 20
+*** TURN *** [2d Kh 6s] [8s]
+PATRICE14036: bets 20
+mabeal1: raises 150 to 170
+PATRICE14036: calls 150
+*** RIVER *** [2d Kh 6s 8s] [3s]
+PATRICE14036: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to PATRICE14036
+PATRICE14036 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [2d Kh 6s 8s 3s]
+Seat 1: mabeal1 (button) folded on the River
+Seat 2: PATRICE14036 (small blind) collected (500)
+Seat 3: padre57400 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259562478353: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:00:59 CET [2026/02/02 10:00:59 ET]
+Table '3971414637 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (270 in chips) 
+Seat 2: PATRICE14036 (770 in chips) 
+Seat 3: padre57400 (460 in chips) 
+padre57400: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3d]
+PATRICE14036: raises 20 to 40
+padre57400: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to PATRICE14036
+PATRICE14036 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: PATRICE14036 (button) collected (50)
+Seat 3: padre57400 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562479998: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:01:09 CET [2026/02/02 10:01:09 ET]
+Table '3971414637 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (250 in chips) 
+Seat 2: PATRICE14036 (800 in chips) 
+Seat 3: padre57400 (450 in chips) 
+mabeal1: posts small blind 10
+PATRICE14036: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Td]
+padre57400: calls 20
+mabeal1: calls 10
+PATRICE14036: checks 
+*** FLOP *** [Jh 2c Kh]
+mabeal1: checks 
+PATRICE14036: bets 20
+padre57400: calls 20
+mabeal1: folds 
+*** TURN *** [Jh 2c Kh] [Qs]
+PATRICE14036: bets 20
+padre57400 has timed out
+padre57400: folds 
+padre57400 is sitting out
+Uncalled bet (20) returned to PATRICE14036
+PATRICE14036 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Jh 2c Kh Qs]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: PATRICE14036 (big blind) collected (100)
+Seat 3: padre57400 (button) folded on the Turn
+
+
+
+PokerStars Hand #259562489017: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:02:10 CET [2026/02/02 10:02:10 ET]
+Table '3971414637 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (230 in chips) 
+Seat 2: PATRICE14036 (860 in chips) 
+Seat 3: padre57400 (410 in chips) is sitting out
+PATRICE14036: posts small blind 10
+padre57400: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Js]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+padre57400 is disconnected 
+mabeal1 has returned
+PATRICE14036: calls 10
+padre57400: folds 
+PATRICE14036 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: PATRICE14036 (small blind) collected (40)
+Seat 3: padre57400 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562492242: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:02:31 CET [2026/02/02 10:02:31 ET]
+Table '3971414637 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (230 in chips) 
+Seat 2: PATRICE14036 (880 in chips) 
+Seat 3: padre57400 (390 in chips) is sitting out
+padre57400: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 2h]
+PATRICE14036: folds 
+padre57400: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: PATRICE14036 (button) folded before Flop (didn't bet)
+Seat 3: padre57400 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562493587: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:02:39 CET [2026/02/02 10:02:39 ET]
+Table '3971414637 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (245 in chips) 
+Seat 2: PATRICE14036 (880 in chips) 
+Seat 3: padre57400 (375 in chips) is sitting out
+mabeal1: posts small blind 15
+PATRICE14036: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Js]
+padre57400: folds 
+mabeal1: raises 215 to 245 and is all-in
+PATRICE14036: folds 
+Uncalled bet (215) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: PATRICE14036 (big blind) folded before Flop
+Seat 3: padre57400 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259562495174: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:02:50 CET [2026/02/02 10:02:50 ET]
+Table '3971414637 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (275 in chips) 
+Seat 2: PATRICE14036 (850 in chips) 
+Seat 3: padre57400 (375 in chips) is sitting out
+PATRICE14036: posts small blind 15
+padre57400: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 7c]
+mabeal1: folds 
+PATRICE14036: calls 15
+padre57400: folds 
+PATRICE14036 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: PATRICE14036 (small blind) collected (60)
+Seat 3: padre57400 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562496872: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:03:01 CET [2026/02/02 10:03:01 ET]
+Table '3971414637 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (275 in chips) 
+Seat 2: PATRICE14036 (880 in chips) 
+Seat 3: padre57400 (345 in chips) is sitting out
+padre57400: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Jd]
+PATRICE14036: raises 30 to 60
+padre57400: folds 
+mabeal1: raises 215 to 275 and is all-in
+PATRICE14036: folds 
+Uncalled bet (215) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (135)
+Seat 2: PATRICE14036 (button) folded before Flop
+Seat 3: padre57400 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562498580: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:03:12 CET [2026/02/02 10:03:12 ET]
+Table '3971414637 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (350 in chips) 
+Seat 2: PATRICE14036 (820 in chips) 
+Seat 3: padre57400 (330 in chips) is sitting out
+mabeal1: posts small blind 15
+PATRICE14036: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 8c]
+padre57400: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to PATRICE14036
+PATRICE14036 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: PATRICE14036 (big blind) collected (30)
+Seat 3: padre57400 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259562500541: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:03:24 CET [2026/02/02 10:03:24 ET]
+Table '3971414637 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (335 in chips) 
+Seat 2: PATRICE14036 (835 in chips) 
+Seat 3: padre57400 (330 in chips) is sitting out
+PATRICE14036: posts small blind 15
+padre57400: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 9d]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+mabeal1 has returned
+PATRICE14036: calls 15
+padre57400: folds 
+PATRICE14036 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: PATRICE14036 (small blind) collected (60)
+Seat 3: padre57400 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562503299: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:03:42 CET [2026/02/02 10:03:42 ET]
+Table '3971414637 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (335 in chips) 
+Seat 2: PATRICE14036 (865 in chips) 
+Seat 3: padre57400 (300 in chips) is sitting out
+padre57400: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Js]
+PATRICE14036: calls 30
+padre57400: folds 
+mabeal1: raises 305 to 335 and is all-in
+PATRICE14036: folds 
+Uncalled bet (305) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (75)
+Seat 2: PATRICE14036 (button) folded before Flop
+Seat 3: padre57400 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562505151: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:03:55 CET [2026/02/02 10:03:55 ET]
+Table '3971414637 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: PATRICE14036 (835 in chips) 
+Seat 3: padre57400 (285 in chips) is sitting out
+mabeal1: posts small blind 15
+PATRICE14036: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4s]
+padre57400: folds 
+mabeal1: raises 350 to 380 and is all-in
+PATRICE14036: folds 
+Uncalled bet (350) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: PATRICE14036 (big blind) folded before Flop
+Seat 3: padre57400 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259562506725: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:04:05 CET [2026/02/02 10:04:05 ET]
+Table '3971414637 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: PATRICE14036 (805 in chips) 
+Seat 3: padre57400 (285 in chips) is sitting out
+PATRICE14036: posts small blind 15
+padre57400: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 5d]
+mabeal1: raises 30 to 60
+PATRICE14036: calls 45
+padre57400: folds 
+*** FLOP *** [9c 6c Ts]
+PATRICE14036: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to PATRICE14036
+PATRICE14036 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [9c 6c Ts]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: PATRICE14036 (small blind) collected (150)
+Seat 3: padre57400 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562509876: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:04:25 CET [2026/02/02 10:04:25 ET]
+Table '3971414637 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (350 in chips) 
+Seat 2: PATRICE14036 (895 in chips) 
+Seat 3: padre57400 (255 in chips) is sitting out
+padre57400: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3h]
+PATRICE14036: calls 30
+padre57400: folds 
+mabeal1: checks 
+*** FLOP *** [2s 2c Th]
+mabeal1: checks 
+PATRICE14036: bets 75
+mabeal1: raises 245 to 320 and is all-in
+PATRICE14036: folds 
+Uncalled bet (245) returned to mabeal1
+mabeal1 collected 225 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [2s 2c Th]
+Seat 1: mabeal1 (big blind) collected (225)
+Seat 2: PATRICE14036 (button) folded on the Flop
+Seat 3: padre57400 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562514251: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:04:53 CET [2026/02/02 10:04:53 ET]
+Table '3971414637 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: PATRICE14036 (790 in chips) 
+Seat 3: padre57400 (240 in chips) is sitting out
+mabeal1: posts small blind 20
+PATRICE14036: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 5h]
+padre57400: folds 
+mabeal1: raises 40 to 80
+PATRICE14036: calls 40
+*** FLOP *** [Kd 7h Js]
+mabeal1: bets 390 and is all-in
+PATRICE14036: folds 
+Uncalled bet (390) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd 7h Js]
+Seat 1: mabeal1 (small blind) collected (160)
+Seat 2: PATRICE14036 (big blind) folded on the Flop
+Seat 3: padre57400 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259562517281: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:05:12 CET [2026/02/02 10:05:12 ET]
+Table '3971414637 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: PATRICE14036 (710 in chips) 
+Seat 3: padre57400 (240 in chips) is sitting out
+PATRICE14036: posts small blind 20
+padre57400: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3h]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+mabeal1 has returned
+PATRICE14036: calls 20
+padre57400: folds 
+PATRICE14036 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: PATRICE14036 (small blind) collected (80)
+Seat 3: padre57400 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562519902: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:05:29 CET [2026/02/02 10:05:29 ET]
+Table '3971414637 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: PATRICE14036 (750 in chips) 
+Seat 3: padre57400 (200 in chips) is sitting out
+padre57400: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jh]
+PATRICE14036: calls 40
+padre57400: folds 
+mabeal1: raises 510 to 550 and is all-in
+PATRICE14036: folds 
+Uncalled bet (510) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (100)
+Seat 2: PATRICE14036 (button) folded before Flop
+Seat 3: padre57400 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562521995: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:05:42 CET [2026/02/02 10:05:42 ET]
+Table '3971414637 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: PATRICE14036 (710 in chips) 
+Seat 3: padre57400 (180 in chips) is sitting out
+mabeal1: posts small blind 20
+PATRICE14036: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 9h]
+padre57400: folds 
+mabeal1: raises 570 to 610 and is all-in
+PATRICE14036: folds 
+Uncalled bet (570) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (80)
+Seat 2: PATRICE14036 (big blind) folded before Flop
+Seat 3: padre57400 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259562525326: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:06:03 CET [2026/02/02 10:06:03 ET]
+Table '3971414637 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: PATRICE14036 (670 in chips) 
+Seat 3: padre57400 (180 in chips) is sitting out
+PATRICE14036: posts small blind 20
+padre57400: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 8c]
+mabeal1: raises 610 to 650 and is all-in
+PATRICE14036: raises 20 to 670 and is all-in
+padre57400: folds 
+Uncalled bet (20) returned to PATRICE14036
+*** FLOP *** [2d Ah 8s]
+*** TURN *** [2d Ah 8s] [9d]
+*** RIVER *** [2d Ah 8s 9d] [4s]
+*** SHOW DOWN ***
+PATRICE14036: shows [Tc As] (a pair of Aces)
+mabeal1: shows [8d 8c] (three of a kind, Eights)
+mabeal1 collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [2d Ah 8s 9d 4s]
+Seat 1: mabeal1 (button) showed [8d 8c] and won (1340) with three of a kind, Eights
+Seat 2: PATRICE14036 (small blind) showed [Tc As] and lost with a pair of Aces
+Seat 3: padre57400 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562527494: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:06:17 CET [2026/02/02 10:06:17 ET]
+Table '3971414637 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1340 in chips) 
+Seat 2: PATRICE14036 (20 in chips) 
+Seat 3: padre57400 (140 in chips) is sitting out
+padre57400: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ad]
+PATRICE14036: calls 20 and is all-in
+padre57400: folds 
+Uncalled bet (20) returned to mabeal1
+*** FLOP *** [5s Qh 7d]
+*** TURN *** [5s Qh 7d] [6h]
+*** RIVER *** [5s Qh 7d 6h] [Ah]
+*** SHOW DOWN ***
+mabeal1: shows [5h Ad] (two pair, Aces and Fives)
+PATRICE14036: shows [3h 3d] (a pair of Threes)
+mabeal1 collected 60 from pot
+PATRICE14036 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s Qh 7d 6h Ah]
+Seat 1: mabeal1 (big blind) showed [5h Ad] and won (60) with two pair, Aces and Fives
+Seat 2: PATRICE14036 (button) showed [3h 3d] and lost with a pair of Threes
+Seat 3: padre57400 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562530027: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 16:06:33 CET [2026/02/02 10:06:33 ET]
+Table '3971414637 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1380 in chips) 
+Seat 3: padre57400 (120 in chips) is sitting out
+mabeal1: posts small blind 30
+padre57400: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 6h]
+mabeal1: calls 30
+padre57400: folds 
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: padre57400 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562530904: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 16:06:39 CET [2026/02/02 10:06:39 ET]
+Table '3971414637 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1440 in chips) 
+Seat 3: padre57400 (60 in chips) is sitting out
+padre57400: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 4c]
+padre57400: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: padre57400 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562531187: Tournament #3971414637, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 16:06:41 CET [2026/02/02 10:06:41 ET]
+Table '3971414637 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1470 in chips) 
+Seat 3: padre57400 (30 in chips) is sitting out
+mabeal1: posts small blind 30
+padre57400: posts big blind 30 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 8d]
+padre57400: folds 
+mabeal1 collected 60 from pot
+padre57400 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: padre57400 (big blind) folded before Flop
+
+
+

@@ -1,0 +1,463 @@
+﻿PokerStars Hand #259595686324: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:44:47 CET [2026/02/04 18:44:47 ET]
+Table '3972159011 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: brujAAveriia (500 in chips) 
+Seat 3: RobledoZz_ (500 in chips) 
+brujAAveriia: posts small blind 10
+RobledoZz_: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 9s]
+mabeal1: folds 
+brujAAveriia: raises 30 to 50
+RobledoZz_: calls 30
+*** FLOP *** [3s 5h 6s]
+brujAAveriia: checks 
+RobledoZz_: checks 
+*** TURN *** [3s 5h 6s] [2s]
+brujAAveriia: checks 
+RobledoZz_: checks 
+*** RIVER *** [3s 5h 6s 2s] [6c]
+brujAAveriia: checks 
+RobledoZz_: bets 80
+brujAAveriia: calls 80
+*** SHOW DOWN ***
+RobledoZz_: shows [7s Ks] (a flush, King high)
+brujAAveriia: mucks hand 
+RobledoZz_ collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [3s 5h 6s 2s 6c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: brujAAveriia (small blind) mucked [Ah Kd]
+Seat 3: RobledoZz_ (big blind) showed [7s Ks] and won (260) with a flush, King high
+
+
+
+PokerStars Hand #259595692999: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:45:19 CET [2026/02/04 18:45:19 ET]
+Table '3972159011 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: brujAAveriia (370 in chips) 
+Seat 3: RobledoZz_ (630 in chips) 
+RobledoZz_: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2s]
+brujAAveriia: folds 
+RobledoZz_: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: brujAAveriia (button) folded before Flop (didn't bet)
+Seat 3: RobledoZz_ (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595694349: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:45:25 CET [2026/02/04 18:45:25 ET]
+Table '3972159011 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: brujAAveriia (370 in chips) 
+Seat 3: RobledoZz_ (620 in chips) 
+mabeal1: posts small blind 10
+brujAAveriia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 2d]
+RobledoZz_: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to brujAAveriia
+brujAAveriia collected 20 from pot
+brujAAveriia: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: brujAAveriia (big blind) collected (20)
+Seat 3: RobledoZz_ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259595695558: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:45:31 CET [2026/02/04 18:45:31 ET]
+Table '3972159011 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: brujAAveriia (380 in chips) 
+Seat 3: RobledoZz_ (620 in chips) 
+brujAAveriia: posts small blind 10
+RobledoZz_: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 9c]
+mabeal1: folds 
+brujAAveriia: folds 
+Uncalled bet (10) returned to RobledoZz_
+RobledoZz_ collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: brujAAveriia (small blind) folded before Flop
+Seat 3: RobledoZz_ (big blind) collected (20)
+
+
+
+PokerStars Hand #259595697425: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:45:40 CET [2026/02/04 18:45:40 ET]
+Table '3972159011 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: brujAAveriia (370 in chips) 
+Seat 3: RobledoZz_ (630 in chips) 
+RobledoZz_: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 9c]
+brujAAveriia: raises 20 to 40
+RobledoZz_: calls 30
+mabeal1: raises 460 to 500 and is all-in
+brujAAveriia: folds 
+RobledoZz_: calls 460
+*** FLOP *** [4s 3d 4d]
+*** TURN *** [4s 3d 4d] [Ks]
+*** RIVER *** [4s 3d 4d Ks] [Tc]
+*** SHOW DOWN ***
+RobledoZz_: shows [7h Qd] (a pair of Fours)
+mabeal1: shows [9h 9c] (two pair, Nines and Fours)
+mabeal1 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [4s 3d 4d Ks Tc]
+Seat 1: mabeal1 (big blind) showed [9h 9c] and won (1040) with two pair, Nines and Fours
+Seat 2: brujAAveriia (button) folded before Flop
+Seat 3: RobledoZz_ (small blind) showed [7h Qd] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259595703126: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:46:07 CET [2026/02/04 18:46:07 ET]
+Table '3972159011 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 2: brujAAveriia (330 in chips) 
+Seat 3: RobledoZz_ (130 in chips) 
+mabeal1: posts small blind 10
+brujAAveriia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 4h]
+RobledoZz_: raises 110 to 130 and is all-in
+mabeal1: folds 
+brujAAveriia: calls 110
+*** FLOP *** [Ac 9d 9h]
+*** TURN *** [Ac 9d 9h] [Js]
+*** RIVER *** [Ac 9d 9h Js] [2d]
+*** SHOW DOWN ***
+brujAAveriia: shows [9s Kh] (three of a kind, Nines)
+RobledoZz_: shows [4d As] (two pair, Aces and Nines)
+brujAAveriia collected 270 from pot
+RobledoZz_ finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Ac 9d 9h Js 2d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: brujAAveriia (big blind) showed [9s Kh] and won (270) with three of a kind, Nines
+Seat 3: RobledoZz_ (button) showed [4d As] and lost with two pair, Aces and Nines
+
+
+
+PokerStars Hand #259595707229: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:46:26 CET [2026/02/04 18:46:26 ET]
+Table '3972159011 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 2: brujAAveriia (470 in chips) 
+brujAAveriia: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Ah]
+brujAAveriia: calls 10
+mabeal1: raises 1010 to 1030 and is all-in
+brujAAveriia: folds 
+Uncalled bet (1010) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: brujAAveriia (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595709436: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:46:37 CET [2026/02/04 18:46:37 ET]
+Table '3972159011 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 2: brujAAveriia (450 in chips) 
+mabeal1: posts small blind 10
+brujAAveriia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6s]
+mabeal1: calls 10
+brujAAveriia: checks 
+*** FLOP *** [Ah 4h 3s]
+brujAAveriia: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to brujAAveriia
+brujAAveriia collected 40 from pot
+brujAAveriia: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah 4h 3s]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 2: brujAAveriia (big blind) collected (40)
+
+
+
+PokerStars Hand #259595713155: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:46:55 CET [2026/02/04 18:46:55 ET]
+Table '3972159011 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 2: brujAAveriia (470 in chips) 
+brujAAveriia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 6h]
+brujAAveriia: calls 15
+mabeal1: checks 
+*** FLOP *** [Qs Ts 9h]
+mabeal1: checks 
+brujAAveriia: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to brujAAveriia
+brujAAveriia collected 60 from pot
+brujAAveriia: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs Ts 9h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: brujAAveriia (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259595717053: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:47:13 CET [2026/02/04 18:47:13 ET]
+Table '3972159011 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 2: brujAAveriia (500 in chips) 
+mabeal1: posts small blind 15
+brujAAveriia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Qc]
+mabeal1: calls 15
+brujAAveriia: checks 
+*** FLOP *** [6c As 8c]
+brujAAveriia: checks 
+mabeal1: bets 30
+brujAAveriia: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6c As 8c]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: brujAAveriia (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259595720408: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:47:30 CET [2026/02/04 18:47:30 ET]
+Table '3972159011 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 2: brujAAveriia (470 in chips) 
+brujAAveriia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Ks]
+brujAAveriia: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: brujAAveriia (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595721060: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:47:33 CET [2026/02/04 18:47:33 ET]
+Table '3972159011 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1045 in chips) 
+Seat 2: brujAAveriia (455 in chips) 
+mabeal1: posts small blind 15
+brujAAveriia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 5c]
+mabeal1: calls 15
+brujAAveriia: checks 
+*** FLOP *** [9c 9d Kh]
+brujAAveriia: bets 30
+mabeal1: raises 60 to 90
+brujAAveriia: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c 9d Kh]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 2: brujAAveriia (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259595724640: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:47:51 CET [2026/02/04 18:47:51 ET]
+Table '3972159011 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 2: brujAAveriia (395 in chips) 
+brujAAveriia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Kd]
+brujAAveriia: calls 15
+mabeal1: raises 45 to 75
+brujAAveriia: calls 45
+*** FLOP *** [6d 5d Qc]
+mabeal1: bets 75
+brujAAveriia: raises 245 to 320 and is all-in
+mabeal1: calls 245
+*** TURN *** [6d 5d Qc] [8s]
+*** RIVER *** [6d 5d Qc 8s] [4h]
+*** SHOW DOWN ***
+mabeal1: shows [Qh Kd] (a pair of Queens)
+brujAAveriia: shows [7c Js] (a straight, Four to Eight)
+brujAAveriia collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [6d 5d Qc 8s 4h]
+Seat 1: mabeal1 (big blind) showed [Qh Kd] and lost with a pair of Queens
+Seat 2: brujAAveriia (button) (small blind) showed [7c Js] and won (790) with a straight, Four to Eight
+
+
+
+PokerStars Hand #259595730112: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:48:18 CET [2026/02/04 18:48:18 ET]
+Table '3972159011 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 2: brujAAveriia (790 in chips) 
+mabeal1: posts small blind 15
+brujAAveriia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6h]
+mabeal1: raises 45 to 75
+brujAAveriia: calls 45
+*** FLOP *** [Qh 2d 3d]
+brujAAveriia: checks 
+mabeal1: bets 60
+brujAAveriia: calls 60
+*** TURN *** [Qh 2d 3d] [Ks]
+brujAAveriia: checks 
+mabeal1: bets 203
+brujAAveriia: raises 452 to 655 and is all-in
+mabeal1: folds 
+Uncalled bet (452) returned to brujAAveriia
+brujAAveriia collected 676 from pot
+brujAAveriia: doesn't show hand 
+*** SUMMARY ***
+Total pot 676 | Rake 0 
+Board [Qh 2d 3d Ks]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 2: brujAAveriia (big blind) collected (676)
+
+
+
+PokerStars Hand #259595735885: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:48:45 CET [2026/02/04 18:48:45 ET]
+Table '3972159011 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (372 in chips) 
+Seat 2: brujAAveriia (1128 in chips) 
+brujAAveriia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2s]
+brujAAveriia: calls 15
+mabeal1: checks 
+*** FLOP *** [Kh Qh Js]
+mabeal1: checks 
+brujAAveriia: bets 30
+mabeal1: raises 312 to 342 and is all-in
+brujAAveriia: folds 
+Uncalled bet (312) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kh Qh Js]
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: brujAAveriia (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259595741260: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:49:11 CET [2026/02/04 18:49:11 ET]
+Table '3972159011 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (432 in chips) 
+Seat 2: brujAAveriia (1068 in chips) 
+mabeal1: posts small blind 20
+brujAAveriia: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 5s]
+mabeal1: calls 20
+brujAAveriia: checks 
+*** FLOP *** [Jh 7h 3h]
+brujAAveriia: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to brujAAveriia
+brujAAveriia collected 80 from pot
+brujAAveriia: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 7h 3h]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 2: brujAAveriia (big blind) collected (80)
+
+
+
+PokerStars Hand #259595745040: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:49:29 CET [2026/02/04 18:49:29 ET]
+Table '3972159011 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (392 in chips) 
+Seat 2: brujAAveriia (1108 in chips) 
+brujAAveriia: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 8d]
+brujAAveriia: calls 20
+mabeal1: checks 
+*** FLOP *** [Td 6c Jh]
+mabeal1: checks 
+brujAAveriia: checks 
+*** TURN *** [Td 6c Jh] [5d]
+mabeal1: bets 352 and is all-in
+brujAAveriia: folds 
+Uncalled bet (352) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 6c Jh 5d]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: brujAAveriia (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259595748992: Tournament #3972159011, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:49:49 CET [2026/02/04 18:49:49 ET]
+Table '3972159011 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (432 in chips) 
+Seat 2: brujAAveriia (1068 in chips) 
+mabeal1: posts small blind 20
+brujAAveriia: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Kh]
+mabeal1: raises 40 to 80
+brujAAveriia: raises 988 to 1068 and is all-in
+mabeal1: calls 352 and is all-in
+Uncalled bet (636) returned to brujAAveriia
+*** FLOP *** [Ah 8s 9s]
+*** TURN *** [Ah 8s 9s] [Js]
+*** RIVER *** [Ah 8s 9s Js] [6s]
+*** SHOW DOWN ***
+brujAAveriia: shows [Jc Jd] (three of a kind, Jacks)
+mabeal1: shows [6h Kh] (a pair of Sixes)
+brujAAveriia collected 864 from pot
+mabeal1 finished the tournament in 2nd place
+brujAAveriia wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 864 | Rake 0 
+Board [Ah 8s 9s Js 6s]
+Seat 1: mabeal1 (button) (small blind) showed [6h Kh] and lost with a pair of Sixes
+Seat 2: brujAAveriia (big blind) showed [Jc Jd] and won (864) with three of a kind, Jacks
+
+
+

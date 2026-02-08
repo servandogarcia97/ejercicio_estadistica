@@ -1,0 +1,614 @@
+﻿PokerStars Hand #259591762110: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:23:00 CET [2026/02/04 14:23:00 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: orfeas5219 (500 in chips) 
+mabeal1: posts small blind 10
+orfeas5219: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 7c]
+luismiguelme: raises 20 to 40
+mabeal1: folds 
+orfeas5219: calls 20
+*** FLOP *** [As 8s Qh]
+orfeas5219: checks 
+luismiguelme: checks 
+*** TURN *** [As 8s Qh] [Td]
+orfeas5219: bets 20
+luismiguelme: raises 80 to 100
+orfeas5219: calls 80
+*** RIVER *** [As 8s Qh Td] [6c]
+orfeas5219: checks 
+luismiguelme: bets 360 and is all-in
+orfeas5219: calls 360 and is all-in
+*** SHOW DOWN ***
+luismiguelme: shows [Ah Jh] (a pair of Aces)
+orfeas5219: shows [Qd 9d] (a pair of Queens)
+luismiguelme collected 1010 from pot
+orfeas5219 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [As 8s Qh Td 6c]
+Seat 1: luismiguelme (button) showed [Ah Jh] and won (1010) with a pair of Aces
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: orfeas5219 (big blind) showed [Qd 9d] and lost with a pair of Queens
+
+
+
+PokerStars Hand #259591770480: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:23:33 CET [2026/02/04 14:23:33 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+mabeal1: posts small blind 10
+luismiguelme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 6s]
+mabeal1: calls 10
+luismiguelme: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to luismiguelme
+luismiguelme collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: luismiguelme (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591774924: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:23:49 CET [2026/02/04 14:23:49 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (1030 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+luismiguelme: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 6s]
+luismiguelme: calls 10
+mabeal1: checks 
+*** FLOP *** [2c 3d 9s]
+mabeal1: checks 
+luismiguelme: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to luismiguelme
+luismiguelme collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c 3d 9s]
+Seat 1: luismiguelme (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259591778356: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:24:03 CET [2026/02/04 14:24:03 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1050 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+mabeal1: posts small blind 10
+luismiguelme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4h]
+mabeal1: calls 10
+luismiguelme: checks 
+*** FLOP *** [Jd 7c 5d]
+luismiguelme: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to luismiguelme
+luismiguelme collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jd 7c 5d]
+Seat 1: luismiguelme (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259591781582: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:24:15 CET [2026/02/04 14:24:15 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (1070 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+luismiguelme: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 6d]
+luismiguelme: calls 10
+mabeal1: checks 
+*** FLOP *** [Ac 3h Kh]
+mabeal1: checks 
+luismiguelme: checks 
+*** TURN *** [Ac 3h Kh] [9s]
+mabeal1: checks 
+luismiguelme: bets 20
+mabeal1: calls 20
+*** RIVER *** [Ac 3h Kh 9s] [4c]
+mabeal1: checks 
+luismiguelme: bets 80
+mabeal1: calls 80
+*** SHOW DOWN ***
+luismiguelme: shows [Ad 3c] (two pair, Aces and Threes)
+mabeal1: mucks hand 
+luismiguelme collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ac 3h Kh 9s 4c]
+Seat 1: luismiguelme (button) (small blind) showed [Ad 3c] and won (240) with two pair, Aces and Threes
+Seat 2: mabeal1 (big blind) mucked [9d 6d]
+
+
+
+PokerStars Hand #259591786479: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:24:34 CET [2026/02/04 14:24:34 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1190 in chips) 
+Seat 2: mabeal1 (310 in chips) 
+mabeal1: posts small blind 10
+luismiguelme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 2h]
+mabeal1: raises 290 to 310 and is all-in
+luismiguelme: folds 
+Uncalled bet (290) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: luismiguelme (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259591788538: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:24:42 CET [2026/02/04 14:24:42 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (1170 in chips) 
+Seat 2: mabeal1 (330 in chips) 
+luismiguelme: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 4h]
+luismiguelme: calls 10
+mabeal1: checks 
+*** FLOP *** [4d Th 2d]
+mabeal1: checks 
+luismiguelme: bets 20
+mabeal1: calls 20
+*** TURN *** [4d Th 2d] [7d]
+mabeal1: checks 
+luismiguelme: checks 
+*** RIVER *** [4d Th 2d 7d] [9d]
+mabeal1: bets 60
+luismiguelme: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [Kc 4h] (a pair of Fours)
+luismiguelme: shows [5d As] (a flush, Nine high)
+luismiguelme collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4d Th 2d 7d 9d]
+Seat 1: luismiguelme (button) (small blind) showed [5d As] and won (200) with a flush, Nine high
+Seat 2: mabeal1 (big blind) showed [Kc 4h] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259591792614: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:24:57 CET [2026/02/04 14:24:57 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1270 in chips) 
+Seat 2: mabeal1 (230 in chips) 
+mabeal1: posts small blind 10
+luismiguelme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Js]
+mabeal1: raises 20 to 40
+luismiguelme: calls 20
+*** FLOP *** [Tc 3h 7d]
+luismiguelme: checks 
+mabeal1: checks 
+*** TURN *** [Tc 3h 7d] [Th]
+luismiguelme: checks 
+mabeal1: checks 
+*** RIVER *** [Tc 3h 7d Th] [9d]
+luismiguelme: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+luismiguelme: shows [5d As] (a pair of Tens)
+mabeal1: mucks hand 
+luismiguelme collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc 3h 7d Th 9d]
+Seat 1: luismiguelme (big blind) showed [5d As] and won (80) with a pair of Tens
+Seat 2: mabeal1 (button) (small blind) mucked [Ks Js]
+
+
+
+PokerStars Hand #259591797140: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:25:15 CET [2026/02/04 14:25:15 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (1310 in chips) 
+Seat 2: mabeal1 (190 in chips) 
+luismiguelme: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 4d]
+luismiguelme: calls 10
+mabeal1: raises 170 to 190 and is all-in
+luismiguelme: folds 
+Uncalled bet (170) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: luismiguelme (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259591799734: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:25:25 CET [2026/02/04 14:25:25 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1290 in chips) 
+Seat 2: mabeal1 (210 in chips) 
+mabeal1: posts small blind 10
+luismiguelme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 5d]
+mabeal1: raises 190 to 210 and is all-in
+luismiguelme: folds 
+Uncalled bet (190) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: luismiguelme (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259591801326: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:25:30 CET [2026/02/04 14:25:30 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (1270 in chips) 
+Seat 2: mabeal1 (230 in chips) 
+luismiguelme: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 8c]
+luismiguelme: calls 10
+mabeal1: checks 
+*** FLOP *** [9h Jc 9d]
+mabeal1: checks 
+luismiguelme: bets 20
+mabeal1: raises 190 to 210 and is all-in
+luismiguelme: folds 
+Uncalled bet (190) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Jc 9d]
+Seat 1: luismiguelme (button) (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259591804638: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:25:43 CET [2026/02/04 14:25:43 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1230 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+mabeal1: posts small blind 10
+luismiguelme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ah]
+mabeal1: raises 250 to 270 and is all-in
+luismiguelme: folds 
+Uncalled bet (250) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: luismiguelme (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259591806588: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:25:51 CET [2026/02/04 14:25:51 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (1210 in chips) 
+Seat 2: mabeal1 (290 in chips) 
+luismiguelme: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 2h]
+luismiguelme: calls 10
+mabeal1: checks 
+*** FLOP *** [6s Kh 4c]
+mabeal1: checks 
+luismiguelme: checks 
+*** TURN *** [6s Kh 4c] [3h]
+mabeal1: checks 
+luismiguelme: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to luismiguelme
+luismiguelme collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s Kh 4c 3h]
+Seat 1: luismiguelme (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259591810425: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:26:06 CET [2026/02/04 14:26:06 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1230 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+mabeal1: posts small blind 15
+luismiguelme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8h]
+mabeal1: folds 
+Uncalled bet (15) returned to luismiguelme
+luismiguelme collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: luismiguelme (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591811630: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:26:11 CET [2026/02/04 14:26:11 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (1245 in chips) 
+Seat 2: mabeal1 (255 in chips) 
+luismiguelme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Ks]
+luismiguelme: calls 15
+mabeal1: raises 225 to 255 and is all-in
+luismiguelme: folds 
+Uncalled bet (225) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: luismiguelme (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259591813217: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:26:17 CET [2026/02/04 14:26:17 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1215 in chips) 
+Seat 2: mabeal1 (285 in chips) 
+mabeal1: posts small blind 15
+luismiguelme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 7c]
+mabeal1: raises 255 to 285 and is all-in
+luismiguelme: folds 
+Uncalled bet (255) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: luismiguelme (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259591814992: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:26:24 CET [2026/02/04 14:26:24 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (1185 in chips) 
+Seat 2: mabeal1 (315 in chips) 
+luismiguelme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 9d]
+luismiguelme: calls 15
+mabeal1: raises 285 to 315 and is all-in
+luismiguelme: folds 
+Uncalled bet (285) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: luismiguelme (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259591816654: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:26:30 CET [2026/02/04 14:26:30 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1155 in chips) 
+Seat 2: mabeal1 (345 in chips) 
+mabeal1: posts small blind 15
+luismiguelme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 9d]
+mabeal1: calls 15
+luismiguelme: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to luismiguelme
+luismiguelme collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: luismiguelme (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591818931: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:26:39 CET [2026/02/04 14:26:39 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (1185 in chips) 
+Seat 2: mabeal1 (315 in chips) 
+luismiguelme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Kh]
+luismiguelme: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: luismiguelme (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259591820076: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:26:44 CET [2026/02/04 14:26:44 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (1170 in chips) 
+Seat 2: mabeal1 (330 in chips) 
+mabeal1: posts small blind 15
+luismiguelme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Td]
+mabeal1: calls 15
+luismiguelme: raises 30 to 60
+mabeal1: raises 270 to 330 and is all-in
+luismiguelme: calls 270
+*** FLOP *** [As 6c 9s]
+*** TURN *** [As 6c 9s] [Ad]
+*** RIVER *** [As 6c 9s Ad] [2h]
+*** SHOW DOWN ***
+luismiguelme: shows [8s 8d] (two pair, Aces and Eights)
+mabeal1: shows [Ah Td] (three of a kind, Aces)
+mabeal1 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [As 6c 9s Ad 2h]
+Seat 1: luismiguelme (big blind) showed [8s 8d] and lost with two pair, Aces and Eights
+Seat 2: mabeal1 (button) (small blind) showed [Ah Td] and won (660) with three of a kind, Aces
+
+
+
+PokerStars Hand #259591823810: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:26:58 CET [2026/02/04 14:26:58 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (840 in chips) 
+Seat 2: mabeal1 (660 in chips) 
+luismiguelme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 6s]
+luismiguelme: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: luismiguelme (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259591825401: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:27:05 CET [2026/02/04 14:27:05 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (825 in chips) 
+Seat 2: mabeal1 (675 in chips) 
+mabeal1: posts small blind 15
+luismiguelme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8d]
+mabeal1: calls 15
+luismiguelme: checks 
+*** FLOP *** [2c Ad 3s]
+luismiguelme: checks 
+mabeal1: bets 30
+luismiguelme: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2c Ad 3s]
+Seat 1: luismiguelme (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259591828412: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:27:16 CET [2026/02/04 14:27:16 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (795 in chips) 
+Seat 2: mabeal1 (705 in chips) 
+luismiguelme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9s]
+luismiguelme: calls 15
+mabeal1: checks 
+*** FLOP *** [Ah 7h 8c]
+mabeal1: checks 
+luismiguelme: bets 30
+mabeal1: raises 30 to 60
+luismiguelme: calls 30
+*** TURN *** [Ah 7h 8c] [Ks]
+mabeal1: bets 90
+luismiguelme: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ah 7h 8c Ks]
+Seat 1: luismiguelme (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (180)
+
+
+
+PokerStars Hand #259591833309: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:27:35 CET [2026/02/04 14:27:35 ET]
+Table '3972073767 1' 3-max Seat #2 is the button
+Seat 1: luismiguelme (705 in chips) 
+Seat 2: mabeal1 (795 in chips) 
+mabeal1: posts small blind 15
+luismiguelme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Jd]
+mabeal1: calls 15
+luismiguelme: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [6c 4s Jh]
+luismiguelme: bets 30
+mabeal1: calls 30
+*** TURN *** [6c 4s Jh] [Ad]
+luismiguelme: bets 585 and is all-in
+mabeal1: folds 
+Uncalled bet (585) returned to luismiguelme
+luismiguelme collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6c 4s Jh Ad]
+Seat 1: luismiguelme (big blind) collected (240)
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259591839853: Tournament #3972073767, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:28:00 CET [2026/02/04 14:28:00 ET]
+Table '3972073767 1' 3-max Seat #1 is the button
+Seat 1: luismiguelme (825 in chips) 
+Seat 2: mabeal1 (675 in chips) 
+luismiguelme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kc]
+luismiguelme: calls 15
+mabeal1: raises 60 to 90
+luismiguelme: calls 60
+*** FLOP *** [5h 8h 5d]
+mabeal1: bets 90
+luismiguelme: calls 90
+*** TURN *** [5h 8h 5d] [9d]
+mabeal1: checks 
+luismiguelme: bets 120
+mabeal1: raises 375 to 495 and is all-in
+luismiguelme: calls 375
+*** RIVER *** [5h 8h 5d 9d] [Th]
+*** SHOW DOWN ***
+mabeal1: shows [Ks Kc] (two pair, Kings and Fives)
+luismiguelme: shows [6c 5c] (three of a kind, Fives)
+luismiguelme collected 1350 from pot
+mabeal1 finished the tournament in 2nd place
+luismiguelme wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [5h 8h 5d 9d Th]
+Seat 1: luismiguelme (button) (small blind) showed [6c 5c] and won (1350) with three of a kind, Fives
+Seat 2: mabeal1 (big blind) showed [Ks Kc] and lost with two pair, Kings and Fives
+
+
+

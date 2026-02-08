@@ -1,0 +1,551 @@
+﻿PokerStars Hand #259577041189: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:05:14 CET [2026/02/03 11:05:14 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: ecnexam37120 (500 in chips) 
+mabeal1: posts small blind 10
+ecnexam37120: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Ks]
+Ikna22: calls 20
+mabeal1: folds 
+ecnexam37120: checks 
+*** FLOP *** [Jc Ac 4c]
+ecnexam37120: bets 20
+Ikna22: calls 20
+*** TURN *** [Jc Ac 4c] [Qd]
+ecnexam37120: bets 20
+Ikna22: calls 20
+*** RIVER *** [Jc Ac 4c Qd] [Kc]
+ecnexam37120: bets 250
+Ikna22: folds 
+Uncalled bet (250) returned to ecnexam37120
+ecnexam37120 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Jc Ac 4c Qd Kc]
+Seat 1: Ikna22 (button) folded on the River
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ecnexam37120 (big blind) collected (130)
+
+
+
+PokerStars Hand #259577047017: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:05:46 CET [2026/02/03 11:05:46 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (440 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: ecnexam37120 (570 in chips) 
+ecnexam37120: posts small blind 10
+Ikna22: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Kh]
+mabeal1: raises 20 to 40
+ecnexam37120: calls 30
+Ikna22: calls 20
+*** FLOP *** [6c 4h Kc]
+ecnexam37120: checks 
+Ikna22: bets 20
+mabeal1: raises 60 to 80
+ecnexam37120: calls 80
+Ikna22: folds 
+*** TURN *** [6c 4h Kc] [Jc]
+ecnexam37120: bets 40
+mabeal1: raises 330 to 370 and is all-in
+ecnexam37120: calls 330
+*** RIVER *** [6c 4h Kc Jc] [2s]
+*** SHOW DOWN ***
+ecnexam37120: shows [Ks 6h] (two pair, Kings and Sixes)
+mabeal1: shows [Js Kh] (two pair, Kings and Jacks)
+mabeal1 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [6c 4h Kc Jc 2s]
+Seat 1: Ikna22 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) showed [Js Kh] and won (1040) with two pair, Kings and Jacks
+Seat 3: ecnexam37120 (small blind) showed [Ks 6h] and lost with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #259577053815: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:06:22 CET [2026/02/03 11:06:22 ET]
+Table '3971734377 1' 3-max Seat #3 is the button
+Seat 1: Ikna22 (380 in chips) 
+Seat 2: mabeal1 (1040 in chips) 
+Seat 3: ecnexam37120 (80 in chips) 
+Ikna22: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h As]
+ecnexam37120: raises 60 to 80 and is all-in
+Ikna22: calls 70
+mabeal1: raises 960 to 1040 and is all-in
+Ikna22: folds 
+Uncalled bet (960) returned to mabeal1
+*** FLOP *** [2d Tc 4s]
+*** TURN *** [2d Tc 4s] [Js]
+*** RIVER *** [2d Tc 4s Js] [Jh]
+*** SHOW DOWN ***
+mabeal1: shows [7h As] (a pair of Jacks)
+ecnexam37120: shows [Ah 3c] (a pair of Jacks - lower kicker)
+mabeal1 collected 240 from pot
+ecnexam37120 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d Tc 4s Js Jh]
+Seat 1: Ikna22 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [7h As] and won (240) with a pair of Jacks
+Seat 3: ecnexam37120 (button) showed [Ah 3c] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259577058317: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:06:47 CET [2026/02/03 11:06:47 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (300 in chips) 
+Seat 2: mabeal1 (1200 in chips) 
+mabeal1: posts small blind 10
+Ikna22: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ah]
+mabeal1: raises 20 to 40
+Ikna22: calls 20
+*** FLOP *** [Tc 8d 7h]
+Ikna22: checks 
+mabeal1: checks 
+*** TURN *** [Tc 8d 7h] [3c]
+Ikna22: checks 
+mabeal1: checks 
+*** RIVER *** [Tc 8d 7h 3c] [2c]
+Ikna22: bets 20
+mabeal1: calls 20
+*** SHOW DOWN ***
+Ikna22: shows [Jc 7d] (a pair of Sevens)
+mabeal1: mucks hand 
+Ikna22 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc 8d 7h 3c 2c]
+Seat 1: Ikna22 (big blind) showed [Jc 7d] and won (120) with a pair of Sevens
+Seat 2: mabeal1 (button) (small blind) mucked [4d Ah]
+
+
+
+PokerStars Hand #259577065134: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:07:23 CET [2026/02/03 11:07:23 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+Ikna22: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2d]
+Ikna22: calls 10
+mabeal1: checks 
+*** FLOP *** [Qh Jd Kh]
+mabeal1: checks 
+Ikna22: bets 20
+mabeal1: calls 20
+*** TURN *** [Qh Jd Kh] [Ac]
+mabeal1: checks 
+Ikna22: bets 40
+mabeal1: calls 40
+*** RIVER *** [Qh Jd Kh Ac] [Qs]
+mabeal1: checks 
+Ikna22: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ah 2d] (two pair, Aces and Queens)
+Ikna22: shows [Tc Kc] (a straight, Ten to Ace)
+Ikna22 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qh Jd Kh Ac Qs]
+Seat 1: Ikna22 (button) (small blind) showed [Tc Kc] and won (160) with a straight, Ten to Ace
+Seat 2: mabeal1 (big blind) showed [Ah 2d] and lost with two pair, Aces and Queens
+
+
+
+PokerStars Hand #259577072753: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:08:04 CET [2026/02/03 11:08:04 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (440 in chips) 
+Seat 2: mabeal1 (1060 in chips) 
+mabeal1: posts small blind 10
+Ikna22: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Js]
+mabeal1: raises 20 to 40
+Ikna22: calls 20
+*** FLOP *** [5h 6s Th]
+Ikna22: checks 
+mabeal1: checks 
+*** TURN *** [5h 6s Th] [Td]
+Ikna22: checks 
+mabeal1: checks 
+*** RIVER *** [5h 6s Th Td] [6d]
+Ikna22: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Ikna22: shows [7c 3c] (two pair, Tens and Sixes)
+mabeal1: shows [Kc Js] (two pair, Tens and Sixes - King kicker)
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h 6s Th Td 6d]
+Seat 1: Ikna22 (big blind) showed [7c 3c] and lost with two pair, Tens and Sixes
+Seat 2: mabeal1 (button) (small blind) showed [Kc Js] and won (80) with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #259577086202: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:09:18 CET [2026/02/03 11:09:18 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (400 in chips) 
+Seat 2: mabeal1 (1100 in chips) 
+Ikna22: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 2h]
+Ikna22: calls 15
+mabeal1: checks 
+*** FLOP *** [8d 5h 5c]
+mabeal1: checks 
+Ikna22: checks 
+*** TURN *** [8d 5h 5c] [Ad]
+mabeal1: bets 30
+Ikna22: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8d 5h 5c Ad]
+Seat 1: Ikna22 (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259577091805: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:09:49 CET [2026/02/03 11:09:49 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (370 in chips) 
+Seat 2: mabeal1 (1130 in chips) 
+mabeal1: posts small blind 15
+Ikna22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9s]
+mabeal1: calls 15
+Ikna22: checks 
+*** FLOP *** [Qc 6s 5s]
+Ikna22: checks 
+mabeal1: checks 
+*** TURN *** [Qc 6s 5s] [Ks]
+Ikna22: checks 
+mabeal1: checks 
+*** RIVER *** [Qc 6s 5s Ks] [Qs]
+Ikna22: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+Ikna22: shows [3s 4c] (a flush, King high)
+mabeal1: shows [4h 9s] (a flush, King high - Nine higher)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc 6s 5s Ks Qs]
+Seat 1: Ikna22 (big blind) showed [3s 4c] and lost with a flush, King high
+Seat 2: mabeal1 (button) (small blind) showed [4h 9s] and won (120) with a flush, King high
+
+
+
+PokerStars Hand #259577100880: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:10:38 CET [2026/02/03 11:10:38 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (310 in chips) 
+Seat 2: mabeal1 (1190 in chips) 
+Ikna22: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4d]
+Ikna22: calls 15
+mabeal1: raises 1160 to 1190 and is all-in
+Ikna22: folds 
+Uncalled bet (1160) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Ikna22 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259577104265: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:10:57 CET [2026/02/03 11:10:57 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (280 in chips) 
+Seat 2: mabeal1 (1220 in chips) 
+mabeal1: posts small blind 15
+Ikna22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 4h]
+mabeal1: folds 
+Uncalled bet (15) returned to Ikna22
+Ikna22 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Ikna22 (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577105138: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:11:01 CET [2026/02/03 11:11:01 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (295 in chips) 
+Seat 2: mabeal1 (1205 in chips) 
+Ikna22: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kh]
+Ikna22: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Ikna22 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259577106639: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:11:10 CET [2026/02/03 11:11:10 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (280 in chips) 
+Seat 2: mabeal1 (1220 in chips) 
+mabeal1: posts small blind 15
+Ikna22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 3h]
+mabeal1: folds 
+Uncalled bet (15) returned to Ikna22
+Ikna22 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Ikna22 (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577107641: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:11:15 CET [2026/02/03 11:11:15 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (295 in chips) 
+Seat 2: mabeal1 (1205 in chips) 
+Ikna22: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5h]
+Ikna22: calls 15
+mabeal1: checks 
+*** FLOP *** [Ts 3d 4h]
+mabeal1: bets 45
+Ikna22: calls 45
+*** TURN *** [Ts 3d 4h] [3c]
+mabeal1: bets 75
+Ikna22: calls 75
+*** RIVER *** [Ts 3d 4h 3c] [Jh]
+mabeal1: checks 
+Ikna22: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Ikna22
+Ikna22 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ts 3d 4h 3c Jh]
+Seat 1: Ikna22 (button) (small blind) collected (300)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259577114796: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:11:54 CET [2026/02/03 11:11:54 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (445 in chips) 
+Seat 2: mabeal1 (1055 in chips) 
+mabeal1: posts small blind 20
+Ikna22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 6s]
+mabeal1: raises 40 to 80
+Ikna22: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Ikna22 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259577116860: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:12:05 CET [2026/02/03 11:12:05 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (405 in chips) 
+Seat 2: mabeal1 (1095 in chips) 
+Ikna22: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 4h]
+Ikna22: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Ikna22 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259577118526: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:12:14 CET [2026/02/03 11:12:14 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (385 in chips) 
+Seat 2: mabeal1 (1115 in chips) 
+mabeal1: posts small blind 20
+Ikna22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 7s]
+mabeal1: raises 40 to 80
+Ikna22: calls 40
+*** FLOP *** [8d 2s 4h]
+Ikna22 has timed out
+Ikna22: checks 
+mabeal1: checks 
+*** TURN *** [8d 2s 4h] [Td]
+Ikna22: checks 
+mabeal1: bets 80
+Ikna22: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d 2s 4h Td]
+Seat 1: Ikna22 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259577127079: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:13:01 CET [2026/02/03 11:13:01 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (305 in chips) 
+Seat 2: mabeal1 (1195 in chips) 
+Ikna22: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Jh]
+Ikna22: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Ikna22 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259577129259: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:13:13 CET [2026/02/03 11:13:13 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (285 in chips) 
+Seat 2: mabeal1 (1215 in chips) 
+mabeal1: posts small blind 20
+Ikna22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Kc]
+mabeal1: raises 1175 to 1215 and is all-in
+Ikna22: calls 245 and is all-in
+Uncalled bet (930) returned to mabeal1
+*** FLOP *** [7h 8h Qc]
+*** TURN *** [7h 8h Qc] [9h]
+*** RIVER *** [7h 8h Qc 9h] [5h]
+*** SHOW DOWN ***
+Ikna22: shows [Kd Qd] (a pair of Queens)
+mabeal1: shows [Ts Kc] (high card King)
+Ikna22 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [7h 8h Qc 9h 5h]
+Seat 1: Ikna22 (big blind) showed [Kd Qd] and won (570) with a pair of Queens
+Seat 2: mabeal1 (button) (small blind) showed [Ts Kc] and lost with high card King
+
+
+
+PokerStars Hand #259577134116: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:13:40 CET [2026/02/03 11:13:40 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (570 in chips) 
+Seat 2: mabeal1 (930 in chips) 
+Ikna22: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4s]
+Ikna22: calls 20
+mabeal1: raises 890 to 930 and is all-in
+Ikna22: folds 
+Uncalled bet (890) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Ikna22 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259577136333: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:13:52 CET [2026/02/03 11:13:52 ET]
+Table '3971734377 1' 3-max Seat #2 is the button
+Seat 1: Ikna22 (530 in chips) 
+Seat 2: mabeal1 (970 in chips) 
+mabeal1: posts small blind 20
+Ikna22: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 6d]
+mabeal1: calls 20
+Ikna22: checks 
+*** FLOP *** [8s Ah 7h]
+Ikna22: checks 
+mabeal1: bets 40
+Ikna22: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s Ah 7h]
+Seat 1: Ikna22 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259577141862: Tournament #3971734377, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:14:22 CET [2026/02/03 11:14:22 ET]
+Table '3971734377 1' 3-max Seat #1 is the button
+Seat 1: Ikna22 (490 in chips) 
+Seat 2: mabeal1 (1010 in chips) 
+Ikna22: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 9h]
+Ikna22: raises 60 to 120
+mabeal1: calls 60
+*** FLOP *** [Ac Td Tc]
+mabeal1: checks 
+Ikna22: checks 
+*** TURN *** [Ac Td Tc] [2d]
+mabeal1: bets 60
+Ikna22: calls 60
+*** RIVER *** [Ac Td Tc 2d] [9d]
+mabeal1: bets 830 and is all-in
+Ikna22: calls 310 and is all-in
+Uncalled bet (520) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Th 9h] (a full house, Tens full of Nines)
+Ikna22: shows [Jd Qd] (a flush, Queen high)
+mabeal1 collected 980 from pot
+Ikna22 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Ac Td Tc 2d 9d]
+Seat 1: Ikna22 (button) (small blind) showed [Jd Qd] and lost with a flush, Queen high
+Seat 2: mabeal1 (big blind) showed [Th 9h] and won (980) with a full house, Tens full of Nines
+
+
+

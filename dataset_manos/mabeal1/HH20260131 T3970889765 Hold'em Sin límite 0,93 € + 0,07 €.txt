@@ -1,0 +1,153 @@
+﻿PokerStars Hand #259538652183: Tournament #3970889765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:52:22 CET [2026/01/31 14:52:22 ET]
+Table '3970889765 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: valuecut59 (500 in chips) 
+Seat 3: Ateneaa80 (500 in chips) 
+valuecut59: posts small blind 10
+Ateneaa80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 8d]
+mabeal1: folds 
+valuecut59: raises 60 to 80
+Ateneaa80: calls 60
+*** FLOP *** [7s 2c 3c]
+valuecut59: bets 80
+Ateneaa80: folds 
+Uncalled bet (80) returned to valuecut59
+valuecut59 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7s 2c 3c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: valuecut59 (small blind) collected (160)
+Seat 3: Ateneaa80 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259538659690: Tournament #3970889765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:52:54 CET [2026/01/31 14:52:54 ET]
+Table '3970889765 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: valuecut59 (580 in chips) 
+Seat 3: Ateneaa80 (420 in chips) 
+Ateneaa80: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3c]
+valuecut59: raises 40 to 60
+Ateneaa80: calls 50
+mabeal1: folds 
+*** FLOP *** [Ks 4s 9c]
+Ateneaa80: checks 
+valuecut59: checks 
+*** TURN *** [Ks 4s 9c] [6c]
+Ateneaa80: checks 
+valuecut59: checks 
+*** RIVER *** [Ks 4s 9c 6c] [8c]
+Ateneaa80: checks 
+valuecut59: checks 
+*** SHOW DOWN ***
+Ateneaa80: shows [3s Tc] (high card King)
+valuecut59: shows [Qh As] (high card Ace)
+valuecut59 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Ks 4s 9c 6c 8c]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: valuecut59 (button) showed [Qh As] and won (140) with high card Ace
+Seat 3: Ateneaa80 (small blind) showed [3s Tc] and lost with high card King
+
+
+
+PokerStars Hand #259538667131: Tournament #3970889765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:53:27 CET [2026/01/31 14:53:27 ET]
+Table '3970889765 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: valuecut59 (660 in chips) 
+Seat 3: Ateneaa80 (360 in chips) 
+mabeal1: posts small blind 10
+valuecut59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 6d]
+Ateneaa80: calls 20
+mabeal1: folds 
+valuecut59: raises 60 to 80
+Ateneaa80: calls 60
+*** FLOP *** [As 7h 5d]
+valuecut59: bets 85
+Ateneaa80: raises 195 to 280 and is all-in
+valuecut59: calls 195
+*** TURN *** [As 7h 5d] [Qd]
+*** RIVER *** [As 7h 5d Qd] [2s]
+*** SHOW DOWN ***
+valuecut59: shows [Ad Tc] (a pair of Aces)
+Ateneaa80: shows [5s Ac] (two pair, Aces and Fives)
+Ateneaa80 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [As 7h 5d Qd 2s]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: valuecut59 (big blind) showed [Ad Tc] and lost with a pair of Aces
+Seat 3: Ateneaa80 (button) showed [5s Ac] and won (730) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #259538679777: Tournament #3970889765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:54:21 CET [2026/01/31 14:54:21 ET]
+Table '3970889765 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: valuecut59 (300 in chips) 
+Seat 3: Ateneaa80 (730 in chips) 
+valuecut59: posts small blind 10
+Ateneaa80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 2h]
+mabeal1: folds 
+valuecut59: calls 10
+Ateneaa80: checks 
+*** FLOP *** [8s 6s Ks]
+valuecut59: bets 20
+Ateneaa80: raises 690 to 710 and is all-in
+valuecut59: calls 260 and is all-in
+Uncalled bet (430) returned to Ateneaa80
+*** TURN *** [8s 6s Ks] [8c]
+*** RIVER *** [8s 6s Ks 8c] [7c]
+*** SHOW DOWN ***
+valuecut59: shows [7s 2s] (a flush, King high)
+Ateneaa80: shows [Ts 3s] (a flush, King high - Ten higher)
+Ateneaa80 collected 600 from pot
+valuecut59 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [8s 6s Ks 8c 7c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: valuecut59 (small blind) showed [7s 2s] and lost with a flush, King high
+Seat 3: Ateneaa80 (big blind) showed [Ts 3s] and won (600) with a flush, King high
+
+
+
+PokerStars Hand #259538686517: Tournament #3970889765, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 20:54:50 CET [2026/01/31 14:54:50 ET]
+Table '3970889765 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 3: Ateneaa80 (1030 in chips) 
+Ateneaa80: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7d]
+Ateneaa80: calls 15
+mabeal1: raises 440 to 470 and is all-in
+Ateneaa80: calls 440
+*** FLOP *** [Th 2s Qc]
+*** TURN *** [Th 2s Qc] [3s]
+*** RIVER *** [Th 2s Qc 3s] [Kc]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 7d] (high card Ace)
+Ateneaa80: shows [Ad Tc] (a pair of Tens)
+Ateneaa80 collected 940 from pot
+mabeal1 finished the tournament in 2nd place
+Ateneaa80 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Th 2s Qc 3s Kc]
+Seat 1: mabeal1 (big blind) showed [Ah 7d] and lost with high card Ace
+Seat 3: Ateneaa80 (button) (small blind) showed [Ad Tc] and won (940) with a pair of Tens
+
+
+

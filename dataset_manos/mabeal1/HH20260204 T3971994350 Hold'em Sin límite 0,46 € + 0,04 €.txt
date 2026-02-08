@@ -1,0 +1,140 @@
+﻿PokerStars Hand #259588323276: Tournament #3971994350, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:38:29 CET [2026/02/04 9:38:29 ET]
+Table '3971994350 1' 3-max Seat #1 is the button
+Seat 1: t2qkpac (500 in chips) 
+Seat 2: raul_pichi (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+raul_pichi: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 6s]
+t2qkpac: calls 20
+raul_pichi: calls 10
+mabeal1: checks 
+*** FLOP *** [Qh 6h 8s]
+raul_pichi is connected 
+raul_pichi is disconnected 
+raul_pichi is connected 
+raul_pichi is disconnected 
+raul_pichi is connected 
+raul_pichi is disconnected 
+raul_pichi is connected 
+raul_pichi: checks 
+mabeal1: checks 
+t2qkpac: bets 40
+raul_pichi: calls 40
+mabeal1: calls 40
+*** TURN *** [Qh 6h 8s] [Ac]
+raul_pichi: checks 
+mabeal1: checks 
+t2qkpac: bets 40
+raul_pichi: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to t2qkpac
+t2qkpac collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qh 6h 8s Ac]
+Seat 1: t2qkpac (button) collected (180)
+Seat 2: raul_pichi (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259588330370: Tournament #3971994350, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:39:14 CET [2026/02/04 9:39:14 ET]
+Table '3971994350 1' 3-max Seat #2 is the button
+Seat 1: t2qkpac (620 in chips) 
+Seat 2: raul_pichi (440 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+mabeal1: posts small blind 10
+t2qkpac: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 5c]
+raul_pichi: calls 20
+mabeal1: folds 
+t2qkpac: checks 
+*** FLOP *** [Ah 2h 8c]
+t2qkpac: checks 
+raul_pichi: checks 
+*** TURN *** [Ah 2h 8c] [6s]
+t2qkpac: bets 40
+raul_pichi: folds 
+Uncalled bet (40) returned to t2qkpac
+t2qkpac collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ah 2h 8c 6s]
+Seat 1: t2qkpac (big blind) collected (50)
+Seat 2: raul_pichi (button) folded on the Turn
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588334395: Tournament #3971994350, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:39:39 CET [2026/02/04 9:39:39 ET]
+Table '3971994350 1' 3-max Seat #3 is the button
+Seat 1: t2qkpac (650 in chips) 
+Seat 2: raul_pichi (420 in chips) 
+Seat 3: mabeal1 (430 in chips) 
+t2qkpac: posts small blind 10
+raul_pichi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc As]
+mabeal1: raises 30 to 50
+t2qkpac: calls 40
+raul_pichi: folds 
+*** FLOP *** [8h 6s 5s]
+t2qkpac: checks 
+mabeal1: checks 
+*** TURN *** [8h 6s 5s] [5c]
+t2qkpac: bets 40
+mabeal1: calls 40
+*** RIVER *** [8h 6s 5s 5c] [9s]
+t2qkpac: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+t2qkpac: shows [7s Kc] (a straight, Five to Nine)
+mabeal1: mucks hand 
+t2qkpac collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [8h 6s 5s 5c 9s]
+Seat 1: t2qkpac (small blind) showed [7s Kc] and won (280) with a straight, Five to Nine
+Seat 2: raul_pichi (big blind) folded before Flop
+Seat 3: mabeal1 (button) mucked [Tc As]
+
+
+
+PokerStars Hand #259588339972: Tournament #3971994350, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:40:13 CET [2026/02/04 9:40:13 ET]
+Table '3971994350 1' 3-max Seat #1 is the button
+Seat 1: t2qkpac (800 in chips) 
+Seat 2: raul_pichi (400 in chips) 
+Seat 3: mabeal1 (300 in chips) 
+raul_pichi: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Ac]
+t2qkpac: calls 20
+raul_pichi: calls 10
+mabeal1: raises 40 to 60
+t2qkpac: calls 40
+raul_pichi: folds 
+*** FLOP *** [7h Ts 8s]
+mabeal1: bets 80
+t2qkpac: calls 80
+*** TURN *** [7h Ts 8s] [4h]
+mabeal1: bets 160 and is all-in
+t2qkpac: calls 160
+*** RIVER *** [7h Ts 8s 4h] [4s]
+*** SHOW DOWN ***
+mabeal1: shows [Ah Ac] (two pair, Aces and Fours)
+t2qkpac: shows [6d 9d] (a straight, Six to Ten)
+t2qkpac collected 620 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [7h Ts 8s 4h 4s]
+Seat 1: t2qkpac (button) showed [6d 9d] and won (620) with a straight, Six to Ten
+Seat 2: raul_pichi (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [Ah Ac] and lost with two pair, Aces and Fours
+
+
+

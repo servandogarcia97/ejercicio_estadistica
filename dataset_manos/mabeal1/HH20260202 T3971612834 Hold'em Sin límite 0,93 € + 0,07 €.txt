@@ -1,0 +1,380 @@
+﻿PokerStars Hand #259572422400: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:50:19 CET [2026/02/02 21:50:19 ET]
+Table '3971612834 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: tonic733 (500 in chips) 
+mabeal1: posts small blind 10
+tonic733: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 7s]
+sanc.pt: raises 20 to 40
+mabeal1: folds 
+tonic733: folds 
+Uncalled bet (20) returned to sanc.pt
+sanc.pt collected 50 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: sanc.pt (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: tonic733 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259572424097: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:50:34 CET [2026/02/02 21:50:34 ET]
+Table '3971612834 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: tonic733 (480 in chips) 
+tonic733: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 3d]
+mabeal1: raises 20 to 40
+tonic733: calls 30
+sanc.pt: raises 80 to 120
+mabeal1: calls 80
+tonic733: folds 
+*** FLOP *** [3c 5c Kh]
+sanc.pt: checks 
+mabeal1: bets 370 and is all-in
+sanc.pt: folds 
+Uncalled bet (370) returned to mabeal1
+mabeal1 collected 280 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [3c 5c Kh]
+Seat 1: sanc.pt (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (280)
+Seat 3: tonic733 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572426331: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:50:53 CET [2026/02/02 21:50:53 ET]
+Table '3971612834 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (410 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: tonic733 (440 in chips) 
+sanc.pt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Kc]
+tonic733: folds 
+sanc.pt: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [7c 2c 2h]
+sanc.pt: bets 80
+mabeal1: raises 530 to 610 and is all-in
+sanc.pt: calls 290 and is all-in
+Uncalled bet (240) returned to mabeal1
+*** TURN *** [7c 2c 2h] [Td]
+*** RIVER *** [7c 2c 2h Td] [Ks]
+*** SHOW DOWN ***
+sanc.pt: shows [7s Js] (two pair, Sevens and Deuces)
+mabeal1: shows [5c Kc] (two pair, Kings and Deuces)
+mabeal1 collected 820 from pot
+sanc.pt finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [7c 2c 2h Td Ks]
+Seat 1: sanc.pt (small blind) showed [7s Js] and lost with two pair, Sevens and Deuces
+Seat 2: mabeal1 (big blind) showed [5c Kc] and won (820) with two pair, Kings and Deuces
+Seat 3: tonic733 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572429181: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:51:17 CET [2026/02/02 21:51:17 ET]
+Table '3971612834 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1060 in chips) 
+Seat 3: tonic733 (440 in chips) 
+mabeal1: posts small blind 10
+tonic733: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8d]
+mabeal1: calls 10
+tonic733: checks 
+*** FLOP *** [8s 8h 7h]
+tonic733: bets 20
+mabeal1: calls 20
+*** TURN *** [8s 8h 7h] [Jd]
+tonic733: bets 40
+mabeal1: calls 40
+*** RIVER *** [8s 8h 7h Jd] [3s]
+tonic733: bets 80
+mabeal1: raises 900 to 980 and is all-in
+tonic733: folds 
+Uncalled bet (900) returned to mabeal1
+mabeal1 collected 320 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [8s 8h 7h Jd 3s]
+Seat 2: mabeal1 (button) (small blind) collected (320)
+Seat 3: tonic733 (big blind) folded on the River
+
+
+
+PokerStars Hand #259572431926: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:51:40 CET [2026/02/02 21:51:40 ET]
+Table '3971612834 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1220 in chips) 
+Seat 3: tonic733 (280 in chips) 
+tonic733: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 7h]
+tonic733: calls 10
+mabeal1: checks 
+*** FLOP *** [Jc 4c 2c]
+mabeal1: checks 
+tonic733: checks 
+*** TURN *** [Jc 4c 2c] [Qs]
+mabeal1: bets 20
+tonic733: calls 20
+*** RIVER *** [Jc 4c 2c Qs] [7s]
+mabeal1: checks 
+tonic733: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Kh 7h] (a pair of Sevens)
+tonic733: mucks hand 
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc 4c 2c Qs 7s]
+Seat 2: mabeal1 (big blind) showed [Kh 7h] and won (80) with a pair of Sevens
+Seat 3: tonic733 (button) (small blind) mucked [4d Ks]
+
+
+
+PokerStars Hand #259572434701: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:52:03 CET [2026/02/02 21:52:03 ET]
+Table '3971612834 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1260 in chips) 
+Seat 3: tonic733 (240 in chips) 
+mabeal1: posts small blind 10
+tonic733: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 2c]
+mabeal1: calls 10
+tonic733: checks 
+*** FLOP *** [Kc Jd Jc]
+tonic733: checks 
+mabeal1: bets 20
+tonic733: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc Jd Jc]
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: tonic733 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259572436546: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:52:19 CET [2026/02/02 21:52:19 ET]
+Table '3971612834 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1280 in chips) 
+Seat 3: tonic733 (220 in chips) 
+tonic733: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ah]
+tonic733: calls 10
+mabeal1: raises 1260 to 1280 and is all-in
+tonic733: calls 200 and is all-in
+Uncalled bet (1060) returned to mabeal1
+*** FLOP *** [3h 4h 4c]
+*** TURN *** [3h 4h 4c] [2s]
+*** RIVER *** [3h 4h 4c 2s] [Qc]
+*** SHOW DOWN ***
+mabeal1: shows [2d Ah] (two pair, Fours and Deuces)
+tonic733: shows [Jh Js] (two pair, Jacks and Fours)
+tonic733 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [3h 4h 4c 2s Qc]
+Seat 2: mabeal1 (big blind) showed [2d Ah] and lost with two pair, Fours and Deuces
+Seat 3: tonic733 (button) (small blind) showed [Jh Js] and won (440) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #259572438121: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:52:33 CET [2026/02/02 21:52:33 ET]
+Table '3971612834 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1060 in chips) 
+Seat 3: tonic733 (440 in chips) 
+mabeal1: posts small blind 10
+tonic733: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 5s]
+mabeal1: calls 10
+tonic733: checks 
+*** FLOP *** [Ks 9s Jc]
+tonic733: checks 
+mabeal1: checks 
+*** TURN *** [Ks 9s Jc] [Ah]
+tonic733: checks 
+mabeal1: bets 20
+tonic733: calls 20
+*** RIVER *** [Ks 9s Jc Ah] [Qd]
+tonic733: checks 
+mabeal1: bets 60
+tonic733: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks 9s Jc Ah Qd]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: tonic733 (big blind) folded on the River
+
+
+
+PokerStars Hand #259572440929: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:52:57 CET [2026/02/02 21:52:57 ET]
+Table '3971612834 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1100 in chips) 
+Seat 3: tonic733 (400 in chips) 
+tonic733: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 8c]
+tonic733: calls 10
+mabeal1: checks 
+*** FLOP *** [6s 4c 2c]
+mabeal1: checks 
+tonic733: bets 20
+mabeal1: raises 40 to 60
+tonic733: calls 40
+*** TURN *** [6s 4c 2c] [8d]
+mabeal1: bets 120
+tonic733: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6s 4c 2c 8d]
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: tonic733 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259572443556: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:53:20 CET [2026/02/02 21:53:20 ET]
+Table '3971612834 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1180 in chips) 
+Seat 3: tonic733 (320 in chips) 
+mabeal1: posts small blind 10
+tonic733: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5s]
+mabeal1: calls 10
+tonic733: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to tonic733
+tonic733 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: tonic733 (big blind) collected (40)
+
+
+
+PokerStars Hand #259572445861: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:53:40 CET [2026/02/02 21:53:40 ET]
+Table '3971612834 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1160 in chips) 
+Seat 3: tonic733 (340 in chips) 
+tonic733: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Th]
+tonic733: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: tonic733 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572446416: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:53:45 CET [2026/02/02 21:53:45 ET]
+Table '3971612834 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1175 in chips) 
+Seat 3: tonic733 (325 in chips) 
+mabeal1: posts small blind 15
+tonic733: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Kh]
+mabeal1: calls 15
+tonic733: checks 
+*** FLOP *** [As 2d Qc]
+tonic733: checks 
+mabeal1: checks 
+*** TURN *** [As 2d Qc] [Ts]
+tonic733: checks 
+mabeal1: checks 
+*** RIVER *** [As 2d Qc Ts] [8d]
+tonic733: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+tonic733: shows [Kd 9h] (high card Ace)
+mabeal1: mucks hand 
+tonic733 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 2d Qc Ts 8d]
+Seat 2: mabeal1 (button) (small blind) mucked [7h Kh]
+Seat 3: tonic733 (big blind) showed [Kd 9h] and won (60) with high card Ace
+
+
+
+PokerStars Hand #259572448861: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:54:06 CET [2026/02/02 21:54:06 ET]
+Table '3971612834 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1145 in chips) 
+Seat 3: tonic733 (355 in chips) 
+tonic733: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Kc]
+tonic733: calls 15
+mabeal1: raises 1115 to 1145 and is all-in
+tonic733: folds 
+Uncalled bet (1115) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: tonic733 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572451131: Tournament #3971612834, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:54:26 CET [2026/02/02 21:54:26 ET]
+Table '3971612834 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1175 in chips) 
+Seat 3: tonic733 (325 in chips) 
+mabeal1: posts small blind 15
+tonic733: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c As]
+mabeal1: raises 1145 to 1175 and is all-in
+tonic733: calls 295 and is all-in
+Uncalled bet (850) returned to mabeal1
+*** FLOP *** [5d 3c 7h]
+*** TURN *** [5d 3c 7h] [4d]
+*** RIVER *** [5d 3c 7h 4d] [8c]
+*** SHOW DOWN ***
+tonic733: shows [9d Kh] (high card King)
+mabeal1: shows [5c As] (a pair of Fives)
+mabeal1 collected 650 from pot
+tonic733 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [5d 3c 7h 4d 8c]
+Seat 2: mabeal1 (button) (small blind) showed [5c As] and won (650) with a pair of Fives
+Seat 3: tonic733 (big blind) showed [9d Kh] and lost with high card King
+
+
+

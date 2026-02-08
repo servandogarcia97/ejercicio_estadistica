@@ -1,0 +1,593 @@
+﻿PokerStars Hand #259551270967: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:11:13 CET [2026/02/01 13:11:13 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (500 in chips) 
+Seat 2: ailen005 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+ailen005: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Jd]
+Olaldinho: folds 
+ailen005: calls 10
+mabeal1: checks 
+*** FLOP *** [Ah 4h 3h]
+ailen005: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to ailen005
+ailen005 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah 4h 3h]
+Seat 1: Olaldinho (button) folded before Flop (didn't bet)
+Seat 2: ailen005 (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259551275275: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:11:29 CET [2026/02/01 13:11:29 ET]
+Table '3971171551 1' 3-max Seat #2 is the button
+Seat 1: Olaldinho (500 in chips) 
+Seat 2: ailen005 (520 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+Olaldinho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 3h]
+ailen005: raises 20 to 40
+mabeal1: raises 440 to 480 and is all-in
+Olaldinho: folds 
+ailen005: calls 440
+*** FLOP *** [7s Kh 9d]
+*** TURN *** [7s Kh 9d] [Ks]
+*** RIVER *** [7s Kh 9d Ks] [3c]
+*** SHOW DOWN ***
+mabeal1: shows [3d 3h] (a full house, Threes full of Kings)
+ailen005: shows [Jd Qd] (a pair of Kings)
+mabeal1 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [7s Kh 9d Ks 3c]
+Seat 1: Olaldinho (big blind) folded before Flop
+Seat 2: ailen005 (button) showed [Jd Qd] and lost with a pair of Kings
+Seat 3: mabeal1 (small blind) showed [3d 3h] and won (980) with a full house, Threes full of Kings
+
+
+
+PokerStars Hand #259551283544: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:11:59 CET [2026/02/01 13:11:59 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (480 in chips) 
+Seat 2: ailen005 (40 in chips) 
+Seat 3: mabeal1 (980 in chips) 
+Olaldinho: posts small blind 10
+ailen005: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7s]
+mabeal1: folds 
+Olaldinho: raises 20 to 40
+ailen005: calls 20 and is all-in
+*** FLOP *** [3s 3d Qc]
+*** TURN *** [3s 3d Qc] [5c]
+*** RIVER *** [3s 3d Qc 5c] [3h]
+*** SHOW DOWN ***
+Olaldinho: shows [Ah 9c] (three of a kind, Threes)
+ailen005: shows [Kd 7c] (three of a kind, Threes - lower kicker)
+Olaldinho collected 80 from pot
+ailen005 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s 3d Qc 5c 3h]
+Seat 1: Olaldinho (small blind) showed [Ah 9c] and won (80) with three of a kind, Threes
+Seat 2: ailen005 (big blind) showed [Kd 7c] and lost with three of a kind, Threes
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259551291067: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:12:25 CET [2026/02/01 13:12:25 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (520 in chips) 
+Seat 3: mabeal1 (980 in chips) 
+Olaldinho: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Tc]
+Olaldinho: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to Olaldinho
+Olaldinho collected 40 from pot
+Olaldinho: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Olaldinho (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259551293647: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:12:34 CET [2026/02/01 13:12:34 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (540 in chips) 
+Seat 3: mabeal1 (960 in chips) 
+mabeal1: posts small blind 10
+Olaldinho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c As]
+mabeal1: raises 20 to 40
+Olaldinho: calls 20
+*** FLOP *** [9d 9c Kh]
+Olaldinho: checks 
+mabeal1: bets 40
+Olaldinho: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 9c Kh]
+Seat 1: Olaldinho (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259551297254: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:12:47 CET [2026/02/01 13:12:47 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (500 in chips) 
+Seat 3: mabeal1 (1000 in chips) 
+Olaldinho: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Kh]
+Olaldinho: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [6d 3d Kc]
+mabeal1: checks 
+Olaldinho: bets 40
+mabeal1: calls 40
+*** TURN *** [6d 3d Kc] [As]
+mabeal1: checks 
+Olaldinho: bets 120
+mabeal1: calls 120
+*** RIVER *** [6d 3d Kc As] [3s]
+mabeal1: checks 
+Olaldinho: bets 100
+mabeal1: calls 100
+*** SHOW DOWN ***
+Olaldinho: shows [Ac 6c] (two pair, Aces and Sixes)
+mabeal1: mucks hand 
+Olaldinho collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [6d 3d Kc As 3s]
+Seat 1: Olaldinho (button) (small blind) showed [Ac 6c] and won (600) with two pair, Aces and Sixes
+Seat 3: mabeal1 (big blind) mucked [7h Kh]
+
+
+
+PokerStars Hand #259551305543: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:13:17 CET [2026/02/01 13:13:17 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (800 in chips) 
+Seat 3: mabeal1 (700 in chips) 
+mabeal1: posts small blind 10
+Olaldinho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 3h]
+mabeal1: calls 10
+Olaldinho: checks 
+*** FLOP *** [2s 6c As]
+Olaldinho: checks 
+mabeal1: bets 20
+Olaldinho: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2s 6c As]
+Seat 1: Olaldinho (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259551310411: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:13:35 CET [2026/02/01 13:13:35 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (780 in chips) 
+Seat 3: mabeal1 (720 in chips) 
+Olaldinho: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Ac]
+Olaldinho: raises 20 to 40
+mabeal1: raises 680 to 720 and is all-in
+Olaldinho: folds 
+Uncalled bet (680) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Olaldinho (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259551312362: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:13:41 CET [2026/02/01 13:13:41 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (740 in chips) 
+Seat 3: mabeal1 (760 in chips) 
+mabeal1: posts small blind 10
+Olaldinho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Qd]
+mabeal1: raises 20 to 40
+Olaldinho: calls 20
+*** FLOP *** [5c Jc Ad]
+Olaldinho: checks 
+mabeal1: bets 40
+Olaldinho: calls 40
+*** TURN *** [5c Jc Ad] [Td]
+Olaldinho: checks 
+mabeal1: checks 
+*** RIVER *** [5c Jc Ad Td] [4c]
+Olaldinho: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Olaldinho
+Olaldinho collected 160 from pot
+Olaldinho: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c Jc Ad Td 4c]
+Seat 1: Olaldinho (big blind) collected (160)
+Seat 3: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259551317779: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:14:01 CET [2026/02/01 13:14:01 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (820 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+Olaldinho: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 2c]
+Olaldinho: calls 10
+mabeal1: checks 
+*** FLOP *** [6c 4c 3h]
+mabeal1: checks 
+Olaldinho: checks 
+*** TURN *** [6c 4c 3h] [9h]
+mabeal1: checks 
+Olaldinho: checks 
+*** RIVER *** [6c 4c 3h 9h] [9s]
+mabeal1: checks 
+Olaldinho: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Js 2c] (a pair of Nines)
+Olaldinho: shows [2d Qd] (a pair of Nines - Queen kicker)
+Olaldinho collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c 4c 3h 9h 9s]
+Seat 1: Olaldinho (button) (small blind) showed [2d Qd] and won (40) with a pair of Nines
+Seat 3: mabeal1 (big blind) showed [Js 2c] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259551324751: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:14:26 CET [2026/02/01 13:14:26 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (840 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+mabeal1: posts small blind 15
+Olaldinho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 8s]
+mabeal1: calls 15
+Olaldinho: checks 
+*** FLOP *** [3h 4c Qh]
+Olaldinho: checks 
+mabeal1: bets 30
+Olaldinho: calls 30
+*** TURN *** [3h 4c Qh] [6c]
+Olaldinho: checks 
+mabeal1: bets 180
+Olaldinho: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h 4c Qh 6c]
+Seat 1: Olaldinho (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259551334753: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:15:01 CET [2026/02/01 13:15:01 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (780 in chips) 
+Seat 3: mabeal1 (720 in chips) 
+Olaldinho: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 6d]
+Olaldinho: calls 15
+mabeal1: raises 690 to 720 and is all-in
+Olaldinho: folds 
+Uncalled bet (690) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Olaldinho (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259551337279: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:15:10 CET [2026/02/01 13:15:10 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (750 in chips) 
+Seat 3: mabeal1 (750 in chips) 
+mabeal1: posts small blind 15
+Olaldinho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Js]
+mabeal1: calls 15
+Olaldinho: checks 
+*** FLOP *** [Qs Jd 7h]
+Olaldinho: checks 
+mabeal1: checks 
+*** TURN *** [Qs Jd 7h] [Jc]
+Olaldinho: bets 30
+mabeal1: raises 90 to 120
+Olaldinho: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs Jd 7h Jc]
+Seat 1: Olaldinho (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259551341384: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:15:25 CET [2026/02/01 13:15:25 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (690 in chips) 
+Seat 3: mabeal1 (810 in chips) 
+Olaldinho: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 9c]
+Olaldinho: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Olaldinho (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259551342437: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:15:28 CET [2026/02/01 13:15:28 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (675 in chips) 
+Seat 3: mabeal1 (825 in chips) 
+mabeal1: posts small blind 15
+Olaldinho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 2s]
+mabeal1: calls 15
+Olaldinho: checks 
+*** FLOP *** [3d Ac Qs]
+Olaldinho: checks 
+mabeal1: bets 30
+Olaldinho: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d Ac Qs]
+Seat 1: Olaldinho (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259551348332: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:15:49 CET [2026/02/01 13:15:49 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (645 in chips) 
+Seat 3: mabeal1 (855 in chips) 
+Olaldinho: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7h]
+Olaldinho: calls 15
+mabeal1: checks 
+*** FLOP *** [As 7c 4h]
+mabeal1: checks 
+Olaldinho: bets 30
+mabeal1: calls 30
+*** TURN *** [As 7c 4h] [5c]
+mabeal1: checks 
+Olaldinho: checks 
+*** RIVER *** [As 7c 4h 5c] [8h]
+mabeal1: bets 60
+Olaldinho: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As 7c 4h 5c 8h]
+Seat 1: Olaldinho (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259551355083: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:16:13 CET [2026/02/01 13:16:13 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (585 in chips) 
+Seat 3: mabeal1 (915 in chips) 
+mabeal1: posts small blind 15
+Olaldinho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 6s]
+mabeal1: calls 15
+Olaldinho: checks 
+*** FLOP *** [3s 7d Kh]
+Olaldinho: checks 
+mabeal1: checks 
+*** TURN *** [3s 7d Kh] [Ad]
+Olaldinho: checks 
+mabeal1: checks 
+*** RIVER *** [3s 7d Kh Ad] [8h]
+Olaldinho: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Olaldinho: shows [7h Jc] (a pair of Sevens)
+mabeal1: mucks hand 
+Olaldinho collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 7d Kh Ad 8h]
+Seat 1: Olaldinho (big blind) showed [7h Jc] and won (60) with a pair of Sevens
+Seat 3: mabeal1 (button) (small blind) mucked [3d 6s]
+
+
+
+PokerStars Hand #259551362161: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:16:38 CET [2026/02/01 13:16:38 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (615 in chips) 
+Seat 3: mabeal1 (885 in chips) 
+Olaldinho: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8d]
+Olaldinho: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [7c 4d 9h]
+mabeal1: checks 
+Olaldinho: bets 60
+mabeal1: calls 60
+*** TURN *** [7c 4d 9h] [2h]
+mabeal1: checks 
+Olaldinho: bets 120
+mabeal1: calls 120
+*** RIVER *** [7c 4d 9h 2h] [8c]
+mabeal1: bets 645 and is all-in
+Olaldinho: folds 
+Uncalled bet (645) returned to mabeal1
+mabeal1 collected 480 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [7c 4d 9h 2h 8c]
+Seat 1: Olaldinho (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (480)
+
+
+
+PokerStars Hand #259551371342: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:17:10 CET [2026/02/01 13:17:10 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (375 in chips) 
+Seat 3: mabeal1 (1125 in chips) 
+mabeal1: posts small blind 15
+Olaldinho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4c]
+mabeal1: calls 15
+Olaldinho: checks 
+*** FLOP *** [7h 7d 6s]
+Olaldinho: checks 
+mabeal1: bets 30
+Olaldinho: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Olaldinho
+Olaldinho collected 120 from pot
+Olaldinho: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 7d 6s]
+Seat 1: Olaldinho (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259551377791: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:17:32 CET [2026/02/01 13:17:32 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (435 in chips) 
+Seat 3: mabeal1 (1065 in chips) 
+Olaldinho: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6d]
+Olaldinho: calls 20
+mabeal1: checks 
+*** FLOP *** [Ac Ts 3d]
+mabeal1: checks 
+Olaldinho: checks 
+*** TURN *** [Ac Ts 3d] [9c]
+mabeal1: bets 40
+Olaldinho: calls 40
+*** RIVER *** [Ac Ts 3d 9c] [6h]
+mabeal1: checks 
+Olaldinho: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7h 6d] (a pair of Sixes)
+Olaldinho: mucks hand 
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac Ts 3d 9c 6h]
+Seat 1: Olaldinho (button) (small blind) mucked [3s Js]
+Seat 3: mabeal1 (big blind) showed [7h 6d] and won (160) with a pair of Sixes
+
+
+
+PokerStars Hand #259551384867: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:17:57 CET [2026/02/01 13:17:57 ET]
+Table '3971171551 1' 3-max Seat #3 is the button
+Seat 1: Olaldinho (355 in chips) 
+Seat 3: mabeal1 (1145 in chips) 
+mabeal1: posts small blind 20
+Olaldinho: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Th]
+mabeal1: raises 1105 to 1145 and is all-in
+Olaldinho: folds 
+Uncalled bet (1105) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Olaldinho (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259551387320: Tournament #3971171551, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:18:05 CET [2026/02/01 13:18:05 ET]
+Table '3971171551 1' 3-max Seat #1 is the button
+Seat 1: Olaldinho (315 in chips) 
+Seat 3: mabeal1 (1185 in chips) 
+Olaldinho: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Td]
+Olaldinho: raises 80 to 120
+mabeal1: raises 1065 to 1185 and is all-in
+Olaldinho: calls 195 and is all-in
+Uncalled bet (870) returned to mabeal1
+*** FLOP *** [7h Kh Ts]
+*** TURN *** [7h Kh Ts] [Kc]
+*** RIVER *** [7h Kh Ts Kc] [5h]
+*** SHOW DOWN ***
+mabeal1: shows [Ad Td] (two pair, Kings and Tens)
+Olaldinho: shows [Js Qs] (a pair of Kings)
+mabeal1 collected 630 from pot
+Olaldinho finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [7h Kh Ts Kc 5h]
+Seat 1: Olaldinho (button) (small blind) showed [Js Qs] and lost with a pair of Kings
+Seat 3: mabeal1 (big blind) showed [Ad Td] and won (630) with two pair, Kings and Tens
+
+
+

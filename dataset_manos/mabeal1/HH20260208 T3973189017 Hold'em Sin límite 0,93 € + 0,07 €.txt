@@ -1,0 +1,339 @@
+﻿PokerStars Hand #259639826129: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:09:21 CET [2026/02/08 2:09:21 ET]
+Table '3973189017 1' 3-max Seat #1 is the button
+Seat 1: kullerB (500 in chips) 
+Seat 2: tonic733 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+tonic733: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 4h]
+kullerB: raises 20 to 40
+tonic733: folds 
+mabeal1: calls 20
+*** FLOP *** [Td 7c 9d]
+mabeal1: checks 
+kullerB: bets 45
+mabeal1: folds 
+Uncalled bet (45) returned to kullerB
+kullerB collected 90 from pot
+kullerB: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Td 7c 9d]
+Seat 1: kullerB (button) collected (90)
+Seat 2: tonic733 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259639827165: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:09:38 CET [2026/02/08 2:09:38 ET]
+Table '3973189017 1' 3-max Seat #2 is the button
+Seat 1: kullerB (550 in chips) 
+Seat 2: tonic733 (490 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+kullerB: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Ts]
+tonic733: raises 20 to 40
+mabeal1: folds 
+kullerB: raises 510 to 550 and is all-in
+tonic733: folds 
+Uncalled bet (510) returned to kullerB
+kullerB collected 90 from pot
+kullerB: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: kullerB (big blind) collected (90)
+Seat 2: tonic733 (button) folded before Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259639828097: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:09:53 CET [2026/02/08 2:09:53 ET]
+Table '3973189017 1' 3-max Seat #3 is the button
+Seat 1: kullerB (600 in chips) 
+Seat 2: tonic733 (450 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+kullerB: posts small blind 10
+tonic733: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 3d]
+mabeal1: folds 
+kullerB: raises 580 to 600 and is all-in
+tonic733: folds 
+Uncalled bet (580) returned to kullerB
+kullerB collected 40 from pot
+kullerB: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kullerB (small blind) collected (40)
+Seat 2: tonic733 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259639828691: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:10:03 CET [2026/02/08 2:10:03 ET]
+Table '3973189017 1' 3-max Seat #1 is the button
+Seat 1: kullerB (620 in chips) 
+Seat 2: tonic733 (430 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+tonic733: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 7s]
+kullerB: folds 
+tonic733: calls 10
+mabeal1: checks 
+*** FLOP *** [9c Tc 4h]
+tonic733: bets 20
+mabeal1: calls 20
+*** TURN *** [9c Tc 4h] [Kc]
+tonic733: checks 
+mabeal1: bets 60
+tonic733: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c Tc 4h Kc]
+Seat 1: kullerB (button) folded before Flop (didn't bet)
+Seat 2: tonic733 (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259639830400: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:10:30 CET [2026/02/08 2:10:30 ET]
+Table '3973189017 1' 3-max Seat #2 is the button
+Seat 1: kullerB (620 in chips) 
+Seat 2: tonic733 (390 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+mabeal1: posts small blind 10
+kullerB: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Jc]
+tonic733: calls 20
+mabeal1: folds 
+kullerB: raises 600 to 620 and is all-in
+tonic733: folds 
+Uncalled bet (600) returned to kullerB
+kullerB collected 50 from pot
+kullerB: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: kullerB (big blind) collected (50)
+Seat 2: tonic733 (button) folded before Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259639831421: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:10:46 CET [2026/02/08 2:10:46 ET]
+Table '3973189017 1' 3-max Seat #3 is the button
+Seat 1: kullerB (650 in chips) 
+Seat 2: tonic733 (370 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+kullerB: posts small blind 10
+tonic733: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 3s]
+mabeal1: folds 
+kullerB: raises 20 to 40
+tonic733: folds 
+Uncalled bet (20) returned to kullerB
+kullerB collected 40 from pot
+kullerB: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: kullerB (small blind) collected (40)
+Seat 2: tonic733 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259639832481: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:11:02 CET [2026/02/08 2:11:02 ET]
+Table '3973189017 1' 3-max Seat #1 is the button
+Seat 1: kullerB (670 in chips) 
+Seat 2: tonic733 (350 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+tonic733: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Jc]
+kullerB: raises 650 to 670 and is all-in
+tonic733: calls 340 and is all-in
+mabeal1: folds 
+Uncalled bet (320) returned to kullerB
+*** FLOP *** [Ts Jh 8s]
+*** TURN *** [Ts Jh 8s] [9c]
+*** RIVER *** [Ts Jh 8s 9c] [4h]
+*** SHOW DOWN ***
+tonic733: shows [9d 9h] (three of a kind, Nines)
+kullerB: shows [Qh Qs] (a straight, Eight to Queen)
+kullerB collected 720 from pot
+tonic733 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Ts Jh 8s 9c 4h]
+Seat 1: kullerB (button) showed [Qh Qs] and won (720) with a straight, Eight to Queen
+Seat 2: tonic733 (small blind) showed [9d 9h] and lost with three of a kind, Nines
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259639833675: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:11:22 CET [2026/02/08 2:11:22 ET]
+Table '3973189017 1' 3-max Seat #3 is the button
+Seat 1: kullerB (1040 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+kullerB: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qh]
+mabeal1: raises 20 to 40
+kullerB: raises 20 to 60
+mabeal1: raises 400 to 460 and is all-in
+kullerB: folds 
+Uncalled bet (400) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: kullerB (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259639834659: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 8:11:38 CET [2026/02/08 2:11:38 ET]
+Table '3973189017 1' 3-max Seat #1 is the button
+Seat 1: kullerB (980 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+kullerB: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 7c]
+kullerB: raises 950 to 980 and is all-in
+mabeal1: folds 
+Uncalled bet (950) returned to kullerB
+kullerB collected 60 from pot
+kullerB: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: kullerB (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259639835044: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 8:11:44 CET [2026/02/08 2:11:44 ET]
+Table '3973189017 1' 3-max Seat #3 is the button
+Seat 1: kullerB (1010 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+mabeal1: posts small blind 15
+kullerB: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 6c]
+mabeal1: raises 30 to 60
+kullerB: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: kullerB (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259639835438: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 8:11:50 CET [2026/02/08 2:11:50 ET]
+Table '3973189017 1' 3-max Seat #1 is the button
+Seat 1: kullerB (980 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+kullerB: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8d]
+kullerB: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: kullerB (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259639835933: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 8:11:58 CET [2026/02/08 2:11:58 ET]
+Table '3973189017 1' 3-max Seat #3 is the button
+Seat 1: kullerB (965 in chips) 
+Seat 3: mabeal1 (535 in chips) 
+mabeal1: posts small blind 15
+kullerB: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Kd]
+mabeal1: raises 30 to 60
+kullerB: calls 30
+*** FLOP *** [2c 2h 2d]
+kullerB: bets 30
+mabeal1: calls 30
+*** TURN *** [2c 2h 2d] [Tc]
+kullerB: checks 
+mabeal1: bets 135
+kullerB: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2c 2h 2d Tc]
+Seat 1: kullerB (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #259639837453: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 8:12:22 CET [2026/02/08 2:12:22 ET]
+Table '3973189017 1' 3-max Seat #1 is the button
+Seat 1: kullerB (875 in chips) 
+Seat 3: mabeal1 (625 in chips) 
+kullerB: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8h]
+kullerB: raises 845 to 875 and is all-in
+mabeal1: folds 
+Uncalled bet (845) returned to kullerB
+kullerB collected 60 from pot
+kullerB: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: kullerB (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259639837850: Tournament #3973189017, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 8:12:28 CET [2026/02/08 2:12:28 ET]
+Table '3973189017 1' 3-max Seat #3 is the button
+Seat 1: kullerB (905 in chips) 
+Seat 3: mabeal1 (595 in chips) 
+mabeal1: posts small blind 15
+kullerB: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Ah]
+mabeal1: raises 565 to 595 and is all-in
+kullerB: calls 565
+*** FLOP *** [5c Jc 3c]
+*** TURN *** [5c Jc 3c] [2h]
+*** RIVER *** [5c Jc 3c 2h] [2c]
+*** SHOW DOWN ***
+kullerB: shows [Ad 6c] (a flush, Jack high)
+mabeal1: shows [6h Ah] (a pair of Deuces)
+kullerB collected 1190 from pot
+mabeal1 finished the tournament in 2nd place
+kullerB wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1190 | Rake 0 
+Board [5c Jc 3c 2h 2c]
+Seat 1: kullerB (big blind) showed [Ad 6c] and won (1190) with a flush, Jack high
+Seat 3: mabeal1 (button) (small blind) showed [6h Ah] and lost with a pair of Deuces
+
+
+

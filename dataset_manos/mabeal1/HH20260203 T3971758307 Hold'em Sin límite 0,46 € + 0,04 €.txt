@@ -1,0 +1,521 @@
+﻿PokerStars Hand #259578041496: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:32:48 CET [2026/02/03 12:32:48 ET]
+Table '3971758307 1' 3-max Seat #1 is the button
+Seat 1: fontreu (500 in chips) 
+Seat 2: Antonio12034 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Antonio12034: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 2c]
+fontreu: calls 20
+Antonio12034: calls 10
+mabeal1: checks 
+*** FLOP *** [Jd Ad 7s]
+Antonio12034: checks 
+mabeal1: checks 
+fontreu: checks 
+*** TURN *** [Jd Ad 7s] [Jc]
+Antonio12034: bets 40
+mabeal1: folds 
+fontreu: folds 
+Uncalled bet (40) returned to Antonio12034
+Antonio12034 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd Ad 7s Jc]
+Seat 1: fontreu (button) folded on the Turn
+Seat 2: Antonio12034 (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259578046969: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:33:13 CET [2026/02/03 12:33:13 ET]
+Table '3971758307 1' 3-max Seat #2 is the button
+Seat 1: fontreu (480 in chips) 
+Seat 2: Antonio12034 (540 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+fontreu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9d]
+Antonio12034: calls 20
+mabeal1: folds 
+fontreu: checks 
+*** FLOP *** [Jh Ac 9h]
+fontreu: checks 
+Antonio12034: bets 20
+fontreu: calls 20
+*** TURN *** [Jh Ac 9h] [4h]
+fontreu: checks 
+Antonio12034: bets 60
+fontreu: calls 60
+*** RIVER *** [Jh Ac 9h 4h] [8c]
+fontreu: checks 
+Antonio12034: checks 
+*** SHOW DOWN ***
+fontreu: shows [Td 8h] (a pair of Eights)
+Antonio12034: mucks hand 
+fontreu collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Jh Ac 9h 4h 8c]
+Seat 1: fontreu (big blind) showed [Td 8h] and won (210) with a pair of Eights
+Seat 2: Antonio12034 (button) mucked [Ks 2c]
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578052855: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:33:41 CET [2026/02/03 12:33:41 ET]
+Table '3971758307 1' 3-max Seat #3 is the button
+Seat 1: fontreu (590 in chips) 
+Seat 2: Antonio12034 (440 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+fontreu: posts small blind 10
+Antonio12034: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 2d]
+mabeal1: folds 
+fontreu: calls 10
+Antonio12034: checks 
+*** FLOP *** [Qs 9c 8d]
+fontreu: checks 
+Antonio12034: checks 
+*** TURN *** [Qs 9c 8d] [4c]
+fontreu: checks 
+Antonio12034: checks 
+*** RIVER *** [Qs 9c 8d 4c] [7d]
+fontreu: checks 
+Antonio12034: bets 20
+fontreu: calls 20
+*** SHOW DOWN ***
+Antonio12034: shows [Kd 6d] (high card King)
+fontreu: shows [7s 2h] (a pair of Sevens)
+fontreu collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 9c 8d 4c 7d]
+Seat 1: fontreu (small blind) showed [7s 2h] and won (80) with a pair of Sevens
+Seat 2: Antonio12034 (big blind) showed [Kd 6d] and lost with high card King
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578058097: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:34:05 CET [2026/02/03 12:34:05 ET]
+Table '3971758307 1' 3-max Seat #1 is the button
+Seat 1: fontreu (630 in chips) 
+Seat 2: Antonio12034 (400 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+Antonio12034: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 7c]
+fontreu: calls 20
+Antonio12034: folds 
+mabeal1: checks 
+*** FLOP *** [As 6d 2c]
+mabeal1: checks 
+fontreu: checks 
+*** TURN *** [As 6d 2c] [3c]
+mabeal1: checks 
+fontreu: checks 
+*** RIVER *** [As 6d 2c 3c] [Kh]
+mabeal1: checks 
+fontreu: bets 50
+mabeal1: folds 
+Uncalled bet (50) returned to fontreu
+fontreu collected 50 from pot
+fontreu: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [As 6d 2c 3c Kh]
+Seat 1: fontreu (button) collected (50)
+Seat 2: Antonio12034 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259578064469: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:34:34 CET [2026/02/03 12:34:34 ET]
+Table '3971758307 1' 3-max Seat #2 is the button
+Seat 1: fontreu (660 in chips) 
+Seat 2: Antonio12034 (390 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+mabeal1: posts small blind 10
+fontreu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Kc]
+Antonio12034: calls 20
+mabeal1: raises 430 to 450 and is all-in
+fontreu: folds 
+Antonio12034: folds 
+Uncalled bet (430) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: fontreu (big blind) folded before Flop
+Seat 2: Antonio12034 (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259578066906: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:34:46 CET [2026/02/03 12:34:46 ET]
+Table '3971758307 1' 3-max Seat #3 is the button
+Seat 1: fontreu (640 in chips) 
+Seat 2: Antonio12034 (370 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+fontreu: posts small blind 10
+Antonio12034: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 9d]
+mabeal1: folds 
+fontreu: calls 10
+Antonio12034: checks 
+*** FLOP *** [Ah 5s Ad]
+fontreu: checks 
+Antonio12034: checks 
+*** TURN *** [Ah 5s Ad] [5h]
+fontreu: bets 20
+Antonio12034: folds 
+Uncalled bet (20) returned to fontreu
+fontreu collected 40 from pot
+fontreu: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah 5s Ad 5h]
+Seat 1: fontreu (small blind) collected (40)
+Seat 2: Antonio12034 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578072384: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:35:11 CET [2026/02/03 12:35:11 ET]
+Table '3971758307 1' 3-max Seat #1 is the button
+Seat 1: fontreu (660 in chips) 
+Seat 2: Antonio12034 (350 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+Antonio12034: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3c]
+fontreu: calls 20
+Antonio12034: calls 10
+mabeal1: checks 
+*** FLOP *** [Qc 4d 7h]
+Antonio12034: checks 
+mabeal1: checks 
+fontreu: checks 
+*** TURN *** [Qc 4d 7h] [Tc]
+Antonio12034: checks 
+mabeal1: checks 
+fontreu: bets 20
+Antonio12034: calls 20
+mabeal1: folds 
+*** RIVER *** [Qc 4d 7h Tc] [7c]
+Antonio12034: checks 
+fontreu: checks 
+*** SHOW DOWN ***
+Antonio12034: shows [9h Jc] (a pair of Sevens)
+fontreu: shows [8d Td] (two pair, Tens and Sevens)
+fontreu collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Qc 4d 7h Tc 7c]
+Seat 1: fontreu (button) showed [8d Td] and won (100) with two pair, Tens and Sevens
+Seat 2: Antonio12034 (small blind) showed [9h Jc] and lost with a pair of Sevens
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259578078298: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:35:39 CET [2026/02/03 12:35:39 ET]
+Table '3971758307 1' 3-max Seat #2 is the button
+Seat 1: fontreu (720 in chips) 
+Seat 2: Antonio12034 (310 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+mabeal1: posts small blind 10
+fontreu: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 5h]
+Antonio12034: calls 20
+mabeal1: raises 450 to 470 and is all-in
+fontreu: folds 
+Antonio12034: calls 290 and is all-in
+Uncalled bet (160) returned to mabeal1
+*** FLOP *** [Ks Qs 3s]
+*** TURN *** [Ks Qs 3s] [Qd]
+*** RIVER *** [Ks Qs 3s Qd] [3h]
+*** SHOW DOWN ***
+mabeal1: shows [Ad 5h] (two pair, Queens and Threes)
+Antonio12034: shows [Kh Ac] (two pair, Kings and Queens)
+Antonio12034 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Ks Qs 3s Qd 3h]
+Seat 1: fontreu (big blind) folded before Flop
+Seat 2: Antonio12034 (button) showed [Kh Ac] and won (640) with two pair, Kings and Queens
+Seat 3: mabeal1 (small blind) showed [Ad 5h] and lost with two pair, Queens and Threes
+
+
+
+PokerStars Hand #259578083598: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:36:03 CET [2026/02/03 12:36:03 ET]
+Table '3971758307 1' 3-max Seat #3 is the button
+Seat 1: fontreu (700 in chips) 
+Seat 2: Antonio12034 (640 in chips) 
+Seat 3: mabeal1 (160 in chips) 
+fontreu: posts small blind 15
+Antonio12034: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 9h]
+mabeal1: folds 
+fontreu: calls 15
+Antonio12034: checks 
+*** FLOP *** [4d 9d 4s]
+fontreu: checks 
+Antonio12034: checks 
+*** TURN *** [4d 9d 4s] [9c]
+fontreu: checks 
+Antonio12034: checks 
+*** RIVER *** [4d 9d 4s 9c] [8d]
+fontreu: bets 30
+Antonio12034: calls 30
+*** SHOW DOWN ***
+fontreu: shows [Th 8s] (two pair, Nines and Eights)
+Antonio12034: mucks hand 
+fontreu collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d 9d 4s 9c 8d]
+Seat 1: fontreu (small blind) showed [Th 8s] and won (120) with two pair, Nines and Eights
+Seat 2: Antonio12034 (big blind) mucked [Ad 6c]
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578090041: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:36:33 CET [2026/02/03 12:36:33 ET]
+Table '3971758307 1' 3-max Seat #1 is the button
+Seat 1: fontreu (760 in chips) 
+Seat 2: Antonio12034 (580 in chips) 
+Seat 3: mabeal1 (160 in chips) 
+Antonio12034: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 5d]
+fontreu: calls 30
+Antonio12034: calls 15
+mabeal1: checks 
+*** FLOP *** [7d 9h Jd]
+Antonio12034: bets 30
+mabeal1: folds 
+fontreu: calls 30
+*** TURN *** [7d 9h Jd] [Th]
+Antonio12034: bets 30
+fontreu: calls 30
+*** RIVER *** [7d 9h Jd Th] [4c]
+Antonio12034: checks 
+fontreu: checks 
+*** SHOW DOWN ***
+Antonio12034: shows [Js 6s] (a pair of Jacks)
+fontreu: mucks hand 
+Antonio12034 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [7d 9h Jd Th 4c]
+Seat 1: fontreu (button) mucked [Qd 3d]
+Seat 2: Antonio12034 (small blind) showed [Js 6s] and won (210) with a pair of Jacks
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259578099099: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:37:14 CET [2026/02/03 12:37:14 ET]
+Table '3971758307 1' 3-max Seat #2 is the button
+Seat 1: fontreu (670 in chips) 
+Seat 2: Antonio12034 (700 in chips) 
+Seat 3: mabeal1 (130 in chips) 
+mabeal1: posts small blind 15
+fontreu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8s]
+Antonio12034: calls 30
+mabeal1: folds 
+fontreu: checks 
+*** FLOP *** [9c 2c Qs]
+fontreu: checks 
+Antonio12034: bets 30
+fontreu: calls 30
+*** TURN *** [9c 2c Qs] [Ac]
+fontreu: checks 
+Antonio12034: bets 60
+fontreu: calls 60
+*** RIVER *** [9c 2c Qs Ac] [6s]
+fontreu: checks 
+Antonio12034: bets 60
+fontreu: folds 
+Uncalled bet (60) returned to Antonio12034
+Antonio12034 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [9c 2c Qs Ac 6s]
+Seat 1: fontreu (big blind) folded on the River
+Seat 2: Antonio12034 (button) collected (255)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578109536: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:38:02 CET [2026/02/03 12:38:02 ET]
+Table '3971758307 1' 3-max Seat #3 is the button
+Seat 1: fontreu (550 in chips) 
+Seat 2: Antonio12034 (835 in chips) 
+Seat 3: mabeal1 (115 in chips) 
+fontreu: posts small blind 15
+Antonio12034: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4d]
+mabeal1: folds 
+fontreu: calls 15
+Antonio12034: checks 
+*** FLOP *** [Ac 7d 7h]
+fontreu: bets 30
+Antonio12034: folds 
+Uncalled bet (30) returned to fontreu
+fontreu collected 60 from pot
+fontreu: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ac 7d 7h]
+Seat 1: fontreu (small blind) collected (60)
+Seat 2: Antonio12034 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578112431: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:38:15 CET [2026/02/03 12:38:15 ET]
+Table '3971758307 1' 3-max Seat #1 is the button
+Seat 1: fontreu (580 in chips) 
+Seat 2: Antonio12034 (805 in chips) 
+Seat 3: mabeal1 (115 in chips) 
+Antonio12034: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Jd]
+fontreu: raises 550 to 580 and is all-in
+Antonio12034: folds 
+mabeal1: calls 85 and is all-in
+Uncalled bet (465) returned to fontreu
+*** FLOP *** [6d Jc Ad]
+*** TURN *** [6d Jc Ad] [Kc]
+*** RIVER *** [6d Jc Ad Kc] [As]
+*** SHOW DOWN ***
+mabeal1: shows [6h Jd] (two pair, Aces and Jacks)
+fontreu: shows [9d 9s] (two pair, Aces and Nines)
+mabeal1 collected 245 from pot
+*** SUMMARY ***
+Total pot 245 | Rake 0 
+Board [6d Jc Ad Kc As]
+Seat 1: fontreu (button) showed [9d 9s] and lost with two pair, Aces and Nines
+Seat 2: Antonio12034 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [6h Jd] and won (245) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #259578117230: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:38:37 CET [2026/02/03 12:38:37 ET]
+Table '3971758307 1' 3-max Seat #2 is the button
+Seat 1: fontreu (465 in chips) 
+Seat 2: Antonio12034 (790 in chips) 
+Seat 3: mabeal1 (245 in chips) 
+mabeal1: posts small blind 15
+fontreu: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 6c]
+Antonio12034: calls 30
+mabeal1: folds 
+fontreu: checks 
+*** FLOP *** [5h 8c Kc]
+fontreu: checks 
+Antonio12034: checks 
+*** TURN *** [5h 8c Kc] [9d]
+fontreu: checks 
+Antonio12034: checks 
+*** RIVER *** [5h 8c Kc 9d] [Kd]
+fontreu: checks 
+Antonio12034: checks 
+*** SHOW DOWN ***
+fontreu: shows [6d 2s] (a pair of Kings)
+Antonio12034: shows [Jh 3h] (a pair of Kings - Jack kicker)
+Antonio12034 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [5h 8c Kc 9d Kd]
+Seat 1: fontreu (big blind) showed [6d 2s] and lost with a pair of Kings
+Seat 2: Antonio12034 (button) showed [Jh 3h] and won (75) with a pair of Kings
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578124168: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:39:07 CET [2026/02/03 12:39:07 ET]
+Table '3971758307 1' 3-max Seat #3 is the button
+Seat 1: fontreu (435 in chips) 
+Seat 2: Antonio12034 (835 in chips) 
+Seat 3: mabeal1 (230 in chips) 
+fontreu: posts small blind 20
+Antonio12034: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Td]
+mabeal1: folds 
+fontreu: calls 20
+Antonio12034: checks 
+*** FLOP *** [Ts Kc Jh]
+fontreu: checks 
+Antonio12034: bets 40
+fontreu: calls 40
+*** TURN *** [Ts Kc Jh] [Ks]
+fontreu: checks 
+Antonio12034: bets 40
+fontreu: folds 
+Uncalled bet (40) returned to Antonio12034
+Antonio12034 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ts Kc Jh Ks]
+Seat 1: fontreu (small blind) folded on the Turn
+Seat 2: Antonio12034 (big blind) collected (160)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578128953: Tournament #3971758307, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:39:29 CET [2026/02/03 12:39:29 ET]
+Table '3971758307 1' 3-max Seat #1 is the button
+Seat 1: fontreu (355 in chips) 
+Seat 2: Antonio12034 (915 in chips) 
+Seat 3: mabeal1 (230 in chips) 
+Antonio12034: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 9h]
+fontreu: calls 40
+Antonio12034: calls 20
+mabeal1: checks 
+*** FLOP *** [Tc Ac 8d]
+Antonio12034: bets 40
+mabeal1: raises 150 to 190 and is all-in
+fontreu: calls 190
+Antonio12034: calls 150
+*** TURN *** [Tc Ac 8d] [7c]
+Antonio12034: checks 
+fontreu: bets 125 and is all-in
+Antonio12034: calls 125
+*** RIVER *** [Tc Ac 8d 7c] [4s]
+*** SHOW DOWN ***
+Antonio12034: shows [Th Qh] (a pair of Tens)
+fontreu: shows [Ad 5h] (a pair of Aces)
+fontreu collected 250 from side pot
+mabeal1: shows [7h 9h] (a pair of Sevens)
+fontreu collected 690 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 940 Main pot 690. Side pot 250. | Rake 0 
+Board [Tc Ac 8d 7c 4s]
+Seat 1: fontreu (button) showed [Ad 5h] and won (940) with a pair of Aces
+Seat 2: Antonio12034 (small blind) showed [Th Qh] and lost with a pair of Tens
+Seat 3: mabeal1 (big blind) showed [7h 9h] and lost with a pair of Sevens
+
+
+

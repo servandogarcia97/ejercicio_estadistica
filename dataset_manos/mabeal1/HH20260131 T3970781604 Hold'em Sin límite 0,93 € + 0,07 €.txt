@@ -1,0 +1,114 @@
+﻿PokerStars Hand #259533780668: Tournament #3970781604, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:40:33 CET [2026/01/31 7:40:33 ET]
+Table '3970781604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: delvaillemarine (500 in chips) 
+Seat 3: Nookita888 (500 in chips) 
+delvaillemarine: posts small blind 10
+Nookita888: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Jh]
+mabeal1: raises 20 to 40
+delvaillemarine: folds 
+Nookita888: raises 460 to 500 and is all-in
+mabeal1: folds 
+Uncalled bet (460) returned to Nookita888
+Nookita888 collected 90 from pot
+Nookita888: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: delvaillemarine (small blind) folded before Flop
+Seat 3: Nookita888 (big blind) collected (90)
+
+
+
+PokerStars Hand #259533782082: Tournament #3970781604, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:40:44 CET [2026/01/31 7:40:44 ET]
+Table '3970781604 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: delvaillemarine (490 in chips) 
+Seat 3: Nookita888 (550 in chips) 
+Nookita888: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4h]
+delvaillemarine: folds 
+Nookita888: calls 10
+mabeal1: checks 
+*** FLOP *** [5h Kh Tc]
+Nookita888: checks 
+mabeal1: bets 20
+Nookita888: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5h Kh Tc]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: delvaillemarine (button) folded before Flop (didn't bet)
+Seat 3: Nookita888 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259533784094: Tournament #3970781604, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:41:00 CET [2026/01/31 7:41:00 ET]
+Table '3970781604 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: delvaillemarine (490 in chips) 
+Seat 3: Nookita888 (530 in chips) 
+mabeal1: posts small blind 10
+delvaillemarine: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 9h]
+Nookita888: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to delvaillemarine
+delvaillemarine collected 20 from pot
+delvaillemarine: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: delvaillemarine (big blind) collected (20)
+Seat 3: Nookita888 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259533785984: Tournament #3970781604, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:41:14 CET [2026/01/31 7:41:14 ET]
+Table '3970781604 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: delvaillemarine (500 in chips) 
+Seat 3: Nookita888 (530 in chips) 
+delvaillemarine: posts small blind 10
+Nookita888: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Qs]
+mabeal1: raises 20 to 40
+delvaillemarine: calls 30
+Nookita888: calls 20
+*** FLOP *** [6d Jh 4c]
+delvaillemarine: checks 
+Nookita888: checks 
+mabeal1: checks 
+*** TURN *** [6d Jh 4c] [As]
+delvaillemarine: checks 
+Nookita888: checks 
+mabeal1: bets 60
+delvaillemarine: calls 60
+Nookita888: folds 
+*** RIVER *** [6d Jh 4c As] [Ks]
+delvaillemarine: checks 
+mabeal1: bets 370 and is all-in
+delvaillemarine: calls 370
+*** SHOW DOWN ***
+mabeal1: shows [7d Qs] (high card Ace)
+delvaillemarine: shows [Ah 5d] (a pair of Aces)
+delvaillemarine collected 980 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [6d Jh 4c As Ks]
+Seat 1: mabeal1 (button) showed [7d Qs] and lost with high card Ace
+Seat 2: delvaillemarine (small blind) showed [Ah 5d] and won (980) with a pair of Aces
+Seat 3: Nookita888 (big blind) folded on the Turn
+
+
+

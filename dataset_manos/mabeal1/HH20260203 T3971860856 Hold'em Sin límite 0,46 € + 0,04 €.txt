@@ -1,0 +1,314 @@
+﻿PokerStars Hand #259582943802: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:52:04 CET [2026/02/03 17:52:04 ET]
+Table '3971860856 1' 3-max Seat #1 is the button
+Seat 1: skoubiche (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Bhorch (500 in chips) 
+mabeal1: posts small blind 10
+Bhorch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 9c]
+skoubiche: calls 20
+mabeal1: calls 10
+Bhorch: checks 
+*** FLOP *** [9h 2h 8c]
+mabeal1: checks 
+Bhorch: checks 
+skoubiche: checks 
+*** TURN *** [9h 2h 8c] [Ts]
+mabeal1: bets 80
+Bhorch: folds 
+skoubiche: folds [6d Ad]
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h 2h 8c Ts]
+Seat 1: skoubiche (button) folded on the Turn
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Bhorch (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259582951857: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:52:35 CET [2026/02/03 17:52:35 ET]
+Table '3971860856 1' 3-max Seat #2 is the button
+Seat 1: skoubiche (480 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Bhorch (480 in chips) 
+Bhorch: posts small blind 10
+skoubiche: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 7s]
+mabeal1: folds 
+Bhorch: calls 10
+skoubiche: checks 
+*** FLOP *** [Td Ah 8s]
+Bhorch: bets 20
+skoubiche: folds 
+Uncalled bet (20) returned to Bhorch
+Bhorch collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td Ah 8s]
+Seat 1: skoubiche (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Bhorch (small blind) collected (40)
+
+
+
+PokerStars Hand #259582956298: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:52:53 CET [2026/02/03 17:52:53 ET]
+Table '3971860856 1' 3-max Seat #3 is the button
+Seat 1: skoubiche (460 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Bhorch (500 in chips) 
+skoubiche: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Qs]
+Bhorch: folds 
+skoubiche: calls 10
+mabeal1: checks 
+*** FLOP *** [Qd 8s 4h]
+skoubiche: checks 
+mabeal1: bets 20
+skoubiche: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd 8s 4h]
+Seat 1: skoubiche (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: Bhorch (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259582961433: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:53:13 CET [2026/02/03 17:53:13 ET]
+Table '3971860856 1' 3-max Seat #1 is the button
+Seat 1: skoubiche (440 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: Bhorch (500 in chips) 
+mabeal1: posts small blind 10
+Bhorch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 7c]
+skoubiche: folds 
+mabeal1: raises 30 to 50
+Bhorch: calls 30
+*** FLOP *** [7h As Ah]
+mabeal1: bets 40
+Bhorch: calls 40
+*** TURN *** [7h As Ah] [8c]
+mabeal1: checks 
+Bhorch: checks 
+*** RIVER *** [7h As Ah 8c] [9c]
+mabeal1: bets 90
+Bhorch: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7h As Ah 8c 9c]
+Seat 1: skoubiche (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (180)
+Seat 3: Bhorch (big blind) folded on the River
+
+
+
+PokerStars Hand #259582968213: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:53:39 CET [2026/02/03 17:53:39 ET]
+Table '3971860856 1' 3-max Seat #2 is the button
+Seat 1: skoubiche (440 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: Bhorch (410 in chips) 
+Bhorch: posts small blind 10
+skoubiche: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Qd]
+mabeal1: folds 
+Bhorch: calls 10
+skoubiche: raises 40 to 60
+Bhorch: folds 
+Uncalled bet (40) returned to skoubiche
+skoubiche collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: skoubiche (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Bhorch (small blind) folded before Flop
+
+
+
+PokerStars Hand #259582972186: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:53:55 CET [2026/02/03 17:53:55 ET]
+Table '3971860856 1' 3-max Seat #3 is the button
+Seat 1: skoubiche (460 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: Bhorch (390 in chips) 
+skoubiche: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Js]
+Bhorch: calls 20
+skoubiche: folds 
+mabeal1: checks 
+*** FLOP *** [4c 8s 2c]
+mabeal1: checks 
+Bhorch: checks 
+*** TURN *** [4c 8s 2c] [Ac]
+mabeal1: checks 
+Bhorch: checks 
+*** RIVER *** [4c 8s 2c Ac] [Th]
+mabeal1: bets 25
+Bhorch: raises 25 to 50
+mabeal1: folds 
+Uncalled bet (25) returned to Bhorch
+Bhorch collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4c 8s 2c Ac Th]
+Seat 1: skoubiche (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: Bhorch (button) collected (100)
+
+
+
+PokerStars Hand #259582979190: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:54:22 CET [2026/02/03 17:54:22 ET]
+Table '3971860856 1' 3-max Seat #1 is the button
+Seat 1: skoubiche (450 in chips) 
+Seat 2: mabeal1 (605 in chips) 
+Seat 3: Bhorch (445 in chips) 
+mabeal1: posts small blind 10
+Bhorch: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 2d]
+skoubiche: calls 20
+mabeal1: calls 10
+Bhorch: checks 
+*** FLOP *** [3s 4s 5d]
+mabeal1: checks 
+Bhorch: bets 20
+skoubiche: folds 
+mabeal1: calls 20
+*** TURN *** [3s 4s 5d] [Qs]
+mabeal1: checks 
+Bhorch: checks 
+*** RIVER *** [3s 4s 5d Qs] [Qd]
+mabeal1: bets 75
+Bhorch: calls 75
+*** SHOW DOWN ***
+mabeal1: shows [Td 2d] (a pair of Queens)
+Bhorch: shows [2h 5c] (two pair, Queens and Fives)
+Bhorch collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [3s 4s 5d Qs Qd]
+Seat 1: skoubiche (button) folded on the Flop
+Seat 2: mabeal1 (small blind) showed [Td 2d] and lost with a pair of Queens
+Seat 3: Bhorch (big blind) showed [2h 5c] and won (250) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #259582987916: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:54:57 CET [2026/02/03 17:54:57 ET]
+Table '3971860856 1' 3-max Seat #2 is the button
+Seat 1: skoubiche (430 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Bhorch (580 in chips) 
+Bhorch: posts small blind 10
+skoubiche: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Th]
+mabeal1: raises 20 to 40
+Bhorch: calls 30
+skoubiche: calls 20
+*** FLOP *** [Jd 3d 9h]
+Bhorch: bets 20
+skoubiche: calls 20
+mabeal1: calls 20
+*** TURN *** [Jd 3d 9h] [5c]
+Bhorch: checks 
+skoubiche: checks 
+mabeal1: bets 135
+Bhorch: folds 
+skoubiche: calls 135
+*** RIVER *** [Jd 3d 9h 5c] [9d]
+skoubiche: checks 
+mabeal1: bets 295 and is all-in
+skoubiche: calls 235 and is all-in
+Uncalled bet (60) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [8h Th] (a pair of Nines)
+skoubiche: shows [Ad 7d] (a flush, Ace high)
+skoubiche collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Jd 3d 9h 5c 9d]
+Seat 1: skoubiche (big blind) showed [Ad 7d] and won (920) with a flush, Ace high
+Seat 2: mabeal1 (button) showed [8h Th] and lost with a pair of Nines
+Seat 3: Bhorch (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259582996277: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 23:55:40 CET [2026/02/03 17:55:40 ET]
+Table '3971860856 1' 3-max Seat #3 is the button
+Seat 1: skoubiche (920 in chips) 
+Seat 2: mabeal1 (60 in chips) 
+Seat 3: Bhorch (520 in chips) 
+skoubiche: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Ks]
+Bhorch: calls 30
+skoubiche: calls 15
+mabeal1: raises 30 to 60 and is all-in
+Bhorch: calls 30
+skoubiche: calls 30
+*** FLOP *** [Kd 4h 6c]
+skoubiche: bets 180
+Bhorch: folds 
+Uncalled bet (180) returned to skoubiche
+*** TURN *** [Kd 4h 6c] [4d]
+*** RIVER *** [Kd 4h 6c 4d] [8h]
+*** SHOW DOWN ***
+skoubiche: shows [Ts Kh] (two pair, Kings and Fours)
+mabeal1: shows [Ah Ks] (two pair, Kings and Fours - Ace kicker)
+mabeal1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kd 4h 6c 4d 8h]
+Seat 1: skoubiche (small blind) showed [Ts Kh] and lost with two pair, Kings and Fours
+Seat 2: mabeal1 (big blind) showed [Ah Ks] and won (180) with two pair, Kings and Fours
+Seat 3: Bhorch (button) folded on the Flop
+
+
+
+PokerStars Hand #259582999728: Tournament #3971860856, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 23:56:00 CET [2026/02/03 17:56:00 ET]
+Table '3971860856 1' 3-max Seat #1 is the button
+Seat 1: skoubiche (860 in chips) 
+Seat 2: mabeal1 (180 in chips) 
+Seat 3: Bhorch (460 in chips) 
+mabeal1: posts small blind 15
+Bhorch: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 8d]
+skoubiche: calls 30
+mabeal1: raises 150 to 180 and is all-in
+Bhorch: folds 
+skoubiche: calls 150
+*** FLOP *** [9s 7s 3d]
+*** TURN *** [9s 7s 3d] [5c]
+*** RIVER *** [9s 7s 3d 5c] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [Qh 8d] (high card Queen)
+skoubiche: shows [Ks Qd] (high card King)
+skoubiche collected 390 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [9s 7s 3d 5c 4c]
+Seat 1: skoubiche (button) showed [Ks Qd] and won (390) with high card King
+Seat 2: mabeal1 (small blind) showed [Qh 8d] and lost with high card Queen
+Seat 3: Bhorch (big blind) folded before Flop
+
+
+

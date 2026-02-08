@@ -1,0 +1,611 @@
+﻿PokerStars Hand #259604650233: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:27:46 CET [2026/02/05 14:27:46 ET]
+Table '3972381697 1' 3-max Seat #1 is the button
+Seat 1: ludss67220 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: torresribas19 (500 in chips) 
+mabeal1: posts small blind 10
+torresribas19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Qc]
+ludss67220: calls 20
+mabeal1: calls 10
+torresribas19: checks 
+*** FLOP *** [7d 7s Jd]
+mabeal1: checks 
+torresribas19: checks 
+ludss67220: checks 
+*** TURN *** [7d 7s Jd] [Js]
+mabeal1: bets 45
+torresribas19: folds 
+ludss67220: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 7s Jd Js]
+Seat 1: ludss67220 (button) folded on the Turn
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: torresribas19 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259604655424: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:28:07 CET [2026/02/05 14:28:07 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 1: ludss67220 (480 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: torresribas19 (480 in chips) 
+torresribas19: posts small blind 10
+ludss67220: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3h]
+mabeal1: folds 
+torresribas19: raises 40 to 60
+ludss67220: calls 40
+*** FLOP *** [2c As 3c]
+torresribas19: bets 60
+ludss67220: calls 60
+*** TURN *** [2c As 3c] [8d]
+torresribas19: bets 100
+ludss67220: calls 100
+*** RIVER *** [2c As 3c 8d] [9h]
+torresribas19: bets 260 and is all-in
+ludss67220: folds 
+Uncalled bet (260) returned to torresribas19
+torresribas19 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [2c As 3c 8d 9h]
+Seat 1: ludss67220 (big blind) folded on the River
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: torresribas19 (small blind) collected (440)
+
+
+
+PokerStars Hand #259604666622: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:28:53 CET [2026/02/05 14:28:53 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 1: ludss67220 (260 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: torresribas19 (700 in chips) 
+ludss67220: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 5c]
+torresribas19: raises 40 to 60
+ludss67220: calls 50
+mabeal1: folds 
+*** FLOP *** [Td 7s 2d]
+ludss67220: checks 
+torresribas19: bets 50
+ludss67220: raises 150 to 200 and is all-in
+torresribas19: calls 150
+*** TURN *** [Td 7s 2d] [4c]
+*** RIVER *** [Td 7s 2d 4c] [Qs]
+*** SHOW DOWN ***
+ludss67220: shows [9s Ah] (high card Ace)
+torresribas19: shows [6s 6c] (a pair of Sixes)
+torresribas19 collected 540 from pot
+ludss67220 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Td 7s 2d 4c Qs]
+Seat 1: ludss67220 (small blind) showed [9s Ah] and lost with high card Ace
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: torresribas19 (button) showed [6s 6c] and won (540) with a pair of Sixes
+
+
+
+PokerStars Hand #259604674828: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:29:25 CET [2026/02/05 14:29:25 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: torresribas19 (980 in chips) 
+mabeal1: posts small blind 10
+torresribas19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 5h]
+mabeal1: folds 
+Uncalled bet (10) returned to torresribas19
+torresribas19 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: torresribas19 (big blind) collected (20)
+
+
+
+PokerStars Hand #259604677132: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:29:35 CET [2026/02/05 14:29:35 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: torresribas19 (990 in chips) 
+torresribas19: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6d]
+torresribas19: calls 10
+mabeal1: checks 
+*** FLOP *** [2h 5h 9d]
+mabeal1: checks 
+torresribas19: checks 
+*** TURN *** [2h 5h 9d] [5d]
+mabeal1: bets 30
+torresribas19: calls 30
+*** RIVER *** [2h 5h 9d 5d] [Qd]
+mabeal1: bets 75
+torresribas19: raises 125 to 200
+mabeal1: folds 
+Uncalled bet (125) returned to torresribas19
+torresribas19 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [2h 5h 9d 5d Qd]
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: torresribas19 (button) (small blind) collected (250)
+
+
+
+PokerStars Hand #259604685009: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:30:05 CET [2026/02/05 14:30:05 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: torresribas19 (1115 in chips) 
+mabeal1: posts small blind 10
+torresribas19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 6s]
+mabeal1: calls 10
+torresribas19: checks 
+*** FLOP *** [Js Jh 2s]
+torresribas19: checks 
+mabeal1: bets 30
+torresribas19: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js Jh 2s]
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: torresribas19 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259604688552: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:30:20 CET [2026/02/05 14:30:20 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (405 in chips) 
+Seat 3: torresribas19 (1095 in chips) 
+torresribas19: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qc]
+torresribas19: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to torresribas19
+torresribas19 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: torresribas19 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259604690295: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:30:27 CET [2026/02/05 14:30:27 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: torresribas19 (1115 in chips) 
+mabeal1: posts small blind 10
+torresribas19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 6s]
+mabeal1: calls 10
+torresribas19: checks 
+*** FLOP *** [Ts Ks 9s]
+torresribas19: checks 
+mabeal1: checks 
+*** TURN *** [Ts Ks 9s] [4s]
+torresribas19: checks 
+mabeal1: checks 
+*** RIVER *** [Ts Ks 9s 4s] [Th]
+torresribas19: checks 
+mabeal1: bets 30
+torresribas19: raises 70 to 100
+mabeal1: calls 70
+*** SHOW DOWN ***
+torresribas19: shows [2h 5h] (a pair of Tens)
+mabeal1: shows [Td 6s] (a flush, King high)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ts Ks 9s 4s Th]
+Seat 2: mabeal1 (button) (small blind) showed [Td 6s] and won (240) with a flush, King high
+Seat 3: torresribas19 (big blind) showed [2h 5h] and lost with a pair of Tens
+
+
+
+PokerStars Hand #259604697113: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 20:30:54 CET [2026/02/05 14:30:54 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: torresribas19 (995 in chips) 
+torresribas19: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 7s]
+torresribas19: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [5c 4s 6c]
+mabeal1: checks 
+torresribas19: bets 30
+mabeal1: calls 30
+*** TURN *** [5c 4s 6c] [4h]
+mabeal1: checks 
+torresribas19: bets 30
+mabeal1: raises 180 to 210
+torresribas19: calls 180
+*** RIVER *** [5c 4s 6c 4h] [2d]
+mabeal1: bets 205 and is all-in
+torresribas19: calls 205
+*** SHOW DOWN ***
+mabeal1: shows [8s 7s] (a straight, Four to Eight)
+torresribas19: shows [6s 3s] (a straight, Deuce to Six)
+mabeal1 collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [5c 4s 6c 4h 2d]
+Seat 2: mabeal1 (big blind) showed [8s 7s] and won (1010) with a straight, Four to Eight
+Seat 3: torresribas19 (button) (small blind) showed [6s 3s] and lost with a straight, Deuce to Six
+
+
+
+PokerStars Hand #259604703073: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 20:31:17 CET [2026/02/05 14:31:17 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1010 in chips) 
+Seat 3: torresribas19 (490 in chips) 
+mabeal1: posts small blind 15
+torresribas19: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ts]
+mabeal1: calls 15
+torresribas19: raises 120 to 150
+mabeal1: folds 
+Uncalled bet (120) returned to torresribas19
+torresribas19 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: torresribas19 (big blind) collected (60)
+
+
+
+PokerStars Hand #259604706376: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 20:31:30 CET [2026/02/05 14:31:30 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (980 in chips) 
+Seat 3: torresribas19 (520 in chips) 
+torresribas19: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Jh]
+torresribas19: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [7d 6s As]
+mabeal1: checks 
+torresribas19: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to torresribas19
+torresribas19 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7d 6s As]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: torresribas19 (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #259604717644: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 20:32:15 CET [2026/02/05 14:32:15 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (890 in chips) 
+Seat 3: torresribas19 (610 in chips) 
+mabeal1: posts small blind 15
+torresribas19: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8d]
+mabeal1: calls 15
+torresribas19: checks 
+*** FLOP *** [Js 8c 9c]
+torresribas19: checks 
+mabeal1: checks 
+*** TURN *** [Js 8c 9c] [5d]
+torresribas19: bets 30
+mabeal1: calls 30
+*** RIVER *** [Js 8c 9c 5d] [6d]
+torresribas19: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+torresribas19: shows [Ac 3s] (high card Ace)
+mabeal1: shows [3d 8d] (a pair of Eights)
+mabeal1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Js 8c 9c 5d 6d]
+Seat 2: mabeal1 (button) (small blind) showed [3d 8d] and won (180) with a pair of Eights
+Seat 3: torresribas19 (big blind) showed [Ac 3s] and lost with high card Ace
+
+
+
+PokerStars Hand #259604727259: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 20:32:54 CET [2026/02/05 14:32:54 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (980 in chips) 
+Seat 3: torresribas19 (520 in chips) 
+torresribas19: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qs]
+torresribas19: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [6s 7s Ks]
+mabeal1: checks 
+torresribas19: checks 
+*** TURN *** [6s 7s Ks] [8s]
+mabeal1: bets 30
+torresribas19: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6s 7s Ks 8s]
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: torresribas19 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259604740333: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 20:33:46 CET [2026/02/05 14:33:46 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1040 in chips) 
+Seat 3: torresribas19 (460 in chips) 
+mabeal1: posts small blind 15
+torresribas19: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8c]
+mabeal1: calls 15
+torresribas19: checks 
+*** FLOP *** [3c 7c Jd]
+torresribas19: checks 
+mabeal1: checks 
+*** TURN *** [3c 7c Jd] [Qc]
+torresribas19: checks 
+mabeal1: checks 
+*** RIVER *** [3c 7c Jd Qc] [4d]
+torresribas19: checks 
+mabeal1: bets 30
+torresribas19: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c 7c Jd Qc 4d]
+Seat 2: mabeal1 (button) (small blind) collected (60)
+Seat 3: torresribas19 (big blind) folded on the River
+
+
+
+PokerStars Hand #259604753736: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:34:41 CET [2026/02/05 14:34:41 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1070 in chips) 
+Seat 3: torresribas19 (430 in chips) 
+torresribas19: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 4s]
+torresribas19: raises 40 to 80
+mabeal1: raises 990 to 1070 and is all-in
+torresribas19: folds 
+Uncalled bet (990) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: torresribas19 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259604758162: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:34:59 CET [2026/02/05 14:34:59 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1150 in chips) 
+Seat 3: torresribas19 (350 in chips) 
+mabeal1: posts small blind 20
+torresribas19: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 3c]
+mabeal1: folds 
+Uncalled bet (20) returned to torresribas19
+torresribas19 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: torresribas19 (big blind) collected (40)
+
+
+
+PokerStars Hand #259604761694: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:35:13 CET [2026/02/05 14:35:13 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1130 in chips) 
+Seat 3: torresribas19 (370 in chips) 
+torresribas19: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 9s]
+torresribas19: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: torresribas19 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259604763192: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:35:19 CET [2026/02/05 14:35:19 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1150 in chips) 
+Seat 3: torresribas19 (350 in chips) 
+mabeal1: posts small blind 20
+torresribas19: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Ah]
+mabeal1: raises 1110 to 1150 and is all-in
+torresribas19: folds 
+Uncalled bet (1110) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: torresribas19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259604767236: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:35:35 CET [2026/02/05 14:35:35 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1190 in chips) 
+Seat 3: torresribas19 (310 in chips) 
+torresribas19: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 4c]
+torresribas19: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to torresribas19
+torresribas19 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: torresribas19 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259604774676: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:36:04 CET [2026/02/05 14:36:04 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1150 in chips) 
+Seat 3: torresribas19 (350 in chips) 
+mabeal1: posts small blind 20
+torresribas19: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Jc]
+mabeal1: raises 1110 to 1150 and is all-in
+torresribas19: folds 
+Uncalled bet (1110) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: torresribas19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259604778695: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:36:19 CET [2026/02/05 14:36:19 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1190 in chips) 
+Seat 3: torresribas19 (310 in chips) 
+torresribas19: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 3s]
+torresribas19: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: torresribas19 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259604779953: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:36:24 CET [2026/02/05 14:36:24 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1210 in chips) 
+Seat 3: torresribas19 (290 in chips) 
+mabeal1: posts small blind 20
+torresribas19: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 9s]
+mabeal1: folds 
+Uncalled bet (20) returned to torresribas19
+torresribas19 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: torresribas19 (big blind) collected (40)
+
+
+
+PokerStars Hand #259604783648: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:36:39 CET [2026/02/05 14:36:39 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1190 in chips) 
+Seat 3: torresribas19 (310 in chips) 
+torresribas19: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Jd]
+torresribas19: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: torresribas19 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259604785267: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 20:36:45 CET [2026/02/05 14:36:45 ET]
+Table '3972381697 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1210 in chips) 
+Seat 3: torresribas19 (290 in chips) 
+mabeal1: posts small blind 20
+torresribas19: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ks]
+mabeal1: raises 1170 to 1210 and is all-in
+torresribas19: folds 
+Uncalled bet (1170) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: torresribas19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259604789530: Tournament #3972381697, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 20:37:02 CET [2026/02/05 14:37:02 ET]
+Table '3972381697 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1250 in chips) 
+Seat 3: torresribas19 (250 in chips) 
+torresribas19: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Ac]
+torresribas19: raises 120 to 180
+mabeal1: raises 120 to 300
+torresribas19: calls 70 and is all-in
+Uncalled bet (50) returned to mabeal1
+*** FLOP *** [4s Ah Qs]
+*** TURN *** [4s Ah Qs] [Js]
+*** RIVER *** [4s Ah Qs Js] [8s]
+*** SHOW DOWN ***
+mabeal1: shows [Qh Ac] (two pair, Aces and Queens)
+torresribas19: shows [Kd 9d] (high card Ace)
+mabeal1 collected 500 from pot
+torresribas19 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [4s Ah Qs Js 8s]
+Seat 2: mabeal1 (big blind) showed [Qh Ac] and won (500) with two pair, Aces and Queens
+Seat 3: torresribas19 (button) (small blind) showed [Kd 9d] and lost with high card Ace
+
+
+

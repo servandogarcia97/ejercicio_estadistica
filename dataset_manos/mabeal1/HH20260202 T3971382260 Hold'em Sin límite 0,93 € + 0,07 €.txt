@@ -1,0 +1,843 @@
+﻿PokerStars Hand #259561255776: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:29:33 CET [2026/02/02 7:29:33 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Mifras04 (500 in chips) 
+mabeal1: posts small blind 10
+Mifras04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Jd]
+loudydrix: calls 20
+mabeal1: raises 50 to 70
+Mifras04: folds 
+loudydrix: calls 50
+*** FLOP *** [3d Js 4c]
+mabeal1: bets 80
+loudydrix: calls 80
+*** TURN *** [3d Js 4c] [Jh]
+mabeal1: bets 240
+loudydrix: folds 
+Uncalled bet (240) returned to mabeal1
+mabeal1 collected 320 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3d Js 4c Jh]
+Seat 1: loudydrix (button) folded on the Turn
+Seat 2: mabeal1 (small blind) collected (320)
+Seat 3: Mifras04 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561258330: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:29:55 CET [2026/02/02 7:29:55 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (350 in chips) 
+Seat 2: mabeal1 (670 in chips) 
+Seat 3: Mifras04 (480 in chips) 
+Mifras04: posts small blind 10
+loudydrix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7h]
+mabeal1: folds 
+Mifras04: calls 10
+loudydrix: checks 
+*** FLOP *** [Qc Td Tc]
+Mifras04: checks 
+loudydrix: checks 
+*** TURN *** [Qc Td Tc] [2d]
+Mifras04: bets 40
+loudydrix: calls 40
+*** RIVER *** [Qc Td Tc 2d] [9d]
+Mifras04: bets 420 and is all-in
+loudydrix: folds 
+Uncalled bet (420) returned to Mifras04
+Mifras04 collected 120 from pot
+Mifras04: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc Td Tc 2d 9d]
+Seat 1: loudydrix (big blind) folded on the River
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Mifras04 (small blind) collected (120)
+
+
+
+PokerStars Hand #259561264631: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:30:49 CET [2026/02/02 7:30:49 ET]
+Table '3971382260 1' 3-max Seat #3 is the button
+Seat 1: loudydrix (290 in chips) 
+Seat 2: mabeal1 (670 in chips) 
+Seat 3: Mifras04 (540 in chips) 
+loudydrix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6c]
+Mifras04: folds 
+loudydrix: calls 10
+mabeal1: checks 
+*** FLOP *** [Jd Tc 3s]
+loudydrix: checks 
+mabeal1: checks 
+*** TURN *** [Jd Tc 3s] [Ks]
+loudydrix: checks 
+mabeal1: bets 30
+loudydrix: calls 30
+*** RIVER *** [Jd Tc 3s Ks] [Qd]
+loudydrix: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+loudydrix: shows [As Td] (a straight, Ten to Ace)
+mabeal1: mucks hand 
+loudydrix collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Jd Tc 3s Ks Qd]
+Seat 1: loudydrix (small blind) showed [As Td] and won (100) with a straight, Ten to Ace
+Seat 2: mabeal1 (big blind) mucked [4d 6c]
+Seat 3: Mifras04 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561266845: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:31:07 CET [2026/02/02 7:31:07 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (340 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: Mifras04 (540 in chips) 
+mabeal1: posts small blind 10
+Mifras04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 5d]
+loudydrix: calls 20
+mabeal1: folds 
+Mifras04: checks 
+*** FLOP *** [Kd Ah 9s]
+Mifras04: checks 
+loudydrix: checks 
+*** TURN *** [Kd Ah 9s] [Js]
+Mifras04: checks 
+loudydrix: checks 
+*** RIVER *** [Kd Ah 9s Js] [2c]
+Mifras04: checks 
+loudydrix: checks 
+*** SHOW DOWN ***
+Mifras04: shows [6h Td] (high card Ace)
+loudydrix: shows [Qc 8c] (high card Ace - King+Queen kicker)
+loudydrix collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Kd Ah 9s Js 2c]
+Seat 1: loudydrix (button) showed [Qc 8c] and won (50) with high card Ace
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Mifras04 (big blind) showed [6h Td] and lost with high card Ace
+
+
+
+PokerStars Hand #259561270590: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:31:39 CET [2026/02/02 7:31:39 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (370 in chips) 
+Seat 2: mabeal1 (610 in chips) 
+Seat 3: Mifras04 (520 in chips) 
+Mifras04: posts small blind 15
+loudydrix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 3d]
+mabeal1: raises 30 to 60
+Mifras04: calls 45
+loudydrix: calls 30
+*** FLOP *** [3h Kd Tc]
+Mifras04: bets 180
+loudydrix: folds 
+mabeal1: folds 
+Uncalled bet (180) returned to Mifras04
+Mifras04 collected 180 from pot
+Mifras04: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3h Kd Tc]
+Seat 1: loudydrix (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded on the Flop
+Seat 3: Mifras04 (small blind) collected (180)
+
+
+
+PokerStars Hand #259561272631: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:31:56 CET [2026/02/02 7:31:56 ET]
+Table '3971382260 1' 3-max Seat #3 is the button
+Seat 1: loudydrix (310 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: Mifras04 (640 in chips) 
+loudydrix: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 4c]
+Mifras04: folds 
+loudydrix: calls 15
+mabeal1: raises 520 to 550 and is all-in
+loudydrix: folds 
+Uncalled bet (520) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: loudydrix (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: Mifras04 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561273734: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:32:06 CET [2026/02/02 7:32:06 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (280 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: Mifras04 (640 in chips) 
+mabeal1: posts small blind 15
+Mifras04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 9c]
+loudydrix: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Mifras04
+Mifras04 collected 30 from pot
+Mifras04: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: loudydrix (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Mifras04 (big blind) collected (30)
+
+
+
+PokerStars Hand #259561274289: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:32:11 CET [2026/02/02 7:32:11 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (280 in chips) 
+Seat 2: mabeal1 (565 in chips) 
+Seat 3: Mifras04 (655 in chips) 
+Mifras04: posts small blind 15
+loudydrix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 3d]
+mabeal1: raises 30 to 60
+Mifras04: raises 150 to 210
+loudydrix: folds 
+mabeal1: folds 
+Uncalled bet (150) returned to Mifras04
+Mifras04 collected 150 from pot
+Mifras04: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: loudydrix (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: Mifras04 (small blind) collected (150)
+
+
+
+PokerStars Hand #259561275551: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:32:21 CET [2026/02/02 7:32:21 ET]
+Table '3971382260 1' 3-max Seat #3 is the button
+Seat 1: loudydrix (250 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: Mifras04 (745 in chips) 
+loudydrix: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 7c]
+Mifras04: calls 30
+loudydrix: calls 15
+mabeal1: checks 
+*** FLOP *** [Qd 4h As]
+loudydrix: checks 
+mabeal1: checks 
+Mifras04: checks 
+*** TURN *** [Qd 4h As] [Kc]
+loudydrix: checks 
+mabeal1: checks 
+Mifras04: checks 
+*** RIVER *** [Qd 4h As Kc] [Qc]
+loudydrix: checks 
+mabeal1: checks 
+Mifras04: checks 
+*** SHOW DOWN ***
+loudydrix: shows [3d 9d] (a pair of Queens)
+mabeal1: mucks hand 
+Mifras04: shows [9s 7s] (a pair of Queens)
+loudydrix collected 45 from pot
+Mifras04 collected 45 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qd 4h As Kc Qc]
+Seat 1: loudydrix (small blind) showed [3d 9d] and won (45) with a pair of Queens
+Seat 2: mabeal1 (big blind) mucked [6c 7c]
+Seat 3: Mifras04 (button) showed [9s 7s] and won (45) with a pair of Queens
+
+
+
+PokerStars Hand #259561279069: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:32:51 CET [2026/02/02 7:32:51 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (265 in chips) 
+Seat 2: mabeal1 (475 in chips) 
+Seat 3: Mifras04 (760 in chips) 
+mabeal1: posts small blind 15
+Mifras04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Tc]
+loudydrix: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Mifras04
+Mifras04 collected 30 from pot
+Mifras04: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: loudydrix (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Mifras04 (big blind) collected (30)
+
+
+
+PokerStars Hand #259561279832: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:32:58 CET [2026/02/02 7:32:58 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (265 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: Mifras04 (775 in chips) 
+Mifras04: posts small blind 15
+loudydrix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 9h]
+mabeal1: raises 30 to 60
+Mifras04: calls 45
+loudydrix: calls 30
+*** FLOP *** [Qs Ks Qc]
+Mifras04: checks 
+loudydrix: checks 
+mabeal1: checks 
+*** TURN *** [Qs Ks Qc] [3d]
+Mifras04: checks 
+loudydrix: checks 
+mabeal1: bets 90
+Mifras04: folds 
+loudydrix: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qs Ks Qc 3d]
+Seat 1: loudydrix (big blind) folded on the Turn
+Seat 2: mabeal1 (button) collected (180)
+Seat 3: Mifras04 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259561284486: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:33:38 CET [2026/02/02 7:33:38 ET]
+Table '3971382260 1' 3-max Seat #3 is the button
+Seat 1: loudydrix (205 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: Mifras04 (715 in chips) 
+loudydrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Qc]
+Mifras04: calls 40
+loudydrix: folds 
+mabeal1: checks 
+*** FLOP *** [2s Jd Qs]
+mabeal1: checks 
+Mifras04: checks 
+*** TURN *** [2s Jd Qs] [8c]
+mabeal1: bets 75
+Mifras04: calls 75
+*** RIVER *** [2s Jd Qs 8c] [3c]
+mabeal1: bets 188
+Mifras04: folds 
+Uncalled bet (188) returned to mabeal1
+mabeal1 collected 250 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [2s Jd Qs 8c 3c]
+Seat 1: loudydrix (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (250)
+Seat 3: Mifras04 (button) folded on the River
+
+
+
+PokerStars Hand #259561287385: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:34:03 CET [2026/02/02 7:34:03 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (185 in chips) 
+Seat 2: mabeal1 (715 in chips) 
+Seat 3: Mifras04 (600 in chips) 
+mabeal1: posts small blind 20
+Mifras04: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 8h]
+loudydrix: raises 145 to 185 and is all-in
+mabeal1: folds 
+Mifras04: calls 145
+*** FLOP *** [Jh Tc Kh]
+*** TURN *** [Jh Tc Kh] [8d]
+*** RIVER *** [Jh Tc Kh 8d] [Th]
+*** SHOW DOWN ***
+Mifras04: shows [6c 5c] (a pair of Tens)
+loudydrix: shows [6h As] (a pair of Tens - Ace kicker)
+loudydrix collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [Jh Tc Kh 8d Th]
+Seat 1: loudydrix (button) showed [6h As] and won (390) with a pair of Tens
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Mifras04 (big blind) showed [6c 5c] and lost with a pair of Tens
+
+
+
+PokerStars Hand #259561288902: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:34:16 CET [2026/02/02 7:34:16 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (390 in chips) 
+Seat 2: mabeal1 (695 in chips) 
+Seat 3: Mifras04 (415 in chips) 
+Mifras04: posts small blind 20
+loudydrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9s]
+mabeal1: folds 
+Mifras04: folds 
+Uncalled bet (20) returned to loudydrix
+loudydrix collected 40 from pot
+loudydrix: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: loudydrix (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Mifras04 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561289718: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:34:23 CET [2026/02/02 7:34:23 ET]
+Table '3971382260 1' 3-max Seat #3 is the button
+Seat 1: loudydrix (410 in chips) 
+Seat 2: mabeal1 (695 in chips) 
+Seat 3: Mifras04 (395 in chips) 
+loudydrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4s]
+Mifras04: calls 40
+loudydrix: raises 370 to 410 and is all-in
+mabeal1: folds 
+Mifras04: calls 355 and is all-in
+Uncalled bet (15) returned to loudydrix
+*** FLOP *** [2d 3d 4h]
+*** TURN *** [2d 3d 4h] [Jd]
+*** RIVER *** [2d 3d 4h Jd] [9s]
+*** SHOW DOWN ***
+loudydrix: shows [Jh Jc] (three of a kind, Jacks)
+Mifras04: shows [Kh Ks] (a pair of Kings)
+loudydrix collected 830 from pot
+Mifras04 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 830 | Rake 0 
+Board [2d 3d 4h Jd 9s]
+Seat 1: loudydrix (small blind) showed [Jh Jc] and won (830) with three of a kind, Jacks
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Mifras04 (button) showed [Kh Ks] and lost with a pair of Kings
+
+
+
+PokerStars Hand #259561292207: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:34:45 CET [2026/02/02 7:34:45 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (845 in chips) 
+Seat 2: mabeal1 (655 in chips) 
+mabeal1: posts small blind 20
+loudydrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Qh]
+mabeal1: calls 20
+loudydrix: checks 
+*** FLOP *** [2h Jd 5d]
+loudydrix: checks 
+mabeal1: bets 40
+loudydrix: calls 40
+*** TURN *** [2h Jd 5d] [3c]
+loudydrix: checks 
+mabeal1: checks 
+*** RIVER *** [2h Jd 5d 3c] [Ks]
+loudydrix: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+loudydrix: shows [Kd 4h] (a pair of Kings)
+mabeal1: mucks hand 
+loudydrix collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h Jd 5d 3c Ks]
+Seat 1: loudydrix (big blind) showed [Kd 4h] and won (160) with a pair of Kings
+Seat 2: mabeal1 (button) (small blind) mucked [5h Qh]
+
+
+
+PokerStars Hand #259561294587: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:35:05 CET [2026/02/02 7:35:05 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (925 in chips) 
+Seat 2: mabeal1 (575 in chips) 
+loudydrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jd]
+loudydrix: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: loudydrix (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259561295007: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:35:09 CET [2026/02/02 7:35:09 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (905 in chips) 
+Seat 2: mabeal1 (595 in chips) 
+mabeal1: posts small blind 20
+loudydrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Js]
+mabeal1: calls 20
+loudydrix: checks 
+*** FLOP *** [7h 5s Th]
+loudydrix: checks 
+mabeal1: checks 
+*** TURN *** [7h 5s Th] [4s]
+loudydrix: checks 
+mabeal1: bets 60
+loudydrix: raises 60 to 120
+mabeal1: calls 60
+*** RIVER *** [7h 5s Th 4s] [2h]
+loudydrix: bets 160
+mabeal1: folds 
+Uncalled bet (160) returned to loudydrix
+loudydrix collected 320 from pot
+loudydrix: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [7h 5s Th 4s 2h]
+Seat 1: loudydrix (big blind) collected (320)
+Seat 2: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259561297251: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:35:28 CET [2026/02/02 7:35:28 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (1065 in chips) 
+Seat 2: mabeal1 (435 in chips) 
+loudydrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Kh]
+loudydrix: calls 20
+mabeal1: raises 395 to 435 and is all-in
+loudydrix: calls 395
+*** FLOP *** [Jh 6h Jc]
+*** TURN *** [Jh 6h Jc] [Th]
+*** RIVER *** [Jh 6h Jc Th] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [Ts Kh] (a flush, King high)
+loudydrix: shows [2d Ad] (a pair of Jacks)
+mabeal1 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [Jh 6h Jc Th 8h]
+Seat 1: loudydrix (button) (small blind) showed [2d Ad] and lost with a pair of Jacks
+Seat 2: mabeal1 (big blind) showed [Ts Kh] and won (870) with a flush, King high
+
+
+
+PokerStars Hand #259561299292: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:35:46 CET [2026/02/02 7:35:46 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (630 in chips) 
+Seat 2: mabeal1 (870 in chips) 
+mabeal1: posts small blind 30
+loudydrix: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 7s]
+mabeal1: calls 30
+loudydrix: checks 
+*** FLOP *** [2h 7d 9d]
+loudydrix: checks 
+mabeal1: checks 
+*** TURN *** [2h 7d 9d] [4c]
+loudydrix: checks 
+mabeal1: checks 
+*** RIVER *** [2h 7d 9d 4c] [5d]
+loudydrix: checks 
+mabeal1: bets 90
+loudydrix: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 7d 9d 4c 5d]
+Seat 1: loudydrix (big blind) folded on the River
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259561300903: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:35:59 CET [2026/02/02 7:35:59 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (570 in chips) 
+Seat 2: mabeal1 (930 in chips) 
+loudydrix: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s As]
+loudydrix: calls 30
+mabeal1: raises 870 to 930 and is all-in
+loudydrix: folds 
+Uncalled bet (870) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: loudydrix (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259561301679: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:06 CET [2026/02/02 7:36:06 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (510 in chips) 
+Seat 2: mabeal1 (990 in chips) 
+mabeal1: posts small blind 30
+loudydrix: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 7c]
+mabeal1: folds 
+Uncalled bet (30) returned to loudydrix
+loudydrix collected 60 from pot
+loudydrix: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: loudydrix (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561302255: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:11 CET [2026/02/02 7:36:11 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (540 in chips) 
+Seat 2: mabeal1 (960 in chips) 
+loudydrix: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 8c]
+loudydrix: calls 30
+mabeal1: raises 900 to 960 and is all-in
+loudydrix: folds 
+Uncalled bet (900) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: loudydrix (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259561303014: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:17 CET [2026/02/02 7:36:17 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (480 in chips) 
+Seat 2: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 30
+loudydrix: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ah]
+mabeal1: raises 960 to 1020 and is all-in
+loudydrix: folds 
+Uncalled bet (960) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: loudydrix (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259561303829: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:24 CET [2026/02/02 7:36:24 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (420 in chips) 
+Seat 2: mabeal1 (1080 in chips) 
+loudydrix: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9d]
+loudydrix: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: loudydrix (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259561304185: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:27 CET [2026/02/02 7:36:27 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (390 in chips) 
+Seat 2: mabeal1 (1110 in chips) 
+mabeal1: posts small blind 30
+loudydrix: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qs]
+mabeal1: raises 1050 to 1110 and is all-in
+loudydrix: folds 
+Uncalled bet (1050) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: loudydrix (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259561305555: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:38 CET [2026/02/02 7:36:38 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (330 in chips) 
+Seat 2: mabeal1 (1170 in chips) 
+loudydrix: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 4c]
+loudydrix: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: loudydrix (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259561305915: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:41 CET [2026/02/02 7:36:41 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (300 in chips) 
+Seat 2: mabeal1 (1200 in chips) 
+mabeal1: posts small blind 30
+loudydrix: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 6h]
+mabeal1: folds 
+Uncalled bet (30) returned to loudydrix
+loudydrix collected 60 from pot
+loudydrix: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: loudydrix (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561306584: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:47 CET [2026/02/02 7:36:47 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (330 in chips) 
+Seat 2: mabeal1 (1170 in chips) 
+loudydrix: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qs]
+loudydrix: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: loudydrix (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259561306960: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:50 CET [2026/02/02 7:36:50 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (300 in chips) 
+Seat 2: mabeal1 (1200 in chips) 
+mabeal1: posts small blind 30
+loudydrix: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 3c]
+mabeal1: raises 1140 to 1200 and is all-in
+loudydrix: folds 
+Uncalled bet (1140) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: loudydrix (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259561307694: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:36:57 CET [2026/02/02 7:36:57 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (240 in chips) 
+Seat 2: mabeal1 (1260 in chips) 
+loudydrix: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 3d]
+loudydrix: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: loudydrix (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259561308117: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:37:00 CET [2026/02/02 7:37:00 ET]
+Table '3971382260 1' 3-max Seat #2 is the button
+Seat 1: loudydrix (210 in chips) 
+Seat 2: mabeal1 (1290 in chips) 
+mabeal1: posts small blind 30
+loudydrix: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Kd]
+mabeal1: raises 1230 to 1290 and is all-in
+loudydrix: folds 
+Uncalled bet (1230) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: loudydrix (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259561308790: Tournament #3971382260, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 13:37:06 CET [2026/02/02 7:37:06 ET]
+Table '3971382260 1' 3-max Seat #1 is the button
+Seat 1: loudydrix (150 in chips) 
+Seat 2: mabeal1 (1350 in chips) 
+loudydrix: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2s]
+loudydrix: raises 90 to 150 and is all-in
+mabeal1: calls 90
+*** FLOP *** [Th 8s 3d]
+*** TURN *** [Th 8s 3d] [5c]
+*** RIVER *** [Th 8s 3d 5c] [Tc]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 2s] (a pair of Tens)
+loudydrix: shows [Qc 9h] (a pair of Tens - lower kicker)
+mabeal1 collected 300 from pot
+loudydrix finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Th 8s 3d 5c Tc]
+Seat 1: loudydrix (button) (small blind) showed [Qc 9h] and lost with a pair of Tens
+Seat 2: mabeal1 (big blind) showed [Ah 2s] and won (300) with a pair of Tens
+
+
+

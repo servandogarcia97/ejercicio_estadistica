@@ -1,0 +1,1170 @@
+﻿PokerStars Hand #259589229347: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:08:27 CET [2026/02/04 11:08:27 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: MocosoPoker (500 in chips) 
+Seat 3: Kzzzx (500 in chips) 
+MocosoPoker: posts small blind 10
+Kzzzx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3s]
+mabeal1: folds 
+MocosoPoker: raises 20 to 40
+Kzzzx: calls 20
+*** FLOP *** [7c 3d 3h]
+MocosoPoker: checks 
+Kzzzx: bets 60
+MocosoPoker: folds 
+Uncalled bet (60) returned to Kzzzx
+Kzzzx collected 80 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c 3d 3h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MocosoPoker (small blind) folded on the Flop
+Seat 3: Kzzzx (big blind) collected (80)
+
+
+
+PokerStars Hand #259589232600: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:08:44 CET [2026/02/04 11:08:44 ET]
+Table '3972017000 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: MocosoPoker (460 in chips) 
+Seat 3: Kzzzx (540 in chips) 
+Kzzzx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4h]
+MocosoPoker: folds 
+Kzzzx: calls 10
+mabeal1: checks 
+*** FLOP *** [7d 3h 9d]
+Kzzzx: checks 
+mabeal1: checks 
+*** TURN *** [7d 3h 9d] [Qh]
+Kzzzx: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Kzzzx
+Kzzzx collected 40 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7d 3h 9d Qh]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: MocosoPoker (button) folded before Flop (didn't bet)
+Seat 3: Kzzzx (small blind) collected (40)
+
+
+
+PokerStars Hand #259589236058: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:09:03 CET [2026/02/04 11:09:03 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: MocosoPoker (460 in chips) 
+Seat 3: Kzzzx (560 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6c]
+Kzzzx: raises 20 to 40
+mabeal1: folds 
+MocosoPoker: calls 20
+*** FLOP *** [Qh 2d 7s]
+MocosoPoker: checks 
+Kzzzx: bets 20
+MocosoPoker: folds 
+Uncalled bet (20) returned to Kzzzx
+Kzzzx collected 90 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qh 2d 7s]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: MocosoPoker (big blind) folded on the Flop
+Seat 3: Kzzzx (button) collected (90)
+
+
+
+PokerStars Hand #259589238855: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:09:18 CET [2026/02/04 11:09:18 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: MocosoPoker (420 in chips) 
+Seat 3: Kzzzx (610 in chips) 
+MocosoPoker: posts small blind 10
+Kzzzx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ts]
+mabeal1: folds 
+MocosoPoker: folds 
+Uncalled bet (10) returned to Kzzzx
+Kzzzx collected 20 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MocosoPoker (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) collected (20)
+
+
+
+PokerStars Hand #259589239969: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:09:23 CET [2026/02/04 11:09:23 ET]
+Table '3972017000 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: MocosoPoker (410 in chips) 
+Seat 3: Kzzzx (620 in chips) 
+Kzzzx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 2h]
+MocosoPoker: raises 20 to 40
+Kzzzx: folds 
+mabeal1: calls 20
+*** FLOP *** [8d 9h 8h]
+mabeal1: checks 
+MocosoPoker: checks 
+*** TURN *** [8d 9h 8h] [9s]
+mabeal1: checks 
+MocosoPoker: checks 
+*** RIVER *** [8d 9h 8h 9s] [Ac]
+mabeal1: checks 
+MocosoPoker: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ks 2h] (two pair, Nines and Eights)
+MocosoPoker: shows [5d As] (two pair, Aces and Nines)
+MocosoPoker collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8d 9h 8h 9s Ac]
+Seat 1: mabeal1 (big blind) showed [Ks 2h] and lost with two pair, Nines and Eights
+Seat 2: MocosoPoker (button) showed [5d As] and won (90) with two pair, Aces and Nines
+Seat 3: Kzzzx (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589244807: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:09:49 CET [2026/02/04 11:09:49 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: MocosoPoker (460 in chips) 
+Seat 3: Kzzzx (610 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Jd]
+Kzzzx: folds 
+mabeal1: raises 30 to 50
+MocosoPoker: calls 30
+*** FLOP *** [Th Kc 2s]
+mabeal1: bets 40
+MocosoPoker: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Th Kc 2s]
+Seat 1: mabeal1 (small blind) collected (100)
+Seat 2: MocosoPoker (big blind) folded on the Flop
+Seat 3: Kzzzx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589249091: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:10:12 CET [2026/02/04 11:10:12 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: MocosoPoker (410 in chips) 
+Seat 3: Kzzzx (610 in chips) 
+MocosoPoker: posts small blind 10
+Kzzzx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Js]
+mabeal1: raises 20 to 40
+MocosoPoker: folds 
+Kzzzx: raises 570 to 610 and is all-in
+mabeal1: folds 
+Uncalled bet (570) returned to Kzzzx
+Kzzzx collected 90 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: MocosoPoker (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) collected (90)
+
+
+
+PokerStars Hand #259589250968: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:10:22 CET [2026/02/04 11:10:22 ET]
+Table '3972017000 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: MocosoPoker (400 in chips) 
+Seat 3: Kzzzx (660 in chips) 
+Kzzzx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 3h]
+MocosoPoker: folds 
+Kzzzx: calls 10
+mabeal1: checks 
+*** FLOP *** [2d Kc Qs]
+Kzzzx: checks 
+mabeal1: checks 
+*** TURN *** [2d Kc Qs] [2s]
+Kzzzx: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Kzzzx
+Kzzzx collected 40 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d Kc Qs 2s]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: MocosoPoker (button) folded before Flop (didn't bet)
+Seat 3: Kzzzx (small blind) collected (40)
+
+
+
+PokerStars Hand #259589253610: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:10:36 CET [2026/02/04 11:10:36 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: MocosoPoker (400 in chips) 
+Seat 3: Kzzzx (680 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 9d]
+Kzzzx: folds 
+mabeal1: raises 30 to 50
+MocosoPoker: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: MocosoPoker (big blind) folded before Flop
+Seat 3: Kzzzx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589255471: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:10:46 CET [2026/02/04 11:10:46 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: MocosoPoker (380 in chips) 
+Seat 3: Kzzzx (680 in chips) 
+MocosoPoker: posts small blind 10
+Kzzzx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 4h]
+mabeal1: raises 420 to 440 and is all-in
+MocosoPoker: folds 
+Kzzzx: folds 
+Uncalled bet (420) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: MocosoPoker (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589257544: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:10:57 CET [2026/02/04 11:10:57 ET]
+Table '3972017000 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: MocosoPoker (370 in chips) 
+Seat 3: Kzzzx (660 in chips) 
+Kzzzx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 9s]
+MocosoPoker: raises 20 to 40
+Kzzzx: calls 30
+mabeal1: raises 430 to 470 and is all-in
+MocosoPoker: folds 
+Kzzzx: folds 
+Uncalled bet (430) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: MocosoPoker (button) folded before Flop
+Seat 3: Kzzzx (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589259103: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:11:06 CET [2026/02/04 11:11:06 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: MocosoPoker (330 in chips) 
+Seat 3: Kzzzx (620 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 5s]
+Kzzzx: folds 
+mabeal1: raises 30 to 50
+MocosoPoker: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: MocosoPoker (big blind) folded before Flop
+Seat 3: Kzzzx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589261511: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:11:18 CET [2026/02/04 11:11:18 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: MocosoPoker (310 in chips) 
+Seat 3: Kzzzx (620 in chips) 
+MocosoPoker: posts small blind 10
+Kzzzx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 6s]
+mabeal1: folds 
+MocosoPoker: raises 20 to 40
+Kzzzx: calls 20
+*** FLOP *** [Qh As 3h]
+MocosoPoker: bets 40
+Kzzzx: folds 
+Uncalled bet (40) returned to MocosoPoker
+MocosoPoker collected 80 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh As 3h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MocosoPoker (small blind) collected (80)
+Seat 3: Kzzzx (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259589264789: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:11:36 CET [2026/02/04 11:11:36 ET]
+Table '3972017000 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: MocosoPoker (350 in chips) 
+Seat 3: Kzzzx (580 in chips) 
+Kzzzx: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7d]
+MocosoPoker: folds 
+Kzzzx: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: MocosoPoker (button) folded before Flop (didn't bet)
+Seat 3: Kzzzx (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589265719: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:11:40 CET [2026/02/04 11:11:40 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (585 in chips) 
+Seat 2: MocosoPoker (350 in chips) 
+Seat 3: Kzzzx (565 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9h]
+Kzzzx: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to MocosoPoker
+MocosoPoker collected 30 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: MocosoPoker (big blind) collected (30)
+Seat 3: Kzzzx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589267903: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:11:52 CET [2026/02/04 11:11:52 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: MocosoPoker (365 in chips) 
+Seat 3: Kzzzx (565 in chips) 
+MocosoPoker: posts small blind 15
+Kzzzx: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Qc]
+mabeal1: folds 
+MocosoPoker: raises 30 to 60
+Kzzzx: raises 505 to 565 and is all-in
+MocosoPoker: folds 
+Uncalled bet (505) returned to Kzzzx
+Kzzzx collected 120 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MocosoPoker (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) collected (120)
+
+
+
+PokerStars Hand #259589270434: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:12:05 CET [2026/02/04 11:12:05 ET]
+Table '3972017000 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: MocosoPoker (305 in chips) 
+Seat 3: Kzzzx (625 in chips) 
+Kzzzx: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 4d]
+MocosoPoker: raises 30 to 60
+Kzzzx: folds 
+mabeal1: raises 510 to 570 and is all-in
+MocosoPoker: calls 245 and is all-in
+Uncalled bet (265) returned to mabeal1
+*** FLOP *** [Kc Ah 6h]
+*** TURN *** [Kc Ah 6h] [9c]
+*** RIVER *** [Kc Ah 6h 9c] [5c]
+*** SHOW DOWN ***
+mabeal1: shows [4c 4d] (a pair of Fours)
+MocosoPoker: shows [Jh Jd] (a pair of Jacks)
+MocosoPoker collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Board [Kc Ah 6h 9c 5c]
+Seat 1: mabeal1 (big blind) showed [4c 4d] and lost with a pair of Fours
+Seat 2: MocosoPoker (button) showed [Jh Jd] and won (625) with a pair of Jacks
+Seat 3: Kzzzx (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589273389: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:12:21 CET [2026/02/04 11:12:21 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (265 in chips) 
+Seat 2: MocosoPoker (625 in chips) 
+Seat 3: Kzzzx (610 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Jc]
+Kzzzx: calls 30
+mabeal1: folds 
+MocosoPoker: checks 
+*** FLOP *** [7c Kh 5h]
+MocosoPoker: checks 
+Kzzzx: checks 
+*** TURN *** [7c Kh 5h] [3h]
+MocosoPoker: checks 
+Kzzzx: bets 30
+MocosoPoker: calls 30
+*** RIVER *** [7c Kh 5h 3h] [8d]
+MocosoPoker: checks 
+Kzzzx: bets 68
+MocosoPoker: calls 68
+*** SHOW DOWN ***
+Kzzzx: shows [Ts Kc] (a pair of Kings)
+MocosoPoker: mucks hand 
+Kzzzx collected 271 from pot
+*** SUMMARY ***
+Total pot 271 | Rake 0 
+Board [7c Kh 5h 3h 8d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: MocosoPoker (big blind) mucked [5s Ah]
+Seat 3: Kzzzx (button) showed [Ts Kc] and won (271) with a pair of Kings
+
+
+
+PokerStars Hand #259589280608: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:12:58 CET [2026/02/04 11:12:58 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (250 in chips) 
+Seat 2: MocosoPoker (497 in chips) 
+Seat 3: Kzzzx (753 in chips) 
+MocosoPoker: posts small blind 15
+Kzzzx: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 9h]
+mabeal1: raises 220 to 250 and is all-in
+MocosoPoker: folds 
+Kzzzx: folds 
+Uncalled bet (220) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (button) collected (75)
+Seat 2: MocosoPoker (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589282476: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:13:09 CET [2026/02/04 11:13:09 ET]
+Table '3972017000 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (295 in chips) 
+Seat 2: MocosoPoker (482 in chips) 
+Seat 3: Kzzzx (723 in chips) 
+Kzzzx: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Ac]
+MocosoPoker: raises 452 to 482 and is all-in
+Kzzzx: folds 
+mabeal1: calls 265 and is all-in
+Uncalled bet (187) returned to MocosoPoker
+*** FLOP *** [Qh 2d Ks]
+*** TURN *** [Qh 2d Ks] [5d]
+*** RIVER *** [Qh 2d Ks 5d] [9d]
+*** SHOW DOWN ***
+mabeal1: shows [Ad Ac] (a pair of Aces)
+MocosoPoker: shows [4h 4d] (a pair of Fours)
+mabeal1 collected 605 from pot
+*** SUMMARY ***
+Total pot 605 | Rake 0 
+Board [Qh 2d Ks 5d 9d]
+Seat 1: mabeal1 (big blind) showed [Ad Ac] and won (605) with a pair of Aces
+Seat 2: MocosoPoker (button) showed [4h 4d] and lost with a pair of Fours
+Seat 3: Kzzzx (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589284901: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:13:21 CET [2026/02/04 11:13:21 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (605 in chips) 
+Seat 2: MocosoPoker (187 in chips) 
+Seat 3: Kzzzx (708 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Ad]
+Kzzzx: folds 
+mabeal1: raises 575 to 605 and is all-in
+MocosoPoker: folds 
+Uncalled bet (575) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: MocosoPoker (big blind) folded before Flop
+Seat 3: Kzzzx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589286583: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:13:30 CET [2026/02/04 11:13:30 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 2: MocosoPoker (157 in chips) 
+Seat 3: Kzzzx (708 in chips) 
+MocosoPoker: posts small blind 15
+Kzzzx: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ac]
+mabeal1: raises 30 to 60
+MocosoPoker: raises 97 to 157 and is all-in
+Kzzzx: folds 
+mabeal1: calls 97
+*** FLOP *** [7h Ts 4s]
+*** TURN *** [7h Ts 4s] [3h]
+*** RIVER *** [7h Ts 4s 3h] [4c]
+*** SHOW DOWN ***
+MocosoPoker: shows [5c 5d] (two pair, Fives and Fours)
+mabeal1: shows [5h Ac] (a pair of Fours)
+MocosoPoker collected 344 from pot
+*** SUMMARY ***
+Total pot 344 | Rake 0 
+Board [7h Ts 4s 3h 4c]
+Seat 1: mabeal1 (button) showed [5h Ac] and lost with a pair of Fours
+Seat 2: MocosoPoker (small blind) showed [5c 5d] and won (344) with two pair, Fives and Fours
+Seat 3: Kzzzx (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589289917: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:13:48 CET [2026/02/04 11:13:48 ET]
+Table '3972017000 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (478 in chips) 
+Seat 2: MocosoPoker (344 in chips) 
+Seat 3: Kzzzx (678 in chips) 
+Kzzzx: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 9s]
+MocosoPoker: folds 
+Kzzzx: calls 15
+mabeal1: checks 
+*** FLOP *** [Qs 5s Kc]
+Kzzzx: checks 
+mabeal1: bets 30
+Kzzzx: calls 30
+*** TURN *** [Qs 5s Kc] [Qc]
+Kzzzx: checks 
+mabeal1: checks 
+*** RIVER *** [Qs 5s Kc Qc] [9c]
+Kzzzx: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Kzzzx
+Kzzzx collected 120 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs 5s Kc Qc 9c]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: MocosoPoker (button) folded before Flop (didn't bet)
+Seat 3: Kzzzx (small blind) collected (120)
+
+
+
+PokerStars Hand #259589295508: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:14:18 CET [2026/02/04 11:14:18 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (418 in chips) 
+Seat 2: MocosoPoker (344 in chips) 
+Seat 3: Kzzzx (738 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4d]
+Kzzzx: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to MocosoPoker
+MocosoPoker collected 30 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: MocosoPoker (big blind) collected (30)
+Seat 3: Kzzzx (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589297270: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:14:27 CET [2026/02/04 11:14:27 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (403 in chips) 
+Seat 2: MocosoPoker (359 in chips) 
+Seat 3: Kzzzx (738 in chips) 
+MocosoPoker: posts small blind 15
+Kzzzx: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Qs]
+mabeal1: folds 
+MocosoPoker: raises 30 to 60
+Kzzzx: calls 30
+*** FLOP *** [9h Jc Kc]
+MocosoPoker: bets 60
+Kzzzx: calls 60
+*** TURN *** [9h Jc Kc] [3d]
+MocosoPoker: bets 239 and is all-in
+Kzzzx: calls 239
+*** RIVER *** [9h Jc Kc 3d] [6s]
+*** SHOW DOWN ***
+MocosoPoker: shows [8c 9s] (a pair of Nines)
+Kzzzx: shows [7c Ks] (a pair of Kings)
+Kzzzx collected 718 from pot
+MocosoPoker finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 718 | Rake 0 
+Board [9h Jc Kc 3d 6s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MocosoPoker (small blind) showed [8c 9s] and lost with a pair of Nines
+Seat 3: Kzzzx (big blind) showed [7c Ks] and won (718) with a pair of Kings
+
+
+
+PokerStars Hand #259589303225: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:14:59 CET [2026/02/04 11:14:59 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (403 in chips) 
+Seat 3: Kzzzx (1097 in chips) 
+Kzzzx: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Qh]
+Kzzzx: calls 20
+mabeal1: checks 
+*** FLOP *** [2c 4d 2h]
+mabeal1: checks 
+Kzzzx: bets 80
+mabeal1: calls 80
+*** TURN *** [2c 4d 2h] [Jc]
+mabeal1: checks 
+Kzzzx: bets 280
+mabeal1: raises 3 to 283 and is all-in
+Kzzzx: calls 3
+*** RIVER *** [2c 4d 2h Jc] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [2d Qh] (three of a kind, Deuces)
+Kzzzx: shows [3s 4c] (two pair, Fours and Deuces)
+mabeal1 collected 806 from pot
+*** SUMMARY ***
+Total pot 806 | Rake 0 
+Board [2c 4d 2h Jc 8h]
+Seat 1: mabeal1 (big blind) showed [2d Qh] and won (806) with three of a kind, Deuces
+Seat 3: Kzzzx (button) (small blind) showed [3s 4c] and lost with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #259589307572: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:15:22 CET [2026/02/04 11:15:22 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (806 in chips) 
+Seat 3: Kzzzx (694 in chips) 
+mabeal1: posts small blind 20
+Kzzzx: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9d]
+mabeal1: calls 20
+Kzzzx: raises 654 to 694 and is all-in
+mabeal1: folds 
+Uncalled bet (654) returned to Kzzzx
+Kzzzx collected 80 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) collected (80)
+
+
+
+PokerStars Hand #259589309248: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:15:31 CET [2026/02/04 11:15:31 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (766 in chips) 
+Seat 3: Kzzzx (734 in chips) 
+Kzzzx: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6s]
+Kzzzx: raises 694 to 734 and is all-in
+mabeal1: folds 
+Uncalled bet (694) returned to Kzzzx
+Kzzzx collected 80 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: Kzzzx (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259589310364: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:15:36 CET [2026/02/04 11:15:36 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (726 in chips) 
+Seat 3: Kzzzx (774 in chips) 
+mabeal1: posts small blind 20
+Kzzzx: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 6d]
+mabeal1: calls 20
+Kzzzx: checks 
+*** FLOP *** [3c 5c Ad]
+Kzzzx: checks 
+mabeal1: bets 40
+Kzzzx: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3c 5c Ad]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: Kzzzx (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259589312521: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:15:48 CET [2026/02/04 11:15:48 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (766 in chips) 
+Seat 3: Kzzzx (734 in chips) 
+Kzzzx: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9h]
+Kzzzx: calls 20
+mabeal1: checks 
+*** FLOP *** [Ac Td 8h]
+mabeal1: checks 
+Kzzzx: bets 40
+mabeal1: calls 40
+*** TURN *** [Ac Td 8h] [5h]
+mabeal1: checks 
+Kzzzx: bets 80
+mabeal1: calls 80
+*** RIVER *** [Ac Td 8h 5h] [7d]
+mabeal1: checks 
+Kzzzx: checks 
+*** SHOW DOWN ***
+mabeal1: shows [8d 9h] (a pair of Eights)
+Kzzzx: mucks hand 
+mabeal1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ac Td 8h 5h 7d]
+Seat 1: mabeal1 (big blind) showed [8d 9h] and won (320) with a pair of Eights
+Seat 3: Kzzzx (button) (small blind) mucked [Jh 5d]
+
+
+
+PokerStars Hand #259589315869: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:16:05 CET [2026/02/04 11:16:05 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (926 in chips) 
+Seat 3: Kzzzx (574 in chips) 
+mabeal1: posts small blind 20
+Kzzzx: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 5d]
+mabeal1: raises 886 to 926 and is all-in
+Kzzzx: folds 
+Uncalled bet (886) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: Kzzzx (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589318659: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:16:20 CET [2026/02/04 11:16:20 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (966 in chips) 
+Seat 3: Kzzzx (534 in chips) 
+Kzzzx: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qs]
+Kzzzx: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: Kzzzx (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589319520: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:16:24 CET [2026/02/04 11:16:24 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (986 in chips) 
+Seat 3: Kzzzx (514 in chips) 
+mabeal1: posts small blind 20
+Kzzzx: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 8s]
+mabeal1: calls 20
+Kzzzx: raises 474 to 514 and is all-in
+mabeal1: folds 
+Uncalled bet (474) returned to Kzzzx
+Kzzzx collected 80 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) collected (80)
+
+
+
+PokerStars Hand #259589321163: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:16:33 CET [2026/02/04 11:16:33 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (946 in chips) 
+Seat 3: Kzzzx (554 in chips) 
+Kzzzx: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9c]
+Kzzzx: calls 20
+mabeal1: checks 
+*** FLOP *** [Qc 4h 8d]
+mabeal1: checks 
+Kzzzx: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Kzzzx
+Kzzzx collected 80 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 4h 8d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: Kzzzx (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259589323156: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:16:43 CET [2026/02/04 11:16:43 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (906 in chips) 
+Seat 3: Kzzzx (594 in chips) 
+mabeal1: posts small blind 20
+Kzzzx: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qd]
+mabeal1: calls 20
+Kzzzx: raises 554 to 594 and is all-in
+mabeal1: folds 
+Uncalled bet (554) returned to Kzzzx
+Kzzzx collected 80 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) collected (80)
+
+
+
+PokerStars Hand #259589324420: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:16:50 CET [2026/02/04 11:16:50 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (866 in chips) 
+Seat 3: Kzzzx (634 in chips) 
+Kzzzx: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Qc]
+Kzzzx: calls 20
+mabeal1: checks 
+*** FLOP *** [9d 5d Jc]
+mabeal1: checks 
+Kzzzx: checks 
+*** TURN *** [9d 5d Jc] [5h]
+mabeal1: checks 
+Kzzzx: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Kzzzx
+Kzzzx collected 80 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 5d Jc 5h]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 3: Kzzzx (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259589327685: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:17:08 CET [2026/02/04 11:17:08 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (826 in chips) 
+Seat 3: Kzzzx (674 in chips) 
+mabeal1: posts small blind 20
+Kzzzx: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Qc]
+mabeal1: raises 40 to 80
+Kzzzx: raises 594 to 674 and is all-in
+mabeal1: folds 
+Uncalled bet (594) returned to Kzzzx
+Kzzzx collected 160 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) collected (160)
+
+
+
+PokerStars Hand #259589329310: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:17:16 CET [2026/02/04 11:17:16 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (746 in chips) 
+Seat 3: Kzzzx (754 in chips) 
+Kzzzx: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3s]
+Kzzzx: calls 20
+mabeal1: raises 706 to 746 and is all-in
+Kzzzx: folds 
+Uncalled bet (706) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: Kzzzx (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589330485: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:17:22 CET [2026/02/04 11:17:22 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (786 in chips) 
+Seat 3: Kzzzx (714 in chips) 
+mabeal1: posts small blind 20
+Kzzzx: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Js]
+mabeal1: calls 20
+Kzzzx: checks 
+*** FLOP *** [4c 9h Kd]
+Kzzzx: checks 
+mabeal1: checks 
+*** TURN *** [4c 9h Kd] [9s]
+Kzzzx: bets 40
+mabeal1: calls 40
+*** RIVER *** [4c 9h Kd 9s] [8c]
+Kzzzx: checks 
+mabeal1: bets 120
+Kzzzx: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c 9h Kd 9s 8c]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: Kzzzx (big blind) folded on the River
+
+
+
+PokerStars Hand #259589334889: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:17:45 CET [2026/02/04 11:17:45 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (866 in chips) 
+Seat 3: Kzzzx (634 in chips) 
+Kzzzx: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9d]
+Kzzzx: calls 30
+mabeal1: checks 
+*** FLOP *** [2s Kh 7c]
+mabeal1: checks 
+Kzzzx: bets 60
+mabeal1: raises 60 to 120
+Kzzzx: raises 454 to 574 and is all-in
+mabeal1: folds 
+Uncalled bet (454) returned to Kzzzx
+Kzzzx collected 360 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2s Kh 7c]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: Kzzzx (button) (small blind) collected (360)
+
+
+
+PokerStars Hand #259589337218: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:17:57 CET [2026/02/04 11:17:57 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (686 in chips) 
+Seat 3: Kzzzx (814 in chips) 
+mabeal1: posts small blind 30
+Kzzzx: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 9d]
+mabeal1: calls 30
+Kzzzx: checks 
+*** FLOP *** [8s Td Ad]
+Kzzzx: checks 
+mabeal1: bets 60
+Kzzzx: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s Td Ad]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: Kzzzx (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259589340392: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:18:14 CET [2026/02/04 11:18:14 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (746 in chips) 
+Seat 3: Kzzzx (754 in chips) 
+Kzzzx: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6c]
+Kzzzx: calls 30
+mabeal1: checks 
+*** FLOP *** [2d 2c 3s]
+mabeal1: checks 
+Kzzzx: checks 
+*** TURN *** [2d 2c 3s] [5s]
+mabeal1: bets 60
+Kzzzx: calls 60
+*** RIVER *** [2d 2c 3s 5s] [Ts]
+mabeal1: bets 180
+Kzzzx: calls 180
+*** SHOW DOWN ***
+mabeal1: shows [9s 6c] (a pair of Deuces)
+Kzzzx: shows [Qc Td] (two pair, Tens and Deuces)
+Kzzzx collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [2d 2c 3s 5s Ts]
+Seat 1: mabeal1 (big blind) showed [9s 6c] and lost with a pair of Deuces
+Seat 3: Kzzzx (button) (small blind) showed [Qc Td] and won (600) with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #259589343318: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:18:30 CET [2026/02/04 11:18:30 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (446 in chips) 
+Seat 3: Kzzzx (1054 in chips) 
+mabeal1: posts small blind 30
+Kzzzx: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 4s]
+mabeal1: folds 
+Uncalled bet (30) returned to Kzzzx
+Kzzzx collected 60 from pot
+Kzzzx: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Kzzzx (big blind) collected (60)
+
+
+
+PokerStars Hand #259589344568: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:18:37 CET [2026/02/04 11:18:37 ET]
+Table '3972017000 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (416 in chips) 
+Seat 3: Kzzzx (1084 in chips) 
+Kzzzx: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 6h]
+Kzzzx: calls 30
+mabeal1: checks 
+*** FLOP *** [Ks 2s 6c]
+mabeal1: checks 
+Kzzzx: bets 60
+mabeal1: calls 60
+*** TURN *** [Ks 2s 6c] [2d]
+mabeal1: checks 
+Kzzzx: bets 180
+mabeal1: raises 116 to 296 and is all-in
+Kzzzx: folds 
+Uncalled bet (116) returned to mabeal1
+mabeal1 collected 600 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Ks 2s 6c 2d]
+Seat 1: mabeal1 (big blind) collected (600)
+Seat 3: Kzzzx (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259589348143: Tournament #3972017000, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:18:55 CET [2026/02/04 11:18:55 ET]
+Table '3972017000 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (716 in chips) 
+Seat 3: Kzzzx (784 in chips) 
+mabeal1: posts small blind 30
+Kzzzx: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Ah]
+mabeal1: calls 30
+Kzzzx: raises 724 to 784 and is all-in
+mabeal1: calls 656 and is all-in
+Uncalled bet (68) returned to Kzzzx
+*** FLOP *** [8h 2d 9c]
+*** TURN *** [8h 2d 9c] [Th]
+*** RIVER *** [8h 2d 9c Th] [5s]
+*** SHOW DOWN ***
+Kzzzx: shows [Kh 8s] (a pair of Eights)
+mabeal1: shows [Kd Ah] (high card Ace)
+Kzzzx collected 1432 from pot
+mabeal1 finished the tournament in 2nd place
+Kzzzx wins the tournament and receives €5.00 - congratulations!
+*** SUMMARY ***
+Total pot 1432 | Rake 0 
+Board [8h 2d 9c Th 5s]
+Seat 1: mabeal1 (button) (small blind) showed [Kd Ah] and lost with high card Ace
+Seat 3: Kzzzx (big blind) showed [Kh 8s] and won (1432) with a pair of Eights
+
+
+

@@ -1,0 +1,550 @@
+﻿PokerStars Hand #259595541891: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:33:29 CET [2026/02/04 18:33:29 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: NunesOpato (500 in chips) 
+mabeal1: posts small blind 10
+NunesOpato: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qh]
+tomashenriques: calls 20
+mabeal1: raises 40 to 60
+NunesOpato: folds 
+tomashenriques: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tomashenriques (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: NunesOpato (big blind) folded before Flop
+
+
+
+PokerStars Hand #259595545819: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:33:47 CET [2026/02/04 18:33:47 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (480 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: NunesOpato (480 in chips) 
+NunesOpato: posts small blind 10
+tomashenriques: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ks]
+mabeal1: raises 20 to 40
+NunesOpato: folds 
+tomashenriques: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: tomashenriques (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: NunesOpato (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595547945: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:33:57 CET [2026/02/04 18:33:57 ET]
+Table '3972155371 1' 3-max Seat #3 is the button
+Seat 1: tomashenriques (460 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: NunesOpato (470 in chips) 
+tomashenriques: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 6s]
+NunesOpato: raises 20 to 40
+tomashenriques: calls 30
+mabeal1: folds 
+*** FLOP *** [Jd 3c 3s]
+tomashenriques: bets 20
+NunesOpato: calls 20
+*** TURN *** [Jd 3c 3s] [Kc]
+tomashenriques: bets 20
+NunesOpato: calls 20
+*** RIVER *** [Jd 3c 3s Kc] [4s]
+tomashenriques: bets 60
+NunesOpato: calls 60
+*** SHOW DOWN ***
+tomashenriques: shows [As Jc] (two pair, Jacks and Threes)
+NunesOpato: shows [Kh 9d] (two pair, Kings and Threes)
+NunesOpato collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Jd 3c 3s Kc 4s]
+Seat 1: tomashenriques (small blind) showed [As Jc] and lost with two pair, Jacks and Threes
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: NunesOpato (button) showed [Kh 9d] and won (300) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #259595554189: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:34:26 CET [2026/02/04 18:34:26 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (320 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: NunesOpato (630 in chips) 
+mabeal1: posts small blind 10
+NunesOpato: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Kc]
+tomashenriques: calls 20
+mabeal1: calls 10
+NunesOpato: raises 610 to 630 and is all-in
+tomashenriques: folds 
+mabeal1: folds 
+Uncalled bet (610) returned to NunesOpato
+NunesOpato collected 60 from pot
+NunesOpato: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tomashenriques (button) folded before Flop
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: NunesOpato (big blind) collected (60)
+
+
+
+PokerStars Hand #259595558595: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:34:47 CET [2026/02/04 18:34:47 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (300 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: NunesOpato (670 in chips) 
+NunesOpato: posts small blind 10
+tomashenriques: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Qd]
+mabeal1: raises 20 to 40
+NunesOpato: calls 30
+tomashenriques: calls 20
+*** FLOP *** [Jd 3d 8h]
+NunesOpato: checks 
+tomashenriques: checks 
+mabeal1: bets 60
+NunesOpato: raises 120 to 180
+tomashenriques: folds 
+mabeal1: raises 310 to 490 and is all-in
+NunesOpato: calls 310
+*** TURN *** [Jd 3d 8h] [8d]
+*** RIVER *** [Jd 3d 8h 8d] [4h]
+*** SHOW DOWN ***
+NunesOpato: shows [Kh Jc] (two pair, Jacks and Eights)
+mabeal1: shows [Td Qd] (a flush, Queen high)
+mabeal1 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [Jd 3d 8h 8d 4h]
+Seat 1: tomashenriques (big blind) folded on the Flop
+Seat 2: mabeal1 (button) showed [Td Qd] and won (1100) with a flush, Queen high
+Seat 3: NunesOpato (small blind) showed [Kh Jc] and lost with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #259595566303: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:35:23 CET [2026/02/04 18:35:23 ET]
+Table '3972155371 1' 3-max Seat #3 is the button
+Seat 1: tomashenriques (260 in chips) 
+Seat 2: mabeal1 (1100 in chips) 
+Seat 3: NunesOpato (140 in chips) 
+tomashenriques: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Kh]
+NunesOpato: raises 120 to 140 and is all-in
+tomashenriques: raises 120 to 260 and is all-in
+mabeal1: folds 
+Uncalled bet (120) returned to tomashenriques
+*** FLOP *** [4h 2d Ah]
+*** TURN *** [4h 2d Ah] [3h]
+*** RIVER *** [4h 2d Ah 3h] [Tc]
+*** SHOW DOWN ***
+tomashenriques: shows [9c Ad] (a pair of Aces)
+NunesOpato: shows [Kd 9s] (high card Ace)
+tomashenriques collected 300 from pot
+NunesOpato finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [4h 2d Ah 3h Tc]
+Seat 1: tomashenriques (small blind) showed [9c Ad] and won (300) with a pair of Aces
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: NunesOpato (button) showed [Kd 9s] and lost with high card Ace
+
+
+
+PokerStars Hand #259595570112: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:35:41 CET [2026/02/04 18:35:41 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (420 in chips) 
+Seat 2: mabeal1 (1080 in chips) 
+mabeal1: posts small blind 15
+tomashenriques: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 7d]
+mabeal1: calls 15
+tomashenriques: checks 
+*** FLOP *** [As Qs 4h]
+tomashenriques: checks 
+mabeal1: bets 30
+tomashenriques: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As Qs 4h]
+Seat 1: tomashenriques (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259595572951: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:35:54 CET [2026/02/04 18:35:54 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (390 in chips) 
+Seat 2: mabeal1 (1110 in chips) 
+tomashenriques: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6c]
+tomashenriques: calls 15
+mabeal1: raises 1080 to 1110 and is all-in
+tomashenriques: folds 
+Uncalled bet (1080) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tomashenriques (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259595577730: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:36:16 CET [2026/02/04 18:36:16 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+mabeal1: posts small blind 15
+tomashenriques: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 7s]
+mabeal1: raises 1110 to 1140 and is all-in
+tomashenriques: folds 
+Uncalled bet (1110) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tomashenriques (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259595580548: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:36:29 CET [2026/02/04 18:36:29 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (330 in chips) 
+Seat 2: mabeal1 (1170 in chips) 
+tomashenriques: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Qs]
+tomashenriques: calls 15
+mabeal1: raises 60 to 90
+tomashenriques: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tomashenriques (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259595583394: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:36:43 CET [2026/02/04 18:36:43 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (300 in chips) 
+Seat 2: mabeal1 (1200 in chips) 
+mabeal1: posts small blind 15
+tomashenriques: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Jc]
+mabeal1: calls 15
+tomashenriques: checks 
+*** FLOP *** [5h Th 6h]
+tomashenriques: checks 
+mabeal1: checks 
+*** TURN *** [5h Th 6h] [2h]
+tomashenriques: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to tomashenriques
+tomashenriques collected 60 from pot
+tomashenriques: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h Th 6h 2h]
+Seat 1: tomashenriques (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259595587336: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:37:01 CET [2026/02/04 18:37:01 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (330 in chips) 
+Seat 2: mabeal1 (1170 in chips) 
+tomashenriques: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9s]
+tomashenriques: raises 300 to 330 and is all-in
+mabeal1: folds 
+Uncalled bet (300) returned to tomashenriques
+tomashenriques collected 60 from pot
+tomashenriques: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tomashenriques (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259595589020: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:37:09 CET [2026/02/04 18:37:09 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+mabeal1: posts small blind 15
+tomashenriques: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 2c]
+mabeal1: calls 15
+tomashenriques: checks 
+*** FLOP *** [Ks 8c Kh]
+tomashenriques: checks 
+mabeal1: bets 30
+tomashenriques: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks 8c Kh]
+Seat 1: tomashenriques (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259595592402: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:37:25 CET [2026/02/04 18:37:25 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (330 in chips) 
+Seat 2: mabeal1 (1170 in chips) 
+tomashenriques: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4d]
+tomashenriques: raises 300 to 330 and is all-in
+mabeal1: folds 
+Uncalled bet (300) returned to tomashenriques
+tomashenriques collected 60 from pot
+tomashenriques: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tomashenriques (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259595594675: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:37:35 CET [2026/02/04 18:37:35 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+mabeal1: posts small blind 20
+tomashenriques: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8c]
+mabeal1: folds 
+Uncalled bet (20) returned to tomashenriques
+tomashenriques collected 40 from pot
+tomashenriques: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: tomashenriques (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595595740: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:37:40 CET [2026/02/04 18:37:40 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (380 in chips) 
+Seat 2: mabeal1 (1120 in chips) 
+tomashenriques: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 2s]
+tomashenriques: calls 20
+mabeal1: checks 
+*** FLOP *** [4c 8c 6h]
+mabeal1: checks 
+tomashenriques: checks 
+*** TURN *** [4c 8c 6h] [Jh]
+mabeal1: bets 40
+tomashenriques: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c 8c 6h Jh]
+Seat 1: tomashenriques (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259595598650: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:37:54 CET [2026/02/04 18:37:54 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (340 in chips) 
+Seat 2: mabeal1 (1160 in chips) 
+mabeal1: posts small blind 20
+tomashenriques: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5s]
+mabeal1: calls 20
+tomashenriques: raises 300 to 340 and is all-in
+mabeal1: folds 
+Uncalled bet (300) returned to tomashenriques
+tomashenriques collected 80 from pot
+tomashenriques: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tomashenriques (big blind) collected (80)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595600853: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:38:04 CET [2026/02/04 18:38:04 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (380 in chips) 
+Seat 2: mabeal1 (1120 in chips) 
+tomashenriques: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Td]
+tomashenriques: raises 340 to 380 and is all-in
+mabeal1: folds 
+Uncalled bet (340) returned to tomashenriques
+tomashenriques collected 80 from pot
+tomashenriques: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tomashenriques (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259595602101: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:38:10 CET [2026/02/04 18:38:10 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (420 in chips) 
+Seat 2: mabeal1 (1080 in chips) 
+mabeal1: posts small blind 20
+tomashenriques: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4d]
+mabeal1: raises 1040 to 1080 and is all-in
+tomashenriques: folds 
+Uncalled bet (1040) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tomashenriques (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259595603324: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:38:16 CET [2026/02/04 18:38:16 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (380 in chips) 
+Seat 2: mabeal1 (1120 in chips) 
+tomashenriques: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 7h]
+tomashenriques: raises 340 to 380 and is all-in
+mabeal1: folds 
+Uncalled bet (340) returned to tomashenriques
+tomashenriques collected 80 from pot
+tomashenriques: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tomashenriques (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259595605316: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:38:25 CET [2026/02/04 18:38:25 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (420 in chips) 
+Seat 2: mabeal1 (1080 in chips) 
+mabeal1: posts small blind 20
+tomashenriques: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 6c]
+mabeal1: calls 20
+tomashenriques: raises 380 to 420 and is all-in
+mabeal1: folds 
+Uncalled bet (380) returned to tomashenriques
+tomashenriques collected 80 from pot
+tomashenriques: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tomashenriques (big blind) collected (80)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595606981: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:38:32 CET [2026/02/04 18:38:32 ET]
+Table '3972155371 1' 3-max Seat #1 is the button
+Seat 1: tomashenriques (460 in chips) 
+Seat 2: mabeal1 (1040 in chips) 
+tomashenriques: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Kc]
+tomashenriques: raises 420 to 460 and is all-in
+mabeal1: calls 420
+*** FLOP *** [4d Js 5d]
+*** TURN *** [4d Js 5d] [9d]
+*** RIVER *** [4d Js 5d 9d] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [Jc Kc] (a pair of Jacks)
+tomashenriques: shows [Ad Kd] (a flush, Ace high)
+tomashenriques collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [4d Js 5d 9d 2h]
+Seat 1: tomashenriques (button) (small blind) showed [Ad Kd] and won (920) with a flush, Ace high
+Seat 2: mabeal1 (big blind) showed [Jc Kc] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259595609512: Tournament #3972155371, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 0:38:45 CET [2026/02/04 18:38:45 ET]
+Table '3972155371 1' 3-max Seat #2 is the button
+Seat 1: tomashenriques (920 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+mabeal1: posts small blind 20
+tomashenriques: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 7h]
+mabeal1: raises 540 to 580 and is all-in
+tomashenriques: calls 540
+*** FLOP *** [Jd 3c Js]
+*** TURN *** [Jd 3c Js] [Ad]
+*** RIVER *** [Jd 3c Js Ad] [6c]
+*** SHOW DOWN ***
+tomashenriques: shows [Kc Ac] (two pair, Aces and Jacks)
+mabeal1: shows [7s 7h] (two pair, Jacks and Sevens)
+tomashenriques collected 1160 from pot
+mabeal1 finished the tournament in 2nd place
+tomashenriques wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [Jd 3c Js Ad 6c]
+Seat 1: tomashenriques (big blind) showed [Kc Ac] and won (1160) with two pair, Aces and Jacks
+Seat 2: mabeal1 (button) (small blind) showed [7s 7h] and lost with two pair, Jacks and Sevens
+
+
+

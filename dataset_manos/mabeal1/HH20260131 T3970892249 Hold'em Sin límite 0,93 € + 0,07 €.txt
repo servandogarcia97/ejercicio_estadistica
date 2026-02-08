@@ -1,0 +1,272 @@
+﻿PokerStars Hand #259538746459: Tournament #3970892249, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:01:01 CET [2026/01/31 15:01:01 ET]
+Table '3970892249 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: yunapok (500 in chips) 
+Seat 3: Roygoode31 (500 in chips) 
+yunapok: posts small blind 10
+Roygoode31: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 7s]
+mabeal1: raises 20 to 40
+yunapok: calls 30
+Roygoode31: calls 20
+*** FLOP *** [Kd Kh 5d]
+yunapok: checks 
+Roygoode31: checks 
+mabeal1: checks 
+*** TURN *** [Kd Kh 5d] [9s]
+yunapok: checks 
+Roygoode31: bets 60
+mabeal1: folds 
+yunapok: folds 
+Uncalled bet (60) returned to Roygoode31
+Roygoode31 collected 120 from pot
+Roygoode31: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd Kh 5d 9s]
+Seat 1: mabeal1 (button) folded on the Turn
+Seat 2: yunapok (small blind) folded on the Turn
+Seat 3: Roygoode31 (big blind) collected (120)
+
+
+
+PokerStars Hand #259538752117: Tournament #3970892249, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:01:30 CET [2026/01/31 15:01:30 ET]
+Table '3970892249 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: yunapok (460 in chips) 
+Seat 3: Roygoode31 (580 in chips) 
+Roygoode31: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 4d]
+yunapok: folds 
+Roygoode31: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: yunapok (button) folded before Flop (didn't bet)
+Seat 3: Roygoode31 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259538753804: Tournament #3970892249, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:01:37 CET [2026/01/31 15:01:37 ET]
+Table '3970892249 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: yunapok (460 in chips) 
+Seat 3: Roygoode31 (570 in chips) 
+mabeal1: posts small blind 10
+yunapok: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Js]
+Roygoode31: raises 20 to 40
+mabeal1: calls 30
+yunapok: calls 20
+*** FLOP *** [5h 4h 9c]
+mabeal1: checks 
+yunapok: checks 
+Roygoode31: checks 
+*** TURN *** [5h 4h 9c] [Ah]
+mabeal1: checks 
+yunapok: checks 
+Roygoode31: bets 79
+mabeal1: folds 
+yunapok: folds 
+Uncalled bet (79) returned to Roygoode31
+Roygoode31 collected 120 from pot
+Roygoode31: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h 4h 9c Ah]
+Seat 1: mabeal1 (small blind) folded on the Turn
+Seat 2: yunapok (big blind) folded on the Turn
+Seat 3: Roygoode31 (button) collected (120)
+
+
+
+PokerStars Hand #259538760834: Tournament #3970892249, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:02:10 CET [2026/01/31 15:02:10 ET]
+Table '3970892249 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: yunapok (420 in chips) 
+Seat 3: Roygoode31 (650 in chips) 
+yunapok: posts small blind 10
+Roygoode31: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ah]
+mabeal1: raises 20 to 40
+yunapok: folds 
+Roygoode31: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: yunapok (small blind) folded before Flop
+Seat 3: Roygoode31 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259538762798: Tournament #3970892249, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:02:17 CET [2026/01/31 15:02:17 ET]
+Table '3970892249 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: yunapok (410 in chips) 
+Seat 3: Roygoode31 (630 in chips) 
+Roygoode31: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 5d]
+yunapok: folds 
+Roygoode31: calls 10
+mabeal1: checks 
+*** FLOP *** [8h 4h 2h]
+Roygoode31: checks 
+mabeal1: checks 
+*** TURN *** [8h 4h 2h] [Ac]
+Roygoode31: bets 20
+mabeal1: raises 60 to 80
+Roygoode31: calls 60
+*** RIVER *** [8h 4h 2h Ac] [8c]
+Roygoode31: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Roygoode31: shows [9d As] (two pair, Aces and Eights)
+mabeal1: mucks hand 
+Roygoode31 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [8h 4h 2h Ac 8c]
+Seat 1: mabeal1 (big blind) mucked [Th 5d]
+Seat 2: yunapok (button) folded before Flop (didn't bet)
+Seat 3: Roygoode31 (small blind) showed [9d As] and won (200) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #259538770216: Tournament #3970892249, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:02:51 CET [2026/01/31 15:02:51 ET]
+Table '3970892249 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (360 in chips) 
+Seat 2: yunapok (410 in chips) 
+Seat 3: Roygoode31 (730 in chips) 
+mabeal1: posts small blind 10
+yunapok: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Kc]
+Roygoode31: folds 
+mabeal1: raises 20 to 40
+yunapok: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: yunapok (big blind) folded before Flop
+Seat 3: Roygoode31 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259538774022: Tournament #3970892249, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:03:09 CET [2026/01/31 15:03:09 ET]
+Table '3970892249 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: yunapok (390 in chips) 
+Seat 3: Roygoode31 (730 in chips) 
+yunapok: posts small blind 10
+Roygoode31: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 7s]
+mabeal1: folds 
+yunapok: raises 60 to 80
+Roygoode31: calls 60
+*** FLOP *** [3h Tc Qc]
+yunapok: bets 60
+Roygoode31: calls 60
+*** TURN *** [3h Tc Qc] [4c]
+yunapok: checks 
+Roygoode31: bets 92
+yunapok: calls 92
+*** RIVER *** [3h Tc Qc 4c] [5s]
+yunapok: checks 
+Roygoode31: checks 
+*** SHOW DOWN ***
+yunapok: shows [Jd Js] (a pair of Jacks)
+Roygoode31: mucks hand 
+yunapok collected 464 from pot
+*** SUMMARY ***
+Total pot 464 | Rake 0 
+Board [3h Tc Qc 4c 5s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: yunapok (small blind) showed [Jd Js] and won (464) with a pair of Jacks
+Seat 3: Roygoode31 (big blind) mucked [Ks 3s]
+
+
+
+PokerStars Hand #259538782572: Tournament #3970892249, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:03:44 CET [2026/01/31 15:03:44 ET]
+Table '3970892249 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: yunapok (622 in chips) 
+Seat 3: Roygoode31 (498 in chips) 
+Roygoode31: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4h]
+yunapok: folds 
+Roygoode31: calls 10
+mabeal1: checks 
+*** FLOP *** [Td 2d 2c]
+Roygoode31: checks 
+mabeal1: checks 
+*** TURN *** [Td 2d 2c] [7d]
+Roygoode31: checks 
+mabeal1: checks 
+*** RIVER *** [Td 2d 2c 7d] [6s]
+Roygoode31: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Roygoode31: shows [Jc 8s] (a pair of Deuces)
+mabeal1: shows [Qc 4h] (a pair of Deuces - Queen kicker)
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td 2d 2c 7d 6s]
+Seat 1: mabeal1 (big blind) showed [Qc 4h] and won (40) with a pair of Deuces
+Seat 2: yunapok (button) folded before Flop (didn't bet)
+Seat 3: Roygoode31 (small blind) showed [Jc 8s] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259538790459: Tournament #3970892249, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:04:19 CET [2026/01/31 15:04:19 ET]
+Table '3970892249 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: yunapok (622 in chips) 
+Seat 3: Roygoode31 (478 in chips) 
+mabeal1: posts small blind 15
+yunapok: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ah]
+Roygoode31: folds 
+mabeal1: raises 60 to 90
+yunapok: calls 60
+*** FLOP *** [6d 4h 4d]
+mabeal1: bets 60
+yunapok: raises 472 to 532 and is all-in
+mabeal1: calls 250 and is all-in
+Uncalled bet (222) returned to yunapok
+*** TURN *** [6d 4h 4d] [2h]
+*** RIVER *** [6d 4h 4d 2h] [5h]
+*** SHOW DOWN ***
+mabeal1: shows [Qs Ah] (a pair of Fours)
+yunapok: shows [3h 3c] (a straight, Deuce to Six)
+yunapok collected 800 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [6d 4h 4d 2h 5h]
+Seat 1: mabeal1 (small blind) showed [Qs Ah] and lost with a pair of Fours
+Seat 2: yunapok (big blind) showed [3h 3c] and won (800) with a straight, Deuce to Six
+Seat 3: Roygoode31 (button) folded before Flop (didn't bet)
+
+
+

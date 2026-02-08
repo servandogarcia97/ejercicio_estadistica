@@ -1,0 +1,489 @@
+﻿PokerStars Hand #259561705292: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:29:44 CET [2026/02/02 8:29:44 ET]
+Table '3971394750 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: ChicoPercebet (500 in chips) 
+Seat 3: ntrselevn (500 in chips) 
+ChicoPercebet: posts small blind 10
+ntrselevn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Kh]
+mabeal1: raises 20 to 40
+ChicoPercebet: raises 20 to 60
+ntrselevn: folds 
+mabeal1: calls 20
+*** FLOP *** [Ac Ah 4s]
+ChicoPercebet: bets 70
+mabeal1: calls 70
+*** TURN *** [Ac Ah 4s] [As]
+ChicoPercebet: bets 280
+mabeal1: folds 
+Uncalled bet (280) returned to ChicoPercebet
+ChicoPercebet collected 280 from pot
+ChicoPercebet: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Ac Ah 4s As]
+Seat 1: mabeal1 (button) folded on the Turn
+Seat 2: ChicoPercebet (small blind) collected (280)
+Seat 3: ntrselevn (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561707647: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:30:01 CET [2026/02/02 8:30:01 ET]
+Table '3971394750 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (370 in chips) 
+Seat 2: ChicoPercebet (650 in chips) 
+Seat 3: ntrselevn (480 in chips) 
+ntrselevn: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ts]
+ChicoPercebet: folds 
+ntrselevn: calls 10
+mabeal1: checks 
+*** FLOP *** [5d 5s 9s]
+ntrselevn: checks 
+mabeal1: bets 30
+ntrselevn: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d 5s 9s]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: ChicoPercebet (button) folded before Flop (didn't bet)
+Seat 3: ntrselevn (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259561710118: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:30:19 CET [2026/02/02 8:30:19 ET]
+Table '3971394750 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (390 in chips) 
+Seat 2: ChicoPercebet (650 in chips) 
+Seat 3: ntrselevn (460 in chips) 
+mabeal1: posts small blind 10
+ChicoPercebet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 9s]
+ntrselevn: raises 30 to 50
+mabeal1: folds 
+ChicoPercebet: calls 30
+*** FLOP *** [Ks 9c Jc]
+ChicoPercebet: checks 
+ntrselevn: bets 55
+ChicoPercebet: calls 55
+*** TURN *** [Ks 9c Jc] [3c]
+ChicoPercebet: checks 
+ntrselevn: checks 
+*** RIVER *** [Ks 9c Jc 3c] [Qd]
+ChicoPercebet: checks 
+ntrselevn: bets 165
+ChicoPercebet: folds 
+Uncalled bet (165) returned to ntrselevn
+ntrselevn collected 220 from pot
+ntrselevn: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Ks 9c Jc 3c Qd]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: ChicoPercebet (big blind) folded on the River
+Seat 3: ntrselevn (button) collected (220)
+
+
+
+PokerStars Hand #259561715391: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:30:58 CET [2026/02/02 8:30:58 ET]
+Table '3971394750 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: ChicoPercebet (545 in chips) 
+Seat 3: ntrselevn (575 in chips) 
+ChicoPercebet: posts small blind 10
+ntrselevn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Js]
+mabeal1: raises 30 to 50
+ChicoPercebet: folds 
+ntrselevn: calls 30
+*** FLOP *** [3d Qd 2h]
+ntrselevn: checks 
+mabeal1: bets 40
+ntrselevn: raises 320 to 360
+mabeal1: folds 
+Uncalled bet (320) returned to ntrselevn
+ntrselevn collected 190 from pot
+ntrselevn: doesn't show hand 
+*** SUMMARY ***
+Total pot 190 | Rake 0 
+Board [3d Qd 2h]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: ChicoPercebet (small blind) folded before Flop
+Seat 3: ntrselevn (big blind) collected (190)
+
+
+
+PokerStars Hand #259561720175: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:31:33 CET [2026/02/02 8:31:33 ET]
+Table '3971394750 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (290 in chips) 
+Seat 2: ChicoPercebet (535 in chips) 
+Seat 3: ntrselevn (675 in chips) 
+ntrselevn: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ad]
+ChicoPercebet: raises 20 to 40
+ntrselevn: folds 
+mabeal1: raises 250 to 290 and is all-in
+ChicoPercebet: folds 
+Uncalled bet (250) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (90)
+Seat 2: ChicoPercebet (button) folded before Flop
+Seat 3: ntrselevn (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561721202: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:31:41 CET [2026/02/02 8:31:41 ET]
+Table '3971394750 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (340 in chips) 
+Seat 2: ChicoPercebet (495 in chips) 
+Seat 3: ntrselevn (665 in chips) 
+mabeal1: posts small blind 10
+ChicoPercebet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 9d]
+ntrselevn: folds 
+mabeal1: raises 20 to 40
+ChicoPercebet: calls 20
+*** FLOP *** [4d 3c Js]
+mabeal1: bets 40
+ChicoPercebet: calls 40
+*** TURN *** [4d 3c Js] [9h]
+mabeal1: checks 
+ChicoPercebet: bets 40
+mabeal1: raises 80 to 120
+ChicoPercebet: raises 295 to 415 and is all-in
+mabeal1: calls 140 and is all-in
+Uncalled bet (155) returned to ChicoPercebet
+*** RIVER *** [4d 3c Js 9h] [Kc]
+*** SHOW DOWN ***
+mabeal1: shows [Jd 9d] (two pair, Jacks and Nines)
+ChicoPercebet: shows [3h 9s] (two pair, Nines and Threes)
+mabeal1 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [4d 3c Js 9h Kc]
+Seat 1: mabeal1 (small blind) showed [Jd 9d] and won (680) with two pair, Jacks and Nines
+Seat 2: ChicoPercebet (big blind) showed [3h 9s] and lost with two pair, Nines and Threes
+Seat 3: ntrselevn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561725094: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:32:10 CET [2026/02/02 8:32:10 ET]
+Table '3971394750 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (680 in chips) 
+Seat 2: ChicoPercebet (155 in chips) 
+Seat 3: ntrselevn (665 in chips) 
+ChicoPercebet: posts small blind 10
+ntrselevn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 8h]
+mabeal1: raises 20 to 40
+ChicoPercebet: raises 40 to 80
+ntrselevn: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to ChicoPercebet
+ChicoPercebet collected 100 from pot
+ChicoPercebet: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: ChicoPercebet (small blind) collected (100)
+Seat 3: ntrselevn (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561727183: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:32:26 CET [2026/02/02 8:32:26 ET]
+Table '3971394750 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (640 in chips) 
+Seat 2: ChicoPercebet (215 in chips) 
+Seat 3: ntrselevn (645 in chips) 
+ntrselevn: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2d]
+ChicoPercebet: raises 20 to 40
+ntrselevn: folds 
+mabeal1: calls 20
+*** FLOP *** [3c Qh Ts]
+mabeal1: checks 
+ChicoPercebet: bets 175 and is all-in
+mabeal1: folds 
+Uncalled bet (175) returned to ChicoPercebet
+ChicoPercebet collected 90 from pot
+ChicoPercebet: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3c Qh Ts]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: ChicoPercebet (button) collected (90)
+Seat 3: ntrselevn (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561729302: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:32:41 CET [2026/02/02 8:32:41 ET]
+Table '3971394750 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: ChicoPercebet (265 in chips) 
+Seat 3: ntrselevn (635 in chips) 
+mabeal1: posts small blind 10
+ChicoPercebet: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 9c]
+ntrselevn: raises 20 to 40
+mabeal1: folds 
+ChicoPercebet: calls 20
+*** FLOP *** [8d 2s 5d]
+ChicoPercebet: bets 45
+ntrselevn: raises 195 to 240
+ChicoPercebet: calls 180 and is all-in
+Uncalled bet (15) returned to ntrselevn
+*** TURN *** [8d 2s 5d] [7d]
+*** RIVER *** [8d 2s 5d 7d] [2d]
+*** SHOW DOWN ***
+ChicoPercebet: shows [8c Jc] (two pair, Eights and Deuces)
+ntrselevn: shows [Th 8s] (two pair, Eights and Deuces - lower kicker)
+ChicoPercebet collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [8d 2s 5d 7d 2d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: ChicoPercebet (big blind) showed [8c Jc] and won (540) with two pair, Eights and Deuces
+Seat 3: ntrselevn (button) showed [Th 8s] and lost with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #259561732608: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:33:06 CET [2026/02/02 8:33:06 ET]
+Table '3971394750 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: ChicoPercebet (540 in chips) 
+Seat 3: ntrselevn (370 in chips) 
+ChicoPercebet: posts small blind 15
+ntrselevn: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ad]
+mabeal1: raises 560 to 590 and is all-in
+ChicoPercebet: folds 
+ntrselevn: folds 
+Uncalled bet (560) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (button) collected (75)
+Seat 2: ChicoPercebet (small blind) folded before Flop
+Seat 3: ntrselevn (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561733882: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:33:15 CET [2026/02/02 8:33:15 ET]
+Table '3971394750 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 2: ChicoPercebet (525 in chips) 
+Seat 3: ntrselevn (340 in chips) 
+ntrselevn: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Kh]
+ChicoPercebet: raises 30 to 60
+ntrselevn: folds 
+mabeal1: calls 30
+*** FLOP *** [Qd Qs Th]
+mabeal1: checks 
+ChicoPercebet: checks 
+*** TURN *** [Qd Qs Th] [Kc]
+mabeal1: checks 
+ChicoPercebet: checks 
+*** RIVER *** [Qd Qs Th Kc] [8h]
+mabeal1: bets 101
+ChicoPercebet: calls 101
+*** SHOW DOWN ***
+mabeal1: shows [5c Kh] (two pair, Kings and Queens)
+ChicoPercebet: mucks hand 
+mabeal1 collected 337 from pot
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Board [Qd Qs Th Kc 8h]
+Seat 1: mabeal1 (big blind) showed [5c Kh] and won (337) with two pair, Kings and Queens
+Seat 2: ChicoPercebet (button) mucked [6h 6s]
+Seat 3: ntrselevn (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561738180: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:33:47 CET [2026/02/02 8:33:47 ET]
+Table '3971394750 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (811 in chips) 
+Seat 2: ChicoPercebet (364 in chips) 
+Seat 3: ntrselevn (325 in chips) 
+mabeal1: posts small blind 15
+ChicoPercebet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2s]
+ntrselevn: folds 
+mabeal1: raises 45 to 75
+ChicoPercebet: calls 45
+*** FLOP *** [Jd Td 4c]
+mabeal1: checks 
+ChicoPercebet: checks 
+*** TURN *** [Jd Td 4c] [Qc]
+mabeal1: checks 
+ChicoPercebet: bets 75
+mabeal1: folds 
+Uncalled bet (75) returned to ChicoPercebet
+ChicoPercebet collected 150 from pot
+ChicoPercebet: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Jd Td 4c Qc]
+Seat 1: mabeal1 (small blind) folded on the Turn
+Seat 2: ChicoPercebet (big blind) collected (150)
+Seat 3: ntrselevn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561741667: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:34:13 CET [2026/02/02 8:34:13 ET]
+Table '3971394750 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (736 in chips) 
+Seat 2: ChicoPercebet (439 in chips) 
+Seat 3: ntrselevn (325 in chips) 
+ChicoPercebet: posts small blind 15
+ntrselevn: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Kd]
+mabeal1: raises 30 to 60
+ChicoPercebet: folds 
+ntrselevn: calls 30
+*** FLOP *** [8d Jh 5d]
+ntrselevn: checks 
+mabeal1: bets 68
+ntrselevn: raises 197 to 265 and is all-in
+mabeal1: calls 197
+*** TURN *** [8d Jh 5d] [3h]
+*** RIVER *** [8d Jh 5d 3h] [Jd]
+*** SHOW DOWN ***
+ntrselevn: shows [Qc 8c] (two pair, Jacks and Eights)
+mabeal1: shows [7d Kd] (a flush, King high)
+mabeal1 collected 665 from pot
+ntrselevn finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 665 | Rake 0 
+Board [8d Jh 5d 3h Jd]
+Seat 1: mabeal1 (button) showed [7d Kd] and won (665) with a flush, King high
+Seat 2: ChicoPercebet (small blind) folded before Flop
+Seat 3: ntrselevn (big blind) showed [Qc 8c] and lost with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #259561746036: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:34:45 CET [2026/02/02 8:34:45 ET]
+Table '3971394750 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1076 in chips) 
+Seat 2: ChicoPercebet (424 in chips) 
+ChicoPercebet: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Kd]
+ChicoPercebet: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: ChicoPercebet (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561746603: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:34:50 CET [2026/02/02 8:34:50 ET]
+Table '3971394750 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1091 in chips) 
+Seat 2: ChicoPercebet (409 in chips) 
+mabeal1: posts small blind 15
+ChicoPercebet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Ts]
+mabeal1: calls 15
+ChicoPercebet: checks 
+*** FLOP *** [5d 6c 9s]
+ChicoPercebet: checks 
+mabeal1: checks 
+*** TURN *** [5d 6c 9s] [8s]
+ChicoPercebet: checks 
+mabeal1: bets 30
+ChicoPercebet: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 6c 9s 8s]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: ChicoPercebet (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259561750256: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:35:17 CET [2026/02/02 8:35:17 ET]
+Table '3971394750 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1121 in chips) 
+Seat 2: ChicoPercebet (379 in chips) 
+ChicoPercebet: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2s]
+ChicoPercebet: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to ChicoPercebet
+ChicoPercebet collected 60 from pot
+ChicoPercebet: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: ChicoPercebet (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259561751835: Tournament #3971394750, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:35:28 CET [2026/02/02 8:35:28 ET]
+Table '3971394750 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1091 in chips) 
+Seat 2: ChicoPercebet (409 in chips) 
+mabeal1: posts small blind 15
+ChicoPercebet: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 6d]
+mabeal1: calls 15
+ChicoPercebet: checks 
+*** FLOP *** [Ac 6c Tc]
+ChicoPercebet: checks 
+mabeal1: bets 60
+ChicoPercebet: calls 60
+*** TURN *** [Ac 6c Tc] [4h]
+ChicoPercebet: checks 
+mabeal1: bets 135
+ChicoPercebet: raises 184 to 319 and is all-in
+mabeal1: calls 184
+*** RIVER *** [Ac 6c Tc 4h] [Ks]
+*** SHOW DOWN ***
+ChicoPercebet: shows [8s Ah] (a pair of Aces)
+mabeal1: shows [Ts 6d] (two pair, Tens and Sixes)
+mabeal1 collected 818 from pot
+ChicoPercebet finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 818 | Rake 0 
+Board [Ac 6c Tc 4h Ks]
+Seat 1: mabeal1 (button) (small blind) showed [Ts 6d] and won (818) with two pair, Tens and Sixes
+Seat 2: ChicoPercebet (big blind) showed [8s Ah] and lost with a pair of Aces
+
+
+

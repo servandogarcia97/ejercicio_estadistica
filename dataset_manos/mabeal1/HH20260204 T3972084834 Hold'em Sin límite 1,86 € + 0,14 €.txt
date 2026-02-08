@@ -1,0 +1,768 @@
+﻿PokerStars Hand #259592289693: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:57:55 CET [2026/02/04 14:57:55 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: FredAFX (500 in chips) 
+Seat 3: luislares1999 (500 in chips) 
+FredAFX: posts small blind 10
+luislares1999: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Jd]
+mabeal1: folds 
+FredAFX: folds 
+Uncalled bet (10) returned to luislares1999
+luislares1999 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: FredAFX (small blind) folded before Flop
+Seat 3: luislares1999 (big blind) collected (20)
+
+
+
+PokerStars Hand #259592290729: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:58:01 CET [2026/02/04 14:58:01 ET]
+Table '3972084834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: FredAFX (490 in chips) 
+Seat 3: luislares1999 (510 in chips) 
+luislares1999: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8d]
+FredAFX: folds 
+luislares1999: calls 10
+mabeal1: checks 
+*** FLOP *** [6d Jh 4c]
+luislares1999: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to luislares1999
+luislares1999 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6d Jh 4c]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: FredAFX (button) folded before Flop (didn't bet)
+Seat 3: luislares1999 (small blind) collected (40)
+
+
+
+PokerStars Hand #259592294434: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:58:23 CET [2026/02/04 14:58:23 ET]
+Table '3972084834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: FredAFX (490 in chips) 
+Seat 3: luislares1999 (530 in chips) 
+mabeal1: posts small blind 10
+FredAFX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 6c]
+luislares1999: calls 20
+mabeal1: folds 
+FredAFX: checks 
+*** FLOP *** [Kh 4h Jh]
+FredAFX: checks 
+luislares1999: bets 20
+FredAFX: folds 
+Uncalled bet (20) returned to luislares1999
+luislares1999 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Kh 4h Jh]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: FredAFX (big blind) folded on the Flop
+Seat 3: luislares1999 (button) collected (50)
+
+
+
+PokerStars Hand #259592298923: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:58:49 CET [2026/02/04 14:58:49 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: FredAFX (470 in chips) 
+Seat 3: luislares1999 (560 in chips) 
+FredAFX: posts small blind 10
+luislares1999: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 4h]
+mabeal1: folds 
+FredAFX: calls 10
+luislares1999: checks 
+*** FLOP *** [Ts 6d 8d]
+FredAFX: checks 
+luislares1999: checks 
+*** TURN *** [Ts 6d 8d] [Js]
+FredAFX: bets 20
+luislares1999: calls 20
+*** RIVER *** [Ts 6d 8d Js] [Qd]
+FredAFX: bets 40
+luislares1999: folds 
+Uncalled bet (40) returned to FredAFX
+FredAFX collected 80 from pot
+FredAFX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts 6d 8d Js Qd]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: FredAFX (small blind) collected (80)
+Seat 3: luislares1999 (big blind) folded on the River
+
+
+
+PokerStars Hand #259592303125: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:59:14 CET [2026/02/04 14:59:14 ET]
+Table '3972084834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: FredAFX (510 in chips) 
+Seat 3: luislares1999 (520 in chips) 
+luislares1999: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6h]
+FredAFX: raises 20 to 40
+luislares1999: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to FredAFX
+FredAFX collected 50 from pot
+FredAFX: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: FredAFX (button) collected (50)
+Seat 3: luislares1999 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592305300: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:59:27 CET [2026/02/04 14:59:27 ET]
+Table '3972084834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (450 in chips) 
+Seat 2: FredAFX (540 in chips) 
+Seat 3: luislares1999 (510 in chips) 
+mabeal1: posts small blind 10
+FredAFX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Qs]
+luislares1999: raises 40 to 60
+mabeal1: folds 
+FredAFX: folds 
+Uncalled bet (40) returned to luislares1999
+luislares1999 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: FredAFX (big blind) folded before Flop
+Seat 3: luislares1999 (button) collected (50)
+
+
+
+PokerStars Hand #259592307426: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:59:40 CET [2026/02/04 14:59:40 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: FredAFX (520 in chips) 
+Seat 3: luislares1999 (540 in chips) 
+FredAFX: posts small blind 10
+luislares1999: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Qd]
+mabeal1: raises 20 to 40
+FredAFX: folds 
+luislares1999: calls 20
+*** FLOP *** [2c 5c Jc]
+luislares1999: checks 
+mabeal1: bets 30
+luislares1999: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2c 5c Jc]
+Seat 1: mabeal1 (button) collected (90)
+Seat 2: FredAFX (small blind) folded before Flop
+Seat 3: luislares1999 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259592312077: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:00:06 CET [2026/02/04 15:00:06 ET]
+Table '3972084834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 2: FredAFX (510 in chips) 
+Seat 3: luislares1999 (500 in chips) 
+luislares1999: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 2c]
+FredAFX: folds 
+luislares1999: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to luislares1999
+luislares1999 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: FredAFX (button) folded before Flop (didn't bet)
+Seat 3: luislares1999 (small blind) collected (40)
+
+
+
+PokerStars Hand #259592313319: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:00:14 CET [2026/02/04 15:00:14 ET]
+Table '3972084834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: FredAFX (510 in chips) 
+Seat 3: luislares1999 (520 in chips) 
+mabeal1: posts small blind 10
+FredAFX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 2d]
+luislares1999: raises 20 to 40
+mabeal1: folds 
+FredAFX: folds 
+Uncalled bet (20) returned to luislares1999
+luislares1999 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: FredAFX (big blind) folded before Flop
+Seat 3: luislares1999 (button) collected (50)
+
+
+
+PokerStars Hand #259592315240: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:00:24 CET [2026/02/04 15:00:24 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: FredAFX (490 in chips) 
+Seat 3: luislares1999 (550 in chips) 
+FredAFX: posts small blind 10
+luislares1999: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7c]
+mabeal1: folds 
+FredAFX: folds 
+Uncalled bet (10) returned to luislares1999
+luislares1999 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: FredAFX (small blind) folded before Flop
+Seat 3: luislares1999 (big blind) collected (20)
+
+
+
+PokerStars Hand #259592316102: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:00:29 CET [2026/02/04 15:00:29 ET]
+Table '3972084834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: FredAFX (480 in chips) 
+Seat 3: luislares1999 (560 in chips) 
+luislares1999: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Td]
+FredAFX: folds 
+luislares1999: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to luislares1999
+luislares1999 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: FredAFX (button) folded before Flop (didn't bet)
+Seat 3: luislares1999 (small blind) collected (40)
+
+
+
+PokerStars Hand #259592317496: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:00:37 CET [2026/02/04 15:00:37 ET]
+Table '3972084834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: FredAFX (480 in chips) 
+Seat 3: luislares1999 (580 in chips) 
+mabeal1: posts small blind 10
+FredAFX: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8d]
+luislares1999: calls 20
+mabeal1: folds 
+FredAFX: checks 
+*** FLOP *** [4s 6s Ks]
+FredAFX: checks 
+luislares1999: bets 20
+FredAFX: calls 20
+*** TURN *** [4s 6s Ks] [7c]
+FredAFX: checks 
+luislares1999: bets 20
+FredAFX: calls 20
+*** RIVER *** [4s 6s Ks 7c] [Kh]
+FredAFX: bets 100
+luislares1999: folds 
+Uncalled bet (100) returned to FredAFX
+FredAFX collected 130 from pot
+FredAFX: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [4s 6s Ks 7c Kh]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: FredAFX (big blind) collected (130)
+Seat 3: luislares1999 (button) folded on the River
+
+
+
+PokerStars Hand #259592323058: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:01:06 CET [2026/02/04 15:01:06 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: FredAFX (550 in chips) 
+Seat 3: luislares1999 (520 in chips) 
+FredAFX: posts small blind 15
+luislares1999: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Kd]
+mabeal1: raises 30 to 60
+FredAFX: folds 
+luislares1999: calls 30
+*** FLOP *** [8c Th 9d]
+luislares1999: bets 30
+mabeal1: calls 30
+*** TURN *** [8c Th 9d] [8d]
+luislares1999: bets 30
+mabeal1: raises 310 to 340 and is all-in
+luislares1999: folds 
+Uncalled bet (310) returned to mabeal1
+mabeal1 collected 255 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [8c Th 9d 8d]
+Seat 1: mabeal1 (button) collected (255)
+Seat 2: FredAFX (small blind) folded before Flop
+Seat 3: luislares1999 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259592330441: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:01:41 CET [2026/02/04 15:01:41 ET]
+Table '3972084834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (565 in chips) 
+Seat 2: FredAFX (535 in chips) 
+Seat 3: luislares1999 (400 in chips) 
+luislares1999: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 3s]
+FredAFX: calls 30
+luislares1999: calls 15
+mabeal1: checks 
+*** FLOP *** [Jc 6h 4s]
+luislares1999: bets 30
+mabeal1: folds 
+FredAFX: calls 30
+*** TURN *** [Jc 6h 4s] [6s]
+luislares1999: bets 30
+FredAFX: calls 30
+*** RIVER *** [Jc 6h 4s 6s] [7h]
+luislares1999: bets 90
+FredAFX: raises 90 to 180
+luislares1999: calls 90
+*** SHOW DOWN ***
+FredAFX: shows [Kh Kc] (two pair, Kings and Sixes)
+luislares1999: shows [5h 6d] (three of a kind, Sixes)
+luislares1999 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Jc 6h 4s 6s 7h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: FredAFX (button) showed [Kh Kc] and lost with two pair, Kings and Sixes
+Seat 3: luislares1999 (small blind) showed [5h 6d] and won (570) with three of a kind, Sixes
+
+
+
+PokerStars Hand #259592335762: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:02:06 CET [2026/02/04 15:02:06 ET]
+Table '3972084834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 2: FredAFX (265 in chips) 
+Seat 3: luislares1999 (700 in chips) 
+mabeal1: posts small blind 15
+FredAFX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 3s]
+luislares1999: calls 30
+mabeal1: folds 
+FredAFX: checks 
+*** FLOP *** [Ts 2s 9d]
+FredAFX: checks 
+luislares1999: checks 
+*** TURN *** [Ts 2s 9d] [8c]
+FredAFX: bets 30
+luislares1999: folds 
+Uncalled bet (30) returned to FredAFX
+FredAFX collected 75 from pot
+FredAFX: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Ts 2s 9d 8c]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: FredAFX (big blind) collected (75)
+Seat 3: luislares1999 (button) folded on the Turn
+
+
+
+PokerStars Hand #259592339609: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:02:21 CET [2026/02/04 15:02:21 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: FredAFX (310 in chips) 
+Seat 3: luislares1999 (670 in chips) 
+FredAFX: posts small blind 15
+luislares1999: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 9s]
+mabeal1: raises 30 to 60
+FredAFX: folds 
+luislares1999: calls 30
+*** FLOP *** [Ts 8d Ad]
+luislares1999: checks 
+mabeal1: bets 45
+luislares1999: folds [2s 2d]
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Ts 8d Ad]
+Seat 1: mabeal1 (button) collected (135)
+Seat 2: FredAFX (small blind) folded before Flop
+Seat 3: luislares1999 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259592343161: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:02:35 CET [2026/02/04 15:02:35 ET]
+Table '3972084834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: FredAFX (295 in chips) 
+Seat 3: luislares1999 (610 in chips) 
+luislares1999: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 8c]
+FredAFX: calls 30
+luislares1999: calls 15
+mabeal1: checks 
+*** FLOP *** [3c As 7c]
+luislares1999: checks 
+mabeal1: checks 
+FredAFX: bets 30
+luislares1999: folds 
+mabeal1: calls 30
+*** TURN *** [3c As 7c] [Jd]
+mabeal1: checks 
+FredAFX: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to FredAFX
+FredAFX collected 150 from pot
+FredAFX: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [3c As 7c Jd]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: FredAFX (button) collected (150)
+Seat 3: luislares1999 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259592352191: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:03:10 CET [2026/02/04 15:03:10 ET]
+Table '3972084834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 2: FredAFX (385 in chips) 
+Seat 3: luislares1999 (580 in chips) 
+mabeal1: posts small blind 15
+FredAFX: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Jd]
+luislares1999: folds 
+mabeal1: raises 30 to 60
+FredAFX: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: FredAFX (big blind) folded before Flop
+Seat 3: luislares1999 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259592355449: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:03:24 CET [2026/02/04 15:03:24 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (565 in chips) 
+Seat 2: FredAFX (355 in chips) 
+Seat 3: luislares1999 (580 in chips) 
+FredAFX: posts small blind 15
+luislares1999: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 2s]
+mabeal1: raises 30 to 60
+FredAFX: calls 45
+luislares1999: folds 
+*** FLOP *** [Tc 6c 2d]
+FredAFX: bets 30
+mabeal1: calls 30
+*** TURN *** [Tc 6c 2d] [Qd]
+FredAFX: bets 30
+mabeal1: calls 30
+*** RIVER *** [Tc 6c 2d Qd] [3d]
+FredAFX: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to FredAFX
+FredAFX collected 270 from pot
+FredAFX: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Tc 6c 2d Qd 3d]
+Seat 1: mabeal1 (button) folded on the River
+Seat 2: FredAFX (small blind) collected (270)
+Seat 3: luislares1999 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259592362483: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:03:51 CET [2026/02/04 15:03:51 ET]
+Table '3972084834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: FredAFX (505 in chips) 
+Seat 3: luislares1999 (550 in chips) 
+luislares1999: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 7s]
+FredAFX: raises 30 to 60
+luislares1999: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to FredAFX
+FredAFX collected 75 from pot
+FredAFX: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: FredAFX (button) collected (75)
+Seat 3: luislares1999 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592367543: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:04:11 CET [2026/02/04 15:04:11 ET]
+Table '3972084834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 2: FredAFX (550 in chips) 
+Seat 3: luislares1999 (535 in chips) 
+mabeal1: posts small blind 20
+FredAFX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 9h]
+luislares1999: raises 40 to 80
+mabeal1: folds 
+FredAFX: calls 40
+*** FLOP *** [Ad 2c As]
+FredAFX: bets 120
+luislares1999: calls 120
+*** TURN *** [Ad 2c As] [5d]
+FredAFX: checks 
+luislares1999: bets 40
+FredAFX: calls 40
+*** RIVER *** [Ad 2c As 5d] [7c]
+FredAFX: checks 
+luislares1999: bets 40
+FredAFX: calls 40
+*** SHOW DOWN ***
+luislares1999: shows [Qs Qd] (two pair, Aces and Queens)
+FredAFX: mucks hand 
+luislares1999 collected 580 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Ad 2c As 5d 7c]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: FredAFX (big blind) mucked [Ks 2h]
+Seat 3: luislares1999 (button) showed [Qs Qd] and won (580) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #259592375986: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:04:44 CET [2026/02/04 15:04:44 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (395 in chips) 
+Seat 2: FredAFX (270 in chips) 
+Seat 3: luislares1999 (835 in chips) 
+FredAFX: posts small blind 20
+luislares1999: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 7h]
+mabeal1: folds 
+FredAFX: calls 20
+luislares1999: checks 
+*** FLOP *** [4c 9s Jh]
+FredAFX: checks 
+luislares1999: checks 
+*** TURN *** [4c 9s Jh] [Th]
+FredAFX: checks 
+luislares1999: checks 
+*** RIVER *** [4c 9s Jh Th] [Jc]
+FredAFX: bets 40
+luislares1999: folds 
+Uncalled bet (40) returned to FredAFX
+FredAFX collected 80 from pot
+FredAFX: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c 9s Jh Th Jc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: FredAFX (small blind) collected (80)
+Seat 3: luislares1999 (big blind) folded on the River
+
+
+
+PokerStars Hand #259592381510: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:05:05 CET [2026/02/04 15:05:05 ET]
+Table '3972084834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (395 in chips) 
+Seat 2: FredAFX (310 in chips) 
+Seat 3: luislares1999 (795 in chips) 
+luislares1999: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 8d]
+FredAFX: calls 40
+luislares1999: calls 20
+mabeal1: checks 
+*** FLOP *** [4h Ad 9s]
+luislares1999: checks 
+mabeal1: checks 
+FredAFX: checks 
+*** TURN *** [4h Ad 9s] [2h]
+luislares1999: bets 40
+mabeal1: raises 315 to 355 and is all-in
+FredAFX: folds 
+luislares1999: folds 
+Uncalled bet (315) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4h Ad 9s 2h]
+Seat 1: mabeal1 (big blind) collected (200)
+Seat 2: FredAFX (button) folded on the Turn
+Seat 3: luislares1999 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259592395025: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:05:56 CET [2026/02/04 15:05:56 ET]
+Table '3972084834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (515 in chips) 
+Seat 2: FredAFX (270 in chips) 
+Seat 3: luislares1999 (715 in chips) 
+mabeal1: posts small blind 20
+FredAFX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Jh]
+luislares1999: calls 40
+mabeal1: raises 475 to 515 and is all-in
+FredAFX: folds 
+luislares1999: folds 
+Uncalled bet (475) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (120)
+Seat 2: FredAFX (big blind) folded before Flop
+Seat 3: luislares1999 (button) folded before Flop
+
+
+
+PokerStars Hand #259592399130: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:06:12 CET [2026/02/04 15:06:12 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: FredAFX (230 in chips) 
+Seat 3: luislares1999 (675 in chips) 
+FredAFX: posts small blind 20
+luislares1999: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5c]
+mabeal1: folds 
+FredAFX: folds 
+Uncalled bet (20) returned to luislares1999
+luislares1999 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: FredAFX (small blind) folded before Flop
+Seat 3: luislares1999 (big blind) collected (40)
+
+
+
+PokerStars Hand #259592400636: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:06:17 CET [2026/02/04 15:06:17 ET]
+Table '3972084834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: FredAFX (210 in chips) 
+Seat 3: luislares1999 (695 in chips) 
+luislares1999: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Jh]
+FredAFX: folds 
+luislares1999: calls 20
+mabeal1: raises 555 to 595 and is all-in
+luislares1999: folds 
+Uncalled bet (555) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: FredAFX (button) folded before Flop (didn't bet)
+Seat 3: luislares1999 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592402677: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:06:25 CET [2026/02/04 15:06:25 ET]
+Table '3972084834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 2: FredAFX (210 in chips) 
+Seat 3: luislares1999 (655 in chips) 
+mabeal1: posts small blind 20
+FredAFX: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Kh]
+luislares1999: calls 40
+mabeal1: raises 595 to 635 and is all-in
+FredAFX: calls 170 and is all-in
+luislares1999: calls 595
+*** FLOP *** [2h 7s 7d]
+*** TURN *** [2h 7s 7d] [Kd]
+*** RIVER *** [2h 7s 7d Kd] [Jd]
+*** SHOW DOWN ***
+mabeal1: shows [3h Kh] (two pair, Kings and Sevens)
+luislares1999: shows [As Qh] (a pair of Sevens)
+mabeal1 collected 850 from side pot
+FredAFX: shows [Ac Qc] (a pair of Sevens)
+mabeal1 collected 630 from main pot
+FredAFX finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1480 Main pot 630. Side pot 850. | Rake 0 
+Board [2h 7s 7d Kd Jd]
+Seat 1: mabeal1 (small blind) showed [3h Kh] and won (1480) with two pair, Kings and Sevens
+Seat 2: FredAFX (big blind) showed [Ac Qc] and lost with a pair of Sevens
+Seat 3: luislares1999 (button) showed [As Qh] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #259592409997: Tournament #3972084834, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:06:53 CET [2026/02/04 15:06:53 ET]
+Table '3972084834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1480 in chips) 
+Seat 3: luislares1999 (20 in chips) 
+mabeal1: posts small blind 20
+luislares1999: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Kc]
+*** FLOP *** [4c Kd Kh]
+*** TURN *** [4c Kd Kh] [Jd]
+*** RIVER *** [4c Kd Kh Jd] [6s]
+*** SHOW DOWN ***
+luislares1999: shows [2d Th] (a pair of Kings)
+mabeal1: shows [5c Kc] (three of a kind, Kings)
+mabeal1 collected 40 from pot
+luislares1999 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4c Kd Kh Jd 6s]
+Seat 1: mabeal1 (button) (small blind) showed [5c Kc] and won (40) with three of a kind, Kings
+Seat 3: luislares1999 (big blind) showed [2d Th] and lost with a pair of Kings
+
+
+

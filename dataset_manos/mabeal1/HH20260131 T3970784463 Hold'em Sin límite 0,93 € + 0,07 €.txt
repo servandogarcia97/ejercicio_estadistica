@@ -1,0 +1,921 @@
+﻿PokerStars Hand #259533894665: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:55:09 CET [2026/01/31 7:55:09 ET]
+Table '3970784463 1' 3-max Seat #1 is the button
+Seat 1: arsouille53 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: jeremybessas01 (500 in chips) 
+mabeal1: posts small blind 10
+jeremybessas01: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 3c]
+arsouille53: calls 20
+mabeal1: folds 
+jeremybessas01: checks 
+*** FLOP *** [4d 4s 7h]
+jeremybessas01: bets 20
+arsouille53: calls 20
+*** TURN *** [4d 4s 7h] [4h]
+jeremybessas01: bets 20
+arsouille53: calls 20
+*** RIVER *** [4d 4s 7h 4h] [9h]
+jeremybessas01: bets 20
+arsouille53: raises 20 to 40
+jeremybessas01: calls 20
+*** SHOW DOWN ***
+arsouille53: shows [5d 5h] (a full house, Fours full of Fives)
+jeremybessas01: shows [8d 7d] (a full house, Fours full of Sevens)
+jeremybessas01 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [4d 4s 7h 4h 9h]
+Seat 1: arsouille53 (button) showed [5d 5h] and lost with a full house, Fours full of Fives
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: jeremybessas01 (big blind) showed [8d 7d] and won (210) with a full house, Fours full of Sevens
+
+
+
+PokerStars Hand #259533898979: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:55:51 CET [2026/01/31 7:55:51 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 1: arsouille53 (400 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: jeremybessas01 (610 in chips) 
+jeremybessas01: posts small blind 10
+arsouille53: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7d]
+mabeal1: folds 
+jeremybessas01: calls 10
+arsouille53: checks 
+*** FLOP *** [Qc 3d 7s]
+jeremybessas01: checks 
+arsouille53: checks 
+*** TURN *** [Qc 3d 7s] [Kh]
+jeremybessas01: checks 
+arsouille53: checks 
+*** RIVER *** [Qc 3d 7s Kh] [9d]
+jeremybessas01: checks 
+arsouille53: bets 40
+jeremybessas01: folds 
+Uncalled bet (40) returned to arsouille53
+arsouille53 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qc 3d 7s Kh 9d]
+Seat 1: arsouille53 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: jeremybessas01 (small blind) folded on the River
+
+
+
+PokerStars Hand #259533902007: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:56:21 CET [2026/01/31 7:56:21 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 1: arsouille53 (420 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: jeremybessas01 (590 in chips) 
+arsouille53: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 3h]
+jeremybessas01: folds 
+arsouille53: calls 10
+mabeal1: checks 
+*** FLOP *** [Js 8c Qs]
+arsouille53: checks 
+mabeal1: bets 40
+arsouille53: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 8c Qs]
+Seat 1: arsouille53 (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: jeremybessas01 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259533905515: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:56:56 CET [2026/01/31 7:56:56 ET]
+Table '3970784463 1' 3-max Seat #1 is the button
+Seat 1: arsouille53 (400 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: jeremybessas01 (590 in chips) 
+mabeal1: posts small blind 10
+jeremybessas01: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Ac]
+arsouille53: calls 20
+mabeal1: raises 490 to 510 and is all-in
+jeremybessas01: folds 
+arsouille53: folds 
+Uncalled bet (490) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: arsouille53 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: jeremybessas01 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259533907398: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:57:14 CET [2026/01/31 7:57:14 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 1: arsouille53 (380 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: jeremybessas01 (570 in chips) 
+jeremybessas01: posts small blind 10
+arsouille53: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Th]
+mabeal1: raises 20 to 40
+jeremybessas01: calls 30
+arsouille53: calls 20
+*** FLOP *** [9s 6h 2d]
+jeremybessas01: checks 
+arsouille53: checks 
+mabeal1: checks 
+*** TURN *** [9s 6h 2d] [6c]
+jeremybessas01: checks 
+arsouille53: checks 
+mabeal1: checks 
+*** RIVER *** [9s 6h 2d 6c] [7d]
+jeremybessas01: checks 
+arsouille53: checks 
+mabeal1: bets 120
+jeremybessas01: folds 
+arsouille53: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s 6h 2d 6c 7d]
+Seat 1: arsouille53 (big blind) folded on the River
+Seat 2: mabeal1 (button) collected (120)
+Seat 3: jeremybessas01 (small blind) folded on the River
+
+
+
+PokerStars Hand #259533911888: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 13:57:59 CET [2026/01/31 7:57:59 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 1: arsouille53 (340 in chips) 
+Seat 2: mabeal1 (630 in chips) 
+Seat 3: jeremybessas01 (530 in chips) 
+arsouille53: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3s]
+jeremybessas01: calls 20
+arsouille53: calls 10
+mabeal1: checks 
+*** FLOP *** [Jh 4c Qh]
+arsouille53: checks 
+mabeal1: checks 
+jeremybessas01: checks 
+*** TURN *** [Jh 4c Qh] [9h]
+arsouille53: checks 
+mabeal1: checks 
+jeremybessas01: checks 
+*** RIVER *** [Jh 4c Qh 9h] [Ah]
+arsouille53: checks 
+mabeal1: checks 
+jeremybessas01: checks 
+*** SHOW DOWN ***
+arsouille53: shows [Jd 8c] (a pair of Jacks)
+mabeal1: mucks hand 
+jeremybessas01: shows [8s As] (a pair of Aces)
+jeremybessas01 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh 4c Qh 9h Ah]
+Seat 1: arsouille53 (small blind) showed [Jd 8c] and lost with a pair of Jacks
+Seat 2: mabeal1 (big blind) mucked [8d 3s]
+Seat 3: jeremybessas01 (button) showed [8s As] and won (60) with a pair of Aces
+
+
+
+PokerStars Hand #259533915009: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 13:58:29 CET [2026/01/31 7:58:29 ET]
+Table '3970784463 1' 3-max Seat #1 is the button
+Seat 1: arsouille53 (320 in chips) 
+Seat 2: mabeal1 (610 in chips) 
+Seat 3: jeremybessas01 (570 in chips) 
+mabeal1: posts small blind 15
+jeremybessas01: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 8s]
+arsouille53: folds 
+mabeal1: raises 60 to 90
+jeremybessas01: calls 60
+*** FLOP *** [3h 8c Jc]
+mabeal1: bets 60
+jeremybessas01: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3h 8c Jc]
+Seat 1: arsouille53 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (180)
+Seat 3: jeremybessas01 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259533917003: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 13:58:49 CET [2026/01/31 7:58:49 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 1: arsouille53 (320 in chips) 
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: jeremybessas01 (480 in chips) 
+jeremybessas01: posts small blind 15
+arsouille53: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qc]
+mabeal1: raises 30 to 60
+jeremybessas01: folds 
+arsouille53: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: arsouille53 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (75)
+Seat 3: jeremybessas01 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259533918226: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 13:59:01 CET [2026/01/31 7:59:01 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 1: arsouille53 (290 in chips) 
+Seat 2: mabeal1 (745 in chips) 
+Seat 3: jeremybessas01 (465 in chips) 
+arsouille53: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5c]
+jeremybessas01: calls 30
+arsouille53: calls 15
+mabeal1: checks 
+*** FLOP *** [As 2h Ts]
+arsouille53: checks 
+mabeal1: checks 
+jeremybessas01: checks 
+*** TURN *** [As 2h Ts] [4h]
+arsouille53: checks 
+mabeal1: checks 
+jeremybessas01: bets 30
+arsouille53: calls 30
+mabeal1: folds 
+*** RIVER *** [As 2h Ts 4h] [2c]
+arsouille53: checks 
+jeremybessas01: checks 
+*** SHOW DOWN ***
+arsouille53: shows [5h Kd] (a pair of Deuces)
+jeremybessas01: mucks hand 
+arsouille53 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [As 2h Ts 4h 2c]
+Seat 1: arsouille53 (small blind) showed [5h Kd] and won (150) with a pair of Deuces
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: jeremybessas01 (button) mucked [7h Qh]
+
+
+
+PokerStars Hand #259533921588: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 13:59:33 CET [2026/01/31 7:59:33 ET]
+Table '3970784463 1' 3-max Seat #1 is the button
+Seat 1: arsouille53 (380 in chips) 
+Seat 2: mabeal1 (715 in chips) 
+Seat 3: jeremybessas01 (405 in chips) 
+mabeal1: posts small blind 15
+jeremybessas01: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ts]
+arsouille53: calls 30
+mabeal1: raises 60 to 90
+jeremybessas01: calls 60
+arsouille53: folds 
+*** FLOP *** [Kc Ah 2c]
+mabeal1: bets 90
+jeremybessas01: calls 90
+*** TURN *** [Kc Ah 2c] [5d]
+mabeal1: checks 
+jeremybessas01: bets 30
+mabeal1: calls 30
+*** RIVER *** [Kc Ah 2c 5d] [3h]
+mabeal1: checks 
+jeremybessas01: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qs Ts] (high card Ace)
+jeremybessas01: mucks hand 
+mabeal1 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Kc Ah 2c 5d 3h]
+Seat 1: arsouille53 (button) folded before Flop
+Seat 2: mabeal1 (small blind) showed [Qs Ts] and won (450) with high card Ace
+Seat 3: jeremybessas01 (big blind) mucked [Jc 6c]
+
+
+
+PokerStars Hand #259533926403: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 14:00:19 CET [2026/01/31 8:00:19 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 1: arsouille53 (350 in chips) 
+Seat 2: mabeal1 (955 in chips) 
+Seat 3: jeremybessas01 (195 in chips) 
+jeremybessas01: posts small blind 15
+arsouille53: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 7d]
+mabeal1: raises 925 to 955 and is all-in
+jeremybessas01: calls 180 and is all-in
+arsouille53: calls 320 and is all-in
+Uncalled bet (605) returned to mabeal1
+*** FLOP *** [4d 3h Jh]
+*** TURN *** [4d 3h Jh] [8h]
+*** RIVER *** [4d 3h Jh 8h] [Ks]
+*** SHOW DOWN ***
+arsouille53: shows [9s Ad] (high card Ace)
+mabeal1: shows [7h 7d] (a pair of Sevens)
+mabeal1 collected 310 from side pot
+jeremybessas01: shows [8c Ah] (a pair of Eights)
+jeremybessas01 collected 585 from main pot
+arsouille53 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 895 Main pot 585. Side pot 310. | Rake 0 
+Board [4d 3h Jh 8h Ks]
+Seat 1: arsouille53 (big blind) showed [9s Ad] and lost with high card Ace
+Seat 2: mabeal1 (button) showed [7h 7d] and won (310) with a pair of Sevens
+Seat 3: jeremybessas01 (small blind) showed [8c Ah] and won (585) with a pair of Eights
+
+
+
+PokerStars Hand #259533928853: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 14:00:41 CET [2026/01/31 8:00:41 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (915 in chips) 
+Seat 3: jeremybessas01 (585 in chips) 
+jeremybessas01: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ac]
+jeremybessas01: calls 15
+mabeal1: raises 885 to 915 and is all-in
+jeremybessas01: folds 
+Uncalled bet (885) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: jeremybessas01 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259533930506: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 14:00:55 CET [2026/01/31 8:00:55 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (945 in chips) 
+Seat 3: jeremybessas01 (555 in chips) 
+mabeal1: posts small blind 15
+jeremybessas01: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 3h]
+mabeal1: calls 15
+jeremybessas01: checks 
+*** FLOP *** [2h 7s Tc]
+jeremybessas01: checks 
+mabeal1: checks 
+*** TURN *** [2h 7s Tc] [Jc]
+jeremybessas01: checks 
+mabeal1: bets 45
+jeremybessas01: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h 7s Tc Jc]
+Seat 2: mabeal1 (button) (small blind) collected (60)
+Seat 3: jeremybessas01 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259533933665: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 14:01:19 CET [2026/01/31 8:01:19 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (975 in chips) 
+Seat 3: jeremybessas01 (525 in chips) 
+jeremybessas01: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7d]
+jeremybessas01: calls 20
+mabeal1: checks 
+*** FLOP *** [Th Tc 6c]
+mabeal1: checks 
+jeremybessas01: checks 
+*** TURN *** [Th Tc 6c] [Ah]
+mabeal1: checks 
+jeremybessas01: checks 
+*** RIVER *** [Th Tc 6c Ah] [2c]
+mabeal1: checks 
+jeremybessas01: checks 
+*** SHOW DOWN ***
+mabeal1: shows [3h 7d] (a pair of Tens)
+jeremybessas01: shows [2h 5c] (two pair, Tens and Deuces)
+jeremybessas01 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th Tc 6c Ah 2c]
+Seat 2: mabeal1 (big blind) showed [3h 7d] and lost with a pair of Tens
+Seat 3: jeremybessas01 (button) (small blind) showed [2h 5c] and won (80) with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #259533936330: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 14:01:40 CET [2026/01/31 8:01:40 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (935 in chips) 
+Seat 3: jeremybessas01 (565 in chips) 
+mabeal1: posts small blind 20
+jeremybessas01: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 3s]
+mabeal1: calls 20
+jeremybessas01: checks 
+*** FLOP *** [4h 2h 9s]
+jeremybessas01: checks 
+mabeal1: checks 
+*** TURN *** [4h 2h 9s] [Jd]
+jeremybessas01: checks 
+mabeal1: checks 
+*** RIVER *** [4h 2h 9s Jd] [9c]
+jeremybessas01: checks 
+mabeal1: bets 40
+jeremybessas01: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h 2h 9s Jd 9c]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: jeremybessas01 (big blind) folded on the River
+
+
+
+PokerStars Hand #259533939356: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 14:02:03 CET [2026/01/31 8:02:03 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (975 in chips) 
+Seat 3: jeremybessas01 (525 in chips) 
+jeremybessas01: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Jc]
+jeremybessas01: calls 20
+mabeal1: checks 
+*** FLOP *** [Td Th Js]
+mabeal1: checks 
+jeremybessas01: checks 
+*** TURN *** [Td Th Js] [4c]
+mabeal1: bets 40
+jeremybessas01: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td Th Js 4c]
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: jeremybessas01 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259533941527: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 14:02:20 CET [2026/01/31 8:02:20 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1015 in chips) 
+Seat 3: jeremybessas01 (485 in chips) 
+mabeal1: posts small blind 20
+jeremybessas01: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ts]
+mabeal1: calls 20
+jeremybessas01: checks 
+*** FLOP *** [9d 9h Kh]
+jeremybessas01: checks 
+mabeal1: checks 
+*** TURN *** [9d 9h Kh] [3c]
+jeremybessas01: checks 
+mabeal1: checks 
+*** RIVER *** [9d 9h Kh 3c] [2s]
+jeremybessas01: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+jeremybessas01: shows [Qs 4h] (a pair of Nines)
+mabeal1: mucks hand 
+jeremybessas01 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 9h Kh 3c 2s]
+Seat 2: mabeal1 (button) (small blind) mucked [4d Ts]
+Seat 3: jeremybessas01 (big blind) showed [Qs 4h] and won (80) with a pair of Nines
+
+
+
+PokerStars Hand #259533945054: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 14:02:46 CET [2026/01/31 8:02:46 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (975 in chips) 
+Seat 3: jeremybessas01 (525 in chips) 
+jeremybessas01: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 7s]
+jeremybessas01: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: jeremybessas01 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259533946120: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 14:02:54 CET [2026/01/31 8:02:54 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (995 in chips) 
+Seat 3: jeremybessas01 (505 in chips) 
+mabeal1: posts small blind 20
+jeremybessas01: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 7h]
+mabeal1: calls 20
+jeremybessas01: checks 
+*** FLOP *** [3c Jc 8h]
+jeremybessas01: checks 
+mabeal1: bets 40
+jeremybessas01: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3c Jc 8h]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: jeremybessas01 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259533947921: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 14:03:07 CET [2026/01/31 8:03:07 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1035 in chips) 
+Seat 3: jeremybessas01 (465 in chips) 
+jeremybessas01: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 2c]
+jeremybessas01: calls 20
+mabeal1: checks 
+*** FLOP *** [Ac Th 2s]
+mabeal1: checks 
+jeremybessas01: checks 
+*** TURN *** [Ac Th 2s] [Ts]
+mabeal1: checks 
+jeremybessas01: checks 
+*** RIVER *** [Ac Th 2s Ts] [7c]
+mabeal1: bets 60
+jeremybessas01: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac Th 2s Ts 7c]
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: jeremybessas01 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259533954156: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 14:03:53 CET [2026/01/31 8:03:53 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1075 in chips) 
+Seat 3: jeremybessas01 (425 in chips) 
+mabeal1: posts small blind 20
+jeremybessas01: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 9s]
+mabeal1: calls 20
+jeremybessas01: checks 
+*** FLOP *** [Ks 5h Qc]
+jeremybessas01: checks 
+mabeal1: checks 
+*** TURN *** [Ks 5h Qc] [Jd]
+jeremybessas01: checks 
+mabeal1: checks 
+*** RIVER *** [Ks 5h Qc Jd] [Js]
+jeremybessas01: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+jeremybessas01: shows [2d 7h] (a pair of Jacks)
+mabeal1: shows [3d 9s] (a pair of Jacks - King+Queen+Nine kicker)
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks 5h Qc Jd Js]
+Seat 2: mabeal1 (button) (small blind) showed [3d 9s] and won (80) with a pair of Jacks
+Seat 3: jeremybessas01 (big blind) showed [2d 7h] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259533956904: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:04:14 CET [2026/01/31 8:04:14 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1115 in chips) 
+Seat 3: jeremybessas01 (385 in chips) 
+jeremybessas01: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Jh]
+jeremybessas01: raises 325 to 385 and is all-in
+mabeal1: folds 
+Uncalled bet (325) returned to jeremybessas01
+jeremybessas01 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: jeremybessas01 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259533958810: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:04:28 CET [2026/01/31 8:04:28 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1055 in chips) 
+Seat 3: jeremybessas01 (445 in chips) 
+mabeal1: posts small blind 30
+jeremybessas01: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 9h]
+mabeal1: raises 995 to 1055 and is all-in
+jeremybessas01: folds 
+Uncalled bet (995) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: jeremybessas01 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259533961413: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:04:47 CET [2026/01/31 8:04:47 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1115 in chips) 
+Seat 3: jeremybessas01 (385 in chips) 
+jeremybessas01: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 2c]
+jeremybessas01: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: jeremybessas01 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259533962699: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:04:56 CET [2026/01/31 8:04:56 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1145 in chips) 
+Seat 3: jeremybessas01 (355 in chips) 
+mabeal1: posts small blind 30
+jeremybessas01: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 5d]
+mabeal1: folds 
+Uncalled bet (30) returned to jeremybessas01
+jeremybessas01 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jeremybessas01 (big blind) collected (60)
+
+
+
+PokerStars Hand #259533963573: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:05:02 CET [2026/01/31 8:05:02 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1115 in chips) 
+Seat 3: jeremybessas01 (385 in chips) 
+jeremybessas01: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 8c]
+jeremybessas01: calls 30
+mabeal1: checks 
+*** FLOP *** [5d 3h 6s]
+mabeal1: checks 
+jeremybessas01: checks 
+*** TURN *** [5d 3h 6s] [Kd]
+mabeal1: bets 60
+jeremybessas01: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d 3h 6s Kd]
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: jeremybessas01 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259533965602: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:05:17 CET [2026/01/31 8:05:17 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1175 in chips) 
+Seat 3: jeremybessas01 (325 in chips) 
+mabeal1: posts small blind 30
+jeremybessas01: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 7c]
+mabeal1: folds 
+Uncalled bet (30) returned to jeremybessas01
+jeremybessas01 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jeremybessas01 (big blind) collected (60)
+
+
+
+PokerStars Hand #259533966420: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:05:23 CET [2026/01/31 8:05:23 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1145 in chips) 
+Seat 3: jeremybessas01 (355 in chips) 
+jeremybessas01: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 6h]
+jeremybessas01: raises 295 to 355 and is all-in
+mabeal1: folds 
+Uncalled bet (295) returned to jeremybessas01
+jeremybessas01 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: jeremybessas01 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259533967609: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:05:32 CET [2026/01/31 8:05:32 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1085 in chips) 
+Seat 3: jeremybessas01 (415 in chips) 
+mabeal1: posts small blind 30
+jeremybessas01: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 7c]
+mabeal1: raises 120 to 180
+jeremybessas01: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: jeremybessas01 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259533968854: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:05:41 CET [2026/01/31 8:05:41 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1145 in chips) 
+Seat 3: jeremybessas01 (355 in chips) 
+jeremybessas01: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 3d]
+jeremybessas01: calls 30
+mabeal1: checks 
+*** FLOP *** [2c 8s 6d]
+mabeal1: checks 
+jeremybessas01: checks 
+*** TURN *** [2c 8s 6d] [Jh]
+mabeal1: checks 
+jeremybessas01: checks 
+*** RIVER *** [2c 8s 6d Jh] [5h]
+mabeal1: bets 120
+jeremybessas01: calls 120
+*** SHOW DOWN ***
+mabeal1: shows [8h 3d] (a pair of Eights)
+jeremybessas01: mucks hand 
+mabeal1 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2c 8s 6d Jh 5h]
+Seat 2: mabeal1 (big blind) showed [8h 3d] and won (360) with a pair of Eights
+Seat 3: jeremybessas01 (button) (small blind) mucked [5c 3c]
+
+
+
+PokerStars Hand #259533971984: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:06:04 CET [2026/01/31 8:06:04 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1325 in chips) 
+Seat 3: jeremybessas01 (175 in chips) 
+mabeal1: posts small blind 30
+jeremybessas01: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3s]
+mabeal1: folds 
+Uncalled bet (30) returned to jeremybessas01
+jeremybessas01 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jeremybessas01 (big blind) collected (60)
+
+
+
+PokerStars Hand #259533973265: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:06:14 CET [2026/01/31 8:06:14 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1295 in chips) 
+Seat 3: jeremybessas01 (205 in chips) 
+jeremybessas01: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 5c]
+jeremybessas01: raises 145 to 205 and is all-in
+mabeal1: folds 
+Uncalled bet (145) returned to jeremybessas01
+jeremybessas01 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: jeremybessas01 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259533974283: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:06:21 CET [2026/01/31 8:06:21 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1235 in chips) 
+Seat 3: jeremybessas01 (265 in chips) 
+mabeal1: posts small blind 30
+jeremybessas01: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 2d]
+mabeal1: folds 
+Uncalled bet (30) returned to jeremybessas01
+jeremybessas01 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jeremybessas01 (big blind) collected (60)
+
+
+
+PokerStars Hand #259533975187: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:06:28 CET [2026/01/31 8:06:28 ET]
+Table '3970784463 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1205 in chips) 
+Seat 3: jeremybessas01 (295 in chips) 
+jeremybessas01: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Kc]
+jeremybessas01: calls 30
+mabeal1: raises 1145 to 1205 and is all-in
+jeremybessas01: folds 
+Uncalled bet (1145) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: jeremybessas01 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259533976202: Tournament #3970784463, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 14:06:35 CET [2026/01/31 8:06:35 ET]
+Table '3970784463 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1265 in chips) 
+Seat 3: jeremybessas01 (235 in chips) 
+mabeal1: posts small blind 30
+jeremybessas01: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 9s]
+mabeal1: raises 1205 to 1265 and is all-in
+jeremybessas01: calls 175 and is all-in
+Uncalled bet (1030) returned to mabeal1
+*** FLOP *** [5s Kc 3h]
+*** TURN *** [5s Kc 3h] [5d]
+*** RIVER *** [5s Kc 3h 5d] [7d]
+*** SHOW DOWN ***
+jeremybessas01: shows [6h Jd] (a pair of Fives)
+mabeal1: shows [Ah 9s] (a pair of Fives - Ace kicker)
+mabeal1 collected 470 from pot
+jeremybessas01 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [5s Kc 3h 5d 7d]
+Seat 2: mabeal1 (button) (small blind) showed [Ah 9s] and won (470) with a pair of Fives
+Seat 3: jeremybessas01 (big blind) showed [6h Jd] and lost with a pair of Fives
+
+
+

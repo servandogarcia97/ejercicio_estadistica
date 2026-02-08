@@ -1,0 +1,202 @@
+﻿PokerStars Hand #259396057020: Tournament #3967576434, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:37:53 CET [2026/01/20 17:37:53 ET]
+Table '3967576434 1' 3-max Seat #1 is the button
+Seat 1: profesorisja (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Method87 (500 in chips) 
+mabeal1: posts small blind 10
+Method87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 3s]
+profesorisja: raises 20 to 40
+mabeal1: raises 460 to 500 and is all-in
+Method87: folds 
+profesorisja: calls 460 and is all-in
+*** FLOP *** [9d 8c 4h]
+*** TURN *** [9d 8c 4h] [Ah]
+*** RIVER *** [9d 8c 4h Ah] [Ks]
+*** SHOW DOWN ***
+mabeal1: shows [3h 3s] (a pair of Threes)
+profesorisja: shows [Th Qh] (high card Ace)
+mabeal1 collected 1020 from pot
+profesorisja finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [9d 8c 4h Ah Ks]
+Seat 1: profesorisja (button) showed [Th Qh] and lost with high card Ace
+Seat 2: mabeal1 (small blind) showed [3h 3s] and won (1020) with a pair of Threes
+Seat 3: Method87 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259396067545: Tournament #3967576434, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:38:36 CET [2026/01/20 17:38:36 ET]
+Table '3967576434 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1020 in chips) 
+Seat 3: Method87 (480 in chips) 
+Method87: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Jc]
+Method87: raises 40 to 60
+mabeal1: raises 100 to 160
+Method87: raises 320 to 480 and is all-in
+mabeal1: calls 320
+*** FLOP *** [9s 3d Td]
+*** TURN *** [9s 3d Td] [Ac]
+*** RIVER *** [9s 3d Td Ac] [Qd]
+*** SHOW DOWN ***
+mabeal1: shows [Jh Jc] (a pair of Jacks)
+Method87: shows [9d Ad] (a flush, Ace high)
+Method87 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [9s 3d Td Ac Qd]
+Seat 2: mabeal1 (big blind) showed [Jh Jc] and lost with a pair of Jacks
+Seat 3: Method87 (button) (small blind) showed [9d Ad] and won (960) with a flush, Ace high
+
+
+
+PokerStars Hand #259396073595: Tournament #3967576434, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:39:01 CET [2026/01/20 17:39:01 ET]
+Table '3967576434 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Method87 (960 in chips) 
+mabeal1: posts small blind 10
+Method87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qs]
+mabeal1: raises 40 to 60
+Method87: calls 40
+*** FLOP *** [7h 2s Qc]
+Method87: checks 
+mabeal1: bets 60
+Method87: raises 60 to 120
+mabeal1: raises 360 to 480 and is all-in
+Method87: folds 
+Uncalled bet (360) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [7h 2s Qc]
+Seat 2: mabeal1 (button) (small blind) collected (360)
+Seat 3: Method87 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259396080661: Tournament #3967576434, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:39:30 CET [2026/01/20 17:39:30 ET]
+Table '3967576434 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: Method87 (780 in chips) 
+Method87: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5c]
+Method87: calls 10
+mabeal1: checks 
+*** FLOP *** [3c 6d Kh]
+mabeal1: checks 
+Method87: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Method87
+Method87 collected 40 from pot
+Method87: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c 6d Kh]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: Method87 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259396086124: Tournament #3967576434, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:39:52 CET [2026/01/20 17:39:52 ET]
+Table '3967576434 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: Method87 (800 in chips) 
+mabeal1: posts small blind 10
+Method87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Kd]
+mabeal1: raises 20 to 40
+Method87: raises 160 to 200
+mabeal1: folds 
+Uncalled bet (160) returned to Method87
+Method87 collected 80 from pot
+Method87: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Method87 (big blind) collected (80)
+
+
+
+PokerStars Hand #259396090175: Tournament #3967576434, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:40:08 CET [2026/01/20 17:40:08 ET]
+Table '3967576434 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (660 in chips) 
+Seat 3: Method87 (840 in chips) 
+Method87: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 5d]
+Method87: raises 90 to 120
+mabeal1: raises 540 to 660 and is all-in
+Method87: calls 540
+*** FLOP *** [8c 5s Th]
+*** TURN *** [8c 5s Th] [7s]
+*** RIVER *** [8c 5s Th 7s] [Ah]
+*** SHOW DOWN ***
+mabeal1: shows [5c 5d] (three of a kind, Fives)
+Method87: shows [Jc Ks] (high card Ace)
+mabeal1 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [8c 5s Th 7s Ah]
+Seat 2: mabeal1 (big blind) showed [5c 5d] and won (1320) with three of a kind, Fives
+Seat 3: Method87 (button) (small blind) showed [Jc Ks] and lost with high card Ace
+
+
+
+PokerStars Hand #259396093780: Tournament #3967576434, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:40:23 CET [2026/01/20 17:40:23 ET]
+Table '3967576434 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1320 in chips) 
+Seat 3: Method87 (180 in chips) 
+mabeal1: posts small blind 15
+Method87: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Jh]
+mabeal1: folds 
+Uncalled bet (15) returned to Method87
+Method87 collected 30 from pot
+Method87: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Method87 (big blind) collected (30)
+
+
+
+PokerStars Hand #259396097363: Tournament #3967576434, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:40:37 CET [2026/01/20 17:40:37 ET]
+Table '3967576434 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1305 in chips) 
+Seat 3: Method87 (195 in chips) 
+Method87: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Kd]
+Method87: raises 165 to 195 and is all-in
+mabeal1: calls 165
+*** FLOP *** [6c Qh 2s]
+*** TURN *** [6c Qh 2s] [4h]
+*** RIVER *** [6c Qh 2s 4h] [Kc]
+*** SHOW DOWN ***
+mabeal1: shows [3c Kd] (a pair of Kings)
+Method87: shows [Qs 9s] (a pair of Queens)
+mabeal1 collected 390 from pot
+Method87 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [6c Qh 2s 4h Kc]
+Seat 2: mabeal1 (big blind) showed [3c Kd] and won (390) with a pair of Kings
+Seat 3: Method87 (button) (small blind) showed [Qs 9s] and lost with a pair of Queens
+
+
+

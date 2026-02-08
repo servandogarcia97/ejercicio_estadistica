@@ -1,0 +1,639 @@
+﻿PokerStars Hand #259436291748: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:31:29 CET [2026/01/23 20:31:29 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: tomas5050 (500 in chips) 
+mabeal1: posts small blind 10
+tomas5050: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 7d]
+luisinho2612: raises 20 to 40
+mabeal1: folds 
+tomas5050: calls 20
+*** FLOP *** [2h Jd 8h]
+tomas5050: checks 
+luisinho2612: bets 45
+tomas5050: folds 
+Uncalled bet (45) returned to luisinho2612
+luisinho2612 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2h Jd 8h]
+Seat 1: luisinho2612 (button) collected (90)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: tomas5050 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259436295777: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:31:53 CET [2026/01/23 20:31:53 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (550 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: tomas5050 (460 in chips) 
+tomas5050: posts small blind 10
+luisinho2612: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4c]
+mabeal1: raises 20 to 40
+tomas5050: calls 30
+luisinho2612: folds 
+*** FLOP *** [Ac 8s 6s]
+tomas5050: bets 20
+mabeal1: raises 30 to 50
+tomas5050: calls 30
+*** TURN *** [Ac 8s 6s] [7h]
+tomas5050: checks 
+mabeal1: checks 
+*** RIVER *** [Ac 8s 6s 7h] [3s]
+tomas5050: bets 120
+mabeal1: calls 120
+*** SHOW DOWN ***
+tomas5050: shows [6d Tc] (a pair of Sixes)
+mabeal1: shows [As 4c] (a pair of Aces)
+mabeal1 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Ac 8s 6s 7h 3s]
+Seat 1: luisinho2612 (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [As 4c] and won (440) with a pair of Aces
+Seat 3: tomas5050 (small blind) showed [6d Tc] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259436301952: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:32:30 CET [2026/01/23 20:32:30 ET]
+Table '3968554424 1' 3-max Seat #3 is the button
+Seat 1: luisinho2612 (530 in chips) 
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: tomas5050 (250 in chips) 
+luisinho2612: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 8d]
+tomas5050: calls 20
+luisinho2612: raises 60 to 80
+mabeal1: folds 
+tomas5050: calls 60
+*** FLOP *** [8h 7h Ac]
+luisinho2612: bets 450 and is all-in
+tomas5050: folds 
+Uncalled bet (450) returned to luisinho2612
+luisinho2612 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8h 7h Ac]
+Seat 1: luisinho2612 (small blind) collected (180)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: tomas5050 (button) folded on the Flop
+
+
+
+PokerStars Hand #259436305001: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:32:48 CET [2026/01/23 20:32:48 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (630 in chips) 
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: tomas5050 (170 in chips) 
+mabeal1: posts small blind 10
+tomas5050: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Ah]
+luisinho2612: calls 20
+mabeal1: raises 40 to 60
+tomas5050: calls 40
+luisinho2612: calls 40
+*** FLOP *** [3d Jd 6d]
+mabeal1: checks 
+tomas5050: checks 
+luisinho2612: checks 
+*** TURN *** [3d Jd 6d] [8d]
+mabeal1: bets 40
+tomas5050: calls 40
+luisinho2612: folds 
+*** RIVER *** [3d Jd 6d 8d] [5c]
+mabeal1: bets 130
+tomas5050: calls 70 and is all-in
+Uncalled bet (60) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Qd Ah] (a flush, Queen high)
+tomas5050: shows [7h Td] (a flush, Jack high)
+mabeal1 collected 400 from pot
+tomas5050 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [3d Jd 6d 8d 5c]
+Seat 1: luisinho2612 (button) folded on the Turn
+Seat 2: mabeal1 (small blind) showed [Qd Ah] and won (400) with a flush, Queen high
+Seat 3: tomas5050 (big blind) showed [7h Td] and lost with a flush, Jack high
+
+
+
+PokerStars Hand #259436310141: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:33:19 CET [2026/01/23 20:33:19 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (570 in chips) 
+Seat 2: mabeal1 (930 in chips) 
+mabeal1: posts small blind 10
+luisinho2612: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 2h]
+mabeal1: calls 10
+luisinho2612: checks 
+*** FLOP *** [4c 5d 8h]
+luisinho2612: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to luisinho2612
+luisinho2612 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4c 5d 8h]
+Seat 1: luisinho2612 (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259436311818: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:33:30 CET [2026/01/23 20:33:30 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (590 in chips) 
+Seat 2: mabeal1 (910 in chips) 
+luisinho2612: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 9d]
+luisinho2612: raises 20 to 40
+mabeal1: raises 870 to 910 and is all-in
+luisinho2612: folds 
+Uncalled bet (870) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: luisinho2612 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259436313371: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:33:39 CET [2026/01/23 20:33:39 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (550 in chips) 
+Seat 2: mabeal1 (950 in chips) 
+mabeal1: posts small blind 10
+luisinho2612: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2c]
+mabeal1: raises 20 to 40
+luisinho2612: calls 20
+*** FLOP *** [4s As 4d]
+luisinho2612: checks 
+mabeal1: bets 40
+luisinho2612: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s As 4d]
+Seat 1: luisinho2612 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259436315448: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:33:51 CET [2026/01/23 20:33:51 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (510 in chips) 
+Seat 2: mabeal1 (990 in chips) 
+luisinho2612: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Jc]
+luisinho2612: raises 490 to 510 and is all-in
+mabeal1: folds 
+Uncalled bet (490) returned to luisinho2612
+luisinho2612 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: luisinho2612 (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259436316585: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:33:58 CET [2026/01/23 20:33:58 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (530 in chips) 
+Seat 2: mabeal1 (970 in chips) 
+mabeal1: posts small blind 10
+luisinho2612: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 5c]
+mabeal1: calls 10
+luisinho2612: raises 60 to 80
+mabeal1: folds 
+Uncalled bet (60) returned to luisinho2612
+luisinho2612 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: luisinho2612 (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259436317864: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:34:06 CET [2026/01/23 20:34:06 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (550 in chips) 
+Seat 2: mabeal1 (950 in chips) 
+luisinho2612: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 7s]
+luisinho2612: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to luisinho2612
+luisinho2612 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: luisinho2612 (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259436318878: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:34:12 CET [2026/01/23 20:34:12 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (570 in chips) 
+Seat 2: mabeal1 (930 in chips) 
+mabeal1: posts small blind 10
+luisinho2612: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 8c]
+mabeal1: calls 10
+luisinho2612: checks 
+*** FLOP *** [Ts Th Qs]
+luisinho2612: bets 20
+mabeal1: calls 20
+*** TURN *** [Ts Th Qs] [8s]
+luisinho2612: checks 
+mabeal1: checks 
+*** RIVER *** [Ts Th Qs 8s] [4d]
+luisinho2612: checks 
+mabeal1: bets 60
+luisinho2612: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [Qh 8c] (two pair, Queens and Tens)
+luisinho2612: mucks hand 
+mabeal1 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ts Th Qs 8s 4d]
+Seat 1: luisinho2612 (big blind) mucked [2c Jh]
+Seat 2: mabeal1 (button) (small blind) showed [Qh 8c] and won (200) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #259436323606: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:34:41 CET [2026/01/23 20:34:41 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (470 in chips) 
+Seat 2: mabeal1 (1030 in chips) 
+luisinho2612: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 8d]
+luisinho2612: calls 15
+mabeal1: checks 
+*** FLOP *** [3d Ah Kc]
+mabeal1: checks 
+luisinho2612: checks 
+*** TURN *** [3d Ah Kc] [Qs]
+mabeal1: bets 30
+luisinho2612: calls 30
+*** RIVER *** [3d Ah Kc Qs] [4c]
+mabeal1: checks 
+luisinho2612: checks 
+*** SHOW DOWN ***
+mabeal1: shows [4s 8d] (a pair of Fours)
+luisinho2612: shows [7c Kd] (a pair of Kings)
+luisinho2612 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d Ah Kc Qs 4c]
+Seat 1: luisinho2612 (button) (small blind) showed [7c Kd] and won (120) with a pair of Kings
+Seat 2: mabeal1 (big blind) showed [4s 8d] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259436326316: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:34:56 CET [2026/01/23 20:34:56 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (530 in chips) 
+Seat 2: mabeal1 (970 in chips) 
+mabeal1: posts small blind 15
+luisinho2612: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Ad]
+mabeal1: raises 30 to 60
+luisinho2612: calls 30
+*** FLOP *** [9h Jc 2h]
+luisinho2612: checks 
+mabeal1: checks 
+*** TURN *** [9h Jc 2h] [Ks]
+luisinho2612: checks 
+mabeal1: checks 
+*** RIVER *** [9h Jc 2h Ks] [Qc]
+luisinho2612: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+luisinho2612: shows [Qs 8d] (a pair of Queens)
+mabeal1: mucks hand 
+luisinho2612 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9h Jc 2h Ks Qc]
+Seat 1: luisinho2612 (big blind) showed [Qs 8d] and won (180) with a pair of Queens
+Seat 2: mabeal1 (button) (small blind) mucked [4s Ad]
+
+
+
+PokerStars Hand #259436330423: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:35:21 CET [2026/01/23 20:35:21 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (620 in chips) 
+Seat 2: mabeal1 (880 in chips) 
+luisinho2612: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 6d]
+luisinho2612: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: luisinho2612 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259436331439: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:35:27 CET [2026/01/23 20:35:27 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (605 in chips) 
+Seat 2: mabeal1 (895 in chips) 
+mabeal1: posts small blind 15
+luisinho2612: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Tc]
+mabeal1: calls 15
+luisinho2612: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to luisinho2612
+luisinho2612 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: luisinho2612 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259436332627: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:35:35 CET [2026/01/23 20:35:35 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (635 in chips) 
+Seat 2: mabeal1 (865 in chips) 
+luisinho2612: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 6h]
+luisinho2612: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to luisinho2612
+luisinho2612 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: luisinho2612 (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259436333786: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:35:41 CET [2026/01/23 20:35:41 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (665 in chips) 
+Seat 2: mabeal1 (835 in chips) 
+mabeal1: posts small blind 15
+luisinho2612: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Js]
+mabeal1: raises 30 to 60
+luisinho2612: calls 30
+*** FLOP *** [Jc 3h 7s]
+luisinho2612: checks 
+mabeal1: bets 60
+luisinho2612: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jc 3h 7s]
+Seat 1: luisinho2612 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259436335569: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:35:52 CET [2026/01/23 20:35:52 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (605 in chips) 
+Seat 2: mabeal1 (895 in chips) 
+luisinho2612: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Qh]
+luisinho2612: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [5c 7c 3d]
+mabeal1: checks 
+luisinho2612: bets 60
+mabeal1: calls 60
+*** TURN *** [5c 7c 3d] [5d]
+mabeal1: checks 
+luisinho2612: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to luisinho2612
+luisinho2612 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5c 7c 3d 5d]
+Seat 1: luisinho2612 (button) (small blind) collected (240)
+Seat 2: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259436339133: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:36:13 CET [2026/01/23 20:36:13 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (725 in chips) 
+Seat 2: mabeal1 (775 in chips) 
+mabeal1: posts small blind 15
+luisinho2612: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5d]
+mabeal1: calls 15
+luisinho2612: checks 
+*** FLOP *** [Ks 7c 4c]
+luisinho2612: bets 30
+mabeal1: raises 60 to 90
+luisinho2612: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks 7c 4c]
+Seat 1: luisinho2612 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259436341040: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:36:25 CET [2026/01/23 20:36:25 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (665 in chips) 
+Seat 2: mabeal1 (835 in chips) 
+luisinho2612: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 4h]
+luisinho2612: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: luisinho2612 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259436341870: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:36:30 CET [2026/01/23 20:36:30 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (650 in chips) 
+Seat 2: mabeal1 (850 in chips) 
+mabeal1: posts small blind 15
+luisinho2612: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9c]
+mabeal1: raises 30 to 60
+luisinho2612: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: luisinho2612 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259436342706: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:36:35 CET [2026/01/23 20:36:35 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (620 in chips) 
+Seat 2: mabeal1 (880 in chips) 
+luisinho2612: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qh]
+luisinho2612: calls 15
+mabeal1: checks 
+*** FLOP *** [8c As Td]
+mabeal1: checks 
+luisinho2612: checks 
+*** TURN *** [8c As Td] [Qc]
+mabeal1: checks 
+luisinho2612: checks 
+*** RIVER *** [8c As Td Qc] [8s]
+mabeal1: bets 60
+luisinho2612: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [3s Qh] (two pair, Queens and Eights)
+luisinho2612: shows [8h 9c] (three of a kind, Eights)
+luisinho2612 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8c As Td Qc 8s]
+Seat 1: luisinho2612 (button) (small blind) showed [8h 9c] and won (180) with three of a kind, Eights
+Seat 2: mabeal1 (big blind) showed [3s Qh] and lost with two pair, Queens and Eights
+
+
+
+PokerStars Hand #259436345358: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:36:51 CET [2026/01/23 20:36:51 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (710 in chips) 
+Seat 2: mabeal1 (790 in chips) 
+mabeal1: posts small blind 15
+luisinho2612: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 2c]
+mabeal1: calls 15
+luisinho2612: checks 
+*** FLOP *** [5d Jh 3h]
+luisinho2612: bets 30
+mabeal1: raises 60 to 90
+luisinho2612: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d Jh 3h]
+Seat 1: luisinho2612 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259436347509: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:37:04 CET [2026/01/23 20:37:04 ET]
+Table '3968554424 1' 3-max Seat #1 is the button
+Seat 1: luisinho2612 (650 in chips) 
+Seat 2: mabeal1 (850 in chips) 
+luisinho2612: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 6s]
+luisinho2612: calls 15
+mabeal1: checks 
+*** FLOP *** [8s 8d Qh]
+mabeal1: checks 
+luisinho2612: checks 
+*** TURN *** [8s 8d Qh] [4h]
+mabeal1: checks 
+luisinho2612: checks 
+*** RIVER *** [8s 8d Qh 4h] [Jc]
+mabeal1: checks 
+luisinho2612: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ts 6s] (a pair of Eights)
+luisinho2612: shows [7d Ah] (a pair of Eights - Ace kicker)
+luisinho2612 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8s 8d Qh 4h Jc]
+Seat 1: luisinho2612 (button) (small blind) showed [7d Ah] and won (60) with a pair of Eights
+Seat 2: mabeal1 (big blind) showed [Ts 6s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259436349762: Tournament #3968554424, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:37:17 CET [2026/01/23 20:37:17 ET]
+Table '3968554424 1' 3-max Seat #2 is the button
+Seat 1: luisinho2612 (680 in chips) 
+Seat 2: mabeal1 (820 in chips) 
+mabeal1: posts small blind 15
+luisinho2612: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Qc]
+mabeal1: raises 30 to 60
+luisinho2612: raises 620 to 680 and is all-in
+mabeal1: calls 620
+*** FLOP *** [Td Jh Kd]
+*** TURN *** [Td Jh Kd] [5s]
+*** RIVER *** [Td Jh Kd 5s] [6s]
+*** SHOW DOWN ***
+luisinho2612: shows [Ts Th] (three of a kind, Tens)
+mabeal1: shows [As Qc] (a straight, Ten to Ace)
+mabeal1 collected 1360 from pot
+luisinho2612 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Board [Td Jh Kd 5s 6s]
+Seat 1: luisinho2612 (big blind) showed [Ts Th] and lost with three of a kind, Tens
+Seat 2: mabeal1 (button) (small blind) showed [As Qc] and won (1360) with a straight, Ten to Ace
+
+
+

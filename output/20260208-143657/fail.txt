@@ -1,0 +1,1 @@
+   FAIL: HH20260203 Unitas VII - 0,01 €-0,02 € - EUR Hold'em Sin límite.txt (list index out of range)

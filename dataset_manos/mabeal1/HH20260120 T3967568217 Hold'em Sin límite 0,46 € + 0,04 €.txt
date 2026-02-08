@@ -1,0 +1,441 @@
+﻿PokerStars Hand #259395698699: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:13:47 CET [2026/01/20 17:13:47 ET]
+Table '3967568217 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Pingajoso (500 in chips) 
+Seat 3: Liu5 (500 in chips) 
+Pingajoso: posts small blind 10
+Liu5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Th]
+mabeal1: raises 20 to 40
+Pingajoso: calls 30
+Liu5: raises 200 to 240
+mabeal1: raises 260 to 500 and is all-in
+Pingajoso: folds 
+Liu5: calls 260 and is all-in
+*** FLOP *** [3s Ah Kc]
+*** TURN *** [3s Ah Kc] [7d]
+*** RIVER *** [3s Ah Kc 7d] [8d]
+*** SHOW DOWN ***
+Liu5: shows [9h 9d] (a pair of Nines)
+mabeal1: shows [Ts Th] (a pair of Tens)
+mabeal1 collected 1040 from pot
+Liu5 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [3s Ah Kc 7d 8d]
+Seat 1: mabeal1 (button) showed [Ts Th] and won (1040) with a pair of Tens
+Seat 2: Pingajoso (small blind) folded before Flop
+Seat 3: Liu5 (big blind) showed [9h 9d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259395708354: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:14:25 CET [2026/01/20 17:14:25 ET]
+Table '3967568217 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 2: Pingajoso (460 in chips) 
+Pingajoso: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 9h]
+Pingajoso: calls 10
+mabeal1: checks 
+*** FLOP *** [8c Ad 7c]
+mabeal1: checks 
+Pingajoso: bets 20
+mabeal1: calls 20
+*** TURN *** [8c Ad 7c] [Tc]
+mabeal1: checks 
+Pingajoso: bets 40
+mabeal1: calls 40
+*** RIVER *** [8c Ad 7c Tc] [4s]
+mabeal1: checks 
+Pingajoso: bets 80
+mabeal1: raises 880 to 960 and is all-in
+Pingajoso: calls 300 and is all-in
+Uncalled bet (580) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [7h 9h] (a pair of Sevens)
+Pingajoso: shows [Ah Qc] (a pair of Aces)
+Pingajoso collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [8c Ad 7c Tc 4s]
+Seat 1: mabeal1 (big blind) showed [7h 9h] and lost with a pair of Sevens
+Seat 2: Pingajoso (button) (small blind) showed [Ah Qc] and won (920) with a pair of Aces
+
+
+
+PokerStars Hand #259395719098: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:15:08 CET [2026/01/20 17:15:08 ET]
+Table '3967568217 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Pingajoso (920 in chips) 
+mabeal1: posts small blind 10
+Pingajoso: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4s]
+mabeal1: calls 10
+Pingajoso: checks 
+*** FLOP *** [5h 2h 7s]
+Pingajoso: bets 20
+mabeal1: calls 20
+*** TURN *** [5h 2h 7s] [2c]
+Pingajoso: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Pingajoso
+Pingajoso collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h 2h 7s 2c]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 2: Pingajoso (big blind) collected (80)
+
+
+
+PokerStars Hand #259395726215: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:15:36 CET [2026/01/20 17:15:36 ET]
+Table '3967568217 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: Pingajoso (960 in chips) 
+Pingajoso: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 7c]
+Pingajoso: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [3h Qh 6s]
+mabeal1: checks 
+Pingajoso: bets 60
+mabeal1: calls 60
+*** TURN *** [3h Qh 6s] [8c]
+mabeal1: checks 
+Pingajoso: checks 
+*** RIVER *** [3h Qh 6s 8c] [Ac]
+mabeal1: checks 
+Pingajoso: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qc 7c] (a pair of Queens)
+Pingajoso: mucks hand 
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3h Qh 6s 8c Ac]
+Seat 1: mabeal1 (big blind) showed [Qc 7c] and won (240) with a pair of Queens
+Seat 2: Pingajoso (button) (small blind) mucked [Jh Jd]
+
+
+
+PokerStars Hand #259395733014: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:16:03 CET [2026/01/20 17:16:03 ET]
+Table '3967568217 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 2: Pingajoso (840 in chips) 
+mabeal1: posts small blind 10
+Pingajoso: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8c]
+mabeal1: calls 10
+Pingajoso: checks 
+*** FLOP *** [7d 5c 3c]
+Pingajoso: checks 
+mabeal1: bets 20
+Pingajoso: calls 20
+*** TURN *** [7d 5c 3c] [Ts]
+Pingajoso: checks 
+mabeal1: bets 120
+Pingajoso: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d 5c 3c Ts]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: Pingajoso (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259395740965: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:16:35 CET [2026/01/20 17:16:35 ET]
+Table '3967568217 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (700 in chips) 
+Seat 2: Pingajoso (800 in chips) 
+Pingajoso: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2s]
+Pingajoso: calls 10
+mabeal1: checks 
+*** FLOP *** [Tc 3d 9h]
+mabeal1: checks 
+Pingajoso: checks 
+*** TURN *** [Tc 3d 9h] [Qs]
+mabeal1: bets 40
+Pingajoso: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Tc 3d 9h Qs]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Pingajoso (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259395747376: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:17:01 CET [2026/01/20 17:17:01 ET]
+Table '3967568217 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (720 in chips) 
+Seat 2: Pingajoso (780 in chips) 
+mabeal1: posts small blind 15
+Pingajoso: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Jh]
+mabeal1: calls 15
+Pingajoso: checks 
+*** FLOP *** [2s Ad Tc]
+Pingajoso: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Pingajoso
+Pingajoso collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2s Ad Tc]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 2: Pingajoso (big blind) collected (60)
+
+
+
+PokerStars Hand #259395751997: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:17:19 CET [2026/01/20 17:17:19 ET]
+Table '3967568217 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 2: Pingajoso (810 in chips) 
+Pingajoso: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8s]
+Pingajoso: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: Pingajoso (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395753119: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:17:24 CET [2026/01/20 17:17:24 ET]
+Table '3967568217 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (705 in chips) 
+Seat 2: Pingajoso (795 in chips) 
+mabeal1: posts small blind 15
+Pingajoso: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Jd]
+mabeal1: calls 15
+Pingajoso: checks 
+*** FLOP *** [7s 8h 4c]
+Pingajoso: checks 
+mabeal1: bets 30
+Pingajoso: calls 30
+*** TURN *** [7s 8h 4c] [Js]
+Pingajoso: checks 
+mabeal1: bets 90
+Pingajoso: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s 8h 4c Js]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 2: Pingajoso (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259395762476: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:18:01 CET [2026/01/20 17:18:01 ET]
+Table '3967568217 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (765 in chips) 
+Seat 2: Pingajoso (735 in chips) 
+Pingajoso: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Kh]
+Pingajoso: calls 15
+mabeal1: raises 60 to 90
+Pingajoso: calls 60
+*** FLOP *** [Ad Tc 2c]
+mabeal1: bets 60
+Pingajoso: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ad Tc 2c]
+Seat 1: mabeal1 (big blind) collected (180)
+Seat 2: Pingajoso (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259395775748: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:18:54 CET [2026/01/20 17:18:54 ET]
+Table '3967568217 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (855 in chips) 
+Seat 2: Pingajoso (645 in chips) 
+mabeal1: posts small blind 15
+Pingajoso: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Qh]
+mabeal1: calls 15
+Pingajoso: raises 615 to 645 and is all-in
+mabeal1: folds 
+Uncalled bet (615) returned to Pingajoso
+Pingajoso collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: Pingajoso (big blind) collected (60)
+
+
+
+PokerStars Hand #259395778433: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:19:04 CET [2026/01/20 17:19:04 ET]
+Table '3967568217 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (825 in chips) 
+Seat 2: Pingajoso (675 in chips) 
+Pingajoso: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6d]
+Pingajoso: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: Pingajoso (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395780440: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:19:12 CET [2026/01/20 17:19:12 ET]
+Table '3967568217 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (840 in chips) 
+Seat 2: Pingajoso (660 in chips) 
+mabeal1: posts small blind 15
+Pingajoso: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2c]
+mabeal1: calls 15
+Pingajoso: raises 630 to 660 and is all-in
+mabeal1: folds 
+Uncalled bet (630) returned to Pingajoso
+Pingajoso collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: Pingajoso (big blind) collected (60)
+
+
+
+PokerStars Hand #259395784401: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:19:28 CET [2026/01/20 17:19:28 ET]
+Table '3967568217 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (810 in chips) 
+Seat 2: Pingajoso (690 in chips) 
+Pingajoso: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Th]
+Pingajoso: calls 15
+mabeal1: raises 60 to 90
+Pingajoso: calls 60
+*** FLOP *** [9d 3c 6c]
+mabeal1: bets 120
+Pingajoso: calls 120
+*** TURN *** [9d 3c 6c] [Js]
+mabeal1: checks 
+Pingajoso: checks 
+*** RIVER *** [9d 3c 6c Js] [Kc]
+mabeal1: bets 150
+Pingajoso: raises 330 to 480 and is all-in
+mabeal1: folds 
+Uncalled bet (330) returned to Pingajoso
+Pingajoso collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [9d 3c 6c Js Kc]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: Pingajoso (button) (small blind) collected (720)
+
+
+
+PokerStars Hand #259395799900: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:20:31 CET [2026/01/20 17:20:31 ET]
+Table '3967568217 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (450 in chips) 
+Seat 2: Pingajoso (1050 in chips) 
+mabeal1: posts small blind 20
+Pingajoso: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8d]
+mabeal1: calls 20
+Pingajoso: checks 
+*** FLOP *** [Ad Qh 2h]
+Pingajoso: checks 
+mabeal1: bets 40
+Pingajoso: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad Qh 2h]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: Pingajoso (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259395803305: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:20:45 CET [2026/01/20 17:20:45 ET]
+Table '3967568217 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 2: Pingajoso (1010 in chips) 
+Pingajoso: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Jd]
+Pingajoso: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Pingajoso (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395804349: Tournament #3967568217, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:20:49 CET [2026/01/20 17:20:49 ET]
+Table '3967568217 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Pingajoso (990 in chips) 
+mabeal1: posts small blind 20
+Pingajoso: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Tc]
+mabeal1: raises 40 to 80
+Pingajoso: raises 40 to 120
+mabeal1: raises 390 to 510 and is all-in
+Pingajoso: calls 390
+*** FLOP *** [Jd 4c Kh]
+*** TURN *** [Jd 4c Kh] [6h]
+*** RIVER *** [Jd 4c Kh 6h] [8h]
+*** SHOW DOWN ***
+Pingajoso: shows [Kd Ks] (three of a kind, Kings)
+mabeal1: shows [Qc Tc] (high card King)
+Pingajoso collected 1020 from pot
+mabeal1 finished the tournament in 2nd place
+Pingajoso wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Jd 4c Kh 6h 8h]
+Seat 1: mabeal1 (button) (small blind) showed [Qc Tc] and lost with high card King
+Seat 2: Pingajoso (big blind) showed [Kd Ks] and won (1020) with three of a kind, Kings
+
+
+

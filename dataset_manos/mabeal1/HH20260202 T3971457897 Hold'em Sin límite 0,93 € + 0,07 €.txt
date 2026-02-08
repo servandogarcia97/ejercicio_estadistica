@@ -1,0 +1,422 @@
+﻿PokerStars Hand #259564289447: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:46:34 CET [2026/02/02 12:46:34 ET]
+Table '3971457897 1' 3-max Seat #1 is the button
+Seat 1: GLord75 (500 in chips) 
+Seat 2: cataesp (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+cataesp: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9h]
+GLord75: calls 20
+cataesp: raises 20 to 40
+mabeal1: folds 
+GLord75: calls 20
+*** FLOP *** [4h 3h Qh]
+cataesp: bets 20
+GLord75: raises 140 to 160
+cataesp: raises 300 to 460 and is all-in
+GLord75: folds 
+Uncalled bet (300) returned to cataesp
+cataesp collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [4h 3h Qh]
+Seat 1: GLord75 (button) folded on the Flop
+Seat 2: cataesp (small blind) collected (420)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259564296949: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:47:09 CET [2026/02/02 12:47:09 ET]
+Table '3971457897 1' 3-max Seat #2 is the button
+Seat 1: GLord75 (300 in chips) 
+Seat 2: cataesp (720 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+GLord75: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 4s]
+cataesp: raises 20 to 40
+mabeal1: folds 
+GLord75: calls 20
+*** FLOP *** [6s 8h Td]
+GLord75: checks 
+cataesp: checks 
+*** TURN *** [6s 8h Td] [Kh]
+GLord75: checks 
+cataesp: checks 
+*** RIVER *** [6s 8h Td Kh] [Qh]
+GLord75: checks 
+cataesp: checks 
+*** SHOW DOWN ***
+GLord75: shows [3s 3c] (a pair of Threes)
+cataesp: shows [4h 6d] (a pair of Sixes)
+cataesp collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6s 8h Td Kh Qh]
+Seat 1: GLord75 (big blind) showed [3s 3c] and lost with a pair of Threes
+Seat 2: cataesp (button) showed [4h 6d] and won (90) with a pair of Sixes
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259564300882: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:47:27 CET [2026/02/02 12:47:27 ET]
+Table '3971457897 1' 3-max Seat #3 is the button
+Seat 1: GLord75 (260 in chips) 
+Seat 2: cataesp (770 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+GLord75: posts small blind 10
+cataesp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 7c]
+mabeal1: folds 
+GLord75: calls 10
+cataesp: checks 
+*** FLOP *** [5h 4h 2s]
+GLord75: bets 20
+cataesp: calls 20
+*** TURN *** [5h 4h 2s] [3h]
+GLord75: bets 20
+cataesp: raises 120 to 140
+GLord75: raises 80 to 220 and is all-in
+cataesp: calls 80
+*** RIVER *** [5h 4h 2s 3h] [Th]
+*** SHOW DOWN ***
+GLord75: shows [2d 3d] (two pair, Threes and Deuces)
+cataesp: shows [Ah 2c] (a flush, Ace high)
+cataesp collected 520 from pot
+GLord75 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [5h 4h 2s 3h Th]
+Seat 1: GLord75 (small blind) showed [2d 3d] and lost with two pair, Threes and Deuces
+Seat 2: cataesp (big blind) showed [Ah 2c] and won (520) with a flush, Ace high
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259564311026: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:48:13 CET [2026/02/02 12:48:13 ET]
+Table '3971457897 1' 3-max Seat #2 is the button
+Seat 2: cataesp (1030 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+cataesp: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9d]
+cataesp: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to cataesp
+cataesp collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: cataesp (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259564312778: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:48:21 CET [2026/02/02 12:48:21 ET]
+Table '3971457897 1' 3-max Seat #3 is the button
+Seat 2: cataesp (1050 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+mabeal1: posts small blind 10
+cataesp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Qd]
+mabeal1: calls 10
+cataesp: checks 
+*** FLOP *** [Th Jc 3h]
+cataesp: checks 
+mabeal1: bets 20
+cataesp: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th Jc 3h]
+Seat 2: cataesp (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259564317659: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:48:44 CET [2026/02/02 12:48:44 ET]
+Table '3971457897 1' 3-max Seat #2 is the button
+Seat 2: cataesp (1030 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+cataesp: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 2s]
+cataesp: raises 20 to 40
+mabeal1: raises 430 to 470 and is all-in
+cataesp: folds 
+Uncalled bet (430) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: cataesp (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259564320561: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:48:57 CET [2026/02/02 12:48:57 ET]
+Table '3971457897 1' 3-max Seat #3 is the button
+Seat 2: cataesp (990 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+mabeal1: posts small blind 10
+cataesp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 3h]
+mabeal1: calls 10
+cataesp: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to cataesp
+cataesp collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: cataesp (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259564323696: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:49:12 CET [2026/02/02 12:49:12 ET]
+Table '3971457897 1' 3-max Seat #2 is the button
+Seat 2: cataesp (1010 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+cataesp: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ac]
+cataesp: calls 10
+mabeal1: raises 470 to 490 and is all-in
+cataesp: folds 
+Uncalled bet (470) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: cataesp (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259564326333: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:49:24 CET [2026/02/02 12:49:24 ET]
+Table '3971457897 1' 3-max Seat #3 is the button
+Seat 2: cataesp (990 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+mabeal1: posts small blind 10
+cataesp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 7h]
+mabeal1: calls 10
+cataesp: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Qc 6s 5d]
+cataesp: bets 20
+mabeal1: calls 20
+*** TURN *** [Qc 6s 5d] [8h]
+cataesp: bets 120
+mabeal1: calls 120
+*** RIVER *** [Qc 6s 5d 8h] [4c]
+cataesp: bets 360
+mabeal1: calls 330 and is all-in
+Uncalled bet (30) returned to cataesp
+*** SHOW DOWN ***
+cataesp: shows [8d 7d] (a straight, Four to Eight)
+mabeal1: shows [5h 7h] (a straight, Four to Eight)
+cataesp collected 510 from pot
+mabeal1 collected 510 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Qc 6s 5d 8h 4c]
+Seat 2: cataesp (big blind) showed [8d 7d] and won (510) with a straight, Four to Eight
+Seat 3: mabeal1 (button) (small blind) showed [5h 7h] and won (510) with a straight, Four to Eight
+
+
+
+PokerStars Hand #259564334304: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:50:01 CET [2026/02/02 12:50:01 ET]
+Table '3971457897 1' 3-max Seat #2 is the button
+Seat 2: cataesp (990 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+cataesp: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6d]
+cataesp: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [7s Tc 7c]
+mabeal1: checks 
+cataesp: checks 
+*** TURN *** [7s Tc 7c] [8h]
+mabeal1: checks 
+cataesp: checks 
+*** RIVER *** [7s Tc 7c 8h] [3s]
+mabeal1: bets 90
+cataesp: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s Tc 7c 8h 3s]
+Seat 2: cataesp (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259564341900: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:50:37 CET [2026/02/02 12:50:37 ET]
+Table '3971457897 1' 3-max Seat #3 is the button
+Seat 2: cataesp (930 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+mabeal1: posts small blind 15
+cataesp: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Kc]
+mabeal1: raises 30 to 60
+cataesp: raises 120 to 180
+mabeal1: raises 390 to 570 and is all-in
+cataesp: calls 390
+*** FLOP *** [3s 8d 6d]
+*** TURN *** [3s 8d 6d] [2d]
+*** RIVER *** [3s 8d 6d 2d] [Qc]
+*** SHOW DOWN ***
+cataesp: shows [As Jd] (high card Ace)
+mabeal1: shows [Kh Kc] (a pair of Kings)
+mabeal1 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [3s 8d 6d 2d Qc]
+Seat 2: cataesp (big blind) showed [As Jd] and lost with high card Ace
+Seat 3: mabeal1 (button) (small blind) showed [Kh Kc] and won (1140) with a pair of Kings
+
+
+
+PokerStars Hand #259564345680: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:50:55 CET [2026/02/02 12:50:55 ET]
+Table '3971457897 1' 3-max Seat #2 is the button
+Seat 2: cataesp (360 in chips) 
+Seat 3: mabeal1 (1140 in chips) 
+cataesp: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 9d]
+cataesp: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Kd Ah Ad]
+mabeal1: checks 
+cataesp: checks 
+*** TURN *** [Kd Ah Ad] [6c]
+mabeal1: bets 30
+cataesp: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd Ah Ad 6c]
+Seat 2: cataesp (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259564348721: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:51:09 CET [2026/02/02 12:51:09 ET]
+Table '3971457897 1' 3-max Seat #3 is the button
+Seat 2: cataesp (300 in chips) 
+Seat 3: mabeal1 (1200 in chips) 
+mabeal1: posts small blind 15
+cataesp: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 4s]
+mabeal1: calls 15
+cataesp: raises 270 to 300 and is all-in
+mabeal1: folds 
+Uncalled bet (270) returned to cataesp
+cataesp collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: cataesp (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259564350707: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:51:18 CET [2026/02/02 12:51:18 ET]
+Table '3971457897 1' 3-max Seat #2 is the button
+Seat 2: cataesp (330 in chips) 
+Seat 3: mabeal1 (1170 in chips) 
+cataesp: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Jd]
+cataesp: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to cataesp
+cataesp collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: cataesp (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259564352034: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:51:25 CET [2026/02/02 12:51:25 ET]
+Table '3971457897 1' 3-max Seat #3 is the button
+Seat 2: cataesp (360 in chips) 
+Seat 3: mabeal1 (1140 in chips) 
+mabeal1: posts small blind 15
+cataesp: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 8d]
+mabeal1: raises 30 to 60
+cataesp: calls 30
+*** FLOP *** [Ts 3h Th]
+cataesp: checks 
+mabeal1: bets 90
+cataesp: calls 90
+*** TURN *** [Ts 3h Th] [Ah]
+cataesp: checks 
+mabeal1: checks 
+*** RIVER *** [Ts 3h Th Ah] [8s]
+cataesp: checks 
+mabeal1: bets 990 and is all-in
+cataesp: folds 
+Uncalled bet (990) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ts 3h Th Ah 8s]
+Seat 2: cataesp (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (300)
+
+
+
+PokerStars Hand #259564358186: Tournament #3971457897, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:51:53 CET [2026/02/02 12:51:53 ET]
+Table '3971457897 1' 3-max Seat #2 is the button
+Seat 2: cataesp (210 in chips) 
+Seat 3: mabeal1 (1290 in chips) 
+cataesp: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 8c]
+cataesp: raises 30 to 60
+mabeal1: raises 1230 to 1290 and is all-in
+cataesp: calls 150 and is all-in
+Uncalled bet (1080) returned to mabeal1
+*** FLOP *** [9c 4d 6d]
+*** TURN *** [9c 4d 6d] [5c]
+*** RIVER *** [9c 4d 6d 5c] [Ts]
+*** SHOW DOWN ***
+mabeal1: shows [8s 8c] (a pair of Eights)
+cataesp: shows [7d 5d] (a pair of Fives)
+mabeal1 collected 420 from pot
+cataesp finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [9c 4d 6d 5c Ts]
+Seat 2: cataesp (button) (small blind) showed [7d 5d] and lost with a pair of Fives
+Seat 3: mabeal1 (big blind) showed [8s 8c] and won (420) with a pair of Eights
+
+
+

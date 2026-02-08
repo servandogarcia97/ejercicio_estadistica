@@ -1,0 +1,492 @@
+﻿PokerStars Hand #259601369374: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:46:08 CET [2026/02/05 9:46:08 ET]
+Table '3972305995 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Zeitung536 (500 in chips) 
+Seat 3: Xavi0664 (500 in chips) 
+Zeitung536: posts small blind 10
+Xavi0664: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Js]
+mabeal1: folds 
+Zeitung536: raises 40 to 60
+Xavi0664: calls 40
+*** FLOP *** [Jh Kc 6h]
+Zeitung536: checks 
+Xavi0664: checks 
+*** TURN *** [Jh Kc 6h] [5c]
+Zeitung536: checks 
+Xavi0664: bets 20
+Zeitung536: calls 20
+*** RIVER *** [Jh Kc 6h 5c] [7s]
+Zeitung536: checks 
+Xavi0664: checks 
+*** SHOW DOWN ***
+Zeitung536: shows [3d 3h] (a pair of Threes)
+Xavi0664: shows [Qs 6d] (a pair of Sixes)
+Xavi0664 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jh Kc 6h 5c 7s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Zeitung536 (small blind) showed [3d 3h] and lost with a pair of Threes
+Seat 3: Xavi0664 (big blind) showed [Qs 6d] and won (160) with a pair of Sixes
+
+
+
+PokerStars Hand #259601373404: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:46:33 CET [2026/02/05 9:46:33 ET]
+Table '3972305995 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Zeitung536 (420 in chips) 
+Seat 3: Xavi0664 (580 in chips) 
+Xavi0664: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 5h]
+Zeitung536: calls 20
+Xavi0664: raises 20 to 40
+mabeal1: folds 
+Zeitung536: calls 20
+*** FLOP *** [Kd 6c 6s]
+Xavi0664: bets 20
+Zeitung536: raises 20 to 40
+Xavi0664: raises 20 to 60
+Zeitung536: folds 
+Uncalled bet (20) returned to Xavi0664
+Xavi0664 collected 180 from pot
+Xavi0664: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kd 6c 6s]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Zeitung536 (button) folded on the Flop
+Seat 3: Xavi0664 (small blind) collected (180)
+
+
+
+PokerStars Hand #259601376285: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:46:51 CET [2026/02/05 9:46:51 ET]
+Table '3972305995 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: Zeitung536 (340 in chips) 
+Seat 3: Xavi0664 (680 in chips) 
+mabeal1: posts small blind 10
+Zeitung536: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2h]
+Xavi0664: calls 20
+mabeal1: folds 
+Zeitung536: checks 
+*** FLOP *** [9s Ah 4c]
+Zeitung536: checks 
+Xavi0664: checks 
+*** TURN *** [9s Ah 4c] [6h]
+Zeitung536: checks 
+Xavi0664: bets 60
+Zeitung536: calls 60
+*** RIVER *** [9s Ah 4c 6h] [9h]
+Zeitung536: checks 
+Xavi0664: checks 
+*** SHOW DOWN ***
+Zeitung536: shows [7c 8h] (a pair of Nines)
+Xavi0664: shows [5d Qd] (a pair of Nines - Ace+Queen kicker)
+Xavi0664 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [9s Ah 4c 6h 9h]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Zeitung536 (big blind) showed [7c 8h] and lost with a pair of Nines
+Seat 3: Xavi0664 (button) showed [5d Qd] and won (170) with a pair of Nines
+
+
+
+PokerStars Hand #259601380997: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:47:21 CET [2026/02/05 9:47:21 ET]
+Table '3972305995 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: Zeitung536 (260 in chips) 
+Seat 3: Xavi0664 (770 in chips) 
+Zeitung536: posts small blind 10
+Xavi0664: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Kd]
+mabeal1: raises 20 to 40
+Zeitung536: raises 220 to 260 and is all-in
+Xavi0664: folds 
+mabeal1: folds 
+Uncalled bet (220) returned to Zeitung536
+Zeitung536 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: Zeitung536 (small blind) collected (100)
+Seat 3: Xavi0664 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601383090: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:47:35 CET [2026/02/05 9:47:35 ET]
+Table '3972305995 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: Zeitung536 (320 in chips) 
+Seat 3: Xavi0664 (750 in chips) 
+Xavi0664: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Kd]
+Zeitung536: raises 300 to 320 and is all-in
+Xavi0664: folds 
+mabeal1: folds 
+Uncalled bet (300) returned to Zeitung536
+Zeitung536 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Zeitung536 (button) collected (50)
+Seat 3: Xavi0664 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601385368: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:47:49 CET [2026/02/05 9:47:49 ET]
+Table '3972305995 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: Zeitung536 (350 in chips) 
+Seat 3: Xavi0664 (740 in chips) 
+mabeal1: posts small blind 10
+Zeitung536: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 9h]
+Xavi0664: raises 20 to 40
+mabeal1: folds 
+Zeitung536: calls 20
+*** FLOP *** [Qh Ah 9d]
+Zeitung536: bets 90
+Xavi0664: folds 
+Uncalled bet (90) returned to Zeitung536
+Zeitung536 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qh Ah 9d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Zeitung536 (big blind) collected (90)
+Seat 3: Xavi0664 (button) folded on the Flop
+
+
+
+PokerStars Hand #259601387529: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:48:03 CET [2026/02/05 9:48:03 ET]
+Table '3972305995 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: Zeitung536 (400 in chips) 
+Seat 3: Xavi0664 (700 in chips) 
+Zeitung536: posts small blind 10
+Xavi0664: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 3h]
+mabeal1: raises 20 to 40
+Zeitung536: raises 360 to 400 and is all-in
+Xavi0664: calls 380
+mabeal1: folds 
+*** FLOP *** [5h As 6d]
+*** TURN *** [5h As 6d] [4s]
+*** RIVER *** [5h As 6d 4s] [7c]
+*** SHOW DOWN ***
+Zeitung536: shows [Ks Ac] (a pair of Aces)
+Xavi0664: shows [Tc Qd] (high card Ace)
+Zeitung536 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [5h As 6d 4s 7c]
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: Zeitung536 (small blind) showed [Ks Ac] and won (840) with a pair of Aces
+Seat 3: Xavi0664 (big blind) showed [Tc Qd] and lost with high card Ace
+
+
+
+PokerStars Hand #259601390326: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:48:20 CET [2026/02/05 9:48:20 ET]
+Table '3972305995 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (360 in chips) 
+Seat 2: Zeitung536 (840 in chips) 
+Seat 3: Xavi0664 (300 in chips) 
+Xavi0664: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3h]
+Zeitung536: raises 20 to 40
+Xavi0664: folds 
+mabeal1: calls 20
+*** FLOP *** [Qh As 6d]
+mabeal1: checks 
+Zeitung536: bets 45
+mabeal1: raises 275 to 320 and is all-in
+Zeitung536: folds 
+Uncalled bet (275) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qh As 6d]
+Seat 1: mabeal1 (big blind) collected (180)
+Seat 2: Zeitung536 (button) folded on the Flop
+Seat 3: Xavi0664 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601392875: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:48:36 CET [2026/02/05 9:48:36 ET]
+Table '3972305995 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 2: Zeitung536 (755 in chips) 
+Seat 3: Xavi0664 (290 in chips) 
+mabeal1: posts small blind 10
+Zeitung536: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 4h]
+Xavi0664: raises 20 to 40
+mabeal1: folds 
+Zeitung536: calls 20
+*** FLOP *** [Qc 8c 6h]
+Zeitung536: bets 90
+Xavi0664: raises 160 to 250 and is all-in
+Zeitung536: calls 160
+*** TURN *** [Qc 8c 6h] [9s]
+*** RIVER *** [Qc 8c 6h 9s] [Jc]
+*** SHOW DOWN ***
+Zeitung536: shows [3c 8s] (a pair of Eights)
+Xavi0664: shows [Tc Qs] (a straight, Eight to Queen)
+Xavi0664 collected 590 from pot
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [Qc 8c 6h 9s Jc]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Zeitung536 (big blind) showed [3c 8s] and lost with a pair of Eights
+Seat 3: Xavi0664 (button) showed [Tc Qs] and won (590) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #259601396055: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:48:56 CET [2026/02/05 9:48:56 ET]
+Table '3972305995 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: Zeitung536 (465 in chips) 
+Seat 3: Xavi0664 (590 in chips) 
+Zeitung536: posts small blind 10
+Xavi0664: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 5s]
+mabeal1: folds 
+Zeitung536: raises 80 to 100
+Xavi0664: calls 80
+*** FLOP *** [4s 6s 5c]
+Zeitung536: checks 
+Xavi0664: checks 
+*** TURN *** [4s 6s 5c] [8d]
+Zeitung536: checks 
+Xavi0664: checks 
+*** RIVER *** [4s 6s 5c 8d] [9s]
+Zeitung536: bets 100
+Xavi0664: folds 
+Uncalled bet (100) returned to Zeitung536
+Zeitung536 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4s 6s 5c 8d 9s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Zeitung536 (small blind) collected (200)
+Seat 3: Xavi0664 (big blind) folded on the River
+
+
+
+PokerStars Hand #259601401704: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 15:49:31 CET [2026/02/05 9:49:31 ET]
+Table '3972305995 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: Zeitung536 (565 in chips) 
+Seat 3: Xavi0664 (490 in chips) 
+Xavi0664: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8h]
+Zeitung536: calls 30
+Xavi0664: calls 15
+mabeal1: checks 
+*** FLOP *** [5c Qh 2h]
+Xavi0664: bets 460 and is all-in
+mabeal1: folds 
+Zeitung536: folds 
+Uncalled bet (460) returned to Xavi0664
+Xavi0664 collected 90 from pot
+Xavi0664: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5c Qh 2h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Zeitung536 (button) folded on the Flop
+Seat 3: Xavi0664 (small blind) collected (90)
+
+
+
+PokerStars Hand #259601403966: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 15:49:45 CET [2026/02/05 9:49:45 ET]
+Table '3972305995 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 2: Zeitung536 (535 in chips) 
+Seat 3: Xavi0664 (550 in chips) 
+mabeal1: posts small blind 15
+Zeitung536: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Ad]
+Xavi0664: folds 
+mabeal1: raises 385 to 415 and is all-in
+Zeitung536: folds 
+Uncalled bet (385) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: Zeitung536 (big blind) folded before Flop
+Seat 3: Xavi0664 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601405275: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 15:49:53 CET [2026/02/05 9:49:53 ET]
+Table '3972305995 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: Zeitung536 (505 in chips) 
+Seat 3: Xavi0664 (550 in chips) 
+Zeitung536: posts small blind 15
+Xavi0664: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7s]
+mabeal1: folds 
+Zeitung536: calls 15
+Xavi0664: checks 
+*** FLOP *** [7d Qd 8c]
+Zeitung536: checks 
+Xavi0664: checks 
+*** TURN *** [7d Qd 8c] [Jh]
+Zeitung536: bets 30
+Xavi0664: calls 30
+*** RIVER *** [7d Qd 8c Jh] [5s]
+Zeitung536: bets 120
+Xavi0664: folds 
+Uncalled bet (120) returned to Zeitung536
+Zeitung536 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d Qd 8c Jh 5s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Zeitung536 (small blind) collected (120)
+Seat 3: Xavi0664 (big blind) folded on the River
+
+
+
+PokerStars Hand #259601410735: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 15:50:27 CET [2026/02/05 9:50:27 ET]
+Table '3972305995 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: Zeitung536 (565 in chips) 
+Seat 3: Xavi0664 (490 in chips) 
+Xavi0664: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 5c]
+Zeitung536: calls 30
+Xavi0664: raises 30 to 60
+mabeal1: calls 30
+Zeitung536: calls 30
+*** FLOP *** [7s 9c Qd]
+Xavi0664: bets 30
+mabeal1: folds 
+Zeitung536: calls 30
+*** TURN *** [7s 9c Qd] [Ac]
+Xavi0664: bets 400 and is all-in
+Zeitung536: folds 
+Uncalled bet (400) returned to Xavi0664
+Xavi0664 collected 240 from pot
+Xavi0664: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7s 9c Qd Ac]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Zeitung536 (button) folded on the Turn
+Seat 3: Xavi0664 (small blind) collected (240)
+
+
+
+PokerStars Hand #259601415013: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 15:50:53 CET [2026/02/05 9:50:53 ET]
+Table '3972305995 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (385 in chips) 
+Seat 2: Zeitung536 (475 in chips) 
+Seat 3: Xavi0664 (640 in chips) 
+mabeal1: posts small blind 15
+Zeitung536: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 2s]
+Xavi0664: raises 610 to 640 and is all-in
+mabeal1: folds 
+Zeitung536: folds 
+Uncalled bet (610) returned to Xavi0664
+Xavi0664 collected 75 from pot
+Xavi0664: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Zeitung536 (big blind) folded before Flop
+Seat 3: Xavi0664 (button) collected (75)
+
+
+
+PokerStars Hand #259601417685: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 15:51:10 CET [2026/02/05 9:51:10 ET]
+Table '3972305995 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (370 in chips) 
+Seat 2: Zeitung536 (445 in chips) 
+Seat 3: Xavi0664 (685 in chips) 
+Zeitung536: posts small blind 15
+Xavi0664: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 9d]
+mabeal1: raises 30 to 60
+Zeitung536: folds 
+Xavi0664: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (button) collected (75)
+Seat 2: Zeitung536 (small blind) folded before Flop
+Seat 3: Xavi0664 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601418977: Tournament #3972305995, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 15:51:17 CET [2026/02/05 9:51:17 ET]
+Table '3972305995 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 2: Zeitung536 (430 in chips) 
+Seat 3: Xavi0664 (655 in chips) 
+Xavi0664: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Qh]
+Zeitung536: calls 30
+Xavi0664: folds 
+mabeal1: checks 
+*** FLOP *** [5d Ts Td]
+mabeal1: checks 
+Zeitung536: checks 
+*** TURN *** [5d Ts Td] [6s]
+mabeal1: bets 30
+Zeitung536: calls 30
+*** RIVER *** [5d Ts Td 6s] [Ks]
+mabeal1: checks 
+Zeitung536: bets 165
+mabeal1: raises 165 to 330
+Zeitung536: raises 40 to 370 and is all-in
+mabeal1: calls 25 and is all-in
+Uncalled bet (15) returned to Zeitung536
+*** SHOW DOWN ***
+Zeitung536: shows [5h Th] (a full house, Tens full of Fives)
+mabeal1: shows [6c Qh] (two pair, Tens and Sixes)
+Zeitung536 collected 845 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 845 | Rake 0 
+Board [5d Ts Td 6s Ks]
+Seat 1: mabeal1 (big blind) showed [6c Qh] and lost with two pair, Tens and Sixes
+Seat 2: Zeitung536 (button) showed [5h Th] and won (845) with a full house, Tens full of Fives
+Seat 3: Xavi0664 (small blind) folded before Flop
+
+
+

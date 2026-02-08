@@ -1,0 +1,570 @@
+﻿PokerStars Hand #259539881527: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:19:56 CET [2026/01/31 16:19:56 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: ChristianGrp (500 in chips) 
+Seat 3: punk_damned (500 in chips) 
+ChristianGrp: posts small blind 10
+punk_damned: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 7s]
+mabeal1: folds 
+ChristianGrp: folds 
+Uncalled bet (10) returned to punk_damned
+punk_damned collected 20 from pot
+punk_damned: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: ChristianGrp (small blind) folded before Flop
+Seat 3: punk_damned (big blind) collected (20)
+
+
+
+PokerStars Hand #259539883393: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:20:03 CET [2026/01/31 16:20:03 ET]
+Table '3970914919 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: ChristianGrp (490 in chips) 
+Seat 3: punk_damned (510 in chips) 
+punk_damned: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3s]
+ChristianGrp: raises 20 to 40
+punk_damned: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to ChristianGrp
+ChristianGrp collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: ChristianGrp (button) collected (50)
+Seat 3: punk_damned (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539886873: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:20:17 CET [2026/01/31 16:20:17 ET]
+Table '3970914919 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: ChristianGrp (520 in chips) 
+Seat 3: punk_damned (500 in chips) 
+mabeal1: posts small blind 10
+ChristianGrp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Qd]
+punk_damned: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to ChristianGrp
+ChristianGrp collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: ChristianGrp (big blind) collected (20)
+Seat 3: punk_damned (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539889205: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:20:26 CET [2026/01/31 16:20:26 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: ChristianGrp (530 in chips) 
+Seat 3: punk_damned (500 in chips) 
+ChristianGrp: posts small blind 10
+punk_damned: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Qc]
+mabeal1: raises 20 to 40
+ChristianGrp: calls 30
+punk_damned: folds 
+*** FLOP *** [6c Qs Kh]
+ChristianGrp: checks 
+mabeal1: bets 40
+ChristianGrp: calls 40
+*** TURN *** [6c Qs Kh] [9d]
+ChristianGrp: checks 
+mabeal1: bets 100
+ChristianGrp: calls 100
+*** RIVER *** [6c Qs Kh 9d] [Jd]
+ChristianGrp: bets 190
+mabeal1: raises 100 to 290 and is all-in
+ChristianGrp: calls 100
+*** SHOW DOWN ***
+mabeal1: shows [Ts Qc] (a straight, Nine to King)
+ChristianGrp: shows [Kc 9h] (two pair, Kings and Nines)
+mabeal1 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [6c Qs Kh 9d Jd]
+Seat 1: mabeal1 (button) showed [Ts Qc] and won (960) with a straight, Nine to King
+Seat 2: ChristianGrp (small blind) showed [Kc 9h] and lost with two pair, Kings and Nines
+Seat 3: punk_damned (big blind) folded before Flop
+
+
+
+PokerStars Hand #259539898566: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:21:03 CET [2026/01/31 16:21:03 ET]
+Table '3970914919 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 2: ChristianGrp (60 in chips) 
+Seat 3: punk_damned (480 in chips) 
+punk_damned: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 2s]
+ChristianGrp: raises 40 to 60 and is all-in
+punk_damned: folds 
+mabeal1: calls 40
+*** FLOP *** [4d Qd Jh]
+*** TURN *** [4d Qd Jh] [2h]
+*** RIVER *** [4d Qd Jh 2h] [Qh]
+*** SHOW DOWN ***
+mabeal1: shows [Ad 2s] (two pair, Queens and Deuces)
+ChristianGrp: shows [Ah 8d] (a pair of Queens)
+mabeal1 collected 130 from pot
+ChristianGrp finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [4d Qd Jh 2h Qh]
+Seat 1: mabeal1 (big blind) showed [Ad 2s] and won (130) with two pair, Queens and Deuces
+Seat 2: ChristianGrp (button) showed [Ah 8d] and lost with a pair of Queens
+Seat 3: punk_damned (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539903449: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:21:22 CET [2026/01/31 16:21:22 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: punk_damned (470 in chips) 
+mabeal1: posts small blind 10
+punk_damned: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Jc]
+mabeal1: raises 20 to 40
+punk_damned: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: punk_damned (big blind) folded before Flop
+
+
+
+PokerStars Hand #259539905528: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:21:30 CET [2026/01/31 16:21:30 ET]
+Table '3970914919 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: punk_damned (450 in chips) 
+punk_damned: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 6h]
+punk_damned: calls 10
+mabeal1: checks 
+*** FLOP *** [3s 5c Td]
+mabeal1: checks 
+punk_damned: bets 20
+mabeal1: calls 20
+*** TURN *** [3s 5c Td] [Jd]
+mabeal1: checks 
+punk_damned: bets 40
+mabeal1: calls 40
+*** RIVER *** [3s 5c Td Jd] [Kc]
+mabeal1: checks 
+punk_damned: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ts 6h] (a pair of Tens)
+punk_damned: mucks hand 
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3s 5c Td Jd Kc]
+Seat 1: mabeal1 (big blind) showed [Ts 6h] and won (160) with a pair of Tens
+Seat 3: punk_damned (button) (small blind) mucked [5d 9c]
+
+
+
+PokerStars Hand #259539911295: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:21:53 CET [2026/01/31 16:21:53 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1130 in chips) 
+Seat 3: punk_damned (370 in chips) 
+mabeal1: posts small blind 10
+punk_damned: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Qd]
+mabeal1: calls 10
+punk_damned: checks 
+*** FLOP *** [3h As 4d]
+punk_damned: checks 
+mabeal1: checks 
+*** TURN *** [3h As 4d] [7c]
+punk_damned: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to punk_damned
+punk_damned collected 40 from pot
+punk_damned: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h As 4d 7c]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: punk_damned (big blind) collected (40)
+
+
+
+PokerStars Hand #259539917726: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:22:19 CET [2026/01/31 16:22:19 ET]
+Table '3970914919 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1110 in chips) 
+Seat 3: punk_damned (390 in chips) 
+punk_damned: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 7s]
+punk_damned: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Th 9c 4h]
+mabeal1: checks 
+punk_damned: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to punk_damned
+punk_damned collected 120 from pot
+punk_damned: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th 9c 4h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: punk_damned (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259539921097: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:22:32 CET [2026/01/31 16:22:32 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: punk_damned (450 in chips) 
+mabeal1: posts small blind 15
+punk_damned: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Kc]
+mabeal1: calls 15
+punk_damned: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [8d Ah Qd]
+punk_damned: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to punk_damned
+punk_damned collected 180 from pot
+punk_damned: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8d Ah Qd]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: punk_damned (big blind) collected (180)
+
+
+
+PokerStars Hand #259539927285: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:22:57 CET [2026/01/31 16:22:57 ET]
+Table '3970914919 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 3: punk_damned (540 in chips) 
+punk_damned: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Ad]
+punk_damned: calls 15
+mabeal1: raises 930 to 960 and is all-in
+punk_damned: folds 
+Uncalled bet (930) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: punk_damned (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539929731: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:23:07 CET [2026/01/31 16:23:07 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 3: punk_damned (510 in chips) 
+mabeal1: posts small blind 15
+punk_damned: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Kc]
+mabeal1: raises 30 to 60
+punk_damned: calls 30
+*** FLOP *** [9s 4d Jc]
+punk_damned: checks 
+mabeal1: bets 60
+punk_damned: raises 120 to 180
+mabeal1: folds 
+Uncalled bet (120) returned to punk_damned
+punk_damned collected 240 from pot
+punk_damned: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9s 4d Jc]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: punk_damned (big blind) collected (240)
+
+
+
+PokerStars Hand #259539934493: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:23:26 CET [2026/01/31 16:23:26 ET]
+Table '3970914919 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (870 in chips) 
+Seat 3: punk_damned (630 in chips) 
+punk_damned: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kc]
+punk_damned: raises 30 to 60
+mabeal1: raises 90 to 150
+punk_damned: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: punk_damned (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539937362: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:23:37 CET [2026/01/31 16:23:37 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (930 in chips) 
+Seat 3: punk_damned (570 in chips) 
+mabeal1: posts small blind 15
+punk_damned: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Kh]
+mabeal1: calls 15
+punk_damned: checks 
+*** FLOP *** [Td 9c 8d]
+punk_damned: checks 
+mabeal1: checks 
+*** TURN *** [Td 9c 8d] [5s]
+punk_damned: checks 
+mabeal1: bets 120
+punk_damned: calls 120
+*** RIVER *** [Td 9c 8d 5s] [4d]
+punk_damned: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+punk_damned: shows [4s Jd] (a pair of Fours)
+mabeal1: mucks hand 
+punk_damned collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Td 9c 8d 5s 4d]
+Seat 1: mabeal1 (button) (small blind) mucked [2c Kh]
+Seat 3: punk_damned (big blind) showed [4s Jd] and won (300) with a pair of Fours
+
+
+
+PokerStars Hand #259539943853: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:24:03 CET [2026/01/31 16:24:03 ET]
+Table '3970914919 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 3: punk_damned (720 in chips) 
+punk_damned: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9h]
+punk_damned: calls 20
+mabeal1: checks 
+*** FLOP *** [4s Jh Js]
+mabeal1: checks 
+punk_damned: checks 
+*** TURN *** [4s Jh Js] [3d]
+mabeal1: checks 
+punk_damned: checks 
+*** RIVER *** [4s Jh Js 3d] [3s]
+mabeal1: checks 
+punk_damned: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Tc 9h] (two pair, Jacks and Threes)
+punk_damned: shows [6h Kd] (two pair, Jacks and Threes - King kicker)
+punk_damned collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s Jh Js 3d 3s]
+Seat 1: mabeal1 (big blind) showed [Tc 9h] and lost with two pair, Jacks and Threes
+Seat 3: punk_damned (button) (small blind) showed [6h Kd] and won (80) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #259539948355: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:24:21 CET [2026/01/31 16:24:21 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (740 in chips) 
+Seat 3: punk_damned (760 in chips) 
+mabeal1: posts small blind 20
+punk_damned: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ac]
+mabeal1: calls 20
+punk_damned: checks 
+*** FLOP *** [9s 4s Th]
+punk_damned: checks 
+mabeal1: checks 
+*** TURN *** [9s 4s Th] [4h]
+punk_damned: checks 
+mabeal1: bets 40
+punk_damned: calls 40
+*** RIVER *** [9s 4s Th 4h] [Ts]
+punk_damned: checks 
+mabeal1: bets 160
+punk_damned: folds 
+Uncalled bet (160) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9s 4s Th 4h Ts]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: punk_damned (big blind) folded on the River
+
+
+
+PokerStars Hand #259539953720: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:24:42 CET [2026/01/31 16:24:42 ET]
+Table '3970914919 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (820 in chips) 
+Seat 3: punk_damned (680 in chips) 
+punk_damned: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 6s]
+punk_damned: calls 20
+mabeal1: checks 
+*** FLOP *** [Tc 9h Qs]
+mabeal1: checks 
+punk_damned: checks 
+*** TURN *** [Tc 9h Qs] [5h]
+mabeal1: bets 80
+punk_damned: calls 80
+*** RIVER *** [Tc 9h Qs 5h] [8d]
+mabeal1: checks 
+punk_damned: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qh 6s] (a pair of Queens)
+punk_damned: mucks hand 
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Tc 9h Qs 5h 8d]
+Seat 1: mabeal1 (big blind) showed [Qh 6s] and won (240) with a pair of Queens
+Seat 3: punk_damned (button) (small blind) mucked [Kc 6c]
+
+
+
+PokerStars Hand #259539962068: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:25:15 CET [2026/01/31 16:25:15 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 3: punk_damned (560 in chips) 
+mabeal1: posts small blind 20
+punk_damned: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 6h]
+mabeal1: calls 20
+punk_damned: checks 
+*** FLOP *** [2c Jc 3d]
+punk_damned: checks 
+mabeal1: bets 40
+punk_damned: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c Jc 3d]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: punk_damned (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259539966823: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:25:34 CET [2026/01/31 16:25:34 ET]
+Table '3970914919 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 3: punk_damned (520 in chips) 
+punk_damned: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7h]
+punk_damned: raises 480 to 520 and is all-in
+mabeal1: folds 
+Uncalled bet (480) returned to punk_damned
+punk_damned collected 80 from pot
+punk_damned: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: punk_damned (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259539970246: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:25:47 CET [2026/01/31 16:25:47 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 3: punk_damned (560 in chips) 
+mabeal1: posts small blind 20
+punk_damned: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6s]
+mabeal1: calls 20
+punk_damned: raises 520 to 560 and is all-in
+mabeal1: folds 
+Uncalled bet (520) returned to punk_damned
+punk_damned collected 80 from pot
+punk_damned: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: punk_damned (big blind) collected (80)
+
+
+
+PokerStars Hand #259539973635: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 22:26:01 CET [2026/01/31 16:26:01 ET]
+Table '3970914919 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 3: punk_damned (600 in chips) 
+punk_damned: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4c]
+punk_damned: raises 540 to 600 and is all-in
+mabeal1: folds 
+Uncalled bet (540) returned to punk_damned
+punk_damned collected 120 from pot
+punk_damned: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: punk_damned (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259539975946: Tournament #3970914919, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 22:26:10 CET [2026/01/31 16:26:10 ET]
+Table '3970914919 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (840 in chips) 
+Seat 3: punk_damned (660 in chips) 
+mabeal1: posts small blind 30
+punk_damned: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Ad]
+mabeal1: calls 30
+punk_damned: raises 600 to 660 and is all-in
+mabeal1: calls 600
+*** FLOP *** [Ah 2d 3d]
+*** TURN *** [Ah 2d 3d] [Jc]
+*** RIVER *** [Ah 2d 3d Jc] [Jd]
+*** SHOW DOWN ***
+punk_damned: shows [Kh Ks] (two pair, Kings and Jacks)
+mabeal1: shows [4h Ad] (two pair, Aces and Jacks)
+mabeal1 collected 1320 from pot
+punk_damned finished the tournament in 2nd place
+mabeal1 wins the tournament - congratulations!
+mabeal1 wins a '€1.50 Step 2 SnG Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Ah 2d 3d Jc Jd]
+Seat 1: mabeal1 (button) (small blind) showed [4h Ad] and won (1320) with two pair, Aces and Jacks
+Seat 3: punk_damned (big blind) showed [Kh Ks] and lost with two pair, Kings and Jacks
+
+
+

@@ -1,0 +1,482 @@
+﻿PokerStars Hand #259379297223: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:41:26 CET [2026/01/19 13:41:26 ET]
+Table '3967190888 1' 3-max Seat #1 is the button
+Seat 1: Makmardigann (500 in chips) 
+Seat 2: zanotta (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+zanotta: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 6h]
+Makmardigann: raises 20 to 40
+zanotta: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Makmardigann
+Makmardigann collected 50 from pot
+Makmardigann: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Makmardigann (button) collected (50)
+Seat 2: zanotta (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379299322: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:41:34 CET [2026/01/19 13:41:34 ET]
+Table '3967190888 1' 3-max Seat #2 is the button
+Seat 1: Makmardigann (530 in chips) 
+Seat 2: zanotta (490 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+Makmardigann: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Td]
+zanotta: calls 20
+mabeal1: raises 460 to 480 and is all-in
+Makmardigann: folds 
+zanotta: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Makmardigann (big blind) folded before Flop
+Seat 2: zanotta (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259379303911: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:41:52 CET [2026/01/19 13:41:52 ET]
+Table '3967190888 1' 3-max Seat #3 is the button
+Seat 1: Makmardigann (510 in chips) 
+Seat 2: zanotta (470 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+Makmardigann: posts small blind 10
+zanotta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 4c]
+mabeal1: folds 
+Makmardigann: folds 
+Uncalled bet (10) returned to zanotta
+zanotta collected 20 from pot
+zanotta: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Makmardigann (small blind) folded before Flop
+Seat 2: zanotta (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379306349: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:42:02 CET [2026/01/19 13:42:02 ET]
+Table '3967190888 1' 3-max Seat #1 is the button
+Seat 1: Makmardigann (500 in chips) 
+Seat 2: zanotta (480 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+zanotta: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ah]
+Makmardigann: raises 20 to 40
+zanotta: folds 
+mabeal1: calls 20
+*** FLOP *** [5d 6h Jh]
+mabeal1: checks 
+Makmardigann: bets 20
+mabeal1: raises 80 to 100
+Makmardigann: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 130 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5d 6h Jh]
+Seat 1: Makmardigann (button) folded on the Flop
+Seat 2: zanotta (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (130)
+
+
+
+PokerStars Hand #259379313516: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:42:30 CET [2026/01/19 13:42:30 ET]
+Table '3967190888 1' 3-max Seat #2 is the button
+Seat 1: Makmardigann (440 in chips) 
+Seat 2: zanotta (470 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+mabeal1: posts small blind 10
+Makmardigann: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 8d]
+zanotta: folds 
+mabeal1: raises 20 to 40
+Makmardigann: calls 20
+*** FLOP *** [7h 6c Kd]
+mabeal1: bets 30
+Makmardigann: calls 30
+*** TURN *** [7h 6c Kd] [7c]
+mabeal1: checks 
+Makmardigann: bets 42
+mabeal1: folds 
+Uncalled bet (42) returned to Makmardigann
+Makmardigann collected 140 from pot
+Makmardigann: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [7h 6c Kd 7c]
+Seat 1: Makmardigann (big blind) collected (140)
+Seat 2: zanotta (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259379324175: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:43:11 CET [2026/01/19 13:43:11 ET]
+Table '3967190888 1' 3-max Seat #3 is the button
+Seat 1: Makmardigann (510 in chips) 
+Seat 2: zanotta (470 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+Makmardigann: posts small blind 10
+zanotta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5h]
+mabeal1: folds 
+Makmardigann: raises 20 to 40
+zanotta: calls 20
+*** FLOP *** [4h Qs As]
+Makmardigann: checks 
+zanotta: bets 80
+Makmardigann: folds 
+Uncalled bet (80) returned to zanotta
+zanotta collected 80 from pot
+zanotta: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h Qs As]
+Seat 1: Makmardigann (small blind) folded on the Flop
+Seat 2: zanotta (big blind) collected (80)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379330068: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:43:34 CET [2026/01/19 13:43:34 ET]
+Table '3967190888 1' 3-max Seat #1 is the button
+Seat 1: Makmardigann (470 in chips) 
+Seat 2: zanotta (510 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+zanotta: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 8s]
+Makmardigann: folds 
+zanotta: calls 10
+mabeal1: checks 
+*** FLOP *** [4h Tc Ah]
+zanotta: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to zanotta
+zanotta collected 40 from pot
+zanotta: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h Tc Ah]
+Seat 1: Makmardigann (button) folded before Flop (didn't bet)
+Seat 2: zanotta (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259379333284: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:43:47 CET [2026/01/19 13:43:47 ET]
+Table '3967190888 1' 3-max Seat #2 is the button
+Seat 1: Makmardigann (470 in chips) 
+Seat 2: zanotta (530 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+mabeal1: posts small blind 10
+Makmardigann: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Jh]
+zanotta: folds 
+mabeal1: raises 20 to 40
+Makmardigann: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to Makmardigann
+Makmardigann collected 80 from pot
+Makmardigann: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Makmardigann (big blind) collected (80)
+Seat 2: zanotta (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379338904: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:44:08 CET [2026/01/19 13:44:08 ET]
+Table '3967190888 1' 3-max Seat #3 is the button
+Seat 1: Makmardigann (510 in chips) 
+Seat 2: zanotta (530 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+Makmardigann: posts small blind 10
+zanotta: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 4h]
+mabeal1: folds 
+Makmardigann: folds 
+Uncalled bet (10) returned to zanotta
+zanotta collected 20 from pot
+zanotta: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Makmardigann (small blind) folded before Flop
+Seat 2: zanotta (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379342166: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:44:21 CET [2026/01/19 13:44:21 ET]
+Table '3967190888 1' 3-max Seat #1 is the button
+Seat 1: Makmardigann (500 in chips) 
+Seat 2: zanotta (540 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+zanotta: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ah]
+Makmardigann: raises 20 to 40
+zanotta: folds 
+mabeal1: calls 20
+*** FLOP *** [7h Ad 8s]
+mabeal1: checks 
+Makmardigann: bets 27
+mabeal1: calls 27
+*** TURN *** [7h Ad 8s] [2s]
+mabeal1: checks 
+Makmardigann: checks 
+*** RIVER *** [7h Ad 8s 2s] [8d]
+mabeal1: bets 60
+Makmardigann: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 144 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 144 | Rake 0 
+Board [7h Ad 8s 2s 8d]
+Seat 1: Makmardigann (button) folded on the River
+Seat 2: zanotta (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (144)
+
+
+
+PokerStars Hand #259379354901: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:45:11 CET [2026/01/19 13:45:11 ET]
+Table '3967190888 1' 3-max Seat #2 is the button
+Seat 1: Makmardigann (433 in chips) 
+Seat 2: zanotta (530 in chips) 
+Seat 3: mabeal1 (537 in chips) 
+mabeal1: posts small blind 15
+Makmardigann: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 4d]
+zanotta: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Makmardigann
+Makmardigann collected 30 from pot
+Makmardigann: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Makmardigann (big blind) collected (30)
+Seat 2: zanotta (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379359471: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:45:28 CET [2026/01/19 13:45:28 ET]
+Table '3967190888 1' 3-max Seat #3 is the button
+Seat 1: Makmardigann (448 in chips) 
+Seat 2: zanotta (530 in chips) 
+Seat 3: mabeal1 (522 in chips) 
+Makmardigann: posts small blind 15
+zanotta: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6c]
+mabeal1: folds 
+Makmardigann: folds 
+Uncalled bet (15) returned to zanotta
+zanotta collected 30 from pot
+zanotta: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Makmardigann (small blind) folded before Flop
+Seat 2: zanotta (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379363318: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:45:43 CET [2026/01/19 13:45:43 ET]
+Table '3967190888 1' 3-max Seat #1 is the button
+Seat 1: Makmardigann (433 in chips) 
+Seat 2: zanotta (545 in chips) 
+Seat 3: mabeal1 (522 in chips) 
+zanotta: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6d]
+Makmardigann: folds 
+zanotta: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to zanotta
+zanotta collected 60 from pot
+zanotta: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Makmardigann (button) folded before Flop (didn't bet)
+Seat 2: zanotta (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379366244: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:45:54 CET [2026/01/19 13:45:54 ET]
+Table '3967190888 1' 3-max Seat #2 is the button
+Seat 1: Makmardigann (433 in chips) 
+Seat 2: zanotta (575 in chips) 
+Seat 3: mabeal1 (492 in chips) 
+mabeal1: posts small blind 15
+Makmardigann: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5c]
+zanotta: raises 60 to 90
+mabeal1: folds 
+Makmardigann: folds 
+Uncalled bet (60) returned to zanotta
+zanotta collected 75 from pot
+zanotta: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Makmardigann (big blind) folded before Flop
+Seat 2: zanotta (button) collected (75)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379370356: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:46:10 CET [2026/01/19 13:46:10 ET]
+Table '3967190888 1' 3-max Seat #3 is the button
+Seat 1: Makmardigann (403 in chips) 
+Seat 2: zanotta (620 in chips) 
+Seat 3: mabeal1 (477 in chips) 
+Makmardigann: posts small blind 15
+zanotta: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ah]
+mabeal1: raises 30 to 60
+Makmardigann: folds 
+zanotta: calls 30
+*** FLOP *** [6s 2d 2c]
+zanotta: checks 
+mabeal1: bets 30
+zanotta: calls 30
+*** TURN *** [6s 2d 2c] [Js]
+zanotta: checks 
+mabeal1: checks 
+*** RIVER *** [6s 2d 2c Js] [6c]
+zanotta: bets 90
+mabeal1: calls 90
+*** SHOW DOWN ***
+zanotta: shows [5s 2s] (a full house, Deuces full of Sixes)
+mabeal1: mucks hand 
+zanotta collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [6s 2d 2c Js 6c]
+Seat 1: Makmardigann (small blind) folded before Flop
+Seat 2: zanotta (big blind) showed [5s 2s] and won (375) with a full house, Deuces full of Sixes
+Seat 3: mabeal1 (button) mucked [As Ah]
+
+
+
+PokerStars Hand #259379380229: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:46:48 CET [2026/01/19 13:46:48 ET]
+Table '3967190888 1' 3-max Seat #1 is the button
+Seat 1: Makmardigann (388 in chips) 
+Seat 2: zanotta (815 in chips) 
+Seat 3: mabeal1 (297 in chips) 
+zanotta: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2s]
+Makmardigann: raises 30 to 60
+zanotta: raises 120 to 180
+mabeal1: folds 
+Makmardigann: folds 
+Uncalled bet (120) returned to zanotta
+zanotta collected 150 from pot
+zanotta: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Makmardigann (button) folded before Flop
+Seat 2: zanotta (small blind) collected (150)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379384234: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:47:04 CET [2026/01/19 13:47:04 ET]
+Table '3967190888 1' 3-max Seat #2 is the button
+Seat 1: Makmardigann (328 in chips) 
+Seat 2: zanotta (905 in chips) 
+Seat 3: mabeal1 (267 in chips) 
+mabeal1: posts small blind 15
+Makmardigann: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc As]
+zanotta: folds 
+mabeal1: raises 237 to 267 and is all-in
+Makmardigann: folds 
+Uncalled bet (237) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Makmardigann (big blind) folded before Flop
+Seat 2: zanotta (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259379387295: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:47:16 CET [2026/01/19 13:47:16 ET]
+Table '3967190888 1' 3-max Seat #3 is the button
+Seat 1: Makmardigann (298 in chips) 
+Seat 2: zanotta (905 in chips) 
+Seat 3: mabeal1 (297 in chips) 
+Makmardigann: posts small blind 15
+zanotta: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Kd]
+mabeal1: folds 
+Makmardigann: raises 268 to 298 and is all-in
+zanotta: folds 
+Uncalled bet (268) returned to Makmardigann
+Makmardigann collected 60 from pot
+Makmardigann: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Makmardigann (small blind) collected (60)
+Seat 2: zanotta (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379393866: Tournament #3967190888, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 19:47:41 CET [2026/01/19 13:47:41 ET]
+Table '3967190888 1' 3-max Seat #1 is the button
+Seat 1: Makmardigann (328 in chips) 
+Seat 2: zanotta (875 in chips) 
+Seat 3: mabeal1 (297 in chips) 
+zanotta: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 4s]
+Makmardigann: raises 288 to 328 and is all-in
+zanotta: folds 
+mabeal1: folds 
+Uncalled bet (288) returned to Makmardigann
+Makmardigann collected 100 from pot
+Makmardigann: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Makmardigann (button) collected (100)
+Seat 2: zanotta (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+

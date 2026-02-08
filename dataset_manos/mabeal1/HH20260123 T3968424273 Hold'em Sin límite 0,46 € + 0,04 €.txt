@@ -1,0 +1,717 @@
+﻿PokerStars Hand #259430708855: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:37:46 CET [2026/01/23 13:37:46 ET]
+Table '3968424273 1' 3-max Seat #1 is the button
+Seat 1: 94mille (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: onmiguel10 (500 in chips) 
+mabeal1: posts small blind 10
+onmiguel10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Ac]
+94mille: raises 40 to 60
+mabeal1: folds 
+onmiguel10: folds 
+Uncalled bet (40) returned to 94mille
+94mille collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: 94mille (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: onmiguel10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259430712508: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:38:01 CET [2026/01/23 13:38:01 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 1: 94mille (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: onmiguel10 (480 in chips) 
+onmiguel10: posts small blind 10
+94mille: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Tc]
+mabeal1: raises 20 to 40
+onmiguel10: raises 60 to 100
+94mille: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to onmiguel10
+onmiguel10 collected 100 from pot
+onmiguel10: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: 94mille (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: onmiguel10 (small blind) collected (100)
+
+
+
+PokerStars Hand #259430715741: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:38:15 CET [2026/01/23 13:38:15 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 1: 94mille (510 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: onmiguel10 (540 in chips) 
+94mille: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Jd]
+onmiguel10: calls 20
+94mille: calls 10
+mabeal1: raises 60 to 80
+onmiguel10: calls 60
+94mille: calls 60
+*** FLOP *** [5d Qh 9h]
+94mille: bets 120
+mabeal1: raises 250 to 370 and is all-in
+onmiguel10: folds 
+94mille: calls 250
+*** TURN *** [5d Qh 9h] [Qs]
+*** RIVER *** [5d Qh 9h Qs] [4s]
+*** SHOW DOWN ***
+94mille: shows [Jc Ts] (a pair of Queens)
+mabeal1: shows [Jh Jd] (two pair, Queens and Jacks)
+mabeal1 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [5d Qh 9h Qs 4s]
+Seat 1: 94mille (small blind) showed [Jc Ts] and lost with a pair of Queens
+Seat 2: mabeal1 (big blind) showed [Jh Jd] and won (980) with two pair, Queens and Jacks
+Seat 3: onmiguel10 (button) folded on the Flop
+
+
+
+PokerStars Hand #259430724549: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:38:53 CET [2026/01/23 13:38:53 ET]
+Table '3968424273 1' 3-max Seat #1 is the button
+Seat 1: 94mille (60 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+Seat 3: onmiguel10 (460 in chips) 
+mabeal1: posts small blind 10
+onmiguel10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 7s]
+94mille: calls 20
+mabeal1: folds 
+onmiguel10: checks 
+*** FLOP *** [Jh Js 3d]
+onmiguel10: checks 
+94mille: bets 20
+onmiguel10: folds 
+Uncalled bet (20) returned to 94mille
+94mille collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jh Js 3d]
+Seat 1: 94mille (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: onmiguel10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259430729173: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:39:12 CET [2026/01/23 13:39:12 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 1: 94mille (90 in chips) 
+Seat 2: mabeal1 (970 in chips) 
+Seat 3: onmiguel10 (440 in chips) 
+onmiguel10: posts small blind 10
+94mille: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Qh]
+mabeal1: folds 
+onmiguel10: calls 10
+94mille: checks 
+*** FLOP *** [Th Js 5c]
+onmiguel10: bets 60
+94mille: folds 
+Uncalled bet (60) returned to onmiguel10
+onmiguel10 collected 40 from pot
+onmiguel10: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th Js 5c]
+Seat 1: 94mille (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: onmiguel10 (small blind) collected (40)
+
+
+
+PokerStars Hand #259430734966: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:39:37 CET [2026/01/23 13:39:37 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 1: 94mille (70 in chips) 
+Seat 2: mabeal1 (970 in chips) 
+Seat 3: onmiguel10 (460 in chips) 
+94mille: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8c]
+onmiguel10: raises 20 to 40
+94mille: calls 30
+mabeal1: calls 20
+*** FLOP *** [7s Jc 9d]
+94mille: checks 
+mabeal1: checks 
+onmiguel10: checks 
+*** TURN *** [7s Jc 9d] [Td]
+94mille: checks 
+mabeal1: bets 40
+onmiguel10: raises 40 to 80
+94mille: folds 
+mabeal1: raises 90 to 170
+onmiguel10: raises 250 to 420 and is all-in
+mabeal1: calls 250
+*** RIVER *** [7s Jc 9d Td] [Qs]
+*** SHOW DOWN ***
+mabeal1: shows [9s 8c] (a straight, Eight to Queen)
+onmiguel10: shows [8s Ah] (a straight, Eight to Queen)
+mabeal1 collected 480 from pot
+onmiguel10 collected 480 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [7s Jc 9d Td Qs]
+Seat 1: 94mille (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) showed [9s 8c] and won (480) with a straight, Eight to Queen
+Seat 3: onmiguel10 (button) showed [8s Ah] and won (480) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #259430746438: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 19:40:26 CET [2026/01/23 13:40:26 ET]
+Table '3968424273 1' 3-max Seat #1 is the button
+Seat 1: 94mille (30 in chips) 
+Seat 2: mabeal1 (990 in chips) 
+Seat 3: onmiguel10 (480 in chips) 
+mabeal1: posts small blind 15
+onmiguel10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 4h]
+94mille: calls 30 and is all-in
+mabeal1: folds 
+*** FLOP *** [6s 7s 6c]
+*** TURN *** [6s 7s 6c] [Js]
+*** RIVER *** [6s 7s 6c Js] [Ts]
+*** SHOW DOWN ***
+onmiguel10: shows [Ad Tc] (two pair, Tens and Sixes)
+94mille: shows [Qh Ac] (a pair of Sixes)
+onmiguel10 collected 75 from pot
+94mille finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [6s 7s 6c Js Ts]
+Seat 1: 94mille (button) showed [Qh Ac] and lost with a pair of Sixes
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: onmiguel10 (big blind) showed [Ad Tc] and won (75) with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #259430751012: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 19:40:46 CET [2026/01/23 13:40:46 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (975 in chips) 
+Seat 3: onmiguel10 (525 in chips) 
+onmiguel10: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 4s]
+onmiguel10: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [7h Kh 8d]
+mabeal1: checks 
+onmiguel10: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to onmiguel10
+onmiguel10 collected 120 from pot
+onmiguel10: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h Kh 8d]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: onmiguel10 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259430754852: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 19:41:03 CET [2026/01/23 13:41:03 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (915 in chips) 
+Seat 3: onmiguel10 (585 in chips) 
+mabeal1: posts small blind 15
+onmiguel10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 3s]
+mabeal1: raises 30 to 60
+onmiguel10: raises 525 to 585 and is all-in
+mabeal1: folds 
+Uncalled bet (525) returned to onmiguel10
+onmiguel10 collected 120 from pot
+onmiguel10: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: onmiguel10 (big blind) collected (120)
+
+
+
+PokerStars Hand #259430758901: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 19:41:20 CET [2026/01/23 13:41:20 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (855 in chips) 
+Seat 3: onmiguel10 (645 in chips) 
+onmiguel10: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Jd]
+onmiguel10: calls 15
+mabeal1: raises 825 to 855 and is all-in
+onmiguel10: folds 
+Uncalled bet (825) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: onmiguel10 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430762353: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 19:41:35 CET [2026/01/23 13:41:35 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (885 in chips) 
+Seat 3: onmiguel10 (615 in chips) 
+mabeal1: posts small blind 15
+onmiguel10: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Ah]
+mabeal1: raises 855 to 885 and is all-in
+onmiguel10: folds 
+Uncalled bet (855) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (60)
+Seat 3: onmiguel10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259430765907: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 19:41:50 CET [2026/01/23 13:41:50 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (915 in chips) 
+Seat 3: onmiguel10 (585 in chips) 
+onmiguel10: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 7c]
+onmiguel10: calls 20
+mabeal1: checks 
+*** FLOP *** [Qs Ks 4h]
+mabeal1: checks 
+onmiguel10: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to onmiguel10
+onmiguel10 collected 80 from pot
+onmiguel10: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs Ks 4h]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: onmiguel10 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259430768152: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 19:42:00 CET [2026/01/23 13:42:00 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (875 in chips) 
+Seat 3: onmiguel10 (625 in chips) 
+mabeal1: posts small blind 20
+onmiguel10: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 5s]
+mabeal1: calls 20
+onmiguel10: checks 
+*** FLOP *** [Qh 8d 2h]
+onmiguel10: checks 
+mabeal1: bets 40
+onmiguel10: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh 8d 2h]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: onmiguel10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259430772812: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 19:42:21 CET [2026/01/23 13:42:21 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (915 in chips) 
+Seat 3: onmiguel10 (585 in chips) 
+onmiguel10: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Js]
+onmiguel10: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: onmiguel10 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430774215: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 19:42:27 CET [2026/01/23 13:42:27 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (935 in chips) 
+Seat 3: onmiguel10 (565 in chips) 
+mabeal1: posts small blind 20
+onmiguel10: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 8d]
+mabeal1: calls 20
+onmiguel10: checks 
+*** FLOP *** [Qc 2h 3s]
+onmiguel10: checks 
+mabeal1: bets 40
+onmiguel10: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 2h 3s]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: onmiguel10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259430783655: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 19:43:07 CET [2026/01/23 13:43:07 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (975 in chips) 
+Seat 3: onmiguel10 (525 in chips) 
+onmiguel10: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 8h]
+onmiguel10: calls 20
+mabeal1: raises 935 to 975 and is all-in
+onmiguel10: folds 
+Uncalled bet (935) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: onmiguel10 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430787339: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 19:43:22 CET [2026/01/23 13:43:22 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1015 in chips) 
+Seat 3: onmiguel10 (485 in chips) 
+mabeal1: posts small blind 20
+onmiguel10: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 2c]
+mabeal1: calls 20
+onmiguel10: checks 
+*** FLOP *** [Jd As Qd]
+onmiguel10: checks 
+mabeal1: bets 40
+onmiguel10: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jd As Qd]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: onmiguel10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259430791310: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 19:43:40 CET [2026/01/23 13:43:40 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1055 in chips) 
+Seat 3: onmiguel10 (445 in chips) 
+onmiguel10: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2h]
+onmiguel10: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: onmiguel10 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430794689: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/23 19:43:54 CET [2026/01/23 13:43:54 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1075 in chips) 
+Seat 3: onmiguel10 (425 in chips) 
+mabeal1: posts small blind 30
+onmiguel10: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6s]
+mabeal1: raises 1015 to 1075 and is all-in
+onmiguel10 has timed out
+onmiguel10: folds 
+onmiguel10 is sitting out
+Uncalled bet (1015) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+onmiguel10 has returned
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: onmiguel10 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259430801561: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/23 19:44:24 CET [2026/01/23 13:44:24 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1135 in chips) 
+Seat 3: onmiguel10 (365 in chips) 
+onmiguel10: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Jh]
+onmiguel10: raises 305 to 365 and is all-in
+mabeal1: calls 305
+*** FLOP *** [2s 8c 4h]
+*** TURN *** [2s 8c 4h] [9s]
+*** RIVER *** [2s 8c 4h 9s] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [Th Jh] (a pair of Eights)
+onmiguel10: shows [Ks Qh] (a pair of Eights - King kicker)
+onmiguel10 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [2s 8c 4h 9s 8h]
+Seat 2: mabeal1 (big blind) showed [Th Jh] and lost with a pair of Eights
+Seat 3: onmiguel10 (button) (small blind) showed [Ks Qh] and won (730) with a pair of Eights
+
+
+
+PokerStars Hand #259430804435: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/23 19:44:36 CET [2026/01/23 13:44:36 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (770 in chips) 
+Seat 3: onmiguel10 (730 in chips) 
+mabeal1: posts small blind 30
+onmiguel10: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Kd]
+mabeal1: calls 30
+onmiguel10: raises 670 to 730 and is all-in
+mabeal1: folds 
+Uncalled bet (670) returned to onmiguel10
+onmiguel10 collected 120 from pot
+onmiguel10: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: onmiguel10 (big blind) collected (120)
+
+
+
+PokerStars Hand #259430807213: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/23 19:44:48 CET [2026/01/23 13:44:48 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (710 in chips) 
+Seat 3: onmiguel10 (790 in chips) 
+onmiguel10: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 4c]
+onmiguel10 has timed out
+onmiguel10: folds 
+onmiguel10 is sitting out
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: onmiguel10 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430810749: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/23 19:45:03 CET [2026/01/23 13:45:03 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: onmiguel10 (760 in chips) is sitting out
+mabeal1: posts small blind 30
+onmiguel10: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 3c]
+onmiguel10 has returned
+mabeal1: calls 30
+onmiguel10: checks 
+*** FLOP *** [4s 3h Js]
+onmiguel10: bets 180
+mabeal1: calls 180
+*** TURN *** [4s 3h Js] [Qc]
+onmiguel10: checks 
+mabeal1: bets 180
+onmiguel10: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 480 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4s 3h Js Qc]
+Seat 2: mabeal1 (button) (small blind) collected (480)
+Seat 3: onmiguel10 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259430817369: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/23 19:45:32 CET [2026/01/23 13:45:32 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (980 in chips) 
+Seat 3: onmiguel10 (520 in chips) 
+onmiguel10: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Th]
+onmiguel10: raises 460 to 520 and is all-in
+mabeal1: folds 
+Uncalled bet (460) returned to onmiguel10
+onmiguel10 collected 120 from pot
+onmiguel10: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: onmiguel10 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259430819220: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/23 19:45:40 CET [2026/01/23 13:45:40 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (920 in chips) 
+Seat 3: onmiguel10 (580 in chips) 
+mabeal1: posts small blind 30
+onmiguel10: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Jh]
+mabeal1: calls 30
+onmiguel10: checks 
+*** FLOP *** [4h Kh 3s]
+onmiguel10: checks 
+mabeal1: checks 
+*** TURN *** [4h Kh 3s] [9c]
+onmiguel10: bets 60
+mabeal1: calls 60
+*** RIVER *** [4h Kh 3s 9c] [Qd]
+onmiguel10: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+onmiguel10: shows [8s Ks] (a pair of Kings)
+mabeal1: mucks hand 
+onmiguel10 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [4h Kh 3s 9c Qd]
+Seat 2: mabeal1 (button) (small blind) mucked [4c Jh]
+Seat 3: onmiguel10 (big blind) showed [8s Ks] and won (360) with a pair of Kings
+
+
+
+PokerStars Hand #259430823209: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/01/23 19:45:57 CET [2026/01/23 13:45:57 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: onmiguel10 (760 in chips) 
+onmiguel10: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 2c]
+onmiguel10: calls 40
+mabeal1: raises 660 to 740 and is all-in
+onmiguel10: folds 
+Uncalled bet (660) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: onmiguel10 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430824969: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/01/23 19:46:04 CET [2026/01/23 13:46:04 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (820 in chips) 
+Seat 3: onmiguel10 (680 in chips) 
+mabeal1: posts small blind 40
+onmiguel10: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 5s]
+mabeal1: calls 40
+onmiguel10: checks 
+*** FLOP *** [6c 5h 7s]
+onmiguel10: checks 
+mabeal1: checks 
+*** TURN *** [6c 5h 7s] [3c]
+onmiguel10: checks 
+mabeal1: checks 
+*** RIVER *** [6c 5h 7s 3c] [8c]
+onmiguel10: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+onmiguel10: shows [3s Ts] (a pair of Threes)
+mabeal1: shows [Qd 5s] (a pair of Fives)
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6c 5h 7s 3c 8c]
+Seat 2: mabeal1 (button) (small blind) showed [Qd 5s] and won (160) with a pair of Fives
+Seat 3: onmiguel10 (big blind) showed [3s Ts] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259430832498: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/01/23 19:46:36 CET [2026/01/23 13:46:36 ET]
+Table '3968424273 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (900 in chips) 
+Seat 3: onmiguel10 (600 in chips) 
+onmiguel10: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Th]
+onmiguel10: raises 520 to 600 and is all-in
+mabeal1: folds 
+Uncalled bet (520) returned to onmiguel10
+onmiguel10 collected 160 from pot
+onmiguel10: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: onmiguel10 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259430834656: Tournament #3968424273, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/01/23 19:46:45 CET [2026/01/23 13:46:45 ET]
+Table '3968424273 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (820 in chips) 
+Seat 3: onmiguel10 (680 in chips) 
+mabeal1: posts small blind 40
+onmiguel10: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ac]
+mabeal1: raises 740 to 820 and is all-in
+onmiguel10: calls 600 and is all-in
+Uncalled bet (140) returned to mabeal1
+*** FLOP *** [2s 5d Kc]
+*** TURN *** [2s 5d Kc] [Js]
+*** RIVER *** [2s 5d Kc Js] [4d]
+*** SHOW DOWN ***
+onmiguel10: shows [8d 9d] (high card King)
+mabeal1: shows [5h Ac] (a pair of Fives)
+mabeal1 collected 1360 from pot
+onmiguel10 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Board [2s 5d Kc Js 4d]
+Seat 2: mabeal1 (button) (small blind) showed [5h Ac] and won (1360) with a pair of Fives
+Seat 3: onmiguel10 (big blind) showed [8d 9d] and lost with high card King
+
+
+

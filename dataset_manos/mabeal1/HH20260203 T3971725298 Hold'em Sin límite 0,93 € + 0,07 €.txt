@@ -1,0 +1,682 @@
+﻿PokerStars Hand #259576680867: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:30:03 CET [2026/02/03 10:30:03 ET]
+Table '3971725298 1' 3-max Seat #1 is the button
+Seat 1: beaves777 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: boy2654 (500 in chips) 
+mabeal1: posts small blind 10
+boy2654: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5d]
+beaves777: calls 20
+mabeal1: calls 10
+boy2654: checks 
+*** FLOP *** [7d 5s Tc]
+mabeal1: checks 
+boy2654: bets 60
+beaves777: calls 60
+mabeal1: calls 60
+*** TURN *** [7d 5s Tc] [Ts]
+mabeal1: checks 
+boy2654: bets 80
+beaves777: calls 80
+mabeal1: folds 
+*** RIVER *** [7d 5s Tc Ts] [Kh]
+boy2654: bets 100
+beaves777: calls 100
+*** SHOW DOWN ***
+boy2654: shows [Th Jc] (three of a kind, Tens)
+beaves777: mucks hand 
+boy2654 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [7d 5s Tc Ts Kh]
+Seat 1: beaves777 (button) mucked [7c 4c]
+Seat 2: mabeal1 (small blind) folded on the Turn
+Seat 3: boy2654 (big blind) showed [Th Jc] and won (600) with three of a kind, Tens
+
+
+
+PokerStars Hand #259576689337: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:30:52 CET [2026/02/03 10:30:52 ET]
+Table '3971725298 1' 3-max Seat #2 is the button
+Seat 1: beaves777 (240 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: boy2654 (840 in chips) 
+boy2654: posts small blind 10
+beaves777: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 6c]
+mabeal1: raises 20 to 40
+boy2654: calls 30
+beaves777: calls 20
+*** FLOP *** [Ks 7d 6h]
+boy2654: checks 
+beaves777: checks 
+mabeal1: bets 60
+boy2654: folds 
+beaves777: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks 7d 6h]
+Seat 1: beaves777 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (120)
+Seat 3: boy2654 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259576696963: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:31:35 CET [2026/02/03 10:31:35 ET]
+Table '3971725298 1' 3-max Seat #3 is the button
+Seat 1: beaves777 (200 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: boy2654 (800 in chips) 
+beaves777: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 5d]
+boy2654: calls 20
+beaves777: calls 10
+mabeal1: checks 
+*** FLOP *** [6s Tc 7d]
+beaves777: checks 
+mabeal1: checks 
+boy2654: bets 60
+beaves777: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to boy2654
+boy2654 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s Tc 7d]
+Seat 1: beaves777 (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: boy2654 (button) collected (60)
+
+
+
+PokerStars Hand #259576700919: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:31:57 CET [2026/02/03 10:31:57 ET]
+Table '3971725298 1' 3-max Seat #1 is the button
+Seat 1: beaves777 (180 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: boy2654 (840 in chips) 
+mabeal1: posts small blind 10
+boy2654: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Ks]
+beaves777: calls 20
+mabeal1: calls 10
+boy2654: checks 
+*** FLOP *** [Ad Ac 8c]
+mabeal1: checks 
+boy2654: checks 
+beaves777: checks 
+*** TURN *** [Ad Ac 8c] [Kd]
+mabeal1: bets 30
+boy2654: folds 
+beaves777: calls 30
+*** RIVER *** [Ad Ac 8c Kd] [Jc]
+mabeal1: bets 430 and is all-in
+beaves777: folds 
+Uncalled bet (430) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ad Ac 8c Kd Jc]
+Seat 1: beaves777 (button) folded on the River
+Seat 2: mabeal1 (small blind) collected (120)
+Seat 3: boy2654 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259576708765: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:32:41 CET [2026/02/03 10:32:41 ET]
+Table '3971725298 1' 3-max Seat #2 is the button
+Seat 1: beaves777 (130 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: boy2654 (820 in chips) 
+boy2654: posts small blind 15
+beaves777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8c]
+mabeal1: folds 
+boy2654: calls 15
+beaves777: checks 
+*** FLOP *** [4h Ah 4c]
+boy2654: checks 
+beaves777: checks 
+*** TURN *** [4h Ah 4c] [6s]
+boy2654: checks 
+beaves777: bets 30
+boy2654: folds 
+Uncalled bet (30) returned to beaves777
+beaves777 collected 60 from pot
+beaves777: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h Ah 4c 6s]
+Seat 1: beaves777 (big blind) collected (60)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: boy2654 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259576713725: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:33:09 CET [2026/02/03 10:33:09 ET]
+Table '3971725298 1' 3-max Seat #3 is the button
+Seat 1: beaves777 (160 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: boy2654 (790 in chips) 
+beaves777: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 5d]
+boy2654: calls 30
+beaves777: raises 130 to 160 and is all-in
+mabeal1: folds 
+boy2654: folds 
+Uncalled bet (130) returned to beaves777
+beaves777 collected 90 from pot
+beaves777: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: beaves777 (small blind) collected (90)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: boy2654 (button) folded before Flop
+
+
+
+PokerStars Hand #259576716240: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:33:24 CET [2026/02/03 10:33:24 ET]
+Table '3971725298 1' 3-max Seat #1 is the button
+Seat 1: beaves777 (220 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: boy2654 (760 in chips) 
+mabeal1: posts small blind 15
+boy2654: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 2h]
+beaves777: raises 190 to 220 and is all-in
+mabeal1: raises 300 to 520 and is all-in
+boy2654: folds 
+Uncalled bet (300) returned to mabeal1
+*** FLOP *** [Ah 5s Js]
+*** TURN *** [Ah 5s Js] [Ks]
+*** RIVER *** [Ah 5s Js Ks] [3h]
+*** SHOW DOWN ***
+mabeal1: shows [2c 2h] (a pair of Deuces)
+beaves777: shows [Jc Th] (a pair of Jacks)
+beaves777 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [Ah 5s Js Ks 3h]
+Seat 1: beaves777 (button) showed [Jc Th] and won (470) with a pair of Jacks
+Seat 2: mabeal1 (small blind) showed [2c 2h] and lost with a pair of Deuces
+Seat 3: boy2654 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576718453: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:33:36 CET [2026/02/03 10:33:36 ET]
+Table '3971725298 1' 3-max Seat #2 is the button
+Seat 1: beaves777 (470 in chips) 
+Seat 2: mabeal1 (300 in chips) 
+Seat 3: boy2654 (730 in chips) 
+boy2654: posts small blind 15
+beaves777: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7c]
+mabeal1: folds 
+boy2654: calls 15
+beaves777: checks 
+*** FLOP *** [7h 4h 5s]
+boy2654: checks 
+beaves777: checks 
+*** TURN *** [7h 4h 5s] [Qs]
+boy2654: checks 
+beaves777: checks 
+*** RIVER *** [7h 4h 5s Qs] [4s]
+boy2654: checks 
+beaves777: checks 
+*** SHOW DOWN ***
+boy2654: shows [8c Kd] (a pair of Fours)
+beaves777: shows [Jc 5d] (two pair, Fives and Fours)
+beaves777 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h 4h 5s Qs 4s]
+Seat 1: beaves777 (big blind) showed [Jc 5d] and won (60) with two pair, Fives and Fours
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: boy2654 (small blind) showed [8c Kd] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259576722714: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:34:01 CET [2026/02/03 10:34:01 ET]
+Table '3971725298 1' 3-max Seat #3 is the button
+Seat 1: beaves777 (500 in chips) 
+Seat 2: mabeal1 (300 in chips) 
+Seat 3: boy2654 (700 in chips) 
+beaves777: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 9s]
+boy2654: raises 30 to 60
+beaves777: calls 45
+mabeal1: calls 30
+*** FLOP *** [2c Jh Kh]
+beaves777: checks 
+mabeal1: checks 
+boy2654: checks 
+*** TURN *** [2c Jh Kh] [3d]
+beaves777: checks 
+mabeal1: checks 
+boy2654: checks 
+*** RIVER *** [2c Jh Kh 3d] [Ac]
+beaves777: checks 
+mabeal1: checks 
+boy2654: checks 
+*** SHOW DOWN ***
+beaves777: shows [6s 9c] (high card Ace)
+mabeal1: shows [2s 9s] (a pair of Deuces)
+boy2654: mucks hand 
+mabeal1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2c Jh Kh 3d Ac]
+Seat 1: beaves777 (small blind) showed [6s 9c] and lost with high card Ace
+Seat 2: mabeal1 (big blind) showed [2s 9s] and won (180) with a pair of Deuces
+Seat 3: boy2654 (button) mucked [4c 7c]
+
+
+
+PokerStars Hand #259576730056: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:34:42 CET [2026/02/03 10:34:42 ET]
+Table '3971725298 1' 3-max Seat #1 is the button
+Seat 1: beaves777 (440 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: boy2654 (640 in chips) 
+mabeal1: posts small blind 20
+boy2654: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 6c]
+beaves777: calls 40
+mabeal1: folds 
+boy2654: raises 40 to 80
+beaves777: calls 40
+*** FLOP *** [3c Qh 5c]
+boy2654: checks 
+beaves777: bets 360 and is all-in
+boy2654: calls 360
+*** TURN *** [3c Qh 5c] [Qd]
+*** RIVER *** [3c Qh 5c Qd] [8h]
+*** SHOW DOWN ***
+boy2654: shows [2c Ac] (a pair of Queens)
+beaves777: shows [6d 3h] (two pair, Queens and Threes)
+beaves777 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [3c Qh 5c Qd 8h]
+Seat 1: beaves777 (button) showed [6d 3h] and won (900) with two pair, Queens and Threes
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: boy2654 (big blind) showed [2c Ac] and lost with a pair of Queens
+
+
+
+PokerStars Hand #259576734142: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:35:05 CET [2026/02/03 10:35:05 ET]
+Table '3971725298 1' 3-max Seat #2 is the button
+Seat 1: beaves777 (900 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: boy2654 (200 in chips) 
+boy2654: posts small blind 20
+beaves777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 6h]
+mabeal1: folds 
+boy2654: folds 
+Uncalled bet (20) returned to beaves777
+beaves777 collected 40 from pot
+beaves777: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: beaves777 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: boy2654 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576735812: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:35:15 CET [2026/02/03 10:35:15 ET]
+Table '3971725298 1' 3-max Seat #3 is the button
+Seat 1: beaves777 (920 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: boy2654 (180 in chips) 
+beaves777: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 8c]
+boy2654: calls 40
+beaves777: calls 20
+mabeal1: checks 
+*** FLOP *** [Kd Jh 4h]
+beaves777: checks 
+mabeal1: bets 40
+boy2654: raises 100 to 140 and is all-in
+beaves777: folds 
+mabeal1: calls 100
+*** TURN *** [Kd Jh 4h] [Td]
+*** RIVER *** [Kd Jh 4h Td] [9c]
+*** SHOW DOWN ***
+mabeal1: shows [Jd 8c] (a pair of Jacks)
+boy2654: shows [6d Kc] (a pair of Kings)
+boy2654 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Kd Jh 4h Td 9c]
+Seat 1: beaves777 (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) showed [Jd 8c] and lost with a pair of Jacks
+Seat 3: boy2654 (button) showed [6d Kc] and won (400) with a pair of Kings
+
+
+
+PokerStars Hand #259576740360: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:35:40 CET [2026/02/03 10:35:40 ET]
+Table '3971725298 1' 3-max Seat #1 is the button
+Seat 1: beaves777 (880 in chips) 
+Seat 2: mabeal1 (220 in chips) 
+Seat 3: boy2654 (400 in chips) 
+mabeal1: posts small blind 20
+boy2654: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 8c]
+beaves777: calls 40
+mabeal1: raises 180 to 220 and is all-in
+boy2654: folds 
+beaves777: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: beaves777 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (120)
+Seat 3: boy2654 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576742919: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:35:55 CET [2026/02/03 10:35:55 ET]
+Table '3971725298 1' 3-max Seat #2 is the button
+Seat 1: beaves777 (840 in chips) 
+Seat 2: mabeal1 (300 in chips) 
+Seat 3: boy2654 (360 in chips) 
+boy2654: posts small blind 20
+beaves777: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Qs]
+mabeal1: raises 40 to 80
+boy2654: raises 40 to 120
+beaves777: calls 80
+mabeal1: raises 180 to 300 and is all-in
+boy2654: folds 
+beaves777: calls 180
+*** FLOP *** [4h 7h Kh]
+*** TURN *** [4h 7h Kh] [Ks]
+*** RIVER *** [4h 7h Kh Ks] [2h]
+*** SHOW DOWN ***
+beaves777: shows [Qd 8h] (a flush, King high)
+mabeal1: shows [Jh Qs] (a flush, King high - Jack higher)
+mabeal1 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [4h 7h Kh Ks 2h]
+Seat 1: beaves777 (big blind) showed [Qd 8h] and lost with a flush, King high
+Seat 2: mabeal1 (button) showed [Jh Qs] and won (720) with a flush, King high
+Seat 3: boy2654 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576749657: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 16:36:33 CET [2026/02/03 10:36:33 ET]
+Table '3971725298 1' 3-max Seat #3 is the button
+Seat 1: beaves777 (540 in chips) 
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: boy2654 (240 in chips) 
+beaves777: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 5c]
+boy2654: calls 60
+beaves777: calls 30
+mabeal1: checks 
+*** FLOP *** [3s Js Jh]
+beaves777: checks 
+mabeal1: checks 
+boy2654: checks 
+*** TURN *** [3s Js Jh] [7h]
+beaves777: checks 
+mabeal1: checks 
+boy2654: checks 
+*** RIVER *** [3s Js Jh 7h] [4s]
+beaves777: checks 
+mabeal1: checks 
+boy2654: checks 
+*** SHOW DOWN ***
+beaves777: shows [8c 9d] (a pair of Jacks)
+mabeal1: shows [Tc 5c] (a pair of Jacks - Ten kicker)
+boy2654: shows [2s Kc] (a pair of Jacks - King kicker)
+boy2654 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3s Js Jh 7h 4s]
+Seat 1: beaves777 (small blind) showed [8c 9d] and lost with a pair of Jacks
+Seat 2: mabeal1 (big blind) showed [Tc 5c] and lost with a pair of Jacks
+Seat 3: boy2654 (button) showed [2s Kc] and won (180) with a pair of Jacks
+
+
+
+PokerStars Hand #259576758009: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 16:37:22 CET [2026/02/03 10:37:22 ET]
+Table '3971725298 1' 3-max Seat #1 is the button
+Seat 1: beaves777 (480 in chips) 
+Seat 2: mabeal1 (660 in chips) 
+Seat 3: boy2654 (360 in chips) 
+mabeal1: posts small blind 30
+boy2654: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Qc]
+beaves777: calls 60
+mabeal1: calls 30
+boy2654: checks 
+*** FLOP *** [5s Kd 8h]
+mabeal1: checks 
+boy2654: bets 180
+beaves777: folds 
+mabeal1: folds 
+Uncalled bet (180) returned to boy2654
+boy2654 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5s Kd 8h]
+Seat 1: beaves777 (button) folded on the Flop
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: boy2654 (big blind) collected (180)
+
+
+
+PokerStars Hand #259576764135: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 16:37:56 CET [2026/02/03 10:37:56 ET]
+Table '3971725298 1' 3-max Seat #2 is the button
+Seat 1: beaves777 (420 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: boy2654 (480 in chips) 
+boy2654: posts small blind 30
+beaves777: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 5s]
+mabeal1: folds 
+boy2654: calls 30
+beaves777: checks 
+*** FLOP *** [3h Jd Kc]
+boy2654: checks 
+beaves777: checks 
+*** TURN *** [3h Jd Kc] [8h]
+boy2654: checks 
+beaves777: bets 60
+boy2654: folds 
+Uncalled bet (60) returned to beaves777
+beaves777 collected 120 from pot
+beaves777: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h Jd Kc 8h]
+Seat 1: beaves777 (big blind) collected (120)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: boy2654 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259576768097: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/03 16:38:19 CET [2026/02/03 10:38:19 ET]
+Table '3971725298 1' 3-max Seat #3 is the button
+Seat 1: beaves777 (480 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: boy2654 (420 in chips) 
+beaves777: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 8c]
+boy2654: raises 80 to 160
+beaves777: folds 
+mabeal1: folds 
+Uncalled bet (80) returned to boy2654
+boy2654 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: beaves777 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: boy2654 (button) collected (200)
+
+
+
+PokerStars Hand #259576769668: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/03 16:38:28 CET [2026/02/03 10:38:28 ET]
+Table '3971725298 1' 3-max Seat #1 is the button
+Seat 1: beaves777 (440 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: boy2654 (540 in chips) 
+mabeal1: posts small blind 40
+boy2654: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 9c]
+beaves777: calls 80
+mabeal1: folds 
+boy2654: checks 
+*** FLOP *** [7d 9d Ad]
+boy2654: checks 
+beaves777: checks 
+*** TURN *** [7d 9d Ad] [8s]
+boy2654: bets 240
+beaves777: raises 120 to 360 and is all-in
+boy2654: calls 120
+*** RIVER *** [7d 9d Ad 8s] [6d]
+*** SHOW DOWN ***
+boy2654: shows [8d 5s] (a flush, Ace high)
+beaves777: shows [6c Kd] (a flush, Ace high - King higher)
+beaves777 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [7d 9d Ad 8s 6d]
+Seat 1: beaves777 (button) showed [6c Kd] and won (920) with a flush, Ace high
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: boy2654 (big blind) showed [8d 5s] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #259576775308: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/03 16:39:00 CET [2026/02/03 10:39:00 ET]
+Table '3971725298 1' 3-max Seat #2 is the button
+Seat 1: beaves777 (920 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: boy2654 (100 in chips) 
+boy2654: posts small blind 40
+beaves777: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 6d]
+mabeal1: folds 
+boy2654: raises 20 to 100 and is all-in
+beaves777: calls 20
+*** FLOP *** [Ac 9h 7h]
+*** TURN *** [Ac 9h 7h] [5s]
+*** RIVER *** [Ac 9h 7h 5s] [8s]
+*** SHOW DOWN ***
+boy2654: shows [8d 8h] (three of a kind, Eights)
+beaves777: shows [Jd 9d] (a pair of Nines)
+boy2654 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ac 9h 7h 5s 8s]
+Seat 1: beaves777 (big blind) showed [Jd 9d] and lost with a pair of Nines
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: boy2654 (small blind) showed [8d 8h] and won (200) with three of a kind, Eights
+
+
+
+PokerStars Hand #259576778184: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/03 16:39:17 CET [2026/02/03 10:39:17 ET]
+Table '3971725298 1' 3-max Seat #3 is the button
+Seat 1: beaves777 (820 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: boy2654 (200 in chips) 
+beaves777: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 8d]
+boy2654: calls 80
+beaves777: calls 40
+mabeal1: checks 
+*** FLOP *** [Ks Jc 3s]
+beaves777: checks 
+mabeal1: checks 
+boy2654: checks 
+*** TURN *** [Ks Jc 3s] [5h]
+beaves777: bets 80
+mabeal1: folds 
+boy2654: folds 
+Uncalled bet (80) returned to beaves777
+beaves777 collected 240 from pot
+beaves777: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ks Jc 3s 5h]
+Seat 1: beaves777 (small blind) collected (240)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: boy2654 (button) folded on the Turn
+
+
+
+PokerStars Hand #259576782866: Tournament #3971725298, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/03 16:39:44 CET [2026/02/03 10:39:44 ET]
+Table '3971725298 1' 3-max Seat #1 is the button
+Seat 1: beaves777 (980 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: boy2654 (120 in chips) 
+mabeal1: posts small blind 40
+boy2654: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Kh]
+beaves777: calls 80
+mabeal1: raises 80 to 160
+boy2654: calls 40 and is all-in
+beaves777: calls 80
+*** FLOP *** [Js Ks 5c]
+mabeal1: checks 
+beaves777: checks 
+*** TURN *** [Js Ks 5c] [4s]
+mabeal1: checks 
+beaves777: bets 80
+mabeal1: raises 160 to 240 and is all-in
+beaves777: calls 160
+*** RIVER *** [Js Ks 5c 4s] [Qc]
+*** SHOW DOWN ***
+mabeal1: shows [Kc Kh] (three of a kind, Kings)
+beaves777: shows [6s 9s] (a flush, King high)
+beaves777 collected 560 from side pot
+boy2654: shows [5h Jc] (two pair, Jacks and Fives)
+beaves777 collected 360 from main pot
+mabeal1 finished the tournament in 2nd place
+boy2654 finished the tournament in 3rd place
+beaves777 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 920 Main pot 360. Side pot 560. | Rake 0 
+Board [Js Ks 5c 4s Qc]
+Seat 1: beaves777 (button) showed [6s 9s] and won (920) with a flush, King high
+Seat 2: mabeal1 (small blind) showed [Kc Kh] and lost with three of a kind, Kings
+Seat 3: boy2654 (big blind) showed [5h Jc] and lost with two pair, Jacks and Fives
+
+
+

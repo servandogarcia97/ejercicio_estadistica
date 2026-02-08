@@ -1,0 +1,332 @@
+﻿PokerStars Hand #259430016006: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:43:22 CET [2026/01/23 12:43:22 ET]
+Table '3968408109 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: luchitooo832 (500 in chips) 
+Seat 3: wasoski33 (500 in chips) 
+luchitooo832: posts small blind 10
+wasoski33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 2h]
+mabeal1: folds 
+luchitooo832: raises 100 to 120
+wasoski33: calls 100
+*** FLOP *** [4h Qh 3c]
+luchitooo832: checks 
+wasoski33: checks 
+*** TURN *** [4h Qh 3c] [Jd]
+luchitooo832: checks 
+wasoski33: bets 20
+luchitooo832: calls 20
+*** RIVER *** [4h Qh 3c Jd] [7d]
+luchitooo832: checks 
+wasoski33: bets 20
+luchitooo832: calls 20
+*** SHOW DOWN ***
+wasoski33: shows [Js 8h] (a pair of Jacks)
+luchitooo832: mucks hand 
+wasoski33 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [4h Qh 3c Jd 7d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: luchitooo832 (small blind) mucked [Ad Tc]
+Seat 3: wasoski33 (big blind) showed [Js 8h] and won (320) with a pair of Jacks
+
+
+
+PokerStars Hand #259430021025: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:43:46 CET [2026/01/23 12:43:46 ET]
+Table '3968408109 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: luchitooo832 (340 in chips) 
+Seat 3: wasoski33 (660 in chips) 
+wasoski33: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 3h]
+luchitooo832: raises 80 to 100
+wasoski33: raises 220 to 320
+mabeal1: folds 
+luchitooo832: calls 220
+*** FLOP *** [8d 2s 7c]
+wasoski33: bets 340 and is all-in
+luchitooo832: calls 20 and is all-in
+Uncalled bet (320) returned to wasoski33
+*** TURN *** [8d 2s 7c] [Kh]
+*** RIVER *** [8d 2s 7c Kh] [Ah]
+*** SHOW DOWN ***
+wasoski33: shows [As 2c] (two pair, Aces and Deuces)
+luchitooo832: shows [8h Kd] (two pair, Kings and Eights)
+wasoski33 collected 700 from pot
+luchitooo832 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [8d 2s 7c Kh Ah]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: luchitooo832 (button) showed [8h Kd] and lost with two pair, Kings and Eights
+Seat 3: wasoski33 (small blind) showed [As 2c] and won (700) with two pair, Aces and Deuces
+
+
+
+PokerStars Hand #259430027407: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:44:16 CET [2026/01/23 12:44:16 ET]
+Table '3968408109 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 3: wasoski33 (1020 in chips) 
+mabeal1: posts small blind 10
+wasoski33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 7c]
+mabeal1: calls 10
+wasoski33: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Kc 2c 3d]
+wasoski33: bets 80
+mabeal1: raises 360 to 440 and is all-in
+wasoski33: folds 
+Uncalled bet (360) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kc 2c 3d]
+Seat 1: mabeal1 (button) (small blind) collected (240)
+Seat 3: wasoski33 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259430030335: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:44:30 CET [2026/01/23 12:44:30 ET]
+Table '3968408109 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 3: wasoski33 (900 in chips) 
+wasoski33: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 6s]
+wasoski33: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: wasoski33 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430031426: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:44:35 CET [2026/01/23 12:44:35 ET]
+Table '3968408109 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 3: wasoski33 (890 in chips) 
+mabeal1: posts small blind 10
+wasoski33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7h]
+mabeal1: calls 10
+wasoski33: checks 
+*** FLOP *** [9c 2c Qh]
+wasoski33: bets 20
+mabeal1: raises 40 to 60
+wasoski33: calls 40
+*** TURN *** [9c 2c Qh] [2s]
+wasoski33: checks 
+mabeal1: checks 
+*** RIVER *** [9c 2c Qh 2s] [8h]
+wasoski33: checks 
+mabeal1: bets 80
+wasoski33: calls 80
+*** SHOW DOWN ***
+mabeal1: shows [4h 7h] (a pair of Deuces)
+wasoski33: shows [9h 3c] (two pair, Nines and Deuces)
+wasoski33 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [9c 2c Qh 2s 8h]
+Seat 1: mabeal1 (button) (small blind) showed [4h 7h] and lost with a pair of Deuces
+Seat 3: wasoski33 (big blind) showed [9h 3c] and won (320) with two pair, Nines and Deuces
+
+
+
+PokerStars Hand #259430036285: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:44:58 CET [2026/01/23 12:44:58 ET]
+Table '3968408109 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (450 in chips) 
+Seat 3: wasoski33 (1050 in chips) 
+wasoski33: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Ts]
+wasoski33: calls 10
+mabeal1: checks 
+*** FLOP *** [7d 4h 7h]
+mabeal1: checks 
+wasoski33: checks 
+*** TURN *** [7d 4h 7h] [9c]
+mabeal1: bets 20
+wasoski33: calls 20
+*** RIVER *** [7d 4h 7h 9c] [Qc]
+mabeal1: checks 
+wasoski33: checks 
+*** SHOW DOWN ***
+mabeal1: shows [5s Ts] (a pair of Sevens)
+wasoski33: shows [6h Kc] (a pair of Sevens - King kicker)
+wasoski33 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d 4h 7h 9c Qc]
+Seat 1: mabeal1 (big blind) showed [5s Ts] and lost with a pair of Sevens
+Seat 3: wasoski33 (button) (small blind) showed [6h Kc] and won (80) with a pair of Sevens
+
+
+
+PokerStars Hand #259430040369: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:45:17 CET [2026/01/23 12:45:17 ET]
+Table '3968408109 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 3: wasoski33 (1090 in chips) 
+mabeal1: posts small blind 10
+wasoski33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 9h]
+mabeal1: raises 390 to 410 and is all-in
+wasoski33: folds 
+Uncalled bet (390) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: wasoski33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259430042678: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 18:45:29 CET [2026/01/23 12:45:29 ET]
+Table '3968408109 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 3: wasoski33 (1070 in chips) 
+wasoski33: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2c]
+wasoski33: calls 15
+mabeal1: raises 400 to 430 and is all-in
+wasoski33: folds 
+Uncalled bet (400) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: wasoski33 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430044320: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 18:45:36 CET [2026/01/23 12:45:36 ET]
+Table '3968408109 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 3: wasoski33 (1040 in chips) 
+mabeal1: posts small blind 15
+wasoski33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Jd]
+mabeal1: calls 15
+wasoski33: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to wasoski33
+wasoski33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: wasoski33 (big blind) collected (60)
+
+
+
+PokerStars Hand #259430047135: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 18:45:49 CET [2026/01/23 12:45:49 ET]
+Table '3968408109 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 3: wasoski33 (1070 in chips) 
+wasoski33: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2c]
+wasoski33: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to wasoski33
+wasoski33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: wasoski33 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259430052933: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 18:46:17 CET [2026/01/23 12:46:17 ET]
+Table '3968408109 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 3: wasoski33 (1100 in chips) 
+mabeal1: posts small blind 15
+wasoski33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kh]
+mabeal1: raises 370 to 400 and is all-in
+wasoski33: calls 370
+*** FLOP *** [Ac 9h 4d]
+*** TURN *** [Ac 9h 4d] [2c]
+*** RIVER *** [Ac 9h 4d 2c] [5s]
+*** SHOW DOWN ***
+wasoski33: shows [8c Jd] (high card Ace)
+mabeal1: shows [7s Kh] (high card Ace - King kicker)
+mabeal1 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Ac 9h 4d 2c 5s]
+Seat 1: mabeal1 (button) (small blind) showed [7s Kh] and won (800) with high card Ace
+Seat 3: wasoski33 (big blind) showed [8c Jd] and lost with high card Ace
+
+
+
+PokerStars Hand #259430056175: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 18:46:32 CET [2026/01/23 12:46:32 ET]
+Table '3968408109 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (800 in chips) 
+Seat 3: wasoski33 (700 in chips) 
+wasoski33: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Qs]
+wasoski33 is disconnected 
+wasoski33 is connected 
+wasoski33 is disconnected 
+wasoski33 is connected 
+wasoski33: raises 670 to 700 and is all-in
+mabeal1: folds 
+Uncalled bet (670) returned to wasoski33
+wasoski33 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: wasoski33 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259430061122: Tournament #3968408109, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 18:46:56 CET [2026/01/23 12:46:56 ET]
+Table '3968408109 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (770 in chips) 
+Seat 3: wasoski33 (730 in chips) 
+mabeal1: posts small blind 15
+wasoski33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Jc]
+mabeal1: calls 15
+wasoski33: raises 700 to 730 and is all-in
+mabeal1: calls 700
+*** FLOP *** [Th 9d 5h]
+*** TURN *** [Th 9d 5h] [8s]
+*** RIVER *** [Th 9d 5h 8s] [Kh]
+*** SHOW DOWN ***
+wasoski33: shows [Kd Ad] (a pair of Kings)
+mabeal1: shows [Jh Jc] (a pair of Jacks)
+wasoski33 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | Rake 0 
+Board [Th 9d 5h 8s Kh]
+Seat 1: mabeal1 (button) (small blind) showed [Jh Jc] and lost with a pair of Jacks
+Seat 3: wasoski33 (big blind) showed [Kd Ad] and won (1460) with a pair of Kings
+
+
+

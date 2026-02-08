@@ -1,0 +1,646 @@
+﻿PokerStars Hand #259395848287: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:23:46 CET [2026/01/20 17:23:46 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Pitt255 (500 in chips) 
+Seat 3: franjavpe (500 in chips) 
+Pitt255: posts small blind 10
+franjavpe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh As]
+mabeal1: raises 480 to 500 and is all-in
+Pitt255: folds 
+franjavpe: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: Pitt255 (small blind) folded before Flop
+Seat 3: franjavpe (big blind) folded before Flop
+
+
+
+PokerStars Hand #259395851811: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:24:00 CET [2026/01/20 17:24:00 ET]
+Table '3967571625 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Pitt255 (490 in chips) 
+Seat 3: franjavpe (480 in chips) 
+franjavpe: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Jh]
+Pitt255: raises 70 to 90
+franjavpe: folds 
+mabeal1: folds 
+Uncalled bet (70) returned to Pitt255
+Pitt255 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Pitt255 (button) collected (50)
+Seat 3: franjavpe (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395855516: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:24:16 CET [2026/01/20 17:24:16 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Pitt255 (520 in chips) 
+Seat 3: franjavpe (470 in chips) 
+mabeal1: posts small blind 10
+Pitt255: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5h]
+franjavpe: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Pitt255
+Pitt255 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Pitt255 (big blind) collected (20)
+Seat 3: franjavpe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259395859581: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:24:32 CET [2026/01/20 17:24:32 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Pitt255 (530 in chips) 
+Seat 3: franjavpe (470 in chips) 
+Pitt255: posts small blind 10
+franjavpe: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Jh]
+mabeal1: folds 
+Pitt255: raises 40 to 60
+franjavpe: calls 40
+*** FLOP *** [Td 8h Jc]
+Pitt255: checks 
+franjavpe: bets 90
+Pitt255: folds 
+Uncalled bet (90) returned to franjavpe
+franjavpe collected 120 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Td 8h Jc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Pitt255 (small blind) folded on the Flop
+Seat 3: franjavpe (big blind) collected (120)
+
+
+
+PokerStars Hand #259395866422: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:25:00 CET [2026/01/20 17:25:00 ET]
+Table '3967571625 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Pitt255 (470 in chips) 
+Seat 3: franjavpe (530 in chips) 
+franjavpe: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5s]
+Pitt255: raises 40 to 60
+franjavpe: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to Pitt255
+Pitt255 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Pitt255 (button) collected (50)
+Seat 3: franjavpe (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395870455: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:25:16 CET [2026/01/20 17:25:16 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: Pitt255 (500 in chips) 
+Seat 3: franjavpe (520 in chips) 
+mabeal1: posts small blind 10
+Pitt255: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Ac]
+franjavpe: folds 
+mabeal1: raises 20 to 40
+Pitt255: calls 20
+*** FLOP *** [6h 2s 7h]
+mabeal1: checks 
+Pitt255: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to Pitt255
+Pitt255 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 2s 7h]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: Pitt255 (big blind) collected (80)
+Seat 3: franjavpe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259395880436: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:25:56 CET [2026/01/20 17:25:56 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: Pitt255 (540 in chips) 
+Seat 3: franjavpe (520 in chips) 
+Pitt255: posts small blind 15
+franjavpe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 8c]
+mabeal1: raises 410 to 440 and is all-in
+Pitt255: folds 
+franjavpe: folds 
+Uncalled bet (410) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (button) collected (75)
+Seat 2: Pitt255 (small blind) folded before Flop
+Seat 3: franjavpe (big blind) folded before Flop
+
+
+
+PokerStars Hand #259395884728: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:26:14 CET [2026/01/20 17:26:14 ET]
+Table '3967571625 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (485 in chips) 
+Seat 2: Pitt255 (525 in chips) 
+Seat 3: franjavpe (490 in chips) 
+franjavpe: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 8s]
+Pitt255: raises 30 to 60
+franjavpe: folds 
+mabeal1: raises 425 to 485 and is all-in
+Pitt255: folds 
+Uncalled bet (425) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (135)
+Seat 2: Pitt255 (button) folded before Flop
+Seat 3: franjavpe (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395889781: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:26:33 CET [2026/01/20 17:26:33 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: Pitt255 (465 in chips) 
+Seat 3: franjavpe (475 in chips) 
+mabeal1: posts small blind 15
+Pitt255: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3s]
+franjavpe: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Pitt255
+Pitt255 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Pitt255 (big blind) collected (30)
+Seat 3: franjavpe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259395892086: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:26:43 CET [2026/01/20 17:26:43 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (545 in chips) 
+Seat 2: Pitt255 (480 in chips) 
+Seat 3: franjavpe (475 in chips) 
+Pitt255: posts small blind 15
+franjavpe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8h]
+mabeal1: folds 
+Pitt255: folds 
+Uncalled bet (15) returned to franjavpe
+franjavpe collected 30 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Pitt255 (small blind) folded before Flop
+Seat 3: franjavpe (big blind) collected (30)
+
+
+
+PokerStars Hand #259395893726: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:26:50 CET [2026/01/20 17:26:50 ET]
+Table '3967571625 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (545 in chips) 
+Seat 2: Pitt255 (465 in chips) 
+Seat 3: franjavpe (490 in chips) 
+franjavpe: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 6s]
+Pitt255: calls 30
+franjavpe: folds 
+mabeal1: checks 
+*** FLOP *** [8h 9d 8s]
+mabeal1: checks 
+Pitt255: checks 
+*** TURN *** [8h 9d 8s] [4s]
+mabeal1: checks 
+Pitt255: checks 
+*** RIVER *** [8h 9d 8s 4s] [9s]
+mabeal1: bets 60
+Pitt255: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [8h 9d 8s 4s 9s]
+Seat 1: mabeal1 (big blind) collected (75)
+Seat 2: Pitt255 (button) folded on the River
+Seat 3: franjavpe (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395901262: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:27:19 CET [2026/01/20 17:27:19 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: Pitt255 (435 in chips) 
+Seat 3: franjavpe (475 in chips) 
+mabeal1: posts small blind 15
+Pitt255: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Kh]
+franjavpe: raises 445 to 475 and is all-in
+mabeal1: folds 
+Pitt255: calls 405 and is all-in
+Uncalled bet (40) returned to franjavpe
+*** FLOP *** [Ks 5d 6s]
+*** TURN *** [Ks 5d 6s] [8h]
+*** RIVER *** [Ks 5d 6s 8h] [Ad]
+*** SHOW DOWN ***
+Pitt255: shows [4d 4h] (a pair of Fours)
+franjavpe: shows [4c Ac] (a pair of Aces)
+franjavpe collected 885 from pot
+Pitt255 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 885 | Rake 0 
+Board [Ks 5d 6s 8h Ad]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Pitt255 (big blind) showed [4d 4h] and lost with a pair of Fours
+Seat 3: franjavpe (button) showed [4c Ac] and won (885) with a pair of Aces
+
+
+
+PokerStars Hand #259395906785: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:27:42 CET [2026/01/20 17:27:42 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (575 in chips) 
+Seat 3: franjavpe (925 in chips) 
+mabeal1: posts small blind 15
+franjavpe: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 5h]
+mabeal1: calls 15
+franjavpe: checks 
+*** FLOP *** [4s Ks 8d]
+franjavpe: checks 
+mabeal1: bets 30
+franjavpe: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s Ks 8d]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: franjavpe (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259395913287: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:28:08 CET [2026/01/20 17:28:08 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (605 in chips) 
+Seat 3: franjavpe (895 in chips) 
+franjavpe: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 9h]
+franjavpe: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to franjavpe
+franjavpe collected 80 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: franjavpe (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259395915408: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:28:16 CET [2026/01/20 17:28:16 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (565 in chips) 
+Seat 3: franjavpe (935 in chips) 
+mabeal1: posts small blind 20
+franjavpe: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5d]
+mabeal1: raises 525 to 565 and is all-in
+franjavpe: folds 
+Uncalled bet (525) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: franjavpe (big blind) folded before Flop
+
+
+
+PokerStars Hand #259395918403: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:28:28 CET [2026/01/20 17:28:28 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (605 in chips) 
+Seat 3: franjavpe (895 in chips) 
+franjavpe: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Qd]
+franjavpe: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: franjavpe (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395919314: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:28:32 CET [2026/01/20 17:28:32 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (625 in chips) 
+Seat 3: franjavpe (875 in chips) 
+mabeal1: posts small blind 20
+franjavpe: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Qc]
+mabeal1: calls 20
+franjavpe: checks 
+*** FLOP *** [Ac Td Js]
+franjavpe: checks 
+mabeal1: checks 
+*** TURN *** [Ac Td Js] [2s]
+franjavpe: checks 
+mabeal1: checks 
+*** RIVER *** [Ac Td Js 2s] [4d]
+franjavpe: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to franjavpe
+franjavpe collected 80 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac Td Js 2s 4d]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 3: franjavpe (big blind) collected (80)
+
+
+
+PokerStars Hand #259395930446: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:29:16 CET [2026/01/20 17:29:16 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (585 in chips) 
+Seat 3: franjavpe (915 in chips) 
+franjavpe: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Tc]
+franjavpe: raises 875 to 915 and is all-in
+mabeal1: folds 
+Uncalled bet (875) returned to franjavpe
+franjavpe collected 80 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: franjavpe (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259395932853: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:29:26 CET [2026/01/20 17:29:26 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (545 in chips) 
+Seat 3: franjavpe (955 in chips) 
+mabeal1: posts small blind 20
+franjavpe: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7h]
+mabeal1: calls 20
+franjavpe: checks 
+*** FLOP *** [2h 6c 7c]
+franjavpe: checks 
+mabeal1: bets 40
+franjavpe: calls 40
+*** TURN *** [2h 6c 7c] [Qh]
+franjavpe: checks 
+mabeal1: bets 120
+franjavpe: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h 6c 7c Qh]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: franjavpe (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259395946034: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:30:19 CET [2026/01/20 17:30:19 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (625 in chips) 
+Seat 3: franjavpe (875 in chips) 
+franjavpe: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 7d]
+franjavpe: raises 815 to 875 and is all-in
+mabeal1: folds 
+Uncalled bet (815) returned to franjavpe
+franjavpe collected 120 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: franjavpe (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259395947402: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:30:24 CET [2026/01/20 17:30:24 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (565 in chips) 
+Seat 3: franjavpe (935 in chips) 
+mabeal1: posts small blind 30
+franjavpe: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 9s]
+mabeal1: folds 
+Uncalled bet (30) returned to franjavpe
+franjavpe collected 60 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: franjavpe (big blind) collected (60)
+
+
+
+PokerStars Hand #259395948826: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:30:30 CET [2026/01/20 17:30:30 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 3: franjavpe (965 in chips) 
+franjavpe: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 2s]
+franjavpe: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: franjavpe (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395949863: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:30:34 CET [2026/01/20 17:30:34 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (565 in chips) 
+Seat 3: franjavpe (935 in chips) 
+mabeal1: posts small blind 30
+franjavpe: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 2s]
+mabeal1: folds 
+Uncalled bet (30) returned to franjavpe
+franjavpe collected 60 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: franjavpe (big blind) collected (60)
+
+
+
+PokerStars Hand #259395951076: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:30:39 CET [2026/01/20 17:30:39 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 3: franjavpe (965 in chips) 
+franjavpe: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Ac]
+franjavpe: raises 905 to 965 and is all-in
+mabeal1: calls 475 and is all-in
+Uncalled bet (430) returned to franjavpe
+*** FLOP *** [As Qc 5h]
+*** TURN *** [As Qc 5h] [7s]
+*** RIVER *** [As Qc 5h 7s] [8s]
+*** SHOW DOWN ***
+mabeal1: shows [3d Ac] (a pair of Aces)
+franjavpe: shows [Ks 5d] (a pair of Fives)
+mabeal1 collected 1070 from pot
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Board [As Qc 5h 7s 8s]
+Seat 1: mabeal1 (big blind) showed [3d Ac] and won (1070) with a pair of Aces
+Seat 3: franjavpe (button) (small blind) showed [Ks 5d] and lost with a pair of Fives
+
+
+
+PokerStars Hand #259395956104: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:30:59 CET [2026/01/20 17:30:59 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: franjavpe (430 in chips) 
+mabeal1: posts small blind 30
+franjavpe: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 7d]
+mabeal1: folds 
+Uncalled bet (30) returned to franjavpe
+franjavpe collected 60 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: franjavpe (big blind) collected (60)
+
+
+
+PokerStars Hand #259395959450: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:31:13 CET [2026/01/20 17:31:13 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 3: franjavpe (460 in chips) 
+franjavpe: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qc]
+franjavpe: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: franjavpe (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395961539: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:31:21 CET [2026/01/20 17:31:21 ET]
+Table '3967571625 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: franjavpe (430 in chips) 
+mabeal1: posts small blind 30
+franjavpe: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 9h]
+mabeal1: folds 
+Uncalled bet (30) returned to franjavpe
+franjavpe collected 60 from pot
+franjavpe: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: franjavpe (big blind) collected (60)
+
+
+
+PokerStars Hand #259395964206: Tournament #3967571625, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:31:32 CET [2026/01/20 17:31:32 ET]
+Table '3967571625 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 3: franjavpe (460 in chips) 
+franjavpe: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Jc]
+franjavpe: raises 400 to 460 and is all-in
+mabeal1: calls 400
+*** FLOP *** [Qd 2c As]
+*** TURN *** [Qd 2c As] [8d]
+*** RIVER *** [Qd 2c As 8d] [4h]
+*** SHOW DOWN ***
+mabeal1: shows [Js Jc] (a pair of Jacks)
+franjavpe: shows [5d Ks] (high card Ace)
+mabeal1 collected 920 from pot
+franjavpe finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Qd 2c As 8d 4h]
+Seat 1: mabeal1 (big blind) showed [Js Jc] and won (920) with a pair of Jacks
+Seat 3: franjavpe (button) (small blind) showed [5d Ks] and lost with high card Ace
+
+
+

@@ -1,0 +1,153 @@
+﻿PokerStars Hand #259544097264: Tournament #3971013116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 4:44:03 CET [2026/01/31 22:44:03 ET]
+Table '3971013116 1' 3-max Seat #1 is the button
+Seat 1: dsaa1985 (500 in chips) 
+Seat 2: marcumen (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+marcumen: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8s]
+dsaa1985: calls 20
+marcumen: calls 10
+mabeal1: checks 
+*** FLOP *** [6h 7s Qs]
+marcumen: checks 
+mabeal1: bets 60
+dsaa1985: calls 60
+marcumen: folds 
+*** TURN *** [6h 7s Qs] [6c]
+mabeal1: bets 420 and is all-in
+dsaa1985: calls 420 and is all-in
+*** RIVER *** [6h 7s Qs 6c] [9s]
+*** SHOW DOWN ***
+mabeal1: shows [5s 8s] (a flush, Queen high)
+dsaa1985: shows [6s Kh] (three of a kind, Sixes)
+mabeal1 collected 1020 from pot
+dsaa1985 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [6h 7s Qs 6c 9s]
+Seat 1: dsaa1985 (button) showed [6s Kh] and lost with three of a kind, Sixes
+Seat 2: marcumen (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) showed [5s 8s] and won (1020) with a flush, Queen high
+
+
+
+PokerStars Hand #259544100267: Tournament #3971013116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 4:44:33 CET [2026/01/31 22:44:33 ET]
+Table '3971013116 1' 3-max Seat #3 is the button
+Seat 2: marcumen (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 10
+marcumen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2h]
+mabeal1: calls 10
+marcumen: checks 
+*** FLOP *** [6c Ac 8d]
+marcumen: checks 
+mabeal1: bets 20
+marcumen: calls 20
+*** TURN *** [6c Ac 8d] [7h]
+marcumen: checks 
+mabeal1: checks 
+*** RIVER *** [6c Ac 8d 7h] [8c]
+marcumen: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+marcumen: shows [9h 9s] (two pair, Nines and Eights)
+mabeal1: mucks hand 
+marcumen collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c Ac 8d 7h 8c]
+Seat 2: marcumen (big blind) showed [9h 9s] and won (80) with two pair, Nines and Eights
+Seat 3: mabeal1 (button) (small blind) mucked [7d 2h]
+
+
+
+PokerStars Hand #259544102822: Tournament #3971013116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 4:44:58 CET [2026/01/31 22:44:58 ET]
+Table '3971013116 1' 3-max Seat #2 is the button
+Seat 2: marcumen (520 in chips) 
+Seat 3: mabeal1 (980 in chips) 
+marcumen: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Jc]
+marcumen: calls 10
+mabeal1: checks 
+*** FLOP *** [Kd 4s Kh]
+mabeal1: checks 
+marcumen: checks 
+*** TURN *** [Kd 4s Kh] [4c]
+mabeal1: checks 
+marcumen: bets 20
+mabeal1: calls 20
+*** RIVER *** [Kd 4s Kh 4c] [8s]
+mabeal1: checks 
+marcumen: bets 80
+mabeal1: calls 80
+*** SHOW DOWN ***
+marcumen: shows [Kc 9h] (a full house, Kings full of Fours)
+mabeal1: mucks hand 
+marcumen collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kd 4s Kh 4c 8s]
+Seat 2: marcumen (button) (small blind) showed [Kc 9h] and won (240) with a full house, Kings full of Fours
+Seat 3: mabeal1 (big blind) mucked [2h Jc]
+
+
+
+PokerStars Hand #259544105413: Tournament #3971013116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 4:45:24 CET [2026/01/31 22:45:24 ET]
+Table '3971013116 1' 3-max Seat #3 is the button
+Seat 2: marcumen (640 in chips) 
+Seat 3: mabeal1 (860 in chips) 
+mabeal1: posts small blind 10
+marcumen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5c]
+mabeal1: raises 840 to 860 and is all-in
+marcumen: folds 
+Uncalled bet (840) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: marcumen (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259544106244: Tournament #3971013116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 4:45:33 CET [2026/01/31 22:45:33 ET]
+Table '3971013116 1' 3-max Seat #2 is the button
+Seat 2: marcumen (620 in chips) 
+Seat 3: mabeal1 (880 in chips) 
+marcumen: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah As]
+marcumen: calls 10
+mabeal1: raises 40 to 60
+marcumen: calls 40
+*** FLOP *** [Qc 4s Kc]
+mabeal1: bets 90
+marcumen: raises 90 to 180
+mabeal1: raises 640 to 820 and is all-in
+marcumen: calls 380 and is all-in
+Uncalled bet (260) returned to mabeal1
+*** TURN *** [Qc 4s Kc] [2h]
+*** RIVER *** [Qc 4s Kc 2h] [5d]
+*** SHOW DOWN ***
+mabeal1: shows [Ah As] (a pair of Aces)
+marcumen: shows [Js Td] (high card King)
+mabeal1 collected 1240 from pot
+marcumen finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Qc 4s Kc 2h 5d]
+Seat 2: marcumen (button) (small blind) showed [Js Td] and lost with high card King
+Seat 3: mabeal1 (big blind) showed [Ah As] and won (1240) with a pair of Aces
+
+
+

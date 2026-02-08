@@ -1,0 +1,539 @@
+﻿PokerStars Hand #259416773841: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:16:24 CET [2026/01/22 12:16:24 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: FAUCES (500 in chips) 
+Seat 3: mariac116 (500 in chips) 
+FAUCES: posts small blind 10
+mariac116: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 3h]
+mabeal1: raises 20 to 40
+FAUCES: calls 30
+mariac116: folds 
+*** FLOP *** [9d Qd 3c]
+FAUCES: checks 
+mabeal1: bets 30
+FAUCES: calls 30
+*** TURN *** [9d Qd 3c] [7s]
+FAUCES: checks 
+mabeal1: bets 120
+FAUCES: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9d Qd 3c 7s]
+Seat 1: mabeal1 (button) collected (160)
+Seat 2: FAUCES (small blind) folded on the Turn
+Seat 3: mariac116 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259416778265: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:16:46 CET [2026/01/22 12:16:46 ET]
+Table '3968082027 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: FAUCES (430 in chips) 
+Seat 3: mariac116 (480 in chips) 
+mariac116: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 3c]
+FAUCES: raises 40 to 60
+mariac116: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to FAUCES
+FAUCES collected 50 from pot
+FAUCES: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: FAUCES (button) collected (50)
+Seat 3: mariac116 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416780040: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:16:55 CET [2026/01/22 12:16:55 ET]
+Table '3968082027 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: FAUCES (460 in chips) 
+Seat 3: mariac116 (470 in chips) 
+mabeal1: posts small blind 10
+FAUCES: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 3d]
+mariac116: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to FAUCES
+FAUCES collected 20 from pot
+FAUCES: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: FAUCES (big blind) collected (20)
+Seat 3: mariac116 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259416781386: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:17:02 CET [2026/01/22 12:17:02 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: FAUCES (470 in chips) 
+Seat 3: mariac116 (470 in chips) 
+FAUCES: posts small blind 10
+mariac116: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5c]
+mabeal1: folds 
+FAUCES: folds 
+Uncalled bet (10) returned to mariac116
+mariac116 collected 20 from pot
+mariac116: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: FAUCES (small blind) folded before Flop
+Seat 3: mariac116 (big blind) collected (20)
+
+
+
+PokerStars Hand #259416782391: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:17:07 CET [2026/01/22 12:17:07 ET]
+Table '3968082027 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: FAUCES (460 in chips) 
+Seat 3: mariac116 (480 in chips) 
+mariac116: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8d]
+FAUCES: raises 20 to 40
+mariac116: folds 
+mabeal1: calls 20
+*** FLOP *** [7h Tc Ac]
+mabeal1: checks 
+FAUCES: bets 40
+mabeal1: calls 40
+*** TURN *** [7h Tc Ac] [As]
+mabeal1: checks 
+FAUCES: bets 380 and is all-in
+mabeal1: calls 380
+*** RIVER *** [7h Tc Ac As] [Qd]
+*** SHOW DOWN ***
+mabeal1: shows [7d 8d] (two pair, Aces and Sevens)
+FAUCES: shows [Jd 4d] (a pair of Aces)
+mabeal1 collected 930 from pot
+FAUCES finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [7h Tc Ac As Qd]
+Seat 1: mabeal1 (big blind) showed [7d 8d] and won (930) with two pair, Aces and Sevens
+Seat 2: FAUCES (button) showed [Jd 4d] and lost with a pair of Aces
+Seat 3: mariac116 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416789929: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:17:44 CET [2026/01/22 12:17:44 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: mariac116 (470 in chips) 
+mabeal1: posts small blind 10
+mariac116: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Kc]
+mabeal1: raises 20 to 40
+mariac116: calls 20
+*** FLOP *** [Qd Jd 6d]
+mariac116: checks 
+mabeal1: checks 
+*** TURN *** [Qd Jd 6d] [6c]
+mariac116: checks 
+mabeal1: checks 
+*** RIVER *** [Qd Jd 6d 6c] [5c]
+mariac116: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+mariac116: shows [8h 9h] (a pair of Sixes)
+mabeal1: shows [Ts Kc] (a pair of Sixes - King kicker)
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd Jd 6d 6c 5c]
+Seat 1: mabeal1 (button) (small blind) showed [Ts Kc] and won (80) with a pair of Sixes
+Seat 3: mariac116 (big blind) showed [8h 9h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259416792997: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:18:00 CET [2026/01/22 12:18:00 ET]
+Table '3968082027 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: mariac116 (430 in chips) 
+mariac116: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Kd]
+mariac116: calls 10
+mabeal1: checks 
+*** FLOP *** [7s 8d 7d]
+mabeal1: checks 
+mariac116: checks 
+*** TURN *** [7s 8d 7d] [4c]
+mabeal1: checks 
+mariac116: checks 
+*** RIVER *** [7s 8d 7d 4c] [4h]
+mabeal1: bets 60
+mariac116: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s 8d 7d 4c 4h]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: mariac116 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259416796164: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:18:16 CET [2026/01/22 12:18:16 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 3: mariac116 (410 in chips) 
+mabeal1: posts small blind 10
+mariac116: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7s]
+mabeal1: calls 10
+mariac116: checks 
+*** FLOP *** [Ac Ad 3s]
+mariac116: checks 
+mabeal1: bets 20
+mariac116: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac Ad 3s]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: mariac116 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259416797976: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:18:25 CET [2026/01/22 12:18:25 ET]
+Table '3968082027 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1110 in chips) 
+Seat 3: mariac116 (390 in chips) 
+mariac116: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Qh]
+mariac116: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: mariac116 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416798846: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:18:29 CET [2026/01/22 12:18:29 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1120 in chips) 
+Seat 3: mariac116 (380 in chips) 
+mabeal1: posts small blind 10
+mariac116: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 4c]
+mabeal1: calls 10
+mariac116: checks 
+*** FLOP *** [5d 2c 4d]
+mariac116: checks 
+mabeal1: bets 20
+mariac116: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d 2c 4d]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: mariac116 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259416801056: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:18:40 CET [2026/01/22 12:18:40 ET]
+Table '3968082027 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1140 in chips) 
+Seat 3: mariac116 (360 in chips) 
+mariac116: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Qc]
+mariac116: calls 10
+mabeal1: raises 40 to 60
+mariac116: calls 40
+*** FLOP *** [3d 2d Td]
+mabeal1: bets 40
+mariac116: calls 40
+*** TURN *** [3d 2d Td] [5c]
+mabeal1: checks 
+mariac116: bets 20
+mabeal1: calls 20
+*** RIVER *** [3d 2d Td 5c] [6d]
+mabeal1: bets 120
+mariac116: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3d 2d Td 5c 6d]
+Seat 1: mabeal1 (big blind) collected (240)
+Seat 3: mariac116 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259416806907: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:19:09 CET [2026/01/22 12:19:09 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1260 in chips) 
+Seat 3: mariac116 (240 in chips) 
+mabeal1: posts small blind 10
+mariac116: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Ac]
+mabeal1: raises 1240 to 1260 and is all-in
+mariac116: folds 
+Uncalled bet (1240) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: mariac116 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259416807972: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:19:14 CET [2026/01/22 12:19:14 ET]
+Table '3968082027 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1280 in chips) 
+Seat 3: mariac116 (220 in chips) 
+mariac116: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 3h]
+mariac116: calls 10
+mabeal1: raises 1260 to 1280 and is all-in
+mariac116: folds 
+Uncalled bet (1260) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: mariac116 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416809300: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:19:21 CET [2026/01/22 12:19:21 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1300 in chips) 
+Seat 3: mariac116 (200 in chips) 
+mabeal1: posts small blind 10
+mariac116: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Qd]
+mabeal1: calls 10
+mariac116: raises 180 to 200 and is all-in
+mabeal1: folds 
+Uncalled bet (180) returned to mariac116
+mariac116 collected 40 from pot
+mariac116: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: mariac116 (big blind) collected (40)
+
+
+
+PokerStars Hand #259416811217: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:19:31 CET [2026/01/22 12:19:31 ET]
+Table '3968082027 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1280 in chips) 
+Seat 3: mariac116 (220 in chips) 
+mariac116: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 7h]
+mariac116: calls 15
+mabeal1: checks 
+*** FLOP *** [Ts Jd As]
+mabeal1: checks 
+mariac116: bets 190 and is all-in
+mabeal1: folds 
+Uncalled bet (190) returned to mariac116
+mariac116 collected 60 from pot
+mariac116: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts Jd As]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: mariac116 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259416813664: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:19:43 CET [2026/01/22 12:19:43 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1250 in chips) 
+Seat 3: mariac116 (250 in chips) 
+mabeal1: posts small blind 15
+mariac116: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jh]
+mabeal1: calls 15
+mariac116: checks 
+*** FLOP *** [Ts Qd Ah]
+mariac116: checks 
+mabeal1: checks 
+*** TURN *** [Ts Qd Ah] [Ks]
+mariac116: checks 
+mabeal1: checks 
+*** RIVER *** [Ts Qd Ah Ks] [Kc]
+mariac116: checks 
+mabeal1: bets 30
+mariac116: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts Qd Ah Ks Kc]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: mariac116 (big blind) folded on the River
+
+
+
+PokerStars Hand #259416816755: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:19:58 CET [2026/01/22 12:19:58 ET]
+Table '3968082027 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1280 in chips) 
+Seat 3: mariac116 (220 in chips) 
+mariac116: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Kd]
+mariac116: calls 15
+mabeal1: checks 
+*** FLOP *** [3s Kh Qc]
+mabeal1: checks 
+mariac116: bets 30
+mabeal1: calls 30
+*** TURN *** [3s Kh Qc] [8c]
+mabeal1: checks 
+mariac116: bets 30
+mabeal1: calls 30
+*** RIVER *** [3s Kh Qc 8c] [5c]
+mabeal1: checks 
+mariac116: checks 
+*** SHOW DOWN ***
+mabeal1: shows [5h Kd] (two pair, Kings and Fives)
+mariac116: mucks hand 
+mabeal1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3s Kh Qc 8c 5c]
+Seat 1: mabeal1 (big blind) showed [5h Kd] and won (180) with two pair, Kings and Fives
+Seat 3: mariac116 (button) (small blind) mucked [6h Qs]
+
+
+
+PokerStars Hand #259416819775: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:20:13 CET [2026/01/22 12:20:13 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1370 in chips) 
+Seat 3: mariac116 (130 in chips) 
+mabeal1: posts small blind 15
+mariac116: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 3h]
+mabeal1: raises 1340 to 1370 and is all-in
+mariac116: calls 100 and is all-in
+Uncalled bet (1240) returned to mabeal1
+*** FLOP *** [5d 9c 6d]
+*** TURN *** [5d 9c 6d] [Ac]
+*** RIVER *** [5d 9c 6d Ac] [5c]
+*** SHOW DOWN ***
+mariac116: shows [2c 2s] (two pair, Fives and Deuces)
+mabeal1: shows [Qd 3h] (a pair of Fives)
+mariac116 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [5d 9c 6d Ac 5c]
+Seat 1: mabeal1 (button) (small blind) showed [Qd 3h] and lost with a pair of Fives
+Seat 3: mariac116 (big blind) showed [2c 2s] and won (260) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #259416823241: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:20:31 CET [2026/01/22 12:20:31 ET]
+Table '3968082027 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1240 in chips) 
+Seat 3: mariac116 (260 in chips) 
+mariac116: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Qd]
+mariac116: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: mariac116 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416824585: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:20:37 CET [2026/01/22 12:20:37 ET]
+Table '3968082027 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1255 in chips) 
+Seat 3: mariac116 (245 in chips) 
+mabeal1: posts small blind 15
+mariac116: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 2c]
+mabeal1: raises 1225 to 1255 and is all-in
+mariac116: folds 
+Uncalled bet (1225) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: mariac116 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259416825640: Tournament #3968082027, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:20:42 CET [2026/01/22 12:20:42 ET]
+Table '3968082027 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1285 in chips) 
+Seat 3: mariac116 (215 in chips) 
+mariac116: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7c]
+mariac116: raises 185 to 215 and is all-in
+mabeal1: calls 185
+*** FLOP *** [Tc 6c 9d]
+*** TURN *** [Tc 6c 9d] [As]
+*** RIVER *** [Tc 6c 9d As] [Qd]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 7c] (a pair of Aces)
+mariac116: shows [9s Kh] (a pair of Nines)
+mabeal1 collected 430 from pot
+mariac116 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [Tc 6c 9d As Qd]
+Seat 1: mabeal1 (big blind) showed [Ah 7c] and won (430) with a pair of Aces
+Seat 3: mariac116 (button) (small blind) showed [9s Kh] and lost with a pair of Nines
+
+
+

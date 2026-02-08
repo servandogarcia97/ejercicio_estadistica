@@ -1,0 +1,323 @@
+﻿PokerStars Hand #259583007733: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:56:46 CET [2026/02/03 17:56:46 ET]
+Table '3971862526 1' 3-max Seat #1 is the button
+Seat 1: karmma55 (500 in chips) 
+Seat 2: lolmanking (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+lolmanking: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 7h]
+karmma55: raises 40 to 60
+lolmanking: calls 50
+mabeal1: folds 
+*** FLOP *** [Js Ad 3h]
+lolmanking: bets 40
+karmma55: calls 40
+*** TURN *** [Js Ad 3h] [5s]
+lolmanking: bets 40
+karmma55: calls 40
+*** RIVER *** [Js Ad 3h 5s] [Th]
+lolmanking: bets 40
+karmma55: calls 40
+*** SHOW DOWN ***
+lolmanking: shows [As 4s] (a pair of Aces)
+karmma55: mucks hand 
+lolmanking collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [Js Ad 3h 5s Th]
+Seat 1: karmma55 (button) mucked [Kh Ks]
+Seat 2: lolmanking (small blind) showed [As 4s] and won (380) with a pair of Aces
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259583013895: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:57:22 CET [2026/02/03 17:57:22 ET]
+Table '3971862526 1' 3-max Seat #2 is the button
+Seat 1: karmma55 (320 in chips) 
+Seat 2: lolmanking (700 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+karmma55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Ad]
+lolmanking: calls 20
+mabeal1: raises 50 to 70
+karmma55: folds 
+lolmanking: folds 
+Uncalled bet (50) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: karmma55 (big blind) folded before Flop
+Seat 2: lolmanking (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259583018757: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:57:50 CET [2026/02/03 17:57:50 ET]
+Table '3971862526 1' 3-max Seat #3 is the button
+Seat 1: karmma55 (300 in chips) 
+Seat 2: lolmanking (680 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+karmma55: posts small blind 10
+lolmanking: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qs]
+mabeal1: raises 20 to 40
+karmma55: calls 30
+lolmanking: calls 20
+*** FLOP *** [7s 8s 8d]
+karmma55: checks 
+lolmanking: checks 
+mabeal1: bets 40
+karmma55: calls 40
+lolmanking: calls 40
+*** TURN *** [7s 8s 8d] [Td]
+karmma55: checks 
+lolmanking: checks 
+mabeal1: checks 
+*** RIVER *** [7s 8s 8d Td] [Ah]
+karmma55: checks 
+lolmanking: checks 
+mabeal1: bets 180
+karmma55: folds 
+lolmanking: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7s 8s 8d Td Ah]
+Seat 1: karmma55 (small blind) folded on the River
+Seat 2: lolmanking (big blind) folded on the River
+Seat 3: mabeal1 (button) collected (240)
+
+
+
+PokerStars Hand #259583028375: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:58:46 CET [2026/02/03 17:58:46 ET]
+Table '3971862526 1' 3-max Seat #1 is the button
+Seat 1: karmma55 (220 in chips) 
+Seat 2: lolmanking (600 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+lolmanking: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qs]
+karmma55: folds 
+lolmanking: calls 10
+mabeal1: checks 
+*** FLOP *** [Ks 5c Ts]
+lolmanking: checks 
+mabeal1: bets 20
+lolmanking: calls 20
+*** TURN *** [Ks 5c Ts] [6c]
+lolmanking: checks 
+mabeal1: checks 
+*** RIVER *** [Ks 5c Ts 6c] [Kc]
+lolmanking: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+lolmanking: shows [9h As] (a pair of Kings)
+mabeal1: mucks hand 
+lolmanking collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks 5c Ts 6c Kc]
+Seat 1: karmma55 (button) folded before Flop (didn't bet)
+Seat 2: lolmanking (small blind) showed [9h As] and won (80) with a pair of Kings
+Seat 3: mabeal1 (big blind) mucked [3s Qs]
+
+
+
+PokerStars Hand #259583033828: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:59:18 CET [2026/02/03 17:59:18 ET]
+Table '3971862526 1' 3-max Seat #2 is the button
+Seat 1: karmma55 (220 in chips) 
+Seat 2: lolmanking (640 in chips) 
+Seat 3: mabeal1 (640 in chips) 
+mabeal1: posts small blind 10
+karmma55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 3d]
+lolmanking: calls 20
+mabeal1: folds 
+karmma55: raises 60 to 80
+lolmanking: calls 60
+*** FLOP *** [8h Th 6s]
+karmma55: checks 
+lolmanking: bets 40
+karmma55: calls 40
+*** TURN *** [8h Th 6s] [3c]
+karmma55: checks 
+lolmanking: bets 60
+karmma55: calls 60
+*** RIVER *** [8h Th 6s 3c] [Td]
+karmma55: bets 40 and is all-in
+lolmanking: calls 40
+*** SHOW DOWN ***
+karmma55: shows [Qc Kh] (a pair of Tens)
+lolmanking: shows [8c 6c] (two pair, Tens and Eights)
+lolmanking collected 450 from pot
+karmma55 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [8h Th 6s 3c Td]
+Seat 1: karmma55 (big blind) showed [Qc Kh] and lost with a pair of Tens
+Seat 2: lolmanking (button) showed [8c 6c] and won (450) with two pair, Tens and Eights
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259583044530: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:00:20 CET [2026/02/03 18:00:20 ET]
+Table '3971862526 1' 3-max Seat #3 is the button
+Seat 2: lolmanking (870 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+mabeal1: posts small blind 15
+lolmanking: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4c]
+mabeal1: calls 15
+lolmanking: checks 
+*** FLOP *** [Th 7h 8d]
+lolmanking: checks 
+mabeal1: bets 45
+lolmanking: calls 45
+*** TURN *** [Th 7h 8d] [7s]
+lolmanking: checks 
+mabeal1: checks 
+*** RIVER *** [Th 7h 8d 7s] [Qd]
+lolmanking: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+lolmanking: shows [Kd 4d] (a pair of Sevens)
+mabeal1: shows [8c 4c] (two pair, Eights and Sevens)
+mabeal1 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Th 7h 8d 7s Qd]
+Seat 2: lolmanking (big blind) showed [Kd 4d] and lost with a pair of Sevens
+Seat 3: mabeal1 (button) (small blind) showed [8c 4c] and won (150) with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #259583050747: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:00:54 CET [2026/02/03 18:00:54 ET]
+Table '3971862526 1' 3-max Seat #2 is the button
+Seat 2: lolmanking (795 in chips) 
+Seat 3: mabeal1 (705 in chips) 
+lolmanking: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4s]
+lolmanking: calls 15
+mabeal1: checks 
+*** FLOP *** [5s 9d 9s]
+mabeal1: checks 
+lolmanking: checks 
+*** TURN *** [5s 9d 9s] [7d]
+mabeal1: bets 30
+lolmanking: calls 30
+*** RIVER *** [5s 9d 9s 7d] [9c]
+mabeal1: checks 
+lolmanking: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to lolmanking
+lolmanking collected 120 from pot
+lolmanking: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5s 9d 9s 7d 9c]
+Seat 2: lolmanking (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259583056062: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:01:17 CET [2026/02/03 18:01:17 ET]
+Table '3971862526 1' 3-max Seat #3 is the button
+Seat 2: lolmanking (855 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+mabeal1: posts small blind 15
+lolmanking: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 9d]
+mabeal1: raises 30 to 60
+lolmanking: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: lolmanking (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259583057712: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:01:25 CET [2026/02/03 18:01:25 ET]
+Table '3971862526 1' 3-max Seat #2 is the button
+Seat 2: lolmanking (825 in chips) 
+Seat 3: mabeal1 (675 in chips) 
+lolmanking: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Th]
+lolmanking: calls 15
+mabeal1: raises 60 to 90
+lolmanking: calls 60
+*** FLOP *** [6d Kc Kh]
+mabeal1: bets 36
+lolmanking: raises 36 to 72
+mabeal1: calls 36
+*** TURN *** [6d Kc Kh] [3s]
+mabeal1: checks 
+lolmanking: bets 30
+mabeal1: raises 150 to 180
+lolmanking: calls 150
+*** RIVER *** [6d Kc Kh 3s] [Ad]
+mabeal1: bets 333 and is all-in
+lolmanking: folds 
+Uncalled bet (333) returned to mabeal1
+mabeal1 collected 684 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 684 | Rake 0 
+Board [6d Kc Kh 3s Ad]
+Seat 2: lolmanking (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (684)
+
+
+
+PokerStars Hand #259583068303: Tournament #3971862526, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:02:08 CET [2026/02/03 18:02:08 ET]
+Table '3971862526 1' 3-max Seat #3 is the button
+Seat 2: lolmanking (483 in chips) 
+Seat 3: mabeal1 (1017 in chips) 
+mabeal1: posts small blind 15
+lolmanking: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 6s]
+mabeal1: calls 15
+lolmanking: checks 
+*** FLOP *** [3s 8c 3d]
+lolmanking: checks 
+mabeal1: checks 
+*** TURN *** [3s 8c 3d] [Ts]
+lolmanking: bets 60
+mabeal1: calls 60
+*** RIVER *** [3s 8c 3d Ts] [Jd]
+lolmanking: bets 180
+mabeal1: raises 747 to 927 and is all-in
+lolmanking: calls 213 and is all-in
+Uncalled bet (534) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [3c 6s] (three of a kind, Threes)
+lolmanking: shows [Th Ks] (two pair, Tens and Threes)
+mabeal1 collected 966 from pot
+lolmanking finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 966 | Rake 0 
+Board [3s 8c 3d Ts Jd]
+Seat 2: lolmanking (big blind) showed [Th Ks] and lost with two pair, Tens and Threes
+Seat 3: mabeal1 (button) (small blind) showed [3c 6s] and won (966) with three of a kind, Threes
+
+
+

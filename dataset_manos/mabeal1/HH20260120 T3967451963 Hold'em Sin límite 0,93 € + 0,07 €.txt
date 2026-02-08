@@ -1,0 +1,195 @@
+﻿PokerStars Hand #259390101619: Tournament #3967451963, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:53:07 CET [2026/01/20 10:53:07 ET]
+Table '3967451963 1' 3-max Seat #1 is the button
+Seat 1: malcot (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: momop80100 (500 in chips) 
+mabeal1: posts small blind 10
+momop80100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 4s]
+malcot: raises 20 to 40
+mabeal1: folds 
+momop80100: calls 20
+*** FLOP *** [Tc 3c Kh]
+momop80100: checks 
+malcot: bets 460 and is all-in
+momop80100: folds 
+Uncalled bet (460) returned to malcot
+malcot collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Tc 3c Kh]
+Seat 1: malcot (button) collected (90)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: momop80100 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259390105669: Tournament #3967451963, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:53:31 CET [2026/01/20 10:53:31 ET]
+Table '3967451963 1' 3-max Seat #2 is the button
+Seat 1: malcot (550 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: momop80100 (460 in chips) 
+momop80100: posts small blind 10
+malcot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Kd]
+mabeal1: raises 20 to 40
+momop80100: folds 
+malcot: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: malcot (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: momop80100 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390107978: Tournament #3967451963, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:53:44 CET [2026/01/20 10:53:44 ET]
+Table '3967451963 1' 3-max Seat #3 is the button
+Seat 1: malcot (530 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: momop80100 (450 in chips) 
+malcot: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 2d]
+momop80100: folds 
+malcot: calls 10
+mabeal1: raises 500 to 520 and is all-in
+malcot: folds 
+Uncalled bet (500) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: malcot (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: momop80100 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390112041: Tournament #3967451963, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:54:07 CET [2026/01/20 10:54:07 ET]
+Table '3967451963 1' 3-max Seat #1 is the button
+Seat 1: malcot (510 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: momop80100 (450 in chips) 
+mabeal1: posts small blind 10
+momop80100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 9c]
+malcot: folds 
+mabeal1: raises 20 to 40
+momop80100: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: malcot (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: momop80100 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390114257: Tournament #3967451963, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:54:20 CET [2026/01/20 10:54:20 ET]
+Table '3967451963 1' 3-max Seat #2 is the button
+Seat 1: malcot (510 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: momop80100 (430 in chips) 
+momop80100: posts small blind 10
+malcot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8c]
+mabeal1: folds 
+momop80100: calls 10
+malcot: checks 
+*** FLOP *** [9h Qc 2c]
+momop80100: checks 
+malcot: checks 
+*** TURN *** [9h Qc 2c] [6c]
+momop80100: bets 40
+malcot: folds 
+Uncalled bet (40) returned to momop80100
+momop80100 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9h Qc 2c 6c]
+Seat 1: malcot (big blind) folded on the Turn
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: momop80100 (small blind) collected (40)
+
+
+
+PokerStars Hand #259390117419: Tournament #3967451963, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:54:38 CET [2026/01/20 10:54:38 ET]
+Table '3967451963 1' 3-max Seat #3 is the button
+Seat 1: malcot (490 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: momop80100 (450 in chips) 
+malcot: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Tc]
+momop80100: calls 20
+malcot: calls 10
+mabeal1: checks 
+*** FLOP *** [6d 5h 6h]
+malcot: checks 
+mabeal1: checks 
+momop80100: bets 20
+malcot: folds 
+mabeal1: raises 60 to 80
+momop80100: calls 60
+*** TURN *** [6d 5h 6h] [3h]
+mabeal1: checks 
+momop80100: bets 80
+mabeal1: calls 80
+*** RIVER *** [6d 5h 6h 3h] [5s]
+mabeal1: bets 380 and is all-in
+momop80100: calls 270 and is all-in
+Uncalled bet (110) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [6s Tc] (a full house, Sixes full of Fives)
+momop80100: shows [Th Jh] (a flush, Jack high)
+mabeal1 collected 920 from pot
+momop80100 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [6d 5h 6h 3h 5s]
+Seat 1: malcot (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) showed [6s Tc] and won (920) with a full house, Sixes full of Fives
+Seat 3: momop80100 (button) showed [Th Jh] and lost with a flush, Jack high
+
+
+
+PokerStars Hand #259390124626: Tournament #3967451963, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:55:22 CET [2026/01/20 10:55:22 ET]
+Table '3967451963 1' 3-max Seat #2 is the button
+Seat 1: malcot (470 in chips) 
+Seat 2: mabeal1 (1030 in chips) 
+mabeal1: posts small blind 10
+malcot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 9d]
+mabeal1: raises 20 to 40
+malcot: raises 430 to 470 and is all-in
+mabeal1: calls 430
+*** FLOP *** [Td 6h 6d]
+*** TURN *** [Td 6h 6d] [Qd]
+*** RIVER *** [Td 6h 6d Qd] [3h]
+*** SHOW DOWN ***
+malcot: shows [As Kd] (a pair of Sixes)
+mabeal1: shows [9h 9d] (two pair, Nines and Sixes)
+mabeal1 collected 940 from pot
+malcot finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Td 6h 6d Qd 3h]
+Seat 1: malcot (big blind) showed [As Kd] and lost with a pair of Sixes
+Seat 2: mabeal1 (button) (small blind) showed [9h 9d] and won (940) with two pair, Nines and Sixes
+
+
+

@@ -1,0 +1,427 @@
+﻿PokerStars Hand #259416631542: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:04:09 CET [2026/01/22 12:04:09 ET]
+Table '3968078636 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: SUPERHARMONY (500 in chips) 
+mabeal1: posts small blind 10
+SUPERHARMONY: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Jh]
+sanc.pt: calls 20
+mabeal1: raises 40 to 60
+SUPERHARMONY: folds 
+sanc.pt: calls 40
+*** FLOP *** [8h 2c 7d]
+mabeal1: checks 
+sanc.pt: checks 
+*** TURN *** [8h 2c 7d] [Qs]
+mabeal1: bets 70
+sanc.pt: folds 
+Uncalled bet (70) returned to mabeal1
+mabeal1 collected 140 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [8h 2c 7d Qs]
+Seat 1: sanc.pt (button) folded on the Turn
+Seat 2: mabeal1 (small blind) collected (140)
+Seat 3: SUPERHARMONY (big blind) folded before Flop
+
+
+
+PokerStars Hand #259416637178: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:04:39 CET [2026/01/22 12:04:39 ET]
+Table '3968078636 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (440 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: SUPERHARMONY (480 in chips) 
+SUPERHARMONY: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6h]
+mabeal1: folds 
+SUPERHARMONY: folds 
+Uncalled bet (10) returned to sanc.pt
+sanc.pt collected 20 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: sanc.pt (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: SUPERHARMONY (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416638471: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:04:46 CET [2026/01/22 12:04:46 ET]
+Table '3968078636 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (450 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: SUPERHARMONY (470 in chips) 
+sanc.pt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Js]
+SUPERHARMONY: folds 
+sanc.pt: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to sanc.pt
+sanc.pt collected 40 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: sanc.pt (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: SUPERHARMONY (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259416639530: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:04:52 CET [2026/01/22 12:04:52 ET]
+Table '3968078636 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (470 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: SUPERHARMONY (470 in chips) 
+mabeal1: posts small blind 10
+SUPERHARMONY: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 5s]
+sanc.pt: folds 
+mabeal1: raises 20 to 40
+SUPERHARMONY: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: sanc.pt (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: SUPERHARMONY (big blind) folded before Flop
+
+
+
+PokerStars Hand #259416641697: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:05:03 CET [2026/01/22 12:05:03 ET]
+Table '3968078636 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (470 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: SUPERHARMONY (450 in chips) 
+SUPERHARMONY: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Kc]
+mabeal1: folds 
+SUPERHARMONY: raises 30 to 50
+sanc.pt: folds 
+Uncalled bet (30) returned to SUPERHARMONY
+SUPERHARMONY collected 40 from pot
+SUPERHARMONY: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: sanc.pt (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: SUPERHARMONY (small blind) collected (40)
+
+
+
+PokerStars Hand #259416645362: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:05:22 CET [2026/01/22 12:05:22 ET]
+Table '3968078636 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (450 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: SUPERHARMONY (470 in chips) 
+sanc.pt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 9d]
+SUPERHARMONY: folds 
+sanc.pt: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: sanc.pt (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: SUPERHARMONY (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259416646643: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:05:29 CET [2026/01/22 12:05:29 ET]
+Table '3968078636 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (440 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: SUPERHARMONY (470 in chips) 
+mabeal1: posts small blind 10
+SUPERHARMONY: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 7c]
+sanc.pt: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to SUPERHARMONY
+SUPERHARMONY collected 20 from pot
+SUPERHARMONY: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: sanc.pt (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: SUPERHARMONY (big blind) collected (20)
+
+
+
+PokerStars Hand #259416648210: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:05:37 CET [2026/01/22 12:05:37 ET]
+Table '3968078636 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (440 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: SUPERHARMONY (480 in chips) 
+SUPERHARMONY: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 2d]
+mabeal1: raises 40 to 60
+SUPERHARMONY: folds 
+sanc.pt: calls 40
+*** FLOP *** [3s 7c 9s]
+sanc.pt: checks 
+mabeal1: checks 
+*** TURN *** [3s 7c 9s] [4h]
+sanc.pt: bets 40
+mabeal1: calls 40
+*** RIVER *** [3s 7c 9s 4h] [Ah]
+sanc.pt: checks 
+mabeal1: bets 158
+sanc.pt: calls 158
+*** SHOW DOWN ***
+mabeal1: shows [2c 2d] (a pair of Deuces)
+sanc.pt: shows [5c Ac] (a pair of Aces)
+sanc.pt collected 526 from pot
+*** SUMMARY ***
+Total pot 526 | Rake 0 
+Board [3s 7c 9s 4h Ah]
+Seat 1: sanc.pt (big blind) showed [5c Ac] and won (526) with a pair of Aces
+Seat 2: mabeal1 (button) showed [2c 2d] and lost with a pair of Deuces
+Seat 3: SUPERHARMONY (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416655398: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:06:16 CET [2026/01/22 12:06:16 ET]
+Table '3968078636 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (708 in chips) 
+Seat 2: mabeal1 (322 in chips) 
+Seat 3: SUPERHARMONY (470 in chips) 
+sanc.pt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 5s]
+SUPERHARMONY: folds 
+sanc.pt: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: sanc.pt (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: SUPERHARMONY (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259416656882: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:06:23 CET [2026/01/22 12:06:23 ET]
+Table '3968078636 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (698 in chips) 
+Seat 2: mabeal1 (332 in chips) 
+Seat 3: SUPERHARMONY (470 in chips) 
+mabeal1: posts small blind 10
+SUPERHARMONY: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9d]
+sanc.pt: raises 20 to 40
+mabeal1: folds 
+SUPERHARMONY: folds 
+Uncalled bet (20) returned to sanc.pt
+sanc.pt collected 50 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: sanc.pt (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: SUPERHARMONY (big blind) folded before Flop
+
+
+
+PokerStars Hand #259416658308: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:06:31 CET [2026/01/22 12:06:31 ET]
+Table '3968078636 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (728 in chips) 
+Seat 2: mabeal1 (322 in chips) 
+Seat 3: SUPERHARMONY (450 in chips) 
+SUPERHARMONY: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3s]
+mabeal1: folds 
+SUPERHARMONY: folds 
+Uncalled bet (10) returned to sanc.pt
+sanc.pt collected 20 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: sanc.pt (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: SUPERHARMONY (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416660464: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:06:42 CET [2026/01/22 12:06:42 ET]
+Table '3968078636 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (738 in chips) 
+Seat 2: mabeal1 (322 in chips) 
+Seat 3: SUPERHARMONY (440 in chips) 
+sanc.pt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 2h]
+SUPERHARMONY: folds 
+sanc.pt: calls 10
+mabeal1: raises 302 to 322 and is all-in
+sanc.pt: folds 
+Uncalled bet (302) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: sanc.pt (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: SUPERHARMONY (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259416662799: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:06:54 CET [2026/01/22 12:06:54 ET]
+Table '3968078636 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (718 in chips) 
+Seat 2: mabeal1 (342 in chips) 
+Seat 3: SUPERHARMONY (440 in chips) 
+mabeal1: posts small blind 10
+SUPERHARMONY: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc As]
+sanc.pt: folds 
+mabeal1: raises 322 to 342 and is all-in
+SUPERHARMONY: calls 322
+*** FLOP *** [Jh Jc Kh]
+*** TURN *** [Jh Jc Kh] [8h]
+*** RIVER *** [Jh Jc Kh 8h] [3c]
+*** SHOW DOWN ***
+mabeal1: shows [Kc As] (two pair, Kings and Jacks)
+SUPERHARMONY: shows [Ah 9d] (a pair of Jacks)
+mabeal1 collected 684 from pot
+*** SUMMARY ***
+Total pot 684 | Rake 0 
+Board [Jh Jc Kh 8h 3c]
+Seat 1: sanc.pt (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Kc As] and won (684) with two pair, Kings and Jacks
+Seat 3: SUPERHARMONY (big blind) showed [Ah 9d] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259416666992: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:07:16 CET [2026/01/22 12:07:16 ET]
+Table '3968078636 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (718 in chips) 
+Seat 2: mabeal1 (684 in chips) 
+Seat 3: SUPERHARMONY (98 in chips) 
+SUPERHARMONY: posts small blind 15
+sanc.pt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Td]
+mabeal1: folds 
+SUPERHARMONY: raises 68 to 98 and is all-in
+sanc.pt: folds 
+Uncalled bet (68) returned to SUPERHARMONY
+SUPERHARMONY collected 60 from pot
+SUPERHARMONY: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: sanc.pt (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: SUPERHARMONY (small blind) collected (60)
+
+
+
+PokerStars Hand #259416669947: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:07:32 CET [2026/01/22 12:07:32 ET]
+Table '3968078636 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (688 in chips) 
+Seat 2: mabeal1 (684 in chips) 
+Seat 3: SUPERHARMONY (128 in chips) 
+sanc.pt: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 4d]
+SUPERHARMONY: folds 
+sanc.pt: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to sanc.pt
+sanc.pt collected 60 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: sanc.pt (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: SUPERHARMONY (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259416671425: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:07:40 CET [2026/01/22 12:07:40 ET]
+Table '3968078636 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (718 in chips) 
+Seat 2: mabeal1 (654 in chips) 
+Seat 3: SUPERHARMONY (128 in chips) 
+mabeal1: posts small blind 15
+SUPERHARMONY: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Tc]
+sanc.pt: folds 
+mabeal1: raises 90 to 120
+SUPERHARMONY: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: sanc.pt (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: SUPERHARMONY (big blind) folded before Flop
+
+
+
+PokerStars Hand #259416673948: Tournament #3968078636, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:07:53 CET [2026/01/22 12:07:53 ET]
+Table '3968078636 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (718 in chips) 
+Seat 2: mabeal1 (684 in chips) 
+Seat 3: SUPERHARMONY (98 in chips) 
+SUPERHARMONY: posts small blind 15
+sanc.pt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 8c]
+mabeal1: raises 60 to 90
+SUPERHARMONY: folds 
+sanc.pt: calls 60
+*** FLOP *** [5d 8d 9h]
+sanc.pt: checks 
+mabeal1: bets 60
+sanc.pt: calls 60
+*** TURN *** [5d 8d 9h] [2s]
+sanc.pt: checks 
+mabeal1: bets 158
+sanc.pt: calls 158
+*** RIVER *** [5d 8d 9h 2s] [Ac]
+sanc.pt: bets 410 and is all-in
+mabeal1: calls 376 and is all-in
+Uncalled bet (34) returned to sanc.pt
+*** SHOW DOWN ***
+sanc.pt: shows [5c Ad] (two pair, Aces and Fives)
+mabeal1: shows [9d 8c] (two pair, Nines and Eights)
+sanc.pt collected 1383 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1383 | Rake 0 
+Board [5d 8d 9h 2s Ac]
+Seat 1: sanc.pt (big blind) showed [5c Ad] and won (1383) with two pair, Aces and Fives
+Seat 2: mabeal1 (button) showed [9d 8c] and lost with two pair, Nines and Eights
+Seat 3: SUPERHARMONY (small blind) folded before Flop
+
+
+

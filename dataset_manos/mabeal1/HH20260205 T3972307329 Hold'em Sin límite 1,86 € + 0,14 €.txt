@@ -1,0 +1,37 @@
+﻿PokerStars Hand #259601427830: Tournament #3972307329, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:52:12 CET [2026/02/05 9:52:12 ET]
+Table '3972307329 1' 3-max Seat #1 is the button
+Seat 1: Daoconte (500 in chips) 
+Seat 2: brujAAveriia (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+brujAAveriia: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5d]
+Daoconte: folds 
+brujAAveriia: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [3d Td Qc]
+brujAAveriia: bets 26
+mabeal1: calls 26
+*** TURN *** [3d Td Qc] [Jc]
+brujAAveriia: checks 
+mabeal1: bets 99
+brujAAveriia: calls 99
+*** RIVER *** [3d Td Qc Jc] [Th]
+brujAAveriia: checks 
+mabeal1: bets 335 and is all-in
+brujAAveriia: calls 335 and is all-in
+*** SHOW DOWN ***
+mabeal1: shows [8d 5d] (a pair of Tens)
+brujAAveriia: shows [As 2c] (a pair of Tens - Ace kicker)
+brujAAveriia collected 1000 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [3d Td Qc Jc Th]
+Seat 1: Daoconte (button) folded before Flop (didn't bet)
+Seat 2: brujAAveriia (small blind) showed [As 2c] and won (1000) with a pair of Tens
+Seat 3: mabeal1 (big blind) showed [8d 5d] and lost with a pair of Tens
+
+
+

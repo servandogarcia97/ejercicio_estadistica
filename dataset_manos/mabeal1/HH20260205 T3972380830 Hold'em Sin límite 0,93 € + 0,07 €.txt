@@ -1,0 +1,260 @@
+﻿PokerStars Hand #259604601951: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:24:33 CET [2026/02/05 14:24:33 ET]
+Table '3972380830 1' 3-max Seat #1 is the button
+Seat 1: TooNice528 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: pinka20 (500 in chips) 
+mabeal1: posts small blind 10
+pinka20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 6d]
+TooNice528: calls 20
+mabeal1: calls 10
+pinka20: checks 
+*** FLOP *** [Jh 5c Ah]
+mabeal1: checks 
+pinka20: checks 
+TooNice528: bets 60
+mabeal1: folds 
+pinka20: folds 
+Uncalled bet (60) returned to TooNice528
+TooNice528 collected 60 from pot
+TooNice528: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh 5c Ah]
+Seat 1: TooNice528 (button) collected (60)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: pinka20 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259604608091: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:24:57 CET [2026/02/05 14:24:57 ET]
+Table '3972380830 1' 3-max Seat #2 is the button
+Seat 1: TooNice528 (540 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: pinka20 (480 in chips) 
+pinka20: posts small blind 10
+TooNice528: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th As]
+mabeal1: raises 20 to 40
+pinka20: calls 30
+TooNice528: folds 
+*** FLOP *** [8s 6s 9d]
+pinka20: bets 100
+mabeal1: folds 
+Uncalled bet (100) returned to pinka20
+pinka20 collected 100 from pot
+pinka20: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8s 6s 9d]
+Seat 1: TooNice528 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded on the Flop
+Seat 3: pinka20 (small blind) collected (100)
+
+
+
+PokerStars Hand #259604611891: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:25:12 CET [2026/02/05 14:25:12 ET]
+Table '3972380830 1' 3-max Seat #3 is the button
+Seat 1: TooNice528 (520 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: pinka20 (540 in chips) 
+TooNice528: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 2s]
+pinka20: raises 50 to 70
+TooNice528: calls 60
+mabeal1: folds 
+*** FLOP *** [7s 7d 7h]
+TooNice528: bets 120
+pinka20: calls 120
+*** TURN *** [7s 7d 7h] [As]
+TooNice528: bets 120
+pinka20: calls 120
+*** RIVER *** [7s 7d 7h As] [Jd]
+TooNice528: bets 210 and is all-in
+pinka20: calls 210
+*** SHOW DOWN ***
+TooNice528: shows [6c 6h] (a full house, Sevens full of Sixes)
+pinka20: shows [Jh Qh] (a full house, Sevens full of Jacks)
+pinka20 collected 1060 from pot
+TooNice528 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [7s 7d 7h As Jd]
+Seat 1: TooNice528 (small blind) showed [6c 6h] and lost with a full house, Sevens full of Sixes
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: pinka20 (button) showed [Jh Qh] and won (1060) with a full house, Sevens full of Jacks
+
+
+
+PokerStars Hand #259604621170: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:25:49 CET [2026/02/05 14:25:49 ET]
+Table '3972380830 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: pinka20 (1080 in chips) 
+mabeal1: posts small blind 10
+pinka20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Qd]
+mabeal1: calls 10
+pinka20: checks 
+*** FLOP *** [Kh 5d 6d]
+pinka20: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to pinka20
+pinka20 collected 40 from pot
+pinka20: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 5d 6d]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: pinka20 (big blind) collected (40)
+
+
+
+PokerStars Hand #259604623978: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:26:01 CET [2026/02/05 14:26:01 ET]
+Table '3972380830 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: pinka20 (1100 in chips) 
+pinka20: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Kh]
+pinka20: calls 10
+mabeal1: raises 380 to 400 and is all-in
+pinka20: folds 
+Uncalled bet (380) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: pinka20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259604626594: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:26:11 CET [2026/02/05 14:26:11 ET]
+Table '3972380830 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: pinka20 (1080 in chips) 
+mabeal1: posts small blind 10
+pinka20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Tc]
+mabeal1: calls 10
+pinka20: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to pinka20
+pinka20 collected 40 from pot
+pinka20: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: pinka20 (big blind) collected (40)
+
+
+
+PokerStars Hand #259604628462: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:26:18 CET [2026/02/05 14:26:18 ET]
+Table '3972380830 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: pinka20 (1100 in chips) 
+pinka20: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6s]
+pinka20: calls 10
+mabeal1: raises 380 to 400 and is all-in
+pinka20: folds 
+Uncalled bet (380) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: pinka20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259604631296: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:26:30 CET [2026/02/05 14:26:30 ET]
+Table '3972380830 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: pinka20 (1080 in chips) 
+mabeal1: posts small blind 10
+pinka20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7d]
+mabeal1: calls 10
+pinka20: checks 
+*** FLOP *** [Kc 4h Ks]
+pinka20: bets 40
+mabeal1: calls 40
+*** TURN *** [Kc 4h Ks] [Kh]
+pinka20: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to pinka20
+pinka20 collected 120 from pot
+pinka20: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc 4h Ks Kh]
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: pinka20 (big blind) collected (120)
+
+
+
+PokerStars Hand #259604635649: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:26:47 CET [2026/02/05 14:26:47 ET]
+Table '3972380830 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (360 in chips) 
+Seat 3: pinka20 (1140 in chips) 
+pinka20: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3s]
+pinka20: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [7h 9s 6d]
+mabeal1: checks 
+pinka20: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to pinka20
+pinka20 collected 80 from pot
+pinka20: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h 9s 6d]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: pinka20 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259604638822: Tournament #3972380830, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 20:27:00 CET [2026/02/05 14:27:00 ET]
+Table '3972380830 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (320 in chips) 
+Seat 3: pinka20 (1180 in chips) 
+mabeal1: posts small blind 10
+pinka20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Th]
+mabeal1: raises 20 to 40
+pinka20: raises 80 to 120
+mabeal1: raises 200 to 320 and is all-in
+pinka20: calls 200
+*** FLOP *** [5d 2c 8d]
+*** TURN *** [5d 2c 8d] [Kh]
+*** RIVER *** [5d 2c 8d Kh] [8h]
+*** SHOW DOWN ***
+pinka20: shows [As Kd] (two pair, Kings and Eights)
+mabeal1: shows [9c Th] (a pair of Eights)
+pinka20 collected 640 from pot
+mabeal1 finished the tournament in 2nd place
+pinka20 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [5d 2c 8d Kh 8h]
+Seat 2: mabeal1 (button) (small blind) showed [9c Th] and lost with a pair of Eights
+Seat 3: pinka20 (big blind) showed [As Kd] and won (640) with two pair, Kings and Eights
+
+
+

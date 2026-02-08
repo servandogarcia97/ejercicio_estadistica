@@ -1,0 +1,121 @@
+﻿PokerStars Hand #259403342867: Tournament #3967765591, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 17:16:00 CET [2026/01/21 11:16:00 ET]
+Table '3967765591 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: baldomer57 (500 in chips) 
+Seat 3: BasDost2828 (500 in chips) 
+baldomer57: posts small blind 10
+BasDost2828: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Qc]
+mabeal1: raises 20 to 40
+baldomer57: calls 30
+BasDost2828: calls 20
+*** FLOP *** [Kd 8d 2h]
+baldomer57: checks 
+BasDost2828: bets 60
+mabeal1: calls 60
+baldomer57: folds 
+*** TURN *** [Kd 8d 2h] [Ah]
+BasDost2828: checks 
+mabeal1: checks 
+*** RIVER *** [Kd 8d 2h Ah] [Jh]
+BasDost2828: bets 240
+mabeal1: calls 240
+*** SHOW DOWN ***
+BasDost2828: shows [Td 8s] (a pair of Eights)
+mabeal1: shows [Qh Qc] (a pair of Queens)
+mabeal1 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Kd 8d 2h Ah Jh]
+Seat 1: mabeal1 (button) showed [Qh Qc] and won (720) with a pair of Queens
+Seat 2: baldomer57 (small blind) folded on the Flop
+Seat 3: BasDost2828 (big blind) showed [Td 8s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259403348995: Tournament #3967765591, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 17:16:33 CET [2026/01/21 11:16:33 ET]
+Table '3967765591 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (880 in chips) 
+Seat 2: baldomer57 (460 in chips) 
+Seat 3: BasDost2828 (160 in chips) 
+BasDost2828: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 5d]
+baldomer57: folds 
+BasDost2828: raises 140 to 160 and is all-in
+mabeal1: folds 
+Uncalled bet (140) returned to BasDost2828
+BasDost2828 collected 40 from pot
+BasDost2828: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: baldomer57 (button) folded before Flop (didn't bet)
+Seat 3: BasDost2828 (small blind) collected (40)
+
+
+
+PokerStars Hand #259403351075: Tournament #3967765591, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 17:16:44 CET [2026/01/21 11:16:44 ET]
+Table '3967765591 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (860 in chips) 
+Seat 2: baldomer57 (460 in chips) 
+Seat 3: BasDost2828 (180 in chips) 
+mabeal1: posts small blind 10
+baldomer57: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Kh]
+BasDost2828: folds 
+mabeal1: raises 20 to 40
+baldomer57: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: baldomer57 (big blind) folded before Flop
+Seat 3: BasDost2828 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259403353246: Tournament #3967765591, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 17:16:56 CET [2026/01/21 11:16:56 ET]
+Table '3967765591 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (880 in chips) 
+Seat 2: baldomer57 (440 in chips) 
+Seat 3: BasDost2828 (180 in chips) 
+baldomer57: posts small blind 10
+BasDost2828: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Ks]
+mabeal1: raises 20 to 40
+baldomer57: calls 30
+BasDost2828: raises 140 to 180 and is all-in
+mabeal1: calls 140
+baldomer57: calls 140
+*** FLOP *** [Qd Jh 4h]
+baldomer57: checks 
+mabeal1: bets 700 and is all-in
+baldomer57: calls 260 and is all-in
+Uncalled bet (440) returned to mabeal1
+*** TURN *** [Qd Jh 4h] [Ad]
+*** RIVER *** [Qd Jh 4h Ad] [8h]
+*** SHOW DOWN ***
+baldomer57: shows [Qc Td] (a pair of Queens)
+mabeal1: shows [Kc Ks] (a pair of Kings)
+mabeal1 collected 520 from side pot
+BasDost2828: shows [Ts 5c] (high card Ace)
+mabeal1 collected 540 from main pot
+baldomer57 finished the tournament in 2nd place
+BasDost2828 finished the tournament in 3rd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1060 Main pot 540. Side pot 520. | Rake 0 
+Board [Qd Jh 4h Ad 8h]
+Seat 1: mabeal1 (button) showed [Kc Ks] and won (1060) with a pair of Kings
+Seat 2: baldomer57 (small blind) showed [Qc Td] and lost with a pair of Queens
+Seat 3: BasDost2828 (big blind) showed [Ts 5c] and lost with high card Ace
+
+
+

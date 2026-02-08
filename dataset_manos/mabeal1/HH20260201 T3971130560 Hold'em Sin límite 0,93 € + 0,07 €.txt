@@ -1,0 +1,59 @@
+﻿PokerStars Hand #259549232297: Tournament #3971130560, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:49:12 CET [2026/02/01 10:49:12 ET]
+Table '3971130560 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: miche2388 (500 in chips) 
+Seat 3: cordobic (500 in chips) 
+miche2388: posts small blind 10
+cordobic: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5s]
+mabeal1: folds 
+miche2388: calls 10
+cordobic: raises 60 to 80
+miche2388: calls 60
+*** FLOP *** [6d 3s Kd]
+miche2388: checks 
+cordobic: bets 120
+miche2388: folds 
+Uncalled bet (120) returned to cordobic
+cordobic collected 160 from pot
+cordobic: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d 3s Kd]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: miche2388 (small blind) folded on the Flop
+Seat 3: cordobic (big blind) collected (160)
+
+
+
+PokerStars Hand #259549241612: Tournament #3971130560, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:49:54 CET [2026/02/01 10:49:54 ET]
+Table '3971130560 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: miche2388 (420 in chips) 
+Seat 3: cordobic (580 in chips) 
+cordobic: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 2s]
+miche2388: folds 
+cordobic: raises 60 to 80
+mabeal1: raises 420 to 500 and is all-in
+cordobic: calls 420
+*** FLOP *** [7h 5d 6c]
+*** TURN *** [7h 5d 6c] [Kh]
+*** RIVER *** [7h 5d 6c Kh] [Th]
+*** SHOW DOWN ***
+cordobic: shows [Qc Kc] (a pair of Kings)
+mabeal1: shows [2h 2s] (a pair of Deuces)
+cordobic collected 1000 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [7h 5d 6c Kh Th]
+Seat 1: mabeal1 (big blind) showed [2h 2s] and lost with a pair of Deuces
+Seat 2: miche2388 (button) folded before Flop (didn't bet)
+Seat 3: cordobic (small blind) showed [Qc Kc] and won (1000) with a pair of Kings
+
+
+

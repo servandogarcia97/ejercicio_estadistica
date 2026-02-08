@@ -1,0 +1,358 @@
+﻿PokerStars Hand #259592459043: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:09:57 CET [2026/02/04 15:09:57 ET]
+Table '3972088472 1' 3-max Seat #1 is the button
+Seat 1: ztadiegopp (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: rpfreits (500 in chips) 
+mabeal1: posts small blind 10
+rpfreits: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 5c]
+ztadiegopp: raises 20 to 40
+mabeal1: folds 
+rpfreits: calls 20
+*** FLOP *** [9h As 8h]
+rpfreits: checks 
+ztadiegopp: checks 
+*** TURN *** [9h As 8h] [Ac]
+rpfreits: bets 20
+ztadiegopp: calls 20
+*** RIVER *** [9h As 8h Ac] [Kc]
+rpfreits: checks 
+ztadiegopp: bets 60
+rpfreits: folds 
+Uncalled bet (60) returned to ztadiegopp
+ztadiegopp collected 130 from pot
+ztadiegopp: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [9h As 8h Ac Kc]
+Seat 1: ztadiegopp (button) collected (130)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: rpfreits (big blind) folded on the River
+
+
+
+PokerStars Hand #259592471380: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:10:43 CET [2026/02/04 15:10:43 ET]
+Table '3972088472 1' 3-max Seat #2 is the button
+Seat 1: ztadiegopp (570 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: rpfreits (440 in chips) 
+rpfreits: posts small blind 10
+ztadiegopp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jh]
+mabeal1: raises 20 to 40
+rpfreits: calls 30
+ztadiegopp: folds 
+*** FLOP *** [2h Kc Th]
+rpfreits: checks 
+mabeal1: bets 40
+rpfreits: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [2h Kc Th]
+Seat 1: ztadiegopp (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (100)
+Seat 3: rpfreits (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259592479610: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:11:14 CET [2026/02/04 15:11:14 ET]
+Table '3972088472 1' 3-max Seat #3 is the button
+Seat 1: ztadiegopp (550 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: rpfreits (400 in chips) 
+ztadiegopp: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8s]
+rpfreits: folds 
+ztadiegopp: calls 10
+mabeal1: checks 
+*** FLOP *** [Ad Td Kh]
+ztadiegopp: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to ztadiegopp
+ztadiegopp collected 40 from pot
+ztadiegopp: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ad Td Kh]
+Seat 1: ztadiegopp (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: rpfreits (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259592484074: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:11:30 CET [2026/02/04 15:11:30 ET]
+Table '3972088472 1' 3-max Seat #1 is the button
+Seat 1: ztadiegopp (570 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: rpfreits (400 in chips) 
+mabeal1: posts small blind 10
+rpfreits: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3d]
+ztadiegopp: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to rpfreits
+rpfreits collected 20 from pot
+rpfreits: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ztadiegopp (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: rpfreits (big blind) collected (20)
+
+
+
+PokerStars Hand #259592486842: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:11:41 CET [2026/02/04 15:11:41 ET]
+Table '3972088472 1' 3-max Seat #2 is the button
+Seat 1: ztadiegopp (570 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: rpfreits (410 in chips) 
+rpfreits: posts small blind 10
+ztadiegopp: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Kh]
+mabeal1: raises 20 to 40
+rpfreits: folds 
+ztadiegopp: raises 530 to 570 and is all-in
+mabeal1: folds 
+Uncalled bet (530) returned to ztadiegopp
+ztadiegopp collected 90 from pot
+ztadiegopp: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: ztadiegopp (big blind) collected (90)
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: rpfreits (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592494572: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:12:10 CET [2026/02/04 15:12:10 ET]
+Table '3972088472 1' 3-max Seat #3 is the button
+Seat 1: ztadiegopp (620 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: rpfreits (400 in chips) 
+ztadiegopp: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7h]
+rpfreits: calls 30
+ztadiegopp: raises 590 to 620 and is all-in
+mabeal1: folds 
+rpfreits: folds 
+Uncalled bet (590) returned to ztadiegopp
+ztadiegopp collected 90 from pot
+ztadiegopp: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: ztadiegopp (small blind) collected (90)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: rpfreits (button) folded before Flop
+
+
+
+PokerStars Hand #259592499899: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:12:30 CET [2026/02/04 15:12:30 ET]
+Table '3972088472 1' 3-max Seat #1 is the button
+Seat 1: ztadiegopp (680 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: rpfreits (370 in chips) 
+mabeal1: posts small blind 15
+rpfreits: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8s]
+ztadiegopp: raises 30 to 60
+mabeal1: folds 
+rpfreits: folds 
+Uncalled bet (30) returned to ztadiegopp
+ztadiegopp collected 75 from pot
+ztadiegopp: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: ztadiegopp (button) collected (75)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: rpfreits (big blind) folded before Flop
+
+
+
+PokerStars Hand #259592504989: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:12:49 CET [2026/02/04 15:12:49 ET]
+Table '3972088472 1' 3-max Seat #2 is the button
+Seat 1: ztadiegopp (725 in chips) 
+Seat 2: mabeal1 (435 in chips) 
+Seat 3: rpfreits (340 in chips) 
+rpfreits: posts small blind 15
+ztadiegopp: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Ah]
+mabeal1: raises 30 to 60
+rpfreits: calls 45
+ztadiegopp: folds 
+*** FLOP *** [6c 7s 8s]
+rpfreits: checks 
+mabeal1: checks 
+*** TURN *** [6c 7s 8s] [9d]
+rpfreits: checks 
+mabeal1: checks 
+*** RIVER *** [6c 7s 8s 9d] [4d]
+rpfreits: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+rpfreits: shows [5d Ad] (a straight, Five to Nine)
+mabeal1: mucks hand 
+rpfreits collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [6c 7s 8s 9d 4d]
+Seat 1: ztadiegopp (big blind) folded before Flop
+Seat 2: mabeal1 (button) mucked [7c Ah]
+Seat 3: rpfreits (small blind) showed [5d Ad] and won (210) with a straight, Five to Nine
+
+
+
+PokerStars Hand #259592513528: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:13:22 CET [2026/02/04 15:13:22 ET]
+Table '3972088472 1' 3-max Seat #3 is the button
+Seat 1: ztadiegopp (695 in chips) 
+Seat 2: mabeal1 (345 in chips) 
+Seat 3: rpfreits (460 in chips) 
+ztadiegopp: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Qs]
+rpfreits: folds 
+ztadiegopp: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to ztadiegopp
+ztadiegopp collected 60 from pot
+ztadiegopp: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ztadiegopp (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: rpfreits (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259592517847: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:13:38 CET [2026/02/04 15:13:38 ET]
+Table '3972088472 1' 3-max Seat #1 is the button
+Seat 1: ztadiegopp (725 in chips) 
+Seat 2: mabeal1 (315 in chips) 
+Seat 3: rpfreits (460 in chips) 
+mabeal1: posts small blind 15
+rpfreits: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 5c]
+ztadiegopp: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to rpfreits
+rpfreits collected 30 from pot
+rpfreits: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ztadiegopp (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: rpfreits (big blind) collected (30)
+
+
+
+PokerStars Hand #259592521462: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:13:51 CET [2026/02/04 15:13:51 ET]
+Table '3972088472 1' 3-max Seat #2 is the button
+Seat 1: ztadiegopp (725 in chips) 
+Seat 2: mabeal1 (300 in chips) 
+Seat 3: rpfreits (475 in chips) 
+rpfreits: posts small blind 15
+ztadiegopp: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 5s]
+mabeal1: folds 
+rpfreits: folds 
+Uncalled bet (15) returned to ztadiegopp
+ztadiegopp collected 30 from pot
+ztadiegopp: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ztadiegopp (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: rpfreits (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592524909: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:14:04 CET [2026/02/04 15:14:04 ET]
+Table '3972088472 1' 3-max Seat #3 is the button
+Seat 1: ztadiegopp (740 in chips) 
+Seat 2: mabeal1 (300 in chips) 
+Seat 3: rpfreits (460 in chips) 
+ztadiegopp: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Js]
+rpfreits: raises 40 to 80
+ztadiegopp: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to rpfreits
+rpfreits collected 100 from pot
+rpfreits: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ztadiegopp (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: rpfreits (button) collected (100)
+
+
+
+PokerStars Hand #259592527234: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:14:13 CET [2026/02/04 15:14:13 ET]
+Table '3972088472 1' 3-max Seat #1 is the button
+Seat 1: ztadiegopp (720 in chips) 
+Seat 2: mabeal1 (260 in chips) 
+Seat 3: rpfreits (520 in chips) 
+mabeal1: posts small blind 20
+rpfreits: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 9s]
+ztadiegopp: folds 
+mabeal1: raises 40 to 80
+rpfreits: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: ztadiegopp (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (80)
+Seat 3: rpfreits (big blind) folded before Flop
+
+
+
+PokerStars Hand #259592532340: Tournament #3972088472, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:14:32 CET [2026/02/04 15:14:32 ET]
+Table '3972088472 1' 3-max Seat #2 is the button
+Seat 1: ztadiegopp (720 in chips) 
+Seat 2: mabeal1 (300 in chips) 
+Seat 3: rpfreits (480 in chips) 
+rpfreits: posts small blind 20
+ztadiegopp: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 8c]
+mabeal1: raises 260 to 300 and is all-in
+rpfreits: calls 280
+ztadiegopp: folds 
+*** FLOP *** [Kc 9c 6h]
+*** TURN *** [Kc 9c 6h] [8s]
+*** RIVER *** [Kc 9c 6h 8s] [7s]
+*** SHOW DOWN ***
+rpfreits: shows [Ks Jh] (a pair of Kings)
+mabeal1: shows [Qc 8c] (a pair of Eights)
+rpfreits collected 640 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Kc 9c 6h 8s 7s]
+Seat 1: ztadiegopp (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [Qc 8c] and lost with a pair of Eights
+Seat 3: rpfreits (small blind) showed [Ks Jh] and won (640) with a pair of Kings
+
+
+

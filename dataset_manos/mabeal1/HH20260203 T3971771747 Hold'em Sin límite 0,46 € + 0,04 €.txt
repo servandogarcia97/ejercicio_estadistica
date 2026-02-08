@@ -1,0 +1,261 @@
+﻿PokerStars Hand #259578602125: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:16:37 CET [2026/02/03 13:16:37 ET]
+Table '3971771747 1' 3-max Seat #1 is the button
+Seat 1: Marco170788 (500 in chips) 
+Seat 2: kyra46125 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+kyra46125: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6d]
+Marco170788: raises 40 to 60
+kyra46125: calls 50
+mabeal1: folds 
+*** FLOP *** [Kc As 4c]
+kyra46125: checks 
+Marco170788: bets 140
+kyra46125: calls 140
+*** TURN *** [Kc As 4c] [Kd]
+kyra46125: checks 
+Marco170788: bets 300 and is all-in
+kyra46125: folds 
+Uncalled bet (300) returned to Marco170788
+Marco170788 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Kc As 4c Kd]
+Seat 1: Marco170788 (button) collected (420)
+Seat 2: kyra46125 (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578610751: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:17:14 CET [2026/02/03 13:17:14 ET]
+Table '3971771747 1' 3-max Seat #2 is the button
+Seat 1: Marco170788 (720 in chips) 
+Seat 2: kyra46125 (300 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+Marco170788: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Ah]
+kyra46125: calls 20
+mabeal1: raises 460 to 480 and is all-in
+Marco170788: folds 
+kyra46125: calls 280 and is all-in
+Uncalled bet (180) returned to mabeal1
+*** FLOP *** [3h Kc 2c]
+*** TURN *** [3h Kc 2c] [5s]
+*** RIVER *** [3h Kc 2c 5s] [4h]
+*** SHOW DOWN ***
+mabeal1: shows [3c Ah] (a straight, Ace to Five)
+kyra46125: shows [Qc Js] (high card King)
+mabeal1 collected 620 from pot
+kyra46125 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [3h Kc 2c 5s 4h]
+Seat 1: Marco170788 (big blind) folded before Flop
+Seat 2: kyra46125 (button) showed [Qc Js] and lost with high card King
+Seat 3: mabeal1 (small blind) showed [3c Ah] and won (620) with a straight, Ace to Five
+
+
+
+PokerStars Hand #259578617661: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:17:43 CET [2026/02/03 13:17:43 ET]
+Table '3971771747 1' 3-max Seat #1 is the button
+Seat 1: Marco170788 (700 in chips) 
+Seat 3: mabeal1 (800 in chips) 
+Marco170788: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 8s]
+Marco170788: calls 10
+mabeal1: raises 780 to 800 and is all-in
+Marco170788: folds 
+Uncalled bet (780) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Marco170788 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259578620377: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:17:55 CET [2026/02/03 13:17:55 ET]
+Table '3971771747 1' 3-max Seat #3 is the button
+Seat 1: Marco170788 (680 in chips) 
+Seat 3: mabeal1 (820 in chips) 
+mabeal1: posts small blind 10
+Marco170788: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9h]
+mabeal1: calls 10
+Marco170788: raises 80 to 100
+mabeal1: folds 
+Uncalled bet (80) returned to Marco170788
+Marco170788 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Marco170788 (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578623655: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:18:08 CET [2026/02/03 13:18:08 ET]
+Table '3971771747 1' 3-max Seat #1 is the button
+Seat 1: Marco170788 (700 in chips) 
+Seat 3: mabeal1 (800 in chips) 
+Marco170788: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 4h]
+Marco170788: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Marco170788 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259578625332: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:18:16 CET [2026/02/03 13:18:16 ET]
+Table '3971771747 1' 3-max Seat #3 is the button
+Seat 1: Marco170788 (690 in chips) 
+Seat 3: mabeal1 (810 in chips) 
+mabeal1: posts small blind 10
+Marco170788: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Ah]
+mabeal1: raises 20 to 40
+Marco170788: calls 20
+*** FLOP *** [As 4d Js]
+Marco170788: checks 
+mabeal1: bets 60
+Marco170788: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 4d Js]
+Seat 1: Marco170788 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259578630281: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:18:37 CET [2026/02/03 13:18:37 ET]
+Table '3971771747 1' 3-max Seat #1 is the button
+Seat 1: Marco170788 (650 in chips) 
+Seat 3: mabeal1 (850 in chips) 
+Marco170788: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 8h]
+Marco170788: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Marco170788 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259578632452: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:18:46 CET [2026/02/03 13:18:46 ET]
+Table '3971771747 1' 3-max Seat #3 is the button
+Seat 1: Marco170788 (640 in chips) 
+Seat 3: mabeal1 (860 in chips) 
+mabeal1: posts small blind 15
+Marco170788: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Ks]
+mabeal1: raises 30 to 60
+Marco170788: raises 580 to 640 and is all-in
+mabeal1: folds 
+Uncalled bet (580) returned to Marco170788
+Marco170788 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Marco170788 (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578636712: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:19:04 CET [2026/02/03 13:19:04 ET]
+Table '3971771747 1' 3-max Seat #1 is the button
+Seat 1: Marco170788 (700 in chips) 
+Seat 3: mabeal1 (800 in chips) 
+Marco170788: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 5d]
+Marco170788: calls 15
+mabeal1: checks 
+*** FLOP *** [4h 8c 9c]
+mabeal1: checks 
+Marco170788: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to Marco170788
+Marco170788 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 8c 9c]
+Seat 1: Marco170788 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259578641407: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:19:24 CET [2026/02/03 13:19:24 ET]
+Table '3971771747 1' 3-max Seat #3 is the button
+Seat 1: Marco170788 (730 in chips) 
+Seat 3: mabeal1 (770 in chips) 
+mabeal1: posts small blind 15
+Marco170788: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 6d]
+mabeal1: calls 15
+Marco170788: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to Marco170788
+Marco170788 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Marco170788 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578644873: Tournament #3971771747, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:19:39 CET [2026/02/03 13:19:39 ET]
+Table '3971771747 1' 3-max Seat #1 is the button
+Seat 1: Marco170788 (760 in chips) 
+Seat 3: mabeal1 (740 in chips) 
+Marco170788: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 4s]
+Marco170788: calls 15
+mabeal1: checks 
+*** FLOP *** [Ad 4c 8s]
+mabeal1: checks 
+Marco170788: bets 120
+mabeal1: raises 590 to 710 and is all-in
+Marco170788: calls 590
+*** TURN *** [Ad 4c 8s] [9s]
+*** RIVER *** [Ad 4c 8s 9s] [Ah]
+*** SHOW DOWN ***
+mabeal1: shows [6h 4s] (two pair, Aces and Fours)
+Marco170788: shows [8h 4h] (two pair, Aces and Eights)
+Marco170788 collected 1480 from pot
+mabeal1 finished the tournament in 2nd place
+Marco170788 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [Ad 4c 8s 9s Ah]
+Seat 1: Marco170788 (button) (small blind) showed [8h 4h] and won (1480) with two pair, Aces and Eights
+Seat 3: mabeal1 (big blind) showed [6h 4s] and lost with two pair, Aces and Fours
+
+
+

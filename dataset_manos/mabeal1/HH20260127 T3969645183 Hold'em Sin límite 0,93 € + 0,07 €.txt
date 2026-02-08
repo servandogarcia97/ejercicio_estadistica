@@ -1,0 +1,368 @@
+﻿PokerStars Hand #259485003166: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:12:10 CET [2026/01/27 13:12:10 ET]
+Table '3969645183 1' 3-max Seat #1 is the button
+Seat 1: eljesus996 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Pokinger (500 in chips) 
+mabeal1: posts small blind 10
+Pokinger: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4c]
+eljesus996: calls 20
+mabeal1: folds 
+Pokinger: checks 
+*** FLOP *** [Qs 3d 6h]
+Pokinger: checks 
+eljesus996: checks 
+*** TURN *** [Qs 3d 6h] [7d]
+Pokinger: bets 25
+eljesus996: calls 25
+*** RIVER *** [Qs 3d 6h 7d] [9s]
+Pokinger: checks 
+eljesus996: checks 
+*** SHOW DOWN ***
+Pokinger: shows [7s Jc] (a pair of Sevens)
+eljesus996: mucks hand 
+Pokinger collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Qs 3d 6h 7d 9s]
+Seat 1: eljesus996 (button) mucked [Ad 5c]
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Pokinger (big blind) showed [7s Jc] and won (100) with a pair of Sevens
+
+
+
+PokerStars Hand #259485011216: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:12:46 CET [2026/01/27 13:12:46 ET]
+Table '3969645183 1' 3-max Seat #2 is the button
+Seat 1: eljesus996 (455 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Pokinger (555 in chips) 
+Pokinger: posts small blind 10
+eljesus996: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Jc]
+mabeal1: raises 20 to 40
+Pokinger: calls 30
+eljesus996: folds 
+*** FLOP *** [8h 2d 5c]
+Pokinger: checks 
+mabeal1: checks 
+*** TURN *** [8h 2d 5c] [5d]
+Pokinger: bets 50
+mabeal1: calls 50
+*** RIVER *** [8h 2d 5c 5d] [Th]
+Pokinger: bets 100
+mabeal1: raises 300 to 400 and is all-in
+Pokinger: folds 
+Uncalled bet (300) returned to mabeal1
+mabeal1 collected 400 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [8h 2d 5c 5d Th]
+Seat 1: eljesus996 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (400)
+Seat 3: Pokinger (small blind) folded on the River
+
+
+
+PokerStars Hand #259485020633: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:13:29 CET [2026/01/27 13:13:29 ET]
+Table '3969645183 1' 3-max Seat #3 is the button
+Seat 1: eljesus996 (435 in chips) 
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: Pokinger (365 in chips) 
+eljesus996: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 8h]
+Pokinger: folds 
+eljesus996: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [6c 3d 4s]
+eljesus996: checks 
+mabeal1: bets 30
+eljesus996: calls 30
+*** TURN *** [6c 3d 4s] [2c]
+eljesus996: checks 
+mabeal1: checks 
+*** RIVER *** [6c 3d 4s 2c] [7c]
+eljesus996: checks 
+mabeal1: bets 105
+eljesus996: folds 
+Uncalled bet (105) returned to mabeal1
+mabeal1 collected 140 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [6c 3d 4s 2c 7c]
+Seat 1: eljesus996 (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (140)
+Seat 3: Pokinger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259485028840: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:14:05 CET [2026/01/27 13:14:05 ET]
+Table '3969645183 1' 3-max Seat #1 is the button
+Seat 1: eljesus996 (365 in chips) 
+Seat 2: mabeal1 (770 in chips) 
+Seat 3: Pokinger (365 in chips) 
+mabeal1: posts small blind 10
+Pokinger: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 6s]
+eljesus996: folds 
+mabeal1: raises 20 to 40
+Pokinger: raises 325 to 365 and is all-in
+mabeal1: folds 
+Uncalled bet (325) returned to Pokinger
+Pokinger collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: eljesus996 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Pokinger (big blind) collected (80)
+
+
+
+PokerStars Hand #259485032697: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:14:23 CET [2026/01/27 13:14:23 ET]
+Table '3969645183 1' 3-max Seat #2 is the button
+Seat 1: eljesus996 (365 in chips) 
+Seat 2: mabeal1 (730 in chips) 
+Seat 3: Pokinger (405 in chips) 
+Pokinger: posts small blind 15
+eljesus996: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Ks]
+mabeal1: folds 
+Pokinger: folds 
+Uncalled bet (15) returned to eljesus996
+eljesus996 collected 30 from pot
+eljesus996: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: eljesus996 (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Pokinger (small blind) folded before Flop
+
+
+
+PokerStars Hand #259485033873: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:14:28 CET [2026/01/27 13:14:28 ET]
+Table '3969645183 1' 3-max Seat #3 is the button
+Seat 1: eljesus996 (380 in chips) 
+Seat 2: mabeal1 (730 in chips) 
+Seat 3: Pokinger (390 in chips) 
+eljesus996: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 9s]
+Pokinger: folds 
+eljesus996: calls 15
+mabeal1: checks 
+*** FLOP *** [6h 5d Jh]
+eljesus996: bets 30
+mabeal1: calls 30
+*** TURN *** [6h 5d Jh] [8d]
+eljesus996: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to eljesus996
+eljesus996 collected 120 from pot
+eljesus996: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6h 5d Jh 8d]
+Seat 1: eljesus996 (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Pokinger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259485040313: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:14:57 CET [2026/01/27 13:14:57 ET]
+Table '3969645183 1' 3-max Seat #1 is the button
+Seat 1: eljesus996 (440 in chips) 
+Seat 2: mabeal1 (670 in chips) 
+Seat 3: Pokinger (390 in chips) 
+mabeal1: posts small blind 15
+Pokinger: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 8c]
+eljesus996: folds 
+mabeal1: calls 15
+Pokinger: checks 
+*** FLOP *** [Td 7h 2c]
+mabeal1: bets 30
+Pokinger: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Td 7h 2c]
+Seat 1: eljesus996 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Pokinger (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259485044911: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:15:16 CET [2026/01/27 13:15:16 ET]
+Table '3969645183 1' 3-max Seat #2 is the button
+Seat 1: eljesus996 (440 in chips) 
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: Pokinger (360 in chips) 
+Pokinger: posts small blind 15
+eljesus996: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 8h]
+mabeal1: raises 30 to 60
+Pokinger: folds 
+eljesus996: calls 30
+*** FLOP *** [Th Tc 2h]
+eljesus996: checks 
+mabeal1: bets 68
+eljesus996: raises 312 to 380 and is all-in
+mabeal1: calls 312
+*** TURN *** [Th Tc 2h] [Jc]
+*** RIVER *** [Th Tc 2h Jc] [Ac]
+*** SHOW DOWN ***
+eljesus996: shows [As 2c] (two pair, Aces and Tens)
+mabeal1: shows [Jh 8h] (two pair, Jacks and Tens)
+eljesus996 collected 895 from pot
+*** SUMMARY ***
+Total pot 895 | Rake 0 
+Board [Th Tc 2h Jc Ac]
+Seat 1: eljesus996 (big blind) showed [As 2c] and won (895) with two pair, Aces and Tens
+Seat 2: mabeal1 (button) showed [Jh 8h] and lost with two pair, Jacks and Tens
+Seat 3: Pokinger (small blind) folded before Flop
+
+
+
+PokerStars Hand #259485050204: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:15:40 CET [2026/01/27 13:15:40 ET]
+Table '3969645183 1' 3-max Seat #3 is the button
+Seat 1: eljesus996 (895 in chips) 
+Seat 2: mabeal1 (260 in chips) 
+Seat 3: Pokinger (345 in chips) 
+eljesus996: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 5h]
+Pokinger: folds 
+eljesus996: calls 15
+mabeal1: checks 
+*** FLOP *** [9h 8s Kc]
+eljesus996: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to eljesus996
+eljesus996 collected 60 from pot
+eljesus996: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9h 8s Kc]
+Seat 1: eljesus996 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: Pokinger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259485053584: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:15:54 CET [2026/01/27 13:15:54 ET]
+Table '3969645183 1' 3-max Seat #1 is the button
+Seat 1: eljesus996 (925 in chips) 
+Seat 2: mabeal1 (230 in chips) 
+Seat 3: Pokinger (345 in chips) 
+mabeal1: posts small blind 15
+Pokinger: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Jd]
+eljesus996: folds 
+mabeal1: raises 200 to 230 and is all-in
+Pokinger: folds 
+Uncalled bet (200) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: eljesus996 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Pokinger (big blind) folded before Flop
+
+
+
+PokerStars Hand #259485055638: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:16:03 CET [2026/01/27 13:16:03 ET]
+Table '3969645183 1' 3-max Seat #2 is the button
+Seat 1: eljesus996 (925 in chips) 
+Seat 2: mabeal1 (260 in chips) 
+Seat 3: Pokinger (315 in chips) 
+Pokinger: posts small blind 15
+eljesus996: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 5h]
+mabeal1: folds 
+Pokinger: raises 30 to 60
+eljesus996: raises 865 to 925 and is all-in
+Pokinger: calls 255 and is all-in
+Uncalled bet (610) returned to eljesus996
+*** FLOP *** [4d 6d 3c]
+*** TURN *** [4d 6d 3c] [8h]
+*** RIVER *** [4d 6d 3c 8h] [Js]
+*** SHOW DOWN ***
+Pokinger: shows [Jh As] (a pair of Jacks)
+eljesus996: shows [Ah Qs] (high card Ace)
+Pokinger collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [4d 6d 3c 8h Js]
+Seat 1: eljesus996 (big blind) showed [Ah Qs] and lost with high card Ace
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Pokinger (small blind) showed [Jh As] and won (630) with a pair of Jacks
+
+
+
+PokerStars Hand #259485060307: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 19:16:24 CET [2026/01/27 13:16:24 ET]
+Table '3969645183 1' 3-max Seat #3 is the button
+Seat 1: eljesus996 (610 in chips) 
+Seat 2: mabeal1 (260 in chips) 
+Seat 3: Pokinger (630 in chips) 
+eljesus996: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 5c]
+Pokinger: folds 
+eljesus996: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: eljesus996 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: Pokinger (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259485062261: Tournament #3969645183, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 19:16:32 CET [2026/01/27 13:16:32 ET]
+Table '3969645183 1' 3-max Seat #1 is the button
+Seat 1: eljesus996 (590 in chips) 
+Seat 2: mabeal1 (280 in chips) 
+Seat 3: Pokinger (630 in chips) 
+mabeal1: posts small blind 20
+Pokinger: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8d]
+eljesus996: folds 
+mabeal1: raises 240 to 280 and is all-in
+Pokinger: calls 240
+*** FLOP *** [5s 9s 2s]
+*** TURN *** [5s 9s 2s] [3h]
+*** RIVER *** [5s 9s 2s 3h] [Ts]
+*** SHOW DOWN ***
+mabeal1: shows [7h 8d] (high card Ten)
+Pokinger: shows [Jc Js] (a flush, Jack high)
+Pokinger collected 560 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [5s 9s 2s 3h Ts]
+Seat 1: eljesus996 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [7h 8d] and lost with high card Ten
+Seat 3: Pokinger (big blind) showed [Jc Js] and won (560) with a flush, Jack high
+
+
+

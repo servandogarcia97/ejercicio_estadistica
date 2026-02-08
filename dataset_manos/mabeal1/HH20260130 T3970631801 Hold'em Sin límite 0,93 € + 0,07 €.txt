@@ -1,0 +1,338 @@
+﻿PokerStars Hand #259527467951: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 23:48:28 CET [2026/01/30 17:48:28 ET]
+Table '3970631801 1' 3-max Seat #1 is the button
+Seat 1: albertit00 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: plisplay (500 in chips) 
+mabeal1: posts small blind 10
+plisplay: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 2c]
+albertit00: calls 20
+mabeal1: raises 480 to 500 and is all-in
+plisplay: folds 
+albertit00: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: albertit00 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: plisplay (big blind) folded before Flop
+
+
+
+PokerStars Hand #259527471058: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 23:48:40 CET [2026/01/30 17:48:40 ET]
+Table '3970631801 1' 3-max Seat #2 is the button
+Seat 1: albertit00 (480 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: plisplay (480 in chips) 
+plisplay: posts small blind 10
+albertit00: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 3s]
+mabeal1: folds 
+plisplay: raises 20 to 40
+albertit00: calls 20
+*** FLOP *** [2d 6d 8h]
+plisplay: bets 40
+albertit00: calls 40
+*** TURN *** [2d 6d 8h] [Ac]
+plisplay: bets 40
+albertit00: calls 40
+*** RIVER *** [2d 6d 8h Ac] [5d]
+plisplay: bets 100
+albertit00: folds 
+Uncalled bet (100) returned to plisplay
+plisplay collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d 6d 8h Ac 5d]
+Seat 1: albertit00 (big blind) folded on the River
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: plisplay (small blind) collected (240)
+
+
+
+PokerStars Hand #259527478917: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 23:49:12 CET [2026/01/30 17:49:12 ET]
+Table '3970631801 1' 3-max Seat #3 is the button
+Seat 1: albertit00 (360 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: plisplay (600 in chips) 
+albertit00: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7d]
+plisplay: raises 580 to 600 and is all-in
+albertit00: folds 
+mabeal1: folds 
+Uncalled bet (580) returned to plisplay
+plisplay collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: albertit00 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: plisplay (button) collected (50)
+
+
+
+PokerStars Hand #259527481382: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 23:49:21 CET [2026/01/30 17:49:21 ET]
+Table '3970631801 1' 3-max Seat #1 is the button
+Seat 1: albertit00 (350 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: plisplay (630 in chips) 
+mabeal1: posts small blind 10
+plisplay: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Jh]
+albertit00: calls 20
+mabeal1: folds 
+plisplay: checks 
+*** FLOP *** [5d 5c 7h]
+plisplay: checks 
+albertit00: checks 
+*** TURN *** [5d 5c 7h] [9s]
+plisplay: bets 20
+albertit00: calls 20
+*** RIVER *** [5d 5c 7h 9s] [3h]
+plisplay: bets 40
+albertit00: calls 40
+*** SHOW DOWN ***
+plisplay: shows [2s 3d] (two pair, Fives and Threes)
+albertit00: mucks hand 
+plisplay collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [5d 5c 7h 9s 3h]
+Seat 1: albertit00 (button) mucked [6h Qd]
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: plisplay (big blind) showed [2s 3d] and won (170) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #259527488919: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 23:49:51 CET [2026/01/30 17:49:51 ET]
+Table '3970631801 1' 3-max Seat #2 is the button
+Seat 1: albertit00 (270 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: plisplay (720 in chips) 
+plisplay: posts small blind 10
+albertit00: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3h]
+mabeal1: folds 
+plisplay: calls 10
+albertit00: checks 
+*** FLOP *** [Qd 9h Qs]
+plisplay: bets 20
+albertit00: calls 20
+*** TURN *** [Qd 9h Qs] [3c]
+plisplay: bets 40
+albertit00: raises 190 to 230 and is all-in
+plisplay: folds 
+Uncalled bet (190) returned to albertit00
+albertit00 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qd 9h Qs 3c]
+Seat 1: albertit00 (big blind) collected (160)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: plisplay (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259527496880: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 23:50:24 CET [2026/01/30 17:50:24 ET]
+Table '3970631801 1' 3-max Seat #3 is the button
+Seat 1: albertit00 (350 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: plisplay (640 in chips) 
+albertit00: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Jc]
+plisplay: folds 
+albertit00: calls 10
+mabeal1: checks 
+*** FLOP *** [8h 2h 3d]
+albertit00: checks 
+mabeal1: checks 
+*** TURN *** [8h 2h 3d] [4c]
+albertit00: checks 
+mabeal1: checks 
+*** RIVER *** [8h 2h 3d 4c] [4d]
+albertit00: checks 
+mabeal1: bets 20
+albertit00: calls 20
+*** SHOW DOWN ***
+mabeal1: shows [3c Jc] (two pair, Fours and Threes)
+albertit00: mucks hand 
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 2h 3d 4c 4d]
+Seat 1: albertit00 (small blind) mucked [2c 7h]
+Seat 2: mabeal1 (big blind) showed [3c Jc] and won (80) with two pair, Fours and Threes
+Seat 3: plisplay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259527504661: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 23:50:55 CET [2026/01/30 17:50:55 ET]
+Table '3970631801 1' 3-max Seat #1 is the button
+Seat 1: albertit00 (310 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: plisplay (640 in chips) 
+mabeal1: posts small blind 10
+plisplay: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 2c]
+albertit00: calls 20
+mabeal1: folds 
+plisplay: raises 60 to 80
+albertit00: calls 60
+*** FLOP *** [7c Th Js]
+plisplay: bets 100
+albertit00: raises 130 to 230 and is all-in
+plisplay: calls 130
+*** TURN *** [7c Th Js] [Jd]
+*** RIVER *** [7c Th Js Jd] [Kc]
+*** SHOW DOWN ***
+plisplay: shows [9h Ah] (a pair of Jacks)
+albertit00: shows [7h Ts] (two pair, Jacks and Tens)
+albertit00 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [7c Th Js Jd Kc]
+Seat 1: albertit00 (button) showed [7h Ts] and won (630) with two pair, Jacks and Tens
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: plisplay (big blind) showed [9h Ah] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259527512473: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 23:51:27 CET [2026/01/30 17:51:27 ET]
+Table '3970631801 1' 3-max Seat #2 is the button
+Seat 1: albertit00 (630 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: plisplay (330 in chips) 
+plisplay: posts small blind 10
+albertit00: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 7c]
+mabeal1: raises 20 to 40
+plisplay: calls 30
+albertit00: calls 20
+*** FLOP *** [7d 8h Td]
+plisplay: checks 
+albertit00: checks 
+mabeal1: checks 
+*** TURN *** [7d 8h Td] [3s]
+plisplay: checks 
+albertit00: checks 
+mabeal1: checks 
+*** RIVER *** [7d 8h Td 3s] [Jc]
+plisplay: checks 
+albertit00: bets 120
+mabeal1: raises 380 to 500 and is all-in
+plisplay: folds 
+albertit00: calls 380
+*** SHOW DOWN ***
+mabeal1: shows [9c 7c] (a straight, Seven to Jack)
+albertit00: shows [7h Jd] (two pair, Jacks and Sevens)
+mabeal1 collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [7d 8h Td 3s Jc]
+Seat 1: albertit00 (big blind) showed [7h Jd] and lost with two pair, Jacks and Sevens
+Seat 2: mabeal1 (button) showed [9c 7c] and won (1120) with a straight, Seven to Jack
+Seat 3: plisplay (small blind) folded on the River
+
+
+
+PokerStars Hand #259527525555: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 23:52:19 CET [2026/01/30 17:52:19 ET]
+Table '3970631801 1' 3-max Seat #3 is the button
+Seat 1: albertit00 (90 in chips) 
+Seat 2: mabeal1 (1120 in chips) 
+Seat 3: plisplay (290 in chips) 
+albertit00: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 6c]
+plisplay: folds 
+albertit00: raises 60 to 90 and is all-in
+mabeal1: calls 60
+*** FLOP *** [Jd 5c 8h]
+*** TURN *** [Jd 5c 8h] [7d]
+*** RIVER *** [Jd 5c 8h 7d] [8d]
+*** SHOW DOWN ***
+albertit00: shows [6s Ks] (a pair of Eights)
+mabeal1: shows [9h 6c] (a straight, Five to Nine)
+mabeal1 collected 180 from pot
+albertit00 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jd 5c 8h 7d 8d]
+Seat 1: albertit00 (small blind) showed [6s Ks] and lost with a pair of Eights
+Seat 2: mabeal1 (big blind) showed [9h 6c] and won (180) with a straight, Five to Nine
+Seat 3: plisplay (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259527531230: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 23:52:43 CET [2026/01/30 17:52:43 ET]
+Table '3970631801 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1210 in chips) 
+Seat 3: plisplay (290 in chips) 
+mabeal1: posts small blind 15
+plisplay: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Qs]
+mabeal1: raises 30 to 60
+plisplay: calls 30
+*** FLOP *** [7s 5d 3d]
+plisplay: checks 
+mabeal1: checks 
+*** TURN *** [7s 5d 3d] [Js]
+plisplay: bets 30
+mabeal1: raises 90 to 120
+plisplay: calls 90
+*** RIVER *** [7s 5d 3d Js] [9c]
+plisplay: checks 
+mabeal1: bets 120
+plisplay: folds [3s]
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [7s 5d 3d Js 9c]
+Seat 2: mabeal1 (button) (small blind) collected (360)
+Seat 3: plisplay (big blind) folded on the River
+
+
+
+PokerStars Hand #259527541799: Tournament #3970631801, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 23:53:26 CET [2026/01/30 17:53:26 ET]
+Table '3970631801 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1390 in chips) 
+Seat 3: plisplay (110 in chips) 
+plisplay: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jh]
+plisplay: calls 15
+mabeal1: raises 90 to 120
+plisplay: calls 80 and is all-in
+Uncalled bet (10) returned to mabeal1
+*** FLOP *** [6d Js 6h]
+*** TURN *** [6d Js 6h] [Kh]
+*** RIVER *** [6d Js 6h Kh] [Qh]
+*** SHOW DOWN ***
+mabeal1: shows [Jc Jh] (a full house, Jacks full of Sixes)
+plisplay: shows [3h 2h] (a flush, King high)
+mabeal1 collected 220 from pot
+plisplay finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [6d Js 6h Kh Qh]
+Seat 2: mabeal1 (big blind) showed [Jc Jh] and won (220) with a full house, Jacks full of Sixes
+Seat 3: plisplay (button) (small blind) showed [3h 2h] and lost with a flush, King high
+
+
+

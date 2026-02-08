@@ -1,0 +1,199 @@
+﻿PokerStars Hand #259588803097: Tournament #3972006458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 16:27:43 CET [2026/02/04 10:27:43 ET]
+Table '3972006458 1' 3-max Seat #1 is the button
+Seat 1: MicioNik (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: igrac'poker (500 in chips) 
+mabeal1: posts small blind 10
+igrac'poker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 9s]
+MicioNik: folds 
+mabeal1: raises 30 to 50
+igrac'poker: raises 450 to 500 and is all-in
+mabeal1: folds 
+Uncalled bet (450) returned to igrac'poker
+igrac'poker collected 100 from pot
+igrac'poker: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: MicioNik (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: igrac'poker (big blind) collected (100)
+
+
+
+PokerStars Hand #259588805147: Tournament #3972006458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 16:27:54 CET [2026/02/04 10:27:54 ET]
+Table '3972006458 1' 3-max Seat #2 is the button
+Seat 1: MicioNik (500 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: igrac'poker (550 in chips) 
+igrac'poker: posts small blind 10
+MicioNik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ts]
+mabeal1: folds 
+igrac'poker: calls 10
+MicioNik: checks 
+*** FLOP *** [9s 3s 8h]
+igrac'poker: bets 530 and is all-in
+MicioNik: calls 480 and is all-in
+Uncalled bet (50) returned to igrac'poker
+*** TURN *** [9s 3s 8h] [7d]
+*** RIVER *** [9s 3s 8h 7d] [Jc]
+*** SHOW DOWN ***
+igrac'poker: shows [Kh 9d] (a pair of Nines)
+MicioNik: shows [9h Jh] (two pair, Jacks and Nines)
+MicioNik collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [9s 3s 8h 7d Jc]
+Seat 1: MicioNik (big blind) showed [9h Jh] and won (1000) with two pair, Jacks and Nines
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: igrac'poker (small blind) showed [Kh 9d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259588808295: Tournament #3972006458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 16:28:12 CET [2026/02/04 10:28:12 ET]
+Table '3972006458 1' 3-max Seat #3 is the button
+Seat 1: MicioNik (1000 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: igrac'poker (50 in chips) 
+MicioNik: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Qh]
+igrac'poker: raises 30 to 50 and is all-in
+MicioNik: folds 
+mabeal1: calls 30
+*** FLOP *** [9s 2h 8s]
+*** TURN *** [9s 2h 8s] [3d]
+*** RIVER *** [9s 2h 8s 3d] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [Ah Qh] (high card Ace)
+igrac'poker: shows [6s 6c] (a pair of Sixes)
+igrac'poker collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [9s 2h 8s 3d 4c]
+Seat 1: MicioNik (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [Ah Qh] and lost with high card Ace
+Seat 3: igrac'poker (button) showed [6s 6c] and won (110) with a pair of Sixes
+
+
+
+PokerStars Hand #259588811717: Tournament #3972006458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 16:28:32 CET [2026/02/04 10:28:32 ET]
+Table '3972006458 1' 3-max Seat #1 is the button
+Seat 1: MicioNik (990 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: igrac'poker (110 in chips) 
+mabeal1: posts small blind 10
+igrac'poker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5c]
+MicioNik: folds 
+mabeal1: calls 10
+igrac'poker: checks 
+*** FLOP *** [9h Kd 5s]
+mabeal1: bets 20
+igrac'poker: raises 70 to 90 and is all-in
+mabeal1: calls 70
+*** TURN *** [9h Kd 5s] [Td]
+*** RIVER *** [9h Kd 5s Td] [7h]
+*** SHOW DOWN ***
+mabeal1: shows [4c 5c] (a pair of Fives)
+igrac'poker: shows [Ks 3d] (a pair of Kings)
+igrac'poker collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [9h Kd 5s Td 7h]
+Seat 1: MicioNik (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [4c 5c] and lost with a pair of Fives
+Seat 3: igrac'poker (big blind) showed [Ks 3d] and won (220) with a pair of Kings
+
+
+
+PokerStars Hand #259588816332: Tournament #3972006458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 16:28:58 CET [2026/02/04 10:28:58 ET]
+Table '3972006458 1' 3-max Seat #2 is the button
+Seat 1: MicioNik (990 in chips) 
+Seat 2: mabeal1 (290 in chips) 
+Seat 3: igrac'poker (220 in chips) 
+igrac'poker: posts small blind 10
+MicioNik: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 5s]
+mabeal1: folds 
+igrac'poker: folds 
+Uncalled bet (10) returned to MicioNik
+MicioNik collected 20 from pot
+MicioNik: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MicioNik (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: igrac'poker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588817733: Tournament #3972006458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 16:29:06 CET [2026/02/04 10:29:06 ET]
+Table '3972006458 1' 3-max Seat #3 is the button
+Seat 1: MicioNik (1000 in chips) 
+Seat 2: mabeal1 (290 in chips) 
+Seat 3: igrac'poker (210 in chips) 
+MicioNik: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 7d]
+igrac'poker: calls 20
+MicioNik: folds 
+mabeal1: checks 
+*** FLOP *** [3h 2h 8s]
+mabeal1: checks 
+igrac'poker: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to igrac'poker
+igrac'poker collected 50 from pot
+igrac'poker: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [3h 2h 8s]
+Seat 1: MicioNik (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: igrac'poker (button) collected (50)
+
+
+
+PokerStars Hand #259588820244: Tournament #3972006458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 16:29:20 CET [2026/02/04 10:29:20 ET]
+Table '3972006458 1' 3-max Seat #1 is the button
+Seat 1: MicioNik (990 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: igrac'poker (240 in chips) 
+mabeal1: posts small blind 10
+igrac'poker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Qs]
+MicioNik: calls 20
+mabeal1: calls 10
+igrac'poker: checks 
+*** FLOP *** [8h Kd 4s]
+mabeal1: checks 
+igrac'poker: checks 
+MicioNik: checks 
+*** TURN *** [8h Kd 4s] [Ad]
+mabeal1: bets 250 and is all-in
+igrac'poker: folds 
+MicioNik: calls 250
+*** RIVER *** [8h Kd 4s Ad] [6d]
+*** SHOW DOWN ***
+mabeal1: shows [9c Qs] (high card Ace)
+MicioNik: shows [Kh 8d] (two pair, Kings and Eights)
+MicioNik collected 560 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [8h Kd 4s Ad 6d]
+Seat 1: MicioNik (button) showed [Kh 8d] and won (560) with two pair, Kings and Eights
+Seat 2: mabeal1 (small blind) showed [9c Qs] and lost with high card Ace
+Seat 3: igrac'poker (big blind) folded on the Turn
+
+
+

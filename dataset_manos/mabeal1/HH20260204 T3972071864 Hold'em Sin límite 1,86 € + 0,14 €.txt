@@ -1,0 +1,476 @@
+﻿PokerStars Hand #259591661351: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:16:31 CET [2026/02/04 14:16:31 ET]
+Table '3972071864 1' 3-max Seat #1 is the button
+Seat 1: dodo2do (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: theophilelmn (500 in chips) 
+mabeal1: posts small blind 10
+theophilelmn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Kh]
+dodo2do: calls 20
+mabeal1: calls 10
+theophilelmn: raises 40 to 60
+dodo2do: calls 40
+mabeal1: folds 
+*** FLOP *** [Jh Jd As]
+theophilelmn: checks 
+dodo2do: checks 
+*** TURN *** [Jh Jd As] [Qc]
+theophilelmn: checks 
+dodo2do: checks 
+*** RIVER *** [Jh Jd As Qc] [7s]
+theophilelmn: bets 70
+dodo2do: calls 70
+*** SHOW DOWN ***
+theophilelmn: shows [Qs Kc] (two pair, Queens and Jacks)
+dodo2do: mucks hand 
+theophilelmn collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Jh Jd As Qc 7s]
+Seat 1: dodo2do (button) mucked [7d 8c]
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: theophilelmn (big blind) showed [Qs Kc] and won (280) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #259591669645: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:17:03 CET [2026/02/04 14:17:03 ET]
+Table '3972071864 1' 3-max Seat #2 is the button
+Seat 1: dodo2do (370 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: theophilelmn (650 in chips) 
+theophilelmn: posts small blind 10
+dodo2do: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Tc]
+mabeal1: raises 20 to 40
+theophilelmn: calls 30
+dodo2do: calls 20
+*** FLOP *** [7d 6c Qd]
+theophilelmn: checks 
+dodo2do: checks 
+mabeal1: bets 40
+theophilelmn: folds 
+dodo2do: calls 40
+*** TURN *** [7d 6c Qd] [6h]
+dodo2do: checks 
+mabeal1: checks 
+*** RIVER *** [7d 6c Qd 6h] [7h]
+dodo2do: checks 
+mabeal1: bets 150
+dodo2do: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7d 6c Qd 6h 7h]
+Seat 1: dodo2do (big blind) folded on the River
+Seat 2: mabeal1 (button) collected (200)
+Seat 3: theophilelmn (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259591678821: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:17:39 CET [2026/02/04 14:17:39 ET]
+Table '3972071864 1' 3-max Seat #3 is the button
+Seat 1: dodo2do (290 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: theophilelmn (610 in chips) 
+dodo2do: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 6d]
+theophilelmn: calls 20
+dodo2do: calls 10
+mabeal1: checks 
+*** FLOP *** [8c Ah Qh]
+dodo2do: checks 
+mabeal1: checks 
+theophilelmn: checks 
+*** TURN *** [8c Ah Qh] [9h]
+dodo2do: checks 
+mabeal1: bets 40
+theophilelmn: calls 40
+dodo2do: calls 40
+*** RIVER *** [8c Ah Qh 9h] [Kh]
+dodo2do: checks 
+mabeal1: checks 
+theophilelmn: checks 
+*** SHOW DOWN ***
+dodo2do: shows [Td 9d] (a pair of Nines)
+mabeal1: shows [Qd 6d] (a pair of Queens)
+theophilelmn: shows [4h 5d] (a flush, Ace high)
+theophilelmn collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8c Ah Qh 9h Kh]
+Seat 1: dodo2do (small blind) showed [Td 9d] and lost with a pair of Nines
+Seat 2: mabeal1 (big blind) showed [Qd 6d] and lost with a pair of Queens
+Seat 3: theophilelmn (button) showed [4h 5d] and won (180) with a flush, Ace high
+
+
+
+PokerStars Hand #259591691307: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:18:27 CET [2026/02/04 14:18:27 ET]
+Table '3972071864 1' 3-max Seat #1 is the button
+Seat 1: dodo2do (230 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: theophilelmn (730 in chips) 
+mabeal1: posts small blind 10
+theophilelmn: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9s]
+dodo2do: calls 20
+mabeal1: calls 10
+theophilelmn: checks 
+*** FLOP *** [9d 2d Kc]
+mabeal1: checks 
+theophilelmn: checks 
+dodo2do: checks 
+*** TURN *** [9d 2d Kc] [Ts]
+mabeal1: checks 
+theophilelmn: checks 
+dodo2do: bets 60
+mabeal1: folds 
+theophilelmn: folds 
+Uncalled bet (60) returned to dodo2do
+dodo2do collected 60 from pot
+dodo2do: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d 2d Kc Ts]
+Seat 1: dodo2do (button) collected (60)
+Seat 2: mabeal1 (small blind) folded on the Turn
+Seat 3: theophilelmn (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259591701707: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:19:07 CET [2026/02/04 14:19:07 ET]
+Table '3972071864 1' 3-max Seat #2 is the button
+Seat 1: dodo2do (270 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: theophilelmn (710 in chips) 
+theophilelmn: posts small blind 15
+dodo2do: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 2c]
+mabeal1: folds 
+theophilelmn: raises 680 to 710 and is all-in
+dodo2do: folds 
+Uncalled bet (680) returned to theophilelmn
+theophilelmn collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: dodo2do (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: theophilelmn (small blind) collected (60)
+
+
+
+PokerStars Hand #259591704201: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:19:17 CET [2026/02/04 14:19:17 ET]
+Table '3972071864 1' 3-max Seat #3 is the button
+Seat 1: dodo2do (240 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: theophilelmn (740 in chips) 
+dodo2do: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 4h]
+theophilelmn: calls 30
+dodo2do: folds 
+mabeal1: checks 
+*** FLOP *** [6s 8h 8d]
+mabeal1: checks 
+theophilelmn: checks 
+*** TURN *** [6s 8h 8d] [8s]
+mabeal1: checks 
+theophilelmn: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to theophilelmn
+theophilelmn collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [6s 8h 8d 8s]
+Seat 1: dodo2do (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: theophilelmn (button) collected (75)
+
+
+
+PokerStars Hand #259591709541: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:19:38 CET [2026/02/04 14:19:38 ET]
+Table '3972071864 1' 3-max Seat #1 is the button
+Seat 1: dodo2do (225 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: theophilelmn (785 in chips) 
+mabeal1: posts small blind 15
+theophilelmn: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 9c]
+dodo2do: calls 30
+mabeal1: folds 
+theophilelmn: checks 
+*** FLOP *** [Qs Th Ah]
+theophilelmn: checks 
+dodo2do: checks 
+*** TURN *** [Qs Th Ah] [Qh]
+theophilelmn: checks 
+dodo2do: bets 75
+theophilelmn: folds 
+Uncalled bet (75) returned to dodo2do
+dodo2do collected 75 from pot
+dodo2do: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Qs Th Ah Qh]
+Seat 1: dodo2do (button) collected (75)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: theophilelmn (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259591715875: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:20:02 CET [2026/02/04 14:20:02 ET]
+Table '3972071864 1' 3-max Seat #2 is the button
+Seat 1: dodo2do (270 in chips) 
+Seat 2: mabeal1 (475 in chips) 
+Seat 3: theophilelmn (755 in chips) 
+theophilelmn: posts small blind 15
+dodo2do: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9s]
+mabeal1: folds 
+theophilelmn: folds 
+Uncalled bet (15) returned to dodo2do
+dodo2do collected 30 from pot
+dodo2do: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: dodo2do (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: theophilelmn (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591717540: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:20:08 CET [2026/02/04 14:20:08 ET]
+Table '3972071864 1' 3-max Seat #3 is the button
+Seat 1: dodo2do (285 in chips) 
+Seat 2: mabeal1 (475 in chips) 
+Seat 3: theophilelmn (740 in chips) 
+dodo2do: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 3s]
+theophilelmn: calls 30
+dodo2do: calls 15
+mabeal1: checks 
+*** FLOP *** [5c Ad 5h]
+dodo2do: checks 
+mabeal1: bets 60
+theophilelmn: folds 
+dodo2do: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5c Ad 5h]
+Seat 1: dodo2do (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (90)
+Seat 3: theophilelmn (button) folded on the Flop
+
+
+
+PokerStars Hand #259591722383: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:20:27 CET [2026/02/04 14:20:27 ET]
+Table '3972071864 1' 3-max Seat #1 is the button
+Seat 1: dodo2do (255 in chips) 
+Seat 2: mabeal1 (535 in chips) 
+Seat 3: theophilelmn (710 in chips) 
+mabeal1: posts small blind 15
+theophilelmn: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 9h]
+dodo2do: calls 30
+mabeal1: calls 15
+theophilelmn: checks 
+*** FLOP *** [5h As 7d]
+mabeal1: checks 
+theophilelmn: checks 
+dodo2do: bets 90
+mabeal1: folds 
+theophilelmn: folds 
+Uncalled bet (90) returned to dodo2do
+dodo2do collected 90 from pot
+dodo2do: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5h As 7d]
+Seat 1: dodo2do (button) collected (90)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: theophilelmn (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259591729440: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:20:54 CET [2026/02/04 14:20:54 ET]
+Table '3972071864 1' 3-max Seat #2 is the button
+Seat 1: dodo2do (315 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: theophilelmn (680 in chips) 
+theophilelmn: posts small blind 20
+dodo2do: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 2s]
+mabeal1: folds 
+theophilelmn: raises 40 to 80
+dodo2do: calls 40
+*** FLOP *** [6c 7d 9s]
+theophilelmn: checks 
+dodo2do: bets 40
+theophilelmn: calls 40
+*** TURN *** [6c 7d 9s] [Kd]
+theophilelmn: checks 
+dodo2do: bets 195 and is all-in
+theophilelmn: folds 
+Uncalled bet (195) returned to dodo2do
+dodo2do collected 240 from pot
+dodo2do: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6c 7d 9s Kd]
+Seat 1: dodo2do (big blind) collected (240)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: theophilelmn (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259591735427: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:21:18 CET [2026/02/04 14:21:18 ET]
+Table '3972071864 1' 3-max Seat #3 is the button
+Seat 1: dodo2do (435 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: theophilelmn (560 in chips) 
+dodo2do: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Ac]
+theophilelmn: folds 
+dodo2do: calls 20
+mabeal1: raises 465 to 505 and is all-in
+dodo2do: folds 
+Uncalled bet (465) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: dodo2do (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: theophilelmn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591737501: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:21:26 CET [2026/02/04 14:21:26 ET]
+Table '3972071864 1' 3-max Seat #1 is the button
+Seat 1: dodo2do (395 in chips) 
+Seat 2: mabeal1 (545 in chips) 
+Seat 3: theophilelmn (560 in chips) 
+mabeal1: posts small blind 20
+theophilelmn: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 2s]
+dodo2do: calls 40
+mabeal1: folds 
+theophilelmn: checks 
+*** FLOP *** [7c 8d 6s]
+theophilelmn: checks 
+dodo2do: bets 40
+theophilelmn: folds 
+Uncalled bet (40) returned to dodo2do
+dodo2do collected 100 from pot
+dodo2do: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7c 8d 6s]
+Seat 1: dodo2do (button) collected (100)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: theophilelmn (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259591741004: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:21:39 CET [2026/02/04 14:21:39 ET]
+Table '3972071864 1' 3-max Seat #2 is the button
+Seat 1: dodo2do (455 in chips) 
+Seat 2: mabeal1 (525 in chips) 
+Seat 3: theophilelmn (520 in chips) 
+theophilelmn: posts small blind 20
+dodo2do: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 2h]
+mabeal1: raises 485 to 525 and is all-in
+theophilelmn: folds 
+dodo2do: folds 
+Uncalled bet (485) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: dodo2do (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (100)
+Seat 3: theophilelmn (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591743454: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:21:48 CET [2026/02/04 14:21:48 ET]
+Table '3972071864 1' 3-max Seat #3 is the button
+Seat 1: dodo2do (415 in chips) 
+Seat 2: mabeal1 (585 in chips) 
+Seat 3: theophilelmn (500 in chips) 
+dodo2do: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4d]
+theophilelmn: raises 460 to 500 and is all-in
+dodo2do: folds 
+mabeal1: folds 
+Uncalled bet (460) returned to theophilelmn
+theophilelmn collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: dodo2do (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: theophilelmn (button) collected (100)
+
+
+
+PokerStars Hand #259591745238: Tournament #3972071864, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:21:55 CET [2026/02/04 14:21:55 ET]
+Table '3972071864 1' 3-max Seat #1 is the button
+Seat 1: dodo2do (395 in chips) 
+Seat 2: mabeal1 (545 in chips) 
+Seat 3: theophilelmn (560 in chips) 
+mabeal1: posts small blind 20
+theophilelmn: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Td]
+dodo2do: calls 40
+mabeal1: calls 20
+theophilelmn: checks 
+*** FLOP *** [5c 5s 8c]
+mabeal1: checks 
+theophilelmn: checks 
+dodo2do: checks 
+*** TURN *** [5c 5s 8c] [8d]
+mabeal1: bets 90
+theophilelmn: calls 90
+dodo2do: folds 
+*** RIVER *** [5c 5s 8c 8d] [Jd]
+mabeal1: bets 415 and is all-in
+theophilelmn: calls 415
+*** SHOW DOWN ***
+mabeal1: shows [7h Td] (two pair, Eights and Fives)
+theophilelmn: shows [5d 9d] (a full house, Fives full of Eights)
+theophilelmn collected 1130 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1130 | Rake 0 
+Board [5c 5s 8c 8d Jd]
+Seat 1: dodo2do (button) folded on the Turn
+Seat 2: mabeal1 (small blind) showed [7h Td] and lost with two pair, Eights and Fives
+Seat 3: theophilelmn (big blind) showed [5d 9d] and won (1130) with a full house, Fives full of Eights
+
+
+

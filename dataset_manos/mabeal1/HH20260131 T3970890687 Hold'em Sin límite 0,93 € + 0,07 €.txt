@@ -1,0 +1,397 @@
+﻿PokerStars Hand #259538693905: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:55:28 CET [2026/01/31 14:55:28 ET]
+Table '3970890687 1' 3-max Seat #1 is the button
+Seat 1: killeur25 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Marinexxis (500 in chips) 
+mabeal1: posts small blind 10
+Marinexxis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Jh]
+killeur25: folds 
+mabeal1: raises 40 to 60
+Marinexxis: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: killeur25 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: Marinexxis (big blind) folded before Flop
+
+
+
+PokerStars Hand #259538695684: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:55:39 CET [2026/01/31 14:55:39 ET]
+Table '3970890687 1' 3-max Seat #2 is the button
+Seat 1: killeur25 (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Marinexxis (480 in chips) 
+Marinexxis: posts small blind 10
+killeur25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Tc]
+mabeal1: folds 
+Marinexxis: raises 460 to 480 and is all-in
+killeur25: calls 460
+*** FLOP *** [5h 2h 9c]
+*** TURN *** [5h 2h 9c] [Ks]
+*** RIVER *** [5h 2h 9c Ks] [5c]
+*** SHOW DOWN ***
+Marinexxis: shows [Qs Jd] (a pair of Fives)
+killeur25: shows [8h 8d] (two pair, Eights and Fives)
+killeur25 collected 960 from pot
+Marinexxis finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [5h 2h 9c Ks 5c]
+Seat 1: killeur25 (big blind) showed [8h 8d] and won (960) with two pair, Eights and Fives
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Marinexxis (small blind) showed [Qs Jd] and lost with a pair of Fives
+
+
+
+PokerStars Hand #259538698784: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:56:00 CET [2026/01/31 14:56:00 ET]
+Table '3970890687 1' 3-max Seat #1 is the button
+Seat 1: killeur25 (980 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+killeur25: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 6d]
+killeur25: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: killeur25 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259538699616: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:56:05 CET [2026/01/31 14:56:05 ET]
+Table '3970890687 1' 3-max Seat #2 is the button
+Seat 1: killeur25 (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+mabeal1: posts small blind 10
+killeur25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ah]
+mabeal1: raises 40 to 60
+killeur25: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: killeur25 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259538700754: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:56:13 CET [2026/01/31 14:56:13 ET]
+Table '3970890687 1' 3-max Seat #1 is the button
+Seat 1: killeur25 (950 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+killeur25: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qh]
+killeur25: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Td Tc 9c]
+mabeal1: checks 
+killeur25: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to killeur25
+killeur25 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td Tc 9c]
+Seat 1: killeur25 (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259538702419: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:56:24 CET [2026/01/31 14:56:24 ET]
+Table '3970890687 1' 3-max Seat #2 is the button
+Seat 1: killeur25 (990 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+mabeal1: posts small blind 10
+killeur25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Jd]
+mabeal1: calls 10
+killeur25: checks 
+*** FLOP *** [Th Kc 8c]
+killeur25: checks 
+mabeal1: checks 
+*** TURN *** [Th Kc 8c] [5h]
+killeur25: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to killeur25
+killeur25 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th Kc 8c 5h]
+Seat 1: killeur25 (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259538706866: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:56:52 CET [2026/01/31 14:56:52 ET]
+Table '3970890687 1' 3-max Seat #1 is the button
+Seat 1: killeur25 (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+killeur25: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 6c]
+killeur25: raises 20 to 40
+mabeal1: raises 450 to 490 and is all-in
+killeur25: folds 
+Uncalled bet (450) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: killeur25 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259538708182: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:57:01 CET [2026/01/31 14:57:01 ET]
+Table '3970890687 1' 3-max Seat #2 is the button
+Seat 1: killeur25 (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+mabeal1: posts small blind 10
+killeur25: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Jd]
+mabeal1: calls 10
+killeur25: checks 
+*** FLOP *** [Jh 4d 6d]
+killeur25: checks 
+mabeal1: bets 20
+killeur25: calls 20
+*** TURN *** [Jh 4d 6d] [7h]
+killeur25: checks 
+mabeal1: bets 60
+killeur25: calls 60
+*** RIVER *** [Jh 4d 6d 7h] [Qc]
+killeur25: checks 
+mabeal1: bets 100
+killeur25: calls 100
+*** SHOW DOWN ***
+mabeal1: shows [5h Jd] (a pair of Jacks)
+killeur25: mucks hand 
+mabeal1 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Jh 4d 6d 7h Qc]
+Seat 1: killeur25 (big blind) mucked [3s 6h]
+Seat 2: mabeal1 (button) (small blind) showed [5h Jd] and won (400) with a pair of Jacks
+
+
+
+PokerStars Hand #259538711495: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:57:22 CET [2026/01/31 14:57:22 ET]
+Table '3970890687 1' 3-max Seat #1 is the button
+Seat 1: killeur25 (770 in chips) 
+Seat 2: mabeal1 (730 in chips) 
+killeur25: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 4h]
+killeur25: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: killeur25 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259538712974: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 20:57:32 CET [2026/01/31 14:57:32 ET]
+Table '3970890687 1' 3-max Seat #2 is the button
+Seat 1: killeur25 (760 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+mabeal1: posts small blind 15
+killeur25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3c]
+mabeal1: calls 15
+killeur25: checks 
+*** FLOP *** [8d Ah 8s]
+killeur25: checks 
+mabeal1: bets 30
+killeur25: calls 30
+*** TURN *** [8d Ah 8s] [9c]
+killeur25: checks 
+mabeal1: checks 
+*** RIVER *** [8d Ah 8s 9c] [6h]
+killeur25: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to killeur25
+killeur25 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d Ah 8s 9c 6h]
+Seat 1: killeur25 (big blind) collected (120)
+Seat 2: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259538715512: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 20:57:48 CET [2026/01/31 14:57:48 ET]
+Table '3970890687 1' 3-max Seat #1 is the button
+Seat 1: killeur25 (820 in chips) 
+Seat 2: mabeal1 (680 in chips) 
+killeur25: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Qd]
+killeur25: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: killeur25 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259538716293: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 20:57:53 CET [2026/01/31 14:57:53 ET]
+Table '3970890687 1' 3-max Seat #2 is the button
+Seat 1: killeur25 (805 in chips) 
+Seat 2: mabeal1 (695 in chips) 
+mabeal1: posts small blind 15
+killeur25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 2c]
+mabeal1: raises 665 to 695 and is all-in
+killeur25: folds 
+Uncalled bet (665) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: killeur25 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259538717337: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 20:58:00 CET [2026/01/31 14:58:00 ET]
+Table '3970890687 1' 3-max Seat #1 is the button
+Seat 1: killeur25 (775 in chips) 
+Seat 2: mabeal1 (725 in chips) 
+killeur25: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 7h]
+killeur25: calls 15
+mabeal1: checks 
+*** FLOP *** [3d Ad 6s]
+mabeal1: checks 
+killeur25: checks 
+*** TURN *** [3d Ad 6s] [3c]
+mabeal1: checks 
+killeur25: checks 
+*** RIVER *** [3d Ad 6s 3c] [Kd]
+mabeal1: checks 
+killeur25: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to killeur25
+killeur25 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d Ad 6s 3c Kd]
+Seat 1: killeur25 (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259538720547: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 20:58:22 CET [2026/01/31 14:58:22 ET]
+Table '3970890687 1' 3-max Seat #2 is the button
+Seat 1: killeur25 (805 in chips) 
+Seat 2: mabeal1 (695 in chips) 
+mabeal1: posts small blind 15
+killeur25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Qs]
+mabeal1: calls 15
+killeur25: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Ah 5h Td]
+killeur25: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to killeur25
+killeur25 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah 5h Td]
+Seat 1: killeur25 (big blind) collected (120)
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259538722557: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 20:58:35 CET [2026/01/31 14:58:35 ET]
+Table '3970890687 1' 3-max Seat #1 is the button
+Seat 1: killeur25 (865 in chips) 
+Seat 2: mabeal1 (635 in chips) 
+killeur25: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 9h]
+killeur25: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [2h 4h 8h]
+mabeal1: checks 
+killeur25: bets 60
+mabeal1: raises 180 to 240
+killeur25: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h 4h 8h]
+Seat 1: killeur25 (button) (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (240)
+
+
+
+PokerStars Hand #259538726158: Tournament #3970890687, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 20:58:58 CET [2026/01/31 14:58:58 ET]
+Table '3970890687 1' 3-max Seat #2 is the button
+Seat 1: killeur25 (745 in chips) 
+Seat 2: mabeal1 (755 in chips) 
+mabeal1: posts small blind 15
+killeur25: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ad]
+mabeal1: raises 30 to 60
+killeur25: calls 30
+*** FLOP *** [Qh 7c Ah]
+killeur25: checks 
+mabeal1: checks 
+*** TURN *** [Qh 7c Ah] [9s]
+killeur25: bets 60
+mabeal1: calls 60
+*** RIVER *** [Qh 7c Ah 9s] [4d]
+killeur25: bets 240
+mabeal1: raises 395 to 635 and is all-in
+killeur25: calls 385 and is all-in
+Uncalled bet (10) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Kh Ad] (a pair of Aces)
+killeur25: shows [9c Qs] (two pair, Queens and Nines)
+killeur25 collected 1490 from pot
+*** SUMMARY ***
+Total pot 1490 | Rake 0 
+Board [Qh 7c Ah 9s 4d]
+Seat 1: killeur25 (big blind) showed [9c Qs] and won (1490) with two pair, Queens and Nines
+Seat 2: mabeal1 (button) (small blind) showed [Kh Ad] and lost with a pair of Aces
+
+
+

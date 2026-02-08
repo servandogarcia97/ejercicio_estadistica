@@ -1,0 +1,550 @@
+﻿PokerStars Hand #259595212840: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:09:13 CET [2026/02/04 18:09:13 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: limp_play (500 in chips) 
+Seat 3: giulian0810 (500 in chips) 
+limp_play: posts small blind 10
+giulian0810: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 5h]
+mabeal1: folds 
+limp_play: folds 
+Uncalled bet (10) returned to giulian0810
+giulian0810 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: limp_play (small blind) folded before Flop
+Seat 3: giulian0810 (big blind) collected (20)
+
+
+
+PokerStars Hand #259595214841: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:09:22 CET [2026/02/04 18:09:22 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: limp_play (490 in chips) 
+Seat 3: giulian0810 (510 in chips) 
+giulian0810: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d As]
+limp_play: folds 
+giulian0810: calls 10
+mabeal1: raises 480 to 500 and is all-in
+giulian0810: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: limp_play (button) folded before Flop (didn't bet)
+Seat 3: giulian0810 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595218490: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:09:38 CET [2026/02/04 18:09:38 ET]
+Table '3972147853 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: limp_play (490 in chips) 
+Seat 3: giulian0810 (490 in chips) 
+mabeal1: posts small blind 10
+limp_play: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Td]
+giulian0810: calls 20
+mabeal1: raises 40 to 60
+limp_play: folds 
+giulian0810: calls 40
+*** FLOP *** [2h Kh 5c]
+mabeal1: bets 70
+giulian0810: calls 70
+*** TURN *** [2h Kh 5c] [2c]
+mabeal1: bets 220
+giulian0810: calls 220
+*** RIVER *** [2h Kh 5c 2c] [Kc]
+mabeal1: bets 170 and is all-in
+giulian0810: folds 
+Uncalled bet (170) returned to mabeal1
+mabeal1 collected 720 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [2h Kh 5c 2c Kc]
+Seat 1: mabeal1 (small blind) collected (720)
+Seat 2: limp_play (big blind) folded before Flop
+Seat 3: giulian0810 (button) folded on the River
+
+
+
+PokerStars Hand #259595225310: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:10:07 CET [2026/02/04 18:10:07 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 2: limp_play (470 in chips) 
+Seat 3: giulian0810 (140 in chips) 
+limp_play: posts small blind 10
+giulian0810: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 7d]
+mabeal1: folds 
+limp_play: folds 
+Uncalled bet (10) returned to giulian0810
+giulian0810 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: limp_play (small blind) folded before Flop
+Seat 3: giulian0810 (big blind) collected (20)
+
+
+
+PokerStars Hand #259595227878: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:10:18 CET [2026/02/04 18:10:18 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 2: limp_play (460 in chips) 
+Seat 3: giulian0810 (150 in chips) 
+giulian0810: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9c]
+limp_play: folds 
+giulian0810: calls 10
+mabeal1: checks 
+*** FLOP *** [5s 8s 6d]
+giulian0810: checks 
+mabeal1: bets 30
+giulian0810: calls 30
+*** TURN *** [5s 8s 6d] [3h]
+giulian0810: checks 
+mabeal1: bets 840 and is all-in
+giulian0810: calls 100 and is all-in
+Uncalled bet (740) returned to mabeal1
+*** RIVER *** [5s 8s 6d 3h] [Qh]
+*** SHOW DOWN ***
+giulian0810: shows [5c Ts] (a pair of Fives)
+mabeal1: shows [8d 9c] (a pair of Eights)
+mabeal1 collected 300 from pot
+giulian0810 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [5s 8s 6d 3h Qh]
+Seat 1: mabeal1 (big blind) showed [8d 9c] and won (300) with a pair of Eights
+Seat 2: limp_play (button) folded before Flop (didn't bet)
+Seat 3: giulian0810 (small blind) showed [5c Ts] and lost with a pair of Fives
+
+
+
+PokerStars Hand #259595233350: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:10:42 CET [2026/02/04 18:10:42 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 2: limp_play (460 in chips) 
+mabeal1: posts small blind 10
+limp_play: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 6h]
+mabeal1: calls 10
+limp_play: checks 
+*** FLOP *** [Td Jc 9h]
+limp_play: checks 
+mabeal1: bets 30
+limp_play: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td Jc 9h]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: limp_play (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259595236798: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:10:57 CET [2026/02/04 18:10:57 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 2: limp_play (440 in chips) 
+limp_play: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 7d]
+limp_play: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: limp_play (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595237978: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:11:02 CET [2026/02/04 18:11:02 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 2: limp_play (430 in chips) 
+mabeal1: posts small blind 10
+limp_play: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 9s]
+mabeal1: raises 30 to 50
+limp_play: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: limp_play (big blind) folded before Flop
+
+
+
+PokerStars Hand #259595240873: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:11:14 CET [2026/02/04 18:11:14 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 2: limp_play (410 in chips) 
+limp_play: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 8h]
+limp_play: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [5h 2d Ts]
+mabeal1: checks 
+limp_play: bets 20
+mabeal1: calls 20
+*** TURN *** [5h 2d Ts] [Kc]
+mabeal1: checks 
+limp_play: checks 
+*** RIVER *** [5h 2d Ts Kc] [5c]
+mabeal1: checks 
+limp_play: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to limp_play
+limp_play collected 120 from pot
+limp_play: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h 2d Ts Kc 5c]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: limp_play (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259595250088: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:11:54 CET [2026/02/04 18:11:54 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 2: limp_play (470 in chips) 
+mabeal1: posts small blind 10
+limp_play: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6d]
+mabeal1: calls 10
+limp_play: checks 
+*** FLOP *** [7d Kh 8c]
+limp_play: checks 
+mabeal1: bets 20
+limp_play: calls 20
+*** TURN *** [7d Kh 8c] [Qs]
+limp_play: checks 
+mabeal1: bets 60
+limp_play: calls 60
+*** RIVER *** [7d Kh 8c Qs] [8s]
+limp_play: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+limp_play: shows [Ks 3s] (two pair, Kings and Eights)
+mabeal1: mucks hand 
+limp_play collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7d Kh 8c Qs 8s]
+Seat 1: mabeal1 (button) (small blind) mucked [4d 6d]
+Seat 2: limp_play (big blind) showed [Ks 3s] and won (200) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #259595260265: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:12:38 CET [2026/02/04 18:12:38 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (930 in chips) 
+Seat 2: limp_play (570 in chips) 
+limp_play: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3s]
+limp_play: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: limp_play (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595261405: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:12:43 CET [2026/02/04 18:12:43 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (945 in chips) 
+Seat 2: limp_play (555 in chips) 
+mabeal1: posts small blind 15
+limp_play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 6c]
+mabeal1: raises 45 to 75
+limp_play: calls 45
+*** FLOP *** [7d Qh 4d]
+limp_play: checks 
+mabeal1: bets 60
+limp_play: calls 60
+*** TURN *** [7d Qh 4d] [As]
+limp_play: checks 
+mabeal1: bets 203
+limp_play: folds 
+Uncalled bet (203) returned to mabeal1
+mabeal1 collected 270 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [7d Qh 4d As]
+Seat 1: mabeal1 (button) (small blind) collected (270)
+Seat 2: limp_play (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259595266329: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:13:04 CET [2026/02/04 18:13:04 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1080 in chips) 
+Seat 2: limp_play (420 in chips) 
+limp_play: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Jd]
+limp_play: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: limp_play (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595267388: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:13:09 CET [2026/02/04 18:13:09 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1095 in chips) 
+Seat 2: limp_play (405 in chips) 
+mabeal1: posts small blind 15
+limp_play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Jh]
+mabeal1: raises 30 to 60
+limp_play: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: limp_play (big blind) folded before Flop
+
+
+
+PokerStars Hand #259595269804: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:13:20 CET [2026/02/04 18:13:20 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1125 in chips) 
+Seat 2: limp_play (375 in chips) 
+limp_play: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Tc]
+limp_play: calls 15
+mabeal1: checks 
+*** FLOP *** [Th Kh 2d]
+mabeal1: checks 
+limp_play: bets 30
+mabeal1: calls 30
+*** TURN *** [Th Kh 2d] [3h]
+mabeal1: checks 
+limp_play: checks 
+*** RIVER *** [Th Kh 2d 3h] [Js]
+mabeal1: bets 45
+limp_play: calls 45
+*** SHOW DOWN ***
+mabeal1: shows [5d Tc] (a pair of Tens)
+limp_play: shows [Ts Ad] (a pair of Tens - Ace kicker)
+limp_play collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Th Kh 2d 3h Js]
+Seat 1: mabeal1 (big blind) showed [5d Tc] and lost with a pair of Tens
+Seat 2: limp_play (button) (small blind) showed [Ts Ad] and won (210) with a pair of Tens
+
+
+
+PokerStars Hand #259595276289: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:13:48 CET [2026/02/04 18:13:48 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 2: limp_play (480 in chips) 
+mabeal1: posts small blind 15
+limp_play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Qh]
+mabeal1: calls 15
+limp_play: checks 
+*** FLOP *** [3d Tc 4c]
+limp_play: checks 
+mabeal1: checks 
+*** TURN *** [3d Tc 4c] [4d]
+limp_play: checks 
+mabeal1: checks 
+*** RIVER *** [3d Tc 4c 4d] [9d]
+limp_play: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+limp_play: shows [Qc 3c] (two pair, Fours and Threes)
+mabeal1: mucks hand 
+limp_play collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d Tc 4c 4d 9d]
+Seat 1: mabeal1 (button) (small blind) mucked [2c Qh]
+Seat 2: limp_play (big blind) showed [Qc 3c] and won (60) with two pair, Fours and Threes
+
+
+
+PokerStars Hand #259595280963: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:14:09 CET [2026/02/04 18:14:09 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 2: limp_play (510 in chips) 
+limp_play: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Jh]
+limp_play: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: limp_play (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595282561: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:14:15 CET [2026/02/04 18:14:15 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1005 in chips) 
+Seat 2: limp_play (495 in chips) 
+mabeal1: posts small blind 15
+limp_play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Jd]
+mabeal1: calls 15
+limp_play: raises 465 to 495 and is all-in
+mabeal1: folds 
+Uncalled bet (465) returned to limp_play
+limp_play collected 60 from pot
+limp_play: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: limp_play (big blind) collected (60)
+
+
+
+PokerStars Hand #259595284578: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:14:24 CET [2026/02/04 18:14:24 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (975 in chips) 
+Seat 2: limp_play (525 in chips) 
+limp_play: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 8d]
+limp_play: calls 15
+mabeal1: raises 945 to 975 and is all-in
+limp_play: folds 
+Uncalled bet (945) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: limp_play (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595287390: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:14:37 CET [2026/02/04 18:14:37 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1005 in chips) 
+Seat 2: limp_play (495 in chips) 
+mabeal1: posts small blind 15
+limp_play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 7s]
+mabeal1: calls 15
+limp_play: checks 
+*** FLOP *** [3c 2d Qs]
+limp_play: checks 
+mabeal1: bets 30
+limp_play: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c 2d Qs]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: limp_play (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259595290216: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:14:49 CET [2026/02/04 18:14:49 ET]
+Table '3972147853 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1035 in chips) 
+Seat 2: limp_play (465 in chips) 
+limp_play: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Ah]
+limp_play: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: limp_play (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595291682: Tournament #3972147853, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:14:55 CET [2026/02/04 18:14:55 ET]
+Table '3972147853 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 2: limp_play (450 in chips) 
+mabeal1: posts small blind 15
+limp_play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ks]
+mabeal1: calls 15
+limp_play: raises 60 to 90
+mabeal1: raises 960 to 1050 and is all-in
+limp_play: calls 360 and is all-in
+Uncalled bet (600) returned to mabeal1
+*** FLOP *** [7s 3h 6c]
+*** TURN *** [7s 3h 6c] [Jh]
+*** RIVER *** [7s 3h 6c Jh] [Qs]
+*** SHOW DOWN ***
+limp_play: shows [Ad Qh] (a pair of Queens)
+mabeal1: shows [Kh Ks] (a pair of Kings)
+mabeal1 collected 900 from pot
+limp_play finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [7s 3h 6c Jh Qs]
+Seat 1: mabeal1 (button) (small blind) showed [Kh Ks] and won (900) with a pair of Kings
+Seat 2: limp_play (big blind) showed [Ad Qh] and lost with a pair of Queens
+
+
+

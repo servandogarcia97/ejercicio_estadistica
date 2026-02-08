@@ -1,0 +1,37 @@
+﻿PokerStars Hand #259576679395: Tournament #3971725272, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:29:55 CET [2026/02/03 10:29:55 ET]
+Table '3971725272 1' 3-max Seat #1 is the button
+Seat 1: vitorino1988 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: victor_lf96 (500 in chips) 
+mabeal1: posts small blind 10
+victor_lf96: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5d]
+vitorino1988: folds 
+mabeal1: raises 30 to 50
+victor_lf96: calls 30
+*** FLOP *** [7h 7d 8s]
+mabeal1: bets 40
+victor_lf96: calls 40
+*** TURN *** [7h 7d 8s] [9c]
+mabeal1: checks 
+victor_lf96: bets 80
+mabeal1: calls 80
+*** RIVER *** [7h 7d 8s 9c] [6c]
+mabeal1: checks 
+victor_lf96: bets 330 and is all-in
+mabeal1: calls 330 and is all-in
+*** SHOW DOWN ***
+victor_lf96: shows [8d Td] (a straight, Six to Ten)
+mabeal1: shows [5h 5d] (a straight, Five to Nine)
+victor_lf96 collected 1000 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [7h 7d 8s 9c 6c]
+Seat 1: vitorino1988 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [5h 5d] and lost with a straight, Five to Nine
+Seat 3: victor_lf96 (big blind) showed [8d Td] and won (1000) with a straight, Six to Ten
+
+
+

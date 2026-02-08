@@ -1,0 +1,497 @@
+﻿PokerStars Hand #259601997054: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:50:17 CET [2026/02/05 10:50:17 ET]
+Table '3972321441 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (500 in chips) 
+Seat 2: funckynapalm (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+funckynapalm: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Th]
+sanc.pt: raises 20 to 40
+funckynapalm: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to sanc.pt
+sanc.pt collected 50 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: sanc.pt (button) collected (50)
+Seat 2: funckynapalm (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601998477: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:50:25 CET [2026/02/05 10:50:25 ET]
+Table '3972321441 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (530 in chips) 
+Seat 2: funckynapalm (490 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Tc]
+funckynapalm: folds 
+mabeal1: raises 30 to 50
+sanc.pt: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: sanc.pt (big blind) folded before Flop
+Seat 2: funckynapalm (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259602000305: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:50:36 CET [2026/02/05 10:50:36 ET]
+Table '3972321441 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (510 in chips) 
+Seat 2: funckynapalm (490 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+sanc.pt: posts small blind 10
+funckynapalm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ac]
+mabeal1: raises 20 to 40
+sanc.pt: folds 
+funckynapalm: calls 20
+*** FLOP *** [3s 5d Jc]
+funckynapalm: checks 
+mabeal1: checks 
+*** TURN *** [3s 5d Jc] [8c]
+funckynapalm: bets 40
+mabeal1: calls 40
+*** RIVER *** [3s 5d Jc 8c] [4s]
+funckynapalm: bets 100
+mabeal1: folds 
+Uncalled bet (100) returned to funckynapalm
+funckynapalm collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [3s 5d Jc 8c 4s]
+Seat 1: sanc.pt (small blind) folded before Flop
+Seat 2: funckynapalm (big blind) collected (170)
+Seat 3: mabeal1 (button) folded on the River
+
+
+
+PokerStars Hand #259602006436: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:51:12 CET [2026/02/05 10:51:12 ET]
+Table '3972321441 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (500 in chips) 
+Seat 2: funckynapalm (580 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+funckynapalm: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8s]
+sanc.pt: folds 
+funckynapalm: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [2s Js 4d]
+funckynapalm: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to funckynapalm
+funckynapalm collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s Js 4d]
+Seat 1: sanc.pt (button) folded before Flop (didn't bet)
+Seat 2: funckynapalm (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259602009738: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:51:31 CET [2026/02/05 10:51:31 ET]
+Table '3972321441 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (500 in chips) 
+Seat 2: funckynapalm (620 in chips) 
+Seat 3: mabeal1 (380 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 5d]
+funckynapalm: raises 20 to 40
+mabeal1: folds 
+sanc.pt: calls 20
+*** FLOP *** [Kh 9s 3d]
+sanc.pt: checks 
+funckynapalm: bets 40
+sanc.pt: folds 
+Uncalled bet (40) returned to funckynapalm
+funckynapalm collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Kh 9s 3d]
+Seat 1: sanc.pt (big blind) folded on the Flop
+Seat 2: funckynapalm (button) collected (90)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602013089: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:51:51 CET [2026/02/05 10:51:51 ET]
+Table '3972321441 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (460 in chips) 
+Seat 2: funckynapalm (670 in chips) 
+Seat 3: mabeal1 (370 in chips) 
+sanc.pt: posts small blind 10
+funckynapalm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7c]
+mabeal1: folds 
+sanc.pt: calls 10
+funckynapalm: raises 40 to 60
+sanc.pt: folds 
+Uncalled bet (40) returned to funckynapalm
+funckynapalm collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: sanc.pt (small blind) folded before Flop
+Seat 2: funckynapalm (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602016515: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:52:11 CET [2026/02/05 10:52:11 ET]
+Table '3972321441 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (440 in chips) 
+Seat 2: funckynapalm (690 in chips) 
+Seat 3: mabeal1 (370 in chips) 
+funckynapalm: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 3c]
+sanc.pt: raises 20 to 40
+funckynapalm: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to sanc.pt
+sanc.pt collected 50 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: sanc.pt (button) collected (50)
+Seat 2: funckynapalm (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602018274: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:52:21 CET [2026/02/05 10:52:21 ET]
+Table '3972321441 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (470 in chips) 
+Seat 2: funckynapalm (680 in chips) 
+Seat 3: mabeal1 (350 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5c]
+funckynapalm: raises 20 to 40
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (20) returned to funckynapalm
+funckynapalm collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: sanc.pt (big blind) folded before Flop
+Seat 2: funckynapalm (button) collected (50)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602020050: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:52:32 CET [2026/02/05 10:52:32 ET]
+Table '3972321441 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (450 in chips) 
+Seat 2: funckynapalm (710 in chips) 
+Seat 3: mabeal1 (340 in chips) 
+sanc.pt: posts small blind 10
+funckynapalm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 3h]
+mabeal1: folds 
+sanc.pt: raises 40 to 60
+funckynapalm: folds 
+Uncalled bet (40) returned to sanc.pt
+sanc.pt collected 40 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: sanc.pt (small blind) collected (40)
+Seat 2: funckynapalm (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602022261: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:52:45 CET [2026/02/05 10:52:45 ET]
+Table '3972321441 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (470 in chips) 
+Seat 2: funckynapalm (690 in chips) 
+Seat 3: mabeal1 (340 in chips) 
+funckynapalm: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 3h]
+sanc.pt: folds 
+funckynapalm: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to funckynapalm
+funckynapalm collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: sanc.pt (button) folded before Flop (didn't bet)
+Seat 2: funckynapalm (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602023693: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:52:53 CET [2026/02/05 10:52:53 ET]
+Table '3972321441 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (470 in chips) 
+Seat 2: funckynapalm (710 in chips) 
+Seat 3: mabeal1 (320 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Kh]
+funckynapalm: folds 
+mabeal1: raises 30 to 50
+sanc.pt: calls 30
+*** FLOP *** [5s Ad Qc]
+mabeal1: bets 40
+sanc.pt: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5s Ad Qc]
+Seat 1: sanc.pt (big blind) folded on the Flop
+Seat 2: funckynapalm (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (100)
+
+
+
+PokerStars Hand #259602027060: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:53:13 CET [2026/02/05 10:53:13 ET]
+Table '3972321441 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (420 in chips) 
+Seat 2: funckynapalm (710 in chips) 
+Seat 3: mabeal1 (370 in chips) 
+sanc.pt: posts small blind 10
+funckynapalm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 2h]
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (10) returned to funckynapalm
+funckynapalm collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: sanc.pt (small blind) folded before Flop
+Seat 2: funckynapalm (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602029852: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:53:30 CET [2026/02/05 10:53:30 ET]
+Table '3972321441 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (410 in chips) 
+Seat 2: funckynapalm (720 in chips) 
+Seat 3: mabeal1 (370 in chips) 
+funckynapalm: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 2c]
+sanc.pt: raises 30 to 60
+funckynapalm: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to sanc.pt
+sanc.pt collected 75 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: sanc.pt (button) collected (75)
+Seat 2: funckynapalm (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602030939: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:53:36 CET [2026/02/05 10:53:36 ET]
+Table '3972321441 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (455 in chips) 
+Seat 2: funckynapalm (705 in chips) 
+Seat 3: mabeal1 (340 in chips) 
+mabeal1: posts small blind 15
+sanc.pt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Qc]
+funckynapalm: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to sanc.pt
+sanc.pt collected 30 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: sanc.pt (big blind) collected (30)
+Seat 2: funckynapalm (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602032230: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:53:43 CET [2026/02/05 10:53:43 ET]
+Table '3972321441 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (470 in chips) 
+Seat 2: funckynapalm (705 in chips) 
+Seat 3: mabeal1 (325 in chips) 
+sanc.pt: posts small blind 15
+funckynapalm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Ah]
+mabeal1: raises 295 to 325 and is all-in
+sanc.pt: folds 
+funckynapalm: folds 
+Uncalled bet (295) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: sanc.pt (small blind) folded before Flop
+Seat 2: funckynapalm (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259602034362: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:53:56 CET [2026/02/05 10:53:56 ET]
+Table '3972321441 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (455 in chips) 
+Seat 2: funckynapalm (675 in chips) 
+Seat 3: mabeal1 (370 in chips) 
+funckynapalm: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 4h]
+sanc.pt: raises 30 to 60
+funckynapalm: folds 
+mabeal1: calls 30
+*** FLOP *** [3h 8h Jc]
+mabeal1: checks 
+sanc.pt: bets 60
+mabeal1: calls 60
+*** TURN *** [3h 8h Jc] [5d]
+mabeal1: checks 
+sanc.pt: bets 128
+mabeal1: calls 128
+*** RIVER *** [3h 8h Jc 5d] [6d]
+mabeal1: checks 
+sanc.pt: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qh 4h] (high card Queen)
+sanc.pt: shows [Ac Ah] (a pair of Aces)
+sanc.pt collected 511 from pot
+*** SUMMARY ***
+Total pot 511 | Rake 0 
+Board [3h 8h Jc 5d 6d]
+Seat 1: sanc.pt (button) showed [Ac Ah] and won (511) with a pair of Aces
+Seat 2: funckynapalm (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [Qh 4h] and lost with high card Queen
+
+
+
+PokerStars Hand #259602042132: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:54:41 CET [2026/02/05 10:54:41 ET]
+Table '3972321441 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (718 in chips) 
+Seat 2: funckynapalm (660 in chips) 
+Seat 3: mabeal1 (122 in chips) 
+mabeal1: posts small blind 15
+sanc.pt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7c]
+funckynapalm: folds 
+mabeal1: raises 92 to 122 and is all-in
+sanc.pt: folds 
+Uncalled bet (92) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: sanc.pt (big blind) folded before Flop
+Seat 2: funckynapalm (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259602044207: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:54:54 CET [2026/02/05 10:54:54 ET]
+Table '3972321441 1' 3-max Seat #3 is the button
+Seat 1: sanc.pt (688 in chips) 
+Seat 2: funckynapalm (660 in chips) 
+Seat 3: mabeal1 (152 in chips) 
+sanc.pt: posts small blind 15
+funckynapalm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4s]
+mabeal1: folds 
+sanc.pt: raises 30 to 60
+funckynapalm: folds 
+Uncalled bet (30) returned to sanc.pt
+sanc.pt collected 60 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: sanc.pt (small blind) collected (60)
+Seat 2: funckynapalm (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602047216: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:55:13 CET [2026/02/05 10:55:13 ET]
+Table '3972321441 1' 3-max Seat #1 is the button
+Seat 1: sanc.pt (718 in chips) 
+Seat 2: funckynapalm (630 in chips) 
+Seat 3: mabeal1 (152 in chips) 
+funckynapalm: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4d]
+sanc.pt: raises 30 to 60
+funckynapalm: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to sanc.pt
+sanc.pt collected 75 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: sanc.pt (button) collected (75)
+Seat 2: funckynapalm (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602048766: Tournament #3972321441, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:55:25 CET [2026/02/05 10:55:25 ET]
+Table '3972321441 1' 3-max Seat #2 is the button
+Seat 1: sanc.pt (763 in chips) 
+Seat 2: funckynapalm (615 in chips) 
+Seat 3: mabeal1 (122 in chips) 
+mabeal1: posts small blind 15
+sanc.pt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Kd]
+funckynapalm: raises 30 to 60
+mabeal1: raises 30 to 90
+sanc.pt: folds 
+funckynapalm: calls 30
+*** FLOP *** [3c Qh 5s]
+mabeal1: bets 32 and is all-in
+funckynapalm: calls 32
+*** TURN *** [3c Qh 5s] [Qs]
+*** RIVER *** [3c Qh 5s Qs] [Jh]
+*** SHOW DOWN ***
+mabeal1: shows [7d Kd] (a pair of Queens)
+funckynapalm: shows [5h Ks] (two pair, Queens and Fives)
+funckynapalm collected 274 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 274 | Rake 0 
+Board [3c Qh 5s Qs Jh]
+Seat 1: sanc.pt (big blind) folded before Flop
+Seat 2: funckynapalm (button) showed [5h Ks] and won (274) with two pair, Queens and Fives
+Seat 3: mabeal1 (small blind) showed [7d Kd] and lost with a pair of Queens
+
+
+

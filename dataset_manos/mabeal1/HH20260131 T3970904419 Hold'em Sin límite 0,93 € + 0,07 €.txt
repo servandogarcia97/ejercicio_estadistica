@@ -1,0 +1,887 @@
+﻿PokerStars Hand #259539369162: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:43:39 CET [2026/01/31 15:43:39 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Nelson A112 (500 in chips) 
+Seat 3: RatmU32 (500 in chips) 
+Nelson A112: posts small blind 10
+RatmU32: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5d]
+mabeal1: folds 
+Nelson A112: calls 10
+RatmU32: raises 480 to 500 and is all-in
+Nelson A112: folds 
+Uncalled bet (480) returned to RatmU32
+RatmU32 collected 40 from pot
+RatmU32: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Nelson A112 (small blind) folded before Flop
+Seat 3: RatmU32 (big blind) collected (40)
+
+
+
+PokerStars Hand #259539374231: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:43:59 CET [2026/01/31 15:43:59 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Nelson A112 (480 in chips) 
+Seat 3: RatmU32 (520 in chips) 
+RatmU32: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Ad]
+Nelson A112: calls 20
+RatmU32: calls 10
+mabeal1: raises 60 to 80
+Nelson A112: folds 
+RatmU32: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: Nelson A112 (button) folded before Flop
+Seat 3: RatmU32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539379356: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:44:20 CET [2026/01/31 15:44:20 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: Nelson A112 (460 in chips) 
+Seat 3: RatmU32 (500 in chips) 
+mabeal1: posts small blind 10
+Nelson A112: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Js]
+RatmU32: folds 
+mabeal1: raises 40 to 60
+Nelson A112: calls 40
+*** FLOP *** [Ah 3c Kd]
+mabeal1: bets 40
+Nelson A112: calls 40
+*** TURN *** [Ah 3c Kd] [Jd]
+mabeal1: bets 180
+Nelson A112: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ah 3c Kd Jd]
+Seat 1: mabeal1 (small blind) collected (200)
+Seat 2: Nelson A112 (big blind) folded on the Turn
+Seat 3: RatmU32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539385238: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:44:44 CET [2026/01/31 15:44:44 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (640 in chips) 
+Seat 2: Nelson A112 (360 in chips) 
+Seat 3: RatmU32 (500 in chips) 
+Nelson A112: posts small blind 10
+RatmU32: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Jc]
+mabeal1: raises 20 to 40
+Nelson A112: calls 30
+RatmU32: calls 20
+*** FLOP *** [6s Kh Ad]
+Nelson A112: checks 
+RatmU32: checks 
+mabeal1: checks 
+*** TURN *** [6s Kh Ad] [5s]
+Nelson A112: checks 
+RatmU32: checks 
+mabeal1: checks 
+*** RIVER *** [6s Kh Ad 5s] [Kd]
+Nelson A112: checks 
+RatmU32: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Nelson A112: shows [3d 4d] (a pair of Kings)
+RatmU32: shows [Js Qd] (a pair of Kings - Ace+Queen kicker)
+mabeal1: mucks hand 
+RatmU32 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6s Kh Ad 5s Kd]
+Seat 1: mabeal1 (button) mucked [Tc Jc]
+Seat 2: Nelson A112 (small blind) showed [3d 4d] and lost with a pair of Kings
+Seat 3: RatmU32 (big blind) showed [Js Qd] and won (120) with a pair of Kings
+
+
+
+PokerStars Hand #259539393191: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:45:17 CET [2026/01/31 15:45:17 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: Nelson A112 (320 in chips) 
+Seat 3: RatmU32 (580 in chips) 
+RatmU32: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Qh]
+Nelson A112: calls 20
+RatmU32: folds 
+mabeal1: raises 580 to 600 and is all-in
+Nelson A112: folds 
+Uncalled bet (580) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (50)
+Seat 2: Nelson A112 (button) folded before Flop
+Seat 3: RatmU32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539397299: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:45:34 CET [2026/01/31 15:45:34 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (630 in chips) 
+Seat 2: Nelson A112 (300 in chips) 
+Seat 3: RatmU32 (570 in chips) 
+mabeal1: posts small blind 10
+Nelson A112: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 3h]
+RatmU32: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Nelson A112
+Nelson A112 collected 20 from pot
+Nelson A112: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Nelson A112 (big blind) collected (20)
+Seat 3: RatmU32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539399032: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:45:41 CET [2026/01/31 15:45:41 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: Nelson A112 (310 in chips) 
+Seat 3: RatmU32 (570 in chips) 
+Nelson A112: posts small blind 10
+RatmU32: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 2s]
+mabeal1: raises 20 to 40
+Nelson A112: folds 
+RatmU32: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: Nelson A112 (small blind) folded before Flop
+Seat 3: RatmU32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259539400816: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:45:49 CET [2026/01/31 15:45:49 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: Nelson A112 (300 in chips) 
+Seat 3: RatmU32 (550 in chips) 
+RatmU32: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 7h]
+Nelson A112: calls 20
+RatmU32: calls 10
+mabeal1: checks 
+*** FLOP *** [Jc Kh 5s]
+RatmU32: checks 
+mabeal1: checks 
+Nelson A112: checks 
+*** TURN *** [Jc Kh 5s] [2d]
+RatmU32: checks 
+mabeal1: bets 40
+Nelson A112: calls 40
+RatmU32: folds 
+*** RIVER *** [Jc Kh 5s 2d] [4h]
+mabeal1: bets 590 and is all-in
+Nelson A112: folds 
+Uncalled bet (590) returned to mabeal1
+mabeal1 collected 140 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Jc Kh 5s 2d 4h]
+Seat 1: mabeal1 (big blind) collected (140)
+Seat 2: Nelson A112 (button) folded on the River
+Seat 3: RatmU32 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259539412115: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:46:34 CET [2026/01/31 15:46:34 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: Nelson A112 (240 in chips) 
+Seat 3: RatmU32 (530 in chips) 
+mabeal1: posts small blind 10
+Nelson A112: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 5s]
+RatmU32: folds 
+mabeal1: raises 20 to 40
+Nelson A112: calls 20
+*** FLOP *** [5h 6d 7s]
+mabeal1: bets 60
+Nelson A112: calls 60
+*** TURN *** [5h 6d 7s] [Qc]
+mabeal1: bets 630 and is all-in
+Nelson A112: folds 
+Uncalled bet (630) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5h 6d 7s Qc]
+Seat 1: mabeal1 (small blind) collected (200)
+Seat 2: Nelson A112 (big blind) folded on the Turn
+Seat 3: RatmU32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539420727: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:47:09 CET [2026/01/31 15:47:09 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 2: Nelson A112 (140 in chips) 
+Seat 3: RatmU32 (530 in chips) 
+Nelson A112: posts small blind 15
+RatmU32: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3s]
+mabeal1: folds 
+Nelson A112: folds 
+Uncalled bet (15) returned to RatmU32
+RatmU32 collected 30 from pot
+RatmU32: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Nelson A112 (small blind) folded before Flop
+Seat 3: RatmU32 (big blind) collected (30)
+
+
+
+PokerStars Hand #259539422518: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:47:16 CET [2026/01/31 15:47:16 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 2: Nelson A112 (125 in chips) 
+Seat 3: RatmU32 (545 in chips) 
+RatmU32: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 5h]
+Nelson A112: calls 30
+RatmU32: folds 
+mabeal1: raises 800 to 830 and is all-in
+Nelson A112: calls 95 and is all-in
+Uncalled bet (705) returned to mabeal1
+*** FLOP *** [2c Kc Qd]
+*** TURN *** [2c Kc Qd] [9c]
+*** RIVER *** [2c Kc Qd 9c] [Tc]
+*** SHOW DOWN ***
+mabeal1: shows [5s 5h] (a pair of Fives)
+Nelson A112: shows [Qh 9s] (two pair, Queens and Nines)
+Nelson A112 collected 265 from pot
+*** SUMMARY ***
+Total pot 265 | Rake 0 
+Board [2c Kc Qd 9c Tc]
+Seat 1: mabeal1 (big blind) showed [5s 5h] and lost with a pair of Fives
+Seat 2: Nelson A112 (button) showed [Qh 9s] and won (265) with two pair, Queens and Nines
+Seat 3: RatmU32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539427003: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:47:34 CET [2026/01/31 15:47:34 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (705 in chips) 
+Seat 2: Nelson A112 (265 in chips) 
+Seat 3: RatmU32 (530 in chips) 
+mabeal1: posts small blind 15
+Nelson A112: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5d]
+RatmU32: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Nelson A112
+Nelson A112 collected 30 from pot
+Nelson A112: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Nelson A112 (big blind) collected (30)
+Seat 3: RatmU32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539430059: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:47:46 CET [2026/01/31 15:47:46 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 2: Nelson A112 (280 in chips) 
+Seat 3: RatmU32 (530 in chips) 
+Nelson A112: posts small blind 15
+RatmU32: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Ah]
+mabeal1: raises 30 to 60
+Nelson A112: calls 45
+RatmU32: folds 
+*** FLOP *** [Qh 7d 5s]
+Nelson A112: checks 
+mabeal1: bets 60
+Nelson A112: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Qh 7d 5s]
+Seat 1: mabeal1 (button) collected (150)
+Seat 2: Nelson A112 (small blind) folded on the Flop
+Seat 3: RatmU32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259539435421: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:48:08 CET [2026/01/31 15:48:08 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: Nelson A112 (220 in chips) 
+Seat 3: RatmU32 (500 in chips) 
+RatmU32: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 9d]
+Nelson A112: calls 30
+RatmU32: folds 
+mabeal1: checks 
+*** FLOP *** [6d 6s 8c]
+mabeal1: checks 
+Nelson A112: checks 
+*** TURN *** [6d 6s 8c] [4d]
+mabeal1: checks 
+Nelson A112: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Nelson A112
+Nelson A112 collected 75 from pot
+Nelson A112: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [6d 6s 8c 4d]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Nelson A112 (button) collected (75)
+Seat 3: RatmU32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539440678: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:48:29 CET [2026/01/31 15:48:29 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (750 in chips) 
+Seat 2: Nelson A112 (265 in chips) 
+Seat 3: RatmU32 (485 in chips) 
+mabeal1: posts small blind 15
+Nelson A112: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Js]
+RatmU32: folds 
+mabeal1: raises 720 to 750 and is all-in
+Nelson A112: folds 
+Uncalled bet (720) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: Nelson A112 (big blind) folded before Flop
+Seat 3: RatmU32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539444029: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:48:43 CET [2026/01/31 15:48:43 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: Nelson A112 (235 in chips) 
+Seat 3: RatmU32 (485 in chips) 
+Nelson A112: posts small blind 15
+RatmU32: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6d]
+mabeal1: folds 
+Nelson A112: folds 
+Uncalled bet (15) returned to RatmU32
+RatmU32 collected 30 from pot
+RatmU32: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Nelson A112 (small blind) folded before Flop
+Seat 3: RatmU32 (big blind) collected (30)
+
+
+
+PokerStars Hand #259539447010: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:48:55 CET [2026/01/31 15:48:55 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: Nelson A112 (220 in chips) 
+Seat 3: RatmU32 (500 in chips) 
+RatmU32: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 7h]
+Nelson A112: calls 30
+RatmU32: calls 15
+mabeal1: checks 
+*** FLOP *** [Kd 3c Th]
+RatmU32: checks 
+mabeal1: checks 
+Nelson A112: checks 
+*** TURN *** [Kd 3c Th] [5c]
+RatmU32: checks 
+mabeal1: checks 
+Nelson A112: bets 30
+RatmU32: calls 30
+mabeal1: folds 
+*** RIVER *** [Kd 3c Th 5c] [3d]
+RatmU32: checks 
+Nelson A112: checks 
+*** SHOW DOWN ***
+RatmU32: shows [Ts 9s] (two pair, Tens and Threes)
+Nelson A112: mucks hand 
+RatmU32 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Kd 3c Th 5c 3d]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Nelson A112 (button) mucked [2c 6c]
+Seat 3: RatmU32 (small blind) showed [Ts 9s] and won (150) with two pair, Tens and Threes
+
+
+
+PokerStars Hand #259539456420: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 21:49:33 CET [2026/01/31 15:49:33 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (750 in chips) 
+Seat 2: Nelson A112 (160 in chips) 
+Seat 3: RatmU32 (590 in chips) 
+mabeal1: posts small blind 15
+Nelson A112: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9s]
+RatmU32: folds 
+mabeal1: raises 720 to 750 and is all-in
+Nelson A112: folds 
+Uncalled bet (720) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: Nelson A112 (big blind) folded before Flop
+Seat 3: RatmU32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539460919: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:49:51 CET [2026/01/31 15:49:51 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: Nelson A112 (130 in chips) 
+Seat 3: RatmU32 (590 in chips) 
+Nelson A112: posts small blind 20
+RatmU32: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3d]
+mabeal1: folds 
+Nelson A112: folds 
+Uncalled bet (20) returned to RatmU32
+RatmU32 collected 40 from pot
+RatmU32: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Nelson A112 (small blind) folded before Flop
+Seat 3: RatmU32 (big blind) collected (40)
+
+
+
+PokerStars Hand #259539462533: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:49:58 CET [2026/01/31 15:49:58 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: Nelson A112 (110 in chips) 
+Seat 3: RatmU32 (610 in chips) 
+RatmU32: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7s]
+Nelson A112: folds 
+RatmU32: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Nelson A112 (button) folded before Flop (didn't bet)
+Seat 3: RatmU32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539463913: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:50:04 CET [2026/01/31 15:50:04 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (800 in chips) 
+Seat 2: Nelson A112 (110 in chips) 
+Seat 3: RatmU32 (590 in chips) 
+mabeal1: posts small blind 20
+Nelson A112: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 4c]
+RatmU32: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Nelson A112
+Nelson A112 collected 40 from pot
+Nelson A112: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Nelson A112 (big blind) collected (40)
+Seat 3: RatmU32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539465928: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:50:12 CET [2026/01/31 15:50:12 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: Nelson A112 (130 in chips) 
+Seat 3: RatmU32 (590 in chips) 
+Nelson A112: posts small blind 20
+RatmU32: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2h]
+mabeal1: folds 
+Nelson A112: folds 
+Uncalled bet (20) returned to RatmU32
+RatmU32 collected 40 from pot
+RatmU32: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Nelson A112 (small blind) folded before Flop
+Seat 3: RatmU32 (big blind) collected (40)
+
+
+
+PokerStars Hand #259539467594: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:50:19 CET [2026/01/31 15:50:19 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: Nelson A112 (110 in chips) 
+Seat 3: RatmU32 (610 in chips) 
+RatmU32: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Kc]
+Nelson A112: raises 70 to 110 and is all-in
+RatmU32: folds 
+mabeal1: calls 70
+*** FLOP *** [6s 7h 8s]
+*** TURN *** [6s 7h 8s] [4c]
+*** RIVER *** [6s 7h 8s 4c] [3h]
+*** SHOW DOWN ***
+mabeal1: shows [6h Kc] (a pair of Sixes)
+Nelson A112: shows [5c Kh] (a straight, Four to Eight)
+Nelson A112 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6s 7h 8s 4c 3h]
+Seat 1: mabeal1 (big blind) showed [6h Kc] and lost with a pair of Sixes
+Seat 2: Nelson A112 (button) showed [5c Kh] and won (240) with a straight, Four to Eight
+Seat 3: RatmU32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539472436: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:50:38 CET [2026/01/31 15:50:38 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (670 in chips) 
+Seat 2: Nelson A112 (240 in chips) 
+Seat 3: RatmU32 (590 in chips) 
+mabeal1: posts small blind 20
+Nelson A112: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 6h]
+RatmU32: folds 
+mabeal1: raises 630 to 670 and is all-in
+Nelson A112: folds 
+Uncalled bet (630) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (80)
+Seat 2: Nelson A112 (big blind) folded before Flop
+Seat 3: RatmU32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539478743: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:51:03 CET [2026/01/31 15:51:03 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 2: Nelson A112 (200 in chips) 
+Seat 3: RatmU32 (590 in chips) 
+Nelson A112: posts small blind 20
+RatmU32: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5d]
+mabeal1: folds 
+Nelson A112: calls 20
+RatmU32: raises 550 to 590 and is all-in
+Nelson A112: folds 
+Uncalled bet (550) returned to RatmU32
+RatmU32 collected 80 from pot
+RatmU32: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Nelson A112 (small blind) folded before Flop
+Seat 3: RatmU32 (big blind) collected (80)
+
+
+
+PokerStars Hand #259539481926: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:51:16 CET [2026/01/31 15:51:16 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 2: Nelson A112 (160 in chips) 
+Seat 3: RatmU32 (630 in chips) 
+RatmU32: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Kc]
+Nelson A112: calls 40
+RatmU32: calls 20
+mabeal1: raises 670 to 710 and is all-in
+Nelson A112: folds 
+RatmU32: folds 
+Uncalled bet (670) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: Nelson A112 (button) folded before Flop
+Seat 3: RatmU32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539485519: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:51:31 CET [2026/01/31 15:51:31 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (790 in chips) 
+Seat 2: Nelson A112 (120 in chips) 
+Seat 3: RatmU32 (590 in chips) 
+mabeal1: posts small blind 20
+Nelson A112: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 4h]
+RatmU32: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Nelson A112
+Nelson A112 collected 40 from pot
+Nelson A112: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Nelson A112 (big blind) collected (40)
+Seat 3: RatmU32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539487080: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:51:37 CET [2026/01/31 15:51:37 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (770 in chips) 
+Seat 2: Nelson A112 (140 in chips) 
+Seat 3: RatmU32 (590 in chips) 
+Nelson A112: posts small blind 20
+RatmU32: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Kc]
+mabeal1: raises 40 to 80
+Nelson A112: folds 
+RatmU32: raises 510 to 590 and is all-in
+mabeal1: folds 
+Uncalled bet (510) returned to RatmU32
+RatmU32 collected 180 from pot
+RatmU32: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: Nelson A112 (small blind) folded before Flop
+Seat 3: RatmU32 (big blind) collected (180)
+
+
+
+PokerStars Hand #259539491790: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:51:57 CET [2026/01/31 15:51:57 ET]
+Table '3970904419 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 2: Nelson A112 (120 in chips) 
+Seat 3: RatmU32 (690 in chips) 
+RatmU32: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ah]
+Nelson A112: raises 80 to 120 and is all-in
+RatmU32: folds 
+mabeal1: calls 80
+*** FLOP *** [Ac Qh 2d]
+*** TURN *** [Ac Qh 2d] [Qc]
+*** RIVER *** [Ac Qh 2d Qc] [Td]
+*** SHOW DOWN ***
+mabeal1: shows [Qs Ah] (a full house, Queens full of Aces)
+Nelson A112: shows [As Kd] (two pair, Aces and Queens)
+mabeal1 collected 260 from pot
+Nelson A112 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Ac Qh 2d Qc Td]
+Seat 1: mabeal1 (big blind) showed [Qs Ah] and won (260) with a full house, Queens full of Aces
+Seat 2: Nelson A112 (button) showed [As Kd] and lost with two pair, Aces and Queens
+Seat 3: RatmU32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539496501: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 21:52:17 CET [2026/01/31 15:52:17 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 3: RatmU32 (670 in chips) 
+mabeal1: posts small blind 20
+RatmU32: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Jh]
+mabeal1: raises 40 to 80
+RatmU32: calls 40
+*** FLOP *** [9s 7d Kc]
+RatmU32: checks 
+mabeal1: bets 80
+RatmU32: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9s 7d Kc]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: RatmU32 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259539503262: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 21:52:44 CET [2026/01/31 15:52:44 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (910 in chips) 
+Seat 3: RatmU32 (590 in chips) 
+RatmU32: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ac]
+RatmU32: raises 60 to 120
+mabeal1: raises 790 to 910 and is all-in
+RatmU32: folds 
+Uncalled bet (790) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (240)
+Seat 3: RatmU32 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539505552: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 21:52:54 CET [2026/01/31 15:52:54 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: RatmU32 (470 in chips) 
+mabeal1: posts small blind 30
+RatmU32: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Jh]
+mabeal1: folds 
+Uncalled bet (30) returned to RatmU32
+RatmU32 collected 60 from pot
+RatmU32: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: RatmU32 (big blind) collected (60)
+
+
+
+PokerStars Hand #259539508916: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 21:53:08 CET [2026/01/31 15:53:08 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 3: RatmU32 (500 in chips) 
+RatmU32: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 4c]
+RatmU32: calls 30
+mabeal1: raises 940 to 1000 and is all-in
+RatmU32: folds 
+Uncalled bet (940) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: RatmU32 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539511691: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 21:53:19 CET [2026/01/31 15:53:19 ET]
+Table '3970904419 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: RatmU32 (440 in chips) 
+mabeal1: posts small blind 30
+RatmU32: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jd]
+mabeal1: raises 1000 to 1060 and is all-in
+RatmU32: folds 
+Uncalled bet (1000) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: RatmU32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259539514276: Tournament #3970904419, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 21:53:29 CET [2026/01/31 15:53:29 ET]
+Table '3970904419 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1120 in chips) 
+Seat 3: RatmU32 (380 in chips) 
+RatmU32: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Ac]
+RatmU32: raises 320 to 380 and is all-in
+mabeal1: calls 320
+*** FLOP *** [Jc Jh 2s]
+*** TURN *** [Jc Jh 2s] [Qs]
+*** RIVER *** [Jc Jh 2s Qs] [Tc]
+*** SHOW DOWN ***
+mabeal1: shows [Kd Ac] (a straight, Ten to Ace)
+RatmU32: shows [6d Jd] (three of a kind, Jacks)
+mabeal1 collected 760 from pot
+RatmU32 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [Jc Jh 2s Qs Tc]
+Seat 1: mabeal1 (big blind) showed [Kd Ac] and won (760) with a straight, Ten to Ace
+Seat 3: RatmU32 (button) (small blind) showed [6d Jd] and lost with three of a kind, Jacks
+
+
+

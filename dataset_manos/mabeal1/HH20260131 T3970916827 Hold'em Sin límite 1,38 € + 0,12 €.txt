@@ -1,0 +1,54 @@
+﻿PokerStars Hand #259540011614: Tournament #3970916827, €1.38+€0.12 EUR Hold'em No Limit - Level I (25/50) - 2026/01/31 22:28:30 CET [2026/01/31 16:28:30 ET]
+Table '3970916827 1' 8-max Seat #1 is the button
+Seat 1: lolete555 (500 in chips) 
+Seat 2: icn1989 (500 in chips) 
+Seat 3: tico2666 (500 in chips) 
+Seat 4: morataleño (500 in chips) 
+Seat 5: rastapiter_7 (500 in chips) 
+Seat 6: Rafa_Santos4 (500 in chips) 
+Seat 7: mabeal1 (500 in chips) 
+Seat 8: ventosidad (500 in chips) 
+lolete555: posts the ante 10
+icn1989: posts the ante 10
+tico2666: posts the ante 10
+morataleño: posts the ante 10
+rastapiter_7: posts the ante 10
+Rafa_Santos4: posts the ante 10
+mabeal1: posts the ante 10
+ventosidad: posts the ante 10
+icn1989: posts small blind 25
+tico2666: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Jh]
+morataleño: calls 50
+rastapiter_7: folds 
+Rafa_Santos4: folds 
+mabeal1: raises 100 to 150
+ventosidad: folds 
+lolete555: raises 340 to 490 and is all-in
+icn1989: folds 
+tico2666: folds 
+morataleño: folds 
+mabeal1: calls 340 and is all-in
+*** FLOP *** [3s 3d 6h]
+*** TURN *** [3s 3d 6h] [6s]
+*** RIVER *** [3s 3d 6h 6s] [Td]
+*** SHOW DOWN ***
+mabeal1: shows [Kc Jh] (two pair, Sixes and Threes)
+lolete555: shows [8d Ad] (two pair, Sixes and Threes - Ace kicker)
+lolete555 collected 1185 from pot
+mabeal1 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1185 | Rake 0 
+Board [3s 3d 6h 6s Td]
+Seat 1: lolete555 (button) showed [8d Ad] and won (1185) with two pair, Sixes and Threes
+Seat 2: icn1989 (small blind) folded before Flop
+Seat 3: tico2666 (big blind) folded before Flop
+Seat 4: morataleño folded before Flop
+Seat 5: rastapiter_7 folded before Flop (didn't bet)
+Seat 6: Rafa_Santos4 folded before Flop (didn't bet)
+Seat 7: mabeal1 showed [Kc Jh] and lost with two pair, Sixes and Threes
+Seat 8: ventosidad folded before Flop (didn't bet)
+
+
+

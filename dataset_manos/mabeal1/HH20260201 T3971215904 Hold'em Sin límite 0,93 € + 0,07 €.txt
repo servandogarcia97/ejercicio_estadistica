@@ -1,0 +1,1647 @@
+﻿PokerStars Hand #259553801236: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:38:33 CET [2026/02/01 15:38:33 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: sergifischer (500 in chips) 
+Seat 3: calamariLP (500 in chips) 
+sergifischer: posts small blind 10
+calamariLP: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Qc]
+mabeal1: folds 
+sergifischer: raises 20 to 40
+calamariLP: calls 20
+*** FLOP *** [Ks Ad 2c]
+sergifischer: bets 80
+calamariLP: folds 
+Uncalled bet (80) returned to sergifischer
+sergifischer collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks Ad 2c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) collected (80)
+Seat 3: calamariLP (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259553807299: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:38:53 CET [2026/02/01 15:38:53 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: sergifischer (540 in chips) 
+Seat 3: calamariLP (460 in chips) 
+calamariLP: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Jh]
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553810136: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:39:02 CET [2026/02/01 15:39:02 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: sergifischer (540 in chips) 
+Seat 3: calamariLP (450 in chips) 
+mabeal1: posts small blind 10
+sergifischer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Td]
+calamariLP: folds 
+mabeal1: raises 30 to 50
+sergifischer: raises 490 to 540 and is all-in
+mabeal1: folds 
+Uncalled bet (490) returned to sergifischer
+sergifischer collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sergifischer (big blind) collected (100)
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553818016: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:39:28 CET [2026/02/01 15:39:28 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: sergifischer (590 in chips) 
+Seat 3: calamariLP (450 in chips) 
+sergifischer: posts small blind 10
+calamariLP: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9h]
+mabeal1: folds 
+sergifischer: folds 
+Uncalled bet (10) returned to calamariLP
+calamariLP collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) collected (20)
+
+
+
+PokerStars Hand #259553820835: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:39:37 CET [2026/02/01 15:39:37 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: sergifischer (580 in chips) 
+Seat 3: calamariLP (460 in chips) 
+calamariLP: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ks]
+sergifischer: folds 
+calamariLP: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to calamariLP
+calamariLP collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) collected (40)
+
+
+
+PokerStars Hand #259553826218: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:39:55 CET [2026/02/01 15:39:55 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: sergifischer (580 in chips) 
+Seat 3: calamariLP (480 in chips) 
+mabeal1: posts small blind 10
+sergifischer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 9s]
+calamariLP: folds 
+mabeal1: calls 10
+sergifischer: checks 
+*** FLOP *** [5s 6d 3h]
+mabeal1: bets 20
+sergifischer: calls 20
+*** TURN *** [5s 6d 3h] [8h]
+mabeal1: bets 80
+sergifischer: calls 80
+*** RIVER *** [5s 6d 3h 8h] [Tc]
+mabeal1: bets 320 and is all-in
+sergifischer: folds 
+Uncalled bet (320) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5s 6d 3h 8h Tc]
+Seat 1: mabeal1 (small blind) collected (240)
+Seat 2: sergifischer (big blind) folded on the River
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553838244: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:40:33 CET [2026/02/01 15:40:33 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: sergifischer (460 in chips) 
+Seat 3: calamariLP (480 in chips) 
+sergifischer: posts small blind 10
+calamariLP: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Qd]
+mabeal1: raises 20 to 40
+sergifischer: folds 
+calamariLP: calls 20
+*** FLOP *** [Ts 5h 3c]
+calamariLP: checks 
+mabeal1: checks 
+*** TURN *** [Ts 5h 3c] [5d]
+calamariLP: checks 
+mabeal1: checks 
+*** RIVER *** [Ts 5h 3c 5d] [Jc]
+calamariLP: checks 
+mabeal1: bets 68
+calamariLP: folds 
+Uncalled bet (68) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ts 5h 3c 5d Jc]
+Seat 1: mabeal1 (button) collected (90)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) folded on the River
+
+
+
+PokerStars Hand #259553845446: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:40:57 CET [2026/02/01 15:40:57 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: sergifischer (450 in chips) 
+Seat 3: calamariLP (440 in chips) 
+calamariLP: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3s]
+sergifischer: folds 
+calamariLP: calls 10
+mabeal1: checks 
+*** FLOP *** [5d 8h Ac]
+calamariLP: checks 
+mabeal1: checks 
+*** TURN *** [5d 8h Ac] [2c]
+calamariLP: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to calamariLP
+calamariLP collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d 8h Ac 2c]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) collected (40)
+
+
+
+PokerStars Hand #259553851150: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:41:15 CET [2026/02/01 15:41:15 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: sergifischer (450 in chips) 
+Seat 3: calamariLP (460 in chips) 
+mabeal1: posts small blind 10
+sergifischer: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 2c]
+calamariLP: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to sergifischer
+sergifischer collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sergifischer (big blind) collected (20)
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553853275: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:41:22 CET [2026/02/01 15:41:22 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: sergifischer (460 in chips) 
+Seat 3: calamariLP (460 in chips) 
+sergifischer: posts small blind 10
+calamariLP: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9h]
+mabeal1: folds 
+sergifischer: folds 
+Uncalled bet (10) returned to calamariLP
+calamariLP collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) collected (20)
+
+
+
+PokerStars Hand #259553855235: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:41:28 CET [2026/02/01 15:41:28 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: sergifischer (450 in chips) 
+Seat 3: calamariLP (470 in chips) 
+calamariLP: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Kd]
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553858051: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:41:38 CET [2026/02/01 15:41:38 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: sergifischer (450 in chips) 
+Seat 3: calamariLP (460 in chips) 
+mabeal1: posts small blind 15
+sergifischer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Kd]
+calamariLP: folds 
+mabeal1: raises 45 to 75
+sergifischer: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: sergifischer (big blind) folded before Flop
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553861579: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:41:49 CET [2026/02/01 15:41:49 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: sergifischer (420 in chips) 
+Seat 3: calamariLP (460 in chips) 
+sergifischer: posts small blind 15
+calamariLP: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 3s]
+mabeal1: folds 
+sergifischer: folds 
+Uncalled bet (15) returned to calamariLP
+calamariLP collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) collected (30)
+
+
+
+PokerStars Hand #259553863756: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:41:56 CET [2026/02/01 15:41:56 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: sergifischer (405 in chips) 
+Seat 3: calamariLP (475 in chips) 
+calamariLP: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4d]
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553865398: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:42:01 CET [2026/02/01 15:42:01 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 2: sergifischer (405 in chips) 
+Seat 3: calamariLP (460 in chips) 
+mabeal1: posts small blind 15
+sergifischer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 3d]
+calamariLP: folds 
+mabeal1: raises 30 to 60
+sergifischer: calls 30
+*** FLOP *** [2d 9h 5s]
+mabeal1: checks 
+sergifischer: checks 
+*** TURN *** [2d 9h 5s] [2s]
+mabeal1: checks 
+sergifischer: checks 
+*** RIVER *** [2d 9h 5s 2s] [4d]
+mabeal1: checks 
+sergifischer: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Jd 3d] (a pair of Deuces)
+sergifischer: shows [8s Ks] (a pair of Deuces - King kicker)
+sergifischer collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d 9h 5s 2s 4d]
+Seat 1: mabeal1 (small blind) showed [Jd 3d] and lost with a pair of Deuces
+Seat 2: sergifischer (big blind) showed [8s Ks] and won (120) with a pair of Deuces
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553872077: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:42:23 CET [2026/02/01 15:42:23 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (575 in chips) 
+Seat 2: sergifischer (465 in chips) 
+Seat 3: calamariLP (460 in chips) 
+sergifischer: posts small blind 15
+calamariLP: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8c]
+mabeal1: raises 30 to 60
+sergifischer: folds 
+calamariLP: calls 30
+*** FLOP *** [5c 6s Ts]
+calamariLP: checks 
+mabeal1: checks 
+*** TURN *** [5c 6s Ts] [Kd]
+calamariLP: checks 
+mabeal1: bets 101
+calamariLP: folds 
+Uncalled bet (101) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [5c 6s Ts Kd]
+Seat 1: mabeal1 (button) collected (135)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259553878367: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:42:43 CET [2026/02/01 15:42:43 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: sergifischer (450 in chips) 
+Seat 3: calamariLP (400 in chips) 
+calamariLP: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 6c]
+sergifischer: folds 
+calamariLP: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to calamariLP
+calamariLP collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) collected (60)
+
+
+
+PokerStars Hand #259553881296: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:42:53 CET [2026/02/01 15:42:53 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: sergifischer (450 in chips) 
+Seat 3: calamariLP (430 in chips) 
+mabeal1: posts small blind 15
+sergifischer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9s]
+calamariLP: folds 
+mabeal1: raises 45 to 75
+sergifischer: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: sergifischer (big blind) folded before Flop
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553884088: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:43:02 CET [2026/02/01 15:43:02 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: sergifischer (420 in chips) 
+Seat 3: calamariLP (430 in chips) 
+sergifischer: posts small blind 15
+calamariLP: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Th]
+mabeal1: folds 
+sergifischer: raises 30 to 60
+calamariLP: calls 30
+*** FLOP *** [9d 3s 7s]
+sergifischer: checks 
+calamariLP: checks 
+*** TURN *** [9d 3s 7s] [As]
+sergifischer: checks 
+calamariLP: checks 
+*** RIVER *** [9d 3s 7s As] [6d]
+sergifischer: checks 
+calamariLP: checks 
+*** SHOW DOWN ***
+sergifischer: shows [Js Qd] (high card Ace)
+calamariLP: shows [6c Kc] (a pair of Sixes)
+calamariLP collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9d 3s 7s As 6d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) showed [Js Qd] and lost with high card Ace
+Seat 3: calamariLP (big blind) showed [6c Kc] and won (120) with a pair of Sixes
+
+
+
+PokerStars Hand #259553890070: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:43:21 CET [2026/02/01 15:43:21 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: sergifischer (360 in chips) 
+Seat 3: calamariLP (490 in chips) 
+calamariLP: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6s]
+sergifischer: folds 
+calamariLP: calls 15
+mabeal1: checks 
+*** FLOP *** [3h 6h 4h]
+calamariLP: checks 
+mabeal1: bets 60
+calamariLP: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h 6h 4h]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259553894508: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:43:36 CET [2026/02/01 15:43:36 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (680 in chips) 
+Seat 2: sergifischer (360 in chips) 
+Seat 3: calamariLP (460 in chips) 
+mabeal1: posts small blind 15
+sergifischer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Jc]
+calamariLP: folds 
+mabeal1: raises 60 to 90
+sergifischer: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: sergifischer (big blind) folded before Flop
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553896899: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:43:44 CET [2026/02/01 15:43:44 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 2: sergifischer (330 in chips) 
+Seat 3: calamariLP (460 in chips) 
+sergifischer: posts small blind 15
+calamariLP: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7c]
+mabeal1: raises 30 to 60
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (button) collected (75)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) folded before Flop
+
+
+
+PokerStars Hand #259553901143: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:43:58 CET [2026/02/01 15:43:58 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (755 in chips) 
+Seat 2: sergifischer (315 in chips) 
+Seat 3: calamariLP (430 in chips) 
+calamariLP: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 6s]
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553904449: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:44:08 CET [2026/02/01 15:44:08 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (770 in chips) 
+Seat 2: sergifischer (315 in chips) 
+Seat 3: calamariLP (415 in chips) 
+mabeal1: posts small blind 15
+sergifischer: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Qh]
+calamariLP: raises 30 to 60
+mabeal1: calls 45
+sergifischer: folds 
+*** FLOP *** [Ad 7s Td]
+mabeal1: checks 
+calamariLP: checks 
+*** TURN *** [Ad 7s Td] [Ac]
+mabeal1: checks 
+calamariLP: bets 60
+mabeal1: calls 60
+*** RIVER *** [Ad 7s Td Ac] [Kc]
+mabeal1: checks 
+calamariLP: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to calamariLP
+calamariLP collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Ad 7s Td Ac Kc]
+Seat 1: mabeal1 (small blind) folded on the River
+Seat 2: sergifischer (big blind) folded before Flop
+Seat 3: calamariLP (button) collected (270)
+
+
+
+PokerStars Hand #259553914167: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:44:40 CET [2026/02/01 15:44:40 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: sergifischer (285 in chips) 
+Seat 3: calamariLP (565 in chips) 
+sergifischer: posts small blind 20
+calamariLP: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 5h]
+mabeal1: folds 
+sergifischer: folds 
+Uncalled bet (20) returned to calamariLP
+calamariLP collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) collected (40)
+
+
+
+PokerStars Hand #259553916708: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:44:48 CET [2026/02/01 15:44:48 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: sergifischer (265 in chips) 
+Seat 3: calamariLP (585 in chips) 
+calamariLP: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Ts]
+sergifischer: raises 225 to 265 and is all-in
+calamariLP: folds 
+mabeal1: folds 
+Uncalled bet (225) returned to sergifischer
+sergifischer collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sergifischer (button) collected (100)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553919706: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:44:57 CET [2026/02/01 15:44:57 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: sergifischer (325 in chips) 
+Seat 3: calamariLP (565 in chips) 
+mabeal1: posts small blind 20
+sergifischer: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 2s]
+calamariLP: calls 40
+mabeal1: calls 20
+sergifischer: checks 
+*** FLOP *** [Ks Qc Ts]
+mabeal1: checks 
+sergifischer: checks 
+calamariLP: checks 
+*** TURN *** [Ks Qc Ts] [3c]
+mabeal1: bets 80
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks Qc Ts 3c]
+Seat 1: mabeal1 (small blind) collected (120)
+Seat 2: sergifischer (big blind) folded on the Turn
+Seat 3: calamariLP (button) folded on the Turn
+
+
+
+PokerStars Hand #259553927055: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:45:21 CET [2026/02/01 15:45:21 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 2: sergifischer (285 in chips) 
+Seat 3: calamariLP (525 in chips) 
+sergifischer: posts small blind 20
+calamariLP: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 7s]
+mabeal1: folds 
+sergifischer: raises 245 to 285 and is all-in
+calamariLP: folds 
+Uncalled bet (245) returned to sergifischer
+sergifischer collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) collected (80)
+Seat 3: calamariLP (big blind) folded before Flop
+
+
+
+PokerStars Hand #259553929912: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:45:31 CET [2026/02/01 15:45:31 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 2: sergifischer (325 in chips) 
+Seat 3: calamariLP (485 in chips) 
+calamariLP: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Qh]
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553931872: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:45:37 CET [2026/02/01 15:45:37 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 2: sergifischer (325 in chips) 
+Seat 3: calamariLP (465 in chips) 
+mabeal1: posts small blind 20
+sergifischer: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5c]
+calamariLP: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to sergifischer
+sergifischer collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sergifischer (big blind) collected (40)
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553934277: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:45:45 CET [2026/02/01 15:45:45 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 2: sergifischer (345 in chips) 
+Seat 3: calamariLP (465 in chips) 
+sergifischer: posts small blind 20
+calamariLP: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Tc]
+mabeal1: raises 40 to 80
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) collected (100)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) folded before Flop
+
+
+
+PokerStars Hand #259553936760: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:45:53 CET [2026/02/01 15:45:53 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (750 in chips) 
+Seat 2: sergifischer (325 in chips) 
+Seat 3: calamariLP (425 in chips) 
+calamariLP: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c As]
+sergifischer: raises 40 to 80
+calamariLP: folds 
+mabeal1: calls 40
+*** FLOP *** [5s 5d Qd]
+mabeal1: checks 
+sergifischer: bets 180
+mabeal1: folds 
+Uncalled bet (180) returned to sergifischer
+sergifischer collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5s 5d Qd]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: sergifischer (button) collected (180)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553943149: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:46:14 CET [2026/02/01 15:46:14 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (670 in chips) 
+Seat 2: sergifischer (425 in chips) 
+Seat 3: calamariLP (405 in chips) 
+mabeal1: posts small blind 20
+sergifischer: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 7c]
+calamariLP: raises 40 to 80
+mabeal1: folds 
+sergifischer: folds 
+Uncalled bet (40) returned to calamariLP
+calamariLP collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sergifischer (big blind) folded before Flop
+Seat 3: calamariLP (button) collected (100)
+
+
+
+PokerStars Hand #259553945458: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:46:21 CET [2026/02/01 15:46:21 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: sergifischer (385 in chips) 
+Seat 3: calamariLP (465 in chips) 
+sergifischer: posts small blind 20
+calamariLP: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 9h]
+mabeal1: folds 
+sergifischer: calls 20
+calamariLP: checks 
+*** FLOP *** [8d 5d 3c]
+sergifischer: checks 
+calamariLP: checks 
+*** TURN *** [8d 5d 3c] [Qd]
+sergifischer: bets 40
+calamariLP: calls 40
+*** RIVER *** [8d 5d 3c Qd] [3d]
+sergifischer: bets 40
+calamariLP: folds 
+Uncalled bet (40) returned to sergifischer
+sergifischer collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d 5d 3c Qd 3d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) collected (160)
+Seat 3: calamariLP (big blind) folded on the River
+
+
+
+PokerStars Hand #259553950979: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:46:39 CET [2026/02/01 15:46:39 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: sergifischer (465 in chips) 
+Seat 3: calamariLP (385 in chips) 
+calamariLP: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Jh]
+sergifischer: folds 
+calamariLP: calls 20
+mabeal1: checks 
+*** FLOP *** [5d Kd Jc]
+calamariLP: checks 
+mabeal1: bets 40
+calamariLP: calls 40
+*** TURN *** [5d Kd Jc] [Ts]
+calamariLP: checks 
+mabeal1: checks 
+*** RIVER *** [5d Kd Jc Ts] [Tc]
+calamariLP: checks 
+mabeal1: bets 120
+calamariLP: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5d Kd Jc Ts Tc]
+Seat 1: mabeal1 (big blind) collected (160)
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) folded on the River
+
+
+
+PokerStars Hand #259553958401: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:47:03 CET [2026/02/01 15:47:03 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: sergifischer (465 in chips) 
+Seat 3: calamariLP (305 in chips) 
+mabeal1: posts small blind 20
+sergifischer: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Kh]
+calamariLP: calls 40
+mabeal1: raises 80 to 120
+sergifischer: folds 
+calamariLP: calls 80
+*** FLOP *** [Kc 5h Qc]
+mabeal1: bets 40
+calamariLP: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 280 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [Kc 5h Qc]
+Seat 1: mabeal1 (small blind) collected (280)
+Seat 2: sergifischer (big blind) folded before Flop
+Seat 3: calamariLP (button) folded on the Flop
+
+
+
+PokerStars Hand #259553963927: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:47:22 CET [2026/02/01 15:47:22 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 2: sergifischer (425 in chips) 
+Seat 3: calamariLP (185 in chips) 
+sergifischer: posts small blind 20
+calamariLP: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 9s]
+mabeal1: folds 
+sergifischer: folds 
+Uncalled bet (20) returned to calamariLP
+calamariLP collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) collected (40)
+
+
+
+PokerStars Hand #259553965945: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:47:29 CET [2026/02/01 15:47:29 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 2: sergifischer (405 in chips) 
+Seat 3: calamariLP (205 in chips) 
+calamariLP: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4s]
+sergifischer: raises 40 to 80
+calamariLP: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to sergifischer
+sergifischer collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sergifischer (button) collected (100)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553969745: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:47:41 CET [2026/02/01 15:47:41 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (850 in chips) 
+Seat 2: sergifischer (465 in chips) 
+Seat 3: calamariLP (185 in chips) 
+mabeal1: posts small blind 30
+sergifischer: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 5s]
+calamariLP: calls 60
+mabeal1: raises 790 to 850 and is all-in
+sergifischer: folds 
+calamariLP: calls 125 and is all-in
+Uncalled bet (665) returned to mabeal1
+*** FLOP *** [Js 9d 8s]
+*** TURN *** [Js 9d 8s] [3c]
+*** RIVER *** [Js 9d 8s 3c] [4h]
+*** SHOW DOWN ***
+mabeal1: shows [As 5s] (high card Ace)
+calamariLP: shows [Tc Jd] (a pair of Jacks)
+calamariLP collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [Js 9d 8s 3c 4h]
+Seat 1: mabeal1 (small blind) showed [As 5s] and lost with high card Ace
+Seat 2: sergifischer (big blind) folded before Flop
+Seat 3: calamariLP (button) showed [Tc Jd] and won (430) with a pair of Jacks
+
+
+
+PokerStars Hand #259553975360: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:47:59 CET [2026/02/01 15:47:59 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (665 in chips) 
+Seat 2: sergifischer (405 in chips) 
+Seat 3: calamariLP (430 in chips) 
+sergifischer: posts small blind 30
+calamariLP: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac As]
+mabeal1: calls 60
+sergifischer: calls 30
+calamariLP: checks 
+*** FLOP *** [Th 2d 6d]
+sergifischer: checks 
+calamariLP: checks 
+mabeal1: bets 60
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Th 2d 6d]
+Seat 1: mabeal1 (button) collected (180)
+Seat 2: sergifischer (small blind) folded on the Flop
+Seat 3: calamariLP (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259553981623: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:48:20 CET [2026/02/01 15:48:20 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (785 in chips) 
+Seat 2: sergifischer (345 in chips) 
+Seat 3: calamariLP (370 in chips) 
+calamariLP: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 3s]
+sergifischer: folds 
+calamariLP: calls 30
+mabeal1: checks 
+*** FLOP *** [2s Qh 4s]
+calamariLP: checks 
+mabeal1: bets 60
+calamariLP: calls 60
+*** TURN *** [2s Qh 4s] [Tc]
+calamariLP: checks 
+mabeal1: bets 120
+calamariLP: calls 120
+*** RIVER *** [2s Qh 4s Tc] [3d]
+calamariLP: checks 
+mabeal1: bets 545 and is all-in
+calamariLP: calls 130 and is all-in
+Uncalled bet (415) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Td 3s] (two pair, Tens and Threes)
+calamariLP: shows [Qs Th] (two pair, Queens and Tens)
+calamariLP collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [2s Qh 4s Tc 3d]
+Seat 1: mabeal1 (big blind) showed [Td 3s] and lost with two pair, Tens and Threes
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) showed [Qs Th] and won (740) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #259553988470: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:48:42 CET [2026/02/01 15:48:42 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 2: sergifischer (345 in chips) 
+Seat 3: calamariLP (740 in chips) 
+mabeal1: posts small blind 30
+sergifischer: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Td]
+calamariLP: raises 60 to 120
+mabeal1: folds 
+sergifischer: folds 
+Uncalled bet (60) returned to calamariLP
+calamariLP collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sergifischer (big blind) folded before Flop
+Seat 3: calamariLP (button) collected (150)
+
+
+
+PokerStars Hand #259553991748: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:48:53 CET [2026/02/01 15:48:53 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (385 in chips) 
+Seat 2: sergifischer (285 in chips) 
+Seat 3: calamariLP (830 in chips) 
+sergifischer: posts small blind 30
+calamariLP: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ac]
+mabeal1: raises 325 to 385 and is all-in
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (325) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (button) collected (150)
+Seat 2: sergifischer (small blind) folded before Flop
+Seat 3: calamariLP (big blind) folded before Flop
+
+
+
+PokerStars Hand #259553993787: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:48:59 CET [2026/02/01 15:48:59 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 2: sergifischer (255 in chips) 
+Seat 3: calamariLP (770 in chips) 
+calamariLP: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 5h]
+sergifischer: folds 
+calamariLP: raises 60 to 120
+mabeal1: folds 
+Uncalled bet (60) returned to calamariLP
+calamariLP collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) collected (120)
+
+
+
+PokerStars Hand #259553995971: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:49:07 CET [2026/02/01 15:49:07 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 2: sergifischer (255 in chips) 
+Seat 3: calamariLP (830 in chips) 
+mabeal1: posts small blind 30
+sergifischer: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 5h]
+calamariLP: folds 
+mabeal1: raises 355 to 415 and is all-in
+sergifischer: folds 
+Uncalled bet (355) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (120)
+Seat 2: sergifischer (big blind) folded before Flop
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553998515: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:49:15 CET [2026/02/01 15:49:15 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 2: sergifischer (195 in chips) 
+Seat 3: calamariLP (830 in chips) 
+sergifischer: posts small blind 30
+calamariLP: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 3s]
+mabeal1: folds 
+sergifischer: raises 135 to 195 and is all-in
+calamariLP: folds 
+Uncalled bet (135) returned to sergifischer
+sergifischer collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sergifischer (small blind) collected (120)
+Seat 3: calamariLP (big blind) folded before Flop
+
+
+
+PokerStars Hand #259554000924: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:49:23 CET [2026/02/01 15:49:23 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 2: sergifischer (255 in chips) 
+Seat 3: calamariLP (770 in chips) 
+calamariLP: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 4s]
+sergifischer: folds 
+calamariLP: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: sergifischer (button) folded before Flop (didn't bet)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259554002932: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:49:29 CET [2026/02/01 15:49:29 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (505 in chips) 
+Seat 2: sergifischer (255 in chips) 
+Seat 3: calamariLP (740 in chips) 
+mabeal1: posts small blind 30
+sergifischer: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5s]
+calamariLP: folds 
+mabeal1: raises 445 to 505 and is all-in
+sergifischer: calls 195 and is all-in
+Uncalled bet (250) returned to mabeal1
+*** FLOP *** [Kd Ad Ts]
+*** TURN *** [Kd Ad Ts] [8d]
+*** RIVER *** [Kd Ad Ts 8d] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [5h 5s] (a pair of Fives)
+sergifischer: shows [7d Td] (a flush, Ace high)
+sergifischer collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Kd Ad Ts 8d 6h]
+Seat 1: mabeal1 (small blind) showed [5h 5s] and lost with a pair of Fives
+Seat 2: sergifischer (big blind) showed [7d Td] and won (510) with a flush, Ace high
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259554007132: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:49:43 CET [2026/02/01 15:49:43 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (250 in chips) 
+Seat 2: sergifischer (510 in chips) 
+Seat 3: calamariLP (740 in chips) 
+sergifischer: posts small blind 30
+calamariLP: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc As]
+mabeal1: raises 190 to 250 and is all-in
+sergifischer: calls 220
+calamariLP: folds 
+*** FLOP *** [6s 4d 8c]
+*** TURN *** [6s 4d 8c] [9h]
+*** RIVER *** [6s 4d 8c 9h] [2h]
+*** SHOW DOWN ***
+sergifischer: shows [Qs Kh] (high card King)
+mabeal1: shows [Kc As] (high card Ace)
+mabeal1 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [6s 4d 8c 9h 2h]
+Seat 1: mabeal1 (button) showed [Kc As] and won (560) with high card Ace
+Seat 2: sergifischer (small blind) showed [Qs Kh] and lost with high card King
+Seat 3: calamariLP (big blind) folded before Flop
+
+
+
+PokerStars Hand #259554011700: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:49:58 CET [2026/02/01 15:49:58 ET]
+Table '3971215904 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: sergifischer (260 in chips) 
+Seat 3: calamariLP (680 in chips) 
+calamariLP: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4h]
+sergifischer: raises 200 to 260 and is all-in
+calamariLP: folds 
+mabeal1: folds 
+Uncalled bet (200) returned to sergifischer
+sergifischer collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sergifischer (button) collected (150)
+Seat 3: calamariLP (small blind) folded before Flop
+
+
+
+PokerStars Hand #259554014614: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:50:08 CET [2026/02/01 15:50:08 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: sergifischer (350 in chips) 
+Seat 3: calamariLP (650 in chips) 
+mabeal1: posts small blind 30
+sergifischer: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7h]
+calamariLP: folds 
+mabeal1: raises 440 to 500 and is all-in
+sergifischer: calls 290 and is all-in
+Uncalled bet (150) returned to mabeal1
+*** FLOP *** [5s 7d 2d]
+*** TURN *** [5s 7d 2d] [6c]
+*** RIVER *** [5s 7d 2d 6c] [8s]
+*** SHOW DOWN ***
+mabeal1: shows [8h 7h] (two pair, Eights and Sevens)
+sergifischer: shows [Ah Ac] (a pair of Aces)
+mabeal1 collected 700 from pot
+sergifischer finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [5s 7d 2d 6c 8s]
+Seat 1: mabeal1 (small blind) showed [8h 7h] and won (700) with two pair, Eights and Sevens
+Seat 2: sergifischer (big blind) showed [Ah Ac] and lost with a pair of Aces
+Seat 3: calamariLP (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259554020670: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:50:27 CET [2026/02/01 15:50:27 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (850 in chips) 
+Seat 3: calamariLP (650 in chips) 
+mabeal1: posts small blind 30
+calamariLP: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 8h]
+mabeal1: raises 790 to 850 and is all-in
+calamariLP: folds 
+Uncalled bet (790) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: calamariLP (big blind) folded before Flop
+
+
+
+PokerStars Hand #259554022502: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 21:50:34 CET [2026/02/01 15:50:34 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (910 in chips) 
+Seat 3: calamariLP (590 in chips) 
+calamariLP: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 2c]
+calamariLP: calls 30
+mabeal1: checks 
+*** FLOP *** [Jd As 9s]
+mabeal1: checks 
+calamariLP: checks 
+*** TURN *** [Jd As 9s] [7c]
+mabeal1: bets 60
+calamariLP: calls 60
+*** RIVER *** [Jd As 9s 7c] [9h]
+mabeal1: checks 
+calamariLP: bets 180
+mabeal1: calls 180
+*** SHOW DOWN ***
+calamariLP: shows [8c 9c] (three of a kind, Nines)
+mabeal1: mucks hand 
+calamariLP collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Jd As 9s 7c 9h]
+Seat 1: mabeal1 (big blind) mucked [Js 2c]
+Seat 3: calamariLP (button) (small blind) showed [8c 9c] and won (600) with three of a kind, Nines
+
+
+
+PokerStars Hand #259554032578: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:51:06 CET [2026/02/01 15:51:06 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 3: calamariLP (890 in chips) 
+mabeal1: posts small blind 40
+calamariLP: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 8s]
+mabeal1: raises 530 to 610 and is all-in
+calamariLP: folds 
+Uncalled bet (530) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: calamariLP (big blind) folded before Flop
+
+
+
+PokerStars Hand #259554035785: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:51:17 CET [2026/02/01 15:51:17 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 3: calamariLP (810 in chips) 
+calamariLP: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qs]
+calamariLP: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: calamariLP (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259554037168: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:51:22 CET [2026/02/01 15:51:22 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 3: calamariLP (770 in chips) 
+mabeal1: posts small blind 40
+calamariLP: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Jd]
+mabeal1: calls 40
+calamariLP: checks 
+*** FLOP *** [2s 6s 7d]
+calamariLP: checks 
+mabeal1: checks 
+*** TURN *** [2s 6s 7d] [9c]
+calamariLP: checks 
+mabeal1: checks 
+*** RIVER *** [2s 6s 7d 9c] [Ah]
+calamariLP: bets 80
+mabeal1: calls 80
+*** SHOW DOWN ***
+calamariLP: shows [Ac 4h] (a pair of Aces)
+mabeal1: mucks hand 
+calamariLP collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [2s 6s 7d 9c Ah]
+Seat 1: mabeal1 (button) (small blind) mucked [2d Jd]
+Seat 3: calamariLP (big blind) showed [Ac 4h] and won (320) with a pair of Aces
+
+
+
+PokerStars Hand #259554042880: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:51:40 CET [2026/02/01 15:51:40 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 3: calamariLP (930 in chips) 
+calamariLP: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9d]
+calamariLP: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: calamariLP (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259554044920: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:51:47 CET [2026/02/01 15:51:47 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 3: calamariLP (890 in chips) 
+mabeal1: posts small blind 40
+calamariLP: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 7d]
+mabeal1: raises 530 to 610 and is all-in
+calamariLP: calls 530
+*** FLOP *** [Qc 9d 5d]
+*** TURN *** [Qc 9d 5d] [8h]
+*** RIVER *** [Qc 9d 5d 8h] [4h]
+*** SHOW DOWN ***
+calamariLP: shows [As Ks] (high card Ace)
+mabeal1: shows [Qs 7d] (a pair of Queens)
+mabeal1 collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | Rake 0 
+Board [Qc 9d 5d 8h 4h]
+Seat 1: mabeal1 (button) (small blind) showed [Qs 7d] and won (1220) with a pair of Queens
+Seat 3: calamariLP (big blind) showed [As Ks] and lost with high card Ace
+
+
+
+PokerStars Hand #259554048860: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:52:00 CET [2026/02/01 15:52:00 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1220 in chips) 
+Seat 3: calamariLP (280 in chips) 
+calamariLP: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 5h]
+calamariLP: calls 40
+mabeal1: checks 
+*** FLOP *** [Kd 2s Ah]
+mabeal1: checks 
+calamariLP: checks 
+*** TURN *** [Kd 2s Ah] [9s]
+mabeal1: checks 
+calamariLP: checks 
+*** RIVER *** [Kd 2s Ah 9s] [3c]
+mabeal1: bets 1140 and is all-in
+calamariLP: folds 
+Uncalled bet (1140) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd 2s Ah 9s 3c]
+Seat 1: mabeal1 (big blind) collected (160)
+Seat 3: calamariLP (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259554054043: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:52:17 CET [2026/02/01 15:52:17 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1300 in chips) 
+Seat 3: calamariLP (200 in chips) 
+mabeal1: posts small blind 40
+calamariLP: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qd]
+mabeal1: raises 1220 to 1300 and is all-in
+calamariLP: folds 
+Uncalled bet (1220) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: calamariLP (big blind) folded before Flop
+
+
+
+PokerStars Hand #259554055993: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:52:23 CET [2026/02/01 15:52:23 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1380 in chips) 
+Seat 3: calamariLP (120 in chips) 
+calamariLP: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 2h]
+calamariLP: raises 40 to 120 and is all-in
+mabeal1: calls 40
+*** FLOP *** [9s 8h 6d]
+*** TURN *** [9s 8h 6d] [8s]
+*** RIVER *** [9s 8h 6d 8s] [2s]
+*** SHOW DOWN ***
+mabeal1: shows [Kd 2h] (two pair, Eights and Deuces)
+calamariLP: shows [4d 9d] (two pair, Nines and Eights)
+calamariLP collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9s 8h 6d 8s 2s]
+Seat 1: mabeal1 (big blind) showed [Kd 2h] and lost with two pair, Eights and Deuces
+Seat 3: calamariLP (button) (small blind) showed [4d 9d] and won (240) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #259554059994: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:52:36 CET [2026/02/01 15:52:36 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1260 in chips) 
+Seat 3: calamariLP (240 in chips) 
+mabeal1: posts small blind 40
+calamariLP: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 4d]
+mabeal1: raises 1180 to 1260 and is all-in
+calamariLP: calls 160 and is all-in
+Uncalled bet (1020) returned to mabeal1
+*** FLOP *** [Kd Ah 3d]
+*** TURN *** [Kd Ah 3d] [Qs]
+*** RIVER *** [Kd Ah 3d Qs] [Th]
+*** SHOW DOWN ***
+calamariLP: shows [Td 9s] (a pair of Tens)
+mabeal1: shows [9h 4d] (high card Ace)
+calamariLP collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Kd Ah 3d Qs Th]
+Seat 1: mabeal1 (button) (small blind) showed [9h 4d] and lost with high card Ace
+Seat 3: calamariLP (big blind) showed [Td 9s] and won (480) with a pair of Tens
+
+
+
+PokerStars Hand #259554064761: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:52:52 CET [2026/02/01 15:52:52 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: calamariLP (480 in chips) 
+calamariLP: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Kc]
+calamariLP: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: calamariLP (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259554066617: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:52:58 CET [2026/02/01 15:52:58 ET]
+Table '3971215904 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: calamariLP (440 in chips) 
+mabeal1: posts small blind 40
+calamariLP: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8s]
+mabeal1: calls 40
+calamariLP: checks 
+*** FLOP *** [3h 2h Th]
+calamariLP: checks 
+mabeal1: checks 
+*** TURN *** [3h 2h Th] [Ks]
+calamariLP: checks 
+mabeal1: bets 80
+calamariLP: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3h 2h Th Ks]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: calamariLP (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259554071710: Tournament #3971215904, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 21:53:15 CET [2026/02/01 15:53:15 ET]
+Table '3971215904 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1140 in chips) 
+Seat 3: calamariLP (360 in chips) 
+calamariLP: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th As]
+calamariLP: calls 40
+mabeal1: raises 1060 to 1140 and is all-in
+calamariLP: calls 280 and is all-in
+Uncalled bet (780) returned to mabeal1
+*** FLOP *** [5d 9c Ac]
+*** TURN *** [5d 9c Ac] [2s]
+*** RIVER *** [5d 9c Ac 2s] [Ts]
+*** SHOW DOWN ***
+mabeal1: shows [Th As] (two pair, Aces and Tens)
+calamariLP: shows [Qc Tc] (a pair of Tens)
+mabeal1 collected 720 from pot
+calamariLP finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [5d 9c Ac 2s Ts]
+Seat 1: mabeal1 (big blind) showed [Th As] and won (720) with two pair, Aces and Tens
+Seat 3: calamariLP (button) (small blind) showed [Qc Tc] and lost with a pair of Tens
+
+
+

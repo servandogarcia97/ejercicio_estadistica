@@ -1,0 +1,217 @@
+﻿PokerStars Hand #259577654322: Tournament #3971749379, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:01:20 CET [2026/02/03 12:01:20 ET]
+Table '3971749379 1' 3-max Seat #1 is the button
+Seat 1: Polete24k (500 in chips) 
+Seat 2: t2qkpac (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+t2qkpac: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 8h]
+Polete24k: folds 
+t2qkpac: raises 480 to 500 and is all-in
+mabeal1: calls 480 and is all-in
+*** FLOP *** [Qd 4d 2d]
+*** TURN *** [Qd 4d 2d] [4s]
+*** RIVER *** [Qd 4d 2d 4s] [Kh]
+*** SHOW DOWN ***
+t2qkpac: shows [Th As] (a pair of Fours)
+mabeal1: shows [Ac 8h] (a pair of Fours)
+t2qkpac collected 500 from pot
+mabeal1 collected 500 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Qd 4d 2d 4s Kh]
+Seat 1: Polete24k (button) folded before Flop (didn't bet)
+Seat 2: t2qkpac (small blind) showed [Th As] and won (500) with a pair of Fours
+Seat 3: mabeal1 (big blind) showed [Ac 8h] and won (500) with a pair of Fours
+
+
+
+PokerStars Hand #259577656650: Tournament #3971749379, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:01:34 CET [2026/02/03 12:01:34 ET]
+Table '3971749379 1' 3-max Seat #2 is the button
+Seat 1: Polete24k (500 in chips) 
+Seat 2: t2qkpac (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+mabeal1: posts small blind 10
+Polete24k: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Js]
+t2qkpac: calls 20
+mabeal1: folds 
+Polete24k: raises 20 to 40
+t2qkpac: calls 20
+*** FLOP *** [5d 6h 4c]
+Polete24k: bets 20
+t2qkpac: calls 20
+*** TURN *** [5d 6h 4c] [8s]
+Polete24k: bets 20
+t2qkpac: raises 40 to 60
+Polete24k: calls 40
+*** RIVER *** [5d 6h 4c 8s] [Kd]
+Polete24k: checks 
+t2qkpac: bets 250
+Polete24k: calls 250
+*** SHOW DOWN ***
+t2qkpac: shows [3s 2d] (a straight, Deuce to Six)
+Polete24k: mucks hand 
+t2qkpac collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [5d 6h 4c 8s Kd]
+Seat 1: Polete24k (big blind) mucked [4s 4d]
+Seat 2: t2qkpac (button) showed [3s 2d] and won (750) with a straight, Deuce to Six
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577663564: Tournament #3971749379, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:02:12 CET [2026/02/03 12:02:12 ET]
+Table '3971749379 1' 3-max Seat #3 is the button
+Seat 1: Polete24k (130 in chips) 
+Seat 2: t2qkpac (880 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+Polete24k: posts small blind 10
+t2qkpac: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 7s]
+mabeal1: raises 20 to 40
+Polete24k: folds 
+t2qkpac: raises 840 to 880 and is all-in
+mabeal1: folds 
+Uncalled bet (840) returned to t2qkpac
+t2qkpac collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Polete24k (small blind) folded before Flop
+Seat 2: t2qkpac (big blind) collected (90)
+Seat 3: mabeal1 (button) folded before Flop
+
+
+
+PokerStars Hand #259577667703: Tournament #3971749379, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:02:34 CET [2026/02/03 12:02:34 ET]
+Table '3971749379 1' 3-max Seat #1 is the button
+Seat 1: Polete24k (120 in chips) 
+Seat 2: t2qkpac (930 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+t2qkpac: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ts]
+Polete24k: raises 100 to 120 and is all-in
+t2qkpac: calls 110
+mabeal1: folds 
+*** FLOP *** [8s Ad Jc]
+*** TURN *** [8s Ad Jc] [4c]
+*** RIVER *** [8s Ad Jc 4c] [Ac]
+*** SHOW DOWN ***
+t2qkpac: shows [Ks As] (three of a kind, Aces)
+Polete24k: shows [Tc Kh] (a pair of Aces)
+t2qkpac collected 260 from pot
+Polete24k finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [8s Ad Jc 4c Ac]
+Seat 1: Polete24k (button) showed [Tc Kh] and lost with a pair of Aces
+Seat 2: t2qkpac (small blind) showed [Ks As] and won (260) with three of a kind, Aces
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577671363: Tournament #3971749379, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:02:54 CET [2026/02/03 12:02:54 ET]
+Table '3971749379 1' 3-max Seat #3 is the button
+Seat 2: t2qkpac (1070 in chips) 
+Seat 3: mabeal1 (430 in chips) 
+mabeal1: posts small blind 10
+t2qkpac: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ac]
+mabeal1: raises 410 to 430 and is all-in
+t2qkpac: folds 
+Uncalled bet (410) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: t2qkpac (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259577672814: Tournament #3971749379, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:03:01 CET [2026/02/03 12:03:01 ET]
+Table '3971749379 1' 3-max Seat #2 is the button
+Seat 2: t2qkpac (1050 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+t2qkpac: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 7d]
+t2qkpac: calls 10
+mabeal1: checks 
+*** FLOP *** [2c Jd Ks]
+mabeal1: checks 
+t2qkpac: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to t2qkpac
+t2qkpac collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c Jd Ks]
+Seat 2: t2qkpac (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259577675993: Tournament #3971749379, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:03:17 CET [2026/02/03 12:03:17 ET]
+Table '3971749379 1' 3-max Seat #3 is the button
+Seat 2: t2qkpac (1070 in chips) 
+Seat 3: mabeal1 (430 in chips) 
+mabeal1: posts small blind 10
+t2qkpac: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Ks]
+mabeal1: calls 10
+t2qkpac: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [3h 6c 3c]
+t2qkpac: bets 40
+mabeal1: calls 40
+*** TURN *** [3h 6c 3c] [5d]
+t2qkpac: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to t2qkpac
+t2qkpac collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3h 6c 3c 5d]
+Seat 2: t2qkpac (big blind) collected (160)
+Seat 3: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259577681348: Tournament #3971749379, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:03:46 CET [2026/02/03 12:03:46 ET]
+Table '3971749379 1' 3-max Seat #2 is the button
+Seat 2: t2qkpac (1150 in chips) 
+Seat 3: mabeal1 (350 in chips) 
+t2qkpac: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Tc]
+t2qkpac: raises 40 to 60
+mabeal1: raises 290 to 350 and is all-in
+t2qkpac: calls 290
+*** FLOP *** [Th 6h Qd]
+*** TURN *** [Th 6h Qd] [7h]
+*** RIVER *** [Th 6h Qd 7h] [3d]
+*** SHOW DOWN ***
+mabeal1: shows [Kh Tc] (a pair of Tens)
+t2qkpac: shows [Ah 8h] (a flush, Ace high)
+t2qkpac collected 700 from pot
+mabeal1 finished the tournament in 2nd place
+t2qkpac wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [Th 6h Qd 7h 3d]
+Seat 2: t2qkpac (button) (small blind) showed [Ah 8h] and won (700) with a flush, Ace high
+Seat 3: mabeal1 (big blind) showed [Kh Tc] and lost with a pair of Tens
+
+
+

@@ -1,0 +1,1085 @@
+﻿PokerStars Hand #259544812896: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:23:24 CET [2026/01/31 23:23:24 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: elmasska (500 in chips) 
+Seat 3: SonicHedgehogg (500 in chips) 
+elmasska: posts small blind 10
+SonicHedgehogg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9h]
+mabeal1: raises 20 to 40
+elmasska: calls 30
+SonicHedgehogg: calls 20
+*** FLOP *** [7d Kd 9c]
+elmasska: checks 
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** TURN *** [7d Kd 9c] [6d]
+elmasska: checks 
+SonicHedgehogg: bets 20
+mabeal1: raises 120 to 140
+elmasska: folds 
+SonicHedgehogg: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7d Kd 9c 6d]
+Seat 1: mabeal1 (button) collected (160)
+Seat 2: elmasska (small blind) folded on the Turn
+Seat 3: SonicHedgehogg (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259544815089: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:23:49 CET [2026/01/31 23:23:49 ET]
+Table '3971018315 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: elmasska (460 in chips) 
+Seat 3: SonicHedgehogg (440 in chips) 
+SonicHedgehogg: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 2d]
+elmasska: calls 20
+SonicHedgehogg: calls 10
+mabeal1: checks 
+*** FLOP *** [4d Qc Kh]
+SonicHedgehogg: checks 
+mabeal1: checks 
+elmasska: checks 
+*** TURN *** [4d Qc Kh] [Qd]
+SonicHedgehogg: checks 
+mabeal1: checks 
+elmasska: checks 
+*** RIVER *** [4d Qc Kh Qd] [7s]
+SonicHedgehogg: checks 
+mabeal1: checks 
+elmasska: bets 80
+SonicHedgehogg: folds 
+mabeal1: folds 
+Uncalled bet (80) returned to elmasska
+elmasska collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d Qc Kh Qd 7s]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: elmasska (button) collected (60)
+Seat 3: SonicHedgehogg (small blind) folded on the River
+
+
+
+PokerStars Hand #259544817570: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:24:17 CET [2026/01/31 23:24:17 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: elmasska (500 in chips) 
+Seat 3: SonicHedgehogg (420 in chips) 
+mabeal1: posts small blind 10
+elmasska: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7h]
+SonicHedgehogg: folds 
+mabeal1: raises 20 to 40
+elmasska: calls 20
+*** FLOP *** [6h 2h Ts]
+mabeal1: checks 
+elmasska: bets 460 and is all-in
+mabeal1: folds 
+Uncalled bet (460) returned to elmasska
+elmasska collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 2h Ts]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: elmasska (big blind) collected (80)
+Seat 3: SonicHedgehogg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259544818768: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:24:31 CET [2026/01/31 23:24:31 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: elmasska (540 in chips) 
+Seat 3: SonicHedgehogg (420 in chips) 
+elmasska: posts small blind 10
+SonicHedgehogg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ac]
+mabeal1: raises 520 to 540 and is all-in
+elmasska: calls 530 and is all-in
+SonicHedgehogg: folds 
+*** FLOP *** [5s Ad 2c]
+*** TURN *** [5s Ad 2c] [As]
+*** RIVER *** [5s Ad 2c As] [Ts]
+*** SHOW DOWN ***
+elmasska: shows [7c 9h] (a pair of Aces)
+mabeal1: shows [Kh Ac] (three of a kind, Aces)
+mabeal1 collected 1100 from pot
+elmasska finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [5s Ad 2c As Ts]
+Seat 1: mabeal1 (button) showed [Kh Ac] and won (1100) with three of a kind, Aces
+Seat 2: elmasska (small blind) showed [7c 9h] and lost with a pair of Aces
+Seat 3: SonicHedgehogg (big blind) folded before Flop
+
+
+
+PokerStars Hand #259544820323: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:24:49 CET [2026/01/31 23:24:49 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1100 in chips) 
+Seat 3: SonicHedgehogg (400 in chips) 
+SonicHedgehogg: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 3c]
+SonicHedgehogg: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: SonicHedgehogg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259544820940: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:24:56 CET [2026/01/31 23:24:56 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1110 in chips) 
+Seat 3: SonicHedgehogg (390 in chips) 
+mabeal1: posts small blind 10
+SonicHedgehogg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 4c]
+mabeal1: calls 10
+SonicHedgehogg: checks 
+*** FLOP *** [Th Ah 6h]
+SonicHedgehogg: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to SonicHedgehogg
+SonicHedgehogg collected 40 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th Ah 6h]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: SonicHedgehogg (big blind) collected (40)
+
+
+
+PokerStars Hand #259544822097: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:25:10 CET [2026/01/31 23:25:10 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 3: SonicHedgehogg (410 in chips) 
+SonicHedgehogg: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 4h]
+SonicHedgehogg: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to SonicHedgehogg
+SonicHedgehogg collected 40 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: SonicHedgehogg (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259544822955: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:25:19 CET [2026/01/31 23:25:19 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: SonicHedgehogg (430 in chips) 
+mabeal1: posts small blind 10
+SonicHedgehogg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Qs]
+mabeal1: calls 10
+SonicHedgehogg: raises 410 to 430 and is all-in
+mabeal1: folds 
+Uncalled bet (410) returned to SonicHedgehogg
+SonicHedgehogg collected 40 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: SonicHedgehogg (big blind) collected (40)
+
+
+
+PokerStars Hand #259544823583: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:25:27 CET [2026/01/31 23:25:27 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: SonicHedgehogg (450 in chips) 
+SonicHedgehogg: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 4s]
+SonicHedgehogg: calls 10
+mabeal1: checks 
+*** FLOP *** [9s Ks 3d]
+mabeal1: checks 
+SonicHedgehogg: checks 
+*** TURN *** [9s Ks 3d] [4h]
+mabeal1: checks 
+SonicHedgehogg: checks 
+*** RIVER *** [9s Ks 3d 4h] [Qs]
+mabeal1: checks 
+SonicHedgehogg: bets 40
+mabeal1: raises 90 to 130
+SonicHedgehogg: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s Ks 3d 4h Qs]
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: SonicHedgehogg (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259544825895: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:25:53 CET [2026/01/31 23:25:53 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1110 in chips) 
+Seat 3: SonicHedgehogg (390 in chips) 
+mabeal1: posts small blind 10
+SonicHedgehogg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ah]
+mabeal1: raises 1090 to 1110 and is all-in
+SonicHedgehogg: folds 
+Uncalled bet (1090) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: SonicHedgehogg (big blind) folded before Flop
+
+
+
+PokerStars Hand #259544826828: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 5:26:04 CET [2026/01/31 23:26:04 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1130 in chips) 
+Seat 3: SonicHedgehogg (370 in chips) 
+SonicHedgehogg: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 2d]
+SonicHedgehogg: calls 10
+mabeal1: checks 
+*** FLOP *** [4h Tc Ad]
+mabeal1: checks 
+SonicHedgehogg: checks 
+*** TURN *** [4h Tc Ad] [4s]
+mabeal1: checks 
+SonicHedgehogg: checks 
+*** RIVER *** [4h Tc Ad 4s] [5d]
+mabeal1: checks 
+SonicHedgehogg: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+SonicHedgehogg: shows [5c 8s] (two pair, Fives and Fours)
+mabeal1: mucks hand 
+SonicHedgehogg collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h Tc Ad 4s 5d]
+Seat 1: mabeal1 (big blind) mucked [Qh 2d]
+Seat 3: SonicHedgehogg (button) (small blind) showed [5c 8s] and won (120) with two pair, Fives and Fours
+
+
+
+PokerStars Hand #259544829340: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:26:33 CET [2026/01/31 23:26:33 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: SonicHedgehogg (430 in chips) 
+mabeal1: posts small blind 15
+SonicHedgehogg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3h]
+mabeal1: calls 15
+SonicHedgehogg: checks 
+*** FLOP *** [5h 5d Js]
+SonicHedgehogg: checks 
+mabeal1: bets 30
+SonicHedgehogg: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h 5d Js]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: SonicHedgehogg (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259544830575: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:26:46 CET [2026/01/31 23:26:46 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1100 in chips) 
+Seat 3: SonicHedgehogg (400 in chips) 
+SonicHedgehogg: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8h]
+SonicHedgehogg: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: SonicHedgehogg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259544831036: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:26:52 CET [2026/01/31 23:26:52 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1115 in chips) 
+Seat 3: SonicHedgehogg (385 in chips) 
+mabeal1: posts small blind 15
+SonicHedgehogg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7c]
+mabeal1: calls 15
+SonicHedgehogg: checks 
+*** FLOP *** [Jh 2c As]
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** TURN *** [Jh 2c As] [Jd]
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** RIVER *** [Jh 2c As Jd] [8d]
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+SonicHedgehogg: shows [4c Kh] (a pair of Jacks)
+mabeal1: mucks hand 
+SonicHedgehogg collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh 2c As Jd 8d]
+Seat 1: mabeal1 (button) (small blind) mucked [Qd 7c]
+Seat 3: SonicHedgehogg (big blind) showed [4c Kh] and won (60) with a pair of Jacks
+
+
+
+PokerStars Hand #259544832897: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:27:13 CET [2026/01/31 23:27:13 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1085 in chips) 
+Seat 3: SonicHedgehogg (415 in chips) 
+SonicHedgehogg: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 4s]
+SonicHedgehogg: calls 15
+mabeal1: checks 
+*** FLOP *** [7s 9d Ac]
+mabeal1: checks 
+SonicHedgehogg: checks 
+*** TURN *** [7s 9d Ac] [4d]
+mabeal1: checks 
+SonicHedgehogg: bets 30
+mabeal1: calls 30
+*** RIVER *** [7s 9d Ac 4d] [8d]
+mabeal1: checks 
+SonicHedgehogg: checks 
+*** SHOW DOWN ***
+mabeal1: shows [3s 4s] (a pair of Fours)
+SonicHedgehogg: mucks hand 
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s 9d Ac 4d 8d]
+Seat 1: mabeal1 (big blind) showed [3s 4s] and won (120) with a pair of Fours
+Seat 3: SonicHedgehogg (button) (small blind) mucked [Kh 6c]
+
+
+
+PokerStars Hand #259544835012: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:27:37 CET [2026/01/31 23:27:37 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1145 in chips) 
+Seat 3: SonicHedgehogg (355 in chips) 
+mabeal1: posts small blind 15
+SonicHedgehogg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 9s]
+mabeal1: calls 15
+SonicHedgehogg: checks 
+*** FLOP *** [8h 8c 7s]
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** TURN *** [8h 8c 7s] [9h]
+SonicHedgehogg: checks 
+mabeal1: bets 30
+SonicHedgehogg: calls 30
+*** RIVER *** [8h 8c 7s 9h] [7d]
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+SonicHedgehogg: shows [6d 4h] (two pair, Eights and Sevens)
+mabeal1: shows [Jc 9s] (two pair, Nines and Eights)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8h 8c 7s 9h 7d]
+Seat 1: mabeal1 (button) (small blind) showed [Jc 9s] and won (120) with two pair, Nines and Eights
+Seat 3: SonicHedgehogg (big blind) showed [6d 4h] and lost with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #259544837774: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:28:08 CET [2026/01/31 23:28:08 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1205 in chips) 
+Seat 3: SonicHedgehogg (295 in chips) 
+SonicHedgehogg: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4d]
+SonicHedgehogg: raises 265 to 295 and is all-in
+mabeal1: folds 
+Uncalled bet (265) returned to SonicHedgehogg
+SonicHedgehogg collected 60 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: SonicHedgehogg (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259544838419: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:28:15 CET [2026/01/31 23:28:15 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1175 in chips) 
+Seat 3: SonicHedgehogg (325 in chips) 
+mabeal1: posts small blind 15
+SonicHedgehogg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 5s]
+mabeal1: calls 15
+SonicHedgehogg: raises 295 to 325 and is all-in
+mabeal1: folds 
+Uncalled bet (295) returned to SonicHedgehogg
+SonicHedgehogg collected 60 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: SonicHedgehogg (big blind) collected (60)
+
+
+
+PokerStars Hand #259544839186: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:28:25 CET [2026/01/31 23:28:25 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1145 in chips) 
+Seat 3: SonicHedgehogg (355 in chips) 
+SonicHedgehogg: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 3h]
+SonicHedgehogg: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: SonicHedgehogg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259544839641: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:28:30 CET [2026/01/31 23:28:30 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1160 in chips) 
+Seat 3: SonicHedgehogg (340 in chips) 
+mabeal1: posts small blind 15
+SonicHedgehogg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 9h]
+mabeal1: raises 30 to 60
+SonicHedgehogg: raises 280 to 340 and is all-in
+mabeal1: folds 
+Uncalled bet (280) returned to SonicHedgehogg
+SonicHedgehogg collected 120 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: SonicHedgehogg (big blind) collected (120)
+
+
+
+PokerStars Hand #259544840540: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:28:41 CET [2026/01/31 23:28:41 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1100 in chips) 
+Seat 3: SonicHedgehogg (400 in chips) 
+SonicHedgehogg: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Ac]
+SonicHedgehogg: calls 15
+mabeal1: raises 30 to 60
+SonicHedgehogg: raises 340 to 400 and is all-in
+mabeal1: calls 340
+*** FLOP *** [Ks 9c 6s]
+*** TURN *** [Ks 9c 6s] [Qc]
+*** RIVER *** [Ks 9c 6s Qc] [5s]
+*** SHOW DOWN ***
+mabeal1: shows [6h Ac] (a pair of Sixes)
+SonicHedgehogg: shows [Ad Kd] (a pair of Kings)
+SonicHedgehogg collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Ks 9c 6s Qc 5s]
+Seat 1: mabeal1 (big blind) showed [6h Ac] and lost with a pair of Sixes
+Seat 3: SonicHedgehogg (button) (small blind) showed [Ad Kd] and won (800) with a pair of Kings
+
+
+
+PokerStars Hand #259544842112: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:28:59 CET [2026/01/31 23:28:59 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (700 in chips) 
+Seat 3: SonicHedgehogg (800 in chips) 
+mabeal1: posts small blind 15
+SonicHedgehogg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 5d]
+mabeal1: folds 
+Uncalled bet (15) returned to SonicHedgehogg
+SonicHedgehogg collected 30 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: SonicHedgehogg (big blind) collected (30)
+
+
+
+PokerStars Hand #259544842692: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 5:29:05 CET [2026/01/31 23:29:05 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (685 in chips) 
+Seat 3: SonicHedgehogg (815 in chips) 
+SonicHedgehogg: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 7h]
+SonicHedgehogg: calls 15
+mabeal1: checks 
+*** FLOP *** [4h Ah As]
+mabeal1: checks 
+SonicHedgehogg: checks 
+*** TURN *** [4h Ah As] [Th]
+mabeal1: bets 30
+SonicHedgehogg: calls 30
+*** RIVER *** [4h Ah As Th] [9s]
+mabeal1: checks 
+SonicHedgehogg: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to SonicHedgehogg
+SonicHedgehogg collected 120 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h Ah As Th 9s]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 3: SonicHedgehogg (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259544844858: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:29:31 CET [2026/01/31 23:29:31 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (625 in chips) 
+Seat 3: SonicHedgehogg (875 in chips) 
+mabeal1: posts small blind 20
+SonicHedgehogg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 2c]
+mabeal1: calls 20
+SonicHedgehogg: raises 835 to 875 and is all-in
+mabeal1: folds 
+Uncalled bet (835) returned to SonicHedgehogg
+SonicHedgehogg collected 80 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: SonicHedgehogg (big blind) collected (80)
+
+
+
+PokerStars Hand #259544845727: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:29:40 CET [2026/01/31 23:29:40 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (585 in chips) 
+Seat 3: SonicHedgehogg (915 in chips) 
+SonicHedgehogg: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 5d]
+SonicHedgehogg: calls 20
+mabeal1: checks 
+*** FLOP *** [Ah 2c As]
+mabeal1: checks 
+SonicHedgehogg: bets 40
+mabeal1: calls 40
+*** TURN *** [Ah 2c As] [Qc]
+mabeal1: checks 
+SonicHedgehogg: bets 40
+mabeal1: calls 40
+*** RIVER *** [Ah 2c As Qc] [Ac]
+mabeal1: checks 
+SonicHedgehogg: bets 80
+mabeal1: calls 80
+*** SHOW DOWN ***
+SonicHedgehogg: shows [7s 6s] (three of a kind, Aces)
+mabeal1: shows [Ks 5d] (three of a kind, Aces - King kicker)
+mabeal1 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Ah 2c As Qc Ac]
+Seat 1: mabeal1 (big blind) showed [Ks 5d] and won (400) with three of a kind, Aces
+Seat 3: SonicHedgehogg (button) (small blind) showed [7s 6s] and lost with three of a kind, Aces
+
+
+
+PokerStars Hand #259544847752: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:30:05 CET [2026/01/31 23:30:05 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (785 in chips) 
+Seat 3: SonicHedgehogg (715 in chips) 
+mabeal1: posts small blind 20
+SonicHedgehogg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Ad]
+mabeal1: raises 745 to 785 and is all-in
+SonicHedgehogg: folds 
+Uncalled bet (745) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: SonicHedgehogg (big blind) folded before Flop
+
+
+
+PokerStars Hand #259544848551: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:30:14 CET [2026/01/31 23:30:14 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (825 in chips) 
+Seat 3: SonicHedgehogg (675 in chips) 
+SonicHedgehogg: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Js]
+SonicHedgehogg: raises 635 to 675 and is all-in
+mabeal1: folds 
+Uncalled bet (635) returned to SonicHedgehogg
+SonicHedgehogg collected 80 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: SonicHedgehogg (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259544849213: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:30:21 CET [2026/01/31 23:30:21 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (785 in chips) 
+Seat 3: SonicHedgehogg (715 in chips) 
+mabeal1: posts small blind 20
+SonicHedgehogg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Th]
+mabeal1: calls 20
+SonicHedgehogg: checks 
+*** FLOP *** [5h 7h 4d]
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** TURN *** [5h 7h 4d] [Kc]
+SonicHedgehogg: checks 
+mabeal1: bets 60
+SonicHedgehogg: calls 60
+*** RIVER *** [5h 7h 4d Kc] [9d]
+SonicHedgehogg: checks 
+mabeal1: bets 150
+SonicHedgehogg: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5h 7h 4d Kc 9d]
+Seat 1: mabeal1 (button) (small blind) collected (200)
+Seat 3: SonicHedgehogg (big blind) folded on the River
+
+
+
+PokerStars Hand #259544851338: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:30:47 CET [2026/01/31 23:30:47 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (885 in chips) 
+Seat 3: SonicHedgehogg (615 in chips) 
+SonicHedgehogg: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9d]
+SonicHedgehogg: raises 575 to 615 and is all-in
+mabeal1: folds 
+Uncalled bet (575) returned to SonicHedgehogg
+SonicHedgehogg collected 80 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: SonicHedgehogg (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259544852014: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:30:55 CET [2026/01/31 23:30:55 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (845 in chips) 
+Seat 3: SonicHedgehogg (655 in chips) 
+mabeal1: posts small blind 20
+SonicHedgehogg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Tc]
+mabeal1: calls 20
+SonicHedgehogg: checks 
+*** FLOP *** [Kh 5h 2d]
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** TURN *** [Kh 5h 2d] [6d]
+SonicHedgehogg: bets 40
+mabeal1: calls 40
+*** RIVER *** [Kh 5h 2d 6d] [4h]
+SonicHedgehogg: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+SonicHedgehogg: shows [6s 3s] (a straight, Deuce to Six)
+mabeal1: mucks hand 
+SonicHedgehogg collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kh 5h 2d 6d 4h]
+Seat 1: mabeal1 (button) (small blind) mucked [Ad Tc]
+Seat 3: SonicHedgehogg (big blind) showed [6s 3s] and won (240) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #259544853845: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:31:16 CET [2026/01/31 23:31:16 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (725 in chips) 
+Seat 3: SonicHedgehogg (775 in chips) 
+SonicHedgehogg: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7h]
+SonicHedgehogg: calls 20
+mabeal1: raises 40 to 80
+SonicHedgehogg: calls 40
+*** FLOP *** [8d 9s 3d]
+mabeal1: checks 
+SonicHedgehogg: checks 
+*** TURN *** [8d 9s 3d] [As]
+mabeal1: bets 80
+SonicHedgehogg: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8d 9s 3d As]
+Seat 1: mabeal1 (big blind) collected (160)
+Seat 3: SonicHedgehogg (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259544855850: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:31:39 CET [2026/01/31 23:31:39 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (805 in chips) 
+Seat 3: SonicHedgehogg (695 in chips) 
+mabeal1: posts small blind 20
+SonicHedgehogg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 3c]
+mabeal1: folds 
+Uncalled bet (20) returned to SonicHedgehogg
+SonicHedgehogg collected 40 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: SonicHedgehogg (big blind) collected (40)
+
+
+
+PokerStars Hand #259544856808: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:31:51 CET [2026/01/31 23:31:51 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (785 in chips) 
+Seat 3: SonicHedgehogg (715 in chips) 
+SonicHedgehogg: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 6c]
+SonicHedgehogg: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: SonicHedgehogg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259544857317: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:31:57 CET [2026/01/31 23:31:57 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (805 in chips) 
+Seat 3: SonicHedgehogg (695 in chips) 
+mabeal1: posts small blind 20
+SonicHedgehogg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Td]
+mabeal1: raises 40 to 80
+SonicHedgehogg: calls 40
+*** FLOP *** [Kh 2c Qd]
+SonicHedgehogg: checks 
+mabeal1: bets 80
+SonicHedgehogg: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh 2c Qd]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: SonicHedgehogg (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259544858651: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:32:13 CET [2026/01/31 23:32:13 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (885 in chips) 
+Seat 3: SonicHedgehogg (615 in chips) 
+SonicHedgehogg: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8c]
+SonicHedgehogg: raises 575 to 615 and is all-in
+mabeal1: folds 
+Uncalled bet (575) returned to SonicHedgehogg
+SonicHedgehogg collected 80 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: SonicHedgehogg (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259544859298: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 5:32:21 CET [2026/01/31 23:32:21 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (845 in chips) 
+Seat 3: SonicHedgehogg (655 in chips) 
+mabeal1: posts small blind 20
+SonicHedgehogg: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 5d]
+mabeal1: calls 20
+SonicHedgehogg: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [3s 6c Ts]
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** TURN *** [3s 6c Ts] [Kc]
+SonicHedgehogg: checks 
+mabeal1: checks 
+*** RIVER *** [3s 6c Ts Kc] [Kd]
+SonicHedgehogg: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to SonicHedgehogg
+SonicHedgehogg collected 160 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3s 6c Ts Kc Kd]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 3: SonicHedgehogg (big blind) collected (160)
+
+
+
+PokerStars Hand #259544861561: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 5:32:47 CET [2026/01/31 23:32:47 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (765 in chips) 
+Seat 3: SonicHedgehogg (735 in chips) 
+SonicHedgehogg: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Jd]
+SonicHedgehogg: calls 30
+mabeal1: raises 120 to 180
+SonicHedgehogg: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: SonicHedgehogg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259544862638: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 5:33:00 CET [2026/01/31 23:33:00 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (825 in chips) 
+Seat 3: SonicHedgehogg (675 in chips) 
+mabeal1: posts small blind 30
+SonicHedgehogg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Qs]
+mabeal1: raises 60 to 120
+SonicHedgehogg: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: SonicHedgehogg (big blind) folded before Flop
+
+
+
+PokerStars Hand #259544863276: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 5:33:07 CET [2026/01/31 23:33:07 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (885 in chips) 
+Seat 3: SonicHedgehogg (615 in chips) 
+SonicHedgehogg: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 4h]
+SonicHedgehogg: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: SonicHedgehogg (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259544863698: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 5:33:13 CET [2026/01/31 23:33:13 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (915 in chips) 
+Seat 3: SonicHedgehogg (585 in chips) 
+mabeal1: posts small blind 30
+SonicHedgehogg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 4h]
+mabeal1: calls 30
+SonicHedgehogg: raises 525 to 585 and is all-in
+mabeal1: folds 
+Uncalled bet (525) returned to SonicHedgehogg
+SonicHedgehogg collected 120 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: SonicHedgehogg (big blind) collected (120)
+
+
+
+PokerStars Hand #259544864558: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 5:33:22 CET [2026/01/31 23:33:22 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (855 in chips) 
+Seat 3: SonicHedgehogg (645 in chips) 
+SonicHedgehogg: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Th]
+SonicHedgehogg: raises 585 to 645 and is all-in
+mabeal1: folds 
+Uncalled bet (585) returned to SonicHedgehogg
+SonicHedgehogg collected 120 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: SonicHedgehogg (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259544865162: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 5:33:29 CET [2026/01/31 23:33:29 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (795 in chips) 
+Seat 3: SonicHedgehogg (705 in chips) 
+mabeal1: posts small blind 30
+SonicHedgehogg: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Tc]
+mabeal1: calls 30
+SonicHedgehogg: raises 645 to 705 and is all-in
+mabeal1: folds 
+Uncalled bet (645) returned to SonicHedgehogg
+SonicHedgehogg collected 120 from pot
+SonicHedgehogg: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: SonicHedgehogg (big blind) collected (120)
+
+
+
+PokerStars Hand #259544865827: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 5:33:37 CET [2026/01/31 23:33:37 ET]
+Table '3971018315 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (735 in chips) 
+Seat 3: SonicHedgehogg (765 in chips) 
+SonicHedgehogg: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Kd]
+SonicHedgehogg: raises 705 to 765 and is all-in
+mabeal1: calls 675 and is all-in
+Uncalled bet (30) returned to SonicHedgehogg
+*** FLOP *** [Qd 2h Tc]
+*** TURN *** [Qd 2h Tc] [Jh]
+*** RIVER *** [Qd 2h Tc Jh] [Qc]
+*** SHOW DOWN ***
+mabeal1: shows [Qs Kd] (three of a kind, Queens)
+SonicHedgehogg: shows [Ah 3h] (a pair of Queens)
+mabeal1 collected 1470 from pot
+*** SUMMARY ***
+Total pot 1470 | Rake 0 
+Board [Qd 2h Tc Jh Qc]
+Seat 1: mabeal1 (big blind) showed [Qs Kd] and won (1470) with three of a kind, Queens
+Seat 3: SonicHedgehogg (button) (small blind) showed [Ah 3h] and lost with a pair of Queens
+
+
+
+PokerStars Hand #259544867106: Tournament #3971018315, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 5:33:52 CET [2026/01/31 23:33:52 ET]
+Table '3971018315 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1470 in chips) 
+Seat 3: SonicHedgehogg (30 in chips) 
+mabeal1: posts small blind 30
+SonicHedgehogg: posts big blind 30 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 7d]
+*** FLOP *** [Kd Kc 2s]
+*** TURN *** [Kd Kc 2s] [3d]
+*** RIVER *** [Kd Kc 2s 3d] [5h]
+*** SHOW DOWN ***
+SonicHedgehogg: shows [9c Jd] (a pair of Kings)
+mabeal1: shows [Qs 7d] (a pair of Kings - Queen kicker)
+mabeal1 collected 60 from pot
+SonicHedgehogg finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd Kc 2s 3d 5h]
+Seat 1: mabeal1 (button) (small blind) showed [Qs 7d] and won (60) with a pair of Kings
+Seat 3: SonicHedgehogg (big blind) showed [9c Jd] and lost with a pair of Kings
+
+
+

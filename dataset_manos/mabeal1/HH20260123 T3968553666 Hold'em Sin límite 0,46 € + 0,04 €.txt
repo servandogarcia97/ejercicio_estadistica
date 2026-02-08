@@ -1,0 +1,161 @@
+﻿PokerStars Hand #259436268396: Tournament #3968553666, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:29:10 CET [2026/01/23 20:29:10 ET]
+Table '3968553666 1' 3-max Seat #1 is the button
+Seat 1: neobomber89 (500 in chips) 
+Seat 2: HCastrooo (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+HCastrooo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Th]
+neobomber89: folds 
+HCastrooo: calls 10
+mabeal1: checks 
+*** FLOP *** [2d 3h Jd]
+HCastrooo: checks 
+mabeal1: bets 20
+HCastrooo: calls 20
+*** TURN *** [2d 3h Jd] [8c]
+HCastrooo: checks 
+mabeal1: bets 60
+HCastrooo: calls 60
+*** RIVER *** [2d 3h Jd 8c] [4h]
+HCastrooo: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+HCastrooo: shows [5s Qh] (high card Queen)
+mabeal1: mucks hand 
+HCastrooo collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2d 3h Jd 8c 4h]
+Seat 1: neobomber89 (button) folded before Flop (didn't bet)
+Seat 2: HCastrooo (small blind) showed [5s Qh] and won (200) with high card Queen
+Seat 3: mabeal1 (big blind) mucked [9h Th]
+
+
+
+PokerStars Hand #259436272194: Tournament #3968553666, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:29:32 CET [2026/01/23 20:29:32 ET]
+Table '3968553666 1' 3-max Seat #2 is the button
+Seat 1: neobomber89 (500 in chips) 
+Seat 2: HCastrooo (600 in chips) 
+Seat 3: mabeal1 (400 in chips) 
+mabeal1: posts small blind 10
+neobomber89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Ks]
+HCastrooo: calls 20
+mabeal1: folds 
+neobomber89: raises 40 to 60
+HCastrooo: calls 40
+*** FLOP *** [Jc 7s 6h]
+neobomber89: bets 65
+HCastrooo: folds 
+Uncalled bet (65) returned to neobomber89
+neobomber89 collected 130 from pot
+neobomber89: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Jc 7s 6h]
+Seat 1: neobomber89 (big blind) collected (130)
+Seat 2: HCastrooo (button) folded on the Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259436275594: Tournament #3968553666, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:29:53 CET [2026/01/23 20:29:53 ET]
+Table '3968553666 1' 3-max Seat #3 is the button
+Seat 1: neobomber89 (570 in chips) 
+Seat 2: HCastrooo (540 in chips) 
+Seat 3: mabeal1 (390 in chips) 
+neobomber89: posts small blind 10
+HCastrooo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Kh]
+mabeal1: raises 20 to 40
+neobomber89: calls 30
+HCastrooo: calls 20
+*** FLOP *** [2h 7h Qd]
+neobomber89: checks 
+HCastrooo: bets 60
+mabeal1: calls 60
+neobomber89: calls 60
+*** TURN *** [2h 7h Qd] [Qs]
+neobomber89: checks 
+HCastrooo: bets 60
+mabeal1: calls 60
+neobomber89: calls 60
+*** RIVER *** [2h 7h Qd Qs] [Tc]
+neobomber89: checks 
+HCastrooo: bets 20
+mabeal1: folds 
+neobomber89: calls 20
+*** SHOW DOWN ***
+HCastrooo: shows [Js 7c] (two pair, Queens and Sevens)
+neobomber89: mucks hand 
+HCastrooo collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [2h 7h Qd Qs Tc]
+Seat 1: neobomber89 (small blind) mucked [7s 8h]
+Seat 2: HCastrooo (big blind) showed [Js 7c] and won (520) with two pair, Queens and Sevens
+Seat 3: mabeal1 (button) folded on the River
+
+
+
+PokerStars Hand #259436282636: Tournament #3968553666, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:30:34 CET [2026/01/23 20:30:34 ET]
+Table '3968553666 1' 3-max Seat #1 is the button
+Seat 1: neobomber89 (390 in chips) 
+Seat 2: HCastrooo (880 in chips) 
+Seat 3: mabeal1 (230 in chips) 
+HCastrooo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Tc]
+neobomber89: folds 
+HCastrooo: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to HCastrooo
+HCastrooo collected 40 from pot
+HCastrooo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: neobomber89 (button) folded before Flop (didn't bet)
+Seat 2: HCastrooo (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259436284142: Tournament #3968553666, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:30:43 CET [2026/01/23 20:30:43 ET]
+Table '3968553666 1' 3-max Seat #2 is the button
+Seat 1: neobomber89 (390 in chips) 
+Seat 2: HCastrooo (900 in chips) 
+Seat 3: mabeal1 (210 in chips) 
+mabeal1: posts small blind 10
+neobomber89: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Ah]
+HCastrooo: calls 20
+mabeal1: raises 190 to 210 and is all-in
+neobomber89: calls 190
+HCastrooo: calls 190
+*** FLOP *** [Qc 2s 4d]
+neobomber89: bets 180 and is all-in
+HCastrooo: calls 180
+*** TURN *** [Qc 2s 4d] [Qs]
+*** RIVER *** [Qc 2s 4d Qs] [Jd]
+*** SHOW DOWN ***
+neobomber89: shows [Kd Jc] (two pair, Queens and Jacks)
+HCastrooo: shows [3h 3d] (two pair, Queens and Threes)
+neobomber89 collected 360 from side pot
+mabeal1: shows [Ts Ah] (a pair of Queens)
+neobomber89 collected 630 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 Main pot 630. Side pot 360. | Rake 0 
+Board [Qc 2s 4d Qs Jd]
+Seat 1: neobomber89 (big blind) showed [Kd Jc] and won (990) with two pair, Queens and Jacks
+Seat 2: HCastrooo (button) showed [3h 3d] and lost with two pair, Queens and Threes
+Seat 3: mabeal1 (small blind) showed [Ts Ah] and lost with a pair of Queens
+
+
+

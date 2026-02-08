@@ -1,0 +1,383 @@
+﻿PokerStars Hand #259376937710: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:26:32 CET [2026/01/19 10:26:32 ET]
+Table '3967135175 1' 3-max Seat #1 is the button
+Seat 1: Ommega3115 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Sirio605D (500 in chips) 
+mabeal1: posts small blind 10
+Sirio605D: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Qs]
+Ommega3115: calls 20
+mabeal1: folds 
+Sirio605D: checks 
+*** FLOP *** [Ac Ad 8s]
+Sirio605D: checks 
+Ommega3115: bets 40
+Sirio605D: calls 40
+*** TURN *** [Ac Ad 8s] [4h]
+Sirio605D: checks 
+Ommega3115: bets 40
+Sirio605D: calls 40
+*** RIVER *** [Ac Ad 8s 4h] [3s]
+Sirio605D: checks 
+Ommega3115: checks 
+*** SHOW DOWN ***
+Sirio605D: shows [Kc Jh] (a pair of Aces)
+Ommega3115: shows [Jd 8d] (two pair, Aces and Eights)
+Ommega3115 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Ac Ad 8s 4h 3s]
+Seat 1: Ommega3115 (button) showed [Jd 8d] and won (210) with two pair, Aces and Eights
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Sirio605D (big blind) showed [Kc Jh] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259376941799: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:26:57 CET [2026/01/19 10:26:57 ET]
+Table '3967135175 1' 3-max Seat #2 is the button
+Seat 1: Ommega3115 (610 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Sirio605D (400 in chips) 
+Sirio605D: posts small blind 10
+Ommega3115: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Ks]
+mabeal1: raises 20 to 40
+Sirio605D: calls 30
+Ommega3115: folds 
+*** FLOP *** [3c 3h 6c]
+Sirio605D: checks 
+mabeal1: bets 20
+Sirio605D: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3c 3h 6c]
+Seat 1: Ommega3115 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (100)
+Seat 3: Sirio605D (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259376945052: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:27:16 CET [2026/01/19 10:27:16 ET]
+Table '3967135175 1' 3-max Seat #3 is the button
+Seat 1: Ommega3115 (590 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: Sirio605D (360 in chips) 
+Ommega3115: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 3d]
+Sirio605D: raises 40 to 60
+Ommega3115: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to Sirio605D
+Sirio605D collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Ommega3115 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Sirio605D (button) collected (50)
+
+
+
+PokerStars Hand #259376946998: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:27:27 CET [2026/01/19 10:27:27 ET]
+Table '3967135175 1' 3-max Seat #1 is the button
+Seat 1: Ommega3115 (580 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: Sirio605D (390 in chips) 
+mabeal1: posts small blind 10
+Sirio605D: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 9s]
+Ommega3115: raises 560 to 580 and is all-in
+mabeal1: folds 
+Sirio605D: folds 
+Uncalled bet (560) returned to Ommega3115
+Ommega3115 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Ommega3115 (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Sirio605D (big blind) folded before Flop
+
+
+
+PokerStars Hand #259376948516: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:27:36 CET [2026/01/19 10:27:36 ET]
+Table '3967135175 1' 3-max Seat #2 is the button
+Seat 1: Ommega3115 (610 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Sirio605D (370 in chips) 
+Sirio605D: posts small blind 10
+Ommega3115: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2c]
+mabeal1: folds 
+Sirio605D: calls 10
+Ommega3115: raises 20 to 40
+Sirio605D: calls 20
+*** FLOP *** [7c 2d 6s]
+Sirio605D: checks 
+Ommega3115: checks 
+*** TURN *** [7c 2d 6s] [As]
+Sirio605D: checks 
+Ommega3115: checks 
+*** RIVER *** [7c 2d 6s As] [Td]
+Sirio605D: checks 
+Ommega3115: bets 40
+Sirio605D: folds 
+Uncalled bet (40) returned to Ommega3115
+Ommega3115 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c 2d 6s As Td]
+Seat 1: Ommega3115 (big blind) collected (80)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Sirio605D (small blind) folded on the River
+
+
+
+PokerStars Hand #259376951989: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:27:57 CET [2026/01/19 10:27:57 ET]
+Table '3967135175 1' 3-max Seat #3 is the button
+Seat 1: Ommega3115 (650 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Sirio605D (330 in chips) 
+Ommega3115: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 7s]
+Sirio605D: raises 40 to 60
+Ommega3115: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to Sirio605D
+Sirio605D collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Ommega3115 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Sirio605D (button) collected (50)
+
+
+
+PokerStars Hand #259376953337: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:28:05 CET [2026/01/19 10:28:05 ET]
+Table '3967135175 1' 3-max Seat #1 is the button
+Seat 1: Ommega3115 (640 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Sirio605D (360 in chips) 
+mabeal1: posts small blind 10
+Sirio605D: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 2c]
+Ommega3115: raises 20 to 40
+mabeal1: raises 460 to 500 and is all-in
+Sirio605D: folds 
+Ommega3115: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Ommega3115 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (100)
+Seat 3: Sirio605D (big blind) folded before Flop
+
+
+
+PokerStars Hand #259376955537: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:28:18 CET [2026/01/19 10:28:18 ET]
+Table '3967135175 1' 3-max Seat #2 is the button
+Seat 1: Ommega3115 (600 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: Sirio605D (340 in chips) 
+Sirio605D: posts small blind 10
+Ommega3115: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd As]
+mabeal1: raises 540 to 560 and is all-in
+Sirio605D: folds 
+Ommega3115: folds 
+Uncalled bet (540) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Ommega3115 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: Sirio605D (small blind) folded before Flop
+
+
+
+PokerStars Hand #259376957271: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:28:28 CET [2026/01/19 10:28:28 ET]
+Table '3967135175 1' 3-max Seat #3 is the button
+Seat 1: Ommega3115 (580 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: Sirio605D (330 in chips) 
+Ommega3115: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Jh]
+Sirio605D: folds 
+Ommega3115: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Ommega3115 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: Sirio605D (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259376958298: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:28:34 CET [2026/01/19 10:28:34 ET]
+Table '3967135175 1' 3-max Seat #1 is the button
+Seat 1: Ommega3115 (570 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: Sirio605D (330 in chips) 
+mabeal1: posts small blind 10
+Sirio605D: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 6c]
+Ommega3115: calls 20
+mabeal1: folds 
+Sirio605D: checks 
+*** FLOP *** [Qs Jd 5h]
+Sirio605D: checks 
+Ommega3115: checks 
+*** TURN *** [Qs Jd 5h] [Td]
+Sirio605D: checks 
+Ommega3115: checks 
+*** RIVER *** [Qs Jd 5h Td] [3h]
+Sirio605D: checks 
+Ommega3115: bets 20
+Sirio605D: folds 
+Uncalled bet (20) returned to Ommega3115
+Ommega3115 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Qs Jd 5h Td 3h]
+Seat 1: Ommega3115 (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Sirio605D (big blind) folded on the River
+
+
+
+PokerStars Hand #259376962845: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:29:01 CET [2026/01/19 10:29:01 ET]
+Table '3967135175 1' 3-max Seat #2 is the button
+Seat 1: Ommega3115 (600 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: Sirio605D (310 in chips) 
+Sirio605D: posts small blind 10
+Ommega3115: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ac]
+mabeal1: raises 20 to 40
+Sirio605D: folds 
+Ommega3115: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Ommega3115 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: Sirio605D (small blind) folded before Flop
+
+
+
+PokerStars Hand #259376964433: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:29:10 CET [2026/01/19 10:29:10 ET]
+Table '3967135175 1' 3-max Seat #3 is the button
+Seat 1: Ommega3115 (580 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: Sirio605D (300 in chips) 
+Ommega3115: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ts]
+Sirio605D: calls 20
+Ommega3115: folds 
+mabeal1: checks 
+*** FLOP *** [Jd 8c 5s]
+mabeal1: checks 
+Sirio605D: checks 
+*** TURN *** [Jd 8c 5s] [As]
+mabeal1: bets 20
+Sirio605D: calls 20
+*** RIVER *** [Jd 8c 5s As] [9c]
+mabeal1: checks 
+Sirio605D: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Sirio605D
+Sirio605D collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Jd 8c 5s As 9c]
+Seat 1: Ommega3115 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: Sirio605D (button) collected (90)
+
+
+
+PokerStars Hand #259376969333: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 16:29:39 CET [2026/01/19 10:29:39 ET]
+Table '3967135175 1' 3-max Seat #1 is the button
+Seat 1: Ommega3115 (570 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: Sirio605D (350 in chips) 
+mabeal1: posts small blind 15
+Sirio605D: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 6h]
+Ommega3115: calls 30
+mabeal1: raises 550 to 580 and is all-in
+Sirio605D: calls 320 and is all-in
+Ommega3115: folds 
+Uncalled bet (230) returned to mabeal1
+*** FLOP *** [Jh 9d 3h]
+*** TURN *** [Jh 9d 3h] [Js]
+*** RIVER *** [Jh 9d 3h Js] [7c]
+*** SHOW DOWN ***
+mabeal1: shows [As 6h] (a pair of Jacks)
+Sirio605D: shows [Ah Td] (a pair of Jacks - Ace+Ten kicker)
+Sirio605D collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [Jh 9d 3h Js 7c]
+Seat 1: Ommega3115 (button) folded before Flop
+Seat 2: mabeal1 (small blind) showed [As 6h] and lost with a pair of Jacks
+Seat 3: Sirio605D (big blind) showed [Ah Td] and won (730) with a pair of Jacks
+
+
+
+PokerStars Hand #259376972517: Tournament #3967135175, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 16:29:59 CET [2026/01/19 10:29:59 ET]
+Table '3967135175 1' 3-max Seat #2 is the button
+Seat 1: Ommega3115 (540 in chips) 
+Seat 2: mabeal1 (230 in chips) 
+Seat 3: Sirio605D (730 in chips) 
+Sirio605D: posts small blind 15
+Ommega3115: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Qd]
+mabeal1: raises 30 to 60
+Sirio605D: folds 
+Ommega3115: raises 480 to 540 and is all-in
+mabeal1: calls 170 and is all-in
+Uncalled bet (310) returned to Ommega3115
+*** FLOP *** [Jc 8d 2d]
+*** TURN *** [Jc 8d 2d] [As]
+*** RIVER *** [Jc 8d 2d As] [9c]
+*** SHOW DOWN ***
+Ommega3115: shows [Ac 8h] (two pair, Aces and Eights)
+mabeal1: shows [9h Qd] (a pair of Nines)
+Ommega3115 collected 475 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Board [Jc 8d 2d As 9c]
+Seat 1: Ommega3115 (big blind) showed [Ac 8h] and won (475) with two pair, Aces and Eights
+Seat 2: mabeal1 (button) showed [9h Qd] and lost with a pair of Nines
+Seat 3: Sirio605D (small blind) folded before Flop
+
+
+

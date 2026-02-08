@@ -1,0 +1,1096 @@
+﻿PokerStars Hand #259478425322: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:34:00 CET [2026/01/26 21:34:00 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (500 in chips) 
+Seat 2: PoweerM (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+PoweerM: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 7c]
+oizoo86: raises 50 to 70
+PoweerM: folds 
+mabeal1: folds 
+Uncalled bet (50) returned to oizoo86
+oizoo86 collected 50 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: oizoo86 (button) collected (50)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259478426651: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:34:10 CET [2026/01/26 21:34:10 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (530 in chips) 
+Seat 2: PoweerM (490 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+oizoo86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 5d]
+PoweerM: folds 
+mabeal1: calls 10
+oizoo86: raises 80 to 100
+mabeal1: folds 
+Uncalled bet (80) returned to oizoo86
+oizoo86 collected 40 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: oizoo86 (big blind) collected (40)
+Seat 2: PoweerM (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478428400: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:34:25 CET [2026/01/26 21:34:25 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (550 in chips) 
+Seat 2: PoweerM (490 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+oizoo86: posts small blind 10
+PoweerM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8h]
+mabeal1: raises 20 to 40
+oizoo86: raises 120 to 160
+PoweerM: folds 
+mabeal1: folds 
+Uncalled bet (120) returned to oizoo86
+oizoo86 collected 100 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: oizoo86 (small blind) collected (100)
+Seat 2: PoweerM (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop
+
+
+
+PokerStars Hand #259478429613: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:34:35 CET [2026/01/26 21:34:35 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (610 in chips) 
+Seat 2: PoweerM (470 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+PoweerM: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Jh]
+oizoo86: folds 
+PoweerM: calls 10
+mabeal1: checks 
+*** FLOP *** [6d Ac Kh]
+PoweerM: checks 
+mabeal1: checks 
+*** TURN *** [6d Ac Kh] [7d]
+PoweerM: checks 
+mabeal1: checks 
+*** RIVER *** [6d Ac Kh 7d] [2d]
+PoweerM: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+PoweerM: shows [Js Qd] (high card Ace)
+mabeal1: mucks hand 
+PoweerM collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6d Ac Kh 7d 2d]
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) showed [Js Qd] and won (40) with high card Ace
+Seat 3: mabeal1 (big blind) mucked [5c Jh]
+
+
+
+PokerStars Hand #259478433055: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:35:04 CET [2026/01/26 21:35:04 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (610 in chips) 
+Seat 2: PoweerM (490 in chips) 
+Seat 3: mabeal1 (400 in chips) 
+mabeal1: posts small blind 10
+oizoo86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2s]
+PoweerM: calls 20
+mabeal1: folds 
+oizoo86: checks 
+*** FLOP *** [9c 9d 6d]
+oizoo86: bets 32
+PoweerM: calls 32
+*** TURN *** [9c 9d 6d] [8h]
+oizoo86: checks 
+PoweerM: checks 
+*** RIVER *** [9c 9d 6d 8h] [As]
+oizoo86: checks 
+PoweerM: checks 
+*** SHOW DOWN ***
+oizoo86: shows [4d 6c] (two pair, Nines and Sixes)
+PoweerM: shows [6s Ks] (two pair, Nines and Sixes)
+oizoo86 collected 57 from pot
+PoweerM collected 57 from pot
+*** SUMMARY ***
+Total pot 114 | Rake 0 
+Board [9c 9d 6d 8h As]
+Seat 1: oizoo86 (big blind) showed [4d 6c] and won (57) with two pair, Nines and Sixes
+Seat 2: PoweerM (button) showed [6s Ks] and won (57) with two pair, Nines and Sixes
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478439876: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:36:01 CET [2026/01/26 21:36:01 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (615 in chips) 
+Seat 2: PoweerM (495 in chips) 
+Seat 3: mabeal1 (390 in chips) 
+oizoo86: posts small blind 10
+PoweerM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts As]
+mabeal1: raises 20 to 40
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259478441436: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:36:14 CET [2026/01/26 21:36:14 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (605 in chips) 
+Seat 2: PoweerM (475 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+PoweerM: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5s]
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259478442236: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:36:20 CET [2026/01/26 21:36:20 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (605 in chips) 
+Seat 2: PoweerM (465 in chips) 
+Seat 3: mabeal1 (430 in chips) 
+mabeal1: posts small blind 10
+oizoo86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 3d]
+PoweerM: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to oizoo86
+oizoo86 collected 20 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: oizoo86 (big blind) collected (20)
+Seat 2: PoweerM (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478442859: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:36:26 CET [2026/01/26 21:36:26 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (615 in chips) 
+Seat 2: PoweerM (465 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+oizoo86: posts small blind 10
+PoweerM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Ah]
+mabeal1: raises 20 to 40
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259478444722: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:36:41 CET [2026/01/26 21:36:41 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (605 in chips) 
+Seat 2: PoweerM (445 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+PoweerM: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 4c]
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259478446417: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:36:55 CET [2026/01/26 21:36:55 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (605 in chips) 
+Seat 2: PoweerM (435 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+oizoo86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7c]
+PoweerM: calls 20
+mabeal1: calls 10
+oizoo86: raises 585 to 605 and is all-in
+PoweerM: folds 
+mabeal1: folds 
+Uncalled bet (585) returned to oizoo86
+oizoo86 collected 60 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: oizoo86 (big blind) collected (60)
+Seat 2: PoweerM (button) folded before Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478449050: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:37:17 CET [2026/01/26 21:37:17 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (645 in chips) 
+Seat 2: PoweerM (415 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+oizoo86: posts small blind 15
+PoweerM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4h]
+mabeal1: folds 
+oizoo86: raises 90 to 120
+PoweerM: folds 
+Uncalled bet (90) returned to oizoo86
+oizoo86 collected 60 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: oizoo86 (small blind) collected (60)
+Seat 2: PoweerM (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478450175: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:37:27 CET [2026/01/26 21:37:27 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (675 in chips) 
+Seat 2: PoweerM (385 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+PoweerM: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 6s]
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259478451242: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:37:35 CET [2026/01/26 21:37:35 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (675 in chips) 
+Seat 2: PoweerM (370 in chips) 
+Seat 3: mabeal1 (455 in chips) 
+mabeal1: posts small blind 15
+oizoo86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9h]
+PoweerM: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to oizoo86
+oizoo86 collected 30 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: oizoo86 (big blind) collected (30)
+Seat 2: PoweerM (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478452010: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:37:42 CET [2026/01/26 21:37:42 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (690 in chips) 
+Seat 2: PoweerM (370 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+oizoo86: posts small blind 15
+PoweerM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 8d]
+mabeal1: raises 410 to 440 and is all-in
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (410) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259478454186: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:38:00 CET [2026/01/26 21:38:00 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (675 in chips) 
+Seat 2: PoweerM (340 in chips) 
+Seat 3: mabeal1 (485 in chips) 
+PoweerM: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4c]
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259478455318: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:38:09 CET [2026/01/26 21:38:09 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (675 in chips) 
+Seat 2: PoweerM (325 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+mabeal1: posts small blind 15
+oizoo86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 9h]
+PoweerM: folds 
+mabeal1: raises 30 to 60
+oizoo86: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: oizoo86 (big blind) folded before Flop
+Seat 2: PoweerM (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259478456950: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:38:23 CET [2026/01/26 21:38:23 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (645 in chips) 
+Seat 2: PoweerM (325 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+oizoo86: posts small blind 15
+PoweerM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 5h]
+mabeal1: raises 500 to 530 and is all-in
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (500) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259478458142: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:38:33 CET [2026/01/26 21:38:33 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (630 in chips) 
+Seat 2: PoweerM (295 in chips) 
+Seat 3: mabeal1 (575 in chips) 
+PoweerM: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4s]
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259478458871: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:38:39 CET [2026/01/26 21:38:39 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (630 in chips) 
+Seat 2: PoweerM (280 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+mabeal1: posts small blind 15
+oizoo86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 5h]
+PoweerM: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to oizoo86
+oizoo86 collected 30 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: oizoo86 (big blind) collected (30)
+Seat 2: PoweerM (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478459897: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:38:47 CET [2026/01/26 21:38:47 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (645 in chips) 
+Seat 2: PoweerM (280 in chips) 
+Seat 3: mabeal1 (575 in chips) 
+oizoo86: posts small blind 15
+PoweerM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Kh]
+mabeal1: raises 30 to 60
+oizoo86: folds 
+PoweerM: calls 30
+*** FLOP *** [7c 7d 3h]
+PoweerM: checks 
+mabeal1: checks 
+*** TURN *** [7c 7d 3h] [6c]
+PoweerM: checks 
+mabeal1: checks 
+*** RIVER *** [7c 7d 3h 6c] [Tc]
+PoweerM: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+PoweerM: shows [Kc 9d] (a pair of Sevens)
+mabeal1: shows [Js Kh] (a pair of Sevens - King+Jack kicker)
+mabeal1 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7c 7d 3h 6c Tc]
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) showed [Kc 9d] and lost with a pair of Sevens
+Seat 3: mabeal1 (button) showed [Js Kh] and won (135) with a pair of Sevens
+
+
+
+PokerStars Hand #259478462838: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:39:12 CET [2026/01/26 21:39:12 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (630 in chips) 
+Seat 2: PoweerM (220 in chips) 
+Seat 3: mabeal1 (650 in chips) 
+PoweerM: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 3h]
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259478463816: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:39:20 CET [2026/01/26 21:39:20 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (630 in chips) 
+Seat 2: PoweerM (205 in chips) 
+Seat 3: mabeal1 (665 in chips) 
+mabeal1: posts small blind 15
+oizoo86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Tc]
+PoweerM: folds 
+mabeal1: raises 635 to 665 and is all-in
+oizoo86: folds 
+Uncalled bet (635) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: oizoo86 (big blind) folded before Flop
+Seat 2: PoweerM (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259478465478: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:39:34 CET [2026/01/26 21:39:34 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (600 in chips) 
+Seat 2: PoweerM (205 in chips) 
+Seat 3: mabeal1 (695 in chips) 
+oizoo86: posts small blind 15
+PoweerM: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2s]
+mabeal1: folds 
+oizoo86: folds 
+Uncalled bet (15) returned to PoweerM
+PoweerM collected 30 from pot
+PoweerM: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478466698: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:39:44 CET [2026/01/26 21:39:44 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (585 in chips) 
+Seat 2: PoweerM (220 in chips) 
+Seat 3: mabeal1 (695 in chips) 
+PoweerM: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7d]
+oizoo86: folds 
+PoweerM: raises 190 to 220 and is all-in
+mabeal1: calls 190
+*** FLOP *** [9h Qc 6h]
+*** TURN *** [9h Qc 6h] [4c]
+*** RIVER *** [9h Qc 6h 4c] [5h]
+*** SHOW DOWN ***
+PoweerM: shows [Td Ts] (a pair of Tens)
+mabeal1: shows [Ah 7d] (high card Ace)
+PoweerM collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [9h Qc 6h 4c 5h]
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) showed [Td Ts] and won (440) with a pair of Tens
+Seat 3: mabeal1 (big blind) showed [Ah 7d] and lost with high card Ace
+
+
+
+PokerStars Hand #259478468621: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:40:00 CET [2026/01/26 21:40:00 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (585 in chips) 
+Seat 2: PoweerM (440 in chips) 
+Seat 3: mabeal1 (475 in chips) 
+mabeal1: posts small blind 15
+oizoo86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Ac]
+PoweerM: folds 
+mabeal1: raises 445 to 475 and is all-in
+oizoo86: folds 
+Uncalled bet (445) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: oizoo86 (big blind) folded before Flop
+Seat 2: PoweerM (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259478471323: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:40:23 CET [2026/01/26 21:40:23 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (555 in chips) 
+Seat 2: PoweerM (440 in chips) 
+Seat 3: mabeal1 (505 in chips) 
+oizoo86: posts small blind 20
+PoweerM: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 9d]
+mabeal1: raises 465 to 505 and is all-in
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (465) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (100)
+
+
+
+PokerStars Hand #259478472962: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:40:37 CET [2026/01/26 21:40:37 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (535 in chips) 
+Seat 2: PoweerM (400 in chips) 
+Seat 3: mabeal1 (565 in chips) 
+PoweerM: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d As]
+oizoo86: raises 495 to 535 and is all-in
+PoweerM: folds 
+mabeal1: folds 
+Uncalled bet (495) returned to oizoo86
+oizoo86 collected 100 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: oizoo86 (button) collected (100)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259478475312: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:40:56 CET [2026/01/26 21:40:56 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (595 in chips) 
+Seat 2: PoweerM (380 in chips) 
+Seat 3: mabeal1 (525 in chips) 
+mabeal1: posts small blind 20
+oizoo86: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 4h]
+PoweerM: folds 
+mabeal1: raises 40 to 80
+oizoo86: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: oizoo86 (big blind) folded before Flop
+Seat 2: PoweerM (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259478476544: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:41:07 CET [2026/01/26 21:41:07 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (555 in chips) 
+Seat 2: PoweerM (380 in chips) 
+Seat 3: mabeal1 (565 in chips) 
+oizoo86: posts small blind 20
+PoweerM: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 2s]
+mabeal1: folds 
+oizoo86: folds 
+Uncalled bet (20) returned to PoweerM
+PoweerM collected 40 from pot
+PoweerM: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478477809: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:41:18 CET [2026/01/26 21:41:18 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (535 in chips) 
+Seat 2: PoweerM (400 in chips) 
+Seat 3: mabeal1 (565 in chips) 
+PoweerM: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4h]
+oizoo86: folds 
+PoweerM: calls 20
+mabeal1: checks 
+*** FLOP *** [Kh 5s 9h]
+PoweerM: checks 
+mabeal1: bets 40
+PoweerM: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 5s 9h]
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259478479477: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:41:32 CET [2026/01/26 21:41:32 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (535 in chips) 
+Seat 2: PoweerM (360 in chips) 
+Seat 3: mabeal1 (605 in chips) 
+mabeal1: posts small blind 20
+oizoo86: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ah]
+PoweerM: folds 
+mabeal1: raises 565 to 605 and is all-in
+oizoo86: folds 
+Uncalled bet (565) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: oizoo86 (big blind) folded before Flop
+Seat 2: PoweerM (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259478480928: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:41:44 CET [2026/01/26 21:41:44 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (495 in chips) 
+Seat 2: PoweerM (360 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+oizoo86: posts small blind 20
+PoweerM: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kd]
+mabeal1: folds 
+oizoo86: folds 
+Uncalled bet (20) returned to PoweerM
+PoweerM collected 40 from pot
+PoweerM: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478481848: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:41:52 CET [2026/01/26 21:41:52 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (475 in chips) 
+Seat 2: PoweerM (380 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+PoweerM: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 3s]
+oizoo86: raises 435 to 475 and is all-in
+PoweerM: folds 
+mabeal1: folds 
+Uncalled bet (435) returned to oizoo86
+oizoo86 collected 100 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: oizoo86 (button) collected (100)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259478482918: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:42:01 CET [2026/01/26 21:42:01 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (535 in chips) 
+Seat 2: PoweerM (360 in chips) 
+Seat 3: mabeal1 (605 in chips) 
+mabeal1: posts small blind 20
+oizoo86: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Ah]
+PoweerM: calls 40
+mabeal1: raises 565 to 605 and is all-in
+oizoo86: folds 
+PoweerM: calls 320 and is all-in
+Uncalled bet (245) returned to mabeal1
+*** FLOP *** [2d 8c Qh]
+*** TURN *** [2d 8c Qh] [2c]
+*** RIVER *** [2d 8c Qh 2c] [9c]
+*** SHOW DOWN ***
+mabeal1: shows [9s Ah] (two pair, Nines and Deuces)
+PoweerM: shows [Jh Th] (a straight, Eight to Queen)
+PoweerM collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [2d 8c Qh 2c 9c]
+Seat 1: oizoo86 (big blind) folded before Flop
+Seat 2: PoweerM (button) showed [Jh Th] and won (760) with a straight, Eight to Queen
+Seat 3: mabeal1 (small blind) showed [9s Ah] and lost with two pair, Nines and Deuces
+
+
+
+PokerStars Hand #259478485291: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:42:21 CET [2026/01/26 21:42:21 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (495 in chips) 
+Seat 2: PoweerM (760 in chips) 
+Seat 3: mabeal1 (245 in chips) 
+oizoo86: posts small blind 20
+PoweerM: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9s]
+mabeal1: folds 
+oizoo86: folds 
+Uncalled bet (20) returned to PoweerM
+PoweerM collected 40 from pot
+PoweerM: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478487291: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 3:42:38 CET [2026/01/26 21:42:38 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (475 in chips) 
+Seat 2: PoweerM (780 in chips) 
+Seat 3: mabeal1 (245 in chips) 
+PoweerM: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 2h]
+oizoo86: folds 
+PoweerM: calls 20
+mabeal1: raises 205 to 245 and is all-in
+PoweerM: calls 205
+*** FLOP *** [3s 9c 9s]
+*** TURN *** [3s 9c 9s] [6h]
+*** RIVER *** [3s 9c 9s 6h] [8d]
+*** SHOW DOWN ***
+PoweerM: shows [Th Qh] (a pair of Nines)
+mabeal1: shows [Ad 2h] (a pair of Nines - Ace kicker)
+mabeal1 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [3s 9c 9s 6h 8d]
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) showed [Th Qh] and lost with a pair of Nines
+Seat 3: mabeal1 (big blind) showed [Ad 2h] and won (490) with a pair of Nines
+
+
+
+PokerStars Hand #259478490418: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/27 3:43:05 CET [2026/01/26 21:43:05 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (475 in chips) 
+Seat 2: PoweerM (535 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+mabeal1: posts small blind 30
+oizoo86: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4s]
+PoweerM: calls 60
+mabeal1: folds 
+oizoo86: checks 
+*** FLOP *** [Qd 9s 7d]
+oizoo86: checks 
+PoweerM: checks 
+*** TURN *** [Qd 9s 7d] [4c]
+oizoo86: checks 
+PoweerM: checks 
+*** RIVER *** [Qd 9s 7d 4c] [Qs]
+oizoo86: bets 415 and is all-in
+PoweerM: folds 
+Uncalled bet (415) returned to oizoo86
+oizoo86 collected 150 from pot
+oizoo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Qd 9s 7d 4c Qs]
+Seat 1: oizoo86 (big blind) collected (150)
+Seat 2: PoweerM (button) folded on the River
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478494344: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/27 3:43:38 CET [2026/01/26 21:43:38 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (565 in chips) 
+Seat 2: PoweerM (475 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+oizoo86: posts small blind 30
+PoweerM: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 9s]
+mabeal1: raises 400 to 460 and is all-in
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (400) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (150)
+
+
+
+PokerStars Hand #259478496835: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/27 3:44:00 CET [2026/01/26 21:44:00 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (535 in chips) 
+Seat 2: PoweerM (415 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+PoweerM: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Qc]
+oizoo86: folds 
+PoweerM: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259478498118: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/27 3:44:10 CET [2026/01/26 21:44:10 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (535 in chips) 
+Seat 2: PoweerM (385 in chips) 
+Seat 3: mabeal1 (580 in chips) 
+mabeal1: posts small blind 30
+oizoo86: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7d]
+PoweerM: raises 60 to 120
+mabeal1: folds 
+oizoo86: folds 
+Uncalled bet (60) returned to PoweerM
+PoweerM collected 150 from pot
+PoweerM: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: oizoo86 (big blind) folded before Flop
+Seat 2: PoweerM (button) collected (150)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478500020: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/27 3:44:27 CET [2026/01/26 21:44:27 ET]
+Table '3969489932 1' 3-max Seat #3 is the button
+Seat 1: oizoo86 (475 in chips) 
+Seat 2: PoweerM (475 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+oizoo86: posts small blind 30
+PoweerM: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 2h]
+mabeal1: folds 
+oizoo86: folds 
+Uncalled bet (30) returned to PoweerM
+PoweerM collected 60 from pot
+PoweerM: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: oizoo86 (small blind) folded before Flop
+Seat 2: PoweerM (big blind) collected (60)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478500785: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/27 3:44:33 CET [2026/01/26 21:44:33 ET]
+Table '3969489932 1' 3-max Seat #1 is the button
+Seat 1: oizoo86 (445 in chips) 
+Seat 2: PoweerM (505 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+PoweerM: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8c]
+oizoo86: folds 
+PoweerM: calls 30
+mabeal1: checks 
+*** FLOP *** [2s 9d Kh]
+PoweerM: checks 
+mabeal1: bets 60
+PoweerM: calls 60
+*** TURN *** [2s 9d Kh] [Qd]
+PoweerM: bets 120
+mabeal1: calls 120
+*** RIVER *** [2s 9d Kh Qd] [3h]
+PoweerM: bets 240
+mabeal1: calls 240
+*** SHOW DOWN ***
+PoweerM: shows [Jd Kc] (a pair of Kings)
+mabeal1: mucks hand 
+PoweerM collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [2s 9d Kh Qd 3h]
+Seat 1: oizoo86 (button) folded before Flop (didn't bet)
+Seat 2: PoweerM (small blind) showed [Jd Kc] and won (960) with a pair of Kings
+Seat 3: mabeal1 (big blind) mucked [9s 8c]
+
+
+
+PokerStars Hand #259478504792: Tournament #3969489932, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/27 3:45:08 CET [2026/01/26 21:45:08 ET]
+Table '3969489932 1' 3-max Seat #2 is the button
+Seat 1: oizoo86 (445 in chips) 
+Seat 2: PoweerM (985 in chips) 
+Seat 3: mabeal1 (70 in chips) 
+mabeal1: posts small blind 30
+oizoo86: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Tc]
+PoweerM: calls 60
+mabeal1: raises 10 to 70 and is all-in
+oizoo86: calls 10
+PoweerM: calls 10
+*** FLOP *** [Ah 7c 6h]
+oizoo86: checks 
+PoweerM: bets 60
+oizoo86: calls 60
+*** TURN *** [Ah 7c 6h] [4d]
+oizoo86: checks 
+PoweerM: checks 
+*** RIVER *** [Ah 7c 6h 4d] [5s]
+oizoo86: bets 120
+PoweerM: calls 120
+*** SHOW DOWN ***
+oizoo86: shows [9h Qc] (high card Ace)
+PoweerM: shows [3d Ad] (a straight, Three to Seven)
+PoweerM collected 360 from side pot
+mabeal1: mucks hand 
+PoweerM collected 210 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 570 Main pot 210. Side pot 360. | Rake 0 
+Board [Ah 7c 6h 4d 5s]
+Seat 1: oizoo86 (big blind) showed [9h Qc] and lost with high card Ace
+Seat 2: PoweerM (button) showed [3d Ad] and won (570) with a straight, Three to Seven
+Seat 3: mabeal1 (small blind) mucked [As Tc]
+
+
+

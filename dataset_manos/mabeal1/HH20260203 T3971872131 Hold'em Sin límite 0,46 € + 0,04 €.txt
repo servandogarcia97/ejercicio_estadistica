@@ -1,0 +1,521 @@
+﻿PokerStars Hand #259583402133: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 0:25:43 CET [2026/02/03 18:25:43 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: fredycrupier (500 in chips) 
+mabeal1: posts small blind 10
+fredycrupier: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Td]
+supositorio7: folds 
+mabeal1: raises 30 to 50
+fredycrupier: calls 30
+*** FLOP *** [7h 2h 8c]
+mabeal1: checks 
+fredycrupier: bets 50
+mabeal1: calls 50
+*** TURN *** [7h 2h 8c] [Qh]
+mabeal1: checks 
+fredycrupier: checks 
+*** RIVER *** [7h 2h 8c Qh] [Qd]
+mabeal1: bets 150
+fredycrupier: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7h 2h 8c Qh Qd]
+Seat 1: supositorio7 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (200)
+Seat 3: fredycrupier (big blind) folded on the River
+
+
+
+PokerStars Hand #259583408489: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 0:26:11 CET [2026/02/03 18:26:11 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (500 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: fredycrupier (400 in chips) 
+fredycrupier: posts small blind 10
+supositorio7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Ts]
+mabeal1: folds 
+fredycrupier: calls 10
+supositorio7: raises 480 to 500 and is all-in
+fredycrupier: folds 
+Uncalled bet (480) returned to supositorio7
+supositorio7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: supositorio7 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: fredycrupier (small blind) folded before Flop
+
+
+
+PokerStars Hand #259583411129: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 0:26:23 CET [2026/02/03 18:26:23 ET]
+Table '3971872131 1' 3-max Seat #3 is the button
+Seat 1: supositorio7 (520 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: fredycrupier (380 in chips) 
+supositorio7: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3d]
+fredycrupier: calls 20
+supositorio7: raises 500 to 520 and is all-in
+mabeal1: folds 
+fredycrupier: folds 
+Uncalled bet (500) returned to supositorio7
+supositorio7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: supositorio7 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: fredycrupier (button) folded before Flop
+
+
+
+PokerStars Hand #259583413541: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 0:26:34 CET [2026/02/03 18:26:34 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (560 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: fredycrupier (360 in chips) 
+mabeal1: posts small blind 10
+fredycrupier: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c As]
+supositorio7: folds 
+mabeal1: raises 30 to 50
+fredycrupier: raises 310 to 360 and is all-in
+mabeal1: folds 
+Uncalled bet (310) returned to fredycrupier
+fredycrupier collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: supositorio7 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: fredycrupier (big blind) collected (100)
+
+
+
+PokerStars Hand #259583416461: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 0:26:47 CET [2026/02/03 18:26:47 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (560 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: fredycrupier (410 in chips) 
+fredycrupier: posts small blind 10
+supositorio7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Jc]
+mabeal1: folds 
+fredycrupier: calls 10
+supositorio7: raises 540 to 560 and is all-in
+fredycrupier: calls 390 and is all-in
+Uncalled bet (150) returned to supositorio7
+*** FLOP *** [3h 4c Ah]
+*** TURN *** [3h 4c Ah] [Ad]
+*** RIVER *** [3h 4c Ah Ad] [5d]
+*** SHOW DOWN ***
+fredycrupier: shows [Qh 7h] (a pair of Aces)
+supositorio7: shows [5h 5s] (a full house, Fives full of Aces)
+supositorio7 collected 820 from pot
+fredycrupier finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [3h 4c Ah Ad 5d]
+Seat 1: supositorio7 (big blind) showed [5h 5s] and won (820) with a full house, Fives full of Aces
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: fredycrupier (small blind) showed [Qh 7h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259583421215: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 0:27:08 CET [2026/02/03 18:27:08 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+supositorio7: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3h]
+supositorio7: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to supositorio7
+supositorio7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: supositorio7 (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259583423174: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 0:27:17 CET [2026/02/03 18:27:17 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (990 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+mabeal1: posts small blind 10
+supositorio7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Qc]
+mabeal1: calls 10
+supositorio7: checks 
+*** FLOP *** [Ah Js 6h]
+supositorio7: checks 
+mabeal1: bets 20
+supositorio7: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah Js 6h]
+Seat 1: supositorio7 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259583426140: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 0:27:30 CET [2026/02/03 18:27:30 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+supositorio7: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 2s]
+supositorio7: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: supositorio7 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259583427499: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 0:27:36 CET [2026/02/03 18:27:36 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (960 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+mabeal1: posts small blind 10
+supositorio7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Th]
+mabeal1: raises 30 to 50
+supositorio7: raises 910 to 960 and is all-in
+mabeal1: folds 
+Uncalled bet (910) returned to supositorio7
+supositorio7 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: supositorio7 (big blind) collected (100)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259583431156: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:27:52 CET [2026/02/03 18:27:52 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+supositorio7: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 2d]
+supositorio7: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: supositorio7 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259583432579: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:27:58 CET [2026/02/03 18:27:58 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (995 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+mabeal1: posts small blind 15
+supositorio7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3s]
+mabeal1: folds 
+Uncalled bet (15) returned to supositorio7
+supositorio7 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: supositorio7 (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259583433825: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:28:04 CET [2026/02/03 18:28:04 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+supositorio7: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Th]
+supositorio7: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: supositorio7 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259583435277: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:28:10 CET [2026/02/03 18:28:10 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (995 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+mabeal1: posts small blind 15
+supositorio7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qs]
+mabeal1: calls 15
+supositorio7: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to supositorio7
+supositorio7 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: supositorio7 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259583439103: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:28:28 CET [2026/02/03 18:28:28 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (1025 in chips) 
+Seat 2: mabeal1 (475 in chips) 
+supositorio7: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 7h]
+supositorio7: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: supositorio7 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259583440386: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:28:33 CET [2026/02/03 18:28:33 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+mabeal1: posts small blind 15
+supositorio7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 7h]
+mabeal1: calls 15
+supositorio7: checks 
+*** FLOP *** [Jd 2s 6h]
+supositorio7: checks 
+mabeal1: bets 30
+supositorio7: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 2s 6h]
+Seat 1: supositorio7 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259583443442: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:28:47 CET [2026/02/03 18:28:47 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (980 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+supositorio7: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 4c]
+supositorio7: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: supositorio7 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259583444694: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:28:53 CET [2026/02/03 18:28:53 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (965 in chips) 
+Seat 2: mabeal1 (535 in chips) 
+mabeal1: posts small blind 15
+supositorio7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4d]
+mabeal1: calls 15
+supositorio7: checks 
+*** FLOP *** [6c 7d 8h]
+supositorio7: checks 
+mabeal1: checks 
+*** TURN *** [6c 7d 8h] [Td]
+supositorio7: bets 60
+mabeal1: calls 60
+*** RIVER *** [6c 7d 8h Td] [Ks]
+supositorio7: bets 180
+mabeal1: calls 180
+*** SHOW DOWN ***
+supositorio7: shows [9s 5h] (a straight, Six to Ten)
+mabeal1: mucks hand 
+supositorio7 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [6c 7d 8h Td Ks]
+Seat 1: supositorio7 (big blind) showed [9s 5h] and won (540) with a straight, Six to Ten
+Seat 2: mabeal1 (button) (small blind) mucked [Tc 4d]
+
+
+
+PokerStars Hand #259583448896: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:29:12 CET [2026/02/03 18:29:12 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (1235 in chips) 
+Seat 2: mabeal1 (265 in chips) 
+supositorio7: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 4h]
+supositorio7: calls 15
+mabeal1: raises 235 to 265 and is all-in
+supositorio7: folds 
+Uncalled bet (235) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: supositorio7 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259583451497: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:29:23 CET [2026/02/03 18:29:23 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (1205 in chips) 
+Seat 2: mabeal1 (295 in chips) 
+mabeal1: posts small blind 15
+supositorio7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 2c]
+mabeal1: raises 265 to 295 and is all-in
+supositorio7: folds 
+Uncalled bet (265) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: supositorio7 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259583453512: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:29:32 CET [2026/02/03 18:29:32 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (1175 in chips) 
+Seat 2: mabeal1 (325 in chips) 
+supositorio7: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 3s]
+supositorio7: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: supositorio7 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259583454964: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 0:29:39 CET [2026/02/03 18:29:39 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (1160 in chips) 
+Seat 2: mabeal1 (340 in chips) 
+mabeal1: posts small blind 15
+supositorio7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 3h]
+mabeal1: raises 310 to 340 and is all-in
+supositorio7: folds 
+Uncalled bet (310) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: supositorio7 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259583457405: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 0:29:49 CET [2026/02/03 18:29:49 ET]
+Table '3971872131 1' 3-max Seat #1 is the button
+Seat 1: supositorio7 (1130 in chips) 
+Seat 2: mabeal1 (370 in chips) 
+supositorio7: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Td]
+supositorio7: calls 20
+mabeal1: raises 330 to 370 and is all-in
+supositorio7: calls 330
+*** FLOP *** [9c Kc 4s]
+*** TURN *** [9c Kc 4s] [Jd]
+*** RIVER *** [9c Kc 4s Jd] [Ac]
+*** SHOW DOWN ***
+mabeal1: shows [Qd Td] (a straight, Ten to Ace)
+supositorio7: shows [Js 7h] (a pair of Jacks)
+mabeal1 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [9c Kc 4s Jd Ac]
+Seat 1: supositorio7 (button) (small blind) showed [Js 7h] and lost with a pair of Jacks
+Seat 2: mabeal1 (big blind) showed [Qd Td] and won (740) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #259583461448: Tournament #3971872131, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 0:30:07 CET [2026/02/03 18:30:07 ET]
+Table '3971872131 1' 3-max Seat #2 is the button
+Seat 1: supositorio7 (760 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+mabeal1: posts small blind 20
+supositorio7: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 9s]
+mabeal1: raises 700 to 740 and is all-in
+supositorio7: calls 700
+*** FLOP *** [7h Qd 7c]
+*** TURN *** [7h Qd 7c] [Js]
+*** RIVER *** [7h Qd 7c Js] [Jc]
+*** SHOW DOWN ***
+supositorio7: shows [Qc 4c] (two pair, Queens and Jacks)
+mabeal1: shows [Td 9s] (two pair, Jacks and Sevens)
+supositorio7 collected 1480 from pot
+mabeal1 finished the tournament in 2nd place
+supositorio7 wins the tournament - congratulations!
+supositorio7 wins a '€1 Step 2 MTT Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [7h Qd 7c Js Jc]
+Seat 1: supositorio7 (big blind) showed [Qc 4c] and won (1480) with two pair, Queens and Jacks
+Seat 2: mabeal1 (button) (small blind) showed [Td 9s] and lost with two pair, Jacks and Sevens
+
+
+

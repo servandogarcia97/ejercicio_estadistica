@@ -1,0 +1,716 @@
+﻿PokerStars Hand #259589564092: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:37:48 CET [2026/02/04 11:37:48 ET]
+Table '3972025010 1' 3-max Seat #1 is the button
+Seat 1: JordiCaucho (500 in chips) 
+Seat 2: shllwpnt (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+shllwpnt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3s]
+JordiCaucho: folds 
+shllwpnt: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JordiCaucho (button) folded before Flop (didn't bet)
+Seat 2: shllwpnt (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259589565647: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:37:56 CET [2026/02/04 11:37:56 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 1: JordiCaucho (500 in chips) 
+Seat 2: shllwpnt (490 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+mabeal1: posts small blind 10
+JordiCaucho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 3c]
+shllwpnt: raises 20 to 40
+mabeal1: folds 
+JordiCaucho: folds 
+Uncalled bet (20) returned to shllwpnt
+shllwpnt collected 50 from pot
+shllwpnt: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: JordiCaucho (big blind) folded before Flop
+Seat 2: shllwpnt (button) collected (50)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589568978: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:38:13 CET [2026/02/04 11:38:13 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 1: JordiCaucho (480 in chips) 
+Seat 2: shllwpnt (520 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+JordiCaucho: posts small blind 10
+shllwpnt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3c]
+mabeal1: folds 
+JordiCaucho: folds 
+Uncalled bet (10) returned to shllwpnt
+shllwpnt collected 20 from pot
+shllwpnt: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JordiCaucho (small blind) folded before Flop
+Seat 2: shllwpnt (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589571206: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:38:24 CET [2026/02/04 11:38:24 ET]
+Table '3972025010 1' 3-max Seat #1 is the button
+Seat 1: JordiCaucho (470 in chips) 
+Seat 2: shllwpnt (530 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+shllwpnt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Td]
+JordiCaucho: folds 
+shllwpnt: raises 30 to 50
+mabeal1: calls 30
+*** FLOP *** [Js 6h Th]
+shllwpnt: bets 75
+mabeal1: calls 75
+*** TURN *** [Js 6h Th] [Qh]
+shllwpnt: checks 
+mabeal1: bets 80
+shllwpnt: calls 80
+*** RIVER *** [Js 6h Th Qh] [3d]
+shllwpnt: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+shllwpnt: shows [8c Jc] (a pair of Jacks)
+mabeal1: shows [Qd Td] (two pair, Queens and Tens)
+mabeal1 collected 410 from pot
+*** SUMMARY ***
+Total pot 410 | Rake 0 
+Board [Js 6h Th Qh 3d]
+Seat 1: JordiCaucho (button) folded before Flop (didn't bet)
+Seat 2: shllwpnt (small blind) showed [8c Jc] and lost with a pair of Jacks
+Seat 3: mabeal1 (big blind) showed [Qd Td] and won (410) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #259589581405: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:39:16 CET [2026/02/04 11:39:16 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 1: JordiCaucho (470 in chips) 
+Seat 2: shllwpnt (325 in chips) 
+Seat 3: mabeal1 (705 in chips) 
+mabeal1: posts small blind 10
+JordiCaucho: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 3s]
+shllwpnt: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to JordiCaucho
+JordiCaucho collected 20 from pot
+JordiCaucho: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JordiCaucho (big blind) collected (20)
+Seat 2: shllwpnt (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589584336: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:39:31 CET [2026/02/04 11:39:31 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 1: JordiCaucho (480 in chips) 
+Seat 2: shllwpnt (325 in chips) 
+Seat 3: mabeal1 (695 in chips) 
+JordiCaucho: posts small blind 10
+shllwpnt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 4h]
+mabeal1: folds 
+JordiCaucho: raises 40 to 60
+shllwpnt: folds 
+Uncalled bet (40) returned to JordiCaucho
+JordiCaucho collected 40 from pot
+JordiCaucho: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: JordiCaucho (small blind) collected (40)
+Seat 2: shllwpnt (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589586644: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:39:43 CET [2026/02/04 11:39:43 ET]
+Table '3972025010 1' 3-max Seat #1 is the button
+Seat 1: JordiCaucho (500 in chips) 
+Seat 2: shllwpnt (305 in chips) 
+Seat 3: mabeal1 (695 in chips) 
+shllwpnt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Jc]
+JordiCaucho: folds 
+shllwpnt: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: JordiCaucho (button) folded before Flop (didn't bet)
+Seat 2: shllwpnt (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259589588743: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:39:54 CET [2026/02/04 11:39:54 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 1: JordiCaucho (500 in chips) 
+Seat 2: shllwpnt (295 in chips) 
+Seat 3: mabeal1 (705 in chips) 
+mabeal1: posts small blind 15
+JordiCaucho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Kd]
+shllwpnt: folds 
+mabeal1: calls 15
+JordiCaucho: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to JordiCaucho
+JordiCaucho collected 60 from pot
+JordiCaucho: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: JordiCaucho (big blind) collected (60)
+Seat 2: shllwpnt (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589592546: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:40:13 CET [2026/02/04 11:40:13 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 1: JordiCaucho (530 in chips) 
+Seat 2: shllwpnt (295 in chips) 
+Seat 3: mabeal1 (675 in chips) 
+JordiCaucho: posts small blind 15
+shllwpnt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Jh]
+mabeal1: raises 30 to 60
+JordiCaucho: folds 
+shllwpnt: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: JordiCaucho (small blind) folded before Flop
+Seat 2: shllwpnt (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259589595072: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:40:27 CET [2026/02/04 11:40:27 ET]
+Table '3972025010 1' 3-max Seat #1 is the button
+Seat 1: JordiCaucho (515 in chips) 
+Seat 2: shllwpnt (265 in chips) 
+Seat 3: mabeal1 (720 in chips) 
+shllwpnt: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 6h]
+JordiCaucho: raises 30 to 60
+shllwpnt: folds 
+mabeal1: calls 30
+*** FLOP *** [3c 7s Qd]
+mabeal1: checks 
+JordiCaucho: checks 
+*** TURN *** [3c 7s Qd] [Ah]
+mabeal1: checks 
+JordiCaucho: bets 75
+mabeal1: folds 
+Uncalled bet (75) returned to JordiCaucho
+JordiCaucho collected 135 from pot
+JordiCaucho: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [3c 7s Qd Ah]
+Seat 1: JordiCaucho (button) collected (135)
+Seat 2: shllwpnt (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259589602093: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:41:03 CET [2026/02/04 11:41:03 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 1: JordiCaucho (590 in chips) 
+Seat 2: shllwpnt (250 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+mabeal1: posts small blind 15
+JordiCaucho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9d]
+shllwpnt: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to JordiCaucho
+JordiCaucho collected 30 from pot
+JordiCaucho: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JordiCaucho (big blind) collected (30)
+Seat 2: shllwpnt (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589603588: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:41:11 CET [2026/02/04 11:41:11 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 1: JordiCaucho (605 in chips) 
+Seat 2: shllwpnt (250 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+JordiCaucho: posts small blind 15
+shllwpnt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8h]
+mabeal1: folds 
+JordiCaucho: folds 
+Uncalled bet (15) returned to shllwpnt
+shllwpnt collected 30 from pot
+shllwpnt: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: JordiCaucho (small blind) folded before Flop
+Seat 2: shllwpnt (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589606003: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:41:24 CET [2026/02/04 11:41:24 ET]
+Table '3972025010 1' 3-max Seat #1 is the button
+Seat 1: JordiCaucho (590 in chips) 
+Seat 2: shllwpnt (265 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+shllwpnt: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 9d]
+JordiCaucho: folds 
+shllwpnt: raises 235 to 265 and is all-in
+mabeal1: folds 
+Uncalled bet (235) returned to shllwpnt
+shllwpnt collected 60 from pot
+shllwpnt: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: JordiCaucho (button) folded before Flop (didn't bet)
+Seat 2: shllwpnt (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589607608: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:41:32 CET [2026/02/04 11:41:32 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 1: JordiCaucho (590 in chips) 
+Seat 2: shllwpnt (295 in chips) 
+Seat 3: mabeal1 (615 in chips) 
+mabeal1: posts small blind 15
+JordiCaucho: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Td]
+shllwpnt: folds 
+mabeal1: raises 45 to 75
+JordiCaucho: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: JordiCaucho (big blind) folded before Flop
+Seat 2: shllwpnt (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259589611631: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:41:53 CET [2026/02/04 11:41:53 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 1: JordiCaucho (560 in chips) 
+Seat 2: shllwpnt (295 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+JordiCaucho: posts small blind 20
+shllwpnt: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Qd]
+mabeal1: raises 40 to 80
+JordiCaucho: calls 60
+shllwpnt: folds 
+*** FLOP *** [Jh 6s 4d]
+JordiCaucho: checks 
+mabeal1: bets 80
+JordiCaucho: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Jh 6s 4d]
+Seat 1: JordiCaucho (small blind) folded on the Flop
+Seat 2: shllwpnt (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (200)
+
+
+
+PokerStars Hand #259589616159: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:42:16 CET [2026/02/04 11:42:16 ET]
+Table '3972025010 1' 3-max Seat #1 is the button
+Seat 1: JordiCaucho (480 in chips) 
+Seat 2: shllwpnt (255 in chips) 
+Seat 3: mabeal1 (765 in chips) 
+shllwpnt: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 5d]
+JordiCaucho: raises 40 to 80
+shllwpnt: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to JordiCaucho
+JordiCaucho collected 100 from pot
+JordiCaucho: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: JordiCaucho (button) collected (100)
+Seat 2: shllwpnt (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589618806: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:42:29 CET [2026/02/04 11:42:29 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 1: JordiCaucho (540 in chips) 
+Seat 2: shllwpnt (235 in chips) 
+Seat 3: mabeal1 (725 in chips) 
+mabeal1: posts small blind 20
+JordiCaucho: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 8c]
+shllwpnt: folds 
+mabeal1: raises 60 to 100
+JordiCaucho: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: JordiCaucho (big blind) folded before Flop
+Seat 2: shllwpnt (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259589622309: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:42:47 CET [2026/02/04 11:42:47 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 1: JordiCaucho (500 in chips) 
+Seat 2: shllwpnt (235 in chips) 
+Seat 3: mabeal1 (765 in chips) 
+JordiCaucho: posts small blind 20
+shllwpnt: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Ah]
+mabeal1: raises 40 to 80
+JordiCaucho: folds 
+shllwpnt: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: JordiCaucho (small blind) folded before Flop
+Seat 2: shllwpnt (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (100)
+
+
+
+PokerStars Hand #259589624696: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:43:00 CET [2026/02/04 11:43:00 ET]
+Table '3972025010 1' 3-max Seat #1 is the button
+Seat 1: JordiCaucho (480 in chips) 
+Seat 2: shllwpnt (195 in chips) 
+Seat 3: mabeal1 (825 in chips) 
+shllwpnt: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 6c]
+JordiCaucho: folds 
+shllwpnt: raises 155 to 195 and is all-in
+mabeal1: folds 
+Uncalled bet (155) returned to shllwpnt
+shllwpnt collected 80 from pot
+shllwpnt: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: JordiCaucho (button) folded before Flop (didn't bet)
+Seat 2: shllwpnt (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589626473: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:43:09 CET [2026/02/04 11:43:09 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 1: JordiCaucho (480 in chips) 
+Seat 2: shllwpnt (235 in chips) 
+Seat 3: mabeal1 (785 in chips) 
+mabeal1: posts small blind 20
+JordiCaucho: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9c]
+shllwpnt: folds 
+mabeal1: raises 60 to 100
+JordiCaucho: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: JordiCaucho (big blind) folded before Flop
+Seat 2: shllwpnt (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259589630539: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:43:30 CET [2026/02/04 11:43:30 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 1: JordiCaucho (440 in chips) 
+Seat 2: shllwpnt (235 in chips) 
+Seat 3: mabeal1 (825 in chips) 
+JordiCaucho: posts small blind 20
+shllwpnt: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5d]
+mabeal1: folds 
+JordiCaucho: folds 
+Uncalled bet (20) returned to shllwpnt
+shllwpnt collected 40 from pot
+shllwpnt: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: JordiCaucho (small blind) folded before Flop
+Seat 2: shllwpnt (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589632299: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:43:39 CET [2026/02/04 11:43:39 ET]
+Table '3972025010 1' 3-max Seat #1 is the button
+Seat 1: JordiCaucho (420 in chips) 
+Seat 2: shllwpnt (255 in chips) 
+Seat 3: mabeal1 (825 in chips) 
+shllwpnt: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4s]
+JordiCaucho: folds 
+shllwpnt: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: JordiCaucho (button) folded before Flop (didn't bet)
+Seat 2: shllwpnt (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259589635263: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:43:55 CET [2026/02/04 11:43:55 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 1: JordiCaucho (420 in chips) 
+Seat 2: shllwpnt (235 in chips) 
+Seat 3: mabeal1 (845 in chips) 
+mabeal1: posts small blind 30
+JordiCaucho: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 4d]
+shllwpnt: raises 175 to 235 and is all-in
+mabeal1: folds 
+JordiCaucho: folds 
+Uncalled bet (175) returned to shllwpnt
+shllwpnt collected 150 from pot
+shllwpnt: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: JordiCaucho (big blind) folded before Flop
+Seat 2: shllwpnt (button) collected (150)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589636746: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:44:02 CET [2026/02/04 11:44:02 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 1: JordiCaucho (360 in chips) 
+Seat 2: shllwpnt (325 in chips) 
+Seat 3: mabeal1 (815 in chips) 
+JordiCaucho: posts small blind 30
+shllwpnt: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 9c]
+mabeal1: folds 
+JordiCaucho: raises 300 to 360 and is all-in
+shllwpnt: calls 265 and is all-in
+Uncalled bet (35) returned to JordiCaucho
+*** FLOP *** [Ad 2h 9h]
+*** TURN *** [Ad 2h 9h] [Qs]
+*** RIVER *** [Ad 2h 9h Qs] [5c]
+*** SHOW DOWN ***
+JordiCaucho: shows [5s Ks] (a pair of Fives)
+shllwpnt: shows [4s Ac] (a pair of Aces)
+shllwpnt collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Ad 2h 9h Qs 5c]
+Seat 1: JordiCaucho (small blind) showed [5s Ks] and lost with a pair of Fives
+Seat 2: shllwpnt (big blind) showed [4s Ac] and won (650) with a pair of Aces
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589640056: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:44:20 CET [2026/02/04 11:44:20 ET]
+Table '3972025010 1' 3-max Seat #1 is the button
+Seat 1: JordiCaucho (35 in chips) 
+Seat 2: shllwpnt (650 in chips) 
+Seat 3: mabeal1 (815 in chips) 
+shllwpnt: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 8c]
+JordiCaucho: calls 35 and is all-in
+shllwpnt: raises 590 to 650 and is all-in
+mabeal1: folds 
+Uncalled bet (590) returned to shllwpnt
+*** FLOP *** [5h 9d Qs]
+*** TURN *** [5h 9d Qs] [2s]
+*** RIVER *** [5h 9d Qs 2s] [Ad]
+*** SHOW DOWN ***
+shllwpnt: shows [6h Kh] (high card Ace)
+shllwpnt collected 50 from side pot
+JordiCaucho: shows [Jh Th] (high card Ace - lower kicker)
+shllwpnt collected 105 from main pot
+JordiCaucho finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 155 Main pot 105. Side pot 50. | Rake 0 
+Board [5h 9d Qs 2s Ad]
+Seat 1: JordiCaucho (button) showed [Jh Th] and lost with high card Ace
+Seat 2: shllwpnt (small blind) showed [6h Kh] and won (155) with high card Ace
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589643936: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:44:40 CET [2026/02/04 11:44:40 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 2: shllwpnt (745 in chips) 
+Seat 3: mabeal1 (755 in chips) 
+mabeal1: posts small blind 30
+shllwpnt: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 9d]
+mabeal1: calls 30
+shllwpnt: checks 
+*** FLOP *** [Td 8s 7d]
+shllwpnt: checks 
+mabeal1: checks 
+*** TURN *** [Td 8s 7d] [8d]
+shllwpnt: bets 90
+mabeal1: calls 90
+*** RIVER *** [Td 8s 7d 8d] [2s]
+shllwpnt: bets 225
+mabeal1: raises 380 to 605 and is all-in
+shllwpnt: folds 
+Uncalled bet (380) returned to mabeal1
+mabeal1 collected 750 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [Td 8s 7d 8d 2s]
+Seat 2: shllwpnt (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (750)
+
+
+
+PokerStars Hand #259589654829: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:45:36 CET [2026/02/04 11:45:36 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 2: shllwpnt (370 in chips) 
+Seat 3: mabeal1 (1130 in chips) 
+shllwpnt: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Kc]
+shllwpnt: raises 310 to 370 and is all-in
+mabeal1: folds 
+Uncalled bet (310) returned to shllwpnt
+shllwpnt collected 120 from pot
+shllwpnt: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: shllwpnt (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589657241: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 17:45:48 CET [2026/02/04 11:45:48 ET]
+Table '3972025010 1' 3-max Seat #3 is the button
+Seat 2: shllwpnt (430 in chips) 
+Seat 3: mabeal1 (1070 in chips) 
+mabeal1: posts small blind 30
+shllwpnt: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Qc]
+mabeal1: calls 30
+shllwpnt: checks 
+*** FLOP *** [Qs 7c Kh]
+shllwpnt: checks 
+mabeal1: checks 
+*** TURN *** [Qs 7c Kh] [Th]
+shllwpnt: bets 60
+mabeal1: calls 60
+*** RIVER *** [Qs 7c Kh Th] [Qh]
+shllwpnt: checks 
+mabeal1: bets 60
+shllwpnt: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qs 7c Kh Th Qh]
+Seat 2: shllwpnt (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #259589665412: Tournament #3972025010, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 17:46:31 CET [2026/02/04 11:46:31 ET]
+Table '3972025010 1' 3-max Seat #2 is the button
+Seat 2: shllwpnt (310 in chips) 
+Seat 3: mabeal1 (1190 in chips) 
+shllwpnt: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 4s]
+shllwpnt: raises 230 to 310 and is all-in
+mabeal1: calls 230
+*** FLOP *** [4d 3s Ts]
+*** TURN *** [4d 3s Ts] [4c]
+*** RIVER *** [4d 3s Ts 4c] [As]
+*** SHOW DOWN ***
+mabeal1: shows [Qs 4s] (a flush, Ace high)
+shllwpnt: shows [5d Jh] (a pair of Fours)
+mabeal1 collected 620 from pot
+shllwpnt finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [4d 3s Ts 4c As]
+Seat 2: shllwpnt (button) (small blind) showed [5d Jh] and lost with a pair of Fours
+Seat 3: mabeal1 (big blind) showed [Qs 4s] and won (620) with a flush, Ace high
+
+
+

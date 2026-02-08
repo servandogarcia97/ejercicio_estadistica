@@ -1,0 +1,106 @@
+﻿PokerStars Hand #259430107472: Tournament #3968410292, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:50:33 CET [2026/01/23 12:50:33 ET]
+Table '3968410292 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: JorgeAQ20 (500 in chips) 
+Seat 3: Pcalzada (500 in chips) 
+JorgeAQ20: posts small blind 10
+Pcalzada: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 9h]
+mabeal1: folds 
+JorgeAQ20: calls 10
+Pcalzada: raises 480 to 500 and is all-in
+JorgeAQ20: folds 
+Uncalled bet (480) returned to Pcalzada
+Pcalzada collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: JorgeAQ20 (small blind) folded before Flop
+Seat 3: Pcalzada (big blind) collected (40)
+
+
+
+PokerStars Hand #259430110897: Tournament #3968410292, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:50:49 CET [2026/01/23 12:50:49 ET]
+Table '3968410292 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: JorgeAQ20 (480 in chips) 
+Seat 3: Pcalzada (520 in chips) 
+Pcalzada: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9s]
+JorgeAQ20: calls 20
+Pcalzada: raises 500 to 520 and is all-in
+mabeal1: folds 
+JorgeAQ20: folds 
+Uncalled bet (500) returned to Pcalzada
+Pcalzada collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: JorgeAQ20 (button) folded before Flop
+Seat 3: Pcalzada (small blind) collected (60)
+
+
+
+PokerStars Hand #259430114264: Tournament #3968410292, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:51:05 CET [2026/01/23 12:51:05 ET]
+Table '3968410292 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: JorgeAQ20 (460 in chips) 
+Seat 3: Pcalzada (560 in chips) 
+mabeal1: posts small blind 10
+JorgeAQ20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 3d]
+Pcalzada: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to JorgeAQ20
+JorgeAQ20 collected 20 from pot
+JorgeAQ20: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: JorgeAQ20 (big blind) collected (20)
+Seat 3: Pcalzada (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259430116108: Tournament #3968410292, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:51:13 CET [2026/01/23 12:51:13 ET]
+Table '3968410292 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: JorgeAQ20 (470 in chips) 
+Seat 3: Pcalzada (560 in chips) 
+JorgeAQ20: posts small blind 10
+Pcalzada: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 9d]
+mabeal1: raises 20 to 40
+JorgeAQ20: calls 30
+Pcalzada: calls 20
+*** FLOP *** [4s 7h 2s]
+JorgeAQ20: checks 
+Pcalzada: checks 
+mabeal1: checks 
+*** TURN *** [4s 7h 2s] [Ts]
+JorgeAQ20: bets 60
+Pcalzada: folds 
+mabeal1: calls 60
+*** RIVER *** [4s 7h 2s Ts] [2c]
+JorgeAQ20: bets 20
+mabeal1: raises 350 to 370 and is all-in
+JorgeAQ20: calls 350 and is all-in
+*** SHOW DOWN ***
+mabeal1: shows [Ks 9d] (a pair of Deuces)
+JorgeAQ20: shows [Qc Th] (two pair, Tens and Deuces)
+JorgeAQ20 collected 980 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [4s 7h 2s Ts 2c]
+Seat 1: mabeal1 (button) showed [Ks 9d] and lost with a pair of Deuces
+Seat 2: JorgeAQ20 (small blind) showed [Qc Th] and won (980) with two pair, Tens and Deuces
+Seat 3: Pcalzada (big blind) folded on the Turn
+
+
+

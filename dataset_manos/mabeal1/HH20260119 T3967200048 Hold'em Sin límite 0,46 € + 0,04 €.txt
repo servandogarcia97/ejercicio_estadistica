@@ -1,0 +1,744 @@
+﻿PokerStars Hand #259379727084: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 20:11:17 CET [2026/01/19 14:11:17 ET]
+Table '3967200048 1' 3-max Seat #1 is the button
+Seat 1: AHhuuuue (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: ferra o bico (500 in chips) 
+mabeal1: posts small blind 10
+ferra o bico: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Ac]
+AHhuuuue: raises 20 to 40
+mabeal1: raises 460 to 500 and is all-in
+ferra o bico: folds 
+AHhuuuue: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: AHhuuuue (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (100)
+Seat 3: ferra o bico (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379731842: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 20:11:35 CET [2026/01/19 14:11:35 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 1: AHhuuuue (460 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: ferra o bico (480 in chips) 
+ferra o bico: posts small blind 10
+AHhuuuue: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Jh]
+mabeal1: raises 20 to 40
+ferra o bico: folds 
+AHhuuuue: calls 20
+*** FLOP *** [2c 4d 8c]
+AHhuuuue: checks 
+mabeal1: checks 
+*** TURN *** [2c 4d 8c] [Ks]
+AHhuuuue: checks 
+mabeal1: bets 60
+AHhuuuue: calls 60
+*** RIVER *** [2c 4d 8c Ks] [4c]
+AHhuuuue: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+AHhuuuue: shows [4s 8h] (a full house, Fours full of Eights)
+mabeal1: mucks hand 
+AHhuuuue collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [2c 4d 8c Ks 4c]
+Seat 1: AHhuuuue (big blind) showed [4s 8h] and won (210) with a full house, Fours full of Eights
+Seat 2: mabeal1 (button) mucked [6h Jh]
+Seat 3: ferra o bico (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379740469: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 20:12:09 CET [2026/01/19 14:12:09 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 1: AHhuuuue (570 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: ferra o bico (470 in chips) 
+AHhuuuue: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Qc]
+ferra o bico: folds 
+AHhuuuue: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [5d 4d 2d]
+AHhuuuue: bets 20
+mabeal1: calls 20
+*** TURN *** [5d 4d 2d] [Td]
+AHhuuuue: checks 
+mabeal1: checks 
+*** RIVER *** [5d 4d 2d Td] [3h]
+AHhuuuue: checks 
+mabeal1: bets 40
+AHhuuuue: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d 4d 2d Td 3h]
+Seat 1: AHhuuuue (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: ferra o bico (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379748150: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 20:12:39 CET [2026/01/19 14:12:39 ET]
+Table '3967200048 1' 3-max Seat #1 is the button
+Seat 1: AHhuuuue (510 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: ferra o bico (470 in chips) 
+mabeal1: posts small blind 10
+ferra o bico: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7d]
+AHhuuuue: folds 
+mabeal1: raises 20 to 40
+ferra o bico: raises 430 to 470 and is all-in
+mabeal1: folds 
+Uncalled bet (430) returned to ferra o bico
+ferra o bico collected 80 from pot
+ferra o bico: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: AHhuuuue (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ferra o bico (big blind) collected (80)
+
+
+
+PokerStars Hand #259379751222: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 20:12:51 CET [2026/01/19 14:12:51 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 1: AHhuuuue (510 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: ferra o bico (510 in chips) 
+ferra o bico: posts small blind 10
+AHhuuuue: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 5h]
+mabeal1: folds 
+ferra o bico: folds 
+Uncalled bet (10) returned to AHhuuuue
+AHhuuuue collected 20 from pot
+AHhuuuue: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: AHhuuuue (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ferra o bico (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379757917: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 20:13:16 CET [2026/01/19 14:13:16 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 1: AHhuuuue (520 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: ferra o bico (500 in chips) 
+AHhuuuue: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Qd]
+ferra o bico: calls 20
+AHhuuuue: calls 10
+mabeal1: checks 
+*** FLOP *** [3c Kh 6d]
+AHhuuuue: checks 
+mabeal1: checks 
+ferra o bico: checks 
+*** TURN *** [3c Kh 6d] [3h]
+AHhuuuue: checks 
+mabeal1: checks 
+ferra o bico: checks 
+*** RIVER *** [3c Kh 6d 3h] [Js]
+AHhuuuue: checks 
+mabeal1: checks 
+ferra o bico: checks 
+*** SHOW DOWN ***
+AHhuuuue: shows [9c 4c] (a pair of Threes)
+mabeal1: shows [8s Qd] (a pair of Threes - King+Queen kicker)
+ferra o bico: shows [7s Ad] (a pair of Threes - Ace kicker)
+ferra o bico collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c Kh 6d 3h Js]
+Seat 1: AHhuuuue (small blind) showed [9c 4c] and lost with a pair of Threes
+Seat 2: mabeal1 (big blind) showed [8s Qd] and lost with a pair of Threes
+Seat 3: ferra o bico (button) showed [7s Ad] and won (60) with a pair of Threes
+
+
+
+PokerStars Hand #259379767802: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 20:13:54 CET [2026/01/19 14:13:54 ET]
+Table '3967200048 1' 3-max Seat #1 is the button
+Seat 1: AHhuuuue (500 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: ferra o bico (540 in chips) 
+mabeal1: posts small blind 15
+ferra o bico: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7d]
+AHhuuuue: calls 30
+mabeal1: raises 430 to 460 and is all-in
+ferra o bico has timed out
+ferra o bico: folds 
+ferra o bico is sitting out
+AHhuuuue: folds 
+Uncalled bet (430) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: AHhuuuue (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (90)
+Seat 3: ferra o bico (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379773839: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 20:14:18 CET [2026/01/19 14:14:18 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 1: AHhuuuue (470 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: ferra o bico (510 in chips) 
+ferra o bico: posts small blind 15
+AHhuuuue: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7h]
+mabeal1: folds 
+ferra o bico: folds 
+Uncalled bet (15) returned to AHhuuuue
+AHhuuuue collected 30 from pot
+AHhuuuue: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: AHhuuuue (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ferra o bico (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379775647: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 20:14:25 CET [2026/01/19 14:14:25 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 1: AHhuuuue (485 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: ferra o bico (495 in chips) 
+AHhuuuue: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Qc]
+ferra o bico: folds 
+AHhuuuue: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: AHhuuuue (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: ferra o bico (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379777507: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 20:14:33 CET [2026/01/19 14:14:33 ET]
+Table '3967200048 1' 3-max Seat #1 is the button
+Seat 1: AHhuuuue (470 in chips) 
+Seat 2: mabeal1 (535 in chips) 
+Seat 3: ferra o bico (495 in chips) 
+mabeal1: posts small blind 15
+ferra o bico: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 5h]
+AHhuuuue: folds 
+mabeal1: calls 15
+ferra o bico: checks 
+*** FLOP *** [3d Ad 7d]
+mabeal1: bets 30
+ferra o bico: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d Ad 7d]
+Seat 1: AHhuuuue (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: ferra o bico (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259379781271: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 20:14:47 CET [2026/01/19 14:14:47 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 1: AHhuuuue (470 in chips) 
+Seat 2: mabeal1 (565 in chips) 
+Seat 3: ferra o bico (465 in chips) 
+ferra o bico: posts small blind 15
+AHhuuuue: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Qs]
+mabeal1: raises 30 to 60
+ferra o bico: folds 
+AHhuuuue: calls 30
+*** FLOP *** [6d Qd Qh]
+AHhuuuue: checks 
+mabeal1: checks 
+*** TURN *** [6d Qd Qh] [Jd]
+AHhuuuue: checks 
+mabeal1: bets 60
+AHhuuuue: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [6d Qd Qh Jd]
+Seat 1: AHhuuuue (big blind) folded on the Turn
+Seat 2: mabeal1 (button) collected (135)
+Seat 3: ferra o bico (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379786705: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 20:15:08 CET [2026/01/19 14:15:08 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 1: AHhuuuue (410 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: ferra o bico (450 in chips) 
+AHhuuuue: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kh]
+ferra o bico has timed out
+ferra o bico: folds 
+ferra o bico is sitting out
+AHhuuuue: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: AHhuuuue (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: ferra o bico (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379791422: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 20:15:26 CET [2026/01/19 14:15:26 ET]
+Table '3967200048 1' 3-max Seat #1 is the button
+Seat 1: AHhuuuue (395 in chips) 
+Seat 2: mabeal1 (655 in chips) 
+Seat 3: ferra o bico (450 in chips) is sitting out
+mabeal1: posts small blind 20
+ferra o bico: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2h]
+AHhuuuue: raises 355 to 395 and is all-in
+mabeal1: folds 
+ferra o bico: folds 
+Uncalled bet (355) returned to AHhuuuue
+AHhuuuue collected 100 from pot
+AHhuuuue: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: AHhuuuue (button) collected (100)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ferra o bico (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379793693: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 20:15:35 CET [2026/01/19 14:15:35 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 1: AHhuuuue (455 in chips) 
+Seat 2: mabeal1 (635 in chips) 
+Seat 3: ferra o bico (410 in chips) is sitting out
+ferra o bico: posts small blind 20
+AHhuuuue: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6s]
+ferra o bico has returned
+mabeal1: folds 
+ferra o bico: raises 370 to 410 and is all-in
+AHhuuuue: folds 
+Uncalled bet (370) returned to ferra o bico
+ferra o bico collected 80 from pot
+ferra o bico: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: AHhuuuue (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ferra o bico (small blind) collected (80)
+
+
+
+PokerStars Hand #259379796863: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 20:15:47 CET [2026/01/19 14:15:47 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 1: AHhuuuue (415 in chips) 
+Seat 2: mabeal1 (635 in chips) 
+Seat 3: ferra o bico (450 in chips) 
+AHhuuuue: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qc]
+ferra o bico: folds 
+AHhuuuue: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: AHhuuuue (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: ferra o bico (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379798716: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 20:15:55 CET [2026/01/19 14:15:55 ET]
+Table '3967200048 1' 3-max Seat #1 is the button
+Seat 1: AHhuuuue (395 in chips) 
+Seat 2: mabeal1 (655 in chips) 
+Seat 3: ferra o bico (450 in chips) 
+mabeal1: posts small blind 20
+ferra o bico: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 2h]
+AHhuuuue: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to ferra o bico
+ferra o bico collected 40 from pot
+ferra o bico: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: AHhuuuue (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ferra o bico (big blind) collected (40)
+
+
+
+PokerStars Hand #259379800374: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 20:16:01 CET [2026/01/19 14:16:01 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 1: AHhuuuue (395 in chips) 
+Seat 2: mabeal1 (635 in chips) 
+Seat 3: ferra o bico (470 in chips) 
+ferra o bico: posts small blind 20
+AHhuuuue: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 9h]
+mabeal1: folds 
+ferra o bico: calls 20
+AHhuuuue: checks 
+*** FLOP *** [Ad 4d 4c]
+ferra o bico: checks 
+AHhuuuue: checks 
+*** TURN *** [Ad 4d 4c] [Qc]
+ferra o bico: bets 40
+AHhuuuue: calls 40
+*** RIVER *** [Ad 4d 4c Qc] [Ts]
+ferra o bico: bets 40
+AHhuuuue: raises 200 to 240
+ferra o bico: folds 
+Uncalled bet (200) returned to AHhuuuue
+AHhuuuue collected 240 from pot
+AHhuuuue: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ad 4d 4c Qc Ts]
+Seat 1: AHhuuuue (big blind) collected (240)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ferra o bico (small blind) folded on the River
+
+
+
+PokerStars Hand #259379807875: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 20:16:30 CET [2026/01/19 14:16:30 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 1: AHhuuuue (515 in chips) 
+Seat 2: mabeal1 (635 in chips) 
+Seat 3: ferra o bico (350 in chips) 
+AHhuuuue: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Kd]
+ferra o bico: folds 
+AHhuuuue: raises 40 to 80
+mabeal1: raises 160 to 240
+AHhuuuue: raises 275 to 515 and is all-in
+mabeal1: calls 275
+*** FLOP *** [Kh 2h 9c]
+*** TURN *** [Kh 2h 9c] [4c]
+*** RIVER *** [Kh 2h 9c 4c] [9s]
+*** SHOW DOWN ***
+AHhuuuue: shows [5d Ad] (a pair of Nines)
+mabeal1: shows [Kc Kd] (a full house, Kings full of Nines)
+mabeal1 collected 1030 from pot
+AHhuuuue finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Board [Kh 2h 9c 4c 9s]
+Seat 1: AHhuuuue (small blind) showed [5d Ad] and lost with a pair of Nines
+Seat 2: mabeal1 (big blind) showed [Kc Kd] and won (1030) with a full house, Kings full of Nines
+Seat 3: ferra o bico (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379815732: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 20:17:00 CET [2026/01/19 14:17:00 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1150 in chips) 
+Seat 3: ferra o bico (350 in chips) 
+mabeal1: posts small blind 20
+ferra o bico: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2h]
+mabeal1: calls 20
+ferra o bico: checks 
+*** FLOP *** [Td 4s 7d]
+ferra o bico: checks 
+mabeal1: bets 40
+ferra o bico: calls 40
+*** TURN *** [Td 4s 7d] [As]
+ferra o bico: checks 
+mabeal1: bets 120
+ferra o bico: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Td 4s 7d As]
+Seat 2: mabeal1 (button) (small blind) collected (160)
+Seat 3: ferra o bico (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259379821505: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:17:22 CET [2026/01/19 14:17:22 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1230 in chips) 
+Seat 3: ferra o bico (270 in chips) 
+ferra o bico: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 5s]
+ferra o bico: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: ferra o bico (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379822673: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:17:27 CET [2026/01/19 14:17:27 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1260 in chips) 
+Seat 3: ferra o bico (240 in chips) 
+mabeal1: posts small blind 30
+ferra o bico: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Qs]
+mabeal1: raises 1200 to 1260 and is all-in
+ferra o bico: folds 
+Uncalled bet (1200) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: ferra o bico (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379824251: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:17:33 CET [2026/01/19 14:17:33 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1320 in chips) 
+Seat 3: ferra o bico (180 in chips) 
+ferra o bico: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3h]
+ferra o bico: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: ferra o bico (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379825371: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:17:37 CET [2026/01/19 14:17:37 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1350 in chips) 
+Seat 3: ferra o bico (150 in chips) 
+mabeal1: posts small blind 30
+ferra o bico: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 4s]
+mabeal1: raises 60 to 120
+ferra o bico: raises 30 to 150 and is all-in
+mabeal1: calls 30
+*** FLOP *** [8d Jd Ts]
+*** TURN *** [8d Jd Ts] [7h]
+*** RIVER *** [8d Jd Ts 7h] [7s]
+*** SHOW DOWN ***
+ferra o bico: shows [Ad 7d] (three of a kind, Sevens)
+mabeal1: shows [6s 4s] (a pair of Sevens)
+ferra o bico collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [8d Jd Ts 7h 7s]
+Seat 2: mabeal1 (button) (small blind) showed [6s 4s] and lost with a pair of Sevens
+Seat 3: ferra o bico (big blind) showed [Ad 7d] and won (300) with three of a kind, Sevens
+
+
+
+PokerStars Hand #259379828898: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:17:51 CET [2026/01/19 14:17:51 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1200 in chips) 
+Seat 3: ferra o bico (300 in chips) 
+ferra o bico: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Ah]
+ferra o bico: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: ferra o bico (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379831197: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:17:59 CET [2026/01/19 14:17:59 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1230 in chips) 
+Seat 3: ferra o bico (270 in chips) 
+mabeal1: posts small blind 30
+ferra o bico: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 7c]
+mabeal1: calls 30
+ferra o bico: raises 210 to 270 and is all-in
+mabeal1: folds 
+Uncalled bet (210) returned to ferra o bico
+ferra o bico collected 120 from pot
+ferra o bico: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: ferra o bico (big blind) collected (120)
+
+
+
+PokerStars Hand #259379833361: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:18:08 CET [2026/01/19 14:18:08 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1170 in chips) 
+Seat 3: ferra o bico (330 in chips) 
+ferra o bico: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Kd]
+ferra o bico: calls 30
+mabeal1: raises 1110 to 1170 and is all-in
+ferra o bico: calls 270 and is all-in
+Uncalled bet (840) returned to mabeal1
+*** FLOP *** [3d Qs 8c]
+*** TURN *** [3d Qs 8c] [6s]
+*** RIVER *** [3d Qs 8c 6s] [9c]
+*** SHOW DOWN ***
+mabeal1: shows [7h Kd] (high card King)
+ferra o bico: shows [6h Qc] (two pair, Queens and Sixes)
+ferra o bico collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [3d Qs 8c 6s 9c]
+Seat 2: mabeal1 (big blind) showed [7h Kd] and lost with high card King
+Seat 3: ferra o bico (button) (small blind) showed [6h Qc] and won (660) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #259379837780: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:18:25 CET [2026/01/19 14:18:25 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (840 in chips) 
+Seat 3: ferra o bico (660 in chips) 
+mabeal1: posts small blind 30
+ferra o bico: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 8s]
+mabeal1: calls 30
+ferra o bico: checks 
+*** FLOP *** [2s 6c Ts]
+ferra o bico: checks 
+mabeal1: checks 
+*** TURN *** [2s 6c Ts] [7s]
+ferra o bico: checks 
+mabeal1: checks 
+*** RIVER *** [2s 6c Ts 7s] [Kd]
+ferra o bico: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+ferra o bico: shows [9c 4s] (high card King)
+mabeal1: shows [2d 8s] (a pair of Deuces)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s 6c Ts 7s Kd]
+Seat 2: mabeal1 (button) (small blind) showed [2d 8s] and won (120) with a pair of Deuces
+Seat 3: ferra o bico (big blind) showed [9c 4s] and lost with high card King
+
+
+
+PokerStars Hand #259379841932: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:18:41 CET [2026/01/19 14:18:41 ET]
+Table '3967200048 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (900 in chips) 
+Seat 3: ferra o bico (600 in chips) 
+ferra o bico: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Td]
+ferra o bico: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: ferra o bico (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379843588: Tournament #3967200048, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 20:18:47 CET [2026/01/19 14:18:47 ET]
+Table '3967200048 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (930 in chips) 
+Seat 3: ferra o bico (570 in chips) 
+mabeal1: posts small blind 30
+ferra o bico: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jd]
+mabeal1: raises 60 to 120
+ferra o bico: raises 450 to 570 and is all-in
+mabeal1: calls 450
+*** FLOP *** [2d 8s 3h]
+*** TURN *** [2d 8s 3h] [Ad]
+*** RIVER *** [2d 8s 3h Ad] [Kd]
+*** SHOW DOWN ***
+ferra o bico: shows [4c 4h] (a pair of Fours)
+mabeal1: shows [Jc Jd] (a pair of Jacks)
+mabeal1 collected 1140 from pot
+ferra o bico finished the tournament in 2nd place
+mabeal1 wins the tournament - congratulations!
+mabeal1 wins a '€1 Step 2 MTT Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [2d 8s 3h Ad Kd]
+Seat 2: mabeal1 (button) (small blind) showed [Jc Jd] and won (1140) with a pair of Jacks
+Seat 3: ferra o bico (big blind) showed [4c 4h] and lost with a pair of Fours
+
+
+

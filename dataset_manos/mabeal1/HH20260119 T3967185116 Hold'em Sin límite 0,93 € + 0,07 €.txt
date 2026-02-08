@@ -1,0 +1,858 @@
+﻿PokerStars Hand #259379023410: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:23:13 CET [2026/01/19 13:23:13 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: boufar0981 (500 in chips) 
+Seat 3: Boglins888 (500 in chips) 
+boufar0981: posts small blind 10
+Boglins888: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d As]
+mabeal1: raises 20 to 40
+boufar0981: folds 
+Boglins888: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: boufar0981 (small blind) folded before Flop
+Seat 3: Boglins888 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379026585: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:23:26 CET [2026/01/19 13:23:26 ET]
+Table '3967185116 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: boufar0981 (490 in chips) 
+Seat 3: Boglins888 (480 in chips) 
+Boglins888: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Ts]
+boufar0981: calls 20
+Boglins888: folds 
+mabeal1: checks 
+*** FLOP *** [Js 9h Jh]
+mabeal1: checks 
+boufar0981: bets 50
+mabeal1: folds 
+Uncalled bet (50) returned to boufar0981
+boufar0981 collected 50 from pot
+boufar0981: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Js 9h Jh]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: boufar0981 (button) collected (50)
+Seat 3: Boglins888 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379029664: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:23:39 CET [2026/01/19 13:23:39 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: boufar0981 (520 in chips) 
+Seat 3: Boglins888 (470 in chips) 
+mabeal1: posts small blind 10
+boufar0981: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 6s]
+Boglins888: calls 20
+mabeal1: folds 
+boufar0981: checks 
+*** FLOP *** [8c Ac Kc]
+boufar0981: checks 
+Boglins888: checks 
+*** TURN *** [8c Ac Kc] [3h]
+boufar0981: checks 
+Boglins888: checks 
+*** RIVER *** [8c Ac Kc 3h] [Jh]
+boufar0981: bets 20
+Boglins888: folds 
+Uncalled bet (20) returned to boufar0981
+boufar0981 collected 50 from pot
+boufar0981: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [8c Ac Kc 3h Jh]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: boufar0981 (big blind) collected (50)
+Seat 3: Boglins888 (button) folded on the River
+
+
+
+PokerStars Hand #259379033811: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:23:56 CET [2026/01/19 13:23:56 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: boufar0981 (550 in chips) 
+Seat 3: Boglins888 (450 in chips) 
+boufar0981: posts small blind 10
+Boglins888: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Th]
+mabeal1: folds 
+boufar0981: calls 10
+Boglins888: checks 
+*** FLOP *** [2d 3c 8s]
+boufar0981: checks 
+Boglins888: bets 60
+boufar0981: folds 
+Uncalled bet (60) returned to Boglins888
+Boglins888 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d 3c 8s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: boufar0981 (small blind) folded on the Flop
+Seat 3: Boglins888 (big blind) collected (40)
+
+
+
+PokerStars Hand #259379037868: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:24:12 CET [2026/01/19 13:24:12 ET]
+Table '3967185116 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: boufar0981 (530 in chips) 
+Seat 3: Boglins888 (470 in chips) 
+Boglins888: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 6h]
+boufar0981: folds 
+Boglins888: calls 10
+mabeal1: checks 
+*** FLOP *** [7s 7c 4d]
+Boglins888: checks 
+mabeal1: bets 20
+Boglins888: calls 20
+*** TURN *** [7s 7c 4d] [3d]
+Boglins888: checks 
+mabeal1: checks 
+*** RIVER *** [7s 7c 4d 3d] [Qh]
+Boglins888: checks 
+mabeal1: bets 120
+Boglins888: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7s 7c 4d 3d Qh]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: boufar0981 (button) folded before Flop (didn't bet)
+Seat 3: Boglins888 (small blind) folded on the River
+
+
+
+PokerStars Hand #259379043165: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:24:34 CET [2026/01/19 13:24:34 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: boufar0981 (530 in chips) 
+Seat 3: Boglins888 (430 in chips) 
+mabeal1: posts small blind 10
+boufar0981: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 2c]
+Boglins888: folds 
+mabeal1: raises 520 to 540 and is all-in
+boufar0981: folds 
+Uncalled bet (520) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: boufar0981 (big blind) folded before Flop
+Seat 3: Boglins888 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379046586: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:24:48 CET [2026/01/19 13:24:48 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: boufar0981 (510 in chips) 
+Seat 3: Boglins888 (430 in chips) 
+boufar0981: posts small blind 10
+Boglins888: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Qc]
+mabeal1: raises 20 to 40
+boufar0981: raises 20 to 60
+Boglins888: folds 
+mabeal1: calls 20
+*** FLOP *** [5s 9c 2h]
+boufar0981: bets 60
+mabeal1: calls 60
+*** TURN *** [5s 9c 2h] [3h]
+boufar0981: bets 20
+mabeal1: raises 100 to 120
+boufar0981: folds 
+Uncalled bet (100) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [5s 9c 2h 3h]
+Seat 1: mabeal1 (button) collected (300)
+Seat 2: boufar0981 (small blind) folded on the Turn
+Seat 3: Boglins888 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379056259: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:25:28 CET [2026/01/19 13:25:28 ET]
+Table '3967185116 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (720 in chips) 
+Seat 2: boufar0981 (370 in chips) 
+Seat 3: Boglins888 (410 in chips) 
+Boglins888: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 4s]
+boufar0981: raises 30 to 60
+Boglins888: folds 
+mabeal1: raises 660 to 720 and is all-in
+boufar0981: calls 310 and is all-in
+Uncalled bet (350) returned to mabeal1
+*** FLOP *** [7h 2c 6s]
+*** TURN *** [7h 2c 6s] [Th]
+*** RIVER *** [7h 2c 6s Th] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [4c 4s] (two pair, Fours and Deuces)
+boufar0981: shows [Kd Jd] (a pair of Deuces)
+mabeal1 collected 755 from pot
+boufar0981 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 755 | Rake 0 
+Board [7h 2c 6s Th 2h]
+Seat 1: mabeal1 (big blind) showed [4c 4s] and won (755) with two pair, Fours and Deuces
+Seat 2: boufar0981 (button) showed [Kd Jd] and lost with a pair of Deuces
+Seat 3: Boglins888 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379062122: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:25:51 CET [2026/01/19 13:25:51 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 3: Boglins888 (395 in chips) 
+mabeal1: posts small blind 15
+Boglins888: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Qh]
+mabeal1: calls 15
+Boglins888: checks 
+*** FLOP *** [5h 4d 3s]
+Boglins888: checks 
+mabeal1: bets 30
+Boglins888: calls 30
+*** TURN *** [5h 4d 3s] [Jc]
+Boglins888: checks 
+mabeal1: checks 
+*** RIVER *** [5h 4d 3s Jc] [2h]
+Boglins888: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Boglins888: shows [Th 2c] (a pair of Deuces)
+mabeal1: shows [2s Qh] (a pair of Deuces - Queen kicker)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h 4d 3s Jc 2h]
+Seat 1: mabeal1 (button) (small blind) showed [2s Qh] and won (120) with a pair of Deuces
+Seat 3: Boglins888 (big blind) showed [Th 2c] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259379067127: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:26:11 CET [2026/01/19 13:26:11 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1165 in chips) 
+Seat 3: Boglins888 (335 in chips) 
+Boglins888: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5c]
+Boglins888: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Boglins888
+Boglins888 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: Boglins888 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259379071004: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:26:28 CET [2026/01/19 13:26:28 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1135 in chips) 
+Seat 3: Boglins888 (365 in chips) 
+mabeal1: posts small blind 15
+Boglins888: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Js]
+mabeal1: calls 15
+Boglins888: raises 335 to 365 and is all-in
+mabeal1: folds 
+Uncalled bet (335) returned to Boglins888
+Boglins888 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Boglins888 (big blind) collected (60)
+
+
+
+PokerStars Hand #259379073845: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:26:39 CET [2026/01/19 13:26:39 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 3: Boglins888 (395 in chips) 
+Boglins888: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Kd]
+Boglins888: raises 365 to 395 and is all-in
+mabeal1: calls 365
+*** FLOP *** [5h Qd 4c]
+*** TURN *** [5h Qd 4c] [4d]
+*** RIVER *** [5h Qd 4c 4d] [7h]
+*** SHOW DOWN ***
+mabeal1: shows [Ac Kd] (a pair of Fours)
+Boglins888: shows [8s 8c] (two pair, Eights and Fours)
+Boglins888 collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [5h Qd 4c 4d 7h]
+Seat 1: mabeal1 (big blind) showed [Ac Kd] and lost with a pair of Fours
+Seat 3: Boglins888 (button) (small blind) showed [8s 8c] and won (790) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #259379076978: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:26:52 CET [2026/01/19 13:26:52 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 3: Boglins888 (790 in chips) 
+mabeal1: posts small blind 15
+Boglins888: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Kc]
+mabeal1: raises 30 to 60
+Boglins888: calls 30
+*** FLOP *** [Qd Tc 5c]
+Boglins888: checks 
+mabeal1: bets 45
+Boglins888: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd Tc 5c]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: Boglins888 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259379081965: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:27:12 CET [2026/01/19 13:27:12 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (770 in chips) 
+Seat 3: Boglins888 (730 in chips) 
+Boglins888: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Qc]
+Boglins888: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [Kc 4h 9d]
+mabeal1: checks 
+Boglins888: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to Boglins888
+Boglins888 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kc 4h 9d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: Boglins888 (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #259379087379: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 19:27:35 CET [2026/01/19 13:27:35 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (680 in chips) 
+Seat 3: Boglins888 (820 in chips) 
+mabeal1: posts small blind 20
+Boglins888: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Jc]
+mabeal1: raises 40 to 80
+Boglins888: calls 40
+*** FLOP *** [Qc 6d 8h]
+Boglins888: checks 
+mabeal1: bets 80
+Boglins888: calls 80
+*** TURN *** [Qc 6d 8h] [Js]
+Boglins888: checks 
+mabeal1: checks 
+*** RIVER *** [Qc 6d 8h Js] [7s]
+Boglins888: checks 
+mabeal1: bets 120
+Boglins888: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 320 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qc 6d 8h Js 7s]
+Seat 1: mabeal1 (button) (small blind) collected (320)
+Seat 3: Boglins888 (big blind) folded on the River
+
+
+
+PokerStars Hand #259379096097: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 19:28:10 CET [2026/01/19 13:28:10 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (840 in chips) 
+Seat 3: Boglins888 (660 in chips) 
+Boglins888: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6c]
+Boglins888: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: Boglins888 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379097400: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 19:28:16 CET [2026/01/19 13:28:16 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (860 in chips) 
+Seat 3: Boglins888 (640 in chips) 
+mabeal1: posts small blind 20
+Boglins888: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 4c]
+mabeal1: calls 20
+Boglins888: checks 
+*** FLOP *** [6d Ac 4d]
+Boglins888: checks 
+mabeal1: bets 40
+Boglins888: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d Ac 4d]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: Boglins888 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259379100039: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 19:28:27 CET [2026/01/19 13:28:27 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 3: Boglins888 (600 in chips) 
+Boglins888: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 9s]
+Boglins888: calls 20
+mabeal1: checks 
+*** FLOP *** [2s 2d 4d]
+mabeal1: checks 
+Boglins888: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to Boglins888
+Boglins888 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 2d 4d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: Boglins888 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259379103525: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 19:28:41 CET [2026/01/19 13:28:41 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (860 in chips) 
+Seat 3: Boglins888 (640 in chips) 
+mabeal1: posts small blind 20
+Boglins888: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jh]
+mabeal1: calls 20
+Boglins888: checks 
+*** FLOP *** [2h 8d Ts]
+Boglins888: checks 
+mabeal1: bets 40
+Boglins888: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h 8d Ts]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: Boglins888 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259379107585: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 19:28:58 CET [2026/01/19 13:28:58 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 3: Boglins888 (600 in chips) 
+Boglins888: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 9s]
+Boglins888: raises 560 to 600 and is all-in
+mabeal1: folds 
+Uncalled bet (560) returned to Boglins888
+Boglins888 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: Boglins888 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259379109427: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/19 19:29:05 CET [2026/01/19 13:29:05 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (860 in chips) 
+Seat 3: Boglins888 (640 in chips) 
+mabeal1: posts small blind 20
+Boglins888: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 9c]
+mabeal1: calls 20
+Boglins888: checks 
+*** FLOP *** [2d Ts 6h]
+Boglins888: checks 
+mabeal1: bets 40
+Boglins888: calls 40
+*** TURN *** [2d Ts 6h] [5d]
+Boglins888: checks 
+mabeal1: checks 
+*** RIVER *** [2d Ts 6h 5d] [Ac]
+Boglins888: checks 
+mabeal1: bets 200
+Boglins888: folds 
+Uncalled bet (200) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2d Ts 6h 5d Ac]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: Boglins888 (big blind) folded on the River
+
+
+
+PokerStars Hand #259379115623: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 19:29:30 CET [2026/01/19 13:29:30 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 3: Boglins888 (560 in chips) 
+Boglins888: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4s]
+Boglins888: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: Boglins888 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379116719: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 19:29:35 CET [2026/01/19 13:29:35 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 3: Boglins888 (530 in chips) 
+mabeal1: posts small blind 30
+Boglins888: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5s]
+mabeal1: calls 30
+Boglins888: checks 
+*** FLOP *** [2s Qc 8s]
+Boglins888: checks 
+mabeal1: checks 
+*** TURN *** [2s Qc 8s] [Jh]
+Boglins888: checks 
+mabeal1: checks 
+*** RIVER *** [2s Qc 8s Jh] [Jc]
+Boglins888: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Boglins888: shows [3h As] (a pair of Jacks)
+mabeal1: shows [2h 5s] (two pair, Jacks and Deuces)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s Qc 8s Jh Jc]
+Seat 1: mabeal1 (button) (small blind) showed [2h 5s] and won (120) with two pair, Jacks and Deuces
+Seat 3: Boglins888 (big blind) showed [3h As] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259379120768: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 19:29:51 CET [2026/01/19 13:29:51 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: Boglins888 (470 in chips) 
+Boglins888: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Jc]
+Boglins888: calls 30
+mabeal1: checks 
+*** FLOP *** [9h 9s Ah]
+mabeal1: checks 
+Boglins888: checks 
+*** TURN *** [9h 9s Ah] [Th]
+mabeal1: checks 
+Boglins888: bets 120
+mabeal1: calls 120
+*** RIVER *** [9h 9s Ah Th] [6d]
+mabeal1: checks 
+Boglins888: bets 180
+mabeal1: calls 180
+*** SHOW DOWN ***
+Boglins888: shows [5d 9d] (three of a kind, Nines)
+mabeal1: mucks hand 
+Boglins888 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [9h 9s Ah Th 6d]
+Seat 1: mabeal1 (big blind) mucked [Ts Jc]
+Seat 3: Boglins888 (button) (small blind) showed [5d 9d] and won (720) with three of a kind, Nines
+
+
+
+PokerStars Hand #259379127088: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 19:30:16 CET [2026/01/19 13:30:16 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (670 in chips) 
+Seat 3: Boglins888 (830 in chips) 
+mabeal1: posts small blind 30
+Boglins888: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Tc]
+mabeal1: raises 610 to 670 and is all-in
+Boglins888: folds 
+Uncalled bet (610) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: Boglins888 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379130180: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 19:30:28 CET [2026/01/19 13:30:28 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 3: Boglins888 (770 in chips) 
+Boglins888: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Tc]
+Boglins888: calls 30
+mabeal1: checks 
+*** FLOP *** [Kh 2c 6s]
+mabeal1: checks 
+Boglins888: checks 
+*** TURN *** [Kh 2c 6s] [7h]
+mabeal1: checks 
+Boglins888: checks 
+*** RIVER *** [Kh 2c 6s 7h] [7s]
+mabeal1: checks 
+Boglins888: checks 
+*** SHOW DOWN ***
+mabeal1: shows [2h Tc] (two pair, Sevens and Deuces)
+Boglins888: mucks hand 
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kh 2c 6s 7h 7s]
+Seat 1: mabeal1 (big blind) showed [2h Tc] and won (120) with two pair, Sevens and Deuces
+Seat 3: Boglins888 (button) (small blind) mucked [3c 5c]
+
+
+
+PokerStars Hand #259379134667: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 19:30:47 CET [2026/01/19 13:30:47 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (790 in chips) 
+Seat 3: Boglins888 (710 in chips) 
+mabeal1: posts small blind 30
+Boglins888: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Tc]
+mabeal1: calls 30
+Boglins888: checks 
+*** FLOP *** [9d Th 8s]
+Boglins888: checks 
+mabeal1: bets 60
+Boglins888: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9d Th 8s]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: Boglins888 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259379137621: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 19:30:58 CET [2026/01/19 13:30:58 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (850 in chips) 
+Seat 3: Boglins888 (650 in chips) 
+Boglins888: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8c]
+Boglins888: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: Boglins888 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379138940: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/19 19:31:04 CET [2026/01/19 13:31:04 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (880 in chips) 
+Seat 3: Boglins888 (620 in chips) 
+mabeal1: posts small blind 30
+Boglins888: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7c]
+mabeal1: raises 820 to 880 and is all-in
+Boglins888: folds 
+Uncalled bet (820) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: Boglins888 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379142904: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/01/19 19:31:19 CET [2026/01/19 13:31:19 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 3: Boglins888 (560 in chips) 
+Boglins888: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d As]
+Boglins888: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: Boglins888 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379144242: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/01/19 19:31:25 CET [2026/01/19 13:31:25 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 3: Boglins888 (520 in chips) 
+mabeal1: posts small blind 40
+Boglins888: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3s]
+mabeal1: raises 900 to 980 and is all-in
+Boglins888: folds 
+Uncalled bet (900) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: Boglins888 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379147962: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/01/19 19:31:39 CET [2026/01/19 13:31:39 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: Boglins888 (440 in chips) 
+Boglins888: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qh]
+Boglins888: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: Boglins888 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379149133: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/01/19 19:31:44 CET [2026/01/19 13:31:44 ET]
+Table '3967185116 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1100 in chips) 
+Seat 3: Boglins888 (400 in chips) 
+mabeal1: posts small blind 40
+Boglins888: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 5h]
+mabeal1: raises 1020 to 1100 and is all-in
+Boglins888: folds 
+Uncalled bet (1020) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: Boglins888 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379151800: Tournament #3967185116, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/01/19 19:31:55 CET [2026/01/19 13:31:55 ET]
+Table '3967185116 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1180 in chips) 
+Seat 3: Boglins888 (320 in chips) 
+Boglins888: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ac]
+Boglins888: calls 40
+mabeal1: raises 1100 to 1180 and is all-in
+Boglins888: calls 240 and is all-in
+Uncalled bet (860) returned to mabeal1
+*** FLOP *** [5h Ts Qd]
+*** TURN *** [5h Ts Qd] [9c]
+*** RIVER *** [5h Ts Qd 9c] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [9d Ac] (a pair of Nines)
+Boglins888: shows [Kh 6s] (high card King)
+mabeal1 collected 640 from pot
+Boglins888 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [5h Ts Qd 9c 7d]
+Seat 1: mabeal1 (big blind) showed [9d Ac] and won (640) with a pair of Nines
+Seat 3: Boglins888 (button) (small blind) showed [Kh 6s] and lost with high card King
+
+
+

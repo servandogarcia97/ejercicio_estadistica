@@ -1,0 +1,296 @@
+﻿PokerStars Hand #259561096857: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:05:44 CET [2026/02/02 7:05:44 ET]
+Table '3971378082 1' 3-max Seat #1 is the button
+Seat 1: hustelgambler (500 in chips) 
+Seat 2: luz_luz74 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+luz_luz74: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Qs]
+hustelgambler: raises 20 to 40
+luz_luz74: folds 
+mabeal1: calls 20
+*** FLOP *** [2c 9h 6s]
+mabeal1: checks 
+hustelgambler: bets 20
+mabeal1: raises 80 to 100
+hustelgambler: raises 80 to 180
+mabeal1: folds 
+Uncalled bet (80) returned to hustelgambler
+hustelgambler collected 290 from pot
+hustelgambler: doesn't show hand 
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [2c 9h 6s]
+Seat 1: hustelgambler (button) collected (290)
+Seat 2: luz_luz74 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259561098681: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:06:01 CET [2026/02/02 7:06:01 ET]
+Table '3971378082 1' 3-max Seat #2 is the button
+Seat 1: hustelgambler (650 in chips) 
+Seat 2: luz_luz74 (490 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+mabeal1: posts small blind 10
+hustelgambler: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Td]
+luz_luz74: folds 
+mabeal1: raises 20 to 40
+hustelgambler: raises 20 to 60
+mabeal1: raises 300 to 360 and is all-in
+hustelgambler: calls 300
+*** FLOP *** [Ad Ts Jc]
+*** TURN *** [Ad Ts Jc] [9h]
+*** RIVER *** [Ad Ts Jc 9h] [9s]
+*** SHOW DOWN ***
+mabeal1: shows [Th Td] (a full house, Tens full of Nines)
+hustelgambler: shows [6d 6c] (two pair, Nines and Sixes)
+mabeal1 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Ad Ts Jc 9h 9s]
+Seat 1: hustelgambler (big blind) showed [6d 6c] and lost with two pair, Nines and Sixes
+Seat 2: luz_luz74 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [Th Td] and won (720) with a full house, Tens full of Nines
+
+
+
+PokerStars Hand #259561100814: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:06:21 CET [2026/02/02 7:06:21 ET]
+Table '3971378082 1' 3-max Seat #3 is the button
+Seat 1: hustelgambler (290 in chips) 
+Seat 2: luz_luz74 (490 in chips) 
+Seat 3: mabeal1 (720 in chips) 
+hustelgambler: posts small blind 10
+luz_luz74: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 6c]
+mabeal1: raises 20 to 40
+hustelgambler: calls 30
+luz_luz74: calls 20
+*** FLOP *** [Jc 3h Ts]
+hustelgambler: bets 250 and is all-in
+luz_luz74: folds 
+mabeal1: folds 
+Uncalled bet (250) returned to hustelgambler
+hustelgambler collected 120 from pot
+hustelgambler: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jc 3h Ts]
+Seat 1: hustelgambler (small blind) collected (120)
+Seat 2: luz_luz74 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded on the Flop
+
+
+
+PokerStars Hand #259561102652: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:06:38 CET [2026/02/02 7:06:38 ET]
+Table '3971378082 1' 3-max Seat #1 is the button
+Seat 1: hustelgambler (370 in chips) 
+Seat 2: luz_luz74 (450 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+luz_luz74: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Qd]
+hustelgambler: calls 20
+luz_luz74: calls 10
+mabeal1: checks 
+*** FLOP *** [3d 6c 6h]
+luz_luz74: checks 
+mabeal1: checks 
+hustelgambler: checks 
+*** TURN *** [3d 6c 6h] [Tc]
+luz_luz74: checks 
+mabeal1: checks 
+hustelgambler: checks 
+*** RIVER *** [3d 6c 6h Tc] [4d]
+luz_luz74: checks 
+mabeal1: checks 
+hustelgambler: checks 
+*** SHOW DOWN ***
+luz_luz74: shows [7s 9s] (a pair of Sixes)
+mabeal1: shows [8d Qd] (a pair of Sixes - Queen kicker)
+hustelgambler: shows [As 8s] (a pair of Sixes - Ace kicker)
+hustelgambler collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d 6c 6h Tc 4d]
+Seat 1: hustelgambler (button) showed [As 8s] and won (60) with a pair of Sixes
+Seat 2: luz_luz74 (small blind) showed [7s 9s] and lost with a pair of Sixes
+Seat 3: mabeal1 (big blind) showed [8d Qd] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259561105117: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:07:02 CET [2026/02/02 7:07:02 ET]
+Table '3971378082 1' 3-max Seat #2 is the button
+Seat 1: hustelgambler (410 in chips) 
+Seat 2: luz_luz74 (430 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+mabeal1: posts small blind 10
+hustelgambler: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 7s]
+luz_luz74: raises 20 to 40
+mabeal1: folds 
+hustelgambler: calls 20
+*** FLOP *** [7h 6s 9c]
+hustelgambler: bets 20
+luz_luz74: raises 65 to 85
+hustelgambler: raises 65 to 150
+luz_luz74: calls 65
+*** TURN *** [7h 6s 9c] [3h]
+hustelgambler: bets 20
+luz_luz74: calls 20
+*** RIVER *** [7h 6s 9c 3h] [Ad]
+hustelgambler: bets 20
+luz_luz74: raises 200 to 220 and is all-in
+hustelgambler: calls 180 and is all-in
+Uncalled bet (20) returned to luz_luz74
+*** SHOW DOWN ***
+luz_luz74: shows [7c Tc] (a pair of Sevens)
+hustelgambler: shows [Qh 8c] (high card Ace)
+luz_luz74 collected 830 from pot
+hustelgambler finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 830 | Rake 0 
+Board [7h 6s 9c 3h Ad]
+Seat 1: hustelgambler (big blind) showed [Qh 8c] and lost with high card Ace
+Seat 2: luz_luz74 (button) showed [7c Tc] and won (830) with a pair of Sevens
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561109666: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:07:44 CET [2026/02/02 7:07:44 ET]
+Table '3971378082 1' 3-max Seat #3 is the button
+Seat 2: luz_luz74 (850 in chips) 
+Seat 3: mabeal1 (650 in chips) 
+mabeal1: posts small blind 10
+luz_luz74: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Jh]
+mabeal1: raises 20 to 40
+luz_luz74: calls 20
+*** FLOP *** [5c 4c Qs]
+luz_luz74: checks 
+mabeal1: bets 40
+luz_luz74: calls 40
+*** TURN *** [5c 4c Qs] [8h]
+luz_luz74: checks 
+mabeal1: bets 120
+luz_luz74: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c 4c Qs 8h]
+Seat 2: luz_luz74 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259561111850: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:08:05 CET [2026/02/02 7:08:05 ET]
+Table '3971378082 1' 3-max Seat #2 is the button
+Seat 2: luz_luz74 (770 in chips) 
+Seat 3: mabeal1 (730 in chips) 
+luz_luz74: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ac]
+luz_luz74: raises 30 to 60
+mabeal1: raises 670 to 730 and is all-in
+luz_luz74: folds 
+Uncalled bet (670) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: luz_luz74 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259561112908: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:08:14 CET [2026/02/02 7:08:14 ET]
+Table '3971378082 1' 3-max Seat #3 is the button
+Seat 2: luz_luz74 (710 in chips) 
+Seat 3: mabeal1 (790 in chips) 
+mabeal1: posts small blind 15
+luz_luz74: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6d]
+mabeal1: calls 15
+luz_luz74: checks 
+*** FLOP *** [9c 9d Jh]
+luz_luz74: checks 
+mabeal1: bets 30
+luz_luz74: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 9d Jh]
+Seat 2: luz_luz74 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259561113976: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:08:24 CET [2026/02/02 7:08:24 ET]
+Table '3971378082 1' 3-max Seat #2 is the button
+Seat 2: luz_luz74 (680 in chips) 
+Seat 3: mabeal1 (820 in chips) 
+luz_luz74: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Jc]
+luz_luz74: calls 15
+mabeal1: raises 60 to 90
+luz_luz74: calls 60
+*** FLOP *** [5d 3c 7d]
+mabeal1: bets 60
+luz_luz74: raises 530 to 590 and is all-in
+mabeal1: folds 
+Uncalled bet (530) returned to luz_luz74
+luz_luz74 collected 300 from pot
+luz_luz74: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [5d 3c 7d]
+Seat 2: luz_luz74 (button) (small blind) collected (300)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259561115590: Tournament #3971378082, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:08:39 CET [2026/02/02 7:08:39 ET]
+Table '3971378082 1' 3-max Seat #3 is the button
+Seat 2: luz_luz74 (830 in chips) 
+Seat 3: mabeal1 (670 in chips) 
+mabeal1: posts small blind 15
+luz_luz74: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Kc]
+mabeal1: raises 60 to 90
+luz_luz74: raises 740 to 830 and is all-in
+mabeal1: calls 580 and is all-in
+Uncalled bet (160) returned to luz_luz74
+*** FLOP *** [Ad 5c 4h]
+*** TURN *** [Ad 5c 4h] [8d]
+*** RIVER *** [Ad 5c 4h 8d] [Ts]
+*** SHOW DOWN ***
+luz_luz74: shows [9h As] (a pair of Aces)
+mabeal1: shows [Qc Kc] (high card Ace)
+luz_luz74 collected 1340 from pot
+mabeal1 finished the tournament in 2nd place
+luz_luz74 wins the tournament - congratulations!
+luz_luz74 wins a '€1.50 Step 2 SnG Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [Ad 5c 4h 8d Ts]
+Seat 2: luz_luz74 (big blind) showed [9h As] and won (1340) with a pair of Aces
+Seat 3: mabeal1 (button) (small blind) showed [Qc Kc] and lost with high card Ace
+
+
+

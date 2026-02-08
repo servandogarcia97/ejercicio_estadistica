@@ -1,0 +1,239 @@
+﻿PokerStars Hand #259543460460: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:12:48 CET [2026/01/31 21:12:48 ET]
+Table '3970997935 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: lebirs638 (500 in chips) 
+Seat 3: joslop10 (500 in chips) 
+lebirs638: posts small blind 10
+joslop10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 8h]
+mabeal1: folds 
+lebirs638: calls 10
+joslop10: raises 480 to 500 and is all-in
+lebirs638: folds 
+Uncalled bet (480) returned to joslop10
+joslop10 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: lebirs638 (small blind) folded before Flop
+Seat 3: joslop10 (big blind) collected (40)
+
+
+
+PokerStars Hand #259543462171: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:13:00 CET [2026/01/31 21:13:00 ET]
+Table '3970997935 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: lebirs638 (480 in chips) 
+Seat 3: joslop10 (520 in chips) 
+joslop10: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Jc]
+lebirs638: calls 20
+joslop10: raises 500 to 520 and is all-in
+mabeal1: folds 
+lebirs638: folds 
+Uncalled bet (500) returned to joslop10
+joslop10 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: lebirs638 (button) folded before Flop
+Seat 3: joslop10 (small blind) collected (60)
+
+
+
+PokerStars Hand #259543463729: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:13:11 CET [2026/01/31 21:13:11 ET]
+Table '3970997935 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: lebirs638 (460 in chips) 
+Seat 3: joslop10 (560 in chips) 
+mabeal1: posts small blind 10
+lebirs638: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9d]
+joslop10: raises 20 to 40
+mabeal1: folds 
+lebirs638: calls 20
+*** FLOP *** [3h Kc 4s]
+lebirs638: checks 
+joslop10: bets 520 and is all-in
+lebirs638: calls 420 and is all-in
+Uncalled bet (100) returned to joslop10
+*** TURN *** [3h Kc 4s] [3d]
+*** RIVER *** [3h Kc 4s 3d] [8s]
+*** SHOW DOWN ***
+lebirs638: shows [5h 4h] (two pair, Fours and Threes)
+joslop10: shows [As Ah] (two pair, Aces and Threes)
+joslop10 collected 930 from pot
+lebirs638 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [3h Kc 4s 3d 8s]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: lebirs638 (big blind) showed [5h 4h] and lost with two pair, Fours and Threes
+Seat 3: joslop10 (button) showed [As Ah] and won (930) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #259543467064: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:13:35 CET [2026/01/31 21:13:35 ET]
+Table '3970997935 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 3: joslop10 (1030 in chips) 
+mabeal1: posts small blind 10
+joslop10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 8s]
+mabeal1: calls 10
+joslop10: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [2h Td 6h]
+joslop10: checks 
+mabeal1: bets 60
+joslop10: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h Td 6h]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: joslop10 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259543469147: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:13:50 CET [2026/01/31 21:13:50 ET]
+Table '3970997935 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 3: joslop10 (990 in chips) 
+joslop10: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 4h]
+joslop10: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to joslop10
+joslop10 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: joslop10 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259543470055: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:13:56 CET [2026/01/31 21:13:56 ET]
+Table '3970997935 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 3: joslop10 (1010 in chips) 
+mabeal1: posts small blind 10
+joslop10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Ac]
+mabeal1: calls 10
+joslop10: raises 20 to 40
+mabeal1: raises 100 to 140
+joslop10: raises 100 to 240
+mabeal1: raises 250 to 490 and is all-in
+joslop10: calls 250
+*** FLOP *** [4c 9d 5c]
+*** TURN *** [4c 9d 5c] [Jh]
+*** RIVER *** [4c 9d 5c Jh] [6h]
+*** SHOW DOWN ***
+joslop10: shows [Ad 4s] (a pair of Fours)
+mabeal1: shows [Jc Ac] (a pair of Jacks)
+mabeal1 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [4c 9d 5c Jh 6h]
+Seat 1: mabeal1 (button) (small blind) showed [Jc Ac] and won (980) with a pair of Jacks
+Seat 3: joslop10 (big blind) showed [Ad 4s] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259543472749: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:14:16 CET [2026/01/31 21:14:16 ET]
+Table '3970997935 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 3: joslop10 (520 in chips) 
+joslop10: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ts]
+joslop10: raises 500 to 520 and is all-in
+mabeal1: folds 
+Uncalled bet (500) returned to joslop10
+joslop10 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: joslop10 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259543473830: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:14:24 CET [2026/01/31 21:14:24 ET]
+Table '3970997935 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 3: joslop10 (540 in chips) 
+mabeal1: posts small blind 10
+joslop10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 5d]
+mabeal1: calls 10
+joslop10: raises 520 to 540 and is all-in
+mabeal1: folds 
+Uncalled bet (520) returned to joslop10
+joslop10 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: joslop10 (big blind) collected (40)
+
+
+
+PokerStars Hand #259543474803: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:14:31 CET [2026/01/31 21:14:31 ET]
+Table '3970997935 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 3: joslop10 (560 in chips) 
+joslop10: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Td]
+joslop10: raises 540 to 560 and is all-in
+mabeal1: folds 
+Uncalled bet (540) returned to joslop10
+joslop10 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: joslop10 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259543475694: Tournament #3970997935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:14:37 CET [2026/01/31 21:14:37 ET]
+Table '3970997935 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (920 in chips) 
+Seat 3: joslop10 (580 in chips) 
+mabeal1: posts small blind 10
+joslop10: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 2h]
+mabeal1: calls 10
+joslop10: raises 560 to 580 and is all-in
+mabeal1: calls 560
+*** FLOP *** [Ad Jc Kd]
+*** TURN *** [Ad Jc Kd] [3c]
+*** RIVER *** [Ad Jc Kd 3c] [Qs]
+*** SHOW DOWN ***
+joslop10: shows [Jd 4d] (a pair of Jacks)
+mabeal1: shows [Kc 2h] (a pair of Kings)
+mabeal1 collected 1160 from pot
+joslop10 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [Ad Jc Kd 3c Qs]
+Seat 1: mabeal1 (button) (small blind) showed [Kc 2h] and won (1160) with a pair of Kings
+Seat 3: joslop10 (big blind) showed [Jd 4d] and lost with a pair of Jacks
+
+
+

@@ -1,0 +1,302 @@
+﻿PokerStars Hand #259561470917: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:59:46 CET [2026/02/02 7:59:46 ET]
+Table '3971388172 1' 3-max Seat #1 is the button
+Seat 1: SpicySpot (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Joker23T (500 in chips) 
+mabeal1: posts small blind 10
+Joker23T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5h]
+SpicySpot: raises 20 to 40
+mabeal1: folds 
+Joker23T: calls 20
+*** FLOP *** [Ah 9h Qs]
+Joker23T: checks 
+SpicySpot: bets 45
+Joker23T: calls 45
+*** TURN *** [Ah 9h Qs] [Ad]
+Joker23T: checks 
+SpicySpot: bets 90
+Joker23T: calls 90
+*** RIVER *** [Ah 9h Qs Ad] [Td]
+Joker23T: checks 
+SpicySpot: bets 325 and is all-in
+Joker23T: folds 
+Uncalled bet (325) returned to SpicySpot
+SpicySpot collected 360 from pot
+SpicySpot: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ah 9h Qs Ad Td]
+Seat 1: SpicySpot (button) collected (360)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Joker23T (big blind) folded on the River
+
+
+
+PokerStars Hand #259561479967: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:01:11 CET [2026/02/02 8:01:11 ET]
+Table '3971388172 1' 3-max Seat #2 is the button
+Seat 1: SpicySpot (685 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Joker23T (325 in chips) 
+Joker23T: posts small blind 10
+SpicySpot: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 4d]
+mabeal1: folds 
+Joker23T: calls 10
+SpicySpot: raises 20 to 40
+Joker23T: folds 
+Uncalled bet (20) returned to SpicySpot
+SpicySpot collected 40 from pot
+SpicySpot: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SpicySpot (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Joker23T (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561483150: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:01:37 CET [2026/02/02 8:01:37 ET]
+Table '3971388172 1' 3-max Seat #3 is the button
+Seat 1: SpicySpot (705 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Joker23T (305 in chips) 
+SpicySpot: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 8h]
+Joker23T: folds 
+SpicySpot: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [5d 8s 2h]
+SpicySpot: checks 
+mabeal1: bets 40
+SpicySpot: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 8s 2h]
+Seat 1: SpicySpot (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: Joker23T (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561489317: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:02:27 CET [2026/02/02 8:02:27 ET]
+Table '3971388172 1' 3-max Seat #1 is the button
+Seat 1: SpicySpot (665 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: Joker23T (305 in chips) 
+mabeal1: posts small blind 10
+Joker23T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Jh]
+SpicySpot: folds 
+mabeal1: raises 30 to 50
+Joker23T: raises 255 to 305 and is all-in
+mabeal1: calls 255
+*** FLOP *** [8d 3c Qc]
+*** TURN *** [8d 3c Qc] [2c]
+*** RIVER *** [8d 3c Qc 2c] [9h]
+*** SHOW DOWN ***
+mabeal1: shows [As Jh] (high card Ace)
+Joker23T: shows [3s 3h] (three of a kind, Threes)
+Joker23T collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | Rake 0 
+Board [8d 3c Qc 2c 9h]
+Seat 1: SpicySpot (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [As Jh] and lost with high card Ace
+Seat 3: Joker23T (big blind) showed [3s 3h] and won (610) with three of a kind, Threes
+
+
+
+PokerStars Hand #259561492764: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:02:55 CET [2026/02/02 8:02:55 ET]
+Table '3971388172 1' 3-max Seat #2 is the button
+Seat 1: SpicySpot (665 in chips) 
+Seat 2: mabeal1 (225 in chips) 
+Seat 3: Joker23T (610 in chips) 
+Joker23T: posts small blind 15
+SpicySpot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 5d]
+mabeal1: raises 195 to 225 and is all-in
+Joker23T: folds 
+SpicySpot: folds 
+Uncalled bet (195) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: SpicySpot (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (75)
+Seat 3: Joker23T (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561496668: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:03:25 CET [2026/02/02 8:03:25 ET]
+Table '3971388172 1' 3-max Seat #3 is the button
+Seat 1: SpicySpot (635 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: Joker23T (595 in chips) 
+SpicySpot: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3s]
+Joker23T: raises 30 to 60
+SpicySpot: raises 30 to 90
+mabeal1: folds 
+Joker23T: calls 30
+*** FLOP *** [Ks 4c 3d]
+SpicySpot: checks 
+Joker23T: bets 30
+SpicySpot: calls 30
+*** TURN *** [Ks 4c 3d] [Jh]
+SpicySpot: checks 
+Joker23T: checks 
+*** RIVER *** [Ks 4c 3d Jh] [Th]
+SpicySpot: checks 
+Joker23T: checks 
+*** SHOW DOWN ***
+SpicySpot: shows [As 8d] (high card Ace)
+Joker23T: mucks hand 
+SpicySpot collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Ks 4c 3d Jh Th]
+Seat 1: SpicySpot (small blind) showed [As 8d] and won (270) with high card Ace
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Joker23T (button) mucked [5h Ah]
+
+
+
+PokerStars Hand #259561505768: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:04:36 CET [2026/02/02 8:04:36 ET]
+Table '3971388172 1' 3-max Seat #1 is the button
+Seat 1: SpicySpot (785 in chips) 
+Seat 2: mabeal1 (240 in chips) 
+Seat 3: Joker23T (475 in chips) 
+mabeal1: posts small blind 15
+Joker23T: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js As]
+SpicySpot: folds 
+mabeal1: raises 210 to 240 and is all-in
+Joker23T: folds 
+Uncalled bet (210) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: SpicySpot (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Joker23T (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561508416: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:04:57 CET [2026/02/02 8:04:57 ET]
+Table '3971388172 1' 3-max Seat #2 is the button
+Seat 1: SpicySpot (785 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: Joker23T (445 in chips) 
+Joker23T: posts small blind 15
+SpicySpot: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3d]
+mabeal1: folds 
+Joker23T: calls 15
+SpicySpot: checks 
+*** FLOP *** [2c Ac 4d]
+Joker23T: bets 30
+SpicySpot: folds 
+Uncalled bet (30) returned to Joker23T
+Joker23T collected 60 from pot
+Joker23T: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2c Ac 4d]
+Seat 1: SpicySpot (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Joker23T (small blind) collected (60)
+
+
+
+PokerStars Hand #259561512624: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:05:29 CET [2026/02/02 8:05:29 ET]
+Table '3971388172 1' 3-max Seat #3 is the button
+Seat 1: SpicySpot (755 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: Joker23T (475 in chips) 
+SpicySpot: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Kh]
+Joker23T: folds 
+SpicySpot: raises 30 to 60
+mabeal1: raises 210 to 270 and is all-in
+SpicySpot: folds 
+Uncalled bet (210) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: SpicySpot (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: Joker23T (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561516388: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:05:59 CET [2026/02/02 8:05:59 ET]
+Table '3971388172 1' 3-max Seat #1 is the button
+Seat 1: SpicySpot (695 in chips) 
+Seat 2: mabeal1 (330 in chips) 
+Seat 3: Joker23T (475 in chips) 
+mabeal1: posts small blind 20
+Joker23T: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 5c]
+SpicySpot: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Joker23T
+Joker23T collected 40 from pot
+Joker23T: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: SpicySpot (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Joker23T (big blind) collected (40)
+
+
+
+PokerStars Hand #259561517550: Tournament #3971388172, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:06:08 CET [2026/02/02 8:06:08 ET]
+Table '3971388172 1' 3-max Seat #2 is the button
+Seat 1: SpicySpot (695 in chips) 
+Seat 2: mabeal1 (310 in chips) 
+Seat 3: Joker23T (495 in chips) 
+Joker23T: posts small blind 20
+SpicySpot: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2h]
+mabeal1: raises 270 to 310 and is all-in
+Joker23T: raises 185 to 495 and is all-in
+SpicySpot: folds 
+Uncalled bet (185) returned to Joker23T
+*** FLOP *** [9d 4s Ks]
+*** TURN *** [9d 4s Ks] [3s]
+*** RIVER *** [9d 4s Ks 3s] [6d]
+*** SHOW DOWN ***
+Joker23T: shows [Qs Ad] (high card Ace)
+mabeal1: shows [Ah 2h] (high card Ace - lower kicker)
+Joker23T collected 660 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [9d 4s Ks 3s 6d]
+Seat 1: SpicySpot (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [Ah 2h] and lost with high card Ace
+Seat 3: Joker23T (small blind) showed [Qs Ad] and won (660) with high card Ace
+
+
+

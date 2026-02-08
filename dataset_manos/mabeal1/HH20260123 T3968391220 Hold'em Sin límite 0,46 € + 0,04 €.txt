@@ -1,0 +1,448 @@
+﻿PokerStars Hand #259429348039: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:46:24 CET [2026/01/23 11:46:24 ET]
+Table '3968391220 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Yann07022 (500 in chips) 
+Seat 3: LilAli13 (500 in chips) 
+Yann07022: posts small blind 10
+LilAli13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2h]
+mabeal1: folds 
+Yann07022: raises 20 to 40
+LilAli13: folds 
+Uncalled bet (20) returned to Yann07022
+Yann07022 collected 40 from pot
+Yann07022: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Yann07022 (small blind) collected (40)
+Seat 3: LilAli13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259429349078: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:46:29 CET [2026/01/23 11:46:29 ET]
+Table '3968391220 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Yann07022 (520 in chips) 
+Seat 3: LilAli13 (480 in chips) 
+LilAli13: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Qd]
+Yann07022: folds 
+LilAli13: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Tc 8c 2d]
+LilAli13: checks 
+mabeal1: bets 40
+LilAli13: calls 40
+*** TURN *** [Tc 8c 2d] [9c]
+LilAli13: checks 
+mabeal1: checks 
+*** RIVER *** [Tc 8c 2d 9c] [3h]
+LilAli13: bets 106
+mabeal1: folds 
+Uncalled bet (106) returned to LilAli13
+LilAli13 collected 160 from pot
+LilAli13: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Tc 8c 2d 9c 3h]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: Yann07022 (button) folded before Flop (didn't bet)
+Seat 3: LilAli13 (small blind) collected (160)
+
+
+
+PokerStars Hand #259429355123: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:47:01 CET [2026/01/23 11:47:01 ET]
+Table '3968391220 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: Yann07022 (520 in chips) 
+Seat 3: LilAli13 (560 in chips) 
+mabeal1: posts small blind 10
+Yann07022: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Kd]
+LilAli13: folds 
+mabeal1: raises 20 to 40
+Yann07022: calls 20
+*** FLOP *** [Th 5d 2s]
+mabeal1: bets 30
+Yann07022: calls 30
+*** TURN *** [Th 5d 2s] [Jc]
+mabeal1: bets 105
+Yann07022: folds 
+Uncalled bet (105) returned to mabeal1
+mabeal1 collected 140 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Th 5d 2s Jc]
+Seat 1: mabeal1 (small blind) collected (140)
+Seat 2: Yann07022 (big blind) folded on the Turn
+Seat 3: LilAli13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259429359057: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:47:22 CET [2026/01/23 11:47:22 ET]
+Table '3968391220 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 2: Yann07022 (450 in chips) 
+Seat 3: LilAli13 (560 in chips) 
+Yann07022: posts small blind 10
+LilAli13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9d]
+mabeal1: raises 20 to 40
+Yann07022: calls 30
+LilAli13: folds 
+*** FLOP *** [Jc 6h 7c]
+Yann07022: checks 
+mabeal1: bets 40
+Yann07022: calls 40
+*** TURN *** [Jc 6h 7c] [Th]
+Yann07022: checks 
+mabeal1: checks 
+*** RIVER *** [Jc 6h 7c Th] [3c]
+Yann07022: checks 
+mabeal1: bets 60
+Yann07022: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jc 6h 7c Th 3c]
+Seat 1: mabeal1 (button) collected (180)
+Seat 2: Yann07022 (small blind) folded on the River
+Seat 3: LilAli13 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259429368547: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:48:12 CET [2026/01/23 11:48:12 ET]
+Table '3968391220 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: Yann07022 (370 in chips) 
+Seat 3: LilAli13 (540 in chips) 
+LilAli13: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 9h]
+Yann07022: raises 20 to 40
+LilAli13: calls 30
+mabeal1: calls 20
+*** FLOP *** [3h 9s 5h]
+LilAli13: checks 
+mabeal1: checks 
+Yann07022: checks 
+*** TURN *** [3h 9s 5h] [2s]
+LilAli13: bets 40
+mabeal1: raises 80 to 120
+Yann07022: folds 
+LilAli13: calls 80
+*** RIVER *** [3h 9s 5h 2s] [3c]
+LilAli13: checks 
+mabeal1: bets 120
+LilAli13: calls 120
+*** SHOW DOWN ***
+mabeal1: shows [Jd 9h] (two pair, Nines and Threes)
+LilAli13: mucks hand 
+mabeal1 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [3h 9s 5h 2s 3c]
+Seat 1: mabeal1 (big blind) showed [Jd 9h] and won (600) with two pair, Nines and Threes
+Seat 2: Yann07022 (button) folded on the Turn
+Seat 3: LilAli13 (small blind) mucked [Qh 2h]
+
+
+
+PokerStars Hand #259429378231: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:49:03 CET [2026/01/23 11:49:03 ET]
+Table '3968391220 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (910 in chips) 
+Seat 2: Yann07022 (330 in chips) 
+Seat 3: LilAli13 (260 in chips) 
+mabeal1: posts small blind 15
+Yann07022: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Jc]
+LilAli13: folds 
+mabeal1: raises 30 to 60
+Yann07022: calls 30
+*** FLOP *** [5c 3h Kc]
+mabeal1: bets 60
+Yann07022: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c 3h Kc]
+Seat 1: mabeal1 (small blind) collected (120)
+Seat 2: Yann07022 (big blind) folded on the Flop
+Seat 3: LilAli13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259429382148: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:49:24 CET [2026/01/23 11:49:24 ET]
+Table '3968391220 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 2: Yann07022 (270 in chips) 
+Seat 3: LilAli13 (260 in chips) 
+Yann07022: posts small blind 15
+LilAli13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8h]
+mabeal1: folds 
+Yann07022: calls 15
+LilAli13: checks 
+*** FLOP *** [Kd 8d 5h]
+Yann07022: checks 
+LilAli13: checks 
+*** TURN *** [Kd 8d 5h] [Jh]
+Yann07022: checks 
+LilAli13: checks 
+*** RIVER *** [Kd 8d 5h Jh] [Qc]
+Yann07022: checks 
+LilAli13: checks 
+*** SHOW DOWN ***
+Yann07022: shows [3s Ts] (high card King)
+LilAli13: shows [Ac 2d] (high card Ace)
+LilAli13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 8d 5h Jh Qc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Yann07022 (small blind) showed [3s Ts] and lost with high card King
+Seat 3: LilAli13 (big blind) showed [Ac 2d] and won (60) with high card Ace
+
+
+
+PokerStars Hand #259429390573: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:50:08 CET [2026/01/23 11:50:08 ET]
+Table '3968391220 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 2: Yann07022 (240 in chips) 
+Seat 3: LilAli13 (290 in chips) 
+LilAli13: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 8h]
+Yann07022: folds 
+LilAli13: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: Yann07022 (button) folded before Flop (didn't bet)
+Seat 3: LilAli13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259429393276: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:50:22 CET [2026/01/23 11:50:22 ET]
+Table '3968391220 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (985 in chips) 
+Seat 2: Yann07022 (240 in chips) 
+Seat 3: LilAli13 (275 in chips) 
+mabeal1: posts small blind 15
+Yann07022: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Ts]
+LilAli13: raises 30 to 60
+mabeal1: folds 
+Yann07022: raises 30 to 90
+LilAli13: raises 180 to 270
+Yann07022: calls 150 and is all-in
+Uncalled bet (30) returned to LilAli13
+*** FLOP *** [Qs 3h Jc]
+*** TURN *** [Qs 3h Jc] [Tc]
+*** RIVER *** [Qs 3h Jc Tc] [8s]
+*** SHOW DOWN ***
+Yann07022: shows [Qh Kc] (a pair of Queens)
+LilAli13: shows [Ah 7d] (high card Ace)
+Yann07022 collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Board [Qs 3h Jc Tc 8s]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Yann07022 (big blind) showed [Qh Kc] and won (495) with a pair of Queens
+Seat 3: LilAli13 (button) showed [Ah 7d] and lost with high card Ace
+
+
+
+PokerStars Hand #259429399061: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 17:50:51 CET [2026/01/23 11:50:51 ET]
+Table '3968391220 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 2: Yann07022 (495 in chips) 
+Seat 3: LilAli13 (35 in chips) 
+Yann07022: posts small blind 20
+LilAli13: posts big blind 35 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9s]
+mabeal1: folds 
+Yann07022: folds 
+Uncalled bet (15) returned to LilAli13
+LilAli13 collected 40 from pot
+LilAli13: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Yann07022 (small blind) folded before Flop
+Seat 3: LilAli13 (big blind) collected (40)
+
+
+
+PokerStars Hand #259429403114: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 17:51:12 CET [2026/01/23 11:51:12 ET]
+Table '3968391220 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 2: Yann07022 (475 in chips) 
+Seat 3: LilAli13 (55 in chips) 
+LilAli13: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 6d]
+Yann07022: raises 435 to 475 and is all-in
+LilAli13: folds 
+mabeal1: folds 
+Uncalled bet (435) returned to Yann07022
+Yann07022 collected 100 from pot
+Yann07022: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Yann07022 (button) collected (100)
+Seat 3: LilAli13 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259429405224: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 17:51:23 CET [2026/01/23 11:51:23 ET]
+Table '3968391220 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (930 in chips) 
+Seat 2: Yann07022 (535 in chips) 
+Seat 3: LilAli13 (35 in chips) 
+mabeal1: posts small blind 20
+Yann07022: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 6h]
+LilAli13: calls 35 and is all-in
+mabeal1: calls 20
+Yann07022: checks 
+*** FLOP *** [5s 4c 7h]
+mabeal1: bets 80
+Yann07022: folds 
+Uncalled bet (80) returned to mabeal1
+*** TURN *** [5s 4c 7h] [Js]
+*** RIVER *** [5s 4c 7h Js] [Qd]
+*** SHOW DOWN ***
+mabeal1: shows [6s 6h] (a pair of Sixes)
+mabeal1 collected 10 from side pot
+LilAli13: shows [4h Jc] (two pair, Jacks and Fours)
+LilAli13 collected 105 from main pot
+*** SUMMARY ***
+Total pot 115 Main pot 105. Side pot 10. | Rake 0 
+Board [5s 4c 7h Js Qd]
+Seat 1: mabeal1 (small blind) showed [6s 6h] and won (10) with a pair of Sixes
+Seat 2: Yann07022 (big blind) folded on the Flop
+Seat 3: LilAli13 (button) showed [4h Jc] and won (105) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #259429409856: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 17:51:47 CET [2026/01/23 11:51:47 ET]
+Table '3968391220 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 2: Yann07022 (495 in chips) 
+Seat 3: LilAli13 (105 in chips) 
+Yann07022: posts small blind 20
+LilAli13: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Jc]
+mabeal1: raises 40 to 80
+Yann07022: raises 40 to 120
+LilAli13: calls 65 and is all-in
+mabeal1: calls 40
+*** FLOP *** [6d 7h 2s]
+Yann07022: bets 40
+mabeal1: calls 40
+*** TURN *** [6d 7h 2s] [2h]
+Yann07022: checks 
+mabeal1: checks 
+*** RIVER *** [6d 7h 2s 2h] [4d]
+Yann07022: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Yann07022: shows [Jh Qc] (a pair of Deuces)
+mabeal1: shows [Qd Jc] (a pair of Deuces)
+Yann07022 collected 55 from side pot
+mabeal1 collected 55 from side pot
+LilAli13: shows [Ts 6s] (two pair, Sixes and Deuces)
+LilAli13 collected 315 from main pot
+*** SUMMARY ***
+Total pot 425 Main pot 315. Side pot 110. | Rake 0 
+Board [6d 7h 2s 2h 4d]
+Seat 1: mabeal1 (button) showed [Qd Jc] and won (55) with a pair of Deuces
+Seat 2: Yann07022 (small blind) showed [Jh Qc] and won (55) with a pair of Deuces
+Seat 3: LilAli13 (big blind) showed [Ts 6s] and won (315) with two pair, Sixes and Deuces
+
+
+
+PokerStars Hand #259429421193: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/23 17:52:46 CET [2026/01/23 11:52:46 ET]
+Table '3968391220 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (795 in chips) 
+Seat 2: Yann07022 (390 in chips) 
+Seat 3: LilAli13 (315 in chips) 
+LilAli13: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 2h]
+Yann07022: raises 60 to 120
+LilAli13: raises 195 to 315 and is all-in
+mabeal1: folds 
+Yann07022: calls 195
+*** FLOP *** [Td Ac 4c]
+*** TURN *** [Td Ac 4c] [5d]
+*** RIVER *** [Td Ac 4c 5d] [Ts]
+*** SHOW DOWN ***
+LilAli13: shows [Kh Qc] (a pair of Tens)
+Yann07022: shows [Th Tc] (four of a kind, Tens)
+Yann07022 collected 690 from pot
+LilAli13 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [Td Ac 4c 5d Ts]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Yann07022 (button) showed [Th Tc] and won (690) with four of a kind, Tens
+Seat 3: LilAli13 (small blind) showed [Kh Qc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #259429426426: Tournament #3968391220, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/23 17:53:13 CET [2026/01/23 11:53:13 ET]
+Table '3968391220 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (735 in chips) 
+Seat 2: Yann07022 (765 in chips) 
+mabeal1: posts small blind 30
+Yann07022: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 5c]
+mabeal1: raises 60 to 120
+Yann07022: raises 645 to 765 and is all-in
+mabeal1: calls 615 and is all-in
+Uncalled bet (30) returned to Yann07022
+*** FLOP *** [3c 4h 8s]
+*** TURN *** [3c 4h 8s] [3d]
+*** RIVER *** [3c 4h 8s 3d] [8d]
+*** SHOW DOWN ***
+Yann07022: shows [6c 6s] (two pair, Eights and Sixes)
+mabeal1: shows [As 5c] (two pair, Eights and Threes)
+Yann07022 collected 1470 from pot
+mabeal1 finished the tournament in 2nd place
+Yann07022 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1470 | Rake 0 
+Board [3c 4h 8s 3d 8d]
+Seat 1: mabeal1 (button) (small blind) showed [As 5c] and lost with two pair, Eights and Threes
+Seat 2: Yann07022 (big blind) showed [6c 6s] and won (1470) with two pair, Eights and Sixes
+
+
+

@@ -1,0 +1,66 @@
+﻿PokerStars Hand #259622917888: Tournament #3972799297, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 1:17:32 CET [2026/02/06 19:17:32 ET]
+Table '3972799297 1' 3-max Seat #1 is the button
+Seat 1: alw4ysbluff (500 in chips) 
+Seat 2: cesarinho_pds (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+cesarinho_pds: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3c]
+alw4ysbluff: calls 20
+cesarinho_pds: folds 
+mabeal1: checks 
+*** FLOP *** [4d As 3h]
+mabeal1: checks 
+alw4ysbluff: bets 20
+mabeal1: calls 20
+*** TURN *** [4d As 3h] [5d]
+mabeal1: checks 
+alw4ysbluff: bets 20
+mabeal1: raises 80 to 100
+alw4ysbluff: calls 80
+*** RIVER *** [4d As 3h 5d] [Ts]
+mabeal1: bets 218
+alw4ysbluff: calls 218
+*** SHOW DOWN ***
+mabeal1: shows [Qs 3c] (a pair of Threes)
+alw4ysbluff: shows [8d Ah] (a pair of Aces)
+alw4ysbluff collected 726 from pot
+*** SUMMARY ***
+Total pot 726 | Rake 0 
+Board [4d As 3h 5d Ts]
+Seat 1: alw4ysbluff (button) showed [8d Ah] and won (726) with a pair of Aces
+Seat 2: cesarinho_pds (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [Qs 3c] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259622925719: Tournament #3972799297, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 1:18:10 CET [2026/02/06 19:18:10 ET]
+Table '3972799297 1' 3-max Seat #2 is the button
+Seat 1: alw4ysbluff (868 in chips) 
+Seat 2: cesarinho_pds (490 in chips) 
+Seat 3: mabeal1 (142 in chips) 
+mabeal1: posts small blind 10
+alw4ysbluff: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Kc]
+cesarinho_pds: folds 
+mabeal1: raises 122 to 142 and is all-in
+alw4ysbluff: calls 122
+*** FLOP *** [9c Qc 9d]
+*** TURN *** [9c Qc 9d] [Qs]
+*** RIVER *** [9c Qc 9d Qs] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [5c Kc] (two pair, Queens and Nines)
+alw4ysbluff: shows [Qh 9h] (a full house, Queens full of Nines)
+alw4ysbluff collected 284 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 284 | Rake 0 
+Board [9c Qc 9d Qs 2h]
+Seat 1: alw4ysbluff (big blind) showed [Qh 9h] and won (284) with a full house, Queens full of Nines
+Seat 2: cesarinho_pds (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [5c Kc] and lost with two pair, Queens and Nines
+
+
+

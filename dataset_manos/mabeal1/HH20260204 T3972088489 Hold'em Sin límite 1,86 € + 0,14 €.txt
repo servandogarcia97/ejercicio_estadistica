@@ -1,0 +1,183 @@
+﻿PokerStars Hand #259592459428: Tournament #3972088489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:09:58 CET [2026/02/04 15:09:58 ET]
+Table '3972088489 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: perottito95 (500 in chips) 
+Seat 3: rpfreits (500 in chips) 
+perottito95: posts small blind 10
+rpfreits: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3c]
+mabeal1: folds 
+perottito95: calls 10
+rpfreits: checks 
+*** FLOP *** [7s 3s Td]
+perottito95: checks 
+rpfreits: checks 
+*** TURN *** [7s 3s Td] [Jd]
+perottito95: checks 
+rpfreits: checks 
+*** RIVER *** [7s 3s Td Jd] [6d]
+perottito95: checks 
+rpfreits: checks 
+*** SHOW DOWN ***
+perottito95: shows [9d 5h] (high card Jack)
+rpfreits: shows [5d Kc] (high card King)
+rpfreits collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s 3s Td Jd 6d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: perottito95 (small blind) showed [9d 5h] and lost with high card Jack
+Seat 3: rpfreits (big blind) showed [5d Kc] and won (40) with high card King
+
+
+
+PokerStars Hand #259592469082: Tournament #3972088489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:10:34 CET [2026/02/04 15:10:34 ET]
+Table '3972088489 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: perottito95 (480 in chips) 
+Seat 3: rpfreits (520 in chips) 
+rpfreits: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Tc]
+perottito95: raises 20 to 40
+rpfreits: folds 
+mabeal1: calls 20
+*** FLOP *** [6d Ad 2c]
+mabeal1: checks 
+perottito95: bets 30
+mabeal1: raises 75 to 105
+perottito95: calls 75
+*** TURN *** [6d Ad 2c] [Ac]
+mabeal1: bets 355 and is all-in
+perottito95: calls 335 and is all-in
+Uncalled bet (20) returned to mabeal1
+*** RIVER *** [6d Ad 2c Ac] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [4c Tc] (a pair of Aces)
+perottito95: shows [9h 6h] (two pair, Aces and Sixes)
+perottito95 collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [6d Ad 2c Ac 8h]
+Seat 1: mabeal1 (big blind) showed [4c Tc] and lost with a pair of Aces
+Seat 2: perottito95 (button) showed [9h 6h] and won (970) with two pair, Aces and Sixes
+Seat 3: rpfreits (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592481094: Tournament #3972088489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:11:19 CET [2026/02/04 15:11:19 ET]
+Table '3972088489 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (20 in chips) 
+Seat 2: perottito95 (970 in chips) 
+Seat 3: rpfreits (510 in chips) 
+mabeal1: posts small blind 10
+perottito95: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7s]
+rpfreits: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to perottito95
+perottito95 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: perottito95 (big blind) collected (20)
+Seat 3: rpfreits (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259592483721: Tournament #3972088489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:11:29 CET [2026/02/04 15:11:29 ET]
+Table '3972088489 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (10 in chips) 
+Seat 2: perottito95 (980 in chips) 
+Seat 3: rpfreits (510 in chips) 
+perottito95: posts small blind 10
+rpfreits: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 3h]
+mabeal1: calls 10 and is all-in
+perottito95: calls 10
+rpfreits: checks 
+*** FLOP *** [6s Kh Jh]
+perottito95: checks 
+rpfreits: checks 
+*** TURN *** [6s Kh Jh] [8h]
+perottito95: bets 20
+rpfreits: folds 
+Uncalled bet (20) returned to perottito95
+*** RIVER *** [6s Kh Jh 8h] [4d]
+*** SHOW DOWN ***
+perottito95: shows [Jc 6c] (two pair, Jacks and Sixes)
+perottito95 collected 20 from side pot
+mabeal1: shows [9h 3h] (a flush, King high)
+mabeal1 collected 30 from main pot
+*** SUMMARY ***
+Total pot 50 Main pot 30. Side pot 20. | Rake 0 
+Board [6s Kh Jh 8h 4d]
+Seat 1: mabeal1 (button) showed [9h 3h] and won (30) with a flush, King high
+Seat 2: perottito95 (small blind) showed [Jc 6c] and won (20) with two pair, Jacks and Sixes
+Seat 3: rpfreits (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259592491236: Tournament #3972088489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:11:57 CET [2026/02/04 15:11:57 ET]
+Table '3972088489 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (30 in chips) 
+Seat 2: perottito95 (980 in chips) 
+Seat 3: rpfreits (490 in chips) 
+rpfreits: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d As]
+perottito95: raises 20 to 40
+rpfreits: folds 
+mabeal1: calls 10 and is all-in
+Uncalled bet (10) returned to perottito95
+*** FLOP *** [2h 9h 3d]
+*** TURN *** [2h 9h 3d] [2s]
+*** RIVER *** [2h 9h 3d 2s] [4s]
+*** SHOW DOWN ***
+mabeal1: shows [7d As] (a pair of Deuces)
+perottito95: shows [8c 6c] (a pair of Deuces - lower kicker)
+mabeal1 collected 70 from pot
+*** SUMMARY ***
+Total pot 70 | Rake 0 
+Board [2h 9h 3d 2s 4s]
+Seat 1: mabeal1 (big blind) showed [7d As] and won (70) with a pair of Deuces
+Seat 2: perottito95 (button) showed [8c 6c] and lost with a pair of Deuces
+Seat 3: rpfreits (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592495926: Tournament #3972088489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:12:15 CET [2026/02/04 15:12:15 ET]
+Table '3972088489 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (70 in chips) 
+Seat 2: perottito95 (950 in chips) 
+Seat 3: rpfreits (480 in chips) 
+mabeal1: posts small blind 10
+perottito95: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Kh]
+rpfreits: raises 20 to 40
+mabeal1: raises 30 to 70 and is all-in
+perottito95: folds 
+rpfreits: calls 30
+*** FLOP *** [Kd 2s 5d]
+*** TURN *** [Kd 2s 5d] [7d]
+*** RIVER *** [Kd 2s 5d 7d] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [9s Kh] (two pair, Kings and Deuces)
+rpfreits: shows [Kc Qd] (two pair, Kings and Deuces - Queen kicker)
+rpfreits collected 160 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd 2s 5d 7d 2h]
+Seat 1: mabeal1 (small blind) showed [9s Kh] and lost with two pair, Kings and Deuces
+Seat 2: perottito95 (big blind) folded before Flop
+Seat 3: rpfreits (button) showed [Kc Qd] and won (160) with two pair, Kings and Deuces
+
+
+

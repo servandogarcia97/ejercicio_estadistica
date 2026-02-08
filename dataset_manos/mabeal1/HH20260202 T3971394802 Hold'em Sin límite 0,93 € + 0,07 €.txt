@@ -1,0 +1,196 @@
+﻿PokerStars Hand #259561705845: Tournament #3971394802, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:29:48 CET [2026/02/02 8:29:48 ET]
+Table '3971394802 1' 3-max Seat #1 is the button
+Seat 1: FlopWizard17 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Joker23T (500 in chips) 
+mabeal1: posts small blind 10
+Joker23T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 5d]
+FlopWizard17: calls 20
+mabeal1: folds 
+Joker23T: checks 
+*** FLOP *** [9c Js 9d]
+Joker23T: checks 
+FlopWizard17: bets 20
+Joker23T: folds 
+Uncalled bet (20) returned to FlopWizard17
+FlopWizard17 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [9c Js 9d]
+Seat 1: FlopWizard17 (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Joker23T (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259561712531: Tournament #3971394802, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:30:37 CET [2026/02/02 8:30:37 ET]
+Table '3971394802 1' 3-max Seat #2 is the button
+Seat 1: FlopWizard17 (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Joker23T (480 in chips) 
+Joker23T: posts small blind 10
+FlopWizard17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Qh]
+mabeal1: raises 20 to 40
+Joker23T: folds 
+FlopWizard17: calls 20
+*** FLOP *** [Jh 2s Qc]
+FlopWizard17: checks 
+mabeal1: bets 45
+FlopWizard17: calls 45
+*** TURN *** [Jh 2s Qc] [3h]
+FlopWizard17: checks 
+mabeal1: bets 135
+FlopWizard17: calls 135
+*** RIVER *** [Jh 2s Qc 3h] [Th]
+FlopWizard17: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+FlopWizard17: shows [Qd Td] (two pair, Queens and Tens)
+mabeal1: mucks hand 
+FlopWizard17 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Jh 2s Qc 3h Th]
+Seat 1: FlopWizard17 (big blind) showed [Qd Td] and won (450) with two pair, Queens and Tens
+Seat 2: mabeal1 (button) mucked [8s Qh]
+Seat 3: Joker23T (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561717070: Tournament #3971394802, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:31:10 CET [2026/02/02 8:31:10 ET]
+Table '3971394802 1' 3-max Seat #3 is the button
+Seat 1: FlopWizard17 (760 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: Joker23T (470 in chips) 
+FlopWizard17: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Th]
+Joker23T: folds 
+FlopWizard17: calls 10
+mabeal1: checks 
+*** FLOP *** [Kh 8c 6s]
+FlopWizard17: checks 
+mabeal1: checks 
+*** TURN *** [Kh 8c 6s] [3c]
+FlopWizard17: bets 180
+mabeal1: folds 
+Uncalled bet (180) returned to FlopWizard17
+FlopWizard17 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 8c 6s 3c]
+Seat 1: FlopWizard17 (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Joker23T (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561721225: Tournament #3971394802, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:31:41 CET [2026/02/02 8:31:41 ET]
+Table '3971394802 1' 3-max Seat #1 is the button
+Seat 1: FlopWizard17 (780 in chips) 
+Seat 2: mabeal1 (250 in chips) 
+Seat 3: Joker23T (470 in chips) 
+mabeal1: posts small blind 10
+Joker23T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 9d]
+FlopWizard17: folds 
+mabeal1: raises 20 to 40
+Joker23T: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: FlopWizard17 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: Joker23T (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561724662: Tournament #3971394802, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:32:07 CET [2026/02/02 8:32:07 ET]
+Table '3971394802 1' 3-max Seat #2 is the button
+Seat 1: FlopWizard17 (780 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: Joker23T (450 in chips) 
+Joker23T: posts small blind 10
+FlopWizard17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 7s]
+mabeal1: folds 
+Joker23T: folds 
+Uncalled bet (10) returned to FlopWizard17
+FlopWizard17 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: FlopWizard17 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Joker23T (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561728124: Tournament #3971394802, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:32:32 CET [2026/02/02 8:32:32 ET]
+Table '3971394802 1' 3-max Seat #3 is the button
+Seat 1: FlopWizard17 (790 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: Joker23T (440 in chips) 
+FlopWizard17: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 7c]
+Joker23T: folds 
+FlopWizard17: calls 10
+mabeal1: raises 250 to 270 and is all-in
+FlopWizard17: folds 
+Uncalled bet (250) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: FlopWizard17 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: Joker23T (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561730189: Tournament #3971394802, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:32:48 CET [2026/02/02 8:32:48 ET]
+Table '3971394802 1' 3-max Seat #1 is the button
+Seat 1: FlopWizard17 (770 in chips) 
+Seat 2: mabeal1 (290 in chips) 
+Seat 3: Joker23T (440 in chips) 
+mabeal1: posts small blind 10
+Joker23T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qc]
+FlopWizard17: folds 
+mabeal1: raises 30 to 50
+Joker23T: calls 30
+*** FLOP *** [Qh Jc Js]
+mabeal1: bets 22
+Joker23T: raises 48 to 70
+mabeal1: calls 48
+*** TURN *** [Qh Jc Js] [5h]
+mabeal1: checks 
+Joker23T: bets 320 and is all-in
+mabeal1: calls 170 and is all-in
+Uncalled bet (150) returned to Joker23T
+*** RIVER *** [Qh Jc Js 5h] [Jh]
+*** SHOW DOWN ***
+mabeal1: shows [Kh Qc] (a full house, Jacks full of Queens)
+Joker23T: shows [Jd Kd] (four of a kind, Jacks)
+Joker23T collected 580 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Qh Jc Js 5h Jh]
+Seat 1: FlopWizard17 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Kh Qc] and lost with a full house, Jacks full of Queens
+Seat 3: Joker23T (big blind) showed [Jd Kd] and won (580) with four of a kind, Jacks
+
+
+

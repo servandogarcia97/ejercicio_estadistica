@@ -1,0 +1,285 @@
+﻿PokerStars Hand #259549645437: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:21:20 CET [2026/02/01 11:21:20 ET]
+Table '3971139499 1' 3-max Seat #1 is the button
+Seat 1: Freedom4Cat (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: nuriacarlos36 (500 in chips) 
+mabeal1: posts small blind 10
+nuriacarlos36: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 8c]
+Freedom4Cat: folds 
+mabeal1: raises 30 to 50
+nuriacarlos36: calls 30
+*** FLOP *** [Td 9s 3c]
+mabeal1: checks 
+nuriacarlos36: checks 
+*** TURN *** [Td 9s 3c] [5s]
+mabeal1: checks 
+nuriacarlos36: checks 
+*** RIVER *** [Td 9s 3c 5s] [8h]
+mabeal1: bets 60
+nuriacarlos36: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [As 8c] (a pair of Eights)
+nuriacarlos36: mucks hand 
+mabeal1 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Td 9s 3c 5s 8h]
+Seat 1: Freedom4Cat (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [As 8c] and won (220) with a pair of Eights
+Seat 3: nuriacarlos36 (big blind) mucked [4s 5d]
+
+
+
+PokerStars Hand #259549652027: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:21:48 CET [2026/02/01 11:21:48 ET]
+Table '3971139499 1' 3-max Seat #2 is the button
+Seat 1: Freedom4Cat (500 in chips) 
+Seat 2: mabeal1 (610 in chips) 
+Seat 3: nuriacarlos36 (390 in chips) 
+nuriacarlos36: posts small blind 10
+Freedom4Cat: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 2s]
+mabeal1: folds 
+nuriacarlos36: raises 40 to 60
+Freedom4Cat: folds 
+Uncalled bet (40) returned to nuriacarlos36
+nuriacarlos36 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Freedom4Cat (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: nuriacarlos36 (small blind) collected (40)
+
+
+
+PokerStars Hand #259549656361: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:22:06 CET [2026/02/01 11:22:06 ET]
+Table '3971139499 1' 3-max Seat #3 is the button
+Seat 1: Freedom4Cat (480 in chips) 
+Seat 2: mabeal1 (610 in chips) 
+Seat 3: nuriacarlos36 (410 in chips) 
+Freedom4Cat: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 2s]
+nuriacarlos36: calls 20
+Freedom4Cat: calls 10
+mabeal1: checks 
+*** FLOP *** [Kh 6c Kd]
+Freedom4Cat: checks 
+mabeal1: checks 
+nuriacarlos36: checks 
+*** TURN *** [Kh 6c Kd] [4s]
+Freedom4Cat: checks 
+mabeal1: bets 40
+nuriacarlos36: folds 
+Freedom4Cat: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh 6c Kd 4s]
+Seat 1: Freedom4Cat (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: nuriacarlos36 (button) folded on the Turn
+
+
+
+PokerStars Hand #259549668323: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:22:57 CET [2026/02/01 11:22:57 ET]
+Table '3971139499 1' 3-max Seat #1 is the button
+Seat 1: Freedom4Cat (460 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: nuriacarlos36 (390 in chips) 
+mabeal1: posts small blind 10
+nuriacarlos36: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 5d]
+Freedom4Cat: folds 
+mabeal1: raises 20 to 40
+nuriacarlos36: calls 20
+*** FLOP *** [Th 2d 6d]
+mabeal1: checks 
+nuriacarlos36: checks 
+*** TURN *** [Th 2d 6d] [Jc]
+mabeal1: bets 60
+nuriacarlos36: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th 2d 6d Jc]
+Seat 1: Freedom4Cat (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (80)
+Seat 3: nuriacarlos36 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259549673614: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:23:19 CET [2026/02/01 11:23:19 ET]
+Table '3971139499 1' 3-max Seat #2 is the button
+Seat 1: Freedom4Cat (460 in chips) 
+Seat 2: mabeal1 (690 in chips) 
+Seat 3: nuriacarlos36 (350 in chips) 
+nuriacarlos36: posts small blind 10
+Freedom4Cat: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5h]
+mabeal1: folds 
+nuriacarlos36: calls 10
+Freedom4Cat: raises 75 to 95
+nuriacarlos36: calls 75
+*** FLOP *** [9c Th Ts]
+nuriacarlos36: checks 
+Freedom4Cat: bets 365 and is all-in
+nuriacarlos36: folds 
+Uncalled bet (365) returned to Freedom4Cat
+Freedom4Cat collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | Rake 0 
+Board [9c Th Ts]
+Seat 1: Freedom4Cat (big blind) collected (190)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: nuriacarlos36 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259549684075: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:24:03 CET [2026/02/01 11:24:03 ET]
+Table '3971139499 1' 3-max Seat #3 is the button
+Seat 1: Freedom4Cat (555 in chips) 
+Seat 2: mabeal1 (690 in chips) 
+Seat 3: nuriacarlos36 (255 in chips) 
+Freedom4Cat: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 4c]
+nuriacarlos36: raises 225 to 255 and is all-in
+Freedom4Cat: folds 
+mabeal1: folds 
+Uncalled bet (225) returned to nuriacarlos36
+nuriacarlos36 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Freedom4Cat (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: nuriacarlos36 (button) collected (75)
+
+
+
+PokerStars Hand #259549688410: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:24:21 CET [2026/02/01 11:24:21 ET]
+Table '3971139499 1' 3-max Seat #1 is the button
+Seat 1: Freedom4Cat (540 in chips) 
+Seat 2: mabeal1 (660 in chips) 
+Seat 3: nuriacarlos36 (300 in chips) 
+mabeal1: posts small blind 15
+nuriacarlos36: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9s]
+Freedom4Cat: raises 30 to 60
+mabeal1: folds 
+nuriacarlos36: calls 30
+*** FLOP *** [Jd 4h Jc]
+nuriacarlos36: checks 
+Freedom4Cat: bets 480 and is all-in
+nuriacarlos36: calls 240 and is all-in
+Uncalled bet (240) returned to Freedom4Cat
+*** TURN *** [Jd 4h Jc] [8s]
+*** RIVER *** [Jd 4h Jc 8s] [3c]
+*** SHOW DOWN ***
+nuriacarlos36: shows [5h Jh] (three of a kind, Jacks)
+Freedom4Cat: shows [Th Td] (two pair, Jacks and Tens)
+nuriacarlos36 collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [Jd 4h Jc 8s 3c]
+Seat 1: Freedom4Cat (button) showed [Th Td] and lost with two pair, Jacks and Tens
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: nuriacarlos36 (big blind) showed [5h Jh] and won (615) with three of a kind, Jacks
+
+
+
+PokerStars Hand #259549699001: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:25:05 CET [2026/02/01 11:25:05 ET]
+Table '3971139499 1' 3-max Seat #2 is the button
+Seat 1: Freedom4Cat (240 in chips) 
+Seat 2: mabeal1 (645 in chips) 
+Seat 3: nuriacarlos36 (615 in chips) 
+nuriacarlos36: posts small blind 15
+Freedom4Cat: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 3c]
+mabeal1: folds 
+nuriacarlos36: folds 
+Uncalled bet (15) returned to Freedom4Cat
+Freedom4Cat collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Freedom4Cat (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: nuriacarlos36 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259549701569: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:25:16 CET [2026/02/01 11:25:16 ET]
+Table '3971139499 1' 3-max Seat #3 is the button
+Seat 1: Freedom4Cat (255 in chips) 
+Seat 2: mabeal1 (645 in chips) 
+Seat 3: nuriacarlos36 (600 in chips) 
+Freedom4Cat: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Ah]
+nuriacarlos36: raises 75 to 105
+Freedom4Cat: folds 
+mabeal1: calls 75
+*** FLOP *** [6d 9h 8s]
+mabeal1: checks 
+nuriacarlos36: bets 225
+mabeal1: raises 315 to 540 and is all-in
+nuriacarlos36: calls 270 and is all-in
+Uncalled bet (45) returned to mabeal1
+*** TURN *** [6d 9h 8s] [Td]
+*** RIVER *** [6d 9h 8s Td] [Jd]
+*** SHOW DOWN ***
+mabeal1: shows [6s Ah] (a pair of Sixes)
+nuriacarlos36: shows [6h 6c] (three of a kind, Sixes)
+nuriacarlos36 collected 1215 from pot
+*** SUMMARY ***
+Total pot 1215 | Rake 0 
+Board [6d 9h 8s Td Jd]
+Seat 1: Freedom4Cat (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [6s Ah] and lost with a pair of Sixes
+Seat 3: nuriacarlos36 (button) showed [6h 6c] and won (1215) with three of a kind, Sixes
+
+
+
+PokerStars Hand #259549713827: Tournament #3971139499, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 17:26:08 CET [2026/02/01 11:26:08 ET]
+Table '3971139499 1' 3-max Seat #1 is the button
+Seat 1: Freedom4Cat (240 in chips) 
+Seat 2: mabeal1 (45 in chips) 
+Seat 3: nuriacarlos36 (1215 in chips) 
+mabeal1: posts small blind 20
+nuriacarlos36: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 7s]
+Freedom4Cat: raises 200 to 240 and is all-in
+mabeal1: calls 25 and is all-in
+nuriacarlos36: folds 
+Uncalled bet (195) returned to Freedom4Cat
+*** FLOP *** [Qh 3d 5d]
+*** TURN *** [Qh 3d 5d] [6h]
+*** RIVER *** [Qh 3d 5d 6h] [4h]
+*** SHOW DOWN ***
+mabeal1: shows [Qc 7s] (a straight, Three to Seven)
+Freedom4Cat: shows [Kh 2h] (a flush, King high)
+Freedom4Cat collected 130 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Qh 3d 5d 6h 4h]
+Seat 1: Freedom4Cat (button) showed [Kh 2h] and won (130) with a flush, King high
+Seat 2: mabeal1 (small blind) showed [Qc 7s] and lost with a straight, Three to Seven
+Seat 3: nuriacarlos36 (big blind) folded before Flop
+
+
+

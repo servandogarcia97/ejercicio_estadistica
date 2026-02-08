@@ -1,0 +1,778 @@
+﻿PokerStars Hand #259562308855: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:41:54 CET [2026/02/02 9:41:54 ET]
+Table '3971410240 1' 3-max Seat #1 is the button
+Seat 1: ángel Molina (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: pirat33670 (500 in chips) 
+mabeal1: posts small blind 10
+pirat33670: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Kc]
+ángel Molina: calls 20
+mabeal1: raises 50 to 70
+pirat33670: calls 50
+ángel Molina: folds 
+*** FLOP *** [9c 2d Jd]
+mabeal1: bets 80
+pirat33670: calls 80
+*** TURN *** [9c 2d Jd] [2h]
+mabeal1: bets 240
+pirat33670: raises 110 to 350 and is all-in
+mabeal1: calls 110 and is all-in
+*** RIVER *** [9c 2d Jd 2h] [9s]
+*** SHOW DOWN ***
+mabeal1: shows [Jc Kc] (two pair, Jacks and Nines)
+pirat33670: shows [Js Kh] (two pair, Jacks and Nines)
+mabeal1 collected 510 from pot
+pirat33670 collected 510 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [9c 2d Jd 2h 9s]
+Seat 1: ángel Molina (button) folded before Flop
+Seat 2: mabeal1 (small blind) showed [Jc Kc] and won (510) with two pair, Jacks and Nines
+Seat 3: pirat33670 (big blind) showed [Js Kh] and won (510) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #259562312767: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:42:19 CET [2026/02/02 9:42:19 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 1: ángel Molina (480 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: pirat33670 (510 in chips) 
+pirat33670: posts small blind 10
+ángel Molina: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ad]
+mabeal1: raises 20 to 40
+pirat33670: raises 20 to 60
+ángel Molina: calls 40
+mabeal1: raises 450 to 510 and is all-in
+pirat33670: folds 
+ángel Molina: calls 420 and is all-in
+Uncalled bet (30) returned to mabeal1
+*** FLOP *** [2d 2s As]
+*** TURN *** [2d 2s As] [3h]
+*** RIVER *** [2d 2s As 3h] [5c]
+*** SHOW DOWN ***
+ángel Molina: shows [Qc Kh] (a pair of Deuces)
+mabeal1: shows [Qs Ad] (two pair, Aces and Deuces)
+mabeal1 collected 1020 from pot
+ángel Molina finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [2d 2s As 3h 5c]
+Seat 1: ángel Molina (big blind) showed [Qc Kh] and lost with a pair of Deuces
+Seat 2: mabeal1 (button) showed [Qs Ad] and won (1020) with two pair, Aces and Deuces
+Seat 3: pirat33670 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562316555: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:42:43 CET [2026/02/02 9:42:43 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1050 in chips) 
+Seat 3: pirat33670 (450 in chips) 
+pirat33670: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 8d]
+pirat33670: raises 430 to 450 and is all-in
+mabeal1: folds 
+Uncalled bet (430) returned to pirat33670
+pirat33670 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: pirat33670 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259562317632: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:42:50 CET [2026/02/02 9:42:50 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1030 in chips) 
+Seat 3: pirat33670 (470 in chips) 
+mabeal1: posts small blind 10
+pirat33670: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Th]
+mabeal1: raises 20 to 40
+pirat33670: calls 20
+*** FLOP *** [Qs 4h Jc]
+pirat33670: checks 
+mabeal1: checks 
+*** TURN *** [Qs 4h Jc] [8h]
+pirat33670: checks 
+mabeal1: checks 
+*** RIVER *** [Qs 4h Jc 8h] [Ad]
+pirat33670: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+pirat33670: shows [6h 8d] (a pair of Eights)
+mabeal1: shows [Tc Th] (a pair of Tens)
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 4h Jc 8h Ad]
+Seat 2: mabeal1 (button) (small blind) showed [Tc Th] and won (80) with a pair of Tens
+Seat 3: pirat33670 (big blind) showed [6h 8d] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259562320002: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:43:04 CET [2026/02/02 9:43:04 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1070 in chips) 
+Seat 3: pirat33670 (430 in chips) 
+pirat33670: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Ac]
+pirat33670: calls 10
+mabeal1: raises 1050 to 1070 and is all-in
+pirat33670: calls 410 and is all-in
+Uncalled bet (640) returned to mabeal1
+*** FLOP *** [Th 2s 6d]
+*** TURN *** [Th 2s 6d] [Tc]
+*** RIVER *** [Th 2s 6d Tc] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [8c Ac] (two pair, Tens and Deuces)
+pirat33670: shows [8s Ad] (two pair, Tens and Deuces)
+mabeal1 collected 430 from pot
+pirat33670 collected 430 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Th 2s 6d Tc 2h]
+Seat 2: mabeal1 (big blind) showed [8c Ac] and won (430) with two pair, Tens and Deuces
+Seat 3: pirat33670 (button) (small blind) showed [8s Ad] and won (430) with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #259562322736: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:43:22 CET [2026/02/02 9:43:22 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1070 in chips) 
+Seat 3: pirat33670 (430 in chips) 
+mabeal1: posts small blind 10
+pirat33670: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 3c]
+mabeal1: calls 10
+pirat33670: raises 410 to 430 and is all-in
+mabeal1: folds 
+Uncalled bet (410) returned to pirat33670
+pirat33670 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: pirat33670 (big blind) collected (40)
+
+
+
+PokerStars Hand #259562324317: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:43:32 CET [2026/02/02 9:43:32 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1050 in chips) 
+Seat 3: pirat33670 (450 in chips) 
+pirat33670: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5s]
+pirat33670: calls 10
+mabeal1: checks 
+*** FLOP *** [Qd 5c 9d]
+mabeal1: checks 
+pirat33670: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to pirat33670
+pirat33670 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd 5c 9d]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: pirat33670 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259562327489: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:43:52 CET [2026/02/02 9:43:52 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1030 in chips) 
+Seat 3: pirat33670 (470 in chips) 
+mabeal1: posts small blind 10
+pirat33670: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Th]
+mabeal1: calls 10
+pirat33670: checks 
+*** FLOP *** [9d 4d 7s]
+pirat33670: checks 
+mabeal1: checks 
+*** TURN *** [9d 4d 7s] [8c]
+pirat33670: checks 
+mabeal1: bets 60
+pirat33670: calls 60
+*** RIVER *** [9d 4d 7s 8c] [2h]
+pirat33670: checks 
+mabeal1: bets 950 and is all-in
+pirat33670: folds 
+Uncalled bet (950) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9d 4d 7s 8c 2h]
+Seat 2: mabeal1 (button) (small blind) collected (160)
+Seat 3: pirat33670 (big blind) folded on the River
+
+
+
+PokerStars Hand #259562333301: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:44:29 CET [2026/02/02 9:44:29 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1110 in chips) 
+Seat 3: pirat33670 (390 in chips) 
+pirat33670: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 4s]
+pirat33670: raises 370 to 390 and is all-in
+mabeal1: folds 
+Uncalled bet (370) returned to pirat33670
+pirat33670 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: pirat33670 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259562334429: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:44:36 CET [2026/02/02 9:44:36 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1090 in chips) 
+Seat 3: pirat33670 (410 in chips) 
+mabeal1: posts small blind 10
+pirat33670: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 3h]
+mabeal1: raises 20 to 40
+pirat33670: calls 20
+*** FLOP *** [8s 6c 7c]
+pirat33670: bets 370 and is all-in
+mabeal1: folds 
+Uncalled bet (370) returned to pirat33670
+pirat33670 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s 6c 7c]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: pirat33670 (big blind) collected (80)
+
+
+
+PokerStars Hand #259562337189: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:44:54 CET [2026/02/02 9:44:54 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1050 in chips) 
+Seat 3: pirat33670 (450 in chips) 
+pirat33670: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Td]
+pirat33670: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: pirat33670 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562338446: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:45:02 CET [2026/02/02 9:45:02 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1060 in chips) 
+Seat 3: pirat33670 (440 in chips) 
+mabeal1: posts small blind 15
+pirat33670: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5d]
+mabeal1: calls 15
+pirat33670: checks 
+*** FLOP *** [7d 9h 4c]
+pirat33670: checks 
+mabeal1: checks 
+*** TURN *** [7d 9h 4c] [5c]
+pirat33670: bets 30
+mabeal1: calls 30
+*** RIVER *** [7d 9h 4c 5c] [Jd]
+pirat33670: checks 
+mabeal1: bets 90
+pirat33670: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d 9h 4c 5c Jd]
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: pirat33670 (big blind) folded on the River
+
+
+
+PokerStars Hand #259562341450: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:45:21 CET [2026/02/02 9:45:21 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1120 in chips) 
+Seat 3: pirat33670 (380 in chips) 
+pirat33670: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 2d]
+pirat33670: calls 15
+mabeal1: raises 1090 to 1120 and is all-in
+pirat33670: folds 
+Uncalled bet (1090) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: pirat33670 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562343025: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:45:30 CET [2026/02/02 9:45:30 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1150 in chips) 
+Seat 3: pirat33670 (350 in chips) 
+mabeal1: posts small blind 15
+pirat33670: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Ad]
+mabeal1: raises 1120 to 1150 and is all-in
+pirat33670: calls 320 and is all-in
+Uncalled bet (800) returned to mabeal1
+*** FLOP *** [5c Kh 2c]
+*** TURN *** [5c Kh 2c] [8s]
+*** RIVER *** [5c Kh 2c 8s] [Ts]
+*** SHOW DOWN ***
+pirat33670: shows [Td 7d] (a pair of Tens)
+mabeal1: shows [3c Ad] (high card Ace)
+pirat33670 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [5c Kh 2c 8s Ts]
+Seat 2: mabeal1 (button) (small blind) showed [3c Ad] and lost with high card Ace
+Seat 3: pirat33670 (big blind) showed [Td 7d] and won (700) with a pair of Tens
+
+
+
+PokerStars Hand #259562345122: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:45:44 CET [2026/02/02 9:45:44 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (800 in chips) 
+Seat 3: pirat33670 (700 in chips) 
+pirat33670: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ts]
+pirat33670: calls 15
+mabeal1: checks 
+*** FLOP *** [8c Ks Js]
+mabeal1: checks 
+pirat33670: bets 30
+mabeal1: calls 30
+*** TURN *** [8c Ks Js] [Ac]
+mabeal1: checks 
+pirat33670: checks 
+*** RIVER *** [8c Ks Js Ac] [3c]
+mabeal1: checks 
+pirat33670: checks 
+*** SHOW DOWN ***
+mabeal1: shows [8h Ts] (a pair of Eights)
+pirat33670: shows [6c Jd] (a pair of Jacks)
+pirat33670 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Ks Js Ac 3c]
+Seat 2: mabeal1 (big blind) showed [8h Ts] and lost with a pair of Eights
+Seat 3: pirat33670 (button) (small blind) showed [6c Jd] and won (120) with a pair of Jacks
+
+
+
+PokerStars Hand #259562348311: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:46:04 CET [2026/02/02 9:46:04 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: pirat33670 (760 in chips) 
+mabeal1: posts small blind 15
+pirat33670: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 3d]
+mabeal1: calls 15
+pirat33670: checks 
+*** FLOP *** [8c As Qs]
+pirat33670: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to pirat33670
+pirat33670 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c As Qs]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: pirat33670 (big blind) collected (60)
+
+
+
+PokerStars Hand #259562350315: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:46:17 CET [2026/02/02 9:46:17 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (710 in chips) 
+Seat 3: pirat33670 (790 in chips) 
+pirat33670: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Ts]
+pirat33670: calls 15
+mabeal1: checks 
+*** FLOP *** [5c 3h Qs]
+mabeal1: checks 
+pirat33670: checks 
+*** TURN *** [5c 3h Qs] [Kh]
+mabeal1: checks 
+pirat33670: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to pirat33670
+pirat33670 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5c 3h Qs Kh]
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: pirat33670 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259562352587: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:46:31 CET [2026/02/02 9:46:31 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (680 in chips) 
+Seat 3: pirat33670 (820 in chips) 
+mabeal1: posts small blind 15
+pirat33670: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Jh]
+mabeal1: calls 15
+pirat33670: checks 
+*** FLOP *** [Jc 3c Qh]
+pirat33670: bets 30
+mabeal1: calls 30
+*** TURN *** [Jc 3c Qh] [5h]
+pirat33670: bets 30
+mabeal1: calls 30
+*** RIVER *** [Jc 3c Qh 5h] [Ac]
+pirat33670: checks 
+mabeal1: bets 90
+pirat33670: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jc 3c Qh 5h Ac]
+Seat 2: mabeal1 (button) (small blind) collected (180)
+Seat 3: pirat33670 (big blind) folded on the River
+
+
+
+PokerStars Hand #259562355788: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:46:52 CET [2026/02/02 9:46:52 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (770 in chips) 
+Seat 3: pirat33670 (730 in chips) 
+pirat33670: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5c]
+pirat33670: calls 15
+mabeal1: checks 
+*** FLOP *** [2d Qs 7d]
+mabeal1: checks 
+pirat33670: checks 
+*** TURN *** [2d Qs 7d] [Jh]
+mabeal1: bets 45
+pirat33670: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d Qs 7d Jh]
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: pirat33670 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259562359101: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:47:13 CET [2026/02/02 9:47:13 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (800 in chips) 
+Seat 3: pirat33670 (700 in chips) 
+mabeal1: posts small blind 15
+pirat33670: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Ks]
+mabeal1: calls 15
+pirat33670: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [8d Ts 5d]
+pirat33670: bets 30
+mabeal1: raises 90 to 120
+pirat33670: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8d Ts 5d]
+Seat 2: mabeal1 (button) (small blind) collected (180)
+Seat 3: pirat33670 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259562361766: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:47:30 CET [2026/02/02 9:47:30 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (890 in chips) 
+Seat 3: pirat33670 (610 in chips) 
+pirat33670: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 6c]
+pirat33670: calls 15
+mabeal1: checks 
+*** FLOP *** [3c 4c 4s]
+mabeal1: checks 
+pirat33670: bets 90
+mabeal1: raises 770 to 860 and is all-in
+pirat33670: folds 
+Uncalled bet (770) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3c 4c 4s]
+Seat 2: mabeal1 (big blind) collected (240)
+Seat 3: pirat33670 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259562364457: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:47:46 CET [2026/02/02 9:47:46 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1010 in chips) 
+Seat 3: pirat33670 (490 in chips) 
+mabeal1: posts small blind 15
+pirat33670: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 9s]
+mabeal1: raises 30 to 60
+pirat33670: raises 430 to 490 and is all-in
+mabeal1: folds 
+Uncalled bet (430) returned to pirat33670
+pirat33670 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: pirat33670 (big blind) collected (120)
+
+
+
+PokerStars Hand #259562365653: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:47:54 CET [2026/02/02 9:47:54 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (950 in chips) 
+Seat 3: pirat33670 (550 in chips) 
+pirat33670: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qd]
+pirat33670: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: pirat33670 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562367096: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:48:03 CET [2026/02/02 9:48:03 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (965 in chips) 
+Seat 3: pirat33670 (535 in chips) 
+mabeal1: posts small blind 20
+pirat33670: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Td]
+mabeal1: calls 20
+pirat33670: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to pirat33670
+pirat33670 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: pirat33670 (big blind) collected (80)
+
+
+
+PokerStars Hand #259562369023: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:48:16 CET [2026/02/02 9:48:16 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (925 in chips) 
+Seat 3: pirat33670 (575 in chips) 
+pirat33670: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 2d]
+pirat33670: calls 20
+mabeal1: checks 
+*** FLOP *** [9s 6c As]
+mabeal1: checks 
+pirat33670: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to pirat33670
+pirat33670 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s 6c As]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: pirat33670 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259562370715: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:48:26 CET [2026/02/02 9:48:26 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (885 in chips) 
+Seat 3: pirat33670 (615 in chips) 
+mabeal1: posts small blind 20
+pirat33670: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Kc]
+mabeal1: raises 40 to 80
+pirat33670: raises 535 to 615 and is all-in
+mabeal1: calls 535
+*** FLOP *** [Qs 2s 5h]
+*** TURN *** [Qs 2s 5h] [9h]
+*** RIVER *** [Qs 2s 5h 9h] [7h]
+*** SHOW DOWN ***
+pirat33670: shows [Jh 8h] (a flush, Jack high)
+mabeal1: shows [Qd Kc] (a pair of Queens)
+pirat33670 collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | Rake 0 
+Board [Qs 2s 5h 9h 7h]
+Seat 2: mabeal1 (button) (small blind) showed [Qd Kc] and lost with a pair of Queens
+Seat 3: pirat33670 (big blind) showed [Jh 8h] and won (1230) with a flush, Jack high
+
+
+
+PokerStars Hand #259562373284: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:48:43 CET [2026/02/02 9:48:43 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: pirat33670 (1230 in chips) 
+pirat33670: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8s]
+pirat33670: calls 20
+mabeal1: raises 230 to 270 and is all-in
+pirat33670: folds 
+Uncalled bet (230) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: pirat33670 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562374978: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:48:53 CET [2026/02/02 9:48:53 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (310 in chips) 
+Seat 3: pirat33670 (1190 in chips) 
+mabeal1: posts small blind 20
+pirat33670: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 9s]
+mabeal1: raises 270 to 310 and is all-in
+pirat33670: folds 
+Uncalled bet (270) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: pirat33670 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562375962: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:48:59 CET [2026/02/02 9:48:59 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (350 in chips) 
+Seat 3: pirat33670 (1150 in chips) 
+pirat33670: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 7d]
+pirat33670: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to pirat33670
+pirat33670 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: pirat33670 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259562376769: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:49:04 CET [2026/02/02 9:49:04 ET]
+Table '3971410240 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (310 in chips) 
+Seat 3: pirat33670 (1190 in chips) 
+mabeal1: posts small blind 20
+pirat33670: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Kh]
+mabeal1: raises 270 to 310 and is all-in
+pirat33670: calls 270
+*** FLOP *** [9s 3s 4d]
+*** TURN *** [9s 3s 4d] [Tc]
+*** RIVER *** [9s 3s 4d Tc] [2s]
+*** SHOW DOWN ***
+pirat33670: shows [Qc 7c] (high card Queen)
+mabeal1: shows [3c Kh] (a pair of Threes)
+mabeal1 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [9s 3s 4d Tc 2s]
+Seat 2: mabeal1 (button) (small blind) showed [3c Kh] and won (620) with a pair of Threes
+Seat 3: pirat33670 (big blind) showed [Qc 7c] and lost with high card Queen
+
+
+
+PokerStars Hand #259562379366: Tournament #3971410240, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:49:21 CET [2026/02/02 9:49:21 ET]
+Table '3971410240 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: pirat33670 (880 in chips) 
+pirat33670: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 4s]
+pirat33670: calls 20
+mabeal1: checks 
+*** FLOP *** [Ts 7d 9d]
+mabeal1: checks 
+pirat33670: bets 40
+mabeal1: raises 540 to 580 and is all-in
+pirat33670: calls 540
+*** TURN *** [Ts 7d 9d] [7h]
+*** RIVER *** [Ts 7d 9d 7h] [Ah]
+*** SHOW DOWN ***
+mabeal1: shows [8d 4s] (a pair of Sevens)
+pirat33670: shows [Ac 8c] (two pair, Aces and Sevens)
+pirat33670 collected 1240 from pot
+mabeal1 finished the tournament in 2nd place
+pirat33670 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Ts 7d 9d 7h Ah]
+Seat 2: mabeal1 (big blind) showed [8d 4s] and lost with a pair of Sevens
+Seat 3: pirat33670 (button) (small blind) showed [Ac 8c] and won (1240) with two pair, Aces and Sevens
+
+
+

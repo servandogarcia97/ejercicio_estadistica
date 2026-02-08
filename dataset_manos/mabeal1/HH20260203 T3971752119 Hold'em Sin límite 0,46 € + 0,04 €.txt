@@ -1,0 +1,784 @@
+﻿PokerStars Hand #259577775381: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:11:43 CET [2026/02/03 12:11:43 ET]
+Table '3971752119 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: AlexDopico (500 in chips) 
+Seat 3: adriac08 (500 in chips) 
+AlexDopico: posts small blind 10
+adriac08: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Qh]
+mabeal1: folds 
+AlexDopico: folds 
+Uncalled bet (10) returned to adriac08
+adriac08 collected 20 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: AlexDopico (small blind) folded before Flop
+Seat 3: adriac08 (big blind) collected (20)
+
+
+
+PokerStars Hand #259577776156: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:11:47 CET [2026/02/03 12:11:47 ET]
+Table '3971752119 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: AlexDopico (490 in chips) 
+Seat 3: adriac08 (510 in chips) 
+adriac08: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9c]
+AlexDopico: folds 
+adriac08: calls 10
+mabeal1: checks 
+*** FLOP *** [8h Kd 7h]
+adriac08: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to adriac08
+adriac08 collected 40 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8h Kd 7h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: AlexDopico (button) folded before Flop (didn't bet)
+Seat 3: adriac08 (small blind) collected (40)
+
+
+
+PokerStars Hand #259577781052: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:12:11 CET [2026/02/03 12:12:11 ET]
+Table '3971752119 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: AlexDopico (490 in chips) 
+Seat 3: adriac08 (530 in chips) 
+mabeal1: posts small blind 10
+AlexDopico: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 5h]
+adriac08: calls 20
+mabeal1: raises 460 to 480 and is all-in
+AlexDopico: folds 
+adriac08: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: AlexDopico (big blind) folded before Flop
+Seat 3: adriac08 (button) folded before Flop
+
+
+
+PokerStars Hand #259577783651: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:12:24 CET [2026/02/03 12:12:24 ET]
+Table '3971752119 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: AlexDopico (470 in chips) 
+Seat 3: adriac08 (510 in chips) 
+AlexDopico: posts small blind 10
+adriac08: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Jc]
+mabeal1: raises 20 to 40
+AlexDopico: folds 
+adriac08: calls 20
+*** FLOP *** [9c 2h 6d]
+adriac08: checks 
+mabeal1: checks 
+*** TURN *** [9c 2h 6d] [6c]
+adriac08: checks 
+mabeal1: bets 68
+adriac08: folds 
+Uncalled bet (68) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9c 2h 6d 6c]
+Seat 1: mabeal1 (button) collected (90)
+Seat 2: AlexDopico (small blind) folded before Flop
+Seat 3: adriac08 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259577788502: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:12:49 CET [2026/02/03 12:12:49 ET]
+Table '3971752119 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: AlexDopico (460 in chips) 
+Seat 3: adriac08 (470 in chips) 
+adriac08: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 8h]
+AlexDopico: folds 
+adriac08: calls 10
+mabeal1: checks 
+*** FLOP *** [Th Js 2c]
+adriac08: checks 
+mabeal1: checks 
+*** TURN *** [Th Js 2c] [Jh]
+adriac08: checks 
+mabeal1: bets 30
+adriac08: calls 30
+*** RIVER *** [Th Js 2c Jh] [Kc]
+adriac08: checks 
+mabeal1: bets 100
+adriac08: folds 
+Uncalled bet (100) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Th Js 2c Jh Kc]
+Seat 1: mabeal1 (big blind) collected (100)
+Seat 2: AlexDopico (button) folded before Flop (didn't bet)
+Seat 3: adriac08 (small blind) folded on the River
+
+
+
+PokerStars Hand #259577793787: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:13:14 CET [2026/02/03 12:13:14 ET]
+Table '3971752119 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: AlexDopico (460 in chips) 
+Seat 3: adriac08 (420 in chips) 
+mabeal1: posts small blind 10
+AlexDopico: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Ah]
+adriac08: calls 20
+mabeal1: raises 600 to 620 and is all-in
+AlexDopico: folds 
+adriac08: folds 
+Uncalled bet (600) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: AlexDopico (big blind) folded before Flop
+Seat 3: adriac08 (button) folded before Flop
+
+
+
+PokerStars Hand #259577796166: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:13:26 CET [2026/02/03 12:13:26 ET]
+Table '3971752119 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 2: AlexDopico (440 in chips) 
+Seat 3: adriac08 (400 in chips) 
+AlexDopico: posts small blind 10
+adriac08: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5d]
+mabeal1: folds 
+AlexDopico: calls 10
+adriac08: checks 
+*** FLOP *** [Qh 9h Js]
+AlexDopico: bets 20
+adriac08: calls 20
+*** TURN *** [Qh 9h Js] [Th]
+AlexDopico: bets 60
+adriac08: calls 60
+*** RIVER *** [Qh 9h Js Th] [5h]
+AlexDopico: checks 
+adriac08: bets 200
+AlexDopico: folds [8s]
+Uncalled bet (200) returned to adriac08
+adriac08 collected 200 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qh 9h Js Th 5h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: AlexDopico (small blind) folded on the River
+Seat 3: adriac08 (big blind) collected (200)
+
+
+
+PokerStars Hand #259577805360: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:14:11 CET [2026/02/03 12:14:11 ET]
+Table '3971752119 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 2: AlexDopico (340 in chips) 
+Seat 3: adriac08 (500 in chips) 
+adriac08: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5c]
+AlexDopico: folds 
+adriac08: calls 10
+mabeal1: checks 
+*** FLOP *** [4c Qd 7h]
+adriac08: checks 
+mabeal1: bets 20
+adriac08: calls 20
+*** TURN *** [4c Qd 7h] [As]
+adriac08: bets 20
+mabeal1: calls 20
+*** RIVER *** [4c Qd 7h As] [Jh]
+adriac08: bets 20
+mabeal1: calls 20
+*** SHOW DOWN ***
+adriac08: shows [Ts Ac] (a pair of Aces)
+mabeal1: mucks hand 
+adriac08 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c Qd 7h As Jh]
+Seat 1: mabeal1 (big blind) mucked [Qs 5c]
+Seat 2: AlexDopico (button) folded before Flop (didn't bet)
+Seat 3: adriac08 (small blind) showed [Ts Ac] and won (160) with a pair of Aces
+
+
+
+PokerStars Hand #259577811286: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:14:39 CET [2026/02/03 12:14:39 ET]
+Table '3971752119 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: AlexDopico (340 in chips) 
+Seat 3: adriac08 (580 in chips) 
+mabeal1: posts small blind 10
+AlexDopico: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6d]
+adriac08: calls 20
+mabeal1: calls 10
+AlexDopico: checks 
+*** FLOP *** [8d 2c 9h]
+mabeal1: checks 
+AlexDopico: checks 
+adriac08: checks 
+*** TURN *** [8d 2c 9h] [3d]
+mabeal1: bets 45
+AlexDopico: calls 45
+adriac08: folds 
+*** RIVER *** [8d 2c 9h 3d] [Js]
+mabeal1: checks 
+AlexDopico: bets 75
+mabeal1: folds 
+Uncalled bet (75) returned to AlexDopico
+AlexDopico collected 150 from pot
+AlexDopico: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [8d 2c 9h 3d Js]
+Seat 1: mabeal1 (small blind) folded on the River
+Seat 2: AlexDopico (big blind) collected (150)
+Seat 3: adriac08 (button) folded on the Turn
+
+
+
+PokerStars Hand #259577820548: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:15:25 CET [2026/02/03 12:15:25 ET]
+Table '3971752119 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (515 in chips) 
+Seat 2: AlexDopico (425 in chips) 
+Seat 3: adriac08 (560 in chips) 
+AlexDopico: posts small blind 15
+adriac08: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 2c]
+mabeal1: folds 
+AlexDopico: folds 
+Uncalled bet (15) returned to adriac08
+adriac08 collected 30 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: AlexDopico (small blind) folded before Flop
+Seat 3: adriac08 (big blind) collected (30)
+
+
+
+PokerStars Hand #259577821623: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:15:30 CET [2026/02/03 12:15:30 ET]
+Table '3971752119 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (515 in chips) 
+Seat 2: AlexDopico (410 in chips) 
+Seat 3: adriac08 (575 in chips) 
+adriac08: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 7c]
+AlexDopico: raises 30 to 60
+adriac08: calls 45
+mabeal1: calls 30
+*** FLOP *** [6d 5s Qd]
+adriac08: checks 
+mabeal1: checks 
+AlexDopico: checks 
+*** TURN *** [6d 5s Qd] [Ks]
+adriac08: bets 30
+mabeal1: folds 
+AlexDopico: calls 30
+*** RIVER *** [6d 5s Qd Ks] [As]
+adriac08: bets 30
+AlexDopico: raises 90 to 120
+adriac08: raises 90 to 210
+AlexDopico: calls 90
+*** SHOW DOWN ***
+adriac08: shows [Js Kd] (a pair of Kings)
+AlexDopico: shows [Td Jc] (a straight, Ten to Ace)
+AlexDopico collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [6d 5s Qd Ks As]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: AlexDopico (button) showed [Td Jc] and won (660) with a straight, Ten to Ace
+Seat 3: adriac08 (small blind) showed [Js Kd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #259577830021: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:16:11 CET [2026/02/03 12:16:11 ET]
+Table '3971752119 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 2: AlexDopico (770 in chips) 
+Seat 3: adriac08 (275 in chips) 
+mabeal1: posts small blind 15
+AlexDopico: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3c]
+adriac08: raises 245 to 275 and is all-in
+mabeal1: folds 
+AlexDopico: folds 
+Uncalled bet (245) returned to adriac08
+adriac08 collected 75 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: AlexDopico (big blind) folded before Flop
+Seat 3: adriac08 (button) collected (75)
+
+
+
+PokerStars Hand #259577832813: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:16:24 CET [2026/02/03 12:16:24 ET]
+Table '3971752119 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: AlexDopico (740 in chips) 
+Seat 3: adriac08 (320 in chips) 
+AlexDopico: posts small blind 15
+adriac08: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 4s]
+mabeal1: folds 
+AlexDopico: calls 15
+adriac08: checks 
+*** FLOP *** [5d 5s 7h]
+AlexDopico: checks 
+adriac08: bets 30
+AlexDopico: calls 30
+*** TURN *** [5d 5s 7h] [Qh]
+AlexDopico: checks 
+adriac08: checks 
+*** RIVER *** [5d 5s 7h Qh] [4d]
+AlexDopico: bets 60
+adriac08: folds 
+Uncalled bet (60) returned to AlexDopico
+AlexDopico collected 120 from pot
+AlexDopico: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d 5s 7h Qh 4d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: AlexDopico (small blind) collected (120)
+Seat 3: adriac08 (big blind) folded on the River
+
+
+
+PokerStars Hand #259577841520: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:17:06 CET [2026/02/03 12:17:06 ET]
+Table '3971752119 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: AlexDopico (800 in chips) 
+Seat 3: adriac08 (260 in chips) 
+adriac08: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 5d]
+AlexDopico: folds 
+adriac08: calls 15
+mabeal1: checks 
+*** FLOP *** [Td Qh 9h]
+adriac08: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to adriac08
+adriac08 collected 60 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Td Qh 9h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: AlexDopico (button) folded before Flop (didn't bet)
+Seat 3: adriac08 (small blind) collected (60)
+
+
+
+PokerStars Hand #259577845056: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:17:23 CET [2026/02/03 12:17:23 ET]
+Table '3971752119 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: AlexDopico (800 in chips) 
+Seat 3: adriac08 (290 in chips) 
+mabeal1: posts small blind 15
+AlexDopico: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8d]
+adriac08 has timed out
+adriac08: folds 
+adriac08 is sitting out
+adriac08 has returned
+mabeal1: raises 30 to 60
+AlexDopico: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: AlexDopico (big blind) folded before Flop
+Seat 3: adriac08 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259577851054: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:17:52 CET [2026/02/03 12:17:52 ET]
+Table '3971752119 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: AlexDopico (770 in chips) 
+Seat 3: adriac08 (290 in chips) 
+AlexDopico: posts small blind 20
+adriac08: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 7s]
+mabeal1: folds 
+AlexDopico: raises 40 to 80
+adriac08: calls 40
+*** FLOP *** [Jd Tc 9d]
+AlexDopico: checks 
+adriac08: bets 40
+AlexDopico: calls 40
+*** TURN *** [Jd Tc 9d] [Jh]
+AlexDopico: checks 
+adriac08: bets 40
+AlexDopico: calls 40
+*** RIVER *** [Jd Tc 9d Jh] [Ah]
+AlexDopico: checks 
+adriac08: bets 130 and is all-in
+AlexDopico: calls 130
+*** SHOW DOWN ***
+adriac08: shows [Kd Qc] (a straight, Ten to Ace)
+AlexDopico: shows [Qd Kh] (a straight, Ten to Ace)
+AlexDopico collected 290 from pot
+adriac08 collected 290 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Jd Tc 9d Jh Ah]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: AlexDopico (small blind) showed [Qd Kh] and won (290) with a straight, Ten to Ace
+Seat 3: adriac08 (big blind) showed [Kd Qc] and won (290) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #259577859812: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:18:34 CET [2026/02/03 12:18:34 ET]
+Table '3971752119 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: AlexDopico (770 in chips) 
+Seat 3: adriac08 (290 in chips) 
+adriac08: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 4h]
+AlexDopico: raises 40 to 80
+adriac08: calls 60
+mabeal1: folds 
+*** FLOP *** [8s 6s 9c]
+adriac08: bets 40
+AlexDopico: calls 40
+*** TURN *** [8s 6s 9c] [8h]
+adriac08: bets 40
+AlexDopico: calls 40
+*** RIVER *** [8s 6s 9c 8h] [Tc]
+adriac08: bets 40
+AlexDopico: calls 40
+*** SHOW DOWN ***
+adriac08: shows [Qs 8c] (three of a kind, Eights)
+AlexDopico: mucks hand 
+adriac08 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [8s 6s 9c 8h Tc]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: AlexDopico (button) mucked [Jc Ts]
+Seat 3: adriac08 (small blind) showed [Qs 8c] and won (440) with three of a kind, Eights
+
+
+
+PokerStars Hand #259577865452: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:19:01 CET [2026/02/03 12:19:01 ET]
+Table '3971752119 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: AlexDopico (570 in chips) 
+Seat 3: adriac08 (530 in chips) 
+mabeal1: posts small blind 20
+AlexDopico: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h As]
+adriac08: calls 40
+mabeal1: raises 360 to 400 and is all-in
+AlexDopico: folds 
+adriac08: folds 
+Uncalled bet (360) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (120)
+Seat 2: AlexDopico (big blind) folded before Flop
+Seat 3: adriac08 (button) folded before Flop
+
+
+
+PokerStars Hand #259577867795: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:19:12 CET [2026/02/03 12:19:12 ET]
+Table '3971752119 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: AlexDopico (530 in chips) 
+Seat 3: adriac08 (490 in chips) 
+AlexDopico: posts small blind 20
+adriac08: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s As]
+mabeal1: raises 40 to 80
+AlexDopico: folds 
+adriac08: calls 40
+*** FLOP *** [8s Kh 2d]
+adriac08: bets 40
+mabeal1: calls 40
+*** TURN *** [8s Kh 2d] [Jc]
+adriac08: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to adriac08
+adriac08 collected 260 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [8s Kh 2d Jc]
+Seat 1: mabeal1 (button) folded on the Turn
+Seat 2: AlexDopico (small blind) folded before Flop
+Seat 3: adriac08 (big blind) collected (260)
+
+
+
+PokerStars Hand #259577871311: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:19:29 CET [2026/02/03 12:19:29 ET]
+Table '3971752119 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (360 in chips) 
+Seat 2: AlexDopico (510 in chips) 
+Seat 3: adriac08 (630 in chips) 
+adriac08: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Jc]
+AlexDopico: raises 40 to 80
+adriac08: calls 60
+mabeal1: calls 40
+*** FLOP *** [Ts 6s 6c]
+adriac08: checks 
+mabeal1: bets 280 and is all-in
+AlexDopico: folds 
+adriac08: folds 
+Uncalled bet (280) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ts 6s 6c]
+Seat 1: mabeal1 (big blind) collected (240)
+Seat 2: AlexDopico (button) folded on the Flop
+Seat 3: adriac08 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259577878737: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:20:04 CET [2026/02/03 12:20:04 ET]
+Table '3971752119 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: AlexDopico (430 in chips) 
+Seat 3: adriac08 (550 in chips) 
+mabeal1: posts small blind 20
+AlexDopico: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 3d]
+adriac08: calls 40
+mabeal1: folds 
+AlexDopico: checks 
+*** FLOP *** [Kd 8c As]
+AlexDopico: checks 
+adriac08: bets 40
+AlexDopico: folds 
+Uncalled bet (40) returned to adriac08
+adriac08 collected 100 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Kd 8c As]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: AlexDopico (big blind) folded on the Flop
+Seat 3: adriac08 (button) collected (100)
+
+
+
+PokerStars Hand #259577882863: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:20:23 CET [2026/02/03 12:20:23 ET]
+Table '3971752119 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: AlexDopico (390 in chips) 
+Seat 3: adriac08 (610 in chips) 
+AlexDopico: posts small blind 20
+adriac08: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Ts]
+mabeal1: raises 40 to 80
+AlexDopico: folds 
+adriac08: calls 40
+*** FLOP *** [8h 3c As]
+adriac08: bets 40
+mabeal1: calls 40
+*** TURN *** [8h 3c As] [Qs]
+adriac08: bets 40
+mabeal1: raises 80 to 120
+adriac08: calls 80
+*** RIVER *** [8h 3c As Qs] [6d]
+adriac08: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to adriac08
+adriac08 collected 500 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [8h 3c As Qs 6d]
+Seat 1: mabeal1 (button) folded on the River
+Seat 2: AlexDopico (small blind) folded before Flop
+Seat 3: adriac08 (big blind) collected (500)
+
+
+
+PokerStars Hand #259577888994: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 18:20:53 CET [2026/02/03 12:20:53 ET]
+Table '3971752119 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (260 in chips) 
+Seat 2: AlexDopico (370 in chips) 
+Seat 3: adriac08 (870 in chips) 
+adriac08: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 9s]
+AlexDopico: raises 310 to 370 and is all-in
+adriac08: folds 
+mabeal1: folds 
+Uncalled bet (310) returned to AlexDopico
+AlexDopico collected 150 from pot
+AlexDopico: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: AlexDopico (button) collected (150)
+Seat 3: adriac08 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577891325: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 18:21:04 CET [2026/02/03 12:21:04 ET]
+Table '3971752119 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (200 in chips) 
+Seat 2: AlexDopico (460 in chips) 
+Seat 3: adriac08 (840 in chips) 
+mabeal1: posts small blind 30
+AlexDopico: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Jc]
+adriac08: calls 60
+mabeal1: raises 140 to 200 and is all-in
+AlexDopico: folds 
+adriac08: folds 
+Uncalled bet (140) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (180)
+Seat 2: AlexDopico (big blind) folded before Flop
+Seat 3: adriac08 (button) folded before Flop
+
+
+
+PokerStars Hand #259577894349: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 18:21:18 CET [2026/02/03 12:21:18 ET]
+Table '3971752119 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (320 in chips) 
+Seat 2: AlexDopico (400 in chips) 
+Seat 3: adriac08 (780 in chips) 
+AlexDopico: posts small blind 30
+adriac08: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 7h]
+mabeal1: folds 
+AlexDopico: folds 
+Uncalled bet (30) returned to adriac08
+adriac08 collected 60 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: AlexDopico (small blind) folded before Flop
+Seat 3: adriac08 (big blind) collected (60)
+
+
+
+PokerStars Hand #259577896228: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 18:21:27 CET [2026/02/03 12:21:27 ET]
+Table '3971752119 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (320 in chips) 
+Seat 2: AlexDopico (370 in chips) 
+Seat 3: adriac08 (810 in chips) 
+adriac08: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 5s]
+AlexDopico: folds 
+adriac08: calls 30
+mabeal1: checks 
+*** FLOP *** [4h Js 7c]
+adriac08: checks 
+mabeal1: checks 
+*** TURN *** [4h Js 7c] [Kc]
+adriac08: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to adriac08
+adriac08 collected 120 from pot
+adriac08: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h Js 7c Kc]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: AlexDopico (button) folded before Flop (didn't bet)
+Seat 3: adriac08 (small blind) collected (120)
+
+
+
+PokerStars Hand #259577901520: Tournament #3971752119, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 18:21:52 CET [2026/02/03 12:21:52 ET]
+Table '3971752119 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (260 in chips) 
+Seat 2: AlexDopico (370 in chips) 
+Seat 3: adriac08 (870 in chips) 
+mabeal1: posts small blind 30
+AlexDopico: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9d]
+adriac08: calls 60
+mabeal1: raises 200 to 260 and is all-in
+AlexDopico: folds 
+adriac08: calls 200
+*** FLOP *** [Kd Kc 4c]
+*** TURN *** [Kd Kc 4c] [5d]
+*** RIVER *** [Kd Kc 4c 5d] [4s]
+*** SHOW DOWN ***
+mabeal1: shows [Ts 9d] (two pair, Kings and Fours)
+adriac08: shows [Jc Qs] (two pair, Kings and Fours - Queen kicker)
+adriac08 collected 580 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Kd Kc 4c 5d 4s]
+Seat 1: mabeal1 (small blind) showed [Ts 9d] and lost with two pair, Kings and Fours
+Seat 2: AlexDopico (big blind) folded before Flop
+Seat 3: adriac08 (button) showed [Jc Qs] and won (580) with two pair, Kings and Fours
+
+
+

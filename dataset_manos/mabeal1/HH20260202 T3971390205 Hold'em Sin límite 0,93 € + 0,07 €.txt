@@ -1,0 +1,416 @@
+﻿PokerStars Hand #259561536285: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:08:34 CET [2026/02/02 8:08:34 ET]
+Table '3971390205 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: cedric01320 (500 in chips) 
+Seat 3: miguelsd1994 (500 in chips) 
+cedric01320: posts small blind 10
+miguelsd1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Js]
+mabeal1: raises 20 to 40
+cedric01320: folds 
+miguelsd1994: calls 20
+*** FLOP *** [3d Th 9d]
+miguelsd1994: checks 
+mabeal1: checks 
+*** TURN *** [3d Th 9d] [5s]
+miguelsd1994: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to miguelsd1994
+miguelsd1994 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3d Th 9d 5s]
+Seat 1: mabeal1 (button) folded on the Turn
+Seat 2: cedric01320 (small blind) folded before Flop
+Seat 3: miguelsd1994 (big blind) collected (90)
+
+
+
+PokerStars Hand #259561538646: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:08:53 CET [2026/02/02 8:08:53 ET]
+Table '3971390205 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: cedric01320 (490 in chips) 
+Seat 3: miguelsd1994 (550 in chips) 
+miguelsd1994: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Jc]
+cedric01320: folds 
+miguelsd1994: calls 10
+mabeal1: raises 40 to 60
+miguelsd1994: calls 40
+*** FLOP *** [Kd 4d 2h]
+miguelsd1994: checks 
+mabeal1: bets 60
+miguelsd1994: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd 4d 2h]
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: cedric01320 (button) folded before Flop (didn't bet)
+Seat 3: miguelsd1994 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259561542908: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:09:26 CET [2026/02/02 8:09:26 ET]
+Table '3971390205 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: cedric01320 (490 in chips) 
+Seat 3: miguelsd1994 (490 in chips) 
+mabeal1: posts small blind 10
+cedric01320: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9d]
+miguelsd1994: folds 
+mabeal1: raises 30 to 50
+cedric01320: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: cedric01320 (big blind) folded before Flop
+Seat 3: miguelsd1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561544286: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:09:37 CET [2026/02/02 8:09:37 ET]
+Table '3971390205 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: cedric01320 (470 in chips) 
+Seat 3: miguelsd1994 (490 in chips) 
+cedric01320: posts small blind 10
+miguelsd1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Js]
+mabeal1: folds 
+cedric01320: folds 
+Uncalled bet (10) returned to miguelsd1994
+miguelsd1994 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: cedric01320 (small blind) folded before Flop
+Seat 3: miguelsd1994 (big blind) collected (20)
+
+
+
+PokerStars Hand #259561545479: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:09:46 CET [2026/02/02 8:09:46 ET]
+Table '3971390205 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: cedric01320 (460 in chips) 
+Seat 3: miguelsd1994 (500 in chips) 
+miguelsd1994: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qd]
+cedric01320: calls 20
+miguelsd1994: calls 10
+mabeal1: checks 
+*** FLOP *** [4s Ad 3c]
+miguelsd1994: checks 
+mabeal1: checks 
+cedric01320: bets 80
+miguelsd1994: folds 
+mabeal1: folds 
+Uncalled bet (80) returned to cedric01320
+cedric01320 collected 60 from pot
+cedric01320: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s Ad 3c]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: cedric01320 (button) collected (60)
+Seat 3: miguelsd1994 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259561549384: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:10:16 CET [2026/02/02 8:10:16 ET]
+Table '3971390205 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: cedric01320 (500 in chips) 
+Seat 3: miguelsd1994 (480 in chips) 
+mabeal1: posts small blind 10
+cedric01320: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Jc]
+miguelsd1994: folds 
+mabeal1: raises 30 to 50
+cedric01320: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: cedric01320 (big blind) folded before Flop
+Seat 3: miguelsd1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561551082: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:10:30 CET [2026/02/02 8:10:30 ET]
+Table '3971390205 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: cedric01320 (480 in chips) 
+Seat 3: miguelsd1994 (480 in chips) 
+cedric01320: posts small blind 10
+miguelsd1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2d]
+mabeal1: folds 
+cedric01320: folds 
+Uncalled bet (10) returned to miguelsd1994
+miguelsd1994 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: cedric01320 (small blind) folded before Flop
+Seat 3: miguelsd1994 (big blind) collected (20)
+
+
+
+PokerStars Hand #259561552970: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:10:44 CET [2026/02/02 8:10:44 ET]
+Table '3971390205 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: cedric01320 (470 in chips) 
+Seat 3: miguelsd1994 (490 in chips) 
+miguelsd1994: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ks]
+cedric01320: raises 75 to 105
+miguelsd1994: folds 
+mabeal1: calls 75
+*** FLOP *** [3c Ah 5s]
+mabeal1: checks 
+cedric01320: bets 225
+mabeal1: folds 
+Uncalled bet (225) returned to cedric01320
+cedric01320 collected 225 from pot
+cedric01320: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [3c Ah 5s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: cedric01320 (button) collected (225)
+Seat 3: miguelsd1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561555531: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:11:03 CET [2026/02/02 8:11:03 ET]
+Table '3971390205 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (435 in chips) 
+Seat 2: cedric01320 (590 in chips) 
+Seat 3: miguelsd1994 (475 in chips) 
+mabeal1: posts small blind 15
+cedric01320: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Qs]
+miguelsd1994: folds 
+mabeal1: raises 45 to 75
+cedric01320: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: cedric01320 (big blind) folded before Flop
+Seat 3: miguelsd1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561557280: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:11:17 CET [2026/02/02 8:11:17 ET]
+Table '3971390205 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (465 in chips) 
+Seat 2: cedric01320 (560 in chips) 
+Seat 3: miguelsd1994 (475 in chips) 
+cedric01320: posts small blind 15
+miguelsd1994: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Tc]
+mabeal1: folds 
+cedric01320: folds 
+Uncalled bet (15) returned to miguelsd1994
+miguelsd1994 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: cedric01320 (small blind) folded before Flop
+Seat 3: miguelsd1994 (big blind) collected (30)
+
+
+
+PokerStars Hand #259561558811: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:11:29 CET [2026/02/02 8:11:29 ET]
+Table '3971390205 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (465 in chips) 
+Seat 2: cedric01320 (545 in chips) 
+Seat 3: miguelsd1994 (490 in chips) 
+miguelsd1994: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 3d]
+cedric01320: folds 
+miguelsd1994: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: cedric01320 (button) folded before Flop (didn't bet)
+Seat 3: miguelsd1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561560154: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:11:39 CET [2026/02/02 8:11:39 ET]
+Table '3971390205 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: cedric01320 (545 in chips) 
+Seat 3: miguelsd1994 (475 in chips) 
+mabeal1: posts small blind 15
+cedric01320: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 3s]
+miguelsd1994: folds 
+mabeal1: raises 45 to 75
+cedric01320: calls 45
+*** FLOP *** [Jc 7s 3d]
+mabeal1: checks 
+cedric01320: checks 
+*** TURN *** [Jc 7s 3d] [9c]
+mabeal1: checks 
+cedric01320: checks 
+*** RIVER *** [Jc 7s 3d 9c] [7d]
+mabeal1: checks 
+cedric01320: checks 
+*** SHOW DOWN ***
+mabeal1: shows [4s 3s] (two pair, Sevens and Threes)
+cedric01320: mucks hand 
+mabeal1 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Jc 7s 3d 9c 7d]
+Seat 1: mabeal1 (small blind) showed [4s 3s] and won (150) with two pair, Sevens and Threes
+Seat 2: cedric01320 (big blind) mucked [Kh Th]
+Seat 3: miguelsd1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561564134: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:12:09 CET [2026/02/02 8:12:09 ET]
+Table '3971390205 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 2: cedric01320 (470 in chips) 
+Seat 3: miguelsd1994 (475 in chips) 
+cedric01320: posts small blind 15
+miguelsd1994: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Kd]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+mabeal1 has returned
+cedric01320: folds 
+Uncalled bet (15) returned to miguelsd1994
+miguelsd1994 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: cedric01320 (small blind) folded before Flop
+Seat 3: miguelsd1994 (big blind) collected (30)
+
+
+
+PokerStars Hand #259561566565: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:12:28 CET [2026/02/02 8:12:28 ET]
+Table '3971390205 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 2: cedric01320 (455 in chips) 
+Seat 3: miguelsd1994 (490 in chips) 
+miguelsd1994: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Qd]
+cedric01320: calls 30
+miguelsd1994: raises 63 to 93
+mabeal1: folds 
+cedric01320: calls 63
+*** FLOP *** [8d 9d Qh]
+miguelsd1994: bets 108
+cedric01320: folds 
+Uncalled bet (108) returned to miguelsd1994
+miguelsd1994 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [8d 9d Qh]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: cedric01320 (button) folded on the Flop
+Seat 3: miguelsd1994 (small blind) collected (216)
+
+
+
+PokerStars Hand #259561571321: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:13:03 CET [2026/02/02 8:13:03 ET]
+Table '3971390205 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (525 in chips) 
+Seat 2: cedric01320 (362 in chips) 
+Seat 3: miguelsd1994 (613 in chips) 
+mabeal1: posts small blind 20
+cedric01320: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8s]
+miguelsd1994: folds 
+mabeal1: raises 60 to 100
+cedric01320: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (80)
+Seat 2: cedric01320 (big blind) folded before Flop
+Seat 3: miguelsd1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561572745: Tournament #3971390205, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:13:15 CET [2026/02/02 8:13:15 ET]
+Table '3971390205 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (565 in chips) 
+Seat 2: cedric01320 (322 in chips) 
+Seat 3: miguelsd1994 (613 in chips) 
+cedric01320: posts small blind 20
+miguelsd1994: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 9d]
+mabeal1: raises 40 to 80
+cedric01320: folds 
+miguelsd1994: calls 40
+*** FLOP *** [5d 8d 6d]
+miguelsd1994: checks 
+mabeal1: checks 
+*** TURN *** [5d 8d 6d] [Kc]
+miguelsd1994: checks 
+mabeal1: bets 135
+miguelsd1994: raises 175 to 310
+mabeal1: calls 175
+*** RIVER *** [5d 8d 6d Kc] [9s]
+miguelsd1994: bets 223 and is all-in
+mabeal1: calls 175 and is all-in
+Uncalled bet (48) returned to miguelsd1994
+*** SHOW DOWN ***
+miguelsd1994: shows [Jd 4d] (a flush, Jack high)
+mabeal1: shows [Ks 9d] (two pair, Kings and Nines)
+miguelsd1994 collected 1150 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Board [5d 8d 6d Kc 9s]
+Seat 1: mabeal1 (button) showed [Ks 9d] and lost with two pair, Kings and Nines
+Seat 2: cedric01320 (small blind) folded before Flop
+Seat 3: miguelsd1994 (big blind) showed [Jd 4d] and won (1150) with a flush, Jack high
+
+
+

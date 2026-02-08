@@ -1,0 +1,273 @@
+﻿PokerStars Hand #259538582612: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:47:28 CET [2026/01/31 14:47:28 ET]
+Table '3970888395 1' 3-max Seat #1 is the button
+Seat 1: vigoro_79 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: grandiosoA3 (500 in chips) 
+mabeal1: posts small blind 10
+grandiosoA3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 5c]
+vigoro_79: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to grandiosoA3
+grandiosoA3 collected 20 from pot
+grandiosoA3: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: vigoro_79 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: grandiosoA3 (big blind) collected (20)
+
+
+
+PokerStars Hand #259538584093: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:47:34 CET [2026/01/31 14:47:34 ET]
+Table '3970888395 1' 3-max Seat #2 is the button
+Seat 1: vigoro_79 (500 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: grandiosoA3 (510 in chips) 
+grandiosoA3: posts small blind 10
+vigoro_79: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5c]
+mabeal1: raises 20 to 40
+grandiosoA3: calls 30
+vigoro_79: folds 
+*** FLOP *** [4h Ah 4s]
+grandiosoA3: checks 
+mabeal1: bets 40
+grandiosoA3: raises 430 to 470 and is all-in
+mabeal1: calls 410 and is all-in
+Uncalled bet (20) returned to grandiosoA3
+*** TURN *** [4h Ah 4s] [3c]
+*** RIVER *** [4h Ah 4s 3c] [2c]
+*** SHOW DOWN ***
+grandiosoA3: shows [7c 9h] (a pair of Fours)
+mabeal1: shows [5h 5c] (a straight, Ace to Five)
+mabeal1 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [4h Ah 4s 3c 2c]
+Seat 1: vigoro_79 (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [5h 5c] and won (1000) with a straight, Ace to Five
+Seat 3: grandiosoA3 (small blind) showed [7c 9h] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259538588782: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:47:54 CET [2026/01/31 14:47:54 ET]
+Table '3970888395 1' 3-max Seat #3 is the button
+Seat 1: vigoro_79 (480 in chips) 
+Seat 2: mabeal1 (1000 in chips) 
+Seat 3: grandiosoA3 (20 in chips) 
+vigoro_79: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ad]
+grandiosoA3: calls 20 and is all-in
+vigoro_79: calls 10
+mabeal1: raises 980 to 1000 and is all-in
+vigoro_79: calls 460 and is all-in
+Uncalled bet (520) returned to mabeal1
+*** FLOP *** [Jc 4s Tc]
+*** TURN *** [Jc 4s Tc] [9d]
+*** RIVER *** [Jc 4s Tc 9d] [5c]
+*** SHOW DOWN ***
+vigoro_79: shows [Kd 4d] (a pair of Fours)
+mabeal1: shows [2d Ad] (high card Ace)
+vigoro_79 collected 920 from side pot
+grandiosoA3: shows [6d Ac] (high card Ace)
+vigoro_79 collected 60 from main pot
+grandiosoA3 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 Main pot 60. Side pot 920. | Rake 0 
+Board [Jc 4s Tc 9d 5c]
+Seat 1: vigoro_79 (small blind) showed [Kd 4d] and won (980) with a pair of Fours
+Seat 2: mabeal1 (big blind) showed [2d Ad] and lost with high card Ace
+Seat 3: grandiosoA3 (button) showed [6d Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #259538595572: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:48:22 CET [2026/01/31 14:48:22 ET]
+Table '3970888395 1' 3-max Seat #2 is the button
+Seat 1: vigoro_79 (980 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+mabeal1: posts small blind 10
+vigoro_79: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 9h]
+mabeal1: raises 20 to 40
+vigoro_79: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vigoro_79 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259538597102: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:48:29 CET [2026/01/31 14:48:29 ET]
+Table '3970888395 1' 3-max Seat #1 is the button
+Seat 1: vigoro_79 (960 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+vigoro_79: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Ks]
+vigoro_79: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: vigoro_79 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259538598467: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:48:35 CET [2026/01/31 14:48:35 ET]
+Table '3970888395 1' 3-max Seat #2 is the button
+Seat 1: vigoro_79 (950 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+mabeal1: posts small blind 10
+vigoro_79: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Jh]
+mabeal1: raises 40 to 60
+vigoro_79: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vigoro_79 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259538600004: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:48:41 CET [2026/01/31 14:48:41 ET]
+Table '3970888395 1' 3-max Seat #1 is the button
+Seat 1: vigoro_79 (930 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+vigoro_79: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 8s]
+vigoro_79: calls 10
+mabeal1: checks 
+*** FLOP *** [Jd 3c 2d]
+mabeal1: checks 
+vigoro_79: checks 
+*** TURN *** [Jd 3c 2d] [7c]
+mabeal1: bets 20
+vigoro_79: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jd 3c 2d 7c]
+Seat 1: vigoro_79 (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259538604955: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:49:02 CET [2026/01/31 14:49:02 ET]
+Table '3970888395 1' 3-max Seat #2 is the button
+Seat 1: vigoro_79 (910 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+mabeal1: posts small blind 10
+vigoro_79: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Ks]
+mabeal1: calls 10
+vigoro_79: checks 
+*** FLOP *** [Kd 3s 3h]
+vigoro_79: checks 
+mabeal1: checks 
+*** TURN *** [Kd 3s 3h] [4d]
+vigoro_79: checks 
+mabeal1: bets 20
+vigoro_79: calls 20
+*** RIVER *** [Kd 3s 3h 4d] [2s]
+vigoro_79: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+vigoro_79: shows [Ts Kh] (two pair, Kings and Threes)
+mabeal1: mucks hand 
+vigoro_79 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Kd 3s 3h 4d 2s]
+Seat 1: vigoro_79 (big blind) showed [Ts Kh] and won (200) with two pair, Kings and Threes
+Seat 2: mabeal1 (button) (small blind) mucked [5c Ks]
+
+
+
+PokerStars Hand #259538609514: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:49:21 CET [2026/01/31 14:49:21 ET]
+Table '3970888395 1' 3-max Seat #1 is the button
+Seat 1: vigoro_79 (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+vigoro_79: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ks]
+vigoro_79: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: vigoro_79 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259538611081: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:49:28 CET [2026/01/31 14:49:28 ET]
+Table '3970888395 1' 3-max Seat #2 is the button
+Seat 1: vigoro_79 (1000 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+mabeal1: posts small blind 10
+vigoro_79: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 5c]
+mabeal1: raises 20 to 40
+vigoro_79: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: vigoro_79 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259538613339: Tournament #3970888395, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:49:37 CET [2026/01/31 14:49:37 ET]
+Table '3970888395 1' 3-max Seat #1 is the button
+Seat 1: vigoro_79 (980 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+vigoro_79: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2d]
+vigoro_79: calls 10
+mabeal1: raises 500 to 520 and is all-in
+vigoro_79: calls 500
+*** FLOP *** [3c 8s Qs]
+*** TURN *** [3c 8s Qs] [8d]
+*** RIVER *** [3c 8s Qs 8d] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [Ac 2d] (a pair of Eights)
+vigoro_79: shows [As 6s] (two pair, Eights and Sixes)
+vigoro_79 collected 1040 from pot
+mabeal1 finished the tournament in 2nd place
+vigoro_79 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [3c 8s Qs 8d 6h]
+Seat 1: vigoro_79 (button) (small blind) showed [As 6s] and won (1040) with two pair, Eights and Sixes
+Seat 2: mabeal1 (big blind) showed [Ac 2d] and lost with a pair of Eights
+
+
+

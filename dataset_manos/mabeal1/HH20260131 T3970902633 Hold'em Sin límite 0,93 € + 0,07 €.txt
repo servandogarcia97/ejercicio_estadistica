@@ -1,0 +1,152 @@
+﻿PokerStars Hand #259539280619: Tournament #3970902633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:37:37 CET [2026/01/31 15:37:37 ET]
+Table '3970902633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: memiranraro (500 in chips) 
+Seat 3: Trovão74 (500 in chips) 
+memiranraro: posts small blind 10
+Trovão74: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 3h]
+mabeal1: folds 
+memiranraro: folds 
+Uncalled bet (10) returned to Trovão74
+Trovão74 collected 20 from pot
+Trovão74: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: memiranraro (small blind) folded before Flop
+Seat 3: Trovão74 (big blind) collected (20)
+
+
+
+PokerStars Hand #259539281951: Tournament #3970902633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:37:42 CET [2026/01/31 15:37:42 ET]
+Table '3970902633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: memiranraro (490 in chips) 
+Seat 3: Trovão74 (510 in chips) 
+Trovão74: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4c]
+memiranraro: folds 
+Trovão74: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: memiranraro (button) folded before Flop (didn't bet)
+Seat 3: Trovão74 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539284851: Tournament #3970902633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:37:54 CET [2026/01/31 15:37:54 ET]
+Table '3970902633 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: memiranraro (490 in chips) 
+Seat 3: Trovão74 (500 in chips) 
+mabeal1: posts small blind 10
+memiranraro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 4c]
+Trovão74: folds 
+mabeal1: raises 40 to 60
+memiranraro: calls 40
+*** FLOP *** [5h 2d 4d]
+mabeal1: bets 80
+memiranraro: calls 80
+*** TURN *** [5h 2d 4d] [6s]
+mabeal1: checks 
+memiranraro: checks 
+*** RIVER *** [5h 2d 4d 6s] [2c]
+mabeal1: bets 140
+memiranraro: calls 140
+*** SHOW DOWN ***
+mabeal1: shows [Jc 4c] (two pair, Fours and Deuces)
+memiranraro: shows [6d Ac] (two pair, Sixes and Deuces)
+memiranraro collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [5h 2d 4d 6s 2c]
+Seat 1: mabeal1 (small blind) showed [Jc 4c] and lost with two pair, Fours and Deuces
+Seat 2: memiranraro (big blind) showed [6d Ac] and won (560) with two pair, Sixes and Deuces
+Seat 3: Trovão74 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259539293573: Tournament #3970902633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:38:30 CET [2026/01/31 15:38:30 ET]
+Table '3970902633 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (230 in chips) 
+Seat 2: memiranraro (770 in chips) 
+Seat 3: Trovão74 (500 in chips) 
+memiranraro: posts small blind 10
+Trovão74: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 2s]
+mabeal1: folds 
+memiranraro: folds 
+Uncalled bet (10) returned to Trovão74
+Trovão74 collected 20 from pot
+Trovão74: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: memiranraro (small blind) folded before Flop
+Seat 3: Trovão74 (big blind) collected (20)
+
+
+
+PokerStars Hand #259539296332: Tournament #3970902633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:38:41 CET [2026/01/31 15:38:41 ET]
+Table '3970902633 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (230 in chips) 
+Seat 2: memiranraro (760 in chips) 
+Seat 3: Trovão74 (510 in chips) 
+Trovão74: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6s]
+memiranraro: folds 
+Trovão74: raises 490 to 510 and is all-in
+mabeal1: folds 
+Uncalled bet (490) returned to Trovão74
+Trovão74 collected 40 from pot
+Trovão74: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: memiranraro (button) folded before Flop (didn't bet)
+Seat 3: Trovão74 (small blind) collected (40)
+
+
+
+PokerStars Hand #259539299943: Tournament #3970902633, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:38:56 CET [2026/01/31 15:38:56 ET]
+Table '3970902633 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (210 in chips) 
+Seat 2: memiranraro (760 in chips) 
+Seat 3: Trovão74 (530 in chips) 
+mabeal1: posts small blind 10
+memiranraro: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6s]
+Trovão74: folds 
+mabeal1: raises 190 to 210 and is all-in
+memiranraro: calls 190
+*** FLOP *** [Qc 6c 9c]
+*** TURN *** [Qc 6c 9c] [Tc]
+*** RIVER *** [Qc 6c 9c Tc] [3c]
+*** SHOW DOWN ***
+mabeal1: shows [6h 6s] (a flush, Queen high)
+memiranraro: shows [9d Kc] (a flush, King high)
+memiranraro collected 420 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Qc 6c 9c Tc 3c]
+Seat 1: mabeal1 (small blind) showed [6h 6s] and lost with a flush, Queen high
+Seat 2: memiranraro (big blind) showed [9d Kc] and won (420) with a flush, King high
+Seat 3: Trovão74 (button) folded before Flop (didn't bet)
+
+
+

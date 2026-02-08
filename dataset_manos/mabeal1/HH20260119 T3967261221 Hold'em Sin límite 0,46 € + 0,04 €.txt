@@ -1,0 +1,141 @@
+﻿PokerStars Hand #259382619397: Tournament #3967261221, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 23:12:48 CET [2026/01/19 17:12:48 ET]
+Table '3967261221 1' 3-max Seat #1 is the button
+Seat 1: Lolita240 (500 in chips) 
+Seat 2: turrerojo (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+turrerojo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 5c]
+Lolita240: calls 20
+turrerojo: calls 10
+mabeal1: checks 
+*** FLOP *** [7c Jc 8c]
+turrerojo: checks 
+mabeal1: checks 
+Lolita240: checks 
+*** TURN *** [7c Jc 8c] [Qh]
+turrerojo: checks 
+mabeal1: checks 
+Lolita240: bets 30
+turrerojo: calls 30
+mabeal1: folds 
+*** RIVER *** [7c Jc 8c Qh] [Kc]
+turrerojo: checks 
+Lolita240: bets 450 and is all-in
+turrerojo: folds 
+Uncalled bet (450) returned to Lolita240
+Lolita240 collected 120 from pot
+Lolita240: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c Jc 8c Qh Kc]
+Seat 1: Lolita240 (button) collected (120)
+Seat 2: turrerojo (small blind) folded on the River
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259382634781: Tournament #3967261221, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 23:13:44 CET [2026/01/19 17:13:44 ET]
+Table '3967261221 1' 3-max Seat #2 is the button
+Seat 1: Lolita240 (570 in chips) 
+Seat 2: turrerojo (450 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+Lolita240: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 8s]
+turrerojo: folds 
+mabeal1: raises 460 to 480 and is all-in
+Lolita240: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Lolita240 (big blind) folded before Flop
+Seat 2: turrerojo (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259382640160: Tournament #3967261221, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 23:14:03 CET [2026/01/19 17:14:03 ET]
+Table '3967261221 1' 3-max Seat #3 is the button
+Seat 1: Lolita240 (550 in chips) 
+Seat 2: turrerojo (450 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Lolita240: posts small blind 10
+turrerojo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 9c]
+mabeal1: raises 480 to 500 and is all-in
+Lolita240: folds 
+turrerojo: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Lolita240 (small blind) folded before Flop
+Seat 2: turrerojo (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259382643785: Tournament #3967261221, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 23:14:17 CET [2026/01/19 17:14:17 ET]
+Table '3967261221 1' 3-max Seat #1 is the button
+Seat 1: Lolita240 (540 in chips) 
+Seat 2: turrerojo (430 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+turrerojo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Ac]
+Lolita240: folds 
+turrerojo: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Lolita240 (button) folded before Flop (didn't bet)
+Seat 2: turrerojo (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259382645844: Tournament #3967261221, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 23:14:24 CET [2026/01/19 17:14:24 ET]
+Table '3967261221 1' 3-max Seat #2 is the button
+Seat 1: Lolita240 (540 in chips) 
+Seat 2: turrerojo (420 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+mabeal1: posts small blind 10
+Lolita240: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Ks]
+turrerojo: folds 
+mabeal1: raises 20 to 40
+Lolita240: calls 20
+*** FLOP *** [Qh 7d 2s]
+mabeal1: bets 30
+Lolita240: calls 30
+*** TURN *** [Qh 7d 2s] [Ac]
+mabeal1: bets 100
+Lolita240: calls 100
+*** RIVER *** [Qh 7d 2s Ac] [Kd]
+mabeal1: bets 370 and is all-in
+Lolita240: calls 370 and is all-in
+*** SHOW DOWN ***
+mabeal1: shows [Tc Ks] (a pair of Kings)
+Lolita240: shows [Kh 2d] (two pair, Kings and Deuces)
+Lolita240 collected 1080 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [Qh 7d 2s Ac Kd]
+Seat 1: Lolita240 (big blind) showed [Kh 2d] and won (1080) with two pair, Kings and Deuces
+Seat 2: turrerojo (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [Tc Ks] and lost with a pair of Kings
+
+
+

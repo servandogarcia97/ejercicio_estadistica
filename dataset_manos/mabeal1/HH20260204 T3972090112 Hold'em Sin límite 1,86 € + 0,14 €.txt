@@ -1,0 +1,162 @@
+﻿PokerStars Hand #259592541825: Tournament #3972090112, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:15:08 CET [2026/02/04 15:15:08 ET]
+Table '3972090112 1' 3-max Seat #1 is the button
+Seat 1: Ytige75017 (500 in chips) 
+Seat 2: Theresponsible (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Theresponsible: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s As]
+Ytige75017: folds 
+Theresponsible: calls 10
+mabeal1: raises 480 to 500 and is all-in
+Theresponsible: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Ytige75017 (button) folded before Flop (didn't bet)
+Seat 2: Theresponsible (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259592544175: Tournament #3972090112, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:15:16 CET [2026/02/04 15:15:16 ET]
+Table '3972090112 1' 3-max Seat #2 is the button
+Seat 1: Ytige75017 (500 in chips) 
+Seat 2: Theresponsible (480 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 10
+Ytige75017: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Jc]
+Theresponsible: calls 20
+mabeal1: calls 10
+Ytige75017: raises 480 to 500 and is all-in
+Theresponsible: folds 
+mabeal1: folds 
+Uncalled bet (480) returned to Ytige75017
+Ytige75017 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Ytige75017 (big blind) collected (60)
+Seat 2: Theresponsible (button) folded before Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592548636: Tournament #3972090112, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:15:33 CET [2026/02/04 15:15:33 ET]
+Table '3972090112 1' 3-max Seat #3 is the button
+Seat 1: Ytige75017 (540 in chips) 
+Seat 2: Theresponsible (460 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Ytige75017: posts small blind 10
+Theresponsible: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7d]
+mabeal1: folds 
+Ytige75017: folds 
+Uncalled bet (10) returned to Theresponsible
+Theresponsible collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Ytige75017 (small blind) folded before Flop
+Seat 2: Theresponsible (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259592551847: Tournament #3972090112, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:15:46 CET [2026/02/04 15:15:46 ET]
+Table '3972090112 1' 3-max Seat #1 is the button
+Seat 1: Ytige75017 (530 in chips) 
+Seat 2: Theresponsible (470 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Theresponsible: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td As]
+Ytige75017: calls 20
+Theresponsible: raises 40 to 60
+mabeal1: calls 40
+Ytige75017: calls 40
+*** FLOP *** [Js 5h 4s]
+Theresponsible: checks 
+mabeal1: checks 
+Ytige75017: checks 
+*** TURN *** [Js 5h 4s] [3h]
+Theresponsible: bets 180
+mabeal1: folds 
+Ytige75017: folds 
+Uncalled bet (180) returned to Theresponsible
+Theresponsible collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Js 5h 4s 3h]
+Seat 1: Ytige75017 (button) folded on the Turn
+Seat 2: Theresponsible (small blind) collected (180)
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259592561104: Tournament #3972090112, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:16:20 CET [2026/02/04 15:16:20 ET]
+Table '3972090112 1' 3-max Seat #2 is the button
+Seat 1: Ytige75017 (470 in chips) 
+Seat 2: Theresponsible (590 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+mabeal1: posts small blind 10
+Ytige75017: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Kh]
+Theresponsible: calls 20
+mabeal1: calls 10
+Ytige75017: raises 450 to 470 and is all-in
+Theresponsible: calls 450
+mabeal1: folds 
+*** FLOP *** [Ac 9s 8h]
+*** TURN *** [Ac 9s 8h] [5d]
+*** RIVER *** [Ac 9s 8h 5d] [8s]
+*** SHOW DOWN ***
+Ytige75017: shows [7s 7h] (two pair, Eights and Sevens)
+Theresponsible: shows [8c Ah] (a full house, Eights full of Aces)
+Theresponsible collected 960 from pot
+Ytige75017 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Ac 9s 8h 5d 8s]
+Seat 1: Ytige75017 (big blind) showed [7s 7h] and lost with two pair, Eights and Sevens
+Seat 2: Theresponsible (button) showed [8c Ah] and won (960) with a full house, Eights full of Aces
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592571725: Tournament #3972090112, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 21:17:00 CET [2026/02/04 15:17:00 ET]
+Table '3972090112 1' 3-max Seat #3 is the button
+Seat 2: Theresponsible (1080 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+mabeal1: posts small blind 10
+Theresponsible: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 2h]
+mabeal1: calls 10
+Theresponsible: checks 
+*** FLOP *** [Td Qh 4c]
+Theresponsible: bets 1060 and is all-in
+mabeal1: calls 400 and is all-in
+Uncalled bet (660) returned to Theresponsible
+*** TURN *** [Td Qh 4c] [6c]
+*** RIVER *** [Td Qh 4c 6c] [9s]
+*** SHOW DOWN ***
+Theresponsible: shows [7h Qd] (a pair of Queens)
+mabeal1: shows [Qs 2h] (a pair of Queens - lower kicker)
+Theresponsible collected 840 from pot
+mabeal1 finished the tournament in 2nd place
+Theresponsible wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Td Qh 4c 6c 9s]
+Seat 2: Theresponsible (big blind) showed [7h Qd] and won (840) with a pair of Queens
+Seat 3: mabeal1 (button) (small blind) showed [Qs 2h] and lost with a pair of Queens
+
+
+

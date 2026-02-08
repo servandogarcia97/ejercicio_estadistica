@@ -1,0 +1,546 @@
+﻿PokerStars Hand #259551013609: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:53:08 CET [2026/02/01 12:53:08 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: DON CHEESE94 (500 in chips) 
+Seat 3: Elempresaurio (500 in chips) 
+DON CHEESE94: posts small blind 10
+Elempresaurio: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Th]
+mabeal1: raises 20 to 40
+DON CHEESE94: folds 
+Elempresaurio: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: DON CHEESE94 (small blind) folded before Flop
+Seat 3: Elempresaurio (big blind) folded before Flop
+
+
+
+PokerStars Hand #259551015091: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:53:13 CET [2026/02/01 12:53:13 ET]
+Table '3971166025 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: DON CHEESE94 (490 in chips) 
+Seat 3: Elempresaurio (480 in chips) 
+Elempresaurio: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Qc]
+DON CHEESE94: raises 20 to 40
+Elempresaurio: folds 
+mabeal1: raises 80 to 120
+DON CHEESE94: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (90)
+Seat 2: DON CHEESE94 (button) folded before Flop
+Seat 3: Elempresaurio (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551020517: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:53:33 CET [2026/02/01 12:53:33 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: DON CHEESE94 (450 in chips) 
+Seat 3: Elempresaurio (470 in chips) 
+mabeal1: posts small blind 10
+DON CHEESE94: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3d]
+Elempresaurio: raises 20 to 40
+mabeal1: folds 
+DON CHEESE94: folds 
+Uncalled bet (20) returned to Elempresaurio
+Elempresaurio collected 50 from pot
+Elempresaurio: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: DON CHEESE94 (big blind) folded before Flop
+Seat 3: Elempresaurio (button) collected (50)
+
+
+
+PokerStars Hand #259551023858: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:53:45 CET [2026/02/01 12:53:45 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: DON CHEESE94 (430 in chips) 
+Seat 3: Elempresaurio (500 in chips) 
+DON CHEESE94: posts small blind 10
+Elempresaurio: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 9c]
+mabeal1: raises 20 to 40
+DON CHEESE94: raises 390 to 430 and is all-in
+Elempresaurio: folds 
+mabeal1: folds 
+Uncalled bet (390) returned to DON CHEESE94
+DON CHEESE94 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: DON CHEESE94 (small blind) collected (100)
+Seat 3: Elempresaurio (big blind) folded before Flop
+
+
+
+PokerStars Hand #259551026853: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:53:56 CET [2026/02/01 12:53:56 ET]
+Table '3971166025 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: DON CHEESE94 (490 in chips) 
+Seat 3: Elempresaurio (480 in chips) 
+Elempresaurio: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Ts]
+DON CHEESE94: raises 20 to 40
+Elempresaurio: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to DON CHEESE94
+DON CHEESE94 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: DON CHEESE94 (button) collected (50)
+Seat 3: Elempresaurio (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551030884: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:54:11 CET [2026/02/01 12:54:11 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: DON CHEESE94 (520 in chips) 
+Seat 3: Elempresaurio (470 in chips) 
+mabeal1: posts small blind 10
+DON CHEESE94: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5s]
+Elempresaurio: folds 
+mabeal1: raises 30 to 50
+DON CHEESE94: calls 30
+*** FLOP *** [9s Td Ad]
+mabeal1: bets 40
+DON CHEESE94: calls 40
+*** TURN *** [9s Td Ad] [5h]
+mabeal1: bets 135
+DON CHEESE94: calls 135
+*** RIVER *** [9s Td Ad 5h] [8s]
+mabeal1: bets 285 and is all-in
+DON CHEESE94: folds 
+Uncalled bet (285) returned to mabeal1
+mabeal1 collected 450 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [9s Td Ad 5h 8s]
+Seat 1: mabeal1 (small blind) collected (450)
+Seat 2: DON CHEESE94 (big blind) folded on the River
+Seat 3: Elempresaurio (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259551039924: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:54:45 CET [2026/02/01 12:54:45 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (735 in chips) 
+Seat 2: DON CHEESE94 (295 in chips) 
+Seat 3: Elempresaurio (470 in chips) 
+DON CHEESE94: posts small blind 10
+Elempresaurio: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Kh]
+mabeal1: raises 20 to 40
+DON CHEESE94: calls 30
+Elempresaurio: folds 
+*** FLOP *** [2h Kc Th]
+DON CHEESE94: checks 
+mabeal1: checks 
+*** TURN *** [2h Kc Th] [7h]
+DON CHEESE94: checks 
+mabeal1: bets 75
+DON CHEESE94: calls 75
+*** RIVER *** [2h Kc Th 7h] [As]
+DON CHEESE94: bets 180 and is all-in
+mabeal1: calls 180
+*** SHOW DOWN ***
+DON CHEESE94: shows [Qs Ah] (a pair of Aces)
+mabeal1: shows [Td Kh] (two pair, Kings and Tens)
+mabeal1 collected 610 from pot
+DON CHEESE94 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 610 | Rake 0 
+Board [2h Kc Th 7h As]
+Seat 1: mabeal1 (button) showed [Td Kh] and won (610) with two pair, Kings and Tens
+Seat 2: DON CHEESE94 (small blind) showed [Qs Ah] and lost with a pair of Aces
+Seat 3: Elempresaurio (big blind) folded before Flop
+
+
+
+PokerStars Hand #259551047593: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:55:15 CET [2026/02/01 12:55:15 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: Elempresaurio (450 in chips) 
+Elempresaurio: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Qh]
+Elempresaurio: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: Elempresaurio (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551048320: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:55:19 CET [2026/02/01 12:55:19 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: Elempresaurio (435 in chips) 
+mabeal1: posts small blind 15
+Elempresaurio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 5c]
+mabeal1: calls 15
+Elempresaurio: checks 
+*** FLOP *** [6d Jh Ac]
+Elempresaurio: checks 
+mabeal1: bets 30
+Elempresaurio: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d Jh Ac]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: Elempresaurio (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259551050315: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:55:31 CET [2026/02/01 12:55:31 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1095 in chips) 
+Seat 3: Elempresaurio (405 in chips) 
+Elempresaurio: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 4s]
+Elempresaurio: raises 375 to 405 and is all-in
+mabeal1: folds 
+Uncalled bet (375) returned to Elempresaurio
+Elempresaurio collected 60 from pot
+Elempresaurio: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: Elempresaurio (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259551051460: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:55:38 CET [2026/02/01 12:55:38 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: Elempresaurio (435 in chips) 
+mabeal1: posts small blind 15
+Elempresaurio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qh]
+mabeal1: calls 15
+Elempresaurio: raises 405 to 435 and is all-in
+mabeal1: folds 
+Uncalled bet (405) returned to Elempresaurio
+Elempresaurio collected 60 from pot
+Elempresaurio: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Elempresaurio (big blind) collected (60)
+
+
+
+PokerStars Hand #259551052876: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:55:47 CET [2026/02/01 12:55:47 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1035 in chips) 
+Seat 3: Elempresaurio (465 in chips) 
+Elempresaurio: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Jc]
+Elempresaurio: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: Elempresaurio (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551054021: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:55:54 CET [2026/02/01 12:55:54 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: Elempresaurio (450 in chips) 
+mabeal1: posts small blind 15
+Elempresaurio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6h]
+mabeal1: raises 30 to 60
+Elempresaurio: raises 390 to 450 and is all-in
+mabeal1: folds 
+Uncalled bet (390) returned to Elempresaurio
+Elempresaurio collected 120 from pot
+Elempresaurio: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Elempresaurio (big blind) collected (120)
+
+
+
+PokerStars Hand #259551055256: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:56:02 CET [2026/02/01 12:56:02 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 3: Elempresaurio (510 in chips) 
+Elempresaurio: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 9d]
+Elempresaurio: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: Elempresaurio (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551056067: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:56:07 CET [2026/02/01 12:56:07 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1005 in chips) 
+Seat 3: Elempresaurio (495 in chips) 
+mabeal1: posts small blind 15
+Elempresaurio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Qh]
+mabeal1: raises 30 to 60
+Elempresaurio: raises 435 to 495 and is all-in
+mabeal1: folds 
+Uncalled bet (435) returned to Elempresaurio
+Elempresaurio collected 120 from pot
+Elempresaurio: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Elempresaurio (big blind) collected (120)
+
+
+
+PokerStars Hand #259551057572: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:56:16 CET [2026/02/01 12:56:16 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (945 in chips) 
+Seat 3: Elempresaurio (555 in chips) 
+Elempresaurio: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 6h]
+Elempresaurio: calls 15
+mabeal1: checks 
+*** FLOP *** [5d Td Ad]
+mabeal1: checks 
+Elempresaurio: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Elempresaurio
+Elempresaurio collected 60 from pot
+Elempresaurio: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Td Ad]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: Elempresaurio (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259551059705: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:56:29 CET [2026/02/01 12:56:29 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (915 in chips) 
+Seat 3: Elempresaurio (585 in chips) 
+mabeal1: posts small blind 15
+Elempresaurio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9c]
+mabeal1: calls 15
+Elempresaurio: checks 
+*** FLOP *** [As Ad Qs]
+Elempresaurio: checks 
+mabeal1: bets 30
+Elempresaurio: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As Ad Qs]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: Elempresaurio (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259551061571: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:56:40 CET [2026/02/01 12:56:40 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (945 in chips) 
+Seat 3: Elempresaurio (555 in chips) 
+Elempresaurio: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Jh]
+Elempresaurio: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: Elempresaurio (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551063016: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:56:48 CET [2026/02/01 12:56:48 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 3: Elempresaurio (540 in chips) 
+mabeal1: posts small blind 15
+Elempresaurio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d As]
+mabeal1: raises 30 to 60
+Elempresaurio: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: Elempresaurio (big blind) folded before Flop
+
+
+
+PokerStars Hand #259551065852: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:57:05 CET [2026/02/01 12:57:05 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 3: Elempresaurio (510 in chips) 
+Elempresaurio: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Jh]
+Elempresaurio: calls 15
+mabeal1: checks 
+*** FLOP *** [Qs 5d 8s]
+mabeal1: checks 
+Elempresaurio: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Elempresaurio
+Elempresaurio collected 60 from pot
+Elempresaurio: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 5d 8s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: Elempresaurio (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259551068897: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:57:24 CET [2026/02/01 12:57:24 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 3: Elempresaurio (540 in chips) 
+mabeal1: posts small blind 20
+Elempresaurio: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Jh]
+mabeal1: raises 40 to 80
+Elempresaurio: raises 460 to 540 and is all-in
+mabeal1: calls 460
+*** FLOP *** [As Jd 6h]
+*** TURN *** [As Jd 6h] [5h]
+*** RIVER *** [As Jd 6h 5h] [9h]
+*** SHOW DOWN ***
+Elempresaurio: shows [8h Ah] (a flush, Ace high)
+mabeal1: shows [Qd Jh] (a pair of Jacks)
+Elempresaurio collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [As Jd 6h 5h 9h]
+Seat 1: mabeal1 (button) (small blind) showed [Qd Jh] and lost with a pair of Jacks
+Seat 3: Elempresaurio (big blind) showed [8h Ah] and won (1080) with a flush, Ace high
+
+
+
+PokerStars Hand #259551071736: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:57:41 CET [2026/02/01 12:57:41 ET]
+Table '3971166025 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 3: Elempresaurio (1080 in chips) 
+Elempresaurio: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 2d]
+Elempresaurio: calls 20
+mabeal1: checks 
+*** FLOP *** [8d 2h 4c]
+mabeal1: bets 40
+Elempresaurio: raises 80 to 120
+mabeal1: raises 260 to 380 and is all-in
+Elempresaurio: calls 260
+*** TURN *** [8d 2h 4c] [3c]
+*** RIVER *** [8d 2h 4c 3c] [Kd]
+*** SHOW DOWN ***
+mabeal1: shows [8h 2d] (two pair, Eights and Deuces)
+Elempresaurio: shows [Js Jd] (a pair of Jacks)
+mabeal1 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [8d 2h 4c 3c Kd]
+Seat 1: mabeal1 (big blind) showed [8h 2d] and won (840) with two pair, Eights and Deuces
+Seat 3: Elempresaurio (button) (small blind) showed [Js Jd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259551075657: Tournament #3971166025, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:58:04 CET [2026/02/01 12:58:04 ET]
+Table '3971166025 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (840 in chips) 
+Seat 3: Elempresaurio (660 in chips) 
+mabeal1: posts small blind 20
+Elempresaurio: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Kd]
+mabeal1: calls 20
+Elempresaurio: raises 620 to 660 and is all-in
+mabeal1: calls 620
+*** FLOP *** [Jh 8h 3c]
+*** TURN *** [Jh 8h 3c] [Js]
+*** RIVER *** [Jh 8h 3c Js] [6s]
+*** SHOW DOWN ***
+Elempresaurio: shows [Kc Ts] (a pair of Jacks)
+mabeal1: shows [Kh Kd] (two pair, Kings and Jacks)
+mabeal1 collected 1320 from pot
+Elempresaurio finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Jh 8h 3c Js 6s]
+Seat 1: mabeal1 (button) (small blind) showed [Kh Kd] and won (1320) with two pair, Kings and Jacks
+Seat 3: Elempresaurio (big blind) showed [Kc Ts] and lost with a pair of Jacks
+
+
+

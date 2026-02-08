@@ -1,0 +1,212 @@
+﻿PokerStars Hand #259472505625: Tournament #3969360330, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:56:06 CET [2026/01/26 13:56:06 ET]
+Table '3969360330 1' 3-max Seat #1 is the button
+Seat 1: MamJoss91 (500 in chips) 
+Seat 2: N3050N1C (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+N3050N1C: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 8s]
+MamJoss91: folds 
+N3050N1C: calls 10
+mabeal1: checks 
+*** FLOP *** [7c 8d Th]
+N3050N1C: checks 
+mabeal1: bets 20
+N3050N1C: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7c 8d Th]
+Seat 1: MamJoss91 (button) folded before Flop (didn't bet)
+Seat 2: N3050N1C (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259472507753: Tournament #3969360330, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:56:19 CET [2026/01/26 13:56:19 ET]
+Table '3969360330 1' 3-max Seat #2 is the button
+Seat 1: MamJoss91 (500 in chips) 
+Seat 2: N3050N1C (480 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 10
+MamJoss91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Jh]
+N3050N1C: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to MamJoss91
+MamJoss91 collected 20 from pot
+MamJoss91: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MamJoss91 (big blind) collected (20)
+Seat 2: N3050N1C (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472508794: Tournament #3969360330, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:56:25 CET [2026/01/26 13:56:25 ET]
+Table '3969360330 1' 3-max Seat #3 is the button
+Seat 1: MamJoss91 (510 in chips) 
+Seat 2: N3050N1C (480 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+MamJoss91: posts small blind 10
+N3050N1C: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5h]
+mabeal1: folds 
+MamJoss91: raises 40 to 60
+N3050N1C: calls 40
+*** FLOP *** [7h As Td]
+MamJoss91: bets 120
+N3050N1C: folds 
+Uncalled bet (120) returned to MamJoss91
+MamJoss91 collected 120 from pot
+MamJoss91: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h As Td]
+Seat 1: MamJoss91 (small blind) collected (120)
+Seat 2: N3050N1C (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472512585: Tournament #3969360330, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:56:47 CET [2026/01/26 13:56:47 ET]
+Table '3969360330 1' 3-max Seat #1 is the button
+Seat 1: MamJoss91 (570 in chips) 
+Seat 2: N3050N1C (420 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+N3050N1C: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qc]
+MamJoss91: folds 
+N3050N1C: calls 10
+mabeal1: checks 
+*** FLOP *** [9h Qs 2s]
+N3050N1C: checks 
+mabeal1: bets 20
+N3050N1C: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9h Qs 2s]
+Seat 1: MamJoss91 (button) folded before Flop (didn't bet)
+Seat 2: N3050N1C (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259472515623: Tournament #3969360330, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:57:05 CET [2026/01/26 13:57:05 ET]
+Table '3969360330 1' 3-max Seat #2 is the button
+Seat 1: MamJoss91 (570 in chips) 
+Seat 2: N3050N1C (400 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+mabeal1: posts small blind 10
+MamJoss91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 2s]
+N3050N1C: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to MamJoss91
+MamJoss91 collected 20 from pot
+MamJoss91: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MamJoss91 (big blind) collected (20)
+Seat 2: N3050N1C (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472516573: Tournament #3969360330, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:57:11 CET [2026/01/26 13:57:11 ET]
+Table '3969360330 1' 3-max Seat #3 is the button
+Seat 1: MamJoss91 (580 in chips) 
+Seat 2: N3050N1C (400 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+MamJoss91: posts small blind 10
+N3050N1C: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 7s]
+mabeal1: raises 20 to 40
+MamJoss91: raises 100 to 140
+N3050N1C: folds 
+mabeal1: folds 
+Uncalled bet (100) returned to MamJoss91
+MamJoss91 collected 100 from pot
+MamJoss91: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: MamJoss91 (small blind) collected (100)
+Seat 2: N3050N1C (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop
+
+
+
+PokerStars Hand #259472518283: Tournament #3969360330, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:57:21 CET [2026/01/26 13:57:21 ET]
+Table '3969360330 1' 3-max Seat #1 is the button
+Seat 1: MamJoss91 (640 in chips) 
+Seat 2: N3050N1C (380 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+N3050N1C: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 4s]
+MamJoss91: raises 50 to 70
+N3050N1C: calls 60
+mabeal1: folds 
+*** FLOP *** [7h Jh 4d]
+N3050N1C: checks 
+MamJoss91: bets 160
+N3050N1C: folds 
+Uncalled bet (160) returned to MamJoss91
+MamJoss91 collected 160 from pot
+MamJoss91: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7h Jh 4d]
+Seat 1: MamJoss91 (button) collected (160)
+Seat 2: N3050N1C (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259472521607: Tournament #3969360330, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:57:40 CET [2026/01/26 13:57:40 ET]
+Table '3969360330 1' 3-max Seat #2 is the button
+Seat 1: MamJoss91 (730 in chips) 
+Seat 2: N3050N1C (310 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+MamJoss91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ks]
+N3050N1C: folds 
+mabeal1: raises 20 to 40
+MamJoss91: calls 20
+*** FLOP *** [9d 6h 9c]
+mabeal1: checks 
+MamJoss91: bets 690 and is all-in
+mabeal1: calls 420 and is all-in
+Uncalled bet (270) returned to MamJoss91
+*** TURN *** [9d 6h 9c] [Jh]
+*** RIVER *** [9d 6h 9c Jh] [8s]
+*** SHOW DOWN ***
+mabeal1: shows [Td Ks] (a pair of Nines)
+MamJoss91: shows [Qc 6d] (two pair, Nines and Sixes)
+MamJoss91 collected 920 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [9d 6h 9c Jh 8s]
+Seat 1: MamJoss91 (big blind) showed [Qc 6d] and won (920) with two pair, Nines and Sixes
+Seat 2: N3050N1C (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [Td Ks] and lost with a pair of Nines
+
+
+

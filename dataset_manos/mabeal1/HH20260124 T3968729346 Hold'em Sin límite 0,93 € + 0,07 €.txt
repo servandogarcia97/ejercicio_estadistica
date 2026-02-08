@@ -1,0 +1,1041 @@
+﻿PokerStars Hand #259443723807: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:34:01 CET [2026/01/24 12:34:01 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (500 in chips) 
+Seat 2: heyy309 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+heyy309: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Js]
+peuch1980: raises 20 to 40
+heyy309: calls 30
+mabeal1: calls 20
+*** FLOP *** [3d 9c 9s]
+heyy309: checks 
+mabeal1: checks 
+peuch1980: bets 60
+heyy309: folds 
+mabeal1: calls 60
+*** TURN *** [3d 9c 9s] [8c]
+mabeal1: checks 
+peuch1980: checks 
+*** RIVER *** [3d 9c 9s 8c] [6d]
+mabeal1: bets 180
+peuch1980: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3d 9c 9s 8c 6d]
+Seat 1: peuch1980 (button) folded on the River
+Seat 2: heyy309 (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (240)
+
+
+
+PokerStars Hand #259443729823: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:34:28 CET [2026/01/24 12:34:28 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (400 in chips) 
+Seat 2: heyy309 (460 in chips) 
+Seat 3: mabeal1 (640 in chips) 
+mabeal1: posts small blind 10
+peuch1980: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3c]
+heyy309: calls 20
+mabeal1: folds 
+peuch1980: checks 
+*** FLOP *** [Jc 5h Jd]
+peuch1980: checks 
+heyy309: bets 20
+peuch1980: calls 20
+*** TURN *** [Jc 5h Jd] [5d]
+peuch1980: checks 
+heyy309: checks 
+*** RIVER *** [Jc 5h Jd 5d] [7h]
+peuch1980: bets 90
+heyy309: folds 
+Uncalled bet (90) returned to peuch1980
+peuch1980 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Jc 5h Jd 5d 7h]
+Seat 1: peuch1980 (big blind) collected (90)
+Seat 2: heyy309 (button) folded on the River
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259443734910: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:34:51 CET [2026/01/24 12:34:51 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 1: peuch1980 (450 in chips) 
+Seat 2: heyy309 (420 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+peuch1980: posts small blind 10
+heyy309: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 7c]
+mabeal1: folds 
+peuch1980: calls 10
+heyy309: checks 
+*** FLOP *** [Kh 9s Kc]
+peuch1980: checks 
+heyy309: checks 
+*** TURN *** [Kh 9s Kc] [8c]
+peuch1980: bets 20
+heyy309: folds 
+Uncalled bet (20) returned to peuch1980
+peuch1980 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 9s Kc 8c]
+Seat 1: peuch1980 (small blind) collected (40)
+Seat 2: heyy309 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259443739517: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:35:12 CET [2026/01/24 12:35:12 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (470 in chips) 
+Seat 2: heyy309 (400 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+heyy309: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Jh]
+peuch1980: raises 20 to 40
+heyy309: folds 
+mabeal1: calls 20
+*** FLOP *** [6d Qd 7d]
+mabeal1: checks 
+peuch1980: bets 45
+mabeal1: calls 45
+*** TURN *** [6d Qd 7d] [9c]
+mabeal1: checks 
+peuch1980: checks 
+*** RIVER *** [6d Qd 7d 9c] [5h]
+mabeal1: bets 135
+peuch1980: calls 135
+*** SHOW DOWN ***
+mabeal1: shows [Td Jh] (high card Queen)
+peuch1980: shows [Ad 7h] (a pair of Sevens)
+peuch1980 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [6d Qd 7d 9c 5h]
+Seat 1: peuch1980 (button) showed [Ad 7h] and won (450) with a pair of Sevens
+Seat 2: heyy309 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [Td Jh] and lost with high card Queen
+
+
+
+PokerStars Hand #259443747424: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:35:48 CET [2026/01/24 12:35:48 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (700 in chips) 
+Seat 2: heyy309 (390 in chips) 
+Seat 3: mabeal1 (410 in chips) 
+mabeal1: posts small blind 10
+peuch1980: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Tc]
+heyy309: calls 20
+mabeal1: folds 
+peuch1980: checks 
+*** FLOP *** [2h Qh 8s]
+peuch1980: checks 
+heyy309: checks 
+*** TURN *** [2h Qh 8s] [Qc]
+peuch1980: checks 
+heyy309: checks 
+*** RIVER *** [2h Qh 8s Qc] [8d]
+peuch1980: checks 
+heyy309: checks 
+*** SHOW DOWN ***
+peuch1980: shows [6d 3c] (two pair, Queens and Eights)
+heyy309: shows [5h Ac] (two pair, Queens and Eights - Ace kicker)
+heyy309 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2h Qh 8s Qc 8d]
+Seat 1: peuch1980 (big blind) showed [6d 3c] and lost with two pair, Queens and Eights
+Seat 2: heyy309 (button) showed [5h Ac] and won (50) with two pair, Queens and Eights
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259443753768: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:36:16 CET [2026/01/24 12:36:16 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 1: peuch1980 (680 in chips) 
+Seat 2: heyy309 (420 in chips) 
+Seat 3: mabeal1 (400 in chips) 
+peuch1980: posts small blind 10
+heyy309: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 4s]
+mabeal1: folds 
+peuch1980: folds 
+Uncalled bet (10) returned to heyy309
+heyy309 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: peuch1980 (small blind) folded before Flop
+Seat 2: heyy309 (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259443755620: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:36:25 CET [2026/01/24 12:36:25 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (670 in chips) 
+Seat 2: heyy309 (430 in chips) 
+Seat 3: mabeal1 (400 in chips) 
+heyy309: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Js]
+peuch1980: raises 20 to 40
+heyy309: calls 30
+mabeal1: calls 20
+*** FLOP *** [3d 3c 7d]
+heyy309: checks 
+mabeal1: checks 
+peuch1980: checks 
+*** TURN *** [3d 3c 7d] [2d]
+heyy309: checks 
+mabeal1: checks 
+peuch1980: checks 
+*** RIVER *** [3d 3c 7d 2d] [6s]
+heyy309: checks 
+mabeal1: checks 
+peuch1980: checks 
+*** SHOW DOWN ***
+heyy309: shows [8h As] (a pair of Threes)
+mabeal1: mucks hand 
+peuch1980: mucks hand 
+heyy309 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d 3c 7d 2d 6s]
+Seat 1: peuch1980 (button) mucked [Kh 4c]
+Seat 2: heyy309 (small blind) showed [8h As] and won (120) with a pair of Threes
+Seat 3: mabeal1 (big blind) mucked [9d Js]
+
+
+
+PokerStars Hand #259443761529: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:36:51 CET [2026/01/24 12:36:51 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (630 in chips) 
+Seat 2: heyy309 (510 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+mabeal1: posts small blind 10
+peuch1980: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kd]
+heyy309: folds 
+mabeal1: raises 20 to 40
+peuch1980: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: peuch1980 (big blind) folded before Flop
+Seat 2: heyy309 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259443763493: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:37:00 CET [2026/01/24 12:37:00 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 1: peuch1980 (610 in chips) 
+Seat 2: heyy309 (510 in chips) 
+Seat 3: mabeal1 (380 in chips) 
+peuch1980: posts small blind 10
+heyy309: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Th]
+mabeal1: folds 
+peuch1980: raises 20 to 40
+heyy309: folds 
+Uncalled bet (20) returned to peuch1980
+peuch1980 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: peuch1980 (small blind) collected (40)
+Seat 2: heyy309 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259443766987: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:37:16 CET [2026/01/24 12:37:16 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (630 in chips) 
+Seat 2: heyy309 (490 in chips) 
+Seat 3: mabeal1 (380 in chips) 
+heyy309: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 5c]
+peuch1980: folds 
+heyy309: calls 15
+mabeal1: checks 
+*** FLOP *** [7s Qh 5h]
+heyy309: checks 
+mabeal1: checks 
+*** TURN *** [7s Qh 5h] [4h]
+heyy309: checks 
+mabeal1: checks 
+*** RIVER *** [7s Qh 5h 4h] [7d]
+heyy309: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+heyy309: shows [Qc 9h] (two pair, Queens and Sevens)
+mabeal1: mucks hand 
+heyy309 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s Qh 5h 4h 7d]
+Seat 1: peuch1980 (button) folded before Flop (didn't bet)
+Seat 2: heyy309 (small blind) showed [Qc 9h] and won (120) with two pair, Queens and Sevens
+Seat 3: mabeal1 (big blind) mucked [Jd 5c]
+
+
+
+PokerStars Hand #259443771923: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:37:38 CET [2026/01/24 12:37:38 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (630 in chips) 
+Seat 2: heyy309 (550 in chips) 
+Seat 3: mabeal1 (320 in chips) 
+mabeal1: posts small blind 15
+peuch1980: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Qd]
+heyy309: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to peuch1980
+peuch1980 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: peuch1980 (big blind) collected (30)
+Seat 2: heyy309 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259443774017: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:37:48 CET [2026/01/24 12:37:48 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 1: peuch1980 (645 in chips) 
+Seat 2: heyy309 (550 in chips) 
+Seat 3: mabeal1 (305 in chips) 
+peuch1980: posts small blind 15
+heyy309: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 2s]
+mabeal1: folds 
+peuch1980: raises 30 to 60
+heyy309: calls 30
+*** FLOP *** [7c 5c As]
+peuch1980: checks 
+heyy309: checks 
+*** TURN *** [7c 5c As] [Th]
+peuch1980: bets 60
+heyy309: folds 
+Uncalled bet (60) returned to peuch1980
+peuch1980 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c 5c As Th]
+Seat 1: peuch1980 (small blind) collected (120)
+Seat 2: heyy309 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259443778834: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:38:10 CET [2026/01/24 12:38:10 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (705 in chips) 
+Seat 2: heyy309 (490 in chips) 
+Seat 3: mabeal1 (305 in chips) 
+heyy309: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 9c]
+peuch1980: raises 30 to 60
+heyy309: calls 45
+mabeal1: folds 
+*** FLOP *** [6h As 4c]
+heyy309: checks 
+peuch1980: checks 
+*** TURN *** [6h As 4c] [4s]
+heyy309: checks 
+peuch1980: checks 
+*** RIVER *** [6h As 4c 4s] [Td]
+heyy309: bets 30
+peuch1980: calls 30
+*** SHOW DOWN ***
+heyy309: shows [Qd Ts] (two pair, Tens and Fours)
+peuch1980: mucks hand 
+heyy309 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [6h As 4c 4s Td]
+Seat 1: peuch1980 (button) mucked [Js Kd]
+Seat 2: heyy309 (small blind) showed [Qd Ts] and won (210) with two pair, Tens and Fours
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259443783166: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:38:30 CET [2026/01/24 12:38:30 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (615 in chips) 
+Seat 2: heyy309 (610 in chips) 
+Seat 3: mabeal1 (275 in chips) 
+mabeal1: posts small blind 15
+peuch1980: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 7h]
+heyy309: folds 
+mabeal1: raises 245 to 275 and is all-in
+peuch1980: calls 245
+*** FLOP *** [6s 2c 3c]
+*** TURN *** [6s 2c 3c] [7s]
+*** RIVER *** [6s 2c 3c 7s] [7c]
+*** SHOW DOWN ***
+mabeal1: shows [7d 7h] (four of a kind, Sevens)
+peuch1980: shows [6d Ac] (two pair, Sevens and Sixes)
+mabeal1 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [6s 2c 3c 7s 7c]
+Seat 1: peuch1980 (big blind) showed [6d Ac] and lost with two pair, Sevens and Sixes
+Seat 2: heyy309 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [7d 7h] and won (550) with four of a kind, Sevens
+
+
+
+PokerStars Hand #259443787361: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:38:49 CET [2026/01/24 12:38:49 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 1: peuch1980 (340 in chips) 
+Seat 2: heyy309 (610 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+peuch1980: posts small blind 15
+heyy309: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 3c]
+mabeal1: folds 
+peuch1980: folds 
+Uncalled bet (15) returned to heyy309
+heyy309 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: peuch1980 (small blind) folded before Flop
+Seat 2: heyy309 (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259443789109: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:38:57 CET [2026/01/24 12:38:57 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (325 in chips) 
+Seat 2: heyy309 (625 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+heyy309: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 9h]
+peuch1980: folds 
+heyy309: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: peuch1980 (button) folded before Flop (didn't bet)
+Seat 2: heyy309 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259443790154: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:39:01 CET [2026/01/24 12:39:01 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (325 in chips) 
+Seat 2: heyy309 (610 in chips) 
+Seat 3: mabeal1 (565 in chips) 
+mabeal1: posts small blind 15
+peuch1980: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Td]
+heyy309: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to peuch1980
+peuch1980 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: peuch1980 (big blind) collected (30)
+Seat 2: heyy309 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259443791632: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:39:08 CET [2026/01/24 12:39:08 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 1: peuch1980 (340 in chips) 
+Seat 2: heyy309 (610 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+peuch1980: posts small blind 15
+heyy309: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Qs]
+mabeal1: raises 30 to 60
+peuch1980: folds 
+heyy309: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: peuch1980 (small blind) folded before Flop
+Seat 2: heyy309 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259443793420: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:39:16 CET [2026/01/24 12:39:16 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (325 in chips) 
+Seat 2: heyy309 (580 in chips) 
+Seat 3: mabeal1 (595 in chips) 
+heyy309: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8h]
+peuch1980: raises 30 to 60
+heyy309: raises 520 to 580 and is all-in
+mabeal1: folds 
+peuch1980: folds 
+Uncalled bet (520) returned to heyy309
+heyy309 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: peuch1980 (button) folded before Flop
+Seat 2: heyy309 (small blind) collected (150)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259443796148: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:39:29 CET [2026/01/24 12:39:29 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (265 in chips) 
+Seat 2: heyy309 (670 in chips) 
+Seat 3: mabeal1 (565 in chips) 
+mabeal1: posts small blind 15
+peuch1980: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 6h]
+heyy309: raises 640 to 670 and is all-in
+mabeal1: folds 
+peuch1980: folds 
+Uncalled bet (640) returned to heyy309
+heyy309 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: peuch1980 (big blind) folded before Flop
+Seat 2: heyy309 (button) collected (75)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259443799679: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:39:45 CET [2026/01/24 12:39:45 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 1: peuch1980 (235 in chips) 
+Seat 2: heyy309 (715 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+peuch1980: posts small blind 15
+heyy309: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Td]
+mabeal1: folds 
+peuch1980: folds 
+Uncalled bet (15) returned to heyy309
+heyy309 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: peuch1980 (small blind) folded before Flop
+Seat 2: heyy309 (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259443801944: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 18:39:55 CET [2026/01/24 12:39:55 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (220 in chips) 
+Seat 2: heyy309 (730 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+heyy309: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 4c]
+peuch1980: raises 190 to 220 and is all-in
+heyy309: folds 
+mabeal1: folds 
+Uncalled bet (190) returned to peuch1980
+peuch1980 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: peuch1980 (button) collected (75)
+Seat 2: heyy309 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259443804706: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:40:08 CET [2026/01/24 12:40:08 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (265 in chips) 
+Seat 2: heyy309 (715 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 20
+peuch1980: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 6d]
+heyy309: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to peuch1980
+peuch1980 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: peuch1980 (big blind) collected (40)
+Seat 2: heyy309 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259443806921: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:40:18 CET [2026/01/24 12:40:18 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 1: peuch1980 (285 in chips) 
+Seat 2: heyy309 (715 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+peuch1980: posts small blind 20
+heyy309: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Jh]
+mabeal1: calls 40
+peuch1980: folds 
+heyy309: checks 
+*** FLOP *** [2s Qs Kh]
+heyy309: checks 
+mabeal1: checks 
+*** TURN *** [2s Qs Kh] [Kc]
+heyy309: checks 
+mabeal1: checks 
+*** RIVER *** [2s Qs Kh Kc] [7c]
+heyy309: bets 40
+mabeal1: raises 80 to 120
+heyy309: calls 80
+*** SHOW DOWN ***
+mabeal1: shows [Jd Jh] (two pair, Kings and Jacks)
+heyy309: mucks hand 
+mabeal1 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [2s Qs Kh Kc 7c]
+Seat 1: peuch1980 (small blind) folded before Flop
+Seat 2: heyy309 (big blind) mucked [6h 6c]
+Seat 3: mabeal1 (button) showed [Jd Jh] and won (340) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #259443812503: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:40:43 CET [2026/01/24 12:40:43 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (265 in chips) 
+Seat 2: heyy309 (555 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+heyy309: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 6s]
+peuch1980: folds 
+heyy309: calls 20
+mabeal1: checks 
+*** FLOP *** [7c Ac 6c]
+heyy309: checks 
+mabeal1: checks 
+*** TURN *** [7c Ac 6c] [Td]
+heyy309: checks 
+mabeal1: checks 
+*** RIVER *** [7c Ac 6c Td] [Ts]
+heyy309: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+heyy309: shows [Ah 2d] (two pair, Aces and Tens)
+mabeal1: mucks hand 
+heyy309 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7c Ac 6c Td Ts]
+Seat 1: peuch1980 (button) folded before Flop (didn't bet)
+Seat 2: heyy309 (small blind) showed [Ah 2d] and won (160) with two pair, Aces and Tens
+Seat 3: mabeal1 (big blind) mucked [9h 6s]
+
+
+
+PokerStars Hand #259443816106: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:40:59 CET [2026/01/24 12:40:59 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (265 in chips) 
+Seat 2: heyy309 (635 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+mabeal1: posts small blind 20
+peuch1980: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 9d]
+heyy309: folds 
+mabeal1: raises 560 to 600 and is all-in
+peuch1980: calls 225 and is all-in
+Uncalled bet (335) returned to mabeal1
+*** FLOP *** [Ac 2s 5s]
+*** TURN *** [Ac 2s 5s] [6d]
+*** RIVER *** [Ac 2s 5s 6d] [3d]
+*** SHOW DOWN ***
+mabeal1: shows [9h 9d] (a pair of Nines)
+peuch1980: shows [8c Ah] (a pair of Aces)
+peuch1980 collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [Ac 2s 5s 6d 3d]
+Seat 1: peuch1980 (big blind) showed [8c Ah] and won (530) with a pair of Aces
+Seat 2: heyy309 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [9h 9d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259443819612: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:41:15 CET [2026/01/24 12:41:15 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 1: peuch1980 (530 in chips) 
+Seat 2: heyy309 (635 in chips) 
+Seat 3: mabeal1 (335 in chips) 
+peuch1980: posts small blind 20
+heyy309: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 7h]
+mabeal1: folds 
+peuch1980: folds 
+Uncalled bet (20) returned to heyy309
+heyy309 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: peuch1980 (small blind) folded before Flop
+Seat 2: heyy309 (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259443821329: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:41:22 CET [2026/01/24 12:41:22 ET]
+Table '3968729346 1' 3-max Seat #1 is the button
+Seat 1: peuch1980 (510 in chips) 
+Seat 2: heyy309 (655 in chips) 
+Seat 3: mabeal1 (335 in chips) 
+heyy309: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9c]
+peuch1980: folds 
+heyy309: calls 20
+mabeal1: checks 
+*** FLOP *** [5h Js Qd]
+heyy309: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to heyy309
+heyy309 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h Js Qd]
+Seat 1: peuch1980 (button) folded before Flop (didn't bet)
+Seat 2: heyy309 (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259443823997: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:41:34 CET [2026/01/24 12:41:34 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 1: peuch1980 (510 in chips) 
+Seat 2: heyy309 (695 in chips) 
+Seat 3: mabeal1 (295 in chips) 
+mabeal1: posts small blind 20
+peuch1980: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 2h]
+heyy309: raises 655 to 695 and is all-in
+mabeal1: folds 
+peuch1980: calls 470 and is all-in
+Uncalled bet (185) returned to heyy309
+*** FLOP *** [3h 2c Qs]
+*** TURN *** [3h 2c Qs] [7s]
+*** RIVER *** [3h 2c Qs 7s] [3d]
+*** SHOW DOWN ***
+peuch1980: shows [Kd Ah] (a pair of Threes)
+heyy309: shows [Jc Jh] (two pair, Jacks and Threes)
+heyy309 collected 1040 from pot
+peuch1980 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [3h 2c Qs 7s 3d]
+Seat 1: peuch1980 (big blind) showed [Kd Ah] and lost with a pair of Threes
+Seat 2: heyy309 (button) showed [Jc Jh] and won (1040) with two pair, Jacks and Threes
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259443828478: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:41:54 CET [2026/01/24 12:41:54 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 2: heyy309 (1225 in chips) 
+Seat 3: mabeal1 (275 in chips) 
+mabeal1: posts small blind 20
+heyy309: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Jc]
+mabeal1: calls 20
+heyy309: checks 
+*** FLOP *** [Td 8d Th]
+heyy309: checks 
+mabeal1: bets 40
+heyy309: calls 40
+*** TURN *** [Td 8d Th] [4d]
+heyy309: checks 
+mabeal1: bets 120
+heyy309: calls 120
+*** RIVER *** [Td 8d Th 4d] [2h]
+heyy309: checks 
+mabeal1: bets 75 and is all-in
+heyy309: folds 
+Uncalled bet (75) returned to mabeal1
+mabeal1 collected 400 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Td 8d Th 4d 2h]
+Seat 2: heyy309 (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (400)
+
+
+
+PokerStars Hand #259443832832: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:42:14 CET [2026/01/24 12:42:14 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 2: heyy309 (1025 in chips) 
+Seat 3: mabeal1 (475 in chips) 
+heyy309: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 8d]
+heyy309: calls 20
+mabeal1: checks 
+*** FLOP *** [8s Qh 9d]
+mabeal1: checks 
+heyy309: checks 
+*** TURN *** [8s Qh 9d] [Td]
+mabeal1: checks 
+heyy309: bets 40
+mabeal1: calls 40
+*** RIVER *** [8s Qh 9d Td] [Kc]
+mabeal1: checks 
+heyy309: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+heyy309: shows [Jc 6d] (a straight, Nine to King)
+mabeal1: mucks hand 
+heyy309 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8s Qh 9d Td Kc]
+Seat 2: heyy309 (button) (small blind) showed [Jc 6d] and won (240) with a straight, Nine to King
+Seat 3: mabeal1 (big blind) mucked [Qc 8d]
+
+
+
+PokerStars Hand #259443837035: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:42:33 CET [2026/01/24 12:42:33 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 2: heyy309 (1145 in chips) 
+Seat 3: mabeal1 (355 in chips) 
+mabeal1: posts small blind 20
+heyy309: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Ah]
+mabeal1: raises 315 to 355 and is all-in
+heyy309: calls 315
+*** FLOP *** [6h 8c 8s]
+*** TURN *** [6h 8c 8s] [Kc]
+*** RIVER *** [6h 8c 8s Kc] [5c]
+*** SHOW DOWN ***
+heyy309: shows [9c Qh] (a pair of Eights)
+mabeal1: shows [7h Ah] (a pair of Eights - Ace kicker)
+mabeal1 collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Board [6h 8c 8s Kc 5c]
+Seat 2: heyy309 (big blind) showed [9c Qh] and lost with a pair of Eights
+Seat 3: mabeal1 (button) (small blind) showed [7h Ah] and won (710) with a pair of Eights
+
+
+
+PokerStars Hand #259443840119: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:42:47 CET [2026/01/24 12:42:47 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 2: heyy309 (790 in chips) 
+Seat 3: mabeal1 (710 in chips) 
+heyy309: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Qs]
+heyy309: raises 750 to 790 and is all-in
+mabeal1: folds 
+Uncalled bet (750) returned to heyy309
+heyy309 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heyy309 (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259443841943: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 18:42:55 CET [2026/01/24 12:42:55 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 2: heyy309 (830 in chips) 
+Seat 3: mabeal1 (670 in chips) 
+mabeal1: posts small blind 20
+heyy309: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 4s]
+mabeal1: calls 20
+heyy309: raises 790 to 830 and is all-in
+mabeal1: folds 
+Uncalled bet (790) returned to heyy309
+heyy309 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: heyy309 (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259443844184: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 18:43:05 CET [2026/01/24 12:43:05 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 2: heyy309 (870 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+heyy309: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 6h]
+heyy309: calls 30
+mabeal1: checks 
+*** FLOP *** [7d Td Kh]
+mabeal1: checks 
+heyy309: checks 
+*** TURN *** [7d Td Kh] [3s]
+mabeal1: bets 90
+heyy309: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d Td Kh 3s]
+Seat 2: heyy309 (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259443846963: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 18:43:18 CET [2026/01/24 12:43:18 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 2: heyy309 (810 in chips) 
+Seat 3: mabeal1 (690 in chips) 
+mabeal1: posts small blind 30
+heyy309: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Th]
+mabeal1: folds 
+Uncalled bet (30) returned to heyy309
+heyy309 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: heyy309 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259443848001: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 18:43:22 CET [2026/01/24 12:43:22 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 2: heyy309 (840 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+heyy309: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Tc]
+heyy309: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: heyy309 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259443849118: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 18:43:27 CET [2026/01/24 12:43:27 ET]
+Table '3968729346 1' 3-max Seat #3 is the button
+Seat 2: heyy309 (810 in chips) 
+Seat 3: mabeal1 (690 in chips) 
+mabeal1: posts small blind 30
+heyy309: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4h]
+mabeal1: calls 30
+heyy309: checks 
+*** FLOP *** [5s Js 3h]
+heyy309: checks 
+mabeal1: checks 
+*** TURN *** [5s Js 3h] [9d]
+heyy309: checks 
+mabeal1: checks 
+*** RIVER *** [5s Js 3h 9d] [Ks]
+heyy309: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+heyy309: shows [4s 9c] (a pair of Nines)
+mabeal1: mucks hand 
+heyy309 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5s Js 3h 9d Ks]
+Seat 2: heyy309 (big blind) showed [4s 9c] and won (240) with a pair of Nines
+Seat 3: mabeal1 (button) (small blind) mucked [3c 4h]
+
+
+
+PokerStars Hand #259443852259: Tournament #3968729346, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 18:43:42 CET [2026/01/24 12:43:42 ET]
+Table '3968729346 1' 3-max Seat #2 is the button
+Seat 2: heyy309 (930 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+heyy309: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 8c]
+heyy309: calls 30
+mabeal1: raises 510 to 570 and is all-in
+heyy309: calls 510
+*** FLOP *** [Ts Th 9h]
+*** TURN *** [Ts Th 9h] [Qh]
+*** RIVER *** [Ts Th 9h Qh] [Js]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 8c] (a straight, Eight to Queen)
+heyy309: shows [Kh 9c] (a straight, Nine to King)
+heyy309 collected 1140 from pot
+mabeal1 finished the tournament in 2nd place
+heyy309 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [Ts Th 9h Qh Js]
+Seat 2: heyy309 (button) (small blind) showed [Kh 9c] and won (1140) with a straight, Nine to King
+Seat 3: mabeal1 (big blind) showed [Ah 8c] and lost with a straight, Eight to Queen
+
+
+

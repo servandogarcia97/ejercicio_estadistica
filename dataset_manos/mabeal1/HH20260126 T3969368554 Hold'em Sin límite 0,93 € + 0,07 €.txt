@@ -1,0 +1,338 @@
+﻿PokerStars Hand #259472888571: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:23:12 CET [2026/01/26 14:23:12 ET]
+Table '3969368554 1' 3-max Seat #1 is the button
+Seat 1: MJ Mitnick (500 in chips) 
+Seat 2: davc13 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+davc13: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 5s]
+MJ Mitnick: calls 20
+davc13: calls 10
+mabeal1: checks 
+*** FLOP *** [3h 2d 7s]
+davc13: bets 20
+mabeal1: folds 
+MJ Mitnick: folds 
+Uncalled bet (20) returned to davc13
+davc13 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h 2d 7s]
+Seat 1: MJ Mitnick (button) folded on the Flop
+Seat 2: davc13 (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259472892900: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:23:30 CET [2026/01/26 14:23:30 ET]
+Table '3969368554 1' 3-max Seat #2 is the button
+Seat 1: MJ Mitnick (480 in chips) 
+Seat 2: davc13 (540 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+MJ Mitnick: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Qs]
+davc13: calls 20
+mabeal1: calls 10
+MJ Mitnick: raises 40 to 60
+davc13: folds 
+mabeal1: calls 40
+*** FLOP *** [6h 5s 4h]
+mabeal1: checks 
+MJ Mitnick: bets 60
+mabeal1: calls 60
+*** TURN *** [6h 5s 4h] [8c]
+mabeal1: checks 
+MJ Mitnick: bets 130
+mabeal1: folds 
+Uncalled bet (130) returned to MJ Mitnick
+MJ Mitnick collected 260 from pot
+MJ Mitnick: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [6h 5s 4h 8c]
+Seat 1: MJ Mitnick (big blind) collected (260)
+Seat 2: davc13 (button) folded before Flop
+Seat 3: mabeal1 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259472901098: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:24:02 CET [2026/01/26 14:24:02 ET]
+Table '3969368554 1' 3-max Seat #3 is the button
+Seat 1: MJ Mitnick (620 in chips) 
+Seat 2: davc13 (520 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+MJ Mitnick: posts small blind 10
+davc13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 3h]
+mabeal1: folds 
+MJ Mitnick: calls 10
+davc13: checks 
+*** FLOP *** [4d 4h 4c]
+MJ Mitnick: checks 
+davc13: checks 
+*** TURN *** [4d 4h 4c] [2s]
+MJ Mitnick: checks 
+davc13: checks 
+*** RIVER *** [4d 4h 4c 2s] [3c]
+MJ Mitnick: checks 
+davc13: checks 
+*** SHOW DOWN ***
+MJ Mitnick: shows [7h Jc] (three of a kind, Fours)
+davc13: shows [Js 2c] (a full house, Fours full of Deuces)
+davc13 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4d 4h 4c 2s 3c]
+Seat 1: MJ Mitnick (small blind) showed [7h Jc] and lost with three of a kind, Fours
+Seat 2: davc13 (big blind) showed [Js 2c] and won (40) with a full house, Fours full of Deuces
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472908563: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:24:32 CET [2026/01/26 14:24:32 ET]
+Table '3969368554 1' 3-max Seat #1 is the button
+Seat 1: MJ Mitnick (600 in chips) 
+Seat 2: davc13 (540 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+davc13: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qd]
+MJ Mitnick: calls 20
+davc13: calls 10
+mabeal1: checks 
+*** FLOP *** [Th Ah Qs]
+davc13: bets 20
+mabeal1: calls 20
+MJ Mitnick: folds 
+*** TURN *** [Th Ah Qs] [Jd]
+davc13: checks 
+mabeal1: bets 40
+davc13: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Th Ah Qs Jd]
+Seat 1: MJ Mitnick (button) folded on the Flop
+Seat 2: davc13 (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (100)
+
+
+
+PokerStars Hand #259472915274: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:24:58 CET [2026/01/26 14:24:58 ET]
+Table '3969368554 1' 3-max Seat #2 is the button
+Seat 1: MJ Mitnick (580 in chips) 
+Seat 2: davc13 (500 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+mabeal1: posts small blind 10
+MJ Mitnick: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9h]
+davc13: calls 20
+mabeal1: calls 10
+MJ Mitnick: raises 40 to 60
+davc13: calls 40
+mabeal1: calls 40
+*** FLOP *** [3d 2c 6s]
+mabeal1: checks 
+MJ Mitnick: bets 90
+davc13: folds 
+mabeal1: calls 90
+*** TURN *** [3d 2c 6s] [7c]
+mabeal1: bets 270 and is all-in
+MJ Mitnick: folds 
+Uncalled bet (270) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [3d 2c 6s 7c]
+Seat 1: MJ Mitnick (big blind) folded on the Turn
+Seat 2: davc13 (button) folded on the Flop
+Seat 3: mabeal1 (small blind) collected (360)
+
+
+
+PokerStars Hand #259472922501: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:25:27 CET [2026/01/26 14:25:27 ET]
+Table '3969368554 1' 3-max Seat #3 is the button
+Seat 1: MJ Mitnick (430 in chips) 
+Seat 2: davc13 (440 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+MJ Mitnick: posts small blind 10
+davc13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6s]
+mabeal1: folds 
+MJ Mitnick: raises 40 to 60
+davc13: calls 40
+*** FLOP *** [5d Th 5s]
+MJ Mitnick: bets 20
+davc13: raises 360 to 380 and is all-in
+MJ Mitnick: calls 350 and is all-in
+Uncalled bet (10) returned to davc13
+*** TURN *** [5d Th 5s] [8d]
+*** RIVER *** [5d Th 5s 8d] [4d]
+*** SHOW DOWN ***
+MJ Mitnick: shows [6h 5c] (three of a kind, Fives)
+davc13: shows [Ts Jd] (two pair, Tens and Fives)
+MJ Mitnick collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [5d Th 5s 8d 4d]
+Seat 1: MJ Mitnick (small blind) showed [6h 5c] and won (860) with three of a kind, Fives
+Seat 2: davc13 (big blind) showed [Ts Jd] and lost with two pair, Tens and Fives
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472928018: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:25:49 CET [2026/01/26 14:25:49 ET]
+Table '3969368554 1' 3-max Seat #1 is the button
+Seat 1: MJ Mitnick (860 in chips) 
+Seat 2: davc13 (10 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+davc13: posts small blind 10 and is all-in
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2d]
+MJ Mitnick: calls 20
+mabeal1: checks 
+*** FLOP *** [6s 8d 6d]
+mabeal1: checks 
+MJ Mitnick: bets 20
+mabeal1: calls 20
+*** TURN *** [6s 8d 6d] [Th]
+mabeal1: checks 
+MJ Mitnick: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to MJ Mitnick
+*** RIVER *** [6s 8d 6d Th] [7d]
+*** SHOW DOWN ***
+MJ Mitnick: shows [Td 6c] (a full house, Sixes full of Tens)
+MJ Mitnick collected 60 from side pot
+davc13: shows [2h Qc] (a pair of Sixes)
+MJ Mitnick collected 30 from main pot
+davc13 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 90 Main pot 30. Side pot 60. | Rake 0 
+Board [6s 8d 6d Th 7d]
+Seat 1: MJ Mitnick (button) showed [Td 6c] and won (90) with a full house, Sixes full of Tens
+Seat 2: davc13 (small blind) showed [2h Qc] and lost with a pair of Sixes
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259472934315: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:26:15 CET [2026/01/26 14:26:15 ET]
+Table '3969368554 1' 3-max Seat #3 is the button
+Seat 1: MJ Mitnick (910 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+mabeal1: posts small blind 10
+MJ Mitnick: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 5s]
+mabeal1: calls 10
+MJ Mitnick: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to MJ Mitnick
+MJ Mitnick collected 40 from pot
+MJ Mitnick: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MJ Mitnick (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472937109: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:26:25 CET [2026/01/26 14:26:25 ET]
+Table '3969368554 1' 3-max Seat #1 is the button
+Seat 1: MJ Mitnick (930 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+MJ Mitnick: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 8s]
+MJ Mitnick: calls 15
+mabeal1: checks 
+*** FLOP *** [Th 7d 4h]
+mabeal1: checks 
+MJ Mitnick: bets 60
+mabeal1: calls 60
+*** TURN *** [Th 7d 4h] [Qc]
+mabeal1: checks 
+MJ Mitnick: bets 90
+mabeal1: calls 90
+*** RIVER *** [Th 7d 4h Qc] [5d]
+mabeal1: checks 
+MJ Mitnick: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Td 8s] (a pair of Tens)
+MJ Mitnick: mucks hand 
+mabeal1 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Th 7d 4h Qc 5d]
+Seat 1: MJ Mitnick (button) (small blind) mucked [6h Ts]
+Seat 3: mabeal1 (big blind) showed [Td 8s] and won (360) with a pair of Tens
+
+
+
+PokerStars Hand #259472941616: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:26:43 CET [2026/01/26 14:26:43 ET]
+Table '3969368554 1' 3-max Seat #3 is the button
+Seat 1: MJ Mitnick (750 in chips) 
+Seat 3: mabeal1 (750 in chips) 
+mabeal1: posts small blind 15
+MJ Mitnick: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Td]
+mabeal1: calls 15
+MJ Mitnick: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [3c 9h Jh]
+MJ Mitnick: checks 
+mabeal1: bets 60
+MJ Mitnick: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3c 9h Jh]
+Seat 1: MJ Mitnick (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #259472947982: Tournament #3969368554, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 20:27:09 CET [2026/01/26 14:27:09 ET]
+Table '3969368554 1' 3-max Seat #1 is the button
+Seat 1: MJ Mitnick (660 in chips) 
+Seat 3: mabeal1 (840 in chips) 
+MJ Mitnick: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Ts]
+MJ Mitnick: raises 60 to 90
+mabeal1: raises 750 to 840 and is all-in
+MJ Mitnick: calls 570 and is all-in
+Uncalled bet (180) returned to mabeal1
+*** FLOP *** [6h 9s 6c]
+*** TURN *** [6h 9s 6c] [Qd]
+*** RIVER *** [6h 9s 6c Qd] [Ah]
+*** SHOW DOWN ***
+mabeal1: shows [Ac Ts] (two pair, Aces and Sixes)
+MJ Mitnick: shows [Kc Jd] (a pair of Sixes)
+mabeal1 collected 1320 from pot
+MJ Mitnick finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [6h 9s 6c Qd Ah]
+Seat 1: MJ Mitnick (button) (small blind) showed [Kc Jd] and lost with a pair of Sixes
+Seat 3: mabeal1 (big blind) showed [Ac Ts] and won (1320) with two pair, Aces and Sixes
+
+
+

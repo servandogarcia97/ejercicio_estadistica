@@ -1,0 +1,269 @@
+﻿PokerStars Hand #259508440991: Tournament #3970181903, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:48:42 CET [2026/01/29 9:48:42 ET]
+Table '3970181903 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Zeguibzega (500 in chips) 
+Seat 3: badbeats7661 (500 in chips) 
+Zeguibzega: posts small blind 10
+badbeats7661: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Js]
+mabeal1: folds 
+Zeguibzega: folds 
+Uncalled bet (10) returned to badbeats7661
+badbeats7661 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Zeguibzega (small blind) folded before Flop
+Seat 3: badbeats7661 (big blind) collected (20)
+
+
+
+PokerStars Hand #259508442498: Tournament #3970181903, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:48:51 CET [2026/01/29 9:48:51 ET]
+Table '3970181903 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Zeguibzega (490 in chips) 
+Seat 3: badbeats7661 (510 in chips) 
+badbeats7661: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 2s]
+Zeguibzega: calls 20
+badbeats7661: calls 10
+mabeal1: checks 
+*** FLOP *** [5c Kh 8d]
+badbeats7661: checks 
+mabeal1: checks 
+Zeguibzega: checks 
+*** TURN *** [5c Kh 8d] [9h]
+badbeats7661: checks 
+mabeal1: bets 40
+Zeguibzega: folds 
+badbeats7661: calls 40
+*** RIVER *** [5c Kh 8d 9h] [7c]
+badbeats7661: checks 
+mabeal1: bets 70
+badbeats7661: folds 
+Uncalled bet (70) returned to mabeal1
+mabeal1 collected 140 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [5c Kh 8d 9h 7c]
+Seat 1: mabeal1 (big blind) collected (140)
+Seat 2: Zeguibzega (button) folded on the Turn
+Seat 3: badbeats7661 (small blind) folded on the River
+
+
+
+PokerStars Hand #259508448709: Tournament #3970181903, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:49:32 CET [2026/01/29 9:49:32 ET]
+Table '3970181903 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Zeguibzega (470 in chips) 
+Seat 3: badbeats7661 (450 in chips) 
+mabeal1: posts small blind 10
+Zeguibzega: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3h]
+badbeats7661: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Zeguibzega
+Zeguibzega collected 20 from pot
+Zeguibzega: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Zeguibzega (big blind) collected (20)
+Seat 3: badbeats7661 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259508450184: Tournament #3970181903, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:49:43 CET [2026/01/29 9:49:43 ET]
+Table '3970181903 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: Zeguibzega (480 in chips) 
+Seat 3: badbeats7661 (450 in chips) 
+Zeguibzega: posts small blind 10
+badbeats7661: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Kh]
+mabeal1: raises 20 to 40
+Zeguibzega: calls 30
+badbeats7661: folds 
+*** FLOP *** [Qs 2s 7d]
+Zeguibzega: checks 
+mabeal1: bets 40
+Zeguibzega: raises 180 to 220
+mabeal1: folds 
+Uncalled bet (180) returned to Zeguibzega
+Zeguibzega collected 180 from pot
+Zeguibzega: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qs 2s 7d]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: Zeguibzega (small blind) collected (180)
+Seat 3: badbeats7661 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259508453681: Tournament #3970181903, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:50:05 CET [2026/01/29 9:50:05 ET]
+Table '3970181903 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 2: Zeguibzega (580 in chips) 
+Seat 3: badbeats7661 (430 in chips) 
+badbeats7661: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 5h]
+Zeguibzega: calls 20
+badbeats7661: raises 60 to 80
+mabeal1: folds 
+Zeguibzega: calls 60
+*** FLOP *** [9s 2s 5d]
+badbeats7661: checks 
+Zeguibzega: checks 
+*** TURN *** [9s 2s 5d] [Jc]
+badbeats7661: bets 90
+Zeguibzega: folds 
+Uncalled bet (90) returned to badbeats7661
+badbeats7661 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9s 2s 5d Jc]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Zeguibzega (button) folded on the Turn
+Seat 3: badbeats7661 (small blind) collected (180)
+
+
+
+PokerStars Hand #259508457147: Tournament #3970181903, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:50:28 CET [2026/01/29 9:50:28 ET]
+Table '3970181903 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: Zeguibzega (500 in chips) 
+Seat 3: badbeats7661 (530 in chips) 
+mabeal1: posts small blind 10
+Zeguibzega: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 7d]
+badbeats7661: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Zeguibzega
+Zeguibzega collected 20 from pot
+Zeguibzega: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Zeguibzega (big blind) collected (20)
+Seat 3: badbeats7661 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259508457972: Tournament #3970181903, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:50:33 CET [2026/01/29 9:50:33 ET]
+Table '3970181903 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: Zeguibzega (510 in chips) 
+Seat 3: badbeats7661 (530 in chips) 
+Zeguibzega: posts small blind 10
+badbeats7661: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3s]
+mabeal1: folds 
+Zeguibzega: calls 10
+badbeats7661: raises 40 to 60
+Zeguibzega: calls 40
+*** FLOP *** [5s 8c Td]
+Zeguibzega: checks 
+badbeats7661: checks 
+*** TURN *** [5s 8c Td] [4h]
+Zeguibzega: checks 
+badbeats7661: checks 
+*** RIVER *** [5s 8c Td 4h] [8h]
+Zeguibzega: checks 
+badbeats7661: bets 60
+Zeguibzega: folds 
+Uncalled bet (60) returned to badbeats7661
+badbeats7661 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5s 8c Td 4h 8h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Zeguibzega (small blind) folded on the River
+Seat 3: badbeats7661 (big blind) collected (120)
+
+
+
+PokerStars Hand #259508462166: Tournament #3970181903, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:51:00 CET [2026/01/29 9:51:00 ET]
+Table '3970181903 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: Zeguibzega (450 in chips) 
+Seat 3: badbeats7661 (590 in chips) 
+badbeats7661: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 2d]
+Zeguibzega: folds 
+badbeats7661: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [4d 3s 9s]
+badbeats7661: bets 40
+mabeal1: calls 40
+*** TURN *** [4d 3s 9s] [Ah]
+badbeats7661: checks 
+mabeal1: bets 80
+badbeats7661: raises 80 to 160
+mabeal1: calls 80
+*** RIVER *** [4d 3s 9s Ah] [3d]
+badbeats7661: checks 
+mabeal1: bets 100
+badbeats7661: raises 100 to 200
+mabeal1: calls 100
+*** SHOW DOWN ***
+badbeats7661: shows [Ac 9h] (two pair, Aces and Nines)
+mabeal1: mucks hand 
+badbeats7661 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [4d 3s 9s Ah 3d]
+Seat 1: mabeal1 (big blind) mucked [Ad 2d]
+Seat 2: Zeguibzega (button) folded before Flop (didn't bet)
+Seat 3: badbeats7661 (small blind) showed [Ac 9h] and won (880) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #259508471073: Tournament #3970181903, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 15:51:58 CET [2026/01/29 9:51:58 ET]
+Table '3970181903 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (20 in chips) 
+Seat 2: Zeguibzega (450 in chips) 
+Seat 3: badbeats7661 (1030 in chips) 
+mabeal1: posts small blind 15
+Zeguibzega: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 6d]
+badbeats7661: calls 30
+mabeal1: calls 5 and is all-in
+Zeguibzega: raises 30 to 60
+badbeats7661: calls 30
+*** FLOP *** [7c Th 4d]
+Zeguibzega: bets 140
+badbeats7661: calls 140
+*** TURN *** [7c Th 4d] [6c]
+Zeguibzega: bets 250 and is all-in
+badbeats7661: calls 250
+*** RIVER *** [7c Th 4d 6c] [Js]
+*** SHOW DOWN ***
+Zeguibzega: shows [Jh Jd] (three of a kind, Jacks)
+badbeats7661: shows [2s Tc] (a pair of Tens)
+Zeguibzega collected 860 from side pot
+mabeal1: shows [4h 6d] (two pair, Sixes and Fours)
+Zeguibzega collected 60 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 920 Main pot 60. Side pot 860. | Rake 0 
+Board [7c Th 4d 6c Js]
+Seat 1: mabeal1 (small blind) showed [4h 6d] and lost with two pair, Sixes and Fours
+Seat 2: Zeguibzega (big blind) showed [Jh Jd] and won (920) with three of a kind, Jacks
+Seat 3: badbeats7661 (button) showed [2s Tc] and lost with a pair of Tens
+
+
+

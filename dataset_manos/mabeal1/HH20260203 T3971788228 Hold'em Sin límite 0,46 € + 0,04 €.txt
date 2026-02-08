@@ -1,0 +1,393 @@
+﻿PokerStars Hand #259579376189: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:11:28 CET [2026/02/03 14:11:28 ET]
+Table '3971788228 1' 3-max Seat #1 is the button
+Seat 1: LaggedTon (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Tonyarrive (500 in chips) 
+mabeal1: posts small blind 10
+Tonyarrive: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Qh]
+LaggedTon: raises 20 to 40
+mabeal1: folds 
+Tonyarrive: folds 
+Uncalled bet (20) returned to LaggedTon
+LaggedTon collected 50 from pot
+LaggedTon: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: LaggedTon (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Tonyarrive (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579379382: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:11:41 CET [2026/02/03 14:11:41 ET]
+Table '3971788228 1' 3-max Seat #2 is the button
+Seat 1: LaggedTon (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Tonyarrive (480 in chips) 
+Tonyarrive: posts small blind 10
+LaggedTon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 8c]
+mabeal1: folds 
+Tonyarrive: folds 
+Uncalled bet (10) returned to LaggedTon
+LaggedTon collected 20 from pot
+LaggedTon: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: LaggedTon (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Tonyarrive (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579381076: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:11:47 CET [2026/02/03 14:11:47 ET]
+Table '3971788228 1' 3-max Seat #3 is the button
+Seat 1: LaggedTon (540 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Tonyarrive (470 in chips) 
+LaggedTon: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Qc]
+Tonyarrive: calls 20
+LaggedTon: folds 
+mabeal1: checks 
+*** FLOP *** [6h 2s Kc]
+mabeal1: checks 
+Tonyarrive: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Tonyarrive
+Tonyarrive collected 50 from pot
+Tonyarrive: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [6h 2s Kc]
+Seat 1: LaggedTon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: Tonyarrive (button) collected (50)
+
+
+
+PokerStars Hand #259579389130: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:12:20 CET [2026/02/03 14:12:20 ET]
+Table '3971788228 1' 3-max Seat #1 is the button
+Seat 1: LaggedTon (530 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: Tonyarrive (500 in chips) 
+mabeal1: posts small blind 10
+Tonyarrive: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2d]
+LaggedTon: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Tonyarrive
+Tonyarrive collected 20 from pot
+Tonyarrive: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: LaggedTon (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Tonyarrive (big blind) collected (20)
+
+
+
+PokerStars Hand #259579391244: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:12:28 CET [2026/02/03 14:12:28 ET]
+Table '3971788228 1' 3-max Seat #2 is the button
+Seat 1: LaggedTon (530 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: Tonyarrive (510 in chips) 
+Tonyarrive: posts small blind 10
+LaggedTon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Kd]
+mabeal1: raises 20 to 40
+Tonyarrive: folds 
+LaggedTon: calls 20
+*** FLOP *** [8d 7s 3c]
+LaggedTon: checks 
+mabeal1: checks 
+*** TURN *** [8d 7s 3c] [As]
+LaggedTon: checks 
+mabeal1: bets 68
+LaggedTon: folds 
+Uncalled bet (68) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8d 7s 3c As]
+Seat 1: LaggedTon (big blind) folded on the Turn
+Seat 2: mabeal1 (button) collected (90)
+Seat 3: Tonyarrive (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579397072: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:12:52 CET [2026/02/03 14:12:52 ET]
+Table '3971788228 1' 3-max Seat #3 is the button
+Seat 1: LaggedTon (490 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: Tonyarrive (500 in chips) 
+LaggedTon: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ts]
+Tonyarrive: folds 
+LaggedTon: raises 40 to 60
+mabeal1: raises 450 to 510 and is all-in
+LaggedTon: folds 
+Uncalled bet (450) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: LaggedTon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: Tonyarrive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579400418: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:13:05 CET [2026/02/03 14:13:05 ET]
+Table '3971788228 1' 3-max Seat #1 is the button
+Seat 1: LaggedTon (430 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: Tonyarrive (500 in chips) 
+mabeal1: posts small blind 10
+Tonyarrive: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 9c]
+LaggedTon: folds 
+mabeal1: raises 30 to 50
+Tonyarrive: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: LaggedTon (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: Tonyarrive (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579402729: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:13:14 CET [2026/02/03 14:13:14 ET]
+Table '3971788228 1' 3-max Seat #2 is the button
+Seat 1: LaggedTon (430 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: Tonyarrive (480 in chips) 
+Tonyarrive: posts small blind 10
+LaggedTon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Td]
+mabeal1: raises 20 to 40
+Tonyarrive: calls 30
+LaggedTon: folds 
+*** FLOP *** [2h Ad Kc]
+Tonyarrive: checks 
+mabeal1: bets 40
+Tonyarrive: calls 40
+*** TURN *** [2h Ad Kc] [7c]
+Tonyarrive: checks 
+mabeal1: checks 
+*** RIVER *** [2h Ad Kc 7c] [5d]
+Tonyarrive: bets 100
+mabeal1: folds 
+Uncalled bet (100) returned to Tonyarrive
+Tonyarrive collected 180 from pot
+Tonyarrive: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2h Ad Kc 7c 5d]
+Seat 1: LaggedTon (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded on the River
+Seat 3: Tonyarrive (small blind) collected (180)
+
+
+
+PokerStars Hand #259579419994: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:14:23 CET [2026/02/03 14:14:23 ET]
+Table '3971788228 1' 3-max Seat #3 is the button
+Seat 1: LaggedTon (410 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: Tonyarrive (580 in chips) 
+LaggedTon: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ad]
+Tonyarrive: calls 30
+LaggedTon: raises 90 to 120
+mabeal1: raises 390 to 510 and is all-in
+Tonyarrive: folds 
+LaggedTon: calls 290 and is all-in
+Uncalled bet (100) returned to mabeal1
+*** FLOP *** [6h Qs 3s]
+*** TURN *** [6h Qs 3s] [8d]
+*** RIVER *** [6h Qs 3s 8d] [2h]
+*** SHOW DOWN ***
+LaggedTon: shows [Jd Jh] (a pair of Jacks)
+mabeal1: shows [9h Ad] (high card Ace)
+LaggedTon collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [6h Qs 3s 8d 2h]
+Seat 1: LaggedTon (small blind) showed [Jd Jh] and won (850) with a pair of Jacks
+Seat 2: mabeal1 (big blind) showed [9h Ad] and lost with high card Ace
+Seat 3: Tonyarrive (button) folded before Flop
+
+
+
+PokerStars Hand #259579425456: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:14:44 CET [2026/02/03 14:14:44 ET]
+Table '3971788228 1' 3-max Seat #1 is the button
+Seat 1: LaggedTon (850 in chips) 
+Seat 2: mabeal1 (100 in chips) 
+Seat 3: Tonyarrive (550 in chips) 
+mabeal1: posts small blind 15
+Tonyarrive: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5s]
+LaggedTon: folds 
+mabeal1: raises 70 to 100 and is all-in
+Tonyarrive: folds 
+Uncalled bet (70) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: LaggedTon (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Tonyarrive (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579427996: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:14:55 CET [2026/02/03 14:14:55 ET]
+Table '3971788228 1' 3-max Seat #2 is the button
+Seat 1: LaggedTon (850 in chips) 
+Seat 2: mabeal1 (130 in chips) 
+Seat 3: Tonyarrive (520 in chips) 
+Tonyarrive: posts small blind 15
+LaggedTon: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 8h]
+mabeal1: raises 100 to 130 and is all-in
+Tonyarrive: folds 
+LaggedTon: folds 
+Uncalled bet (100) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: LaggedTon (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (75)
+Seat 3: Tonyarrive (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579430201: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:15:03 CET [2026/02/03 14:15:03 ET]
+Table '3971788228 1' 3-max Seat #3 is the button
+Seat 1: LaggedTon (820 in chips) 
+Seat 2: mabeal1 (175 in chips) 
+Seat 3: Tonyarrive (505 in chips) 
+LaggedTon: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 6h]
+Tonyarrive: folds 
+LaggedTon: raises 790 to 820 and is all-in
+mabeal1: folds 
+Uncalled bet (790) returned to LaggedTon
+LaggedTon collected 60 from pot
+LaggedTon: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: LaggedTon (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Tonyarrive (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579432201: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:15:11 CET [2026/02/03 14:15:11 ET]
+Table '3971788228 1' 3-max Seat #1 is the button
+Seat 1: LaggedTon (850 in chips) 
+Seat 2: mabeal1 (145 in chips) 
+Seat 3: Tonyarrive (505 in chips) 
+mabeal1: posts small blind 15
+Tonyarrive: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8c]
+LaggedTon: raises 30 to 60
+mabeal1: folds 
+Tonyarrive: calls 30
+*** FLOP *** [Jc 9c 4h]
+Tonyarrive: checks 
+LaggedTon: checks 
+*** TURN *** [Jc 9c 4h] [Qd]
+Tonyarrive: checks 
+LaggedTon: bets 41
+Tonyarrive: folds 
+Uncalled bet (41) returned to LaggedTon
+LaggedTon collected 135 from pot
+LaggedTon: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Jc 9c 4h Qd]
+Seat 1: LaggedTon (button) collected (135)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Tonyarrive (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259579440202: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:15:43 CET [2026/02/03 14:15:43 ET]
+Table '3971788228 1' 3-max Seat #2 is the button
+Seat 1: LaggedTon (925 in chips) 
+Seat 2: mabeal1 (130 in chips) 
+Seat 3: Tonyarrive (445 in chips) 
+Tonyarrive: posts small blind 20
+LaggedTon: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 3s]
+mabeal1: folds 
+Tonyarrive: folds 
+Uncalled bet (20) returned to LaggedTon
+LaggedTon collected 40 from pot
+LaggedTon: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: LaggedTon (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Tonyarrive (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579441906: Tournament #3971788228, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:15:49 CET [2026/02/03 14:15:49 ET]
+Table '3971788228 1' 3-max Seat #3 is the button
+Seat 1: LaggedTon (945 in chips) 
+Seat 2: mabeal1 (130 in chips) 
+Seat 3: Tonyarrive (425 in chips) 
+LaggedTon: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Js]
+Tonyarrive: raises 40 to 80
+LaggedTon: folds 
+mabeal1: calls 40
+*** FLOP *** [5h 2d 5c]
+mabeal1: checks 
+Tonyarrive: bets 80
+mabeal1: calls 50 and is all-in
+Uncalled bet (30) returned to Tonyarrive
+*** TURN *** [5h 2d 5c] [2s]
+*** RIVER *** [5h 2d 5c 2s] [Kd]
+*** SHOW DOWN ***
+mabeal1: shows [8d Js] (two pair, Fives and Deuces)
+Tonyarrive: shows [Kc 9c] (two pair, Kings and Fives)
+Tonyarrive collected 280 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [5h 2d 5c 2s Kd]
+Seat 1: LaggedTon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [8d Js] and lost with two pair, Fives and Deuces
+Seat 3: Tonyarrive (button) showed [Kc 9c] and won (280) with two pair, Kings and Fives
+
+
+

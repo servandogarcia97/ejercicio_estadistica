@@ -1,0 +1,476 @@
+﻿PokerStars Hand #259431071743: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:05:37 CET [2026/01/23 14:05:37 ET]
+Table '3968432324 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: jovenarrio (500 in chips) 
+Seat 3: Ouailleme (500 in chips) 
+jovenarrio: posts small blind 10
+Ouailleme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Qh]
+mabeal1: raises 20 to 40
+jovenarrio: raises 20 to 60
+Ouailleme: calls 40
+mabeal1: calls 20
+*** FLOP *** [6d Jd 3h]
+jovenarrio: bets 180
+Ouailleme: folds 
+mabeal1: folds 
+Uncalled bet (180) returned to jovenarrio
+jovenarrio collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6d Jd 3h]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: jovenarrio (small blind) collected (180)
+Seat 3: Ouailleme (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259431075762: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:05:54 CET [2026/01/23 14:05:54 ET]
+Table '3968432324 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: jovenarrio (620 in chips) 
+Seat 3: Ouailleme (440 in chips) 
+Ouailleme: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8s]
+jovenarrio: raises 600 to 620 and is all-in
+Ouailleme: folds 
+mabeal1: folds 
+Uncalled bet (600) returned to jovenarrio
+jovenarrio collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: jovenarrio (button) collected (50)
+Seat 3: Ouailleme (small blind) folded before Flop
+
+
+
+PokerStars Hand #259431078115: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:06:05 CET [2026/01/23 14:06:05 ET]
+Table '3968432324 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: jovenarrio (650 in chips) 
+Seat 3: Ouailleme (430 in chips) 
+mabeal1: posts small blind 10
+jovenarrio: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 5d]
+Ouailleme: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to jovenarrio
+jovenarrio collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: jovenarrio (big blind) collected (20)
+Seat 3: Ouailleme (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259431079544: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:06:11 CET [2026/01/23 14:06:11 ET]
+Table '3968432324 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: jovenarrio (660 in chips) 
+Seat 3: Ouailleme (430 in chips) 
+jovenarrio: posts small blind 10
+Ouailleme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 7d]
+mabeal1: folds 
+jovenarrio: raises 40 to 60
+Ouailleme: calls 40
+*** FLOP *** [7h 8s 6d]
+jovenarrio: bets 120
+Ouailleme: calls 120
+*** TURN *** [7h 8s 6d] [Js]
+jovenarrio: bets 480 and is all-in
+Ouailleme: calls 250 and is all-in
+Uncalled bet (230) returned to jovenarrio
+*** RIVER *** [7h 8s 6d Js] [7c]
+*** SHOW DOWN ***
+jovenarrio: shows [As 5d] (a pair of Sevens)
+Ouailleme: shows [4c 8h] (two pair, Eights and Sevens)
+Ouailleme collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [7h 8s 6d Js 7c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: jovenarrio (small blind) showed [As 5d] and lost with a pair of Sevens
+Seat 3: Ouailleme (big blind) showed [4c 8h] and won (860) with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #259431084442: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:06:32 CET [2026/01/23 14:06:32 ET]
+Table '3968432324 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: jovenarrio (230 in chips) 
+Seat 3: Ouailleme (860 in chips) 
+Ouailleme: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qs]
+jovenarrio: raises 210 to 230 and is all-in
+Ouailleme: calls 220
+mabeal1: folds 
+*** FLOP *** [2s 3h 7d]
+*** TURN *** [2s 3h 7d] [5d]
+*** RIVER *** [2s 3h 7d 5d] [2d]
+*** SHOW DOWN ***
+Ouailleme: shows [4h 2h] (three of a kind, Deuces)
+jovenarrio: shows [Ad Kd] (a flush, Ace high)
+jovenarrio collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2s 3h 7d 5d 2d]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: jovenarrio (button) showed [Ad Kd] and won (480) with a flush, Ace high
+Seat 3: Ouailleme (small blind) showed [4h 2h] and lost with three of a kind, Deuces
+
+
+
+PokerStars Hand #259431088787: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:06:51 CET [2026/01/23 14:06:51 ET]
+Table '3968432324 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (390 in chips) 
+Seat 2: jovenarrio (480 in chips) 
+Seat 3: Ouailleme (630 in chips) 
+mabeal1: posts small blind 10
+jovenarrio: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 6s]
+Ouailleme: raises 100 to 120
+mabeal1: folds 
+jovenarrio: folds 
+Uncalled bet (100) returned to Ouailleme
+Ouailleme collected 50 from pot
+Ouailleme: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: jovenarrio (big blind) folded before Flop
+Seat 3: Ouailleme (button) collected (50)
+
+
+
+PokerStars Hand #259431091930: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:07:04 CET [2026/01/23 14:07:04 ET]
+Table '3968432324 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: jovenarrio (460 in chips) 
+Seat 3: Ouailleme (660 in chips) 
+jovenarrio: posts small blind 10
+Ouailleme: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 7s]
+mabeal1: folds 
+jovenarrio: folds 
+Uncalled bet (10) returned to Ouailleme
+Ouailleme collected 20 from pot
+Ouailleme: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: jovenarrio (small blind) folded before Flop
+Seat 3: Ouailleme (big blind) collected (20)
+
+
+
+PokerStars Hand #259431093584: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:07:11 CET [2026/01/23 14:07:11 ET]
+Table '3968432324 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: jovenarrio (450 in chips) 
+Seat 3: Ouailleme (670 in chips) 
+Ouailleme: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 6d]
+jovenarrio: calls 20
+Ouailleme: calls 10
+mabeal1: checks 
+*** FLOP *** [4c Th 2s]
+Ouailleme: bets 100
+mabeal1: folds 
+jovenarrio: raises 260 to 360
+Ouailleme: calls 260
+*** TURN *** [4c Th 2s] [5h]
+Ouailleme: checks 
+jovenarrio: bets 70 and is all-in
+Ouailleme: calls 70
+*** RIVER *** [4c Th 2s 5h] [3d]
+*** SHOW DOWN ***
+Ouailleme: shows [4h Ad] (a straight, Ace to Five)
+jovenarrio: shows [5d Td] (two pair, Tens and Fives)
+Ouailleme collected 920 from pot
+jovenarrio finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [4c Th 2s 5h 3d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: jovenarrio (button) showed [5d Td] and lost with two pair, Tens and Fives
+Seat 3: Ouailleme (small blind) showed [4h Ad] and won (920) with a straight, Ace to Five
+
+
+
+PokerStars Hand #259431101195: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:07:45 CET [2026/01/23 14:07:45 ET]
+Table '3968432324 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (360 in chips) 
+Seat 3: Ouailleme (1140 in chips) 
+mabeal1: posts small blind 15
+Ouailleme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 6c]
+mabeal1: calls 15
+Ouailleme: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Ouailleme
+Ouailleme collected 60 from pot
+Ouailleme: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Ouailleme (big blind) collected (60)
+
+
+
+PokerStars Hand #259431104782: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:08:00 CET [2026/01/23 14:08:00 ET]
+Table '3968432324 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (330 in chips) 
+Seat 3: Ouailleme (1170 in chips) 
+Ouailleme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 4s]
+Ouailleme: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to Ouailleme
+Ouailleme collected 60 from pot
+Ouailleme: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: Ouailleme (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259431106477: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:08:08 CET [2026/01/23 14:08:08 ET]
+Table '3968432324 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (300 in chips) 
+Seat 3: Ouailleme (1200 in chips) 
+mabeal1: posts small blind 15
+Ouailleme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 9s]
+mabeal1: calls 15
+Ouailleme: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to Ouailleme
+Ouailleme collected 60 from pot
+Ouailleme: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Ouailleme (big blind) collected (60)
+
+
+
+PokerStars Hand #259431108889: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:08:18 CET [2026/01/23 14:08:18 ET]
+Table '3968432324 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (270 in chips) 
+Seat 3: Ouailleme (1230 in chips) 
+Ouailleme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Qs]
+Ouailleme: calls 15
+mabeal1: raises 240 to 270 and is all-in
+Ouailleme: folds 
+Uncalled bet (240) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: Ouailleme (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259431111174: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:08:28 CET [2026/01/23 14:08:28 ET]
+Table '3968432324 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (300 in chips) 
+Seat 3: Ouailleme (1200 in chips) 
+mabeal1: posts small blind 15
+Ouailleme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8d]
+mabeal1: raises 270 to 300 and is all-in
+Ouailleme: folds 
+Uncalled bet (270) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: Ouailleme (big blind) folded before Flop
+
+
+
+PokerStars Hand #259431113683: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:08:39 CET [2026/01/23 14:08:39 ET]
+Table '3968432324 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (330 in chips) 
+Seat 3: Ouailleme (1170 in chips) 
+Ouailleme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 4s]
+Ouailleme: calls 15
+mabeal1: checks 
+*** FLOP *** [Ah 5h Kd]
+mabeal1: checks 
+Ouailleme: bets 300
+mabeal1: folds 
+Uncalled bet (300) returned to Ouailleme
+Ouailleme collected 60 from pot
+Ouailleme: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ah 5h Kd]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: Ouailleme (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259431118505: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:09:00 CET [2026/01/23 14:09:00 ET]
+Table '3968432324 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (300 in chips) 
+Seat 3: Ouailleme (1200 in chips) 
+mabeal1: posts small blind 15
+Ouailleme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Js]
+mabeal1: calls 15
+Ouailleme: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to Ouailleme
+Ouailleme collected 60 from pot
+Ouailleme: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Ouailleme (big blind) collected (60)
+
+
+
+PokerStars Hand #259431122436: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:09:17 CET [2026/01/23 14:09:17 ET]
+Table '3968432324 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (270 in chips) 
+Seat 3: Ouailleme (1230 in chips) 
+Ouailleme: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 6d]
+Ouailleme: calls 15
+mabeal1: checks 
+*** FLOP *** [Td 5s 7s]
+mabeal1: checks 
+Ouailleme: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to Ouailleme
+Ouailleme collected 60 from pot
+Ouailleme: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Td 5s 7s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: Ouailleme (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259431126295: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:09:33 CET [2026/01/23 14:09:33 ET]
+Table '3968432324 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (240 in chips) 
+Seat 3: Ouailleme (1260 in chips) 
+mabeal1: posts small blind 15
+Ouailleme: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ts]
+mabeal1: raises 210 to 240 and is all-in
+Ouailleme: folds 
+Uncalled bet (210) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: Ouailleme (big blind) folded before Flop
+
+
+
+PokerStars Hand #259431128718: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 20:09:44 CET [2026/01/23 14:09:44 ET]
+Table '3968432324 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (270 in chips) 
+Seat 3: Ouailleme (1230 in chips) 
+Ouailleme: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 8h]
+Ouailleme: calls 20
+mabeal1: raises 230 to 270 and is all-in
+Ouailleme: folds 
+Uncalled bet (230) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: Ouailleme (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259431130497: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 20:09:52 CET [2026/01/23 14:09:52 ET]
+Table '3968432324 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (310 in chips) 
+Seat 3: Ouailleme (1190 in chips) 
+mabeal1: posts small blind 20
+Ouailleme: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9s]
+mabeal1: raises 270 to 310 and is all-in
+Ouailleme: folds 
+Uncalled bet (270) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: Ouailleme (big blind) folded before Flop
+
+
+
+PokerStars Hand #259431131777: Tournament #3968432324, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 20:09:57 CET [2026/01/23 14:09:57 ET]
+Table '3968432324 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (350 in chips) 
+Seat 3: Ouailleme (1150 in chips) 
+Ouailleme: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Kh]
+Ouailleme: raises 120 to 160
+mabeal1: raises 190 to 350 and is all-in
+Ouailleme: calls 190
+*** FLOP *** [4c 4d Kd]
+*** TURN *** [4c 4d Kd] [Tc]
+*** RIVER *** [4c 4d Kd Tc] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [9s Kh] (two pair, Kings and Fours)
+Ouailleme: shows [Qs 4h] (three of a kind, Fours)
+Ouailleme collected 700 from pot
+mabeal1 finished the tournament in 2nd place
+Ouailleme wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [4c 4d Kd Tc 6h]
+Seat 1: mabeal1 (big blind) showed [9s Kh] and lost with two pair, Kings and Fours
+Seat 3: Ouailleme (button) (small blind) showed [Qs 4h] and won (700) with three of a kind, Fours
+
+
+

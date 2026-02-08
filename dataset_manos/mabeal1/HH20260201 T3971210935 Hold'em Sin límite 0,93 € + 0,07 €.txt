@@ -1,0 +1,102 @@
+﻿PokerStars Hand #259553510377: Tournament #3971210935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:22:46 CET [2026/02/01 15:22:46 ET]
+Table '3971210935 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: yaeleli26 (500 in chips) 
+Seat 3: vit54910 (500 in chips) 
+yaeleli26: posts small blind 10
+vit54910: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6d]
+mabeal1: folds 
+yaeleli26: calls 10
+vit54910: checks 
+*** FLOP *** [Ad Ts Qh]
+yaeleli26: checks 
+vit54910: checks 
+*** TURN *** [Ad Ts Qh] [7d]
+yaeleli26: checks 
+vit54910: checks 
+*** RIVER *** [Ad Ts Qh 7d] [6s]
+yaeleli26: checks 
+vit54910: checks 
+*** SHOW DOWN ***
+yaeleli26: shows [5d Kd] (high card Ace)
+vit54910: mucks hand 
+yaeleli26 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ad Ts Qh 7d 6s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: yaeleli26 (small blind) showed [5d Kd] and won (40) with high card Ace
+Seat 3: vit54910 (big blind) mucked [2d 5h]
+
+
+
+PokerStars Hand #259553516535: Tournament #3971210935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:23:07 CET [2026/02/01 15:23:07 ET]
+Table '3971210935 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: yaeleli26 (520 in chips) 
+Seat 3: vit54910 (480 in chips) 
+vit54910: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 9h]
+yaeleli26: folds 
+vit54910: raises 20 to 40
+mabeal1: raises 460 to 500 and is all-in
+vit54910: calls 440 and is all-in
+Uncalled bet (20) returned to mabeal1
+*** FLOP *** [Ts Kh 6h]
+*** TURN *** [Ts Kh 6h] [8c]
+*** RIVER *** [Ts Kh 6h 8c] [Kd]
+*** SHOW DOWN ***
+vit54910: shows [Ks 8d] (a full house, Kings full of Eights)
+mabeal1: shows [Ah 9h] (a pair of Kings)
+vit54910 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Ts Kh 6h 8c Kd]
+Seat 1: mabeal1 (big blind) showed [Ah 9h] and lost with a pair of Kings
+Seat 2: yaeleli26 (button) folded before Flop (didn't bet)
+Seat 3: vit54910 (small blind) showed [Ks 8d] and won (960) with a full house, Kings full of Eights
+
+
+
+PokerStars Hand #259553522907: Tournament #3971210935, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:23:27 CET [2026/02/01 15:23:27 ET]
+Table '3971210935 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (20 in chips) 
+Seat 2: yaeleli26 (520 in chips) 
+Seat 3: vit54910 (960 in chips) 
+mabeal1: posts small blind 10
+yaeleli26: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Th]
+vit54910: calls 20
+mabeal1: calls 10 and is all-in
+yaeleli26: checks 
+*** FLOP *** [Ts 4h 3d]
+yaeleli26: checks 
+vit54910: bets 30
+yaeleli26: calls 30
+*** TURN *** [Ts 4h 3d] [Qc]
+yaeleli26: checks 
+vit54910: checks 
+*** RIVER *** [Ts 4h 3d Qc] [6d]
+yaeleli26: bets 120
+vit54910: calls 120
+*** SHOW DOWN ***
+yaeleli26: shows [4d 6h] (two pair, Sixes and Fours)
+vit54910: mucks hand 
+yaeleli26 collected 300 from side pot
+mabeal1: mucks hand 
+yaeleli26 collected 60 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 360 Main pot 60. Side pot 300. | Rake 0 
+Board [Ts 4h 3d Qc 6d]
+Seat 1: mabeal1 (small blind) mucked [Ks Th]
+Seat 2: yaeleli26 (big blind) showed [4d 6h] and won (360) with two pair, Sixes and Fours
+Seat 3: vit54910 (button) mucked [Ah Tc]
+
+
+

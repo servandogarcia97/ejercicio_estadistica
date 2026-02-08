@@ -1,0 +1,53 @@
+﻿PokerStars Hand #259564131573: Tournament #3971454486, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:34:28 CET [2026/02/02 12:34:28 ET]
+Table '3971454486 1' 3-max Seat #1 is the button
+Seat 1: jtbeatz (500 in chips) 
+Seat 2: LadrilloRaspado (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+LadrilloRaspado: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 5d]
+jtbeatz: raises 40 to 60
+LadrilloRaspado: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to jtbeatz
+jtbeatz collected 50 from pot
+jtbeatz: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: jtbeatz (button) collected (50)
+Seat 2: LadrilloRaspado (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259564133444: Tournament #3971454486, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:34:37 CET [2026/02/02 12:34:37 ET]
+Table '3971454486 1' 3-max Seat #2 is the button
+Seat 1: jtbeatz (530 in chips) 
+Seat 2: LadrilloRaspado (490 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+jtbeatz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qd]
+LadrilloRaspado: raises 470 to 490 and is all-in
+mabeal1: calls 470 and is all-in
+jtbeatz: folds 
+Uncalled bet (10) returned to LadrilloRaspado
+*** FLOP *** [4s 4h 2h]
+*** TURN *** [4s 4h 2h] [6c]
+*** RIVER *** [4s 4h 2h 6c] [5s]
+*** SHOW DOWN ***
+mabeal1: shows [Ac Qd] (a pair of Fours)
+LadrilloRaspado: shows [3d 3c] (a straight, Deuce to Six)
+LadrilloRaspado collected 980 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [4s 4h 2h 6c 5s]
+Seat 1: jtbeatz (big blind) folded before Flop
+Seat 2: LadrilloRaspado (button) showed [3d 3c] and won (980) with a straight, Deuce to Six
+Seat 3: mabeal1 (small blind) showed [Ac Qd] and lost with a pair of Fours
+
+
+

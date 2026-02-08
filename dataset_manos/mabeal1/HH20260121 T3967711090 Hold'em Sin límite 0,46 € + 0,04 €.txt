@@ -1,0 +1,346 @@
+﻿PokerStars Hand #259401334437: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:22:54 CET [2026/01/21 7:22:54 ET]
+Table '3967711090 1' 3-max Seat #1 is the button
+Seat 1: jfn1971 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: borjakasty (500 in chips) 
+mabeal1: posts small blind 10
+borjakasty: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 2d]
+jfn1971: calls 20
+mabeal1: folds 
+borjakasty: checks 
+*** FLOP *** [Tc 5c 7c]
+borjakasty: checks 
+jfn1971: checks 
+*** TURN *** [Tc 5c 7c] [6c]
+borjakasty: bets 20
+jfn1971: raises 20 to 40
+borjakasty: calls 20
+*** RIVER *** [Tc 5c 7c 6c] [7d]
+borjakasty: checks 
+jfn1971: bets 20
+borjakasty: calls 20
+*** SHOW DOWN ***
+jfn1971: shows [3h 8c] (a flush, Ten high)
+borjakasty: mucks hand 
+jfn1971 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Tc 5c 7c 6c 7d]
+Seat 1: jfn1971 (button) showed [3h 8c] and won (170) with a flush, Ten high
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: borjakasty (big blind) mucked [8d Kh]
+
+
+
+PokerStars Hand #259401336889: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:23:16 CET [2026/01/21 7:23:16 ET]
+Table '3967711090 1' 3-max Seat #2 is the button
+Seat 1: jfn1971 (590 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: borjakasty (420 in chips) 
+borjakasty: posts small blind 10
+jfn1971: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qc]
+mabeal1: folds 
+borjakasty: calls 10
+jfn1971: raises 20 to 40
+borjakasty: calls 20
+*** FLOP *** [Qh 6s 3h]
+borjakasty: checks 
+jfn1971: checks 
+*** TURN *** [Qh 6s 3h] [7c]
+borjakasty: checks 
+jfn1971: checks 
+*** RIVER *** [Qh 6s 3h 7c] [6c]
+borjakasty: checks 
+jfn1971: checks 
+*** SHOW DOWN ***
+borjakasty: shows [Kd 2s] (a pair of Sixes)
+jfn1971: shows [5c As] (a pair of Sixes - Ace kicker)
+jfn1971 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh 6s 3h 7c 6c]
+Seat 1: jfn1971 (big blind) showed [5c As] and won (80) with a pair of Sixes
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: borjakasty (small blind) showed [Kd 2s] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259401340225: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:23:46 CET [2026/01/21 7:23:46 ET]
+Table '3967711090 1' 3-max Seat #3 is the button
+Seat 1: jfn1971 (630 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: borjakasty (380 in chips) 
+jfn1971: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4s]
+borjakasty: calls 20
+jfn1971: calls 10
+mabeal1: checks 
+*** FLOP *** [9d 5s Qd]
+jfn1971: bets 20
+mabeal1: folds 
+borjakasty: raises 20 to 40
+jfn1971: calls 20
+*** TURN *** [9d 5s Qd] [6s]
+jfn1971: bets 40
+borjakasty: raises 220 to 260
+jfn1971: calls 220
+*** RIVER *** [9d 5s Qd 6s] [2s]
+jfn1971: bets 20
+borjakasty: raises 40 to 60 and is all-in
+jfn1971: calls 40
+*** SHOW DOWN ***
+borjakasty: shows [As Ad] (a pair of Aces)
+jfn1971: shows [9h 6c] (two pair, Nines and Sixes)
+jfn1971 collected 780 from pot
+borjakasty finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [9d 5s Qd 6s 2s]
+Seat 1: jfn1971 (small blind) showed [9h 6c] and won (780) with two pair, Nines and Sixes
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: borjakasty (button) showed [As Ad] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259401344162: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:24:21 CET [2026/01/21 7:24:21 ET]
+Table '3967711090 1' 3-max Seat #2 is the button
+Seat 1: jfn1971 (1030 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+mabeal1: posts small blind 10
+jfn1971: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Kd]
+mabeal1: calls 10
+jfn1971: checks 
+*** FLOP *** [Ts 8c 5s]
+jfn1971: bets 20
+mabeal1: raises 40 to 60
+jfn1971: calls 40
+*** TURN *** [Ts 8c 5s] [9c]
+jfn1971: checks 
+mabeal1: bets 120
+jfn1971: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ts 8c 5s 9c]
+Seat 1: jfn1971 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259401348378: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:24:59 CET [2026/01/21 7:24:59 ET]
+Table '3967711090 1' 3-max Seat #1 is the button
+Seat 1: jfn1971 (950 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+jfn1971: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Kc]
+jfn1971: calls 10
+mabeal1: checks 
+*** FLOP *** [Jd Qh Kd]
+mabeal1: bets 20
+jfn1971: calls 20
+*** TURN *** [Jd Qh Kd] [3d]
+mabeal1: bets 60
+jfn1971: calls 60
+*** RIVER *** [Jd Qh Kd 3d] [5c]
+mabeal1: bets 150
+jfn1971: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Jd Qh Kd 3d 5c]
+Seat 1: jfn1971 (button) (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (200)
+
+
+
+PokerStars Hand #259401352412: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:25:35 CET [2026/01/21 7:25:35 ET]
+Table '3967711090 1' 3-max Seat #2 is the button
+Seat 1: jfn1971 (850 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+mabeal1: posts small blind 10
+jfn1971: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Ac]
+mabeal1: raises 40 to 60
+jfn1971: calls 40
+*** FLOP *** [5s 6d 3c]
+jfn1971: bets 20
+mabeal1: calls 20
+*** TURN *** [5s 6d 3c] [9s]
+jfn1971: bets 20
+mabeal1: calls 20
+*** RIVER *** [5s 6d 3c 9s] [8d]
+jfn1971: bets 20
+mabeal1: calls 20
+*** SHOW DOWN ***
+jfn1971: shows [6c 2c] (a pair of Sixes)
+mabeal1: mucks hand 
+jfn1971 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5s 6d 3c 9s 8d]
+Seat 1: jfn1971 (big blind) showed [6c 2c] and won (240) with a pair of Sixes
+Seat 2: mabeal1 (button) (small blind) mucked [Tc Ac]
+
+
+
+PokerStars Hand #259401356834: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:26:15 CET [2026/01/21 7:26:15 ET]
+Table '3967711090 1' 3-max Seat #1 is the button
+Seat 1: jfn1971 (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+jfn1971: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 6h]
+jfn1971: calls 15
+mabeal1: checks 
+*** FLOP *** [Kd 4c 6c]
+mabeal1: checks 
+jfn1971: checks 
+*** TURN *** [Kd 4c 6c] [2d]
+mabeal1: checks 
+jfn1971: checks 
+*** RIVER *** [Kd 4c 6c 2d] [4d]
+mabeal1: bets 30
+jfn1971: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 4c 6c 2d 4d]
+Seat 1: jfn1971 (button) (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259401358978: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:26:34 CET [2026/01/21 7:26:34 ET]
+Table '3967711090 1' 3-max Seat #2 is the button
+Seat 1: jfn1971 (940 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+mabeal1: posts small blind 15
+jfn1971: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ts]
+mabeal1: raises 60 to 90
+jfn1971: calls 60
+*** FLOP *** [Qh 9d 4d]
+jfn1971: bets 30
+mabeal1: calls 30
+*** TURN *** [Qh 9d 4d] [8s]
+jfn1971: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to jfn1971
+jfn1971 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qh 9d 4d 8s]
+Seat 1: jfn1971 (big blind) collected (240)
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259401361511: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:26:56 CET [2026/01/21 7:26:56 ET]
+Table '3967711090 1' 3-max Seat #1 is the button
+Seat 1: jfn1971 (1060 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+jfn1971: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ac]
+jfn1971: calls 15
+mabeal1: raises 410 to 440 and is all-in
+jfn1971: folds 
+Uncalled bet (410) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: jfn1971 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259401362536: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:27:04 CET [2026/01/21 7:27:04 ET]
+Table '3967711090 1' 3-max Seat #2 is the button
+Seat 1: jfn1971 (1030 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+mabeal1: posts small blind 15
+jfn1971: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Qc]
+mabeal1: folds 
+Uncalled bet (15) returned to jfn1971
+jfn1971 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: jfn1971 (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259401365094: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:27:26 CET [2026/01/21 7:27:26 ET]
+Table '3967711090 1' 3-max Seat #1 is the button
+Seat 1: jfn1971 (1045 in chips) 
+Seat 2: mabeal1 (455 in chips) 
+jfn1971: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Qs]
+jfn1971: calls 15
+mabeal1: checks 
+*** FLOP *** [Kd Kc 7d]
+mabeal1: checks 
+jfn1971: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to jfn1971
+jfn1971 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd Kc 7d]
+Seat 1: jfn1971 (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259401367211: Tournament #3967711090, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:27:45 CET [2026/01/21 7:27:45 ET]
+Table '3967711090 1' 3-max Seat #2 is the button
+Seat 1: jfn1971 (1075 in chips) 
+Seat 2: mabeal1 (425 in chips) 
+mabeal1: posts small blind 15
+jfn1971: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4s]
+mabeal1: raises 395 to 425 and is all-in
+jfn1971: calls 395
+*** FLOP *** [5h 8h Kc]
+*** TURN *** [5h 8h Kc] [5c]
+*** RIVER *** [5h 8h Kc 5c] [3s]
+*** SHOW DOWN ***
+jfn1971: shows [Ah 3c] (two pair, Fives and Threes)
+mabeal1: shows [As 4s] (a pair of Fives)
+jfn1971 collected 850 from pot
+mabeal1 finished the tournament in 2nd place
+jfn1971 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [5h 8h Kc 5c 3s]
+Seat 1: jfn1971 (big blind) showed [Ah 3c] and won (850) with two pair, Fives and Threes
+Seat 2: mabeal1 (button) (small blind) showed [As 4s] and lost with a pair of Fives
+
+
+

@@ -1,0 +1,731 @@
+﻿PokerStars Hand #259550838519: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:42:18 CET [2026/02/01 12:42:18 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: SRPCastell (500 in chips) 
+mabeal1: posts small blind 10
+SRPCastell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Jh]
+tumulus72: folds 
+mabeal1: raises 20 to 40
+SRPCastell: calls 20
+*** FLOP *** [Ts Kh Ac]
+mabeal1: checks 
+SRPCastell: bets 40
+mabeal1: calls 40
+*** TURN *** [Ts Kh Ac] [3c]
+mabeal1: checks 
+SRPCastell: checks 
+*** RIVER *** [Ts Kh Ac 3c] [3h]
+mabeal1: checks 
+SRPCastell: bets 160
+mabeal1: calls 160
+*** SHOW DOWN ***
+SRPCastell: shows [7c Qh] (a pair of Threes)
+mabeal1: shows [Tc Jh] (two pair, Tens and Threes)
+mabeal1 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Ts Kh Ac 3c 3h]
+Seat 1: tumulus72 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Tc Jh] and won (480) with two pair, Tens and Threes
+Seat 3: SRPCastell (big blind) showed [7c Qh] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259550846038: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:42:46 CET [2026/02/01 12:42:46 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (500 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: SRPCastell (260 in chips) 
+SRPCastell: posts small blind 10
+tumulus72: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3c]
+mabeal1: folds 
+SRPCastell: calls 10
+tumulus72: checks 
+*** FLOP *** [8c 2c 3s]
+SRPCastell: checks 
+tumulus72: checks 
+*** TURN *** [8c 2c 3s] [4s]
+SRPCastell: checks 
+tumulus72: bets 20
+SRPCastell: calls 20
+*** RIVER *** [8c 2c 3s 4s] [5h]
+SRPCastell: checks 
+tumulus72: checks 
+*** SHOW DOWN ***
+SRPCastell: shows [7c 5d] (a pair of Fives)
+tumulus72: mucks hand 
+SRPCastell collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8c 2c 3s 4s 5h]
+Seat 1: tumulus72 (big blind) mucked [2d Tc]
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: SRPCastell (small blind) showed [7c 5d] and won (80) with a pair of Fives
+
+
+
+PokerStars Hand #259550854921: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:43:19 CET [2026/02/01 12:43:19 ET]
+Table '3971162881 1' 3-max Seat #3 is the button
+Seat 1: tumulus72 (460 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: SRPCastell (300 in chips) 
+tumulus72: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2s]
+SRPCastell: folds 
+tumulus72: calls 10
+mabeal1: checks 
+*** FLOP *** [Td Kh 8d]
+tumulus72: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to tumulus72
+tumulus72 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td Kh 8d]
+Seat 1: tumulus72 (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: SRPCastell (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259550858537: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:43:33 CET [2026/02/01 12:43:33 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (480 in chips) 
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: SRPCastell (300 in chips) 
+mabeal1: posts small blind 10
+SRPCastell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Jd]
+tumulus72: folds 
+mabeal1: raises 30 to 50
+SRPCastell: calls 30
+*** FLOP *** [3d Ac Td]
+mabeal1: bets 40
+SRPCastell: raises 210 to 250 and is all-in
+mabeal1: folds 
+Uncalled bet (210) returned to SRPCastell
+SRPCastell collected 180 from pot
+SRPCastell: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3d Ac Td]
+Seat 1: tumulus72 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: SRPCastell (big blind) collected (180)
+
+
+
+PokerStars Hand #259550863741: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:43:52 CET [2026/02/01 12:43:52 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (480 in chips) 
+Seat 2: mabeal1 (630 in chips) 
+Seat 3: SRPCastell (390 in chips) 
+SRPCastell: posts small blind 10
+tumulus72: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 9d]
+mabeal1: raises 20 to 40
+SRPCastell: calls 30
+tumulus72: calls 20
+*** FLOP *** [8d 5c 3c]
+SRPCastell: checks 
+tumulus72: bets 20
+mabeal1: calls 20
+SRPCastell: calls 20
+*** TURN *** [8d 5c 3c] [2d]
+SRPCastell: checks 
+tumulus72: bets 20
+mabeal1: calls 20
+SRPCastell: raises 240 to 260
+tumulus72: folds 
+mabeal1: folds 
+Uncalled bet (240) returned to SRPCastell
+SRPCastell collected 240 from pot
+SRPCastell: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8d 5c 3c 2d]
+Seat 1: tumulus72 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) folded on the Turn
+Seat 3: SRPCastell (small blind) collected (240)
+
+
+
+PokerStars Hand #259550871814: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:44:22 CET [2026/02/01 12:44:22 ET]
+Table '3971162881 1' 3-max Seat #3 is the button
+Seat 1: tumulus72 (400 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: SRPCastell (550 in chips) 
+tumulus72: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Kh]
+SRPCastell: raises 20 to 40
+tumulus72: folds 
+mabeal1: calls 20
+*** FLOP *** [Jc 2d Th]
+mabeal1: checks 
+SRPCastell: checks 
+*** TURN *** [Jc 2d Th] [Td]
+mabeal1: bets 68
+SRPCastell: folds 
+Uncalled bet (68) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Jc 2d Th Td]
+Seat 1: tumulus72 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (90)
+Seat 3: SRPCastell (button) folded on the Turn
+
+
+
+PokerStars Hand #259550876597: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:44:40 CET [2026/02/01 12:44:40 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (390 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: SRPCastell (510 in chips) 
+mabeal1: posts small blind 10
+SRPCastell: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Jd]
+tumulus72: folds 
+mabeal1: raises 30 to 50
+SRPCastell: calls 30
+*** FLOP *** [Jh 5d Ad]
+mabeal1: bets 40
+SRPCastell: raises 180 to 220
+mabeal1: calls 180
+*** TURN *** [Jh 5d Ad] [9c]
+mabeal1: checks 
+SRPCastell: bets 240 and is all-in
+mabeal1: calls 240
+*** RIVER *** [Jh 5d Ad 9c] [Qc]
+*** SHOW DOWN ***
+mabeal1: shows [7s Jd] (a pair of Jacks)
+SRPCastell: shows [6h Kh] (high card Ace)
+mabeal1 collected 1020 from pot
+SRPCastell finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Jh 5d Ad 9c Qc]
+Seat 1: tumulus72 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [7s Jd] and won (1020) with a pair of Jacks
+Seat 3: SRPCastell (big blind) showed [6h Kh] and lost with high card Ace
+
+
+
+PokerStars Hand #259550885627: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 18:45:14 CET [2026/02/01 12:45:14 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (390 in chips) 
+Seat 2: mabeal1 (1110 in chips) 
+mabeal1: posts small blind 10
+tumulus72: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Jc]
+mabeal1: raises 20 to 40
+tumulus72: raises 20 to 60
+mabeal1: calls 20
+*** FLOP *** [9d 8c 3s]
+tumulus72: checks 
+mabeal1: checks 
+*** TURN *** [9d 8c 3s] [5s]
+tumulus72: bets 20
+mabeal1: calls 20
+*** RIVER *** [9d 8c 3s 5s] [Qh]
+tumulus72: bets 20
+mabeal1: calls 20
+*** SHOW DOWN ***
+tumulus72: shows [9h 9c] (three of a kind, Nines)
+mabeal1: mucks hand 
+tumulus72 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [9d 8c 3s 5s Qh]
+Seat 1: tumulus72 (big blind) showed [9h 9c] and won (200) with three of a kind, Nines
+Seat 2: mabeal1 (button) (small blind) mucked [Kc Jc]
+
+
+
+PokerStars Hand #259550893016: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:45:41 CET [2026/02/01 12:45:41 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (490 in chips) 
+Seat 2: mabeal1 (1010 in chips) 
+tumulus72: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Tc]
+tumulus72: calls 15
+mabeal1: checks 
+*** FLOP *** [Kh 3d Th]
+mabeal1: checks 
+tumulus72: bets 30
+mabeal1: calls 30
+*** TURN *** [Kh 3d Th] [6d]
+mabeal1: checks 
+tumulus72: checks 
+*** RIVER *** [Kh 3d Th 6d] [Jd]
+mabeal1: bets 60
+tumulus72: raises 60 to 120
+mabeal1: folds 
+Uncalled bet (60) returned to tumulus72
+tumulus72 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kh 3d Th 6d Jd]
+Seat 1: tumulus72 (button) (small blind) collected (240)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259550901847: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:46:13 CET [2026/02/01 12:46:13 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (610 in chips) 
+Seat 2: mabeal1 (890 in chips) 
+mabeal1: posts small blind 15
+tumulus72: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 2h]
+mabeal1: calls 15
+tumulus72: checks 
+*** FLOP *** [9c 5d 5h]
+tumulus72: bets 30
+mabeal1: calls 30
+*** TURN *** [9c 5d 5h] [6c]
+tumulus72: bets 30
+mabeal1: raises 135 to 165
+tumulus72: calls 135
+*** RIVER *** [9c 5d 5h 6c] [8s]
+tumulus72: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+tumulus72: shows [Ah 9s] (two pair, Nines and Fives)
+mabeal1: mucks hand 
+tumulus72 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [9c 5d 5h 6c 8s]
+Seat 1: tumulus72 (big blind) showed [Ah 9s] and won (510) with two pair, Nines and Fives
+Seat 2: mabeal1 (button) (small blind) mucked [9h 2h]
+
+
+
+PokerStars Hand #259550908590: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:46:38 CET [2026/02/01 12:46:38 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (865 in chips) 
+Seat 2: mabeal1 (635 in chips) 
+tumulus72: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ks]
+tumulus72: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Jh 9h 4d]
+mabeal1: checks 
+tumulus72: bets 30
+mabeal1: raises 135 to 165
+tumulus72: calls 135
+*** TURN *** [Jh 9h 4d] [7d]
+mabeal1: checks 
+tumulus72: bets 30
+mabeal1: calls 30
+*** RIVER *** [Jh 9h 4d 7d] [3s]
+mabeal1: checks 
+tumulus72: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Th Ks] (high card King)
+tumulus72: shows [9s As] (a pair of Nines)
+tumulus72 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Jh 9h 4d 7d 3s]
+Seat 1: tumulus72 (button) (small blind) showed [9s As] and won (510) with a pair of Nines
+Seat 2: mabeal1 (big blind) showed [Th Ks] and lost with high card King
+
+
+
+PokerStars Hand #259550915145: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:47:02 CET [2026/02/01 12:47:02 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (1120 in chips) 
+Seat 2: mabeal1 (380 in chips) 
+mabeal1: posts small blind 15
+tumulus72: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Kh]
+mabeal1: calls 15
+tumulus72: checks 
+*** FLOP *** [Kc Jh 6s]
+tumulus72: bets 30
+mabeal1: raises 90 to 120
+tumulus72: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc Jh 6s]
+Seat 1: tumulus72 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259550922926: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:47:31 CET [2026/02/01 12:47:31 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (1060 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+tumulus72: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 5h]
+tumulus72: calls 15
+mabeal1: raises 410 to 440 and is all-in
+tumulus72: folds 
+Uncalled bet (410) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: tumulus72 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259550926587: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:47:45 CET [2026/02/01 12:47:45 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (1030 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+mabeal1: posts small blind 15
+tumulus72: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9s]
+mabeal1: calls 15
+tumulus72: checks 
+*** FLOP *** [8c 3c 2h]
+tumulus72: bets 30
+mabeal1: calls 30
+*** TURN *** [8c 3c 2h] [3s]
+tumulus72: bets 30
+mabeal1: calls 30
+*** RIVER *** [8c 3c 2h 3s] [7s]
+tumulus72: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+tumulus72: shows [Jh 8s] (two pair, Eights and Threes)
+mabeal1: mucks hand 
+tumulus72 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8c 3c 2h 3s 7s]
+Seat 1: tumulus72 (big blind) showed [Jh 8s] and won (240) with two pair, Eights and Threes
+Seat 2: mabeal1 (button) (small blind) mucked [2c 9s]
+
+
+
+PokerStars Hand #259550933426: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 18:48:11 CET [2026/02/01 12:48:11 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (1150 in chips) 
+Seat 2: mabeal1 (350 in chips) 
+tumulus72: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qs]
+tumulus72: calls 15
+mabeal1: raises 30 to 60
+tumulus72: calls 30
+*** FLOP *** [Qd 2h 8d]
+mabeal1: bets 60
+tumulus72: calls 60
+*** TURN *** [Qd 2h 8d] [As]
+mabeal1: bets 230 and is all-in
+tumulus72: folds 
+Uncalled bet (230) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qd 2h 8d As]
+Seat 1: tumulus72 (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (240)
+
+
+
+PokerStars Hand #259550942545: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:48:45 CET [2026/02/01 12:48:45 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (1030 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+mabeal1: posts small blind 20
+tumulus72: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 3d]
+mabeal1: calls 20
+tumulus72: checks 
+*** FLOP *** [9d Th Td]
+tumulus72: checks 
+mabeal1: bets 60
+tumulus72: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d Th Td]
+Seat 1: tumulus72 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259550950593: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:49:14 CET [2026/02/01 12:49:14 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (990 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+tumulus72: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ad]
+tumulus72: calls 20
+mabeal1: raises 470 to 510 and is all-in
+tumulus72: folds 
+Uncalled bet (470) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tumulus72 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259550954881: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:49:30 CET [2026/02/01 12:49:30 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (950 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+mabeal1: posts small blind 20
+tumulus72: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ac]
+mabeal1: raises 510 to 550 and is all-in
+tumulus72: folds 
+Uncalled bet (510) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tumulus72 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259550959850: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:49:49 CET [2026/02/01 12:49:49 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (910 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+tumulus72: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Kc]
+tumulus72: raises 80 to 120
+mabeal1: calls 80
+*** FLOP *** [4d 2d 9d]
+mabeal1: checks 
+tumulus72: bets 240
+mabeal1: folds 
+Uncalled bet (240) returned to tumulus72
+tumulus72 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4d 2d 9d]
+Seat 1: tumulus72 (button) (small blind) collected (240)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259550964919: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:50:08 CET [2026/02/01 12:50:08 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (1030 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+mabeal1: posts small blind 20
+tumulus72: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Ac]
+mabeal1: raises 80 to 120
+tumulus72: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: tumulus72 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259550969066: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:50:23 CET [2026/02/01 12:50:23 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (990 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+tumulus72: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 6c]
+tumulus72: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: tumulus72 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259550971922: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:50:34 CET [2026/02/01 12:50:34 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+mabeal1: posts small blind 20
+tumulus72: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 8h]
+mabeal1: calls 20
+tumulus72: checks 
+*** FLOP *** [Js 3s 9c]
+tumulus72: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to tumulus72
+tumulus72 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js 3s 9c]
+Seat 1: tumulus72 (big blind) collected (80)
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259550976817: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 18:50:52 CET [2026/02/01 12:50:52 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+tumulus72: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Qs]
+tumulus72: calls 20
+mabeal1: checks 
+*** FLOP *** [6h Ks 8h]
+mabeal1: checks 
+tumulus72: checks 
+*** TURN *** [6h Ks 8h] [9d]
+mabeal1: checks 
+tumulus72: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to tumulus72
+tumulus72 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h Ks 8h 9d]
+Seat 1: tumulus72 (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259550986447: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 18:51:28 CET [2026/02/01 12:51:28 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (1050 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+mabeal1: posts small blind 30
+tumulus72: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Ts]
+mabeal1: raises 390 to 450 and is all-in
+tumulus72: folds 
+Uncalled bet (390) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: tumulus72 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259550989982: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 18:51:41 CET [2026/02/01 12:51:41 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (990 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+tumulus72: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6h]
+tumulus72: raises 120 to 180
+mabeal1: folds 
+Uncalled bet (120) returned to tumulus72
+tumulus72 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: tumulus72 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259550992455: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 18:51:50 CET [2026/02/01 12:51:50 ET]
+Table '3971162881 1' 3-max Seat #2 is the button
+Seat 1: tumulus72 (1050 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+mabeal1: posts small blind 30
+tumulus72: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ac]
+mabeal1: raises 390 to 450 and is all-in
+tumulus72: folds 
+Uncalled bet (390) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: tumulus72 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259550996188: Tournament #3971162881, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 18:52:04 CET [2026/02/01 12:52:04 ET]
+Table '3971162881 1' 3-max Seat #1 is the button
+Seat 1: tumulus72 (990 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+tumulus72: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Jh]
+tumulus72: calls 30
+mabeal1: checks 
+*** FLOP *** [Jd Kd 9h]
+mabeal1: checks 
+tumulus72: bets 60
+mabeal1: raises 120 to 180
+tumulus72: calls 120
+*** TURN *** [Jd Kd 9h] [8d]
+mabeal1: bets 270 and is all-in
+tumulus72: calls 270
+*** RIVER *** [Jd Kd 9h 8d] [9s]
+*** SHOW DOWN ***
+mabeal1: shows [4s Jh] (two pair, Jacks and Nines)
+tumulus72: shows [9d Qc] (three of a kind, Nines)
+tumulus72 collected 1020 from pot
+mabeal1 finished the tournament in 2nd place
+tumulus72 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Jd Kd 9h 8d 9s]
+Seat 1: tumulus72 (button) (small blind) showed [9d Qc] and won (1020) with three of a kind, Nines
+Seat 2: mabeal1 (big blind) showed [4s Jh] and lost with two pair, Jacks and Nines
+
+
+

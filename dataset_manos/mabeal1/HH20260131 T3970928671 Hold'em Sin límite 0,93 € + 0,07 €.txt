@@ -1,0 +1,223 @@
+﻿PokerStars Hand #259540533247: Tournament #3970928671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:04:27 CET [2026/01/31 17:04:27 ET]
+Table '3970928671 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Randycall (500 in chips) 
+mabeal1: posts small blind 10
+Randycall: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Ad]
+PICHONHAIR: calls 20
+mabeal1: raises 480 to 500 and is all-in
+Randycall: folds 
+PICHONHAIR: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: PICHONHAIR (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Randycall (big blind) folded before Flop
+
+
+
+PokerStars Hand #259540536583: Tournament #3970928671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:04:40 CET [2026/01/31 17:04:40 ET]
+Table '3970928671 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (480 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Randycall (480 in chips) 
+Randycall: posts small blind 10
+PICHONHAIR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 2h]
+mabeal1: folds 
+Randycall: calls 10
+PICHONHAIR: raises 460 to 480 and is all-in
+Randycall: folds 
+Uncalled bet (460) returned to PICHONHAIR
+PICHONHAIR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: PICHONHAIR (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Randycall (small blind) folded before Flop
+
+
+
+PokerStars Hand #259540539454: Tournament #3970928671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:04:51 CET [2026/01/31 17:04:51 ET]
+Table '3970928671 1' 3-max Seat #3 is the button
+Seat 1: PICHONHAIR (500 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Randycall (460 in chips) 
+PICHONHAIR: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9h]
+Randycall: calls 20
+PICHONHAIR: calls 10
+mabeal1: checks 
+*** FLOP *** [Th 7h 4d]
+PICHONHAIR: checks 
+mabeal1: checks 
+Randycall: checks 
+*** TURN *** [Th 7h 4d] [5h]
+PICHONHAIR: checks 
+mabeal1: bets 60
+Randycall: calls 60
+PICHONHAIR: calls 60
+*** RIVER *** [Th 7h 4d 5h] [5d]
+PICHONHAIR: checks 
+mabeal1: checks 
+Randycall: checks 
+*** SHOW DOWN ***
+PICHONHAIR: shows [4h 3s] (two pair, Fives and Fours)
+mabeal1: shows [Ts 9h] (two pair, Tens and Fives)
+Randycall: mucks hand 
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Th 7h 4d 5h 5d]
+Seat 1: PICHONHAIR (small blind) showed [4h 3s] and lost with two pair, Fives and Fours
+Seat 2: mabeal1 (big blind) showed [Ts 9h] and won (240) with two pair, Tens and Fives
+Seat 3: Randycall (button) mucked [Kc As]
+
+
+
+PokerStars Hand #259540550011: Tournament #3970928671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:05:33 CET [2026/01/31 17:05:33 ET]
+Table '3970928671 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (420 in chips) 
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: Randycall (380 in chips) 
+mabeal1: posts small blind 10
+Randycall: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 2c]
+PICHONHAIR: calls 20
+mabeal1: calls 10
+Randycall: checks 
+*** FLOP *** [Jh Ac 6s]
+mabeal1: checks 
+Randycall: checks 
+PICHONHAIR: checks 
+*** TURN *** [Jh Ac 6s] [Jd]
+mabeal1: checks 
+Randycall: checks 
+PICHONHAIR: checks 
+*** RIVER *** [Jh Ac 6s Jd] [Kh]
+mabeal1: checks 
+Randycall: checks 
+PICHONHAIR: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7c 2c] (a pair of Jacks)
+Randycall: shows [8s 2h] (a pair of Jacks - Ace+King+Eight kicker)
+PICHONHAIR: shows [3h Kc] (two pair, Kings and Jacks)
+PICHONHAIR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh Ac 6s Jd Kh]
+Seat 1: PICHONHAIR (button) showed [3h Kc] and won (60) with two pair, Kings and Jacks
+Seat 2: mabeal1 (small blind) showed [7c 2c] and lost with a pair of Jacks
+Seat 3: Randycall (big blind) showed [8s 2h] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259540559037: Tournament #3970928671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:06:07 CET [2026/01/31 17:06:07 ET]
+Table '3970928671 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (460 in chips) 
+Seat 2: mabeal1 (680 in chips) 
+Seat 3: Randycall (360 in chips) 
+Randycall: posts small blind 10
+PICHONHAIR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Qd]
+mabeal1: folds 
+Randycall: folds 
+Uncalled bet (10) returned to PICHONHAIR
+PICHONHAIR collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PICHONHAIR (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Randycall (small blind) folded before Flop
+
+
+
+PokerStars Hand #259540561324: Tournament #3970928671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:06:16 CET [2026/01/31 17:06:16 ET]
+Table '3970928671 1' 3-max Seat #3 is the button
+Seat 1: PICHONHAIR (470 in chips) 
+Seat 2: mabeal1 (680 in chips) 
+Seat 3: Randycall (350 in chips) 
+PICHONHAIR: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Tc]
+Randycall: folds 
+PICHONHAIR: raises 450 to 470 and is all-in
+mabeal1: calls 450
+*** FLOP *** [Ks 9s Qc]
+*** TURN *** [Ks 9s Qc] [2s]
+*** RIVER *** [Ks 9s Qc 2s] [6d]
+*** SHOW DOWN ***
+PICHONHAIR: shows [8s Ah] (high card Ace)
+mabeal1: shows [Th Tc] (a pair of Tens)
+mabeal1 collected 940 from pot
+PICHONHAIR finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Ks 9s Qc 2s 6d]
+Seat 1: PICHONHAIR (small blind) showed [8s Ah] and lost with high card Ace
+Seat 2: mabeal1 (big blind) showed [Th Tc] and won (940) with a pair of Tens
+Seat 3: Randycall (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259540565773: Tournament #3970928671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:06:33 CET [2026/01/31 17:06:33 ET]
+Table '3970928671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1150 in chips) 
+Seat 3: Randycall (350 in chips) 
+mabeal1: posts small blind 10
+Randycall: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 7s]
+mabeal1: calls 10
+Randycall: raises 330 to 350 and is all-in
+mabeal1: folds 
+Uncalled bet (330) returned to Randycall
+Randycall collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Randycall (big blind) collected (40)
+
+
+
+PokerStars Hand #259540567741: Tournament #3970928671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:06:41 CET [2026/01/31 17:06:41 ET]
+Table '3970928671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1130 in chips) 
+Seat 3: Randycall (370 in chips) 
+Randycall: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Ad]
+Randycall: calls 10
+mabeal1: raises 40 to 60
+Randycall: raises 310 to 370 and is all-in
+mabeal1: calls 310
+*** FLOP *** [6d 9s 6h]
+*** TURN *** [6d 9s 6h] [7d]
+*** RIVER *** [6d 9s 6h 7d] [3h]
+*** SHOW DOWN ***
+mabeal1: shows [Ah Ad] (two pair, Aces and Sixes)
+Randycall: shows [Kc Ks] (two pair, Kings and Sixes)
+mabeal1 collected 740 from pot
+Randycall finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [6d 9s 6h 7d 3h]
+Seat 2: mabeal1 (big blind) showed [Ah Ad] and won (740) with two pair, Aces and Sixes
+Seat 3: Randycall (button) (small blind) showed [Kc Ks] and lost with two pair, Kings and Sixes
+
+
+

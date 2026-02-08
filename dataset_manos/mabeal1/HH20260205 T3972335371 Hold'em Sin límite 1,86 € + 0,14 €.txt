@@ -1,0 +1,386 @@
+﻿PokerStars Hand #259602568495: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:45:32 CET [2026/02/05 11:45:32 ET]
+Table '3972335371 1' 3-max Seat #1 is the button
+Seat 1: Nosy Bunny (500 in chips) 
+Seat 2: elheraldo17 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+elheraldo17: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3s]
+Nosy Bunny: folds 
+elheraldo17: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Nosy Bunny (button) folded before Flop (didn't bet)
+Seat 2: elheraldo17 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259602569257: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:45:36 CET [2026/02/05 11:45:36 ET]
+Table '3972335371 1' 3-max Seat #2 is the button
+Seat 1: Nosy Bunny (500 in chips) 
+Seat 2: elheraldo17 (490 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+mabeal1: posts small blind 10
+Nosy Bunny: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Ad]
+elheraldo17: folds 
+mabeal1: raises 30 to 50
+Nosy Bunny: calls 30
+*** FLOP *** [7s 5s 8d]
+mabeal1: bets 50
+Nosy Bunny: calls 50
+*** TURN *** [7s 5s 8d] [4c]
+mabeal1: bets 150
+Nosy Bunny: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7s 5s 8d 4c]
+Seat 1: Nosy Bunny (big blind) folded on the Turn
+Seat 2: elheraldo17 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (200)
+
+
+
+PokerStars Hand #259602573552: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:45:59 CET [2026/02/05 11:45:59 ET]
+Table '3972335371 1' 3-max Seat #3 is the button
+Seat 1: Nosy Bunny (400 in chips) 
+Seat 2: elheraldo17 (490 in chips) 
+Seat 3: mabeal1 (610 in chips) 
+Nosy Bunny: posts small blind 10
+elheraldo17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 7d]
+mabeal1: folds 
+Nosy Bunny: folds 
+Uncalled bet (10) returned to elheraldo17
+elheraldo17 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Nosy Bunny (small blind) folded before Flop
+Seat 2: elheraldo17 (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602574645: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:46:05 CET [2026/02/05 11:46:05 ET]
+Table '3972335371 1' 3-max Seat #1 is the button
+Seat 1: Nosy Bunny (390 in chips) 
+Seat 2: elheraldo17 (500 in chips) 
+Seat 3: mabeal1 (610 in chips) 
+elheraldo17: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ac]
+Nosy Bunny: raises 20 to 40
+elheraldo17: folds 
+mabeal1: calls 20
+*** FLOP *** [3c As Jh]
+mabeal1: checks 
+Nosy Bunny: bets 20
+mabeal1: calls 20
+*** TURN *** [3c As Jh] [8h]
+mabeal1: checks 
+Nosy Bunny: bets 87
+mabeal1: calls 87
+*** RIVER *** [3c As Jh 8h] [5s]
+mabeal1: checks 
+Nosy Bunny: bets 243 and is all-in
+mabeal1: calls 243
+*** SHOW DOWN ***
+Nosy Bunny: shows [6c 4c] (high card Ace)
+mabeal1: shows [6d Ac] (a pair of Aces)
+mabeal1 collected 790 from pot
+Nosy Bunny finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [3c As Jh 8h 5s]
+Seat 1: Nosy Bunny (button) showed [6c 4c] and lost with high card Ace
+Seat 2: elheraldo17 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [6d Ac] and won (790) with a pair of Aces
+
+
+
+PokerStars Hand #259602584691: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:47:00 CET [2026/02/05 11:47:00 ET]
+Table '3972335371 1' 3-max Seat #3 is the button
+Seat 2: elheraldo17 (490 in chips) 
+Seat 3: mabeal1 (1010 in chips) 
+mabeal1: posts small blind 10
+elheraldo17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 5s]
+mabeal1: calls 10
+elheraldo17: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [2c 2h Ah]
+elheraldo17: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to elheraldo17
+elheraldo17 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2c 2h Ah]
+Seat 2: elheraldo17 (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259602587670: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:47:17 CET [2026/02/05 11:47:17 ET]
+Table '3972335371 1' 3-max Seat #2 is the button
+Seat 2: elheraldo17 (530 in chips) 
+Seat 3: mabeal1 (970 in chips) 
+elheraldo17: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Kh]
+elheraldo17: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: elheraldo17 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259602588461: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:47:21 CET [2026/02/05 11:47:21 ET]
+Table '3972335371 1' 3-max Seat #3 is the button
+Seat 2: elheraldo17 (520 in chips) 
+Seat 3: mabeal1 (980 in chips) 
+mabeal1: posts small blind 10
+elheraldo17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 6d]
+mabeal1: calls 10
+elheraldo17: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Ac 3d 7d]
+elheraldo17: checks 
+mabeal1: bets 40
+elheraldo17: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to elheraldo17
+elheraldo17 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac 3d 7d]
+Seat 2: elheraldo17 (big blind) collected (160)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259602591441: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:47:37 CET [2026/02/05 11:47:37 ET]
+Table '3972335371 1' 3-max Seat #2 is the button
+Seat 2: elheraldo17 (600 in chips) 
+Seat 3: mabeal1 (900 in chips) 
+elheraldo17: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 6s]
+elheraldo17: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: elheraldo17 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259602592351: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:47:42 CET [2026/02/05 11:47:42 ET]
+Table '3972335371 1' 3-max Seat #3 is the button
+Seat 2: elheraldo17 (590 in chips) 
+Seat 3: mabeal1 (910 in chips) 
+mabeal1: posts small blind 10
+elheraldo17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Qc]
+mabeal1: raises 20 to 40
+elheraldo17: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: elheraldo17 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259602593543: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:47:49 CET [2026/02/05 11:47:49 ET]
+Table '3972335371 1' 3-max Seat #2 is the button
+Seat 2: elheraldo17 (570 in chips) 
+Seat 3: mabeal1 (930 in chips) 
+elheraldo17: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 4c]
+elheraldo17: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to elheraldo17
+elheraldo17 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: elheraldo17 (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602594454: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:47:54 CET [2026/02/05 11:47:54 ET]
+Table '3972335371 1' 3-max Seat #3 is the button
+Seat 2: elheraldo17 (590 in chips) 
+Seat 3: mabeal1 (910 in chips) 
+mabeal1: posts small blind 10
+elheraldo17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 9s]
+mabeal1: calls 10
+elheraldo17: checks 
+*** FLOP *** [3h Kh 6c]
+elheraldo17: bets 20
+mabeal1: raises 60 to 80
+elheraldo17: calls 60
+*** TURN *** [3h Kh 6c] [6d]
+elheraldo17: checks 
+mabeal1: bets 100
+elheraldo17: raises 120 to 220
+mabeal1: folds 
+Uncalled bet (120) returned to elheraldo17
+elheraldo17 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [3h Kh 6c 6d]
+Seat 2: elheraldo17 (big blind) collected (400)
+Seat 3: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259602598495: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:48:16 CET [2026/02/05 11:48:16 ET]
+Table '3972335371 1' 3-max Seat #2 is the button
+Seat 2: elheraldo17 (790 in chips) 
+Seat 3: mabeal1 (710 in chips) 
+elheraldo17: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5c]
+elheraldo17: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to elheraldo17
+elheraldo17 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: elheraldo17 (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602599769: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:48:22 CET [2026/02/05 11:48:22 ET]
+Table '3972335371 1' 3-max Seat #3 is the button
+Seat 2: elheraldo17 (810 in chips) 
+Seat 3: mabeal1 (690 in chips) 
+mabeal1: posts small blind 10
+elheraldo17: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 8h]
+mabeal1: calls 10
+elheraldo17: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to elheraldo17
+elheraldo17 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: elheraldo17 (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602601224: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:48:30 CET [2026/02/05 11:48:30 ET]
+Table '3972335371 1' 3-max Seat #2 is the button
+Seat 2: elheraldo17 (830 in chips) 
+Seat 3: mabeal1 (670 in chips) 
+elheraldo17: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qd]
+elheraldo17: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: elheraldo17 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259602602589: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:48:38 CET [2026/02/05 11:48:38 ET]
+Table '3972335371 1' 3-max Seat #3 is the button
+Seat 2: elheraldo17 (820 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+mabeal1: posts small blind 15
+elheraldo17: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Js]
+mabeal1: raises 30 to 60
+elheraldo17: raises 120 to 180
+mabeal1: raises 500 to 680 and is all-in
+elheraldo17: calls 500
+*** FLOP *** [5h 7d Kh]
+*** TURN *** [5h 7d Kh] [2c]
+*** RIVER *** [5h 7d Kh 2c] [Qc]
+*** SHOW DOWN ***
+elheraldo17: shows [Jd As] (high card Ace)
+mabeal1: shows [Ad Js] (high card Ace)
+elheraldo17 collected 680 from pot
+mabeal1 collected 680 from pot
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Board [5h 7d Kh 2c Qc]
+Seat 2: elheraldo17 (big blind) showed [Jd As] and won (680) with high card Ace
+Seat 3: mabeal1 (button) (small blind) showed [Ad Js] and won (680) with high card Ace
+
+
+
+PokerStars Hand #259602605391: Tournament #3972335371, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:48:53 CET [2026/02/05 11:48:53 ET]
+Table '3972335371 1' 3-max Seat #2 is the button
+Seat 2: elheraldo17 (820 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+elheraldo17: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 3s]
+elheraldo17: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Kd As 4d]
+mabeal1: checks 
+elheraldo17: bets 60
+mabeal1: raises 180 to 240
+elheraldo17: calls 180
+*** TURN *** [Kd As 4d] [7d]
+mabeal1: bets 380 and is all-in
+elheraldo17: calls 380
+*** RIVER *** [Kd As 4d 7d] [Ks]
+*** SHOW DOWN ***
+mabeal1: shows [2s 3s] (a pair of Kings)
+elheraldo17: shows [5d Qd] (a flush, King high)
+elheraldo17 collected 1360 from pot
+mabeal1 finished the tournament in 2nd place
+elheraldo17 wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Board [Kd As 4d 7d Ks]
+Seat 2: elheraldo17 (button) (small blind) showed [5d Qd] and won (1360) with a flush, King high
+Seat 3: mabeal1 (big blind) showed [2s 3s] and lost with a pair of Kings
+
+
+

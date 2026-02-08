@@ -1,0 +1,598 @@
+﻿PokerStars Hand #259641838382: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 14:09:34 CET [2026/02/08 8:09:34 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: legrosge (500 in chips) 
+Seat 3: fouthkings (500 in chips) 
+legrosge: posts small blind 10
+fouthkings: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 4d]
+mabeal1: folds 
+legrosge: calls 10
+fouthkings: checks 
+*** FLOP *** [Ks 7s Ac]
+legrosge: bets 20
+fouthkings: calls 20
+*** TURN *** [Ks 7s Ac] [2h]
+legrosge: bets 20
+fouthkings: raises 60 to 80
+legrosge: calls 60
+*** RIVER *** [Ks 7s Ac 2h] [Qc]
+legrosge: checks 
+fouthkings: bets 80
+legrosge: calls 80
+*** SHOW DOWN ***
+fouthkings: shows [7d 2s] (two pair, Sevens and Deuces)
+legrosge: mucks hand 
+fouthkings collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Ks 7s Ac 2h Qc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: legrosge (small blind) mucked [3d Ah]
+Seat 3: fouthkings (big blind) showed [7d 2s] and won (400) with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #259641846191: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 14:10:28 CET [2026/02/08 8:10:28 ET]
+Table '3973243820 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: legrosge (300 in chips) 
+Seat 3: fouthkings (700 in chips) 
+fouthkings: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3s]
+legrosge: folds 
+fouthkings: calls 10
+mabeal1: checks 
+*** FLOP *** [8c Kd Qh]
+fouthkings: checks 
+mabeal1: checks 
+*** TURN *** [8c Kd Qh] [5s]
+fouthkings: checks 
+mabeal1: bets 30
+fouthkings: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c Kd Qh 5s]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: legrosge (button) folded before Flop (didn't bet)
+Seat 3: fouthkings (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259641850369: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 14:10:57 CET [2026/02/08 8:10:57 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: legrosge (300 in chips) 
+Seat 3: fouthkings (680 in chips) 
+mabeal1: posts small blind 10
+legrosge: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2s]
+fouthkings: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to legrosge
+legrosge collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: legrosge (big blind) collected (20)
+Seat 3: fouthkings (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259641852414: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 14:11:12 CET [2026/02/08 8:11:12 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: legrosge (310 in chips) 
+Seat 3: fouthkings (680 in chips) 
+legrosge: posts small blind 10
+fouthkings: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 8c]
+mabeal1: folds 
+legrosge: calls 10
+fouthkings: checks 
+*** FLOP *** [8h Qd 3c]
+legrosge: checks 
+fouthkings: checks 
+*** TURN *** [8h Qd 3c] [Ts]
+legrosge: checks 
+fouthkings: checks 
+*** RIVER *** [8h Qd 3c Ts] [2h]
+legrosge: bets 20
+fouthkings: folds 
+Uncalled bet (20) returned to legrosge
+legrosge collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8h Qd 3c Ts 2h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: legrosge (small blind) collected (40)
+Seat 3: fouthkings (big blind) folded on the River
+
+
+
+PokerStars Hand #259641860282: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 14:12:06 CET [2026/02/08 8:12:06 ET]
+Table '3973243820 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: legrosge (330 in chips) 
+Seat 3: fouthkings (660 in chips) 
+fouthkings: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Qd]
+legrosge: calls 20
+fouthkings: calls 10
+mabeal1: checks 
+*** FLOP *** [5d Ks 9s]
+fouthkings: bets 40
+mabeal1: folds 
+legrosge: folds 
+Uncalled bet (40) returned to fouthkings
+fouthkings collected 60 from pot
+fouthkings: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Ks 9s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: legrosge (button) folded on the Flop
+Seat 3: fouthkings (small blind) collected (60)
+
+
+
+PokerStars Hand #259641867815: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 14:12:58 CET [2026/02/08 8:12:58 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 2: legrosge (310 in chips) 
+Seat 3: fouthkings (700 in chips) 
+mabeal1: posts small blind 15
+legrosge: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Tc]
+fouthkings: calls 30
+mabeal1: raises 90 to 120
+legrosge: raises 190 to 310 and is all-in
+fouthkings: folds 
+mabeal1: calls 190
+*** FLOP *** [9s 6s Ts]
+*** TURN *** [9s 6s Ts] [9h]
+*** RIVER *** [9s 6s Ts 9h] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [Td Tc] (a full house, Tens full of Nines)
+legrosge: shows [3d Ah] (two pair, Nines and Sixes)
+mabeal1 collected 650 from pot
+legrosge finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [9s 6s Ts 9h 6h]
+Seat 1: mabeal1 (small blind) showed [Td Tc] and won (650) with a full house, Tens full of Nines
+Seat 2: legrosge (big blind) showed [3d Ah] and lost with two pair, Nines and Sixes
+Seat 3: fouthkings (button) folded before Flop
+
+
+
+PokerStars Hand #259641873532: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 14:13:40 CET [2026/02/08 8:13:40 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 3: fouthkings (670 in chips) 
+mabeal1: posts small blind 15
+fouthkings: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5h]
+mabeal1: calls 15
+fouthkings: checks 
+*** FLOP *** [4s Qc 2d]
+fouthkings: checks 
+mabeal1: bets 30
+fouthkings: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s Qc 2d]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: fouthkings (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259641877305: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 14:14:07 CET [2026/02/08 8:14:07 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (860 in chips) 
+Seat 3: fouthkings (640 in chips) 
+fouthkings: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Qd]
+fouthkings: calls 15
+mabeal1: checks 
+*** FLOP *** [As Ac 6c]
+mabeal1: checks 
+fouthkings: bets 30
+mabeal1: calls 30
+*** TURN *** [As Ac 6c] [Kh]
+mabeal1: checks 
+fouthkings: checks 
+*** RIVER *** [As Ac 6c Kh] [Qh]
+mabeal1: bets 90
+fouthkings: calls 90
+*** SHOW DOWN ***
+mabeal1: shows [7d Qd] (two pair, Aces and Queens)
+fouthkings: mucks hand 
+mabeal1 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [As Ac 6c Kh Qh]
+Seat 1: mabeal1 (big blind) showed [7d Qd] and won (300) with two pair, Aces and Queens
+Seat 3: fouthkings (button) (small blind) mucked [6d 4d]
+
+
+
+PokerStars Hand #259641883333: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 14:14:49 CET [2026/02/08 8:14:49 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1010 in chips) 
+Seat 3: fouthkings (490 in chips) 
+mabeal1: posts small blind 15
+fouthkings: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6h]
+mabeal1: calls 15
+fouthkings: checks 
+*** FLOP *** [3s Kd 2d]
+fouthkings: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to fouthkings
+fouthkings collected 60 from pot
+fouthkings: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s Kd 2d]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: fouthkings (big blind) collected (60)
+
+
+
+PokerStars Hand #259641885564: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 14:15:05 CET [2026/02/08 8:15:05 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 3: fouthkings (520 in chips) 
+fouthkings: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ac]
+fouthkings: calls 15
+mabeal1: raises 950 to 980 and is all-in
+fouthkings: folds 
+Uncalled bet (950) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: fouthkings (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259641886842: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 14:15:14 CET [2026/02/08 8:15:14 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1010 in chips) 
+Seat 3: fouthkings (490 in chips) 
+mabeal1: posts small blind 15
+fouthkings: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 7h]
+mabeal1: calls 15
+fouthkings: checks 
+*** FLOP *** [Qc Jd Th]
+fouthkings: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to fouthkings
+fouthkings collected 60 from pot
+fouthkings: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc Jd Th]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: fouthkings (big blind) collected (60)
+
+
+
+PokerStars Hand #259641888346: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 14:15:24 CET [2026/02/08 8:15:24 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 3: fouthkings (520 in chips) 
+fouthkings: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 3s]
+fouthkings: calls 15
+mabeal1: raises 950 to 980 and is all-in
+fouthkings: folds 
+Uncalled bet (950) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: fouthkings (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259641891019: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:15:43 CET [2026/02/08 8:15:43 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1010 in chips) 
+Seat 3: fouthkings (490 in chips) 
+mabeal1: posts small blind 20
+fouthkings: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 8h]
+mabeal1: folds 
+Uncalled bet (20) returned to fouthkings
+fouthkings collected 40 from pot
+fouthkings: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: fouthkings (big blind) collected (40)
+
+
+
+PokerStars Hand #259641891858: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:15:48 CET [2026/02/08 8:15:48 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 3: fouthkings (510 in chips) 
+fouthkings: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 9d]
+fouthkings: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [6c Kd Th]
+mabeal1: checks 
+fouthkings: bets 40
+mabeal1: raises 80 to 120
+fouthkings: calls 80
+*** TURN *** [6c Kd Th] [7h]
+mabeal1: checks 
+fouthkings: bets 310 and is all-in
+mabeal1: folds 
+Uncalled bet (310) returned to fouthkings
+fouthkings collected 400 from pot
+fouthkings: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [6c Kd Th 7h]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 3: fouthkings (button) (small blind) collected (400)
+
+
+
+PokerStars Hand #259641897266: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:16:25 CET [2026/02/08 8:16:25 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (790 in chips) 
+Seat 3: fouthkings (710 in chips) 
+mabeal1: posts small blind 20
+fouthkings: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Td]
+mabeal1: calls 20
+fouthkings: checks 
+*** FLOP *** [Ac 4d 9s]
+fouthkings: checks 
+mabeal1: bets 40
+fouthkings: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 4d 9s]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: fouthkings (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259641899030: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:16:38 CET [2026/02/08 8:16:38 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 3: fouthkings (670 in chips) 
+fouthkings: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Jc]
+fouthkings: calls 20
+mabeal1: raises 80 to 120
+fouthkings: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: fouthkings (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259641900396: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:16:47 CET [2026/02/08 8:16:47 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (870 in chips) 
+Seat 3: fouthkings (630 in chips) 
+mabeal1: posts small blind 20
+fouthkings: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ad]
+mabeal1: raises 830 to 870 and is all-in
+fouthkings: folds 
+Uncalled bet (830) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: fouthkings (big blind) folded before Flop
+
+
+
+PokerStars Hand #259641901321: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:16:53 CET [2026/02/08 8:16:53 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (910 in chips) 
+Seat 3: fouthkings (590 in chips) 
+fouthkings: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6s]
+fouthkings: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [2d As 4s]
+mabeal1: checks 
+fouthkings: bets 40
+mabeal1: raises 80 to 120
+fouthkings has timed out
+fouthkings: folds 
+fouthkings is sitting out
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+fouthkings has returned
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2d As 4s]
+Seat 1: mabeal1 (big blind) collected (240)
+Seat 3: fouthkings (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259641906208: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:17:27 CET [2026/02/08 8:17:27 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: fouthkings (470 in chips) 
+mabeal1: posts small blind 20
+fouthkings: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 7h]
+mabeal1: calls 20
+fouthkings: checks 
+*** FLOP *** [As Ad 9h]
+fouthkings: checks 
+mabeal1: checks 
+*** TURN *** [As Ad 9h] [Jd]
+fouthkings: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to fouthkings
+fouthkings collected 80 from pot
+fouthkings: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As Ad 9h Jd]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: fouthkings (big blind) collected (80)
+
+
+
+PokerStars Hand #259641908267: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:17:41 CET [2026/02/08 8:17:41 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 3: fouthkings (510 in chips) 
+fouthkings: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Ts]
+fouthkings: calls 20
+mabeal1: checks 
+*** FLOP *** [4c Ah Tc]
+mabeal1: checks 
+fouthkings: checks 
+*** TURN *** [4c Ah Tc] [Js]
+mabeal1: checks 
+fouthkings: checks 
+*** RIVER *** [4c Ah Tc Js] [3s]
+mabeal1: bets 40
+fouthkings: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c Ah Tc Js 3s]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: fouthkings (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259641911815: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:18:06 CET [2026/02/08 8:18:06 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: fouthkings (470 in chips) 
+mabeal1: posts small blind 20
+fouthkings: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 4c]
+mabeal1: raises 990 to 1030 and is all-in
+fouthkings: folds 
+Uncalled bet (990) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: fouthkings (big blind) folded before Flop
+
+
+
+PokerStars Hand #259641912800: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:18:12 CET [2026/02/08 8:18:12 ET]
+Table '3973243820 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: fouthkings (430 in chips) 
+fouthkings: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Tc]
+fouthkings: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: fouthkings (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259641913534: Tournament #3973243820, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 14:18:17 CET [2026/02/08 8:18:17 ET]
+Table '3973243820 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 3: fouthkings (410 in chips) 
+mabeal1: posts small blind 20
+fouthkings: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8s]
+mabeal1: calls 20
+fouthkings: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [8h Js 5s]
+fouthkings: bets 160
+mabeal1: raises 850 to 1010 and is all-in
+fouthkings: calls 170 and is all-in
+Uncalled bet (680) returned to mabeal1
+*** TURN *** [8h Js 5s] [Ad]
+*** RIVER *** [8h Js 5s Ad] [2d]
+*** SHOW DOWN ***
+fouthkings: shows [Qs 6d] (high card Ace)
+mabeal1: shows [7h 8s] (a pair of Eights)
+mabeal1 collected 820 from pot
+fouthkings finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €5.00 - congratulations!
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [8h Js 5s Ad 2d]
+Seat 1: mabeal1 (button) (small blind) showed [7h 8s] and won (820) with a pair of Eights
+Seat 3: fouthkings (big blind) showed [Qs 6d] and lost with high card Ace
+
+
+

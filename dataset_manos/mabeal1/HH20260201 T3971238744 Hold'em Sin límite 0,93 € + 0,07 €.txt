@@ -1,0 +1,636 @@
+﻿PokerStars Hand #259555093129: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:51:28 CET [2026/02/01 16:51:28 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (500 in chips) 
+Seat 2: ANARQUÍA (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+ANARQUÍA: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 6c]
+lulim55: calls 20
+ANARQUÍA: calls 10
+mabeal1: checks 
+*** FLOP *** [Ad 3h 7s]
+ANARQUÍA: checks 
+mabeal1: checks 
+lulim55: bets 40
+ANARQUÍA: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to lulim55
+lulim55 collected 60 from pot
+lulim55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ad 3h 7s]
+Seat 1: lulim55 (button) collected (60)
+Seat 2: ANARQUÍA (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259555104901: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:52:06 CET [2026/02/01 16:52:06 ET]
+Table '3971238744 1' 3-max Seat #2 is the button
+Seat 1: lulim55 (540 in chips) 
+Seat 2: ANARQUÍA (480 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+lulim55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7h]
+ANARQUÍA: folds 
+mabeal1: raises 30 to 50
+lulim55: calls 30
+*** FLOP *** [7s 5h 6d]
+mabeal1: bets 75
+lulim55: folds 
+Uncalled bet (75) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7s 5h 6d]
+Seat 1: lulim55 (big blind) folded on the Flop
+Seat 2: ANARQUÍA (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (100)
+
+
+
+PokerStars Hand #259555111812: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:52:29 CET [2026/02/01 16:52:29 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (490 in chips) 
+Seat 2: ANARQUÍA (480 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+lulim55: posts small blind 10
+ANARQUÍA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4h]
+mabeal1: raises 20 to 40
+lulim55: folds 
+ANARQUÍA: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: lulim55 (small blind) folded before Flop
+Seat 2: ANARQUÍA (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259555118100: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:52:49 CET [2026/02/01 16:52:49 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (480 in chips) 
+Seat 2: ANARQUÍA (460 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+ANARQUÍA: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5h]
+lulim55: folds 
+ANARQUÍA: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to ANARQUÍA
+ANARQUÍA collected 40 from pot
+ANARQUÍA: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lulim55 (button) folded before Flop (didn't bet)
+Seat 2: ANARQUÍA (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259555122339: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:53:03 CET [2026/02/01 16:53:03 ET]
+Table '3971238744 1' 3-max Seat #2 is the button
+Seat 1: lulim55 (480 in chips) 
+Seat 2: ANARQUÍA (480 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+mabeal1: posts small blind 10
+lulim55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 5c]
+ANARQUÍA: raises 20 to 40
+mabeal1: folds 
+mabeal1 is sitting out
+mabeal1 has returned
+lulim55: calls 20
+*** FLOP *** [7d 8d 8c]
+lulim55: checks 
+ANARQUÍA: checks 
+*** TURN *** [7d 8d 8c] [Jc]
+lulim55: bets 90
+ANARQUÍA: calls 90
+*** RIVER *** [7d 8d 8c Jc] [7c]
+lulim55: checks 
+ANARQUÍA: checks 
+*** SHOW DOWN ***
+lulim55: shows [Jh 4s] (two pair, Jacks and Eights)
+ANARQUÍA: shows [Ad Jd] (two pair, Jacks and Eights - Ace kicker)
+ANARQUÍA collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [7d 8d 8c Jc 7c]
+Seat 1: lulim55 (big blind) showed [Jh 4s] and lost with two pair, Jacks and Eights
+Seat 2: ANARQUÍA (button) showed [Ad Jd] and won (270) with two pair, Jacks and Eights
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555141499: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:54:06 CET [2026/02/01 16:54:06 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (350 in chips) 
+Seat 2: ANARQUÍA (620 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+lulim55: posts small blind 10
+ANARQUÍA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 9s]
+mabeal1: folds 
+lulim55: raises 40 to 60
+ANARQUÍA: folds 
+Uncalled bet (40) returned to lulim55
+lulim55 collected 40 from pot
+lulim55: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lulim55 (small blind) collected (40)
+Seat 2: ANARQUÍA (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555146327: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:54:22 CET [2026/02/01 16:54:22 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (370 in chips) 
+Seat 2: ANARQUÍA (600 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+ANARQUÍA: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ts]
+lulim55: raises 40 to 60
+ANARQUÍA: raises 540 to 600 and is all-in
+mabeal1: folds 
+lulim55: calls 310 and is all-in
+Uncalled bet (230) returned to ANARQUÍA
+*** FLOP *** [Th 4d 2s]
+*** TURN *** [Th 4d 2s] [5d]
+*** RIVER *** [Th 4d 2s 5d] [Kc]
+*** SHOW DOWN ***
+ANARQUÍA: shows [Ac 9d] (high card Ace)
+lulim55: shows [Ks Ah] (a pair of Kings)
+lulim55 collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [Th 4d 2s 5d Kc]
+Seat 1: lulim55 (button) showed [Ks Ah] and won (760) with a pair of Kings
+Seat 2: ANARQUÍA (small blind) showed [Ac 9d] and lost with high card Ace
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259555155807: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:54:53 CET [2026/02/01 16:54:53 ET]
+Table '3971238744 1' 3-max Seat #2 is the button
+Seat 1: lulim55 (760 in chips) 
+Seat 2: ANARQUÍA (230 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+mabeal1: posts small blind 15
+lulim55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 6c]
+ANARQUÍA: folds 
+mabeal1: raises 45 to 75
+lulim55: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: lulim55 (big blind) folded before Flop
+Seat 2: ANARQUÍA (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259555160805: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:55:10 CET [2026/02/01 16:55:10 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (730 in chips) 
+Seat 2: ANARQUÍA (230 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+lulim55: posts small blind 15
+ANARQUÍA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Jd]
+mabeal1: raises 30 to 60
+lulim55: folds 
+ANARQUÍA: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: lulim55 (small blind) folded before Flop
+Seat 2: ANARQUÍA (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259555164065: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:55:28 CET [2026/02/01 16:55:28 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (715 in chips) 
+Seat 2: ANARQUÍA (200 in chips) 
+Seat 3: mabeal1 (585 in chips) 
+ANARQUÍA: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8d]
+lulim55: folds 
+ANARQUÍA: raises 170 to 200 and is all-in
+mabeal1: calls 170
+*** FLOP *** [5s 2s 6s]
+*** TURN *** [5s 2s 6s] [4h]
+*** RIVER *** [5s 2s 6s 4h] [3c]
+*** SHOW DOWN ***
+ANARQUÍA: shows [4s Ac] (a straight, Deuce to Six)
+mabeal1: shows [Ks 8d] (a straight, Deuce to Six)
+ANARQUÍA collected 200 from pot
+mabeal1 collected 200 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [5s 2s 6s 4h 3c]
+Seat 1: lulim55 (button) folded before Flop (didn't bet)
+Seat 2: ANARQUÍA (small blind) showed [4s Ac] and won (200) with a straight, Deuce to Six
+Seat 3: mabeal1 (big blind) showed [Ks 8d] and won (200) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #259555168915: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:55:57 CET [2026/02/01 16:55:57 ET]
+Table '3971238744 1' 3-max Seat #2 is the button
+Seat 1: lulim55 (715 in chips) 
+Seat 2: ANARQUÍA (200 in chips) 
+Seat 3: mabeal1 (585 in chips) 
+mabeal1: posts small blind 15
+lulim55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 8c]
+ANARQUÍA: folds 
+mabeal1: raises 45 to 75
+lulim55: calls 45
+*** FLOP *** [4s 5c Ks]
+mabeal1: bets 60
+lulim55: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [4s 5c Ks]
+Seat 1: lulim55 (big blind) folded on the Flop
+Seat 2: ANARQUÍA (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (150)
+
+
+
+PokerStars Hand #259555172415: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:56:17 CET [2026/02/01 16:56:17 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (640 in chips) 
+Seat 2: ANARQUÍA (200 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+lulim55: posts small blind 15
+ANARQUÍA: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ac]
+mabeal1: raises 30 to 60
+lulim55: calls 45
+ANARQUÍA: raises 140 to 200 and is all-in
+mabeal1: calls 140
+lulim55: folds 
+*** FLOP *** [Td 3c 4h]
+*** TURN *** [Td 3c 4h] [2d]
+*** RIVER *** [Td 3c 4h 2d] [Kc]
+*** SHOW DOWN ***
+ANARQUÍA: shows [6d 6c] (a pair of Sixes)
+mabeal1: shows [3s Ac] (a pair of Threes)
+ANARQUÍA collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [Td 3c 4h 2d Kc]
+Seat 1: lulim55 (small blind) folded before Flop
+Seat 2: ANARQUÍA (big blind) showed [6d 6c] and won (460) with a pair of Sixes
+Seat 3: mabeal1 (button) showed [3s Ac] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259555178971: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:56:56 CET [2026/02/01 16:56:56 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (580 in chips) 
+Seat 2: ANARQUÍA (460 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+ANARQUÍA: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 5c]
+lulim55: raises 30 to 60
+ANARQUÍA: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to lulim55
+lulim55 collected 75 from pot
+lulim55: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: lulim55 (button) collected (75)
+Seat 2: ANARQUÍA (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259555181077: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:57:08 CET [2026/02/01 16:57:08 ET]
+Table '3971238744 1' 3-max Seat #2 is the button
+Seat 1: lulim55 (625 in chips) 
+Seat 2: ANARQUÍA (445 in chips) 
+Seat 3: mabeal1 (430 in chips) 
+mabeal1: posts small blind 15
+lulim55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Jd]
+ANARQUÍA: raises 30 to 60
+mabeal1: raises 370 to 430 and is all-in
+lulim55: folds 
+ANARQUÍA: calls 370
+*** FLOP *** [8d Ac Kc]
+*** TURN *** [8d Ac Kc] [7d]
+*** RIVER *** [8d Ac Kc 7d] [5s]
+*** SHOW DOWN ***
+mabeal1: shows [Ah Jd] (a pair of Aces)
+ANARQUÍA: shows [Js Jh] (a pair of Jacks)
+mabeal1 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [8d Ac Kc 7d 5s]
+Seat 1: lulim55 (big blind) folded before Flop
+Seat 2: ANARQUÍA (button) showed [Js Jh] and lost with a pair of Jacks
+Seat 3: mabeal1 (small blind) showed [Ah Jd] and won (890) with a pair of Aces
+
+
+
+PokerStars Hand #259555184729: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:57:29 CET [2026/02/01 16:57:29 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (595 in chips) 
+Seat 2: ANARQUÍA (15 in chips) 
+Seat 3: mabeal1 (890 in chips) 
+lulim55: posts small blind 15
+ANARQUÍA: posts big blind 15 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9c]
+mabeal1: folds 
+*** FLOP *** [3h 4h Ad]
+*** TURN *** [3h 4h Ad] [As]
+*** RIVER *** [3h 4h Ad As] [Jh]
+*** SHOW DOWN ***
+lulim55: shows [8h 8d] (two pair, Aces and Eights)
+ANARQUÍA: shows [Ah 7c] (three of a kind, Aces)
+ANARQUÍA collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Board [3h 4h Ad As Jh]
+Seat 1: lulim55 (small blind) showed [8h 8d] and lost with two pair, Aces and Eights
+Seat 2: ANARQUÍA (big blind) showed [Ah 7c] and won (30) with three of a kind, Aces
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555187694: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:57:46 CET [2026/02/01 16:57:46 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (580 in chips) 
+Seat 2: ANARQUÍA (30 in chips) 
+Seat 3: mabeal1 (890 in chips) 
+ANARQUÍA: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 5d]
+lulim55: raises 40 to 80
+ANARQUÍA: calls 10 and is all-in
+mabeal1: calls 40
+*** FLOP *** [Js 4d Qs]
+mabeal1: checks 
+lulim55: checks 
+*** TURN *** [Js 4d Qs] [5s]
+mabeal1: checks 
+lulim55: bets 40
+mabeal1: calls 40
+*** RIVER *** [Js 4d Qs 5s] [4s]
+mabeal1: bets 770 and is all-in
+lulim55: folds 
+Uncalled bet (770) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [As 5d] (a flush, Ace high)
+mabeal1 collected 180 from side pot
+ANARQUÍA: shows [Td 7c] (a pair of Fours)
+mabeal1 collected 90 from main pot
+ANARQUÍA finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 270 Main pot 90. Side pot 180. | Rake 0 
+Board [Js 4d Qs 5s 4s]
+Seat 1: lulim55 (button) folded on the River
+Seat 2: ANARQUÍA (small blind) showed [Td 7c] and lost with a pair of Fours
+Seat 3: mabeal1 (big blind) showed [As 5d] and won (270) with a flush, Ace high
+
+
+
+PokerStars Hand #259555193859: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:58:21 CET [2026/02/01 16:58:21 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+mabeal1: posts small blind 20
+lulim55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Kd]
+mabeal1: raises 1000 to 1040 and is all-in
+lulim55: folds 
+Uncalled bet (1000) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: lulim55 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259555195821: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:58:32 CET [2026/02/01 16:58:32 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (420 in chips) 
+Seat 3: mabeal1 (1080 in chips) 
+lulim55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Tc]
+lulim55: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to lulim55
+lulim55 collected 80 from pot
+lulim55: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: lulim55 (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259555196786: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:58:37 CET [2026/02/01 16:58:37 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+mabeal1: posts small blind 20
+lulim55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 2c]
+mabeal1: calls 20
+lulim55: checks 
+*** FLOP *** [Qd 7s 3d]
+lulim55: checks 
+mabeal1: bets 40
+lulim55: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd 7s 3d]
+Seat 1: lulim55 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259555198660: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:58:48 CET [2026/02/01 16:58:48 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (420 in chips) 
+Seat 3: mabeal1 (1080 in chips) 
+lulim55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 4c]
+lulim55: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [4d 3c 5c]
+mabeal1: checks 
+lulim55: bets 80
+mabeal1: raises 920 to 1000 and is all-in
+lulim55: folds 
+Uncalled bet (920) returned to mabeal1
+mabeal1 collected 320 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [4d 3c 5c]
+Seat 1: lulim55 (button) (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (320)
+
+
+
+PokerStars Hand #259555202290: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:59:09 CET [2026/02/01 16:59:09 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (260 in chips) 
+Seat 3: mabeal1 (1240 in chips) 
+mabeal1: posts small blind 20
+lulim55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 3h]
+mabeal1: folds 
+Uncalled bet (20) returned to lulim55
+lulim55 collected 40 from pot
+lulim55: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lulim55 (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555203182: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:59:14 CET [2026/02/01 16:59:14 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (280 in chips) 
+Seat 3: mabeal1 (1220 in chips) 
+lulim55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 5d]
+lulim55: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lulim55 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259555204016: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:59:18 CET [2026/02/01 16:59:18 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (260 in chips) 
+Seat 3: mabeal1 (1240 in chips) 
+mabeal1: posts small blind 20
+lulim55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 5h]
+mabeal1: folds 
+Uncalled bet (20) returned to lulim55
+lulim55 collected 40 from pot
+lulim55: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lulim55 (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555205334: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:59:26 CET [2026/02/01 16:59:26 ET]
+Table '3971238744 1' 3-max Seat #1 is the button
+Seat 1: lulim55 (280 in chips) 
+Seat 3: mabeal1 (1220 in chips) 
+lulim55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 5h]
+lulim55: raises 240 to 280 and is all-in
+mabeal1: folds 
+Uncalled bet (240) returned to lulim55
+lulim55 collected 80 from pot
+lulim55: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: lulim55 (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259555206456: Tournament #3971238744, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 22:59:32 CET [2026/02/01 16:59:32 ET]
+Table '3971238744 1' 3-max Seat #3 is the button
+Seat 1: lulim55 (320 in chips) 
+Seat 3: mabeal1 (1180 in chips) 
+mabeal1: posts small blind 20
+lulim55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 9c]
+mabeal1: raises 40 to 80
+lulim55: raises 240 to 320 and is all-in
+mabeal1: calls 240
+*** FLOP *** [Qs Jh Jc]
+*** TURN *** [Qs Jh Jc] [Js]
+*** RIVER *** [Qs Jh Jc Js] [4h]
+*** SHOW DOWN ***
+lulim55: shows [Ah Ts] (three of a kind, Jacks)
+mabeal1: shows [9h 9c] (a full house, Jacks full of Nines)
+mabeal1 collected 640 from pot
+lulim55 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Qs Jh Jc Js 4h]
+Seat 1: lulim55 (big blind) showed [Ah Ts] and lost with three of a kind, Jacks
+Seat 3: mabeal1 (button) (small blind) showed [9h 9c] and won (640) with a full house, Jacks full of Nines
+
+
+

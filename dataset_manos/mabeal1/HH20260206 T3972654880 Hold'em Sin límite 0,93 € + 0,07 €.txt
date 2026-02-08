@@ -1,0 +1,734 @@
+﻿PokerStars Hand #259616484612: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:33:14 CET [2026/02/06 11:33:14 ET]
+Table '3972654880 1' 3-max Seat #1 is the button
+Seat 1: riccos38 (500 in chips) 
+Seat 2: PuaSuperStar (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+PuaSuperStar: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jh]
+riccos38: calls 20
+PuaSuperStar: raises 40 to 60
+mabeal1: folds 
+riccos38: calls 40
+*** FLOP *** [Kc Ts 5c]
+PuaSuperStar: bets 73
+riccos38: calls 73
+*** TURN *** [Kc Ts 5c] [3h]
+PuaSuperStar: bets 215
+riccos38: calls 215
+*** RIVER *** [Kc Ts 5c 3h] [6c]
+PuaSuperStar: bets 152 and is all-in
+riccos38: calls 152 and is all-in
+*** SHOW DOWN ***
+PuaSuperStar: shows [Js Ks] (a pair of Kings)
+riccos38: shows [5s Ah] (a pair of Fives)
+PuaSuperStar collected 1020 from pot
+riccos38 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Kc Ts 5c 3h 6c]
+Seat 1: riccos38 (button) showed [5s Ah] and lost with a pair of Fives
+Seat 2: PuaSuperStar (small blind) showed [Js Ks] and won (1020) with a pair of Kings
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259616491483: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:33:50 CET [2026/02/06 11:33:50 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (1020 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+PuaSuperStar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6c]
+mabeal1: calls 10
+PuaSuperStar: checks 
+*** FLOP *** [5c 6h Tc]
+PuaSuperStar: bets 20
+mabeal1: raises 20 to 40
+PuaSuperStar: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c 6h Tc]
+Seat 2: PuaSuperStar (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259616496911: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:34:19 CET [2026/02/06 11:34:19 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (980 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+PuaSuperStar: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 2d]
+PuaSuperStar: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Qd 8h 6d]
+mabeal1: checks 
+PuaSuperStar: bets 42
+mabeal1: raises 438 to 480 and is all-in
+PuaSuperStar: folds 
+Uncalled bet (438) returned to mabeal1
+mabeal1 collected 164 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 164 | Rake 0 
+Board [Qd 8h 6d]
+Seat 2: PuaSuperStar (button) (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (164)
+
+
+
+PokerStars Hand #259616501165: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:34:41 CET [2026/02/06 11:34:41 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (898 in chips) 
+Seat 3: mabeal1 (602 in chips) 
+mabeal1: posts small blind 10
+PuaSuperStar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 3d]
+mabeal1: calls 10
+PuaSuperStar: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to PuaSuperStar
+PuaSuperStar collected 40 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: PuaSuperStar (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259616502870: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:34:50 CET [2026/02/06 11:34:50 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (918 in chips) 
+Seat 3: mabeal1 (582 in chips) 
+PuaSuperStar: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 3c]
+PuaSuperStar: calls 10
+mabeal1: checks 
+*** FLOP *** [2d 4d Ac]
+mabeal1: checks 
+PuaSuperStar: checks 
+*** TURN *** [2d 4d Ac] [2s]
+mabeal1: bets 30
+PuaSuperStar: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d 4d Ac 2s]
+Seat 2: PuaSuperStar (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259616506608: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:35:10 CET [2026/02/06 11:35:10 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (898 in chips) 
+Seat 3: mabeal1 (602 in chips) 
+mabeal1: posts small blind 10
+PuaSuperStar: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Js]
+mabeal1: calls 10
+PuaSuperStar: checks 
+*** FLOP *** [3h 8s Jh]
+PuaSuperStar: checks 
+mabeal1: bets 20
+PuaSuperStar: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h 8s Jh]
+Seat 2: PuaSuperStar (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259616511687: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:35:37 CET [2026/02/06 11:35:37 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (878 in chips) 
+Seat 3: mabeal1 (622 in chips) 
+PuaSuperStar: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Kh]
+PuaSuperStar: calls 15
+mabeal1: checks 
+*** FLOP *** [8h 5c 4c]
+mabeal1: checks 
+PuaSuperStar: bets 30
+mabeal1: calls 30
+*** TURN *** [8h 5c 4c] [5s]
+mabeal1: checks 
+PuaSuperStar: bets 62
+mabeal1: calls 62
+*** RIVER *** [8h 5c 4c 5s] [Kc]
+mabeal1: checks 
+PuaSuperStar: bets 183
+mabeal1: calls 183
+*** SHOW DOWN ***
+PuaSuperStar: shows [5d Qc] (three of a kind, Fives)
+mabeal1: mucks hand 
+PuaSuperStar collected 610 from pot
+*** SUMMARY ***
+Total pot 610 | Rake 0 
+Board [8h 5c 4c 5s Kc]
+Seat 2: PuaSuperStar (button) (small blind) showed [5d Qc] and won (610) with three of a kind, Fives
+Seat 3: mabeal1 (big blind) mucked [4h Kh]
+
+
+
+PokerStars Hand #259616516943: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:36:06 CET [2026/02/06 11:36:06 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (1183 in chips) 
+Seat 3: mabeal1 (317 in chips) 
+mabeal1: posts small blind 15
+PuaSuperStar: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 8d]
+mabeal1: folds 
+Uncalled bet (15) returned to PuaSuperStar
+PuaSuperStar collected 30 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: PuaSuperStar (big blind) collected (30)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259616518037: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:36:12 CET [2026/02/06 11:36:12 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (1198 in chips) 
+Seat 3: mabeal1 (302 in chips) 
+PuaSuperStar: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Kc]
+PuaSuperStar: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: PuaSuperStar (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259616519262: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:36:19 CET [2026/02/06 11:36:19 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (1183 in chips) 
+Seat 3: mabeal1 (317 in chips) 
+mabeal1: posts small blind 15
+PuaSuperStar: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 6h]
+mabeal1: calls 15
+PuaSuperStar: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to PuaSuperStar
+PuaSuperStar collected 60 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: PuaSuperStar (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259616521554: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:36:30 CET [2026/02/06 11:36:30 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (1213 in chips) 
+Seat 3: mabeal1 (287 in chips) 
+PuaSuperStar: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Kd]
+PuaSuperStar: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to PuaSuperStar
+PuaSuperStar collected 60 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: PuaSuperStar (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259616523850: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:36:43 CET [2026/02/06 11:36:43 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (1243 in chips) 
+Seat 3: mabeal1 (257 in chips) 
+mabeal1: posts small blind 15
+PuaSuperStar: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Qd]
+mabeal1: raises 30 to 60
+PuaSuperStar: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: PuaSuperStar (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259616525227: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:36:51 CET [2026/02/06 11:36:51 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (1213 in chips) 
+Seat 3: mabeal1 (287 in chips) 
+PuaSuperStar: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 8d]
+PuaSuperStar: raises 1183 to 1213 and is all-in
+mabeal1: calls 257 and is all-in
+Uncalled bet (926) returned to PuaSuperStar
+*** FLOP *** [4d 8h 9d]
+*** TURN *** [4d 8h 9d] [Ah]
+*** RIVER *** [4d 8h 9d Ah] [3s]
+*** SHOW DOWN ***
+mabeal1: shows [As 8d] (two pair, Aces and Eights)
+PuaSuperStar: shows [8s Kh] (a pair of Eights)
+mabeal1 collected 574 from pot
+*** SUMMARY ***
+Total pot 574 | Rake 0 
+Board [4d 8h 9d Ah 3s]
+Seat 2: PuaSuperStar (button) (small blind) showed [8s Kh] and lost with a pair of Eights
+Seat 3: mabeal1 (big blind) showed [As 8d] and won (574) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #259616527895: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:37:04 CET [2026/02/06 11:37:04 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (926 in chips) 
+Seat 3: mabeal1 (574 in chips) 
+mabeal1: posts small blind 15
+PuaSuperStar: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5c]
+mabeal1: calls 15
+PuaSuperStar: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to PuaSuperStar
+PuaSuperStar collected 60 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: PuaSuperStar (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259616530455: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:37:18 CET [2026/02/06 11:37:18 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (956 in chips) 
+Seat 3: mabeal1 (544 in chips) 
+PuaSuperStar: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s As]
+PuaSuperStar: raises 40 to 80
+mabeal1: raises 464 to 544 and is all-in
+PuaSuperStar: folds 
+Uncalled bet (464) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: PuaSuperStar (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259616531802: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:37:25 CET [2026/02/06 11:37:25 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (876 in chips) 
+Seat 3: mabeal1 (624 in chips) 
+mabeal1: posts small blind 20
+PuaSuperStar: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Kd]
+mabeal1: calls 20
+PuaSuperStar: raises 80 to 120
+mabeal1: calls 80
+*** FLOP *** [Ad 6s 9s]
+PuaSuperStar: bets 125
+mabeal1: folds 
+Uncalled bet (125) returned to PuaSuperStar
+PuaSuperStar collected 240 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ad 6s 9s]
+Seat 2: PuaSuperStar (big blind) collected (240)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259616534021: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:37:37 CET [2026/02/06 11:37:37 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (996 in chips) 
+Seat 3: mabeal1 (504 in chips) 
+PuaSuperStar: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4d]
+PuaSuperStar: raises 40 to 80
+mabeal1: raises 424 to 504 and is all-in
+PuaSuperStar: folds 
+Uncalled bet (424) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: PuaSuperStar (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259616536185: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:37:49 CET [2026/02/06 11:37:49 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (916 in chips) 
+Seat 3: mabeal1 (584 in chips) 
+mabeal1: posts small blind 20
+PuaSuperStar: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Kd]
+mabeal1: calls 20
+PuaSuperStar: checks 
+*** FLOP *** [4h Ks 7c]
+PuaSuperStar: bets 40
+mabeal1: raises 40 to 80
+PuaSuperStar: calls 40
+*** TURN *** [4h Ks 7c] [9d]
+PuaSuperStar: checks 
+mabeal1: bets 180
+PuaSuperStar: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4h Ks 7c 9d]
+Seat 2: PuaSuperStar (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #259616541107: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:38:15 CET [2026/02/06 11:38:15 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (796 in chips) 
+Seat 3: mabeal1 (704 in chips) 
+PuaSuperStar: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Qd]
+PuaSuperStar: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [6s 4s 2c]
+mabeal1: checks 
+PuaSuperStar: checks 
+*** TURN *** [6s 4s 2c] [Jd]
+mabeal1: bets 120
+PuaSuperStar: raises 596 to 716 and is all-in
+mabeal1: folds 
+Uncalled bet (596) returned to PuaSuperStar
+PuaSuperStar collected 400 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [6s 4s 2c Jd]
+Seat 2: PuaSuperStar (button) (small blind) collected (400)
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259616545147: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:38:37 CET [2026/02/06 11:38:37 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (996 in chips) 
+Seat 3: mabeal1 (504 in chips) 
+mabeal1: posts small blind 20
+PuaSuperStar: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7s]
+mabeal1: calls 20
+PuaSuperStar: checks 
+*** FLOP *** [Qh 8s 4d]
+PuaSuperStar: bets 40
+mabeal1: calls 40
+*** TURN *** [Qh 8s 4d] [2h]
+PuaSuperStar: bets 80
+mabeal1: calls 80
+*** RIVER *** [Qh 8s 4d 2h] [9h]
+PuaSuperStar: checks 
+mabeal1: bets 344 and is all-in
+PuaSuperStar: folds 
+Uncalled bet (344) returned to mabeal1
+mabeal1 collected 320 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Qh 8s 4d 2h 9h]
+Seat 2: PuaSuperStar (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (320)
+
+
+
+PokerStars Hand #259616553826: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/06 17:39:23 CET [2026/02/06 11:39:23 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (836 in chips) 
+Seat 3: mabeal1 (664 in chips) 
+PuaSuperStar: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2c]
+PuaSuperStar: calls 30
+mabeal1: checks 
+*** FLOP *** [9h Ah Qh]
+mabeal1: checks 
+PuaSuperStar: checks 
+*** TURN *** [9h Ah Qh] [9c]
+mabeal1: checks 
+PuaSuperStar: checks 
+*** RIVER *** [9h Ah Qh 9c] [9s]
+mabeal1: checks 
+PuaSuperStar: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7d 2c] (three of a kind, Nines)
+PuaSuperStar: shows [5d 8c] (three of a kind, Nines)
+mabeal1 collected 60 from pot
+PuaSuperStar collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h Ah Qh 9c 9s]
+Seat 2: PuaSuperStar (button) (small blind) showed [5d 8c] and won (60) with three of a kind, Nines
+Seat 3: mabeal1 (big blind) showed [7d 2c] and won (60) with three of a kind, Nines
+
+
+
+PokerStars Hand #259616560103: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/06 17:39:57 CET [2026/02/06 11:39:57 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (836 in chips) 
+Seat 3: mabeal1 (664 in chips) 
+mabeal1: posts small blind 30
+PuaSuperStar: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Th]
+mabeal1: calls 30
+PuaSuperStar: checks 
+*** FLOP *** [Ks Ac Jc]
+PuaSuperStar: checks 
+mabeal1: bets 60
+PuaSuperStar: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ks Ac Jc]
+Seat 2: PuaSuperStar (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259616564248: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/06 17:40:19 CET [2026/02/06 11:40:19 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (776 in chips) 
+Seat 3: mabeal1 (724 in chips) 
+PuaSuperStar: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Qc]
+PuaSuperStar: calls 30
+mabeal1: raises 120 to 180
+PuaSuperStar: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: PuaSuperStar (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259616566339: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/06 17:40:30 CET [2026/02/06 11:40:30 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (716 in chips) 
+Seat 3: mabeal1 (784 in chips) 
+mabeal1: posts small blind 30
+PuaSuperStar: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Td]
+mabeal1: calls 30
+PuaSuperStar: checks 
+*** FLOP *** [Jc 2c 4s]
+PuaSuperStar: checks 
+mabeal1: bets 60
+PuaSuperStar: raises 120 to 180
+mabeal1: folds 
+Uncalled bet (120) returned to PuaSuperStar
+PuaSuperStar collected 240 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jc 2c 4s]
+Seat 2: PuaSuperStar (big blind) collected (240)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259616569588: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/06 17:40:48 CET [2026/02/06 11:40:48 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (836 in chips) 
+Seat 3: mabeal1 (664 in chips) 
+PuaSuperStar: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Qc]
+PuaSuperStar: calls 30
+mabeal1: checks 
+*** FLOP *** [9c 2s 3h]
+mabeal1: checks 
+PuaSuperStar: bets 60
+mabeal1: calls 60
+*** TURN *** [9c 2s 3h] [7d]
+mabeal1: checks 
+PuaSuperStar: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to PuaSuperStar
+PuaSuperStar collected 240 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9c 2s 3h 7d]
+Seat 2: PuaSuperStar (button) (small blind) collected (240)
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259616573600: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/06 17:41:09 CET [2026/02/06 11:41:09 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (956 in chips) 
+Seat 3: mabeal1 (544 in chips) 
+mabeal1: posts small blind 30
+PuaSuperStar: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 8c]
+mabeal1: raises 60 to 120
+PuaSuperStar: raises 836 to 956 and is all-in
+mabeal1: folds 
+Uncalled bet (836) returned to PuaSuperStar
+PuaSuperStar collected 240 from pot
+PuaSuperStar: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: PuaSuperStar (big blind) collected (240)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259616576970: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/06 17:41:27 CET [2026/02/06 11:41:27 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (1076 in chips) 
+Seat 3: mabeal1 (424 in chips) 
+PuaSuperStar: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7c]
+PuaSuperStar: calls 40
+mabeal1: checks 
+*** FLOP *** [2c Js 4s]
+mabeal1: checks 
+PuaSuperStar: checks 
+*** TURN *** [2c Js 4s] [4d]
+mabeal1: checks 
+PuaSuperStar: checks 
+*** RIVER *** [2c Js 4s 4d] [5h]
+mabeal1: bets 80
+PuaSuperStar: calls 80
+*** SHOW DOWN ***
+mabeal1: shows [4h 7c] (three of a kind, Fours)
+PuaSuperStar: mucks hand 
+mabeal1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [2c Js 4s 4d 5h]
+Seat 2: PuaSuperStar (button) (small blind) mucked [Qs 6c]
+Seat 3: mabeal1 (big blind) showed [4h 7c] and won (320) with three of a kind, Fours
+
+
+
+PokerStars Hand #259616581633: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/06 17:41:52 CET [2026/02/06 11:41:52 ET]
+Table '3972654880 1' 3-max Seat #3 is the button
+Seat 2: PuaSuperStar (916 in chips) 
+Seat 3: mabeal1 (584 in chips) 
+mabeal1: posts small blind 40
+PuaSuperStar: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 2d]
+mabeal1: raises 504 to 584 and is all-in
+PuaSuperStar: folds 
+Uncalled bet (504) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: PuaSuperStar (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259616583671: Tournament #3972654880, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/06 17:42:03 CET [2026/02/06 11:42:03 ET]
+Table '3972654880 1' 3-max Seat #2 is the button
+Seat 2: PuaSuperStar (836 in chips) 
+Seat 3: mabeal1 (664 in chips) 
+PuaSuperStar: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 4h]
+PuaSuperStar: calls 40
+mabeal1: checks 
+*** FLOP *** [9c 4s Th]
+mabeal1: checks 
+PuaSuperStar: bets 80
+mabeal1: calls 80
+*** TURN *** [9c 4s Th] [Ks]
+mabeal1: checks 
+PuaSuperStar: bets 160
+mabeal1: raises 344 to 504 and is all-in
+PuaSuperStar: calls 344
+*** RIVER *** [9c 4s Th Ks] [8s]
+*** SHOW DOWN ***
+mabeal1: shows [2c 4h] (a pair of Fours)
+PuaSuperStar: shows [Kc Ts] (two pair, Kings and Tens)
+PuaSuperStar collected 1328 from pot
+mabeal1 finished the tournament in 2nd place
+PuaSuperStar wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1328 | Rake 0 
+Board [9c 4s Th Ks 8s]
+Seat 2: PuaSuperStar (button) (small blind) showed [Kc Ts] and won (1328) with two pair, Kings and Tens
+Seat 3: mabeal1 (big blind) showed [2c 4h] and lost with a pair of Fours
+
+
+

@@ -1,0 +1,410 @@
+﻿PokerStars Hand #259554990014: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:45:54 CET [2026/02/01 16:45:54 ET]
+Table '3971237190 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Souldia (500 in chips) 
+Seat 3: FMaiaGT (500 in chips) 
+Souldia: posts small blind 10
+FMaiaGT: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 3c]
+mabeal1: raises 20 to 40
+Souldia: folds 
+FMaiaGT: calls 20
+*** FLOP *** [9h Qd Qc]
+FMaiaGT: bets 20
+mabeal1: calls 20
+*** TURN *** [9h Qd Qc] [Jc]
+FMaiaGT: bets 20
+mabeal1: calls 20
+*** RIVER *** [9h Qd Qc Jc] [Ks]
+FMaiaGT: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+FMaiaGT: shows [3d 2d] (a pair of Queens)
+mabeal1: shows [Ad 3c] (a pair of Queens - Ace kicker)
+mabeal1 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [9h Qd Qc Jc Ks]
+Seat 1: mabeal1 (button) showed [Ad 3c] and won (170) with a pair of Queens
+Seat 2: Souldia (small blind) folded before Flop
+Seat 3: FMaiaGT (big blind) showed [3d 2d] and lost with a pair of Queens
+
+
+
+PokerStars Hand #259554999415: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:46:24 CET [2026/02/01 16:46:24 ET]
+Table '3971237190 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: Souldia (490 in chips) 
+Seat 3: FMaiaGT (420 in chips) 
+FMaiaGT: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5c]
+Souldia: folds 
+FMaiaGT: calls 10
+mabeal1: checks 
+*** FLOP *** [As 4c 9d]
+FMaiaGT: checks 
+mabeal1: bets 20
+FMaiaGT: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As 4c 9d]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Souldia (button) folded before Flop (didn't bet)
+Seat 3: FMaiaGT (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259555005185: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:46:43 CET [2026/02/01 16:46:43 ET]
+Table '3971237190 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: Souldia (490 in chips) 
+Seat 3: FMaiaGT (400 in chips) 
+mabeal1: posts small blind 10
+Souldia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Jd]
+FMaiaGT: calls 20
+mabeal1: calls 10
+Souldia: checks 
+*** FLOP *** [8c 7h 2s]
+mabeal1: checks 
+Souldia: checks 
+FMaiaGT: checks 
+*** TURN *** [8c 7h 2s] [6d]
+mabeal1: checks 
+Souldia: checks 
+FMaiaGT: bets 20
+mabeal1: folds 
+Souldia: folds 
+Uncalled bet (20) returned to FMaiaGT
+FMaiaGT collected 60 from pot
+FMaiaGT: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c 7h 2s 6d]
+Seat 1: mabeal1 (small blind) folded on the Turn
+Seat 2: Souldia (big blind) folded on the Turn
+Seat 3: FMaiaGT (button) collected (60)
+
+
+
+PokerStars Hand #259555017259: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:47:22 CET [2026/02/01 16:47:22 ET]
+Table '3971237190 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: Souldia (470 in chips) 
+Seat 3: FMaiaGT (440 in chips) 
+Souldia: posts small blind 10
+FMaiaGT: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 3h]
+mabeal1: folds 
+Souldia: calls 10
+FMaiaGT: raises 60 to 80
+Souldia: calls 60
+*** FLOP *** [As 2d Js]
+Souldia: bets 160
+FMaiaGT: calls 160
+*** TURN *** [As 2d Js] [Th]
+Souldia: bets 60
+FMaiaGT: calls 60
+*** RIVER *** [As 2d Js Th] [Jd]
+Souldia: bets 40
+FMaiaGT: calls 40
+*** SHOW DOWN ***
+Souldia: shows [Ad 3c] (two pair, Aces and Jacks)
+FMaiaGT: mucks hand 
+Souldia collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [As 2d Js Th Jd]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Souldia (small blind) showed [Ad 3c] and won (680) with two pair, Aces and Jacks
+Seat 3: FMaiaGT (big blind) mucked [6h 6c]
+
+
+
+PokerStars Hand #259555026109: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:47:51 CET [2026/02/01 16:47:51 ET]
+Table '3971237190 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: Souldia (810 in chips) 
+Seat 3: FMaiaGT (100 in chips) 
+FMaiaGT: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 6s]
+Souldia: calls 20
+FMaiaGT: folds 
+mabeal1: checks 
+*** FLOP *** [Ac Tc 5h]
+mabeal1: checks 
+Souldia: checks 
+*** TURN *** [Ac Tc 5h] [8h]
+mabeal1: checks 
+Souldia: checks 
+*** RIVER *** [Ac Tc 5h 8h] [Qc]
+mabeal1: checks 
+Souldia: checks 
+*** SHOW DOWN ***
+mabeal1: shows [2h 6s] (high card Ace)
+Souldia: shows [Jd 6h] (high card Ace - Queen+Jack kicker)
+Souldia collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ac Tc 5h 8h Qc]
+Seat 1: mabeal1 (big blind) showed [2h 6s] and lost with high card Ace
+Seat 2: Souldia (button) showed [Jd 6h] and won (50) with high card Ace
+Seat 3: FMaiaGT (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555035724: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:48:22 CET [2026/02/01 16:48:22 ET]
+Table '3971237190 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: Souldia (840 in chips) 
+Seat 3: FMaiaGT (90 in chips) 
+mabeal1: posts small blind 10
+Souldia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9c]
+FMaiaGT: folds 
+mabeal1: raises 20 to 40
+Souldia: calls 20
+*** FLOP *** [9d 5s Jc]
+mabeal1: bets 40
+Souldia: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 5s Jc]
+Seat 1: mabeal1 (small blind) collected (80)
+Seat 2: Souldia (big blind) folded on the Flop
+Seat 3: FMaiaGT (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555040679: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 22:48:38 CET [2026/02/01 16:48:38 ET]
+Table '3971237190 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: Souldia (800 in chips) 
+Seat 3: FMaiaGT (90 in chips) 
+Souldia: posts small blind 10
+FMaiaGT: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Kh]
+mabeal1: raises 20 to 40
+Souldia: calls 30
+FMaiaGT: calls 20
+*** FLOP *** [Qd Kc Tc]
+Souldia: checks 
+FMaiaGT: checks 
+mabeal1: bets 60
+Souldia: folds 
+FMaiaGT: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd Kc Tc]
+Seat 1: mabeal1 (button) collected (120)
+Seat 2: Souldia (small blind) folded on the Flop
+Seat 3: FMaiaGT (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259555050343: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:49:09 CET [2026/02/01 16:49:09 ET]
+Table '3971237190 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 2: Souldia (760 in chips) 
+Seat 3: FMaiaGT (50 in chips) 
+FMaiaGT: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ad]
+Souldia: calls 30
+FMaiaGT: raises 20 to 50 and is all-in
+mabeal1: raises 640 to 690 and is all-in
+Souldia: folds 
+Uncalled bet (640) returned to mabeal1
+*** FLOP *** [5c 9d Jh]
+*** TURN *** [5c 9d Jh] [Kc]
+*** RIVER *** [5c 9d Jh Kc] [Th]
+*** SHOW DOWN ***
+FMaiaGT: shows [Ac 8d] (high card Ace)
+mabeal1: shows [5h Ad] (a pair of Fives)
+mabeal1 collected 130 from pot
+FMaiaGT finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5c 9d Jh Kc Th]
+Seat 1: mabeal1 (big blind) showed [5h Ad] and won (130) with a pair of Fives
+Seat 2: Souldia (button) folded before Flop
+Seat 3: FMaiaGT (small blind) showed [Ac 8d] and lost with high card Ace
+
+
+
+PokerStars Hand #259555057194: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:49:32 CET [2026/02/01 16:49:32 ET]
+Table '3971237190 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (770 in chips) 
+Seat 2: Souldia (730 in chips) 
+mabeal1: posts small blind 15
+Souldia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 9c]
+mabeal1: raises 30 to 60
+Souldia: calls 30
+*** FLOP *** [4c 7s 3h]
+Souldia: bets 180
+mabeal1: folds 
+Uncalled bet (180) returned to Souldia
+Souldia collected 120 from pot
+Souldia: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c 7s 3h]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 2: Souldia (big blind) collected (120)
+
+
+
+PokerStars Hand #259555061507: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:49:45 CET [2026/02/01 16:49:45 ET]
+Table '3971237190 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 2: Souldia (790 in chips) 
+Souldia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3s]
+Souldia: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: Souldia (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555063101: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:49:51 CET [2026/02/01 16:49:51 ET]
+Table '3971237190 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (725 in chips) 
+Seat 2: Souldia (775 in chips) 
+mabeal1: posts small blind 15
+Souldia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7d]
+mabeal1: raises 30 to 60
+Souldia: calls 30
+*** FLOP *** [9c 9d Js]
+Souldia: checks 
+mabeal1: checks 
+*** TURN *** [9c 9d Js] [Th]
+Souldia: checks 
+mabeal1: checks 
+*** RIVER *** [9c 9d Js Th] [4h]
+Souldia: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Souldia: shows [Qc 7h] (a pair of Nines)
+mabeal1: shows [Kc 7d] (a pair of Nines - King kicker)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c 9d Js Th 4h]
+Seat 1: mabeal1 (button) (small blind) showed [Kc 7d] and won (120) with a pair of Nines
+Seat 2: Souldia (big blind) showed [Qc 7h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259555069354: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:50:11 CET [2026/02/01 16:50:11 ET]
+Table '3971237190 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (785 in chips) 
+Seat 2: Souldia (715 in chips) 
+Souldia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 3c]
+Souldia: calls 15
+mabeal1: checks 
+*** FLOP *** [6h Kd 2d]
+mabeal1: checks 
+Souldia: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Souldia
+Souldia collected 60 from pot
+Souldia: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h Kd 2d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Souldia (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259555073773: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:50:25 CET [2026/02/01 16:50:25 ET]
+Table '3971237190 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (755 in chips) 
+Seat 2: Souldia (745 in chips) 
+mabeal1: posts small blind 15
+Souldia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 9c]
+mabeal1: calls 15
+Souldia: checks 
+*** FLOP *** [5d 6c 7h]
+Souldia: checks 
+mabeal1: checks 
+*** TURN *** [5d 6c 7h] [8c]
+Souldia: checks 
+mabeal1: bets 270
+Souldia: raises 270 to 540
+mabeal1: raises 185 to 725 and is all-in
+Souldia: calls 175 and is all-in
+Uncalled bet (10) returned to mabeal1
+*** RIVER *** [5d 6c 7h 8c] [2d]
+*** SHOW DOWN ***
+Souldia: shows [Td 9s] (a straight, Six to Ten)
+mabeal1: shows [5s 9c] (a straight, Five to Nine)
+Souldia collected 1490 from pot
+*** SUMMARY ***
+Total pot 1490 | Rake 0 
+Board [5d 6c 7h 8c 2d]
+Seat 1: mabeal1 (button) (small blind) showed [5s 9c] and lost with a straight, Five to Nine
+Seat 2: Souldia (big blind) showed [Td 9s] and won (1490) with a straight, Six to Ten
+
+
+
+PokerStars Hand #259555082099: Tournament #3971237190, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 22:50:52 CET [2026/02/01 16:50:52 ET]
+Table '3971237190 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (10 in chips) 
+Seat 2: Souldia (1490 in chips) 
+Souldia: posts small blind 15
+mabeal1: posts big blind 10 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 4s]
+Uncalled bet (5) returned to Souldia
+*** FLOP *** [Tc 7s 8c]
+*** TURN *** [Tc 7s 8c] [3s]
+*** RIVER *** [Tc 7s 8c 3s] [9s]
+*** SHOW DOWN ***
+mabeal1: shows [9h 4s] (a pair of Nines)
+Souldia: shows [8d 6c] (a straight, Six to Ten)
+Souldia collected 20 from pot
+mabeal1 finished the tournament in 2nd place
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Board [Tc 7s 8c 3s 9s]
+Seat 1: mabeal1 (big blind) showed [9h 4s] and lost with a pair of Nines
+Seat 2: Souldia (button) (small blind) showed [8d 6c] and won (20) with a straight, Six to Ten
+
+
+

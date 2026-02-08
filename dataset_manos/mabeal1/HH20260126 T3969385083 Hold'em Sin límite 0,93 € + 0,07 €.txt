@@ -1,0 +1,418 @@
+﻿PokerStars Hand #259473718489: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:15:50 CET [2026/01/26 15:15:50 ET]
+Table '3969385083 1' 3-max Seat #1 is the button
+Seat 1: Ah Leão! (500 in chips) 
+Seat 2: melMCH (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+melMCH: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2c]
+Ah Leão!: calls 20
+melMCH: calls 10
+mabeal1: checks 
+*** FLOP *** [Ks 4h Js]
+melMCH: checks 
+mabeal1: checks 
+Ah Leão!: checks 
+*** TURN *** [Ks 4h Js] [6s]
+melMCH: bets 20
+mabeal1: calls 20
+Ah Leão!: folds 
+*** RIVER *** [Ks 4h Js 6s] [Kd]
+melMCH: bets 100
+mabeal1: calls 100
+*** SHOW DOWN ***
+melMCH: shows [Ts Qs] (a flush, King high)
+mabeal1: mucks hand 
+melMCH collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ks 4h Js 6s Kd]
+Seat 1: Ah Leão! (button) folded on the Turn
+Seat 2: melMCH (small blind) showed [Ts Qs] and won (300) with a flush, King high
+Seat 3: mabeal1 (big blind) mucked [Jd 2c]
+
+
+
+PokerStars Hand #259473724563: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:16:12 CET [2026/01/26 15:16:12 ET]
+Table '3969385083 1' 3-max Seat #2 is the button
+Seat 1: Ah Leão! (480 in chips) 
+Seat 2: melMCH (660 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+mabeal1: posts small blind 10
+Ah Leão!: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 8c]
+melMCH: calls 20
+mabeal1: folds 
+Ah Leão!: raises 64 to 84
+melMCH: calls 64
+*** FLOP *** [As 8d 4h]
+Ah Leão!: bets 231
+melMCH: folds 
+Uncalled bet (231) returned to Ah Leão!
+Ah Leão! collected 178 from pot
+Ah Leão!: doesn't show hand 
+*** SUMMARY ***
+Total pot 178 | Rake 0 
+Board [As 8d 4h]
+Seat 1: Ah Leão! (big blind) collected (178)
+Seat 2: melMCH (button) folded on the Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259473731359: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:16:37 CET [2026/01/26 15:16:37 ET]
+Table '3969385083 1' 3-max Seat #3 is the button
+Seat 1: Ah Leão! (574 in chips) 
+Seat 2: melMCH (576 in chips) 
+Seat 3: mabeal1 (350 in chips) 
+Ah Leão!: posts small blind 10
+melMCH: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Th]
+mabeal1: folds 
+Ah Leão!: folds 
+Uncalled bet (10) returned to melMCH
+melMCH collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Ah Leão! (small blind) folded before Flop
+Seat 2: melMCH (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259473734145: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:16:47 CET [2026/01/26 15:16:47 ET]
+Table '3969385083 1' 3-max Seat #1 is the button
+Seat 1: Ah Leão! (564 in chips) 
+Seat 2: melMCH (586 in chips) 
+Seat 3: mabeal1 (350 in chips) 
+melMCH: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 5c]
+Ah Leão!: raises 22 to 42
+melMCH: folds 
+mabeal1: calls 22
+*** FLOP *** [As 7d Kc]
+mabeal1: checks 
+Ah Leão!: checks 
+*** TURN *** [As 7d Kc] [4d]
+mabeal1: bets 71
+Ah Leão!: calls 71
+*** RIVER *** [As 7d Kc 4d] [7s]
+mabeal1: checks 
+Ah Leão!: bets 186
+mabeal1: folds 
+Uncalled bet (186) returned to Ah Leão!
+Ah Leão! collected 236 from pot
+Ah Leão!: doesn't show hand 
+*** SUMMARY ***
+Total pot 236 | Rake 0 
+Board [As 7d Kc 4d 7s]
+Seat 1: Ah Leão! (button) collected (236)
+Seat 2: melMCH (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259473743100: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:17:20 CET [2026/01/26 15:17:20 ET]
+Table '3969385083 1' 3-max Seat #2 is the button
+Seat 1: Ah Leão! (687 in chips) 
+Seat 2: melMCH (576 in chips) 
+Seat 3: mabeal1 (237 in chips) 
+mabeal1: posts small blind 10
+Ah Leão!: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 2h]
+melMCH: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Ah Leão!
+Ah Leão! collected 20 from pot
+Ah Leão!: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Ah Leão! (big blind) collected (20)
+Seat 2: melMCH (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259473745223: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:17:28 CET [2026/01/26 15:17:28 ET]
+Table '3969385083 1' 3-max Seat #3 is the button
+Seat 1: Ah Leão! (697 in chips) 
+Seat 2: melMCH (576 in chips) 
+Seat 3: mabeal1 (227 in chips) 
+Ah Leão!: posts small blind 10
+melMCH: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 4c]
+mabeal1: raises 207 to 227 and is all-in
+Ah Leão!: folds 
+melMCH: calls 207
+*** FLOP *** [2c Jd 2d]
+*** TURN *** [2c Jd 2d] [6s]
+*** RIVER *** [2c Jd 2d 6s] [9d]
+*** SHOW DOWN ***
+melMCH: shows [Ac Kc] (a pair of Deuces)
+mabeal1: shows [4h 4c] (two pair, Fours and Deuces)
+mabeal1 collected 464 from pot
+*** SUMMARY ***
+Total pot 464 | Rake 0 
+Board [2c Jd 2d 6s 9d]
+Seat 1: Ah Leão! (small blind) folded before Flop
+Seat 2: melMCH (big blind) showed [Ac Kc] and lost with a pair of Deuces
+Seat 3: mabeal1 (button) showed [4h 4c] and won (464) with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #259473749047: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:17:42 CET [2026/01/26 15:17:42 ET]
+Table '3969385083 1' 3-max Seat #1 is the button
+Seat 1: Ah Leão! (687 in chips) 
+Seat 2: melMCH (349 in chips) 
+Seat 3: mabeal1 (464 in chips) 
+melMCH: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6s]
+Ah Leão!: folds 
+melMCH: calls 10
+mabeal1: raises 444 to 464 and is all-in
+melMCH: folds 
+Uncalled bet (444) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Ah Leão! (button) folded before Flop (didn't bet)
+Seat 2: melMCH (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259473754087: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:18:01 CET [2026/01/26 15:18:01 ET]
+Table '3969385083 1' 3-max Seat #2 is the button
+Seat 1: Ah Leão! (687 in chips) 
+Seat 2: melMCH (329 in chips) 
+Seat 3: mabeal1 (484 in chips) 
+mabeal1: posts small blind 15
+Ah Leão!: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 4h]
+melMCH: calls 30
+mabeal1: calls 15
+Ah Leão!: checks 
+*** FLOP *** [2d Qd Js]
+mabeal1: checks 
+Ah Leão!: bets 117
+melMCH: calls 117
+mabeal1: folds 
+*** TURN *** [2d Qd Js] [Kh]
+Ah Leão!: bets 421
+melMCH: calls 182 and is all-in
+Uncalled bet (239) returned to Ah Leão!
+*** RIVER *** [2d Qd Js Kh] [3s]
+*** SHOW DOWN ***
+Ah Leão!: shows [Th Qs] (a pair of Queens)
+melMCH: shows [As 6s] (high card Ace)
+Ah Leão! collected 688 from pot
+melMCH finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 688 | Rake 0 
+Board [2d Qd Js Kh 3s]
+Seat 1: Ah Leão! (big blind) showed [Th Qs] and won (688) with a pair of Queens
+Seat 2: melMCH (button) showed [As 6s] and lost with high card Ace
+Seat 3: mabeal1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259473761314: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:18:27 CET [2026/01/26 15:18:27 ET]
+Table '3969385083 1' 3-max Seat #1 is the button
+Seat 1: Ah Leão! (1046 in chips) 
+Seat 3: mabeal1 (454 in chips) 
+Ah Leão!: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4d]
+Ah Leão!: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Ah Leão! (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259473763211: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:18:34 CET [2026/01/26 15:18:34 ET]
+Table '3969385083 1' 3-max Seat #3 is the button
+Seat 1: Ah Leão! (1031 in chips) 
+Seat 3: mabeal1 (469 in chips) 
+mabeal1: posts small blind 15
+Ah Leão!: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Jc]
+mabeal1: calls 15
+Ah Leão!: checks 
+*** FLOP *** [3s Ks Kd]
+Ah Leão!: checks 
+mabeal1: bets 30
+Ah Leão!: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s Ks Kd]
+Seat 1: Ah Leão! (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259473766878: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:18:48 CET [2026/01/26 15:18:48 ET]
+Table '3969385083 1' 3-max Seat #1 is the button
+Seat 1: Ah Leão! (1001 in chips) 
+Seat 3: mabeal1 (499 in chips) 
+Ah Leão!: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Tc]
+Ah Leão!: raises 33 to 63
+mabeal1: folds 
+Uncalled bet (33) returned to Ah Leão!
+Ah Leão! collected 60 from pot
+Ah Leão!: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Ah Leão! (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259473768600: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:18:54 CET [2026/01/26 15:18:54 ET]
+Table '3969385083 1' 3-max Seat #3 is the button
+Seat 1: Ah Leão! (1031 in chips) 
+Seat 3: mabeal1 (469 in chips) 
+mabeal1: posts small blind 15
+Ah Leão!: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Qd]
+mabeal1: calls 15
+Ah Leão!: checks 
+*** FLOP *** [Jc Qs 6s]
+Ah Leão!: checks 
+mabeal1: bets 30
+Ah Leão!: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc Qs 6s]
+Seat 1: Ah Leão! (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259473772392: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:19:08 CET [2026/01/26 15:19:08 ET]
+Table '3969385083 1' 3-max Seat #1 is the button
+Seat 1: Ah Leão! (1001 in chips) 
+Seat 3: mabeal1 (499 in chips) 
+Ah Leão!: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 6s]
+Ah Leão!: raises 33 to 63
+mabeal1: calls 33
+*** FLOP *** [5d Qc 9c]
+mabeal1: checks 
+Ah Leão!: bets 164
+mabeal1: folds 
+Uncalled bet (164) returned to Ah Leão!
+Ah Leão! collected 126 from pot
+Ah Leão!: doesn't show hand 
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [5d Qc 9c]
+Seat 1: Ah Leão! (button) (small blind) collected (126)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259473777754: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:19:28 CET [2026/01/26 15:19:28 ET]
+Table '3969385083 1' 3-max Seat #3 is the button
+Seat 1: Ah Leão! (1064 in chips) 
+Seat 3: mabeal1 (436 in chips) 
+mabeal1: posts small blind 15
+Ah Leão!: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 8c]
+mabeal1: calls 15
+Ah Leão!: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Ah Leão!
+Ah Leão! collected 60 from pot
+Ah Leão!: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Ah Leão! (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259473783146: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:19:48 CET [2026/01/26 15:19:48 ET]
+Table '3969385083 1' 3-max Seat #1 is the button
+Seat 1: Ah Leão! (1094 in chips) 
+Seat 3: mabeal1 (406 in chips) 
+Ah Leão!: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 9d]
+Ah Leão!: raises 39 to 69
+mabeal1: calls 39
+*** FLOP *** [2c 5c Tc]
+mabeal1: checks 
+Ah Leão!: checks 
+*** TURN *** [2c 5c Tc] [Ts]
+mabeal1: bets 337 and is all-in
+Ah Leão!: folds 
+Uncalled bet (337) returned to mabeal1
+mabeal1 collected 138 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 138 | Rake 0 
+Board [2c 5c Tc Ts]
+Seat 1: Ah Leão! (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (138)
+
+
+
+PokerStars Hand #259473790197: Tournament #3969385083, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 21:20:14 CET [2026/01/26 15:20:14 ET]
+Table '3969385083 1' 3-max Seat #3 is the button
+Seat 1: Ah Leão! (1025 in chips) 
+Seat 3: mabeal1 (475 in chips) 
+mabeal1: posts small blind 20
+Ah Leão!: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ah]
+mabeal1: raises 435 to 475 and is all-in
+Ah Leão!: calls 435
+*** FLOP *** [9d Ts 5h]
+*** TURN *** [9d Ts 5h] [Jh]
+*** RIVER *** [9d Ts 5h Jh] [8s]
+*** SHOW DOWN ***
+Ah Leão!: shows [Qd Kc] (a straight, Nine to King)
+mabeal1: shows [3h Ah] (high card Ace)
+Ah Leão! collected 950 from pot
+mabeal1 finished the tournament in 2nd place
+Ah Leão! wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [9d Ts 5h Jh 8s]
+Seat 1: Ah Leão! (big blind) showed [Qd Kc] and won (950) with a straight, Nine to King
+Seat 3: mabeal1 (button) (small blind) showed [3h Ah] and lost with high card Ace
+
+
+

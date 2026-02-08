@@ -1,0 +1,697 @@
+﻿PokerStars Hand #259390540909: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 17:34:40 CET [2026/01/20 11:34:40 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: ajg1292 (500 in chips) 
+mabeal1: posts small blind 10
+ajg1292: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Kh]
+PACOMAXI: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to ajg1292
+ajg1292 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PACOMAXI (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ajg1292 (big blind) collected (20)
+
+
+
+PokerStars Hand #259390542619: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 17:34:49 CET [2026/01/20 11:34:49 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (500 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: ajg1292 (510 in chips) 
+ajg1292: posts small blind 10
+PACOMAXI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 3d]
+mabeal1: folds 
+ajg1292: calls 10
+PACOMAXI: checks 
+*** FLOP *** [7s Ks 8h]
+ajg1292: checks 
+PACOMAXI: checks 
+*** TURN *** [7s Ks 8h] [2s]
+ajg1292: checks 
+PACOMAXI: checks 
+*** RIVER *** [7s Ks 8h 2s] [3s]
+ajg1292: bets 40
+PACOMAXI: folds 
+Uncalled bet (40) returned to ajg1292
+ajg1292 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s Ks 8h 2s 3s]
+Seat 1: PACOMAXI (big blind) folded on the River
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ajg1292 (small blind) collected (40)
+
+
+
+PokerStars Hand #259390548377: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 17:35:19 CET [2026/01/20 11:35:19 ET]
+Table '3967462807 1' 3-max Seat #3 is the button
+Seat 1: PACOMAXI (480 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: ajg1292 (530 in chips) 
+PACOMAXI: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 5d]
+ajg1292: folds 
+PACOMAXI: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PACOMAXI (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: ajg1292 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390550108: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 17:35:28 CET [2026/01/20 11:35:28 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (470 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: ajg1292 (530 in chips) 
+mabeal1: posts small blind 10
+ajg1292: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qh]
+PACOMAXI: calls 20
+mabeal1: raises 480 to 500 and is all-in
+ajg1292: folds 
+PACOMAXI: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: PACOMAXI (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: ajg1292 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390552581: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 17:35:40 CET [2026/01/20 11:35:40 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (450 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: ajg1292 (510 in chips) 
+ajg1292: posts small blind 10
+PACOMAXI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ah]
+mabeal1: raises 520 to 540 and is all-in
+ajg1292: folds 
+PACOMAXI: folds 
+Uncalled bet (520) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: PACOMAXI (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: ajg1292 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390554234: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 17:35:49 CET [2026/01/20 11:35:49 ET]
+Table '3967462807 1' 3-max Seat #3 is the button
+Seat 1: PACOMAXI (430 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: ajg1292 (500 in chips) 
+PACOMAXI: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 8s]
+ajg1292: calls 20
+PACOMAXI: folds 
+mabeal1: checks 
+*** FLOP *** [Ac Qh Ah]
+mabeal1: checks 
+ajg1292: checks 
+*** TURN *** [Ac Qh Ah] [2d]
+mabeal1: checks 
+ajg1292: checks 
+*** RIVER *** [Ac Qh Ah 2d] [Ts]
+mabeal1: checks 
+ajg1292: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Jd 8s] (a pair of Aces)
+ajg1292: mucks hand 
+mabeal1 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ac Qh Ah 2d Ts]
+Seat 1: PACOMAXI (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [Jd 8s] and won (50) with a pair of Aces
+Seat 3: ajg1292 (button) mucked [8c 7h]
+
+
+
+PokerStars Hand #259390560085: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 17:36:19 CET [2026/01/20 11:36:19 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (420 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: ajg1292 (480 in chips) 
+mabeal1: posts small blind 10
+ajg1292: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Qs]
+PACOMAXI: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to ajg1292
+ajg1292 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PACOMAXI (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ajg1292 (big blind) collected (20)
+
+
+
+PokerStars Hand #259390562239: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 17:36:30 CET [2026/01/20 11:36:30 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (420 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: ajg1292 (490 in chips) 
+ajg1292: posts small blind 10
+PACOMAXI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3c]
+mabeal1: folds 
+ajg1292: folds 
+Uncalled bet (10) returned to PACOMAXI
+PACOMAXI collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PACOMAXI (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ajg1292 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390563313: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 17:36:35 CET [2026/01/20 11:36:35 ET]
+Table '3967462807 1' 3-max Seat #3 is the button
+Seat 1: PACOMAXI (430 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: ajg1292 (480 in chips) 
+PACOMAXI: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4d]
+ajg1292: raises 60 to 80
+PACOMAXI: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to ajg1292
+ajg1292 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: PACOMAXI (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: ajg1292 (button) collected (50)
+
+
+
+PokerStars Hand #259390566961: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 17:36:54 CET [2026/01/20 11:36:54 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (420 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: ajg1292 (510 in chips) 
+mabeal1: posts small blind 15
+ajg1292: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Kc]
+PACOMAXI: raises 390 to 420 and is all-in
+mabeal1: folds 
+ajg1292: folds 
+Uncalled bet (390) returned to PACOMAXI
+PACOMAXI collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: PACOMAXI (button) collected (75)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ajg1292 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390570308: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 17:37:11 CET [2026/01/20 11:37:11 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (465 in chips) 
+Seat 2: mabeal1 (555 in chips) 
+Seat 3: ajg1292 (480 in chips) 
+ajg1292: posts small blind 15
+PACOMAXI: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4h]
+mabeal1: folds 
+ajg1292: calls 15
+PACOMAXI: checks 
+*** FLOP *** [Qc 9h 3d]
+ajg1292: checks 
+PACOMAXI: checks 
+*** TURN *** [Qc 9h 3d] [7h]
+ajg1292: checks 
+PACOMAXI: checks 
+*** RIVER *** [Qc 9h 3d 7h] [Ah]
+ajg1292: checks 
+PACOMAXI: checks 
+*** SHOW DOWN ***
+ajg1292: shows [4s 6s] (high card Ace)
+PACOMAXI: shows [Ks 2h] (high card Ace - King kicker)
+PACOMAXI collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc 9h 3d 7h Ah]
+Seat 1: PACOMAXI (big blind) showed [Ks 2h] and won (60) with high card Ace
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ajg1292 (small blind) showed [4s 6s] and lost with high card Ace
+
+
+
+PokerStars Hand #259390574461: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 17:37:33 CET [2026/01/20 11:37:33 ET]
+Table '3967462807 1' 3-max Seat #3 is the button
+Seat 1: PACOMAXI (495 in chips) 
+Seat 2: mabeal1 (555 in chips) 
+Seat 3: ajg1292 (450 in chips) 
+PACOMAXI: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 6d]
+ajg1292: calls 30
+PACOMAXI: calls 15
+mabeal1: checks 
+*** FLOP *** [4s 7c Js]
+PACOMAXI: checks 
+mabeal1: checks 
+ajg1292: bets 30
+PACOMAXI: folds 
+mabeal1: calls 30
+*** TURN *** [4s 7c Js] [8d]
+mabeal1: checks 
+ajg1292: bets 30
+mabeal1: calls 30
+*** RIVER *** [4s 7c Js 8d] [3h]
+mabeal1: checks 
+ajg1292: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to ajg1292
+ajg1292 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [4s 7c Js 8d 3h]
+Seat 1: PACOMAXI (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: ajg1292 (button) collected (210)
+
+
+
+PokerStars Hand #259390579927: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 17:38:02 CET [2026/01/20 11:38:02 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (465 in chips) 
+Seat 2: mabeal1 (465 in chips) 
+Seat 3: ajg1292 (570 in chips) 
+mabeal1: posts small blind 15
+ajg1292: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7c]
+PACOMAXI: folds 
+mabeal1: raises 30 to 60
+ajg1292: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: PACOMAXI (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: ajg1292 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390581506: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 17:38:10 CET [2026/01/20 11:38:10 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (465 in chips) 
+Seat 2: mabeal1 (495 in chips) 
+Seat 3: ajg1292 (540 in chips) 
+ajg1292: posts small blind 15
+PACOMAXI: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2s]
+mabeal1: folds 
+ajg1292: calls 15
+PACOMAXI: checks 
+*** FLOP *** [9h Ah 3c]
+ajg1292: bets 30
+PACOMAXI: calls 30
+*** TURN *** [9h Ah 3c] [8s]
+ajg1292: bets 30
+PACOMAXI: calls 30
+*** RIVER *** [9h Ah 3c 8s] [Ts]
+ajg1292: bets 30
+PACOMAXI: raises 345 to 375 and is all-in
+ajg1292: folds 
+Uncalled bet (345) returned to PACOMAXI
+PACOMAXI collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9h Ah 3c 8s Ts]
+Seat 1: PACOMAXI (big blind) collected (240)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ajg1292 (small blind) folded on the River
+
+
+
+PokerStars Hand #259390586629: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 17:38:36 CET [2026/01/20 11:38:36 ET]
+Table '3967462807 1' 3-max Seat #3 is the button
+Seat 1: PACOMAXI (585 in chips) 
+Seat 2: mabeal1 (495 in chips) 
+Seat 3: ajg1292 (420 in chips) 
+PACOMAXI: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 3s]
+ajg1292: raises 30 to 60
+PACOMAXI: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to ajg1292
+ajg1292 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: PACOMAXI (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: ajg1292 (button) collected (75)
+
+
+
+PokerStars Hand #259390588752: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:38:47 CET [2026/01/20 11:38:47 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (570 in chips) 
+Seat 2: mabeal1 (465 in chips) 
+Seat 3: ajg1292 (465 in chips) 
+mabeal1: posts small blind 20
+ajg1292: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Th]
+PACOMAXI: folds 
+mabeal1: raises 425 to 465 and is all-in
+ajg1292: folds 
+Uncalled bet (425) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: PACOMAXI (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (80)
+Seat 3: ajg1292 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390590545: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:38:57 CET [2026/01/20 11:38:57 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (570 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: ajg1292 (425 in chips) 
+ajg1292: posts small blind 20
+PACOMAXI: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7d]
+mabeal1: folds 
+ajg1292: calls 20
+PACOMAXI: raises 530 to 570 and is all-in
+ajg1292: folds 
+Uncalled bet (530) returned to PACOMAXI
+PACOMAXI collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: PACOMAXI (big blind) collected (80)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ajg1292 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390592467: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:39:06 CET [2026/01/20 11:39:06 ET]
+Table '3967462807 1' 3-max Seat #3 is the button
+Seat 1: PACOMAXI (610 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: ajg1292 (385 in chips) 
+PACOMAXI: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9c]
+ajg1292: calls 40
+PACOMAXI: folds 
+mabeal1: checks 
+*** FLOP *** [Ah Qs Td]
+mabeal1: checks 
+ajg1292: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to ajg1292
+ajg1292 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ah Qs Td]
+Seat 1: PACOMAXI (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: ajg1292 (button) collected (100)
+
+
+
+PokerStars Hand #259390594803: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:39:19 CET [2026/01/20 11:39:19 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (590 in chips) 
+Seat 2: mabeal1 (465 in chips) 
+Seat 3: ajg1292 (445 in chips) 
+mabeal1: posts small blind 20
+ajg1292: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Jc]
+PACOMAXI: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to ajg1292
+ajg1292 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: PACOMAXI (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ajg1292 (big blind) collected (40)
+
+
+
+PokerStars Hand #259390596009: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:39:25 CET [2026/01/20 11:39:25 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (590 in chips) 
+Seat 2: mabeal1 (445 in chips) 
+Seat 3: ajg1292 (465 in chips) 
+ajg1292: posts small blind 20
+PACOMAXI: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6d]
+mabeal1: raises 405 to 445 and is all-in
+ajg1292: folds 
+PACOMAXI: folds 
+Uncalled bet (405) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: PACOMAXI (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (100)
+Seat 3: ajg1292 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390597557: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:39:33 CET [2026/01/20 11:39:33 ET]
+Table '3967462807 1' 3-max Seat #3 is the button
+Seat 1: PACOMAXI (550 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: ajg1292 (445 in chips) 
+PACOMAXI: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Td]
+ajg1292: folds 
+PACOMAXI: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: PACOMAXI (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: ajg1292 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390598954: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:39:40 CET [2026/01/20 11:39:40 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (530 in chips) 
+Seat 2: mabeal1 (525 in chips) 
+Seat 3: ajg1292 (445 in chips) 
+mabeal1: posts small blind 20
+ajg1292: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 5c]
+PACOMAXI: folds 
+mabeal1: raises 40 to 80
+ajg1292: calls 40
+*** FLOP *** [Kc 7h 2s]
+mabeal1: bets 80
+ajg1292: calls 80
+*** TURN *** [Kc 7h 2s] [Qc]
+mabeal1: checks 
+ajg1292: bets 40
+mabeal1: calls 40
+*** RIVER *** [Kc 7h 2s Qc] [5d]
+mabeal1: bets 325 and is all-in
+ajg1292: calls 245 and is all-in
+Uncalled bet (80) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Kh 5c] (two pair, Kings and Fives)
+ajg1292: shows [Ac Qd] (a pair of Queens)
+mabeal1 collected 890 from pot
+ajg1292 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [Kc 7h 2s Qc 5d]
+Seat 1: PACOMAXI (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Kh 5c] and won (890) with two pair, Kings and Fives
+Seat 3: ajg1292 (big blind) showed [Ac Qd] and lost with a pair of Queens
+
+
+
+PokerStars Hand #259390605578: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:40:14 CET [2026/01/20 11:40:14 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (530 in chips) 
+Seat 2: mabeal1 (970 in chips) 
+mabeal1: posts small blind 20
+PACOMAXI: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3s]
+mabeal1: calls 20
+PACOMAXI: checks 
+*** FLOP *** [6h 8h Jc]
+PACOMAXI: bets 490 and is all-in
+mabeal1: folds 
+Uncalled bet (490) returned to PACOMAXI
+PACOMAXI collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 8h Jc]
+Seat 1: PACOMAXI (big blind) collected (80)
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259390608403: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:40:29 CET [2026/01/20 11:40:29 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (570 in chips) 
+Seat 2: mabeal1 (930 in chips) 
+PACOMAXI: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 2d]
+PACOMAXI: raises 530 to 570 and is all-in
+mabeal1: folds 
+Uncalled bet (530) returned to PACOMAXI
+PACOMAXI collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: PACOMAXI (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390609912: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 17:40:37 CET [2026/01/20 11:40:37 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (610 in chips) 
+Seat 2: mabeal1 (890 in chips) 
+mabeal1: posts small blind 20
+PACOMAXI: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 8c]
+mabeal1: raises 40 to 80
+PACOMAXI: raises 530 to 610 and is all-in
+mabeal1: folds 
+Uncalled bet (530) returned to PACOMAXI
+PACOMAXI collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: PACOMAXI (big blind) collected (160)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390613756: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 17:40:56 CET [2026/01/20 11:40:56 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (690 in chips) 
+Seat 2: mabeal1 (810 in chips) 
+PACOMAXI: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4c]
+PACOMAXI: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: PACOMAXI (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259390614800: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 17:41:02 CET [2026/01/20 11:41:02 ET]
+Table '3967462807 1' 3-max Seat #2 is the button
+Seat 1: PACOMAXI (660 in chips) 
+Seat 2: mabeal1 (840 in chips) 
+mabeal1: posts small blind 30
+PACOMAXI: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 7d]
+mabeal1: calls 30
+PACOMAXI: raises 600 to 660 and is all-in
+mabeal1: folds 
+Uncalled bet (600) returned to PACOMAXI
+PACOMAXI collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: PACOMAXI (big blind) collected (120)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390616846: Tournament #3967462807, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 17:41:12 CET [2026/01/20 11:41:12 ET]
+Table '3967462807 1' 3-max Seat #1 is the button
+Seat 1: PACOMAXI (720 in chips) 
+Seat 2: mabeal1 (780 in chips) 
+PACOMAXI: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Qd]
+PACOMAXI: calls 30
+mabeal1: raises 720 to 780 and is all-in
+PACOMAXI: calls 660 and is all-in
+Uncalled bet (60) returned to mabeal1
+*** FLOP *** [Js Ks Qc]
+*** TURN *** [Js Ks Qc] [8c]
+*** RIVER *** [Js Ks Qc 8c] [6s]
+*** SHOW DOWN ***
+mabeal1: shows [Jd Qd] (two pair, Queens and Jacks)
+PACOMAXI: shows [Ah Kd] (a pair of Kings)
+mabeal1 collected 1440 from pot
+PACOMAXI finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1440 | Rake 0 
+Board [Js Ks Qc 8c 6s]
+Seat 1: PACOMAXI (button) (small blind) showed [Ah Kd] and lost with a pair of Kings
+Seat 2: mabeal1 (big blind) showed [Jd Qd] and won (1440) with two pair, Queens and Jacks
+
+
+

@@ -1,0 +1,715 @@
+﻿PokerStars Hand #259561014420: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:51:50 CET [2026/02/02 6:51:50 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (500 in chips) 
+Seat 2: Miguelpof (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Miguelpof: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 4s]
+33Nobru33: raises 40 to 60
+Miguelpof: calls 50
+mabeal1: folds 
+*** FLOP *** [6s Kh 8d]
+Miguelpof: checks 
+33Nobru33: bets 180
+Miguelpof: folds 
+Uncalled bet (180) returned to 33Nobru33
+33Nobru33 collected 140 from pot
+33Nobru33: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [6s Kh 8d]
+Seat 1: 33Nobru33 (button) collected (140)
+Seat 2: Miguelpof (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561016031: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:52:04 CET [2026/02/02 6:52:04 ET]
+Table '3971375657 1' 3-max Seat #2 is the button
+Seat 1: 33Nobru33 (580 in chips) 
+Seat 2: Miguelpof (440 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+33Nobru33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Jd]
+Miguelpof: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to 33Nobru33
+33Nobru33 collected 20 from pot
+33Nobru33: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 33Nobru33 (big blind) collected (20)
+Seat 2: Miguelpof (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561017017: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:52:14 CET [2026/02/02 6:52:14 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (590 in chips) 
+Seat 2: Miguelpof (440 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+33Nobru33: posts small blind 10
+Miguelpof: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Kh]
+mabeal1: raises 20 to 40
+33Nobru33: folds 
+Miguelpof: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: 33Nobru33 (small blind) folded before Flop
+Seat 2: Miguelpof (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259561018217: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:52:24 CET [2026/02/02 6:52:24 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (580 in chips) 
+Seat 2: Miguelpof (420 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Miguelpof: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 2c]
+33Nobru33: calls 20
+Miguelpof: raises 40 to 60
+mabeal1: folds 
+33Nobru33: calls 40
+*** FLOP *** [Qc 2s Th]
+Miguelpof: checks 
+33Nobru33: bets 60
+Miguelpof: folds 
+Uncalled bet (60) returned to 33Nobru33
+33Nobru33 collected 140 from pot
+33Nobru33: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Qc 2s Th]
+Seat 1: 33Nobru33 (button) collected (140)
+Seat 2: Miguelpof (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561020166: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:52:43 CET [2026/02/02 6:52:43 ET]
+Table '3971375657 1' 3-max Seat #2 is the button
+Seat 1: 33Nobru33 (660 in chips) 
+Seat 2: Miguelpof (360 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+33Nobru33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 2c]
+Miguelpof: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to 33Nobru33
+33Nobru33 collected 20 from pot
+33Nobru33: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 33Nobru33 (big blind) collected (20)
+Seat 2: Miguelpof (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561021183: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:52:52 CET [2026/02/02 6:52:52 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (670 in chips) 
+Seat 2: Miguelpof (360 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+33Nobru33: posts small blind 10
+Miguelpof: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 4c]
+mabeal1: folds 
+33Nobru33: folds 
+Uncalled bet (10) returned to Miguelpof
+Miguelpof collected 20 from pot
+Miguelpof: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 33Nobru33 (small blind) folded before Flop
+Seat 2: Miguelpof (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561022075: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:53:01 CET [2026/02/02 6:53:01 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (660 in chips) 
+Seat 2: Miguelpof (370 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+Miguelpof: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 5s]
+33Nobru33: folds 
+Miguelpof: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 33Nobru33 (button) folded before Flop (didn't bet)
+Seat 2: Miguelpof (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259561022735: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:53:07 CET [2026/02/02 6:53:07 ET]
+Table '3971375657 1' 3-max Seat #2 is the button
+Seat 1: 33Nobru33 (660 in chips) 
+Seat 2: Miguelpof (360 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+33Nobru33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 8d]
+Miguelpof: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to 33Nobru33
+33Nobru33 collected 20 from pot
+33Nobru33: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 33Nobru33 (big blind) collected (20)
+Seat 2: Miguelpof (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561023549: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:53:15 CET [2026/02/02 6:53:15 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (670 in chips) 
+Seat 2: Miguelpof (360 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+33Nobru33: posts small blind 10
+Miguelpof: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 8c]
+mabeal1: folds 
+33Nobru33: folds 
+Uncalled bet (10) returned to Miguelpof
+Miguelpof collected 20 from pot
+Miguelpof: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 33Nobru33 (small blind) folded before Flop
+Seat 2: Miguelpof (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561024146: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:53:20 CET [2026/02/02 6:53:20 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (660 in chips) 
+Seat 2: Miguelpof (370 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+Miguelpof: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5c]
+33Nobru33: folds 
+Miguelpof: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to Miguelpof
+Miguelpof collected 40 from pot
+Miguelpof: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: 33Nobru33 (button) folded before Flop (didn't bet)
+Seat 2: Miguelpof (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561025474: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:53:33 CET [2026/02/02 6:53:33 ET]
+Table '3971375657 1' 3-max Seat #2 is the button
+Seat 1: 33Nobru33 (660 in chips) 
+Seat 2: Miguelpof (390 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+mabeal1: posts small blind 10
+33Nobru33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3c]
+Miguelpof: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to 33Nobru33
+33Nobru33 collected 20 from pot
+33Nobru33: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 33Nobru33 (big blind) collected (20)
+Seat 2: Miguelpof (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561026108: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:53:39 CET [2026/02/02 6:53:39 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (670 in chips) 
+Seat 2: Miguelpof (390 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+33Nobru33: posts small blind 10
+Miguelpof: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 7s]
+mabeal1: raises 20 to 40
+33Nobru33: folds 
+Miguelpof: calls 20
+*** FLOP *** [8h Ad 9h]
+Miguelpof: checks 
+mabeal1: bets 40
+Miguelpof: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8h Ad 9h]
+Seat 1: 33Nobru33 (small blind) folded before Flop
+Seat 2: Miguelpof (big blind) folded on the Flop
+Seat 3: mabeal1 (button) collected (90)
+
+
+
+PokerStars Hand #259561027771: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:53:54 CET [2026/02/02 6:53:54 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (660 in chips) 
+Seat 2: Miguelpof (350 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+Miguelpof: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3s]
+33Nobru33: folds 
+Miguelpof: calls 10
+mabeal1: checks 
+*** FLOP *** [Qs Kc 9d]
+Miguelpof: checks 
+mabeal1: checks 
+*** TURN *** [Qs Kc 9d] [Ac]
+Miguelpof: checks 
+mabeal1: bets 30
+Miguelpof: calls 30
+*** RIVER *** [Qs Kc 9d Ac] [8c]
+Miguelpof: checks 
+mabeal1: bets 180
+Miguelpof: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Qs Kc 9d Ac 8c]
+Seat 1: 33Nobru33 (button) folded before Flop (didn't bet)
+Seat 2: Miguelpof (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (100)
+
+
+
+PokerStars Hand #259561030313: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:54:18 CET [2026/02/02 6:54:18 ET]
+Table '3971375657 1' 3-max Seat #2 is the button
+Seat 1: 33Nobru33 (660 in chips) 
+Seat 2: Miguelpof (300 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+mabeal1: posts small blind 10
+33Nobru33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Js]
+Miguelpof: folds 
+mabeal1: raises 520 to 540 and is all-in
+33Nobru33: folds 
+Uncalled bet (520) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: 33Nobru33 (big blind) folded before Flop
+Seat 2: Miguelpof (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259561032208: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:54:36 CET [2026/02/02 6:54:36 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (640 in chips) 
+Seat 2: Miguelpof (300 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+33Nobru33: posts small blind 10
+Miguelpof: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2d]
+mabeal1: folds 
+33Nobru33: folds 
+Uncalled bet (10) returned to Miguelpof
+Miguelpof collected 20 from pot
+Miguelpof: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 33Nobru33 (small blind) folded before Flop
+Seat 2: Miguelpof (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561033336: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 12:54:47 CET [2026/02/02 6:54:47 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (630 in chips) 
+Seat 2: Miguelpof (310 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+Miguelpof: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 5d]
+33Nobru33: folds 
+Miguelpof: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 33Nobru33 (button) folded before Flop (didn't bet)
+Seat 2: Miguelpof (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259561034353: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:54:56 CET [2026/02/02 6:54:56 ET]
+Table '3971375657 1' 3-max Seat #2 is the button
+Seat 1: 33Nobru33 (630 in chips) 
+Seat 2: Miguelpof (300 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+mabeal1: posts small blind 15
+33Nobru33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 8d]
+Miguelpof: folds 
+mabeal1: raises 45 to 75
+33Nobru33: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: 33Nobru33 (big blind) folded before Flop
+Seat 2: Miguelpof (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259561035466: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:55:07 CET [2026/02/02 6:55:07 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (600 in chips) 
+Seat 2: Miguelpof (300 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+33Nobru33: posts small blind 15
+Miguelpof: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Th]
+mabeal1: raises 60 to 90
+33Nobru33: folds 
+Miguelpof: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: 33Nobru33 (small blind) folded before Flop
+Seat 2: Miguelpof (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259561036918: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:55:23 CET [2026/02/02 6:55:23 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (585 in chips) 
+Seat 2: Miguelpof (270 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+Miguelpof: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 4d]
+33Nobru33: folds 
+Miguelpof: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to Miguelpof
+Miguelpof collected 60 from pot
+Miguelpof: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: 33Nobru33 (button) folded before Flop (didn't bet)
+Seat 2: Miguelpof (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561037704: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:55:32 CET [2026/02/02 6:55:32 ET]
+Table '3971375657 1' 3-max Seat #2 is the button
+Seat 1: 33Nobru33 (585 in chips) 
+Seat 2: Miguelpof (300 in chips) 
+Seat 3: mabeal1 (615 in chips) 
+mabeal1: posts small blind 15
+33Nobru33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5s]
+Miguelpof: folds 
+mabeal1: raises 45 to 75
+33Nobru33: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: 33Nobru33 (big blind) folded before Flop
+Seat 2: Miguelpof (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259561038770: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:55:45 CET [2026/02/02 6:55:45 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (555 in chips) 
+Seat 2: Miguelpof (300 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+33Nobru33: posts small blind 15
+Miguelpof: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 8c]
+mabeal1: folds 
+33Nobru33: folds 
+Uncalled bet (15) returned to Miguelpof
+Miguelpof collected 30 from pot
+Miguelpof: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: 33Nobru33 (small blind) folded before Flop
+Seat 2: Miguelpof (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561039447: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:55:53 CET [2026/02/02 6:55:53 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (540 in chips) 
+Seat 2: Miguelpof (315 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+Miguelpof: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Qc]
+33Nobru33: folds 
+Miguelpof: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: 33Nobru33 (button) folded before Flop (didn't bet)
+Seat 2: Miguelpof (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259561040590: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:56:06 CET [2026/02/02 6:56:06 ET]
+Table '3971375657 1' 3-max Seat #2 is the button
+Seat 1: 33Nobru33 (540 in chips) 
+Seat 2: Miguelpof (300 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+mabeal1: posts small blind 15
+33Nobru33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 8c]
+Miguelpof: raises 60 to 90
+mabeal1: folds 
+33Nobru33: raises 450 to 540 and is all-in
+Miguelpof: calls 210 and is all-in
+Uncalled bet (240) returned to 33Nobru33
+*** FLOP *** [Jc 4s 4c]
+*** TURN *** [Jc 4s 4c] [Qh]
+*** RIVER *** [Jc 4s 4c Qh] [Kd]
+*** SHOW DOWN ***
+33Nobru33: shows [9s 9d] (two pair, Nines and Fours)
+Miguelpof: shows [8h Qc] (two pair, Queens and Fours)
+Miguelpof collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [Jc 4s 4c Qh Kd]
+Seat 1: 33Nobru33 (big blind) showed [9s 9d] and lost with two pair, Nines and Fours
+Seat 2: Miguelpof (button) showed [8h Qc] and won (615) with two pair, Queens and Fours
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561042037: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:56:22 CET [2026/02/02 6:56:22 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (240 in chips) 
+Seat 2: Miguelpof (615 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+33Nobru33: posts small blind 15
+Miguelpof: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ac]
+mabeal1: raises 30 to 60
+33Nobru33: calls 45
+Miguelpof: folds 
+*** FLOP *** [5c 9s 8s]
+33Nobru33: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to 33Nobru33
+33Nobru33 collected 150 from pot
+33Nobru33: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [5c 9s 8s]
+Seat 1: 33Nobru33 (small blind) collected (150)
+Seat 2: Miguelpof (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded on the Flop
+
+
+
+PokerStars Hand #259561043507: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:56:40 CET [2026/02/02 6:56:40 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (330 in chips) 
+Seat 2: Miguelpof (585 in chips) 
+Seat 3: mabeal1 (585 in chips) 
+Miguelpof: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 4c]
+33Nobru33: folds 
+Miguelpof: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [9d 7h 5d]
+Miguelpof: bets 90
+mabeal1: raises 270 to 360
+Miguelpof: calls 270
+*** TURN *** [9d 7h 5d] [4s]
+Miguelpof: bets 135 and is all-in
+mabeal1: calls 135 and is all-in
+*** RIVER *** [9d 7h 5d 4s] [2c]
+*** SHOW DOWN ***
+Miguelpof: shows [Ad 6c] (high card Ace)
+mabeal1: shows [9c 4c] (two pair, Nines and Fours)
+mabeal1 collected 1170 from pot
+Miguelpof finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1170 | Rake 0 
+Board [9d 7h 5d 4s 2c]
+Seat 1: 33Nobru33 (button) folded before Flop (didn't bet)
+Seat 2: Miguelpof (small blind) showed [Ad 6c] and lost with high card Ace
+Seat 3: mabeal1 (big blind) showed [9c 4c] and won (1170) with two pair, Nines and Fours
+
+
+
+PokerStars Hand #259561045858: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:57:07 CET [2026/02/02 6:57:07 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (330 in chips) 
+Seat 3: mabeal1 (1170 in chips) 
+mabeal1: posts small blind 15
+33Nobru33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8d]
+mabeal1: calls 15
+33Nobru33: checks 
+*** FLOP *** [3d Qc 7d]
+33Nobru33: checks 
+mabeal1: bets 30
+33Nobru33: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d Qc 7d]
+Seat 1: 33Nobru33 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259561046871: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:57:19 CET [2026/02/02 6:57:19 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (300 in chips) 
+Seat 3: mabeal1 (1200 in chips) 
+33Nobru33: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ac]
+33Nobru33: calls 15
+mabeal1: raises 1170 to 1200 and is all-in
+33Nobru33: folds 
+Uncalled bet (1170) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: 33Nobru33 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259561047494: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:57:27 CET [2026/02/02 6:57:27 ET]
+Table '3971375657 1' 3-max Seat #3 is the button
+Seat 1: 33Nobru33 (270 in chips) 
+Seat 3: mabeal1 (1230 in chips) 
+mabeal1: posts small blind 15
+33Nobru33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3s]
+mabeal1: calls 15
+33Nobru33: raises 240 to 270 and is all-in
+mabeal1: folds 
+Uncalled bet (240) returned to 33Nobru33
+33Nobru33 collected 60 from pot
+33Nobru33: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: 33Nobru33 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561048344: Tournament #3971375657, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 12:57:37 CET [2026/02/02 6:57:37 ET]
+Table '3971375657 1' 3-max Seat #1 is the button
+Seat 1: 33Nobru33 (300 in chips) 
+Seat 3: mabeal1 (1200 in chips) 
+33Nobru33: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 9s]
+33Nobru33: calls 15
+mabeal1: checks 
+*** FLOP *** [3h 9d 7s]
+mabeal1: checks 
+33Nobru33: checks 
+*** TURN *** [3h 9d 7s] [Kh]
+mabeal1: checks 
+33Nobru33: checks 
+*** RIVER *** [3h 9d 7s Kh] [Ts]
+mabeal1: bets 45
+33Nobru33: raises 225 to 270 and is all-in
+mabeal1: calls 225
+*** SHOW DOWN ***
+33Nobru33: shows [Js Kd] (a pair of Kings)
+mabeal1: shows [3s 9s] (two pair, Nines and Threes)
+mabeal1 collected 600 from pot
+33Nobru33 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [3h 9d 7s Kh Ts]
+Seat 1: 33Nobru33 (button) (small blind) showed [Js Kd] and lost with a pair of Kings
+Seat 3: mabeal1 (big blind) showed [3s 9s] and won (600) with two pair, Nines and Threes
+
+
+

@@ -1,0 +1,152 @@
+﻿PokerStars Hand #259550069032: Tournament #3971147708, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:50:21 CET [2026/02/01 11:50:21 ET]
+Table '3971147708 1' 3-max Seat #1 is the button
+Seat 1: caterpie14 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: nilax (500 in chips) 
+mabeal1: posts small blind 10
+nilax: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 2d]
+caterpie14: raises 20 to 40
+mabeal1: calls 30
+nilax: calls 20
+*** FLOP *** [5d 4h 7s]
+mabeal1: checks 
+nilax: checks 
+caterpie14: checks 
+*** TURN *** [5d 4h 7s] [3d]
+mabeal1: checks 
+nilax: checks 
+caterpie14: checks 
+*** RIVER *** [5d 4h 7s 3d] [6c]
+mabeal1: checks 
+nilax: bets 240
+caterpie14: raises 220 to 460 and is all-in
+mabeal1: folds 
+nilax: calls 220 and is all-in
+*** SHOW DOWN ***
+caterpie14: shows [Kc 8h] (a straight, Four to Eight)
+nilax: shows [Jc Kh] (a straight, Three to Seven)
+caterpie14 collected 1040 from pot
+nilax finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [5d 4h 7s 3d 6c]
+Seat 1: caterpie14 (button) showed [Kc 8h] and won (1040) with a straight, Four to Eight
+Seat 2: mabeal1 (small blind) folded on the River
+Seat 3: nilax (big blind) showed [Jc Kh] and lost with a straight, Three to Seven
+
+
+
+PokerStars Hand #259550080409: Tournament #3971147708, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:51:08 CET [2026/02/01 11:51:08 ET]
+Table '3971147708 1' 3-max Seat #2 is the button
+Seat 1: caterpie14 (1040 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+caterpie14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 2c]
+mabeal1: calls 10
+caterpie14: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to caterpie14
+caterpie14 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: caterpie14 (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259550083186: Tournament #3971147708, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:51:20 CET [2026/02/01 11:51:20 ET]
+Table '3971147708 1' 3-max Seat #1 is the button
+Seat 1: caterpie14 (1060 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+caterpie14: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Jc]
+caterpie14: raises 20 to 40
+mabeal1: raises 400 to 440 and is all-in
+caterpie14: calls 400
+*** FLOP *** [Jh Td Tc]
+*** TURN *** [Jh Td Tc] [8c]
+*** RIVER *** [Jh Td Tc 8c] [8d]
+*** SHOW DOWN ***
+mabeal1: shows [Ah Jc] (two pair, Jacks and Tens)
+caterpie14: shows [Kh 9c] (two pair, Tens and Eights)
+mabeal1 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Jh Td Tc 8c 8d]
+Seat 1: caterpie14 (button) (small blind) showed [Kh 9c] and lost with two pair, Tens and Eights
+Seat 2: mabeal1 (big blind) showed [Ah Jc] and won (880) with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #259550086855: Tournament #3971147708, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:51:34 CET [2026/02/01 11:51:34 ET]
+Table '3971147708 1' 3-max Seat #2 is the button
+Seat 1: caterpie14 (620 in chips) 
+Seat 2: mabeal1 (880 in chips) 
+mabeal1: posts small blind 10
+caterpie14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 5d]
+mabeal1: calls 10
+caterpie14: checks 
+*** FLOP *** [6d 8s 6c]
+caterpie14: checks 
+mabeal1: checks 
+*** TURN *** [6d 8s 6c] [Td]
+caterpie14: checks 
+mabeal1: checks 
+*** RIVER *** [6d 8s 6c Td] [2h]
+caterpie14: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+caterpie14: shows [3h Kd] (a pair of Sixes)
+mabeal1: shows [Ks 5d] (a pair of Sixes)
+caterpie14 collected 20 from pot
+mabeal1 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6d 8s 6c Td 2h]
+Seat 1: caterpie14 (big blind) showed [3h Kd] and won (20) with a pair of Sixes
+Seat 2: mabeal1 (button) (small blind) showed [Ks 5d] and won (20) with a pair of Sixes
+
+
+
+PokerStars Hand #259550091789: Tournament #3971147708, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:51:55 CET [2026/02/01 11:51:55 ET]
+Table '3971147708 1' 3-max Seat #1 is the button
+Seat 1: caterpie14 (620 in chips) 
+Seat 2: mabeal1 (880 in chips) 
+caterpie14: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9d]
+caterpie14: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Ac 7d Qc]
+mabeal1: checks 
+caterpie14: checks 
+*** TURN *** [Ac 7d Qc] [8d]
+mabeal1: bets 60
+caterpie14: calls 60
+*** RIVER *** [Ac 7d Qc 8d] [Qd]
+mabeal1: bets 780 and is all-in
+caterpie14: calls 520 and is all-in
+Uncalled bet (260) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Qs 9d] (three of a kind, Queens)
+caterpie14: shows [9s 9c] (two pair, Queens and Nines)
+mabeal1 collected 1240 from pot
+caterpie14 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Ac 7d Qc 8d Qd]
+Seat 1: caterpie14 (button) (small blind) showed [9s 9c] and lost with two pair, Queens and Nines
+Seat 2: mabeal1 (big blind) showed [Qs 9d] and won (1240) with three of a kind, Queens
+
+
+

@@ -1,0 +1,449 @@
+﻿PokerStars Hand #259589357141: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:19:43 CET [2026/02/04 11:19:43 ET]
+Table '3972020212 1' 3-max Seat #1 is the button
+Seat 1: miguelapios (500 in chips) 
+Seat 2: varotis (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+varotis: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4s]
+miguelapios: calls 20
+varotis: calls 10
+mabeal1: checks 
+*** FLOP *** [Qc 5h Qd]
+varotis: checks 
+mabeal1: checks 
+miguelapios: checks 
+*** TURN *** [Qc 5h Qd] [Qh]
+varotis: checks 
+mabeal1: checks 
+miguelapios: checks 
+*** RIVER *** [Qc 5h Qd Qh] [2h]
+varotis: checks 
+mabeal1: checks 
+miguelapios: checks 
+*** SHOW DOWN ***
+varotis: shows [8d 5s] (a full house, Queens full of Fives)
+mabeal1: mucks hand 
+miguelapios: mucks hand 
+varotis collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qc 5h Qd Qh 2h]
+Seat 1: miguelapios (button) mucked [7s Ks]
+Seat 2: varotis (small blind) showed [8d 5s] and won (60) with a full house, Queens full of Fives
+Seat 3: mabeal1 (big blind) mucked [3c 4s]
+
+
+
+PokerStars Hand #259589367453: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:20:37 CET [2026/02/04 11:20:37 ET]
+Table '3972020212 1' 3-max Seat #2 is the button
+Seat 1: miguelapios (480 in chips) 
+Seat 2: varotis (540 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+miguelapios: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Jc]
+varotis: calls 20
+mabeal1: raises 40 to 60
+miguelapios has timed out
+miguelapios: folds 
+miguelapios is sitting out
+varotis: calls 40
+*** FLOP *** [3s Kh 6c]
+mabeal1: bets 70
+varotis: calls 70
+*** TURN *** [3s Kh 6c] [3c]
+mabeal1: bets 210
+varotis: folds 
+Uncalled bet (210) returned to mabeal1
+mabeal1 collected 280 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [3s Kh 6c 3c]
+Seat 1: miguelapios (big blind) folded before Flop
+Seat 2: varotis (button) folded on the Turn
+Seat 3: mabeal1 (small blind) collected (280)
+
+
+
+PokerStars Hand #259589380984: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:21:48 CET [2026/02/04 11:21:48 ET]
+Table '3972020212 1' 3-max Seat #3 is the button
+Seat 1: miguelapios (460 in chips) is sitting out
+Seat 2: varotis (410 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+miguelapios: posts small blind 10
+varotis: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Td]
+mabeal1: raises 20 to 40
+miguelapios: folds 
+varotis: calls 20
+*** FLOP *** [6d 2c Kh]
+varotis: checks 
+mabeal1: checks 
+*** TURN *** [6d 2c Kh] [7h]
+varotis: checks 
+miguelapios has returned
+mabeal1: checks 
+*** RIVER *** [6d 2c Kh 7h] [4d]
+varotis: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+varotis: shows [Kc 9c] (a pair of Kings)
+mabeal1: mucks hand 
+varotis collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6d 2c Kh 7h 4d]
+Seat 1: miguelapios (small blind) folded before Flop
+Seat 2: varotis (big blind) showed [Kc 9c] and won (90) with a pair of Kings
+Seat 3: mabeal1 (button) mucked [Qh Td]
+
+
+
+PokerStars Hand #259589386711: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:22:19 CET [2026/02/04 11:22:19 ET]
+Table '3972020212 1' 3-max Seat #1 is the button
+Seat 1: miguelapios (450 in chips) 
+Seat 2: varotis (460 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+varotis: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Th]
+miguelapios: calls 20
+varotis: calls 10
+mabeal1: checks 
+*** FLOP *** [6d 4h 2d]
+varotis: checks 
+mabeal1: checks 
+miguelapios has timed out
+miguelapios: checks 
+*** TURN *** [6d 4h 2d] [Qs]
+varotis: checks 
+mabeal1: checks 
+miguelapios: checks 
+*** RIVER *** [6d 4h 2d Qs] [Qd]
+varotis: checks 
+mabeal1: checks 
+miguelapios: bets 430 and is all-in
+varotis: folds 
+mabeal1: folds 
+Uncalled bet (430) returned to miguelapios
+miguelapios collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d 4h 2d Qs Qd]
+Seat 1: miguelapios (button) collected (60)
+Seat 2: varotis (small blind) folded on the River
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259589400784: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:23:33 CET [2026/02/04 11:23:33 ET]
+Table '3972020212 1' 3-max Seat #2 is the button
+Seat 1: miguelapios (490 in chips) 
+Seat 2: varotis (440 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+mabeal1: posts small blind 15
+miguelapios: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2d]
+varotis: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to miguelapios
+miguelapios collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: miguelapios (big blind) collected (30)
+Seat 2: varotis (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589404435: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:23:52 CET [2026/02/04 11:23:52 ET]
+Table '3972020212 1' 3-max Seat #3 is the button
+Seat 1: miguelapios (505 in chips) 
+Seat 2: varotis (440 in chips) 
+Seat 3: mabeal1 (555 in chips) 
+miguelapios: posts small blind 15
+varotis: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 9s]
+mabeal1: folds 
+miguelapios: calls 15
+varotis: checks 
+*** FLOP *** [7s 5c 8s]
+miguelapios: checks 
+varotis: checks 
+*** TURN *** [7s 5c 8s] [2d]
+miguelapios: checks 
+varotis: checks 
+*** RIVER *** [7s 5c 8s 2d] [Ts]
+miguelapios: checks 
+varotis: bets 30
+miguelapios: folds 
+Uncalled bet (30) returned to varotis
+varotis collected 60 from pot
+varotis: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s 5c 8s 2d Ts]
+Seat 1: miguelapios (small blind) folded on the River
+Seat 2: varotis (big blind) collected (60)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589411714: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:24:31 CET [2026/02/04 11:24:31 ET]
+Table '3972020212 1' 3-max Seat #1 is the button
+Seat 1: miguelapios (475 in chips) 
+Seat 2: varotis (470 in chips) 
+Seat 3: mabeal1 (555 in chips) 
+varotis: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5h]
+miguelapios has timed out
+miguelapios: folds 
+miguelapios is sitting out
+varotis: calls 15
+miguelapios has returned
+mabeal1: checks 
+*** FLOP *** [Ah 4c 2c]
+varotis: checks 
+mabeal1: checks 
+*** TURN *** [Ah 4c 2c] [6s]
+varotis: checks 
+mabeal1: bets 30
+varotis: calls 30
+*** RIVER *** [Ah 4c 2c 6s] [Kh]
+varotis: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+varotis: shows [2s Qc] (a pair of Deuces)
+mabeal1: mucks hand 
+varotis collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah 4c 2c 6s Kh]
+Seat 1: miguelapios (button) folded before Flop (didn't bet)
+Seat 2: varotis (small blind) showed [2s Qc] and won (120) with a pair of Deuces
+Seat 3: mabeal1 (big blind) mucked [Ts 5h]
+
+
+
+PokerStars Hand #259589421399: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:25:21 CET [2026/02/04 11:25:21 ET]
+Table '3972020212 1' 3-max Seat #2 is the button
+Seat 1: miguelapios (475 in chips) 
+Seat 2: varotis (530 in chips) 
+Seat 3: mabeal1 (495 in chips) 
+mabeal1: posts small blind 15
+miguelapios: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8d]
+varotis: calls 30
+mabeal1: folds 
+miguelapios: checks 
+*** FLOP *** [3c Td Jc]
+miguelapios: bets 30
+varotis: calls 30
+*** TURN *** [3c Td Jc] [2s]
+miguelapios: bets 90
+varotis: calls 90
+*** RIVER *** [3c Td Jc 2s] [6c]
+miguelapios: bets 158
+varotis: folds 
+Uncalled bet (158) returned to miguelapios
+miguelapios collected 315 from pot
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [3c Td Jc 2s 6c]
+Seat 1: miguelapios (big blind) collected (315)
+Seat 2: varotis (button) folded on the River
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589428426: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:25:58 CET [2026/02/04 11:25:58 ET]
+Table '3972020212 1' 3-max Seat #3 is the button
+Seat 1: miguelapios (640 in chips) 
+Seat 2: varotis (380 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+miguelapios: posts small blind 20
+varotis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Tc]
+mabeal1: folds 
+miguelapios: calls 20
+varotis: checks 
+*** FLOP *** [Jc 3h 9d]
+miguelapios: checks 
+varotis: checks 
+*** TURN *** [Jc 3h 9d] [9c]
+miguelapios: checks 
+varotis: checks 
+*** RIVER *** [Jc 3h 9d 9c] [Jh]
+miguelapios: checks 
+varotis: checks 
+*** SHOW DOWN ***
+miguelapios: shows [Qh 7d] (two pair, Jacks and Nines)
+varotis: mucks hand 
+miguelapios collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc 3h 9d 9c Jh]
+Seat 1: miguelapios (small blind) showed [Qh 7d] and won (80) with two pair, Jacks and Nines
+Seat 2: varotis (big blind) mucked [6d 2h]
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589434283: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:26:28 CET [2026/02/04 11:26:28 ET]
+Table '3972020212 1' 3-max Seat #1 is the button
+Seat 1: miguelapios (680 in chips) 
+Seat 2: varotis (340 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+varotis: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 2c]
+miguelapios has timed out
+miguelapios: folds 
+miguelapios is sitting out
+varotis: calls 20
+mabeal1: checks 
+*** FLOP *** [Kh 9h Qh]
+varotis: bets 40
+miguelapios has returned
+mabeal1: folds 
+Uncalled bet (40) returned to varotis
+varotis collected 80 from pot
+varotis: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 9h Qh]
+Seat 1: miguelapios (button) folded before Flop (didn't bet)
+Seat 2: varotis (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259589439451: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:26:55 CET [2026/02/04 11:26:55 ET]
+Table '3972020212 1' 3-max Seat #2 is the button
+Seat 1: miguelapios (680 in chips) 
+Seat 2: varotis (380 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+mabeal1: posts small blind 20
+miguelapios: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Td]
+varotis: raises 40 to 80
+mabeal1: calls 60
+miguelapios: calls 40
+*** FLOP *** [Ac Kd Jc]
+mabeal1: checks 
+miguelapios: bets 40
+varotis: raises 40 to 80
+mabeal1: calls 80
+miguelapios: calls 40
+*** TURN *** [Ac Kd Jc] [4s]
+mabeal1: checks 
+miguelapios: bets 80
+varotis: raises 80 to 160
+mabeal1: folds 
+miguelapios: calls 80
+*** RIVER *** [Ac Kd Jc 4s] [3d]
+miguelapios: checks 
+varotis: bets 60 and is all-in
+miguelapios: folds 
+Uncalled bet (60) returned to varotis
+varotis collected 800 from pot
+varotis: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Ac Kd Jc 4s 3d]
+Seat 1: miguelapios (big blind) folded on the River
+Seat 2: varotis (button) collected (800)
+Seat 3: mabeal1 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259589447625: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:27:38 CET [2026/02/04 11:27:38 ET]
+Table '3972020212 1' 3-max Seat #3 is the button
+Seat 1: miguelapios (360 in chips) 
+Seat 2: varotis (860 in chips) 
+Seat 3: mabeal1 (280 in chips) 
+miguelapios: posts small blind 20
+varotis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3c]
+mabeal1: folds 
+miguelapios: raises 320 to 360 and is all-in
+varotis: calls 320
+*** FLOP *** [Js Jh Qh]
+*** TURN *** [Js Jh Qh] [5h]
+*** RIVER *** [Js Jh Qh 5h] [5c]
+*** SHOW DOWN ***
+miguelapios: shows [4c 4h] (two pair, Jacks and Fives)
+varotis: shows [6d 6h] (two pair, Jacks and Sixes)
+varotis collected 720 from pot
+miguelapios finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Js Jh Qh 5h 5c]
+Seat 1: miguelapios (small blind) showed [4c 4h] and lost with two pair, Jacks and Fives
+Seat 2: varotis (big blind) showed [6d 6h] and won (720) with two pair, Jacks and Sixes
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589451904: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:28:01 CET [2026/02/04 11:28:01 ET]
+Table '3972020212 1' 3-max Seat #2 is the button
+Seat 2: varotis (1220 in chips) 
+Seat 3: mabeal1 (280 in chips) 
+varotis: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 4s]
+varotis: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to varotis
+varotis collected 80 from pot
+varotis: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: varotis (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589453630: Tournament #3972020212, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:28:10 CET [2026/02/04 11:28:10 ET]
+Table '3972020212 1' 3-max Seat #3 is the button
+Seat 2: varotis (1260 in chips) 
+Seat 3: mabeal1 (240 in chips) 
+mabeal1: posts small blind 20
+varotis: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Jc]
+mabeal1: raises 200 to 240 and is all-in
+varotis: calls 200
+*** FLOP *** [2h 4s 8c]
+*** TURN *** [2h 4s 8c] [8s]
+*** RIVER *** [2h 4s 8c 8s] [As]
+*** SHOW DOWN ***
+varotis: shows [Ks Ah] (two pair, Aces and Eights)
+mabeal1: shows [3c Jc] (a pair of Eights)
+varotis collected 480 from pot
+mabeal1 finished the tournament in 2nd place
+varotis wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2h 4s 8c 8s As]
+Seat 2: varotis (big blind) showed [Ks Ah] and won (480) with two pair, Aces and Eights
+Seat 3: mabeal1 (button) (small blind) showed [3c Jc] and lost with a pair of Eights
+
+
+

@@ -1,0 +1,190 @@
+﻿PokerStars Hand #259595807439: Tournament #3972161834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:54:40 CET [2026/02/04 18:54:40 ET]
+Table '3972161834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: JonEibar29 (500 in chips) 
+Seat 3: Chrisdu83755 (500 in chips) 
+JonEibar29: posts small blind 10
+Chrisdu83755: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ts]
+mabeal1: raises 20 to 40
+JonEibar29: folds 
+Chrisdu83755: calls 20
+*** FLOP *** [4h 9h Kd]
+Chrisdu83755: checks 
+mabeal1: bets 30
+Chrisdu83755: raises 150 to 180
+mabeal1: folds 
+Uncalled bet (150) returned to Chrisdu83755
+Chrisdu83755 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [4h 9h Kd]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: JonEibar29 (small blind) folded before Flop
+Seat 3: Chrisdu83755 (big blind) collected (150)
+
+
+
+PokerStars Hand #259595811777: Tournament #3972161834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:55:01 CET [2026/02/04 18:55:01 ET]
+Table '3972161834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: JonEibar29 (490 in chips) 
+Seat 3: Chrisdu83755 (580 in chips) 
+Chrisdu83755: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Ks]
+JonEibar29: folds 
+Chrisdu83755: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [8c 9h Jc]
+Chrisdu83755: bets 520 and is all-in
+mabeal1: folds 
+Uncalled bet (520) returned to Chrisdu83755
+Chrisdu83755 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c 9h Jc]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: JonEibar29 (button) folded before Flop (didn't bet)
+Seat 3: Chrisdu83755 (small blind) collected (120)
+
+
+
+PokerStars Hand #259595814951: Tournament #3972161834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:55:21 CET [2026/02/04 18:55:21 ET]
+Table '3972161834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (370 in chips) 
+Seat 2: JonEibar29 (490 in chips) 
+Seat 3: Chrisdu83755 (640 in chips) 
+mabeal1: posts small blind 10
+JonEibar29: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Kc]
+Chrisdu83755: folds 
+mabeal1: raises 30 to 50
+JonEibar29: raises 440 to 490 and is all-in
+mabeal1: folds 
+Uncalled bet (440) returned to JonEibar29
+JonEibar29 collected 100 from pot
+JonEibar29: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: JonEibar29 (big blind) collected (100)
+Seat 3: Chrisdu83755 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259595819590: Tournament #3972161834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:55:53 CET [2026/02/04 18:55:53 ET]
+Table '3972161834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (320 in chips) 
+Seat 2: JonEibar29 (540 in chips) 
+Seat 3: Chrisdu83755 (640 in chips) 
+JonEibar29: posts small blind 10
+Chrisdu83755: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Ac]
+mabeal1: raises 20 to 40
+JonEibar29: folds 
+Chrisdu83755: calls 20
+*** FLOP *** [6d 5c Kc]
+Chrisdu83755: bets 220
+mabeal1: folds 
+Uncalled bet (220) returned to Chrisdu83755
+Chrisdu83755 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6d 5c Kc]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: JonEibar29 (small blind) folded before Flop
+Seat 3: Chrisdu83755 (big blind) collected (90)
+
+
+
+PokerStars Hand #259595822873: Tournament #3972161834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:56:15 CET [2026/02/04 18:56:15 ET]
+Table '3972161834 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (280 in chips) 
+Seat 2: JonEibar29 (530 in chips) 
+Seat 3: Chrisdu83755 (690 in chips) 
+Chrisdu83755: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Kc]
+JonEibar29: folds 
+Chrisdu83755: calls 10
+mabeal1: checks 
+*** FLOP *** [3d Jh 5d]
+Chrisdu83755: checks 
+mabeal1: checks 
+*** TURN *** [3d Jh 5d] [8s]
+Chrisdu83755: bets 40
+mabeal1: raises 90 to 130
+Chrisdu83755: calls 90
+*** RIVER *** [3d Jh 5d 8s] [9d]
+Chrisdu83755: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Chrisdu83755: shows [As 8d] (a pair of Eights)
+mabeal1: mucks hand 
+Chrisdu83755 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [3d Jh 5d 8s 9d]
+Seat 1: mabeal1 (big blind) mucked [2s Kc]
+Seat 2: JonEibar29 (button) folded before Flop (didn't bet)
+Seat 3: Chrisdu83755 (small blind) showed [As 8d] and won (300) with a pair of Eights
+
+
+
+PokerStars Hand #259595827808: Tournament #3972161834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:56:49 CET [2026/02/04 18:56:49 ET]
+Table '3972161834 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (130 in chips) 
+Seat 2: JonEibar29 (530 in chips) 
+Seat 3: Chrisdu83755 (840 in chips) 
+mabeal1: posts small blind 10
+JonEibar29: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 4c]
+Chrisdu83755: raises 20 to 40
+mabeal1: folds 
+JonEibar29: folds 
+Uncalled bet (20) returned to Chrisdu83755
+Chrisdu83755 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: JonEibar29 (big blind) folded before Flop
+Seat 3: Chrisdu83755 (button) collected (50)
+
+
+
+PokerStars Hand #259595830098: Tournament #3972161834, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:57:04 CET [2026/02/04 18:57:04 ET]
+Table '3972161834 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (120 in chips) 
+Seat 2: JonEibar29 (510 in chips) 
+Seat 3: Chrisdu83755 (870 in chips) 
+JonEibar29: posts small blind 10
+Chrisdu83755: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Ks]
+mabeal1: raises 100 to 120 and is all-in
+JonEibar29: folds 
+Chrisdu83755: calls 100
+*** FLOP *** [Qh 9c 3h]
+*** TURN *** [Qh 9c 3h] [Qd]
+*** RIVER *** [Qh 9c 3h Qd] [4d]
+*** SHOW DOWN ***
+Chrisdu83755: shows [As 6d] (a pair of Queens)
+mabeal1: shows [Jd Ks] (a pair of Queens - lower kicker)
+Chrisdu83755 collected 250 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Qh 9c 3h Qd 4d]
+Seat 1: mabeal1 (button) showed [Jd Ks] and lost with a pair of Queens
+Seat 2: JonEibar29 (small blind) folded before Flop
+Seat 3: Chrisdu83755 (big blind) showed [As 6d] and won (250) with a pair of Queens
+
+
+

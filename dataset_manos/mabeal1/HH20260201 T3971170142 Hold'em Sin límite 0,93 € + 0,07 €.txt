@@ -1,0 +1,520 @@
+﻿PokerStars Hand #259551190957: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:06:26 CET [2026/02/01 13:06:26 ET]
+Table '3971170142 1' 3-max Seat #1 is the button
+Seat 1: RasLeX05 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: PIRULO2 (500 in chips) 
+mabeal1: posts small blind 10
+PIRULO2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4s]
+RasLeX05: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to PIRULO2
+PIRULO2 collected 20 from pot
+PIRULO2: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: RasLeX05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: PIRULO2 (big blind) collected (20)
+
+
+
+PokerStars Hand #259551194204: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:06:37 CET [2026/02/01 13:06:37 ET]
+Table '3971170142 1' 3-max Seat #2 is the button
+Seat 1: RasLeX05 (500 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: PIRULO2 (510 in chips) 
+PIRULO2: posts small blind 10
+RasLeX05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Kd]
+mabeal1: raises 20 to 40
+PIRULO2: folds 
+RasLeX05: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: RasLeX05 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: PIRULO2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551196941: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:06:47 CET [2026/02/01 13:06:47 ET]
+Table '3971170142 1' 3-max Seat #3 is the button
+Seat 1: RasLeX05 (480 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: PIRULO2 (500 in chips) 
+RasLeX05: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 3c]
+PIRULO2: folds 
+RasLeX05: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: RasLeX05 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: PIRULO2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259551199597: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:06:57 CET [2026/02/01 13:06:57 ET]
+Table '3971170142 1' 3-max Seat #1 is the button
+Seat 1: RasLeX05 (470 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: PIRULO2 (500 in chips) 
+mabeal1: posts small blind 10
+PIRULO2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8c]
+RasLeX05: raises 20 to 40
+mabeal1: folds 
+PIRULO2: folds 
+Uncalled bet (20) returned to RasLeX05
+RasLeX05 collected 50 from pot
+RasLeX05: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: RasLeX05 (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: PIRULO2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259551202022: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:07:05 CET [2026/02/01 13:07:05 ET]
+Table '3971170142 1' 3-max Seat #2 is the button
+Seat 1: RasLeX05 (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: PIRULO2 (480 in chips) 
+PIRULO2: posts small blind 10
+RasLeX05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Jc]
+mabeal1: folds 
+PIRULO2: folds 
+Uncalled bet (10) returned to RasLeX05
+RasLeX05 collected 20 from pot
+RasLeX05: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: RasLeX05 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: PIRULO2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551203554: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:07:11 CET [2026/02/01 13:07:11 ET]
+Table '3971170142 1' 3-max Seat #3 is the button
+Seat 1: RasLeX05 (510 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: PIRULO2 (470 in chips) 
+RasLeX05: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Jc]
+PIRULO2: folds 
+RasLeX05: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [6s 6h 3s]
+RasLeX05: checks 
+mabeal1: checks 
+*** TURN *** [6s 6h 3s] [Qh]
+RasLeX05: bets 60
+mabeal1: calls 60
+*** RIVER *** [6s 6h 3s Qh] [6c]
+RasLeX05: bets 100
+mabeal1: calls 100
+*** SHOW DOWN ***
+RasLeX05: shows [9d 6d] (four of a kind, Sixes)
+mabeal1: mucks hand 
+RasLeX05 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [6s 6h 3s Qh 6c]
+Seat 1: RasLeX05 (small blind) showed [9d 6d] and won (400) with four of a kind, Sixes
+Seat 2: mabeal1 (big blind) mucked [Qd Jc]
+Seat 3: PIRULO2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259551216277: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:07:57 CET [2026/02/01 13:07:57 ET]
+Table '3971170142 1' 3-max Seat #1 is the button
+Seat 1: RasLeX05 (710 in chips) 
+Seat 2: mabeal1 (320 in chips) 
+Seat 3: PIRULO2 (470 in chips) 
+mabeal1: posts small blind 10
+PIRULO2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Tc]
+RasLeX05: folds 
+mabeal1: raises 30 to 50
+PIRULO2: calls 30
+*** FLOP *** [7d 3d 6h]
+mabeal1: bets 75
+PIRULO2: calls 75
+*** TURN *** [7d 3d 6h] [3c]
+mabeal1: bets 195 and is all-in
+PIRULO2: folds 
+Uncalled bet (195) returned to mabeal1
+mabeal1 collected 250 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [7d 3d 6h 3c]
+Seat 1: RasLeX05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (250)
+Seat 3: PIRULO2 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259551222745: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:08:20 CET [2026/02/01 13:08:20 ET]
+Table '3971170142 1' 3-max Seat #2 is the button
+Seat 1: RasLeX05 (710 in chips) 
+Seat 2: mabeal1 (445 in chips) 
+Seat 3: PIRULO2 (345 in chips) 
+PIRULO2: posts small blind 10
+RasLeX05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 4d]
+mabeal1: folds 
+PIRULO2: raises 20 to 40
+RasLeX05: calls 20
+*** FLOP *** [4c 5c Jd]
+PIRULO2: bets 40
+RasLeX05: folds 
+Uncalled bet (40) returned to PIRULO2
+PIRULO2 collected 80 from pot
+PIRULO2: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c 5c Jd]
+Seat 1: RasLeX05 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: PIRULO2 (small blind) collected (80)
+
+
+
+PokerStars Hand #259551228292: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:08:40 CET [2026/02/01 13:08:40 ET]
+Table '3971170142 1' 3-max Seat #3 is the button
+Seat 1: RasLeX05 (670 in chips) 
+Seat 2: mabeal1 (445 in chips) 
+Seat 3: PIRULO2 (385 in chips) 
+RasLeX05: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ks]
+PIRULO2: raises 30 to 60
+RasLeX05: folds 
+mabeal1: calls 30
+*** FLOP *** [7s Qc 3d]
+mabeal1: checks 
+PIRULO2: checks 
+*** TURN *** [7s Qc 3d] [Ac]
+mabeal1: checks 
+PIRULO2: bets 68
+mabeal1: folds 
+Uncalled bet (68) returned to PIRULO2
+PIRULO2 collected 135 from pot
+PIRULO2: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7s Qc 3d Ac]
+Seat 1: RasLeX05 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: PIRULO2 (button) collected (135)
+
+
+
+PokerStars Hand #259551233723: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:08:59 CET [2026/02/01 13:08:59 ET]
+Table '3971170142 1' 3-max Seat #1 is the button
+Seat 1: RasLeX05 (655 in chips) 
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: PIRULO2 (460 in chips) 
+mabeal1: posts small blind 15
+PIRULO2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8d]
+RasLeX05: folds 
+mabeal1: raises 45 to 75
+PIRULO2: calls 45
+*** FLOP *** [9d 5h 3d]
+mabeal1: bets 113
+PIRULO2: calls 113
+*** TURN *** [9d 5h 3d] [Qs]
+mabeal1: checks 
+PIRULO2: bets 188
+mabeal1: folds 
+Uncalled bet (188) returned to PIRULO2
+PIRULO2 collected 376 from pot
+PIRULO2: doesn't show hand 
+*** SUMMARY ***
+Total pot 376 | Rake 0 
+Board [9d 5h 3d Qs]
+Seat 1: RasLeX05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded on the Turn
+Seat 3: PIRULO2 (big blind) collected (376)
+
+
+
+PokerStars Hand #259551242460: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:09:31 CET [2026/02/01 13:09:31 ET]
+Table '3971170142 1' 3-max Seat #2 is the button
+Seat 1: RasLeX05 (655 in chips) 
+Seat 2: mabeal1 (197 in chips) 
+Seat 3: PIRULO2 (648 in chips) 
+PIRULO2: posts small blind 15
+RasLeX05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 9s]
+mabeal1: folds 
+PIRULO2: folds 
+Uncalled bet (15) returned to RasLeX05
+RasLeX05 collected 30 from pot
+RasLeX05: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: RasLeX05 (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: PIRULO2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551244452: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:09:38 CET [2026/02/01 13:09:38 ET]
+Table '3971170142 1' 3-max Seat #3 is the button
+Seat 1: RasLeX05 (670 in chips) 
+Seat 2: mabeal1 (197 in chips) 
+Seat 3: PIRULO2 (633 in chips) 
+RasLeX05: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 3s]
+PIRULO2: folds 
+RasLeX05: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: RasLeX05 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: PIRULO2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259551246433: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:09:45 CET [2026/02/01 13:09:45 ET]
+Table '3971170142 1' 3-max Seat #1 is the button
+Seat 1: RasLeX05 (655 in chips) 
+Seat 2: mabeal1 (212 in chips) 
+Seat 3: PIRULO2 (633 in chips) 
+mabeal1: posts small blind 15
+PIRULO2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ad]
+RasLeX05: raises 30 to 60
+mabeal1: raises 152 to 212 and is all-in
+PIRULO2: folds 
+RasLeX05: folds 
+Uncalled bet (152) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: RasLeX05 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (150)
+Seat 3: PIRULO2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259551250426: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:09:59 CET [2026/02/01 13:09:59 ET]
+Table '3971170142 1' 3-max Seat #2 is the button
+Seat 1: RasLeX05 (595 in chips) 
+Seat 2: mabeal1 (302 in chips) 
+Seat 3: PIRULO2 (603 in chips) 
+PIRULO2: posts small blind 15
+RasLeX05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 3s]
+mabeal1: folds 
+PIRULO2: folds 
+Uncalled bet (15) returned to RasLeX05
+RasLeX05 collected 30 from pot
+RasLeX05: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: RasLeX05 (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: PIRULO2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551252627: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:10:07 CET [2026/02/01 13:10:07 ET]
+Table '3971170142 1' 3-max Seat #3 is the button
+Seat 1: RasLeX05 (610 in chips) 
+Seat 2: mabeal1 (302 in chips) 
+Seat 3: PIRULO2 (588 in chips) 
+RasLeX05: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 3d]
+PIRULO2: folds 
+RasLeX05: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: RasLeX05 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: PIRULO2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259551255020: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:10:16 CET [2026/02/01 13:10:16 ET]
+Table '3971170142 1' 3-max Seat #1 is the button
+Seat 1: RasLeX05 (595 in chips) 
+Seat 2: mabeal1 (317 in chips) 
+Seat 3: PIRULO2 (588 in chips) 
+mabeal1: posts small blind 15
+PIRULO2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7h]
+RasLeX05: folds 
+mabeal1: raises 45 to 75
+PIRULO2: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: RasLeX05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: PIRULO2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259551259185: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:10:31 CET [2026/02/01 13:10:31 ET]
+Table '3971170142 1' 3-max Seat #2 is the button
+Seat 1: RasLeX05 (595 in chips) 
+Seat 2: mabeal1 (347 in chips) 
+Seat 3: PIRULO2 (558 in chips) 
+PIRULO2: posts small blind 20
+RasLeX05: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jc]
+mabeal1: raises 307 to 347 and is all-in
+PIRULO2: folds 
+RasLeX05: folds 
+Uncalled bet (307) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: RasLeX05 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (100)
+Seat 3: PIRULO2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551262726: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:10:44 CET [2026/02/01 13:10:44 ET]
+Table '3971170142 1' 3-max Seat #3 is the button
+Seat 1: RasLeX05 (555 in chips) 
+Seat 2: mabeal1 (407 in chips) 
+Seat 3: PIRULO2 (538 in chips) 
+RasLeX05: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2d]
+PIRULO2: folds 
+RasLeX05: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: RasLeX05 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: PIRULO2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259551264566: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:10:50 CET [2026/02/01 13:10:50 ET]
+Table '3971170142 1' 3-max Seat #1 is the button
+Seat 1: RasLeX05 (535 in chips) 
+Seat 2: mabeal1 (427 in chips) 
+Seat 3: PIRULO2 (538 in chips) 
+mabeal1: posts small blind 20
+PIRULO2: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 7c]
+RasLeX05: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to PIRULO2
+PIRULO2 collected 40 from pot
+PIRULO2: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: RasLeX05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: PIRULO2 (big blind) collected (40)
+
+
+
+PokerStars Hand #259551267946: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:11:02 CET [2026/02/01 13:11:02 ET]
+Table '3971170142 1' 3-max Seat #2 is the button
+Seat 1: RasLeX05 (535 in chips) 
+Seat 2: mabeal1 (407 in chips) 
+Seat 3: PIRULO2 (558 in chips) 
+PIRULO2: posts small blind 20
+RasLeX05: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 7h]
+mabeal1: raises 367 to 407 and is all-in
+PIRULO2: folds 
+RasLeX05: folds 
+Uncalled bet (367) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: RasLeX05 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (100)
+Seat 3: PIRULO2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551270864: Tournament #3971170142, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:11:13 CET [2026/02/01 13:11:13 ET]
+Table '3971170142 1' 3-max Seat #3 is the button
+Seat 1: RasLeX05 (495 in chips) 
+Seat 2: mabeal1 (467 in chips) 
+Seat 3: PIRULO2 (538 in chips) 
+RasLeX05: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ks]
+PIRULO2: folds 
+RasLeX05: raises 455 to 495 and is all-in
+mabeal1: calls 427 and is all-in
+Uncalled bet (28) returned to RasLeX05
+*** FLOP *** [9h 4c 2s]
+*** TURN *** [9h 4c 2s] [Jh]
+*** RIVER *** [9h 4c 2s Jh] [5c]
+*** SHOW DOWN ***
+RasLeX05: shows [Qc Jd] (a pair of Jacks)
+mabeal1: shows [As Ks] (high card Ace)
+RasLeX05 collected 934 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 934 | Rake 0 
+Board [9h 4c 2s Jh 5c]
+Seat 1: RasLeX05 (small blind) showed [Qc Jd] and won (934) with a pair of Jacks
+Seat 2: mabeal1 (big blind) showed [As Ks] and lost with high card Ace
+Seat 3: PIRULO2 (button) folded before Flop (didn't bet)
+
+
+

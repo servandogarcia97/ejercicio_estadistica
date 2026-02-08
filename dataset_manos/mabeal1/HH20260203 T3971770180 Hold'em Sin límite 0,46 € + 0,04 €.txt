@@ -1,0 +1,307 @@
+﻿PokerStars Hand #259578531217: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:11:29 CET [2026/02/03 13:11:29 ET]
+Table '3971770180 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: michael29810 (500 in chips) 
+Seat 3: NECMA2167 (500 in chips) 
+michael29810: posts small blind 10
+NECMA2167: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c As]
+mabeal1: raises 20 to 40
+michael29810: calls 30
+NECMA2167: calls 20
+*** FLOP *** [5d 7h Kh]
+michael29810: checks 
+NECMA2167: bets 20
+mabeal1: folds 
+michael29810: calls 20
+*** TURN *** [5d 7h Kh] [Jd]
+michael29810: checks 
+NECMA2167: bets 40
+michael29810: folds 
+Uncalled bet (40) returned to NECMA2167
+NECMA2167 collected 160 from pot
+NECMA2167: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5d 7h Kh Jd]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: michael29810 (small blind) folded on the Turn
+Seat 3: NECMA2167 (big blind) collected (160)
+
+
+
+PokerStars Hand #259578542751: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:12:20 CET [2026/02/03 13:12:20 ET]
+Table '3971770180 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: michael29810 (440 in chips) 
+Seat 3: NECMA2167 (600 in chips) 
+NECMA2167: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3d]
+michael29810: calls 20
+NECMA2167: calls 10
+mabeal1: checks 
+*** FLOP *** [8c 2c Kc]
+NECMA2167: checks 
+mabeal1: checks 
+michael29810: bets 40
+NECMA2167: calls 40
+mabeal1: folds 
+*** TURN *** [8c 2c Kc] [3s]
+NECMA2167: checks 
+michael29810: bets 70
+NECMA2167: calls 70
+*** RIVER *** [8c 2c Kc 3s] [Ts]
+NECMA2167: checks 
+michael29810: bets 140
+NECMA2167: folds 
+Uncalled bet (140) returned to michael29810
+michael29810 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [8c 2c Kc 3s Ts]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: michael29810 (button) collected (280)
+Seat 3: NECMA2167 (small blind) folded on the River
+
+
+
+PokerStars Hand #259578553625: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:13:07 CET [2026/02/03 13:13:07 ET]
+Table '3971770180 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: michael29810 (590 in chips) 
+Seat 3: NECMA2167 (470 in chips) 
+mabeal1: posts small blind 10
+michael29810: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Jh]
+NECMA2167: folds 
+mabeal1: raises 30 to 50
+michael29810: calls 30
+*** FLOP *** [4h 4d 2s]
+mabeal1: bets 40
+michael29810: raises 500 to 540 and is all-in
+mabeal1: folds 
+Uncalled bet (500) returned to michael29810
+michael29810 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4h 4d 2s]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: michael29810 (big blind) collected (180)
+Seat 3: NECMA2167 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578558648: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:13:29 CET [2026/02/03 13:13:29 ET]
+Table '3971770180 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (350 in chips) 
+Seat 2: michael29810 (680 in chips) 
+Seat 3: NECMA2167 (470 in chips) 
+michael29810: posts small blind 10
+NECMA2167: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 6s]
+mabeal1: folds 
+michael29810: calls 10
+NECMA2167: checks 
+*** FLOP *** [As 5c 8c]
+michael29810: checks 
+NECMA2167: bets 20
+michael29810: calls 20
+*** TURN *** [As 5c 8c] [Ks]
+michael29810: checks 
+NECMA2167: bets 20
+michael29810: calls 20
+*** RIVER *** [As 5c 8c Ks] [9h]
+michael29810: checks 
+NECMA2167: bets 20
+michael29810: folds 
+Uncalled bet (20) returned to NECMA2167
+NECMA2167 collected 120 from pot
+NECMA2167: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As 5c 8c Ks 9h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: michael29810 (small blind) folded on the River
+Seat 3: NECMA2167 (big blind) collected (120)
+
+
+
+PokerStars Hand #259578565886: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:14:01 CET [2026/02/03 13:14:01 ET]
+Table '3971770180 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (350 in chips) 
+Seat 2: michael29810 (620 in chips) 
+Seat 3: NECMA2167 (530 in chips) 
+NECMA2167: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4d]
+michael29810: calls 20
+NECMA2167: calls 10
+mabeal1: raises 330 to 350 and is all-in
+michael29810: folds 
+NECMA2167: folds 
+Uncalled bet (330) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: michael29810 (button) folded before Flop
+Seat 3: NECMA2167 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578568605: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:14:13 CET [2026/02/03 13:14:13 ET]
+Table '3971770180 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (390 in chips) 
+Seat 2: michael29810 (600 in chips) 
+Seat 3: NECMA2167 (510 in chips) 
+mabeal1: posts small blind 10
+michael29810: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ah]
+NECMA2167: calls 20
+mabeal1: raises 370 to 390 and is all-in
+michael29810: folds 
+NECMA2167: folds 
+Uncalled bet (370) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: michael29810 (big blind) folded before Flop
+Seat 3: NECMA2167 (button) folded before Flop
+
+
+
+PokerStars Hand #259578571723: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:14:27 CET [2026/02/03 13:14:27 ET]
+Table '3971770180 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: michael29810 (580 in chips) 
+Seat 3: NECMA2167 (490 in chips) 
+michael29810: posts small blind 10
+NECMA2167: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 9d]
+mabeal1: folds 
+michael29810: raises 20 to 40
+NECMA2167: calls 20
+*** FLOP *** [Jd 6h 5h]
+michael29810: checks 
+NECMA2167: bets 20
+michael29810: calls 20
+*** TURN *** [Jd 6h 5h] [8d]
+michael29810: checks 
+NECMA2167: bets 20
+michael29810: calls 20
+*** RIVER *** [Jd 6h 5h 8d] [6d]
+michael29810: checks 
+NECMA2167: bets 80
+michael29810: folds 
+Uncalled bet (80) returned to NECMA2167
+NECMA2167 collected 160 from pot
+NECMA2167: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd 6h 5h 8d 6d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: michael29810 (small blind) folded on the River
+Seat 3: NECMA2167 (big blind) collected (160)
+
+
+
+PokerStars Hand #259578578434: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:14:57 CET [2026/02/03 13:14:57 ET]
+Table '3971770180 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: michael29810 (500 in chips) 
+Seat 3: NECMA2167 (570 in chips) 
+NECMA2167: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 3d]
+michael29810: calls 30
+NECMA2167: folds 
+mabeal1: checks 
+*** FLOP *** [Th 3s 5s]
+mabeal1: checks 
+michael29810: checks 
+*** TURN *** [Th 3s 5s] [7d]
+mabeal1: checks 
+michael29810: checks 
+*** RIVER *** [Th 3s 5s 7d] [2c]
+mabeal1: checks 
+michael29810: checks 
+*** SHOW DOWN ***
+mabeal1: shows [4s 3d] (a pair of Threes)
+michael29810: shows [Qc 3h] (a pair of Threes - Queen kicker)
+michael29810 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Th 3s 5s 7d 2c]
+Seat 1: mabeal1 (big blind) showed [4s 3d] and lost with a pair of Threes
+Seat 2: michael29810 (button) showed [Qc 3h] and won (75) with a pair of Threes
+Seat 3: NECMA2167 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578584252: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:15:21 CET [2026/02/03 13:15:21 ET]
+Table '3971770180 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: michael29810 (545 in chips) 
+Seat 3: NECMA2167 (555 in chips) 
+mabeal1: posts small blind 15
+michael29810: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ah]
+NECMA2167: calls 30
+mabeal1: raises 370 to 400 and is all-in
+michael29810: folds 
+NECMA2167: folds 
+Uncalled bet (370) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (90)
+Seat 2: michael29810 (big blind) folded before Flop
+Seat 3: NECMA2167 (button) folded before Flop
+
+
+
+PokerStars Hand #259578586794: Tournament #3971770180, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:15:32 CET [2026/02/03 13:15:32 ET]
+Table '3971770180 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: michael29810 (515 in chips) 
+Seat 3: NECMA2167 (525 in chips) 
+michael29810: posts small blind 15
+NECMA2167: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c As]
+mabeal1: raises 30 to 60
+michael29810: raises 60 to 120
+NECMA2167: folds 
+mabeal1: raises 340 to 460 and is all-in
+michael29810: calls 340
+*** FLOP *** [4c 5c 7s]
+*** TURN *** [4c 5c 7s] [5h]
+*** RIVER *** [4c 5c 7s 5h] [6c]
+*** SHOW DOWN ***
+michael29810: shows [Kc Ks] (two pair, Kings and Fives)
+mabeal1: shows [7c As] (two pair, Sevens and Fives)
+michael29810 collected 950 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [4c 5c 7s 5h 6c]
+Seat 1: mabeal1 (button) showed [7c As] and lost with two pair, Sevens and Fives
+Seat 2: michael29810 (small blind) showed [Kc Ks] and won (950) with two pair, Kings and Fives
+Seat 3: NECMA2167 (big blind) folded before Flop
+
+
+

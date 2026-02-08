@@ -1,0 +1,887 @@
+﻿PokerStars Hand #259562238249: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:34:18 CET [2026/02/02 9:34:18 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: 060211 (500 in chips) 
+Seat 3: jooj49 (500 in chips) 
+060211: posts small blind 10
+jooj49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Kd]
+mabeal1: raises 20 to 40
+060211: folds 
+jooj49: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: 060211 (small blind) folded before Flop
+Seat 3: jooj49 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562239705: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:34:28 CET [2026/02/02 9:34:28 ET]
+Table '3971408382 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: 060211 (490 in chips) 
+Seat 3: jooj49 (480 in chips) 
+jooj49: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Jc]
+060211: folds 
+jooj49: calls 10
+mabeal1: checks 
+*** FLOP *** [Td 5d Kc]
+jooj49: checks 
+mabeal1: bets 20
+jooj49: calls 20
+*** TURN *** [Td 5d Kc] [Ks]
+jooj49: checks 
+mabeal1: checks 
+*** RIVER *** [Td 5d Kc Ks] [2s]
+jooj49: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to jooj49
+jooj49 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 5d Kc Ks 2s]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: 060211 (button) folded before Flop (didn't bet)
+Seat 3: jooj49 (small blind) collected (80)
+
+
+
+PokerStars Hand #259562242184: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:34:44 CET [2026/02/02 9:34:44 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 2: 060211 (490 in chips) 
+Seat 3: jooj49 (520 in chips) 
+mabeal1: posts small blind 10
+060211: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Jc]
+jooj49: raises 500 to 520 and is all-in
+mabeal1: folds 
+060211: calls 470 and is all-in
+Uncalled bet (30) returned to jooj49
+*** FLOP *** [3s Jh Td]
+*** TURN *** [3s Jh Td] [8c]
+*** RIVER *** [3s Jh Td 8c] [4d]
+*** SHOW DOWN ***
+060211: shows [8s As] (a pair of Eights)
+jooj49: shows [Jd Ah] (a pair of Jacks)
+jooj49 collected 990 from pot
+060211 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [3s Jh Td 8c 4d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: 060211 (big blind) showed [8s As] and lost with a pair of Eights
+Seat 3: jooj49 (button) showed [Jd Ah] and won (990) with a pair of Jacks
+
+
+
+PokerStars Hand #259562245189: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:35:03 CET [2026/02/02 9:35:03 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 3: jooj49 (1020 in chips) 
+mabeal1: posts small blind 10
+jooj49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 7c]
+mabeal1: folds 
+Uncalled bet (10) returned to jooj49
+jooj49 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jooj49 (big blind) collected (20)
+
+
+
+PokerStars Hand #259562245863: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:35:07 CET [2026/02/02 9:35:07 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 3: jooj49 (1030 in chips) 
+jooj49: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2h]
+jooj49: raises 60 to 80
+mabeal1: folds 
+Uncalled bet (60) returned to jooj49
+jooj49 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: jooj49 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259562247126: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:35:16 CET [2026/02/02 9:35:16 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (450 in chips) 
+Seat 3: jooj49 (1050 in chips) 
+mabeal1: posts small blind 10
+jooj49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Jh]
+mabeal1: calls 10
+jooj49: checks 
+*** FLOP *** [9c Kc Ad]
+jooj49: checks 
+mabeal1: bets 20
+jooj49: calls 20
+*** TURN *** [9c Kc Ad] [3h]
+jooj49: checks 
+mabeal1: checks 
+*** RIVER *** [9c Kc Ad 3h] [8s]
+jooj49: bets 20
+mabeal1: calls 20
+*** SHOW DOWN ***
+jooj49: shows [9s 6h] (a pair of Nines)
+mabeal1: mucks hand 
+jooj49 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c Kc Ad 3h 8s]
+Seat 1: mabeal1 (button) (small blind) mucked [3s Jh]
+Seat 3: jooj49 (big blind) showed [9s 6h] and won (120) with a pair of Nines
+
+
+
+PokerStars Hand #259562249415: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:35:31 CET [2026/02/02 9:35:31 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (390 in chips) 
+Seat 3: jooj49 (1110 in chips) 
+jooj49: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7d]
+jooj49: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [5d 8h Td]
+mabeal1: checks 
+jooj49: checks 
+*** TURN *** [5d 8h Td] [3h]
+mabeal1: bets 60
+jooj49: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 8h Td 3h]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: jooj49 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259562251507: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:35:44 CET [2026/02/02 9:35:44 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 3: jooj49 (1070 in chips) 
+mabeal1: posts small blind 10
+jooj49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 9s]
+mabeal1: calls 10
+jooj49: checks 
+*** FLOP *** [Kc Ac 7s]
+jooj49: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to jooj49
+jooj49 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc Ac 7s]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: jooj49 (big blind) collected (40)
+
+
+
+PokerStars Hand #259562252983: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:35:54 CET [2026/02/02 9:35:54 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 3: jooj49 (1090 in chips) 
+jooj49: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 8d]
+jooj49: calls 10
+mabeal1: checks 
+*** FLOP *** [3d 7c 4c]
+mabeal1: checks 
+jooj49: checks 
+*** TURN *** [3d 7c 4c] [9h]
+mabeal1: bets 30
+jooj49: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3d 7c 4c 9h]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: jooj49 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259562255174: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:36:08 CET [2026/02/02 9:36:08 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 3: jooj49 (1070 in chips) 
+mabeal1: posts small blind 10
+jooj49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 3h]
+mabeal1: calls 10
+jooj49: checks 
+*** FLOP *** [2s Jc Kd]
+jooj49: checks 
+mabeal1: bets 20
+jooj49: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2s Jc Kd]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: jooj49 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259562256720: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:36:18 CET [2026/02/02 9:36:18 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (450 in chips) 
+Seat 3: jooj49 (1050 in chips) 
+jooj49: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3d]
+jooj49: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: jooj49 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562257793: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:36:25 CET [2026/02/02 9:36:25 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 3: jooj49 (1040 in chips) 
+mabeal1: posts small blind 15
+jooj49: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Qd]
+mabeal1: raises 30 to 60
+jooj49: calls 30
+*** FLOP *** [2d 3h 4c]
+jooj49: checks 
+mabeal1: checks 
+*** TURN *** [2d 3h 4c] [8s]
+jooj49: checks 
+mabeal1: checks 
+*** RIVER *** [2d 3h 4c 8s] [Ad]
+jooj49: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+jooj49: shows [Td 6d] (high card Ace)
+mabeal1: shows [Jh Qd] (high card Ace - Queen kicker)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d 3h 4c 8s Ad]
+Seat 1: mabeal1 (button) (small blind) showed [Jh Qd] and won (120) with high card Ace
+Seat 3: jooj49 (big blind) showed [Td 6d] and lost with high card Ace
+
+
+
+PokerStars Hand #259562260057: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:36:40 CET [2026/02/02 9:36:40 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 3: jooj49 (980 in chips) 
+jooj49: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 8c]
+jooj49: calls 15
+mabeal1: checks 
+*** FLOP *** [8h Qh 3h]
+mabeal1: checks 
+jooj49: bets 30
+mabeal1: calls 30
+*** TURN *** [8h Qh 3h] [Kh]
+mabeal1: checks 
+jooj49: bets 30
+mabeal1: calls 30
+*** RIVER *** [8h Qh 3h Kh] [7h]
+mabeal1: checks 
+jooj49: checks 
+*** SHOW DOWN ***
+mabeal1: shows [9c 8c] (a flush, King high)
+jooj49: shows [6h 5h] (a flush, King high - Six higher)
+jooj49 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8h Qh 3h Kh 7h]
+Seat 1: mabeal1 (big blind) showed [9c 8c] and lost with a flush, King high
+Seat 3: jooj49 (button) (small blind) showed [6h 5h] and won (180) with a flush, King high
+
+
+
+PokerStars Hand #259562264525: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:37:09 CET [2026/02/02 9:37:09 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 3: jooj49 (1070 in chips) 
+mabeal1: posts small blind 15
+jooj49: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh As]
+mabeal1: raises 400 to 430 and is all-in
+jooj49: folds 
+Uncalled bet (400) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: jooj49 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562265803: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:37:17 CET [2026/02/02 9:37:17 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 3: jooj49 (1040 in chips) 
+jooj49: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Kc]
+jooj49: calls 15
+mabeal1: checks 
+*** FLOP *** [Jh 5s 8d]
+mabeal1: checks 
+jooj49: checks 
+*** TURN *** [Jh 5s 8d] [4h]
+mabeal1: bets 45
+jooj49: calls 45
+*** RIVER *** [Jh 5s 8d 4h] [Jd]
+mabeal1: checks 
+jooj49: checks 
+*** SHOW DOWN ***
+mabeal1: shows [2d Kc] (a pair of Jacks)
+jooj49: shows [8s 9c] (two pair, Jacks and Eights)
+jooj49 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Jh 5s 8d 4h Jd]
+Seat 1: mabeal1 (big blind) showed [2d Kc] and lost with a pair of Jacks
+Seat 3: jooj49 (button) (small blind) showed [8s 9c] and won (150) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #259562268028: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:37:31 CET [2026/02/02 9:37:31 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (385 in chips) 
+Seat 3: jooj49 (1115 in chips) 
+mabeal1: posts small blind 15
+jooj49: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9s]
+mabeal1: calls 15
+jooj49: checks 
+*** FLOP *** [8c Ad 7d]
+jooj49: checks 
+mabeal1: bets 30
+jooj49: calls 30
+*** TURN *** [8c Ad 7d] [Ac]
+jooj49: checks 
+mabeal1: checks 
+*** RIVER *** [8c Ad 7d Ac] [Qd]
+jooj49: checks 
+mabeal1: bets 325 and is all-in
+jooj49: folds 
+Uncalled bet (325) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Ad 7d Ac Qd]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: jooj49 (big blind) folded on the River
+
+
+
+PokerStars Hand #259562270739: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:37:49 CET [2026/02/02 9:37:49 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 3: jooj49 (1055 in chips) 
+jooj49: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 6c]
+jooj49: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: jooj49 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562271418: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:37:53 CET [2026/02/02 9:37:53 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 3: jooj49 (1040 in chips) 
+mabeal1: posts small blind 15
+jooj49: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 4c]
+mabeal1: raises 430 to 460 and is all-in
+jooj49: folds 
+Uncalled bet (430) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: jooj49 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562272899: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:38:03 CET [2026/02/02 9:38:03 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 3: jooj49 (1010 in chips) 
+jooj49: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Kc]
+jooj49: calls 15
+mabeal1: checks 
+*** FLOP *** [4s 5c Td]
+mabeal1: checks 
+jooj49: checks 
+*** TURN *** [4s 5c Td] [Ts]
+mabeal1: checks 
+jooj49: checks 
+*** RIVER *** [4s 5c Td Ts] [Ac]
+mabeal1: checks 
+jooj49: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+jooj49: shows [Qs Ad] (two pair, Aces and Tens)
+mabeal1: mucks hand 
+jooj49 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 5c Td Ts Ac]
+Seat 1: mabeal1 (big blind) mucked [2s Kc]
+Seat 3: jooj49 (button) (small blind) showed [Qs Ad] and won (120) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #259562274978: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:38:16 CET [2026/02/02 9:38:16 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 3: jooj49 (1070 in chips) 
+mabeal1: posts small blind 15
+jooj49: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 7h]
+mabeal1: folds 
+Uncalled bet (15) returned to jooj49
+jooj49 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jooj49 (big blind) collected (30)
+
+
+
+PokerStars Hand #259562276408: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:38:26 CET [2026/02/02 9:38:26 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 3: jooj49 (1085 in chips) 
+jooj49: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Th]
+jooj49: calls 20
+mabeal1: raises 375 to 415 and is all-in
+jooj49: folds 
+Uncalled bet (375) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: jooj49 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562277353: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:38:32 CET [2026/02/02 9:38:32 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 3: jooj49 (1045 in chips) 
+mabeal1: posts small blind 20
+jooj49: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Ah]
+mabeal1: raises 415 to 455 and is all-in
+jooj49: folds 
+Uncalled bet (415) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: jooj49 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562278180: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:38:37 CET [2026/02/02 9:38:37 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (495 in chips) 
+Seat 3: jooj49 (1005 in chips) 
+jooj49: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 3c]
+jooj49: calls 20
+mabeal1: checks 
+*** FLOP *** [9d Qd 5d]
+mabeal1: checks 
+jooj49: checks 
+*** TURN *** [9d Qd 5d] [Kd]
+mabeal1: bets 60
+jooj49: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d Qd 5d Kd]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: jooj49 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259562279646: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:38:47 CET [2026/02/02 9:38:47 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 3: jooj49 (965 in chips) 
+mabeal1: posts small blind 20
+jooj49: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 8d]
+mabeal1: raises 495 to 535 and is all-in
+jooj49: folds 
+Uncalled bet (495) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: jooj49 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562280938: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:38:55 CET [2026/02/02 9:38:55 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (575 in chips) 
+Seat 3: jooj49 (925 in chips) 
+jooj49: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7s]
+jooj49: calls 20
+mabeal1: checks 
+*** FLOP *** [Qs 6c Tc]
+mabeal1: checks 
+jooj49: checks 
+*** TURN *** [Qs 6c Tc] [Td]
+mabeal1: checks 
+jooj49: checks 
+*** RIVER *** [Qs 6c Tc Td] [Qh]
+mabeal1: checks 
+jooj49: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to jooj49
+jooj49 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 6c Tc Td Qh]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 3: jooj49 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259562283295: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:39:10 CET [2026/02/02 9:39:10 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 3: jooj49 (965 in chips) 
+mabeal1: posts small blind 20
+jooj49: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 7c]
+mabeal1: folds 
+Uncalled bet (20) returned to jooj49
+jooj49 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jooj49 (big blind) collected (40)
+
+
+
+PokerStars Hand #259562284093: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:39:15 CET [2026/02/02 9:39:15 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (515 in chips) 
+Seat 3: jooj49 (985 in chips) 
+jooj49: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ks]
+jooj49: calls 20
+mabeal1: raises 475 to 515 and is all-in
+jooj49: folds 
+Uncalled bet (475) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: jooj49 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562285419: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:39:24 CET [2026/02/02 9:39:24 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 3: jooj49 (945 in chips) 
+mabeal1: posts small blind 20
+jooj49: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 4h]
+mabeal1: calls 20
+jooj49: checks 
+*** FLOP *** [7c 8s 2c]
+jooj49: checks 
+mabeal1: checks 
+*** TURN *** [7c 8s 2c] [Qc]
+jooj49: checks 
+mabeal1: bets 60
+jooj49: calls 60
+*** RIVER *** [7c 8s 2c Qc] [Qs]
+jooj49: bets 200
+mabeal1: folds 
+Uncalled bet (200) returned to jooj49
+jooj49 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7c 8s 2c Qc Qs]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 3: jooj49 (big blind) collected (200)
+
+
+
+PokerStars Hand #259562287977: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:39:40 CET [2026/02/02 9:39:40 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 3: jooj49 (1045 in chips) 
+jooj49: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 7c]
+jooj49: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: jooj49 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562288806: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:39:45 CET [2026/02/02 9:39:45 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 3: jooj49 (1025 in chips) 
+mabeal1: posts small blind 20
+jooj49: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 7h]
+mabeal1: calls 20
+jooj49: checks 
+*** FLOP *** [4c Jh 2c]
+jooj49: checks 
+mabeal1: bets 40
+jooj49: calls 40
+*** TURN *** [4c Jh 2c] [7s]
+jooj49: checks 
+mabeal1: checks 
+*** RIVER *** [4c Jh 2c 7s] [Ac]
+jooj49: bets 160
+mabeal1: folds 
+Uncalled bet (160) returned to jooj49
+jooj49 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c Jh 2c 7s Ac]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 3: jooj49 (big blind) collected (160)
+
+
+
+PokerStars Hand #259562292955: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:40:12 CET [2026/02/02 9:40:12 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (395 in chips) 
+Seat 3: jooj49 (1105 in chips) 
+jooj49: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2s]
+jooj49: calls 20
+mabeal1: checks 
+*** FLOP *** [Kd 8s Kh]
+mabeal1: checks 
+jooj49: checks 
+*** TURN *** [Kd 8s Kh] [Jd]
+mabeal1: checks 
+jooj49: checks 
+*** RIVER *** [Kd 8s Kh Jd] [9d]
+mabeal1: checks 
+jooj49: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qd 2s] (a pair of Kings)
+jooj49: shows [Qc 7c] (a pair of Kings)
+mabeal1 collected 40 from pot
+jooj49 collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 8s Kh Jd 9d]
+Seat 1: mabeal1 (big blind) showed [Qd 2s] and won (40) with a pair of Kings
+Seat 3: jooj49 (button) (small blind) showed [Qc 7c] and won (40) with a pair of Kings
+
+
+
+PokerStars Hand #259562295489: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 15:40:28 CET [2026/02/02 9:40:28 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (395 in chips) 
+Seat 3: jooj49 (1105 in chips) 
+mabeal1: posts small blind 30
+jooj49: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Kc]
+mabeal1: raises 335 to 395 and is all-in
+jooj49: folds 
+Uncalled bet (335) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: jooj49 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562296246: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 15:40:33 CET [2026/02/02 9:40:33 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 3: jooj49 (1045 in chips) 
+jooj49: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Jc]
+jooj49: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: jooj49 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562296827: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 15:40:36 CET [2026/02/02 9:40:36 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (485 in chips) 
+Seat 3: jooj49 (1015 in chips) 
+mabeal1: posts small blind 30
+jooj49: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 6c]
+mabeal1: raises 425 to 485 and is all-in
+jooj49: folds 
+Uncalled bet (425) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: jooj49 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562297576: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 15:40:41 CET [2026/02/02 9:40:41 ET]
+Table '3971408382 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (545 in chips) 
+Seat 3: jooj49 (955 in chips) 
+jooj49: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 9s]
+jooj49: calls 30
+mabeal1: raises 485 to 545 and is all-in
+jooj49: folds 
+Uncalled bet (485) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: jooj49 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562298565: Tournament #3971408382, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 15:40:48 CET [2026/02/02 9:40:48 ET]
+Table '3971408382 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (605 in chips) 
+Seat 3: jooj49 (895 in chips) 
+mabeal1: posts small blind 30
+jooj49: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Kh]
+mabeal1: raises 545 to 605 and is all-in
+jooj49: calls 545
+*** FLOP *** [3c 7h 6s]
+*** TURN *** [3c 7h 6s] [9h]
+*** RIVER *** [3c 7h 6s 9h] [2c]
+*** SHOW DOWN ***
+jooj49: shows [Qh 2h] (a pair of Deuces)
+mabeal1: shows [Jc Kh] (high card King)
+jooj49 collected 1210 from pot
+mabeal1 finished the tournament in 2nd place
+jooj49 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1210 | Rake 0 
+Board [3c 7h 6s 9h 2c]
+Seat 1: mabeal1 (button) (small blind) showed [Jc Kh] and lost with high card King
+Seat 3: jooj49 (big blind) showed [Qh 2h] and won (1210) with a pair of Deuces
+
+
+

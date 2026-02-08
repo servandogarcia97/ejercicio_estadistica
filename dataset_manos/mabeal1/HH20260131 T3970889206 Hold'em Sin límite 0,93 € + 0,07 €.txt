@@ -1,0 +1,119 @@
+﻿PokerStars Hand #259538621524: Tournament #3970889206, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:50:12 CET [2026/01/31 14:50:12 ET]
+Table '3970889206 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: bobdebercy (500 in chips) 
+Seat 3: ESTALLIDO40 (500 in chips) 
+bobdebercy: posts small blind 10
+ESTALLIDO40: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 7c]
+mabeal1: raises 20 to 40
+bobdebercy: calls 30
+ESTALLIDO40: folds 
+*** FLOP *** [Td Kd 7h]
+bobdebercy: bets 20
+mabeal1: calls 20
+*** TURN *** [Td Kd 7h] [8c]
+bobdebercy: bets 20
+mabeal1: calls 20
+*** RIVER *** [Td Kd 7h 8c] [7d]
+bobdebercy: bets 20
+mabeal1: raises 400 to 420 and is all-in
+bobdebercy: calls 400 and is all-in
+*** SHOW DOWN ***
+mabeal1: shows [As 7c] (three of a kind, Sevens)
+bobdebercy: shows [Ks 4c] (two pair, Kings and Sevens)
+mabeal1 collected 1020 from pot
+bobdebercy finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Td Kd 7h 8c 7d]
+Seat 1: mabeal1 (button) showed [As 7c] and won (1020) with three of a kind, Sevens
+Seat 2: bobdebercy (small blind) showed [Ks 4c] and lost with two pair, Kings and Sevens
+Seat 3: ESTALLIDO40 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259538628132: Tournament #3970889206, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:50:40 CET [2026/01/31 14:50:40 ET]
+Table '3970889206 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: ESTALLIDO40 (480 in chips) 
+ESTALLIDO40: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Jd]
+ESTALLIDO40: calls 10
+mabeal1: checks 
+*** FLOP *** [Ad 8c Qd]
+mabeal1: checks 
+ESTALLIDO40: bets 20
+mabeal1: calls 20
+*** TURN *** [Ad 8c Qd] [3s]
+mabeal1: checks 
+ESTALLIDO40: checks 
+*** RIVER *** [Ad 8c Qd 3s] [2h]
+mabeal1: bets 60
+ESTALLIDO40: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad 8c Qd 3s 2h]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: ESTALLIDO40 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259538632477: Tournament #3970889206, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:50:58 CET [2026/01/31 14:50:58 ET]
+Table '3970889206 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: ESTALLIDO40 (440 in chips) 
+mabeal1: posts small blind 10
+ESTALLIDO40: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 5h]
+mabeal1: calls 10
+ESTALLIDO40: checks 
+*** FLOP *** [9h 6c Kd]
+ESTALLIDO40: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to ESTALLIDO40
+ESTALLIDO40 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9h 6c Kd]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: ESTALLIDO40 (big blind) collected (40)
+
+
+
+PokerStars Hand #259538635010: Tournament #3970889206, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:51:09 CET [2026/01/31 14:51:09 ET]
+Table '3970889206 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 3: ESTALLIDO40 (460 in chips) 
+ESTALLIDO40: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Kc]
+ESTALLIDO40: raises 40 to 60
+mabeal1: raises 980 to 1040 and is all-in
+ESTALLIDO40: calls 400 and is all-in
+Uncalled bet (580) returned to mabeal1
+*** FLOP *** [4c Jh 9h]
+*** TURN *** [4c Jh 9h] [8h]
+*** RIVER *** [4c Jh 9h 8h] [Ad]
+*** SHOW DOWN ***
+mabeal1: shows [Ac Kc] (a pair of Aces)
+ESTALLIDO40: shows [Qs Qh] (a pair of Queens)
+mabeal1 collected 920 from pot
+ESTALLIDO40 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [4c Jh 9h 8h Ad]
+Seat 1: mabeal1 (big blind) showed [Ac Kc] and won (920) with a pair of Aces
+Seat 3: ESTALLIDO40 (button) (small blind) showed [Qs Qh] and lost with a pair of Queens
+
+
+

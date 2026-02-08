@@ -1,0 +1,570 @@
+﻿PokerStars Hand #259603670698: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:18:44 CET [2026/02/05 13:18:44 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: darkbader666 (500 in chips) 
+Seat 3: loleau0706 (500 in chips) 
+darkbader666: posts small blind 10
+loleau0706: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 6c]
+mabeal1: folds 
+darkbader666: folds 
+Uncalled bet (10) returned to loleau0706
+loleau0706 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: darkbader666 (small blind) folded before Flop
+Seat 3: loleau0706 (big blind) collected (20)
+
+
+
+PokerStars Hand #259603673154: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:18:55 CET [2026/02/05 13:18:55 ET]
+Table '3972361078 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: darkbader666 (490 in chips) 
+Seat 3: loleau0706 (510 in chips) 
+loleau0706: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 4h]
+darkbader666: folds 
+loleau0706: calls 10
+mabeal1: checks 
+*** FLOP *** [Jh As 4c]
+loleau0706: bets 20
+mabeal1: calls 20
+*** TURN *** [Jh As 4c] [Qc]
+loleau0706: bets 20
+mabeal1: calls 20
+*** RIVER *** [Jh As 4c Qc] [2d]
+loleau0706: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+loleau0706: shows [Ks 9c] (high card Ace)
+mabeal1: shows [6h 4h] (a pair of Fours)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jh As 4c Qc 2d]
+Seat 1: mabeal1 (big blind) showed [6h 4h] and won (240) with a pair of Fours
+Seat 2: darkbader666 (button) folded before Flop (didn't bet)
+Seat 3: loleau0706 (small blind) showed [Ks 9c] and lost with high card Ace
+
+
+
+PokerStars Hand #259603679167: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:19:22 CET [2026/02/05 13:19:22 ET]
+Table '3972361078 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: darkbader666 (490 in chips) 
+Seat 3: loleau0706 (390 in chips) 
+mabeal1: posts small blind 10
+darkbader666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 6h]
+loleau0706: calls 20
+mabeal1: folds 
+darkbader666: raises 20 to 40
+loleau0706: calls 20
+*** FLOP *** [Td 2d 6c]
+darkbader666: checks 
+loleau0706: bets 20
+darkbader666: raises 430 to 450 and is all-in
+loleau0706: calls 330 and is all-in
+Uncalled bet (100) returned to darkbader666
+*** TURN *** [Td 2d 6c] [Th]
+*** RIVER *** [Td 2d 6c Th] [9s]
+*** SHOW DOWN ***
+darkbader666: shows [Qs Qd] (two pair, Queens and Tens)
+loleau0706: shows [Tc Kc] (three of a kind, Tens)
+loleau0706 collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [Td 2d 6c Th 9s]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: darkbader666 (big blind) showed [Qs Qd] and lost with two pair, Queens and Tens
+Seat 3: loleau0706 (button) showed [Tc Kc] and won (790) with three of a kind, Tens
+
+
+
+PokerStars Hand #259603684468: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:19:45 CET [2026/02/05 13:19:45 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: darkbader666 (100 in chips) 
+Seat 3: loleau0706 (790 in chips) 
+darkbader666: posts small blind 10
+loleau0706: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 4c]
+mabeal1: raises 590 to 610 and is all-in
+darkbader666: calls 90 and is all-in
+loleau0706: folds 
+Uncalled bet (510) returned to mabeal1
+*** FLOP *** [5c Ts 5h]
+*** TURN *** [5c Ts 5h] [2s]
+*** RIVER *** [5c Ts 5h 2s] [6h]
+*** SHOW DOWN ***
+darkbader666: shows [8s As] (a pair of Fives)
+mabeal1: shows [4s 4c] (two pair, Fives and Fours)
+mabeal1 collected 220 from pot
+darkbader666 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [5c Ts 5h 2s 6h]
+Seat 1: mabeal1 (button) showed [4s 4c] and won (220) with two pair, Fives and Fours
+Seat 2: darkbader666 (small blind) showed [8s As] and lost with a pair of Fives
+Seat 3: loleau0706 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259603689084: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:20:05 CET [2026/02/05 13:20:05 ET]
+Table '3972361078 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 3: loleau0706 (770 in chips) 
+loleau0706: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Qd]
+loleau0706: calls 10
+mabeal1: checks 
+*** FLOP *** [3h 6h Tc]
+mabeal1: checks 
+loleau0706: bets 40
+mabeal1: calls 40
+*** TURN *** [3h 6h Tc] [3c]
+mabeal1: checks 
+loleau0706: bets 20
+mabeal1: calls 20
+*** RIVER *** [3h 6h Tc 3c] [Ad]
+mabeal1: checks 
+loleau0706: bets 80
+mabeal1: calls 80
+*** SHOW DOWN ***
+loleau0706: shows [7h Qs] (a pair of Threes)
+mabeal1: shows [6s Qd] (two pair, Sixes and Threes)
+mabeal1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3h 6h Tc 3c Ad]
+Seat 1: mabeal1 (big blind) showed [6s Qd] and won (320) with two pair, Sixes and Threes
+Seat 3: loleau0706 (button) (small blind) showed [7h Qs] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259603694492: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:20:30 CET [2026/02/05 13:20:30 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 3: loleau0706 (610 in chips) 
+mabeal1: posts small blind 10
+loleau0706: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 9h]
+mabeal1: raises 20 to 40
+loleau0706: calls 20
+*** FLOP *** [9d Tc 6s]
+loleau0706: checks 
+mabeal1: checks 
+*** TURN *** [9d Tc 6s] [Ah]
+loleau0706: bets 40
+mabeal1: calls 40
+*** RIVER *** [9d Tc 6s Ah] [5s]
+loleau0706: checks 
+mabeal1: bets 80
+loleau0706: calls 80
+*** SHOW DOWN ***
+mabeal1: shows [Kd 9h] (a pair of Nines)
+loleau0706: mucks hand 
+mabeal1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [9d Tc 6s Ah 5s]
+Seat 1: mabeal1 (button) (small blind) showed [Kd 9h] and won (320) with a pair of Nines
+Seat 3: loleau0706 (big blind) mucked [5d 7h]
+
+
+
+PokerStars Hand #259603700025: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:20:54 CET [2026/02/05 13:20:54 ET]
+Table '3972361078 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: loleau0706 (450 in chips) 
+loleau0706: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 6s]
+loleau0706: calls 10
+mabeal1: raises 1030 to 1050 and is all-in
+loleau0706: calls 430 and is all-in
+Uncalled bet (600) returned to mabeal1
+*** FLOP *** [Th Jd 9s]
+*** TURN *** [Th Jd 9s] [4c]
+*** RIVER *** [Th Jd 9s 4c] [Kc]
+*** SHOW DOWN ***
+mabeal1: shows [Ac 6s] (high card Ace)
+loleau0706: shows [5h Kh] (a pair of Kings)
+loleau0706 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Th Jd 9s 4c Kc]
+Seat 1: mabeal1 (big blind) showed [Ac 6s] and lost with high card Ace
+Seat 3: loleau0706 (button) (small blind) showed [5h Kh] and won (900) with a pair of Kings
+
+
+
+PokerStars Hand #259603703916: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:21:11 CET [2026/02/05 13:21:11 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 3: loleau0706 (900 in chips) 
+mabeal1: posts small blind 10
+loleau0706: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Ad]
+mabeal1: raises 580 to 600 and is all-in
+loleau0706: folds 
+Uncalled bet (580) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: loleau0706 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259603706054: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:21:21 CET [2026/02/05 13:21:21 ET]
+Table '3972361078 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 3: loleau0706 (880 in chips) 
+loleau0706: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 9d]
+loleau0706: calls 10
+mabeal1: checks 
+*** FLOP *** [4c Kh 2s]
+mabeal1: checks 
+loleau0706: checks 
+*** TURN *** [4c Kh 2s] [9h]
+mabeal1: checks 
+loleau0706: bets 40
+mabeal1: calls 40
+*** RIVER *** [4c Kh 2s 9h] [Ac]
+mabeal1: checks 
+loleau0706: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+loleau0706: shows [9c Jd] (a pair of Nines)
+mabeal1: shows [Qd 9d] (a pair of Nines - Ace+King+Queen kicker)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4c Kh 2s 9h Ac]
+Seat 1: mabeal1 (big blind) showed [Qd 9d] and won (240) with a pair of Nines
+Seat 3: loleau0706 (button) (small blind) showed [9c Jd] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259603713529: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:21:53 CET [2026/02/05 13:21:53 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (740 in chips) 
+Seat 3: loleau0706 (760 in chips) 
+mabeal1: posts small blind 15
+loleau0706: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8h]
+mabeal1: folds 
+Uncalled bet (15) returned to loleau0706
+loleau0706 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: loleau0706 (big blind) collected (30)
+
+
+
+PokerStars Hand #259603714757: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:21:58 CET [2026/02/05 13:21:58 ET]
+Table '3972361078 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (725 in chips) 
+Seat 3: loleau0706 (775 in chips) 
+loleau0706: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Ks]
+loleau0706: calls 15
+mabeal1: raises 60 to 90
+loleau0706: calls 60
+*** FLOP *** [Kd As 2d]
+mabeal1: checks 
+loleau0706: checks 
+*** TURN *** [Kd As 2d] [9c]
+mabeal1: bets 30
+loleau0706: calls 30
+*** RIVER *** [Kd As 2d 9c] [8h]
+mabeal1: bets 180
+loleau0706: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kd As 2d 9c 8h]
+Seat 1: mabeal1 (big blind) collected (240)
+Seat 3: loleau0706 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259603719351: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:22:18 CET [2026/02/05 13:22:18 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (845 in chips) 
+Seat 3: loleau0706 (655 in chips) 
+mabeal1: posts small blind 15
+loleau0706: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 7s]
+mabeal1: calls 15
+loleau0706: checks 
+*** FLOP *** [8c Th Kc]
+loleau0706: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to loleau0706
+loleau0706 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8c Th Kc]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: loleau0706 (big blind) collected (60)
+
+
+
+PokerStars Hand #259603721852: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:22:29 CET [2026/02/05 13:22:29 ET]
+Table '3972361078 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (815 in chips) 
+Seat 3: loleau0706 (685 in chips) 
+loleau0706: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3h]
+loleau0706: calls 15
+mabeal1: checks 
+*** FLOP *** [Kd 7c 9d]
+mabeal1: checks 
+loleau0706: bets 30
+mabeal1: calls 30
+*** TURN *** [Kd 7c 9d] [Qs]
+mabeal1: checks 
+loleau0706: bets 30
+mabeal1: calls 30
+*** RIVER *** [Kd 7c 9d Qs] [5c]
+mabeal1: checks 
+loleau0706: bets 90
+mabeal1: calls 90
+*** SHOW DOWN ***
+loleau0706: shows [8h 9s] (a pair of Nines)
+mabeal1: mucks hand 
+loleau0706 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Kd 7c 9d Qs 5c]
+Seat 1: mabeal1 (big blind) mucked [9c 3h]
+Seat 3: loleau0706 (button) (small blind) showed [8h 9s] and won (360) with a pair of Nines
+
+
+
+PokerStars Hand #259603726163: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:22:48 CET [2026/02/05 13:22:48 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 3: loleau0706 (865 in chips) 
+mabeal1: posts small blind 15
+loleau0706: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 2c]
+mabeal1: raises 30 to 60
+loleau0706: calls 30
+*** FLOP *** [Ac 9c Kd]
+loleau0706: checks 
+mabeal1: bets 90
+loleau0706: calls 90
+*** TURN *** [Ac 9c Kd] [7d]
+loleau0706: checks 
+mabeal1: checks 
+*** RIVER *** [Ac 9c Kd 7d] [2h]
+loleau0706: bets 150
+mabeal1: folds 
+Uncalled bet (150) returned to loleau0706
+loleau0706 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ac 9c Kd 7d 2h]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 3: loleau0706 (big blind) collected (300)
+
+
+
+PokerStars Hand #259603734096: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:23:22 CET [2026/02/05 13:23:22 ET]
+Table '3972361078 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (485 in chips) 
+Seat 3: loleau0706 (1015 in chips) 
+loleau0706: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 3c]
+loleau0706: calls 15
+mabeal1: raises 60 to 90
+loleau0706: calls 60
+*** FLOP *** [8c 2s 9s]
+mabeal1: bets 135
+loleau0706: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8c 2s 9s]
+Seat 1: mabeal1 (big blind) collected (180)
+Seat 3: loleau0706 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259603738021: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:23:39 CET [2026/02/05 13:23:39 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (575 in chips) 
+Seat 3: loleau0706 (925 in chips) 
+mabeal1: posts small blind 15
+loleau0706: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 4s]
+mabeal1: calls 15
+loleau0706: checks 
+*** FLOP *** [6s 5h Jd]
+loleau0706: checks 
+mabeal1: checks 
+*** TURN *** [6s 5h Jd] [3h]
+loleau0706: bets 30
+mabeal1: calls 30
+*** RIVER *** [6s 5h Jd 3h] [Qd]
+loleau0706: bets 60
+mabeal1: raises 455 to 515 and is all-in
+loleau0706: folds 
+Uncalled bet (455) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6s 5h Jd 3h Qd]
+Seat 1: mabeal1 (button) (small blind) collected (240)
+Seat 3: loleau0706 (big blind) folded on the River
+
+
+
+PokerStars Hand #259603743105: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:24:01 CET [2026/02/05 13:24:01 ET]
+Table '3972361078 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (695 in chips) 
+Seat 3: loleau0706 (805 in chips) 
+loleau0706: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7d]
+loleau0706: calls 15
+mabeal1: raises 665 to 695 and is all-in
+loleau0706: calls 665
+*** FLOP *** [5h 6c Td]
+*** TURN *** [5h 6c Td] [9h]
+*** RIVER *** [5h 6c Td 9h] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [Kc 7d] (a pair of Sixes)
+loleau0706: shows [Kh 8s] (a pair of Sixes)
+mabeal1 collected 695 from pot
+loleau0706 collected 695 from pot
+*** SUMMARY ***
+Total pot 1390 | Rake 0 
+Board [5h 6c Td 9h 6h]
+Seat 1: mabeal1 (big blind) showed [Kc 7d] and won (695) with a pair of Sixes
+Seat 3: loleau0706 (button) (small blind) showed [Kh 8s] and won (695) with a pair of Sixes
+
+
+
+PokerStars Hand #259603746253: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:24:15 CET [2026/02/05 13:24:15 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (695 in chips) 
+Seat 3: loleau0706 (805 in chips) 
+mabeal1: posts small blind 15
+loleau0706: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Kc]
+mabeal1: calls 15
+loleau0706: checks 
+*** FLOP *** [Tc 5c 9c]
+loleau0706: checks 
+mabeal1: bets 30
+loleau0706: calls 30
+*** TURN *** [Tc 5c 9c] [Qc]
+loleau0706: bets 30
+mabeal1: raises 30 to 60
+loleau0706: calls 30
+*** RIVER *** [Tc 5c 9c Qc] [3d]
+loleau0706: bets 120
+mabeal1: raises 455 to 575 and is all-in
+loleau0706: calls 455
+*** SHOW DOWN ***
+mabeal1: shows [4s Kc] (a flush, King high)
+loleau0706: shows [7c 2s] (a flush, Queen high)
+mabeal1 collected 1390 from pot
+*** SUMMARY ***
+Total pot 1390 | Rake 0 
+Board [Tc 5c 9c Qc 3d]
+Seat 1: mabeal1 (button) (small blind) showed [4s Kc] and won (1390) with a flush, King high
+Seat 3: loleau0706 (big blind) showed [7c 2s] and lost with a flush, Queen high
+
+
+
+PokerStars Hand #259603751807: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:24:39 CET [2026/02/05 13:24:39 ET]
+Table '3972361078 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1390 in chips) 
+Seat 3: loleau0706 (110 in chips) 
+loleau0706: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 5s]
+loleau0706: calls 15
+mabeal1: checks 
+*** FLOP *** [Ks Ac 5h]
+mabeal1: bets 1360 and is all-in
+loleau0706: folds 
+Uncalled bet (1360) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks Ac 5h]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: loleau0706 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259603755210: Tournament #3972361078, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 19:24:54 CET [2026/02/05 13:24:54 ET]
+Table '3972361078 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1420 in chips) 
+Seat 3: loleau0706 (80 in chips) 
+mabeal1: posts small blind 20
+loleau0706: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 3h]
+mabeal1: raises 80 to 120
+loleau0706: calls 40 and is all-in
+Uncalled bet (40) returned to mabeal1
+*** FLOP *** [5h 9c 4c]
+*** TURN *** [5h 9c 4c] [4s]
+*** RIVER *** [5h 9c 4c 4s] [7h]
+*** SHOW DOWN ***
+loleau0706: shows [2c Kd] (a pair of Fours)
+mabeal1: shows [3d 3h] (two pair, Fours and Threes)
+mabeal1 collected 160 from pot
+loleau0706 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h 9c 4c 4s 7h]
+Seat 1: mabeal1 (button) (small blind) showed [3d 3h] and won (160) with two pair, Fours and Threes
+Seat 3: loleau0706 (big blind) showed [2c Kd] and lost with a pair of Fours
+
+
+

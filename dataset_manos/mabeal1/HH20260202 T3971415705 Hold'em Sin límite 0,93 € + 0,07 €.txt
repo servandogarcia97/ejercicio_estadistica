@@ -1,0 +1,133 @@
+﻿PokerStars Hand #259562516284: Tournament #3971415705, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:05:05 CET [2026/02/02 10:05:05 ET]
+Table '3971415705 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: acha_05 (500 in chips) 
+Seat 3: mawaxx (500 in chips) 
+acha_05: posts small blind 10
+mawaxx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Ks]
+mabeal1: raises 20 to 40
+acha_05: raises 20 to 60
+mawaxx: folds 
+mabeal1: raises 440 to 500 and is all-in
+acha_05: calls 440 and is all-in
+*** FLOP *** [8h 8s Tc]
+*** TURN *** [8h 8s Tc] [Ad]
+*** RIVER *** [8h 8s Tc Ad] [Jc]
+*** SHOW DOWN ***
+acha_05: shows [Qh Th] (two pair, Tens and Eights)
+mabeal1: shows [Ac Ks] (two pair, Aces and Eights)
+mabeal1 collected 1020 from pot
+acha_05 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [8h 8s Tc Ad Jc]
+Seat 1: mabeal1 (button) showed [Ac Ks] and won (1020) with two pair, Aces and Eights
+Seat 2: acha_05 (small blind) showed [Qh Th] and lost with two pair, Tens and Eights
+Seat 3: mawaxx (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562519547: Tournament #3971415705, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:05:26 CET [2026/02/02 10:05:26 ET]
+Table '3971415705 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: mawaxx (480 in chips) 
+mawaxx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Kh]
+mawaxx: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: mawaxx (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562520165: Tournament #3971415705, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:05:30 CET [2026/02/02 10:05:30 ET]
+Table '3971415705 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: mawaxx (470 in chips) 
+mabeal1: posts small blind 10
+mawaxx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Kh]
+mabeal1: raises 20 to 40
+mawaxx: calls 20
+*** FLOP *** [5d 3s Td]
+mawaxx: checks 
+mabeal1: checks 
+*** TURN *** [5d 3s Td] [8s]
+mawaxx: checks 
+mabeal1: checks 
+*** RIVER *** [5d 3s Td 8s] [Kc]
+mawaxx: checks 
+mabeal1: bets 60
+mawaxx: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 3s Td 8s Kc]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: mawaxx (big blind) folded on the River
+
+
+
+PokerStars Hand #259562524437: Tournament #3971415705, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:05:58 CET [2026/02/02 10:05:58 ET]
+Table '3971415705 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: mawaxx (430 in chips) 
+mawaxx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 2d]
+mawaxx: calls 10
+mabeal1: checks 
+*** FLOP *** [3c Ks Kd]
+mabeal1: checks 
+mawaxx: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to mawaxx
+mawaxx collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c Ks Kd]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: mawaxx (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259562528241: Tournament #3971415705, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:06:22 CET [2026/02/02 10:06:22 ET]
+Table '3971415705 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: mawaxx (450 in chips) 
+mabeal1: posts small blind 10
+mawaxx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 9h]
+mabeal1: raises 1030 to 1050 and is all-in
+mawaxx: calls 430 and is all-in
+Uncalled bet (600) returned to mabeal1
+*** FLOP *** [2s 9c 9s]
+*** TURN *** [2s 9c 9s] [5d]
+*** RIVER *** [2s 9c 9s 5d] [8d]
+*** SHOW DOWN ***
+mawaxx: shows [Th Jc] (a pair of Nines)
+mabeal1: shows [9d 9h] (four of a kind, Nines)
+mabeal1 collected 900 from pot
+mawaxx finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [2s 9c 9s 5d 8d]
+Seat 1: mabeal1 (button) (small blind) showed [9d 9h] and won (900) with four of a kind, Nines
+Seat 3: mawaxx (big blind) showed [Th Jc] and lost with a pair of Nines
+
+
+

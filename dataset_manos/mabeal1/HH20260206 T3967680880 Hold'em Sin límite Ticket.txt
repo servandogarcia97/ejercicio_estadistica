@@ -1,0 +1,255 @@
+﻿PokerStars Hand #259618322537: Tournament #3967680880, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/06 20:00:00 CET [2026/02/06 14:00:00 ET]
+Table '3967680880 139' 8-max Seat #1 is the button
+Seat 1: TORMENTAK (5000 in chips) 
+Seat 2: Orejon377213 (5000 in chips) is sitting out
+Seat 4: marianesi165 (5000 in chips) 
+Seat 5: tiagofaria18 (5000 in chips) is sitting out
+Seat 6: bobbymoreno7 (5000 in chips) 
+Seat 7: mabeal1 (5000 in chips) 
+Seat 8: luisankowski (5000 in chips) is sitting out
+TORMENTAK: posts the ante 5
+Orejon377213: posts the ante 5
+marianesi165: posts the ante 5
+tiagofaria18: posts the ante 5
+bobbymoreno7: posts the ante 5
+mabeal1: posts the ante 5
+luisankowski: posts the ante 5
+Orejon377213: posts small blind 25
+marianesi165: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 5s]
+tiagofaria18: folds 
+bobbymoreno7: calls 50
+mabeal1: raises 4945 to 4995 and is all-in
+luisankowski: folds 
+TORMENTAK: folds 
+Orejon377213: folds 
+marianesi165: folds 
+Motaje is disconnected 
+bobbymoreno7: folds 
+Uncalled bet (4945) returned to mabeal1
+mabeal1 collected 210 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 1: TORMENTAK (button) folded before Flop (didn't bet)
+Seat 2: Orejon377213 (small blind) folded before Flop
+Seat 4: marianesi165 (big blind) folded before Flop
+Seat 5: tiagofaria18 folded before Flop (didn't bet)
+Seat 6: bobbymoreno7 folded before Flop
+Seat 7: mabeal1 collected (210)
+Seat 8: luisankowski folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259618325483: Tournament #3967680880, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/06 20:00:17 CET [2026/02/06 14:00:17 ET]
+Table '3967680880 139' 8-max Seat #2 is the button
+Seat 1: TORMENTAK (4995 in chips) 
+Seat 2: Orejon377213 (4970 in chips) is sitting out
+Seat 3: Motaje (4970 in chips) out of hand (moved from another table into small blind)
+Seat 4: marianesi165 (4945 in chips) 
+Seat 5: tiagofaria18 (4995 in chips) is sitting out
+Seat 6: bobbymoreno7 (4945 in chips) 
+Seat 7: mabeal1 (5155 in chips) 
+Seat 8: luisankowski (4995 in chips) is sitting out
+Motaje will be allowed to play after the button
+TORMENTAK: posts the ante 5
+Orejon377213: posts the ante 5
+marianesi165: posts the ante 5
+tiagofaria18: posts the ante 5
+bobbymoreno7: posts the ante 5
+mabeal1: posts the ante 5
+luisankowski: posts the ante 5
+marianesi165: posts small blind 25
+tiagofaria18: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8d]
+bobbymoreno7: folds 
+mabeal1: folds 
+luisankowski: folds 
+TORMENTAK: folds 
+Orejon377213: folds 
+marianesi165: folds 
+Uncalled bet (25) returned to tiagofaria18
+tiagofaria18 collected 85 from pot
+tiagofaria18: doesn't show hand 
+*** SUMMARY ***
+Total pot 85 | Rake 0 
+Seat 1: TORMENTAK folded before Flop (didn't bet)
+Seat 2: Orejon377213 (button) folded before Flop (didn't bet)
+Seat 4: marianesi165 (small blind) folded before Flop
+Seat 5: tiagofaria18 (big blind) collected (85)
+Seat 6: bobbymoreno7 folded before Flop (didn't bet)
+Seat 7: mabeal1 folded before Flop (didn't bet)
+Seat 8: luisankowski folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259618327519: Tournament #3967680880, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/06 20:00:30 CET [2026/02/06 14:00:30 ET]
+Table '3967680880 139' 8-max Seat #4 is the button
+Seat 1: TORMENTAK (4990 in chips) 
+Seat 2: Orejon377213 (4965 in chips) is sitting out
+Seat 3: Motaje (4970 in chips) 
+Seat 4: marianesi165 (4915 in chips) 
+Seat 5: tiagofaria18 (5050 in chips) is sitting out
+Seat 6: bobbymoreno7 (4940 in chips) 
+Seat 7: mabeal1 (5150 in chips) 
+Seat 8: luisankowski (4990 in chips) is sitting out
+TORMENTAK: posts the ante 5
+Orejon377213: posts the ante 5
+Motaje: posts the ante 5
+marianesi165: posts the ante 5
+tiagofaria18: posts the ante 5
+bobbymoreno7: posts the ante 5
+mabeal1: posts the ante 5
+luisankowski: posts the ante 5
+tiagofaria18: posts small blind 25
+bobbymoreno7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 9c]
+mabeal1: raises 5095 to 5145 and is all-in
+luisankowski: folds 
+TORMENTAK: folds 
+Orejon377213: folds 
+Motaje: folds 
+marianesi165: folds 
+tiagofaria18: folds 
+bobbymoreno7: folds 
+Uncalled bet (5095) returned to mabeal1
+mabeal1 collected 165 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: TORMENTAK folded before Flop (didn't bet)
+Seat 2: Orejon377213 folded before Flop (didn't bet)
+Seat 3: Motaje folded before Flop (didn't bet)
+Seat 4: marianesi165 (button) folded before Flop (didn't bet)
+Seat 5: tiagofaria18 (small blind) folded before Flop
+Seat 6: bobbymoreno7 (big blind) folded before Flop
+Seat 7: mabeal1 collected (165)
+Seat 8: luisankowski folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259618333006: Tournament #3967680880, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/06 20:00:59 CET [2026/02/06 14:00:59 ET]
+Table '3967680880 139' 8-max Seat #5 is the button
+Seat 1: TORMENTAK (4985 in chips) 
+Seat 2: Orejon377213 (4960 in chips) is sitting out
+Seat 3: Motaje (4965 in chips) 
+Seat 4: marianesi165 (4910 in chips) 
+Seat 5: tiagofaria18 (5020 in chips) is sitting out
+Seat 6: bobbymoreno7 (4885 in chips) 
+Seat 7: mabeal1 (5260 in chips) 
+Seat 8: luisankowski (4985 in chips) is sitting out
+TORMENTAK: posts the ante 5
+Orejon377213: posts the ante 5
+Motaje: posts the ante 5
+marianesi165: posts the ante 5
+tiagofaria18: posts the ante 5
+bobbymoreno7: posts the ante 5
+mabeal1: posts the ante 5
+luisankowski: posts the ante 5
+bobbymoreno7: posts small blind 25
+mabeal1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Tc]
+luisankowski: folds 
+tiagofaria18 is disconnected 
+tiagofaria18 has returned
+TORMENTAK: calls 50
+Orejon377213: folds 
+Motaje: folds 
+marianesi165: folds 
+tiagofaria18: calls 50
+bobbymoreno7: folds 
+mabeal1: checks 
+*** FLOP *** [Kd Kc Th]
+mabeal1: checks 
+TORMENTAK: checks 
+tiagofaria18: checks 
+*** TURN *** [Kd Kc Th] [Ts]
+mabeal1: bets 5205 and is all-in
+TORMENTAK: folds 
+tiagofaria18: folds 
+Uncalled bet (5205) returned to mabeal1
+mabeal1 collected 215 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 215 | Rake 0 
+Board [Kd Kc Th Ts]
+Seat 1: TORMENTAK folded on the Turn
+Seat 2: Orejon377213 folded before Flop (didn't bet)
+Seat 3: Motaje folded before Flop (didn't bet)
+Seat 4: marianesi165 folded before Flop (didn't bet)
+Seat 5: tiagofaria18 (button) folded on the Turn
+Seat 6: bobbymoreno7 (small blind) folded before Flop
+Seat 7: mabeal1 (big blind) collected (215)
+Seat 8: luisankowski folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259618340816: Tournament #3967680880, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/06 20:01:37 CET [2026/02/06 14:01:37 ET]
+Table '3967680880 139' 8-max Seat #6 is the button
+Seat 1: TORMENTAK (4930 in chips) 
+Seat 2: Orejon377213 (4955 in chips) is sitting out
+Seat 3: Motaje (4960 in chips) 
+Seat 4: marianesi165 (4905 in chips) 
+Seat 5: tiagofaria18 (4965 in chips) 
+Seat 6: bobbymoreno7 (4855 in chips) 
+Seat 7: mabeal1 (5420 in chips) 
+Seat 8: luisankowski (4980 in chips) is sitting out
+TORMENTAK: posts the ante 5
+Orejon377213: posts the ante 5
+Motaje: posts the ante 5
+marianesi165: posts the ante 5
+tiagofaria18: posts the ante 5
+bobbymoreno7: posts the ante 5
+mabeal1: posts the ante 5
+luisankowski: posts the ante 5
+mabeal1: posts small blind 25
+luisankowski: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6d]
+TORMENTAK: folds 
+Orejon377213: folds 
+Motaje: raises 50 to 100
+marianesi165: folds 
+luisankowski is disconnected 
+luisankowski has returned
+tiagofaria18: calls 100
+bobbymoreno7: calls 100
+mabeal1: folds 
+luisankowski: calls 50
+*** FLOP *** [2c 6s Qd]
+luisankowski: checks 
+Motaje: checks 
+tiagofaria18: checks 
+bobbymoreno7: checks 
+*** TURN *** [2c 6s Qd] [7s]
+luisankowski: bets 100
+Motaje: folds 
+tiagofaria18: folds 
+bobbymoreno7: raises 333 to 433
+luisankowski: calls 333
+*** RIVER *** [2c 6s Qd 7s] [4s]
+luisankowski: bets 666
+bobbymoreno7: raises 666 to 1332
+luisankowski: calls 666
+*** SHOW DOWN ***
+bobbymoreno7: shows [Ts Qh] (a pair of Queens)
+luisankowski: shows [Qs 8s] (a flush, Queen high)
+luisankowski collected 3995 from pot
+*** SUMMARY ***
+Total pot 3995 | Rake 0 
+Board [2c 6s Qd 7s 4s]
+Seat 1: TORMENTAK folded before Flop (didn't bet)
+Seat 2: Orejon377213 folded before Flop (didn't bet)
+Seat 3: Motaje folded on the Turn
+Seat 4: marianesi165 folded before Flop (didn't bet)
+Seat 5: tiagofaria18 folded on the Turn
+Seat 6: bobbymoreno7 (button) showed [Ts Qh] and lost with a pair of Queens
+Seat 7: mabeal1 (small blind) folded before Flop
+Seat 8: luisankowski (big blind) showed [Qs 8s] and won (3995) with a flush, Queen high
+
+
+

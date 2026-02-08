@@ -1,0 +1,742 @@
+﻿PokerStars Hand #259579210606: Tournament #3967680877, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/03 19:59:58 CET [2026/02/03 13:59:58 ET]
+Table '3967680877 73' 8-max Seat #1 is the button
+Seat 1: cringo11 (5000 in chips) is sitting out
+Seat 3: mabeal1 (5000 in chips) 
+Seat 4: macarroncio (5000 in chips) 
+Seat 5: cristo2502 (5000 in chips) is sitting out
+Seat 6: Ryankhelifi7 (5000 in chips) is sitting out
+Seat 7: Capitansalami18 (5000 in chips) is sitting out
+Seat 8: I200989A (5000 in chips) 
+cringo11: posts the ante 5
+mabeal1: posts the ante 5
+macarroncio: posts the ante 5
+cristo2502: posts the ante 5
+Ryankhelifi7: posts the ante 5
+Capitansalami18: posts the ante 5
+I200989A: posts the ante 5
+mabeal1: posts small blind 25
+macarroncio: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2s]
+cristo2502: folds 
+Ryankhelifi7: folds 
+Capitansalami18: folds 
+Ryankhelifi7 is disconnected 
+Ryankhelifi7 has returned
+I200989A: folds 
+cringo11: folds 
+mabeal1: raises 100 to 150
+macarroncio: folds 
+Uncalled bet (100) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: cringo11 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (135)
+Seat 4: macarroncio (big blind) folded before Flop
+Seat 5: cristo2502 folded before Flop (didn't bet)
+Seat 6: Ryankhelifi7 folded before Flop (didn't bet)
+Seat 7: Capitansalami18 folded before Flop (didn't bet)
+Seat 8: I200989A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579214487: Tournament #3967680877, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/03 20:00:19 CET [2026/02/03 14:00:19 ET]
+Table '3967680877 73' 8-max Seat #3 is the button
+Seat 1: cringo11 (4995 in chips) is sitting out
+Seat 2: franjiru (4995 in chips) is sitting out
+Seat 3: mabeal1 (5080 in chips) 
+Seat 4: macarroncio (4945 in chips) 
+Seat 5: cristo2502 (4995 in chips) is sitting out
+Seat 6: Ryankhelifi7 (4995 in chips) 
+Seat 7: Capitansalami18 (4995 in chips) is sitting out
+Seat 8: I200989A (4995 in chips) 
+cringo11: posts the ante 5
+franjiru: posts the ante 5
+mabeal1: posts the ante 5
+macarroncio: posts the ante 5
+cristo2502: posts the ante 5
+Ryankhelifi7: posts the ante 5
+Capitansalami18: posts the ante 5
+I200989A: posts the ante 5
+macarroncio: posts small blind 25
+cristo2502: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 4c]
+Ryankhelifi7: calls 50
+Capitansalami18: folds 
+I200989A: calls 50
+cringo11: folds 
+franjiru: folds 
+mabeal1: folds 
+macarroncio: calls 25
+cristo2502: folds 
+*** FLOP *** [8d 5d Js]
+macarroncio: checks 
+Ryankhelifi7: bets 50
+I200989A: calls 50
+macarroncio: calls 50
+*** TURN *** [8d 5d Js] [8h]
+macarroncio: checks 
+Ryankhelifi7: bets 50
+I200989A: calls 50
+macarroncio: calls 50
+*** RIVER *** [8d 5d Js 8h] [Ac]
+macarroncio: checks 
+Ryankhelifi7: bets 50
+I200989A: calls 50
+macarroncio: calls 50
+*** SHOW DOWN ***
+Ryankhelifi7: shows [Td Jh] (two pair, Jacks and Eights)
+I200989A: shows [Ah Qd] (two pair, Aces and Eights)
+macarroncio: mucks hand 
+I200989A collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [8d 5d Js 8h Ac]
+Seat 1: cringo11 folded before Flop (didn't bet)
+Seat 2: franjiru folded before Flop (didn't bet)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+Seat 4: macarroncio (small blind) mucked [7c 5c]
+Seat 5: cristo2502 (big blind) folded before Flop
+Seat 6: Ryankhelifi7 showed [Td Jh] and lost with two pair, Jacks and Eights
+Seat 7: Capitansalami18 folded before Flop (didn't bet)
+Seat 8: I200989A showed [Ah Qd] and won (690) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #259579224545: Tournament #3967680877, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/03 20:01:12 CET [2026/02/03 14:01:12 ET]
+Table '3967680877 73' 8-max Seat #4 is the button
+Seat 1: cringo11 (4990 in chips) is sitting out
+Seat 2: franjiru (4990 in chips) is sitting out
+Seat 3: mabeal1 (5075 in chips) 
+Seat 4: macarroncio (4740 in chips) 
+Seat 5: cristo2502 (4940 in chips) is sitting out
+Seat 6: Ryankhelifi7 (4790 in chips) 
+Seat 7: Capitansalami18 (4990 in chips) is sitting out
+Seat 8: I200989A (5480 in chips) 
+cringo11: posts the ante 5
+franjiru: posts the ante 5
+mabeal1: posts the ante 5
+macarroncio: posts the ante 5
+cristo2502: posts the ante 5
+Ryankhelifi7: posts the ante 5
+Capitansalami18: posts the ante 5
+I200989A: posts the ante 5
+cristo2502: posts small blind 25
+Ryankhelifi7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Ts]
+Capitansalami18: folds 
+I200989A: calls 50
+cringo11: folds 
+franjiru: folds 
+mabeal1: folds 
+macarroncio: calls 50
+cristo2502: folds 
+Ryankhelifi7: raises 50 to 100
+I200989A: calls 50
+macarroncio: calls 50
+*** FLOP *** [Qs 6c 9d]
+Ryankhelifi7: bets 50
+Capitansalami18 has returned
+I200989A: folds 
+macarroncio: folds 
+Uncalled bet (50) returned to Ryankhelifi7
+Ryankhelifi7 collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | Rake 0 
+Board [Qs 6c 9d]
+Seat 1: cringo11 folded before Flop (didn't bet)
+Seat 2: franjiru folded before Flop (didn't bet)
+Seat 3: mabeal1 folded before Flop (didn't bet)
+Seat 4: macarroncio (button) folded on the Flop
+Seat 5: cristo2502 (small blind) folded before Flop
+Seat 6: Ryankhelifi7 (big blind) collected (365)
+Seat 7: Capitansalami18 folded before Flop (didn't bet)
+Seat 8: I200989A folded on the Flop
+
+
+
+PokerStars Hand #259579231174: Tournament #3967680877, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/03 20:01:42 CET [2026/02/03 14:01:42 ET]
+Table '3967680877 73' 8-max Seat #5 is the button
+Seat 1: cringo11 (4985 in chips) is sitting out
+Seat 2: franjiru (4985 in chips) is sitting out
+Seat 3: mabeal1 (5070 in chips) 
+Seat 4: macarroncio (4635 in chips) 
+Seat 5: cristo2502 (4910 in chips) is sitting out
+Seat 6: Ryankhelifi7 (5050 in chips) 
+Seat 7: Capitansalami18 (4985 in chips) 
+Seat 8: I200989A (5375 in chips) 
+cringo11: posts the ante 5
+franjiru: posts the ante 5
+mabeal1: posts the ante 5
+macarroncio: posts the ante 5
+cristo2502: posts the ante 5
+Ryankhelifi7: posts the ante 5
+Capitansalami18: posts the ante 5
+I200989A: posts the ante 5
+Ryankhelifi7: posts small blind 25
+Capitansalami18: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 5c]
+I200989A: calls 50
+cringo11: folds 
+franjiru: folds 
+mabeal1: raises 150 to 200
+macarroncio: folds 
+cristo2502: folds 
+Ryankhelifi7: calls 175
+Capitansalami18: folds 
+I200989A: calls 150
+*** FLOP *** [Jh Td 9h]
+franjiru is disconnected 
+franjiru has returned
+Ryankhelifi7: bets 4845 and is all-in
+I200989A: folds 
+mabeal1: folds 
+Uncalled bet (4845) returned to Ryankhelifi7
+Ryankhelifi7 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [Jh Td 9h]
+Seat 1: cringo11 folded before Flop (didn't bet)
+Seat 2: franjiru folded before Flop (didn't bet)
+Seat 3: mabeal1 folded on the Flop
+Seat 4: macarroncio folded before Flop (didn't bet)
+Seat 5: cristo2502 (button) folded before Flop (didn't bet)
+Seat 6: Ryankhelifi7 (small blind) collected (690)
+Seat 7: Capitansalami18 (big blind) folded before Flop
+Seat 8: I200989A folded on the Flop
+
+
+
+PokerStars Hand #259579239632: Tournament #3967680877, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/03 20:02:17 CET [2026/02/03 14:02:17 ET]
+Table '3967680877 73' 8-max Seat #6 is the button
+Seat 1: cringo11 (4980 in chips) is sitting out
+Seat 2: franjiru (4980 in chips) 
+Seat 3: mabeal1 (4865 in chips) 
+Seat 4: macarroncio (4630 in chips) 
+Seat 5: cristo2502 (4905 in chips) is sitting out
+Seat 6: Ryankhelifi7 (5535 in chips) 
+Seat 7: Capitansalami18 (4930 in chips) 
+Seat 8: I200989A (5170 in chips) 
+cringo11: posts the ante 5
+franjiru: posts the ante 5
+mabeal1: posts the ante 5
+macarroncio: posts the ante 5
+cristo2502: posts the ante 5
+Ryankhelifi7: posts the ante 5
+Capitansalami18: posts the ante 5
+I200989A: posts the ante 5
+Capitansalami18: posts small blind 25
+I200989A: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4h]
+cringo11: folds 
+franjiru: raises 4925 to 4975 and is all-in
+mabeal1: folds 
+macarroncio: folds 
+cristo2502: folds 
+Ryankhelifi7: folds 
+Capitansalami18: folds 
+I200989A: folds 
+Uncalled bet (4925) returned to franjiru
+franjiru collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: cringo11 folded before Flop (didn't bet)
+Seat 2: franjiru collected (165)
+Seat 3: mabeal1 folded before Flop (didn't bet)
+Seat 4: macarroncio folded before Flop (didn't bet)
+Seat 5: cristo2502 folded before Flop (didn't bet)
+Seat 6: Ryankhelifi7 (button) folded before Flop (didn't bet)
+Seat 7: Capitansalami18 (small blind) folded before Flop
+Seat 8: I200989A (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579243826: Tournament #3967680877, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/03 20:02:36 CET [2026/02/03 14:02:36 ET]
+Table '3967680877 73' 8-max Seat #7 is the button
+Seat 1: cringo11 (4975 in chips) is sitting out
+Seat 2: franjiru (5090 in chips) 
+Seat 3: mabeal1 (4860 in chips) 
+Seat 4: macarroncio (4625 in chips) 
+Seat 5: cristo2502 (4900 in chips) is sitting out
+Seat 6: Ryankhelifi7 (5530 in chips) 
+Seat 7: Capitansalami18 (4900 in chips) 
+Seat 8: I200989A (5115 in chips) 
+cringo11: posts the ante 5
+franjiru: posts the ante 5
+mabeal1: posts the ante 5
+macarroncio: posts the ante 5
+cristo2502: posts the ante 5
+Ryankhelifi7: posts the ante 5
+Capitansalami18: posts the ante 5
+I200989A: posts the ante 5
+I200989A: posts small blind 25
+cringo11: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 4s]
+franjiru: raises 5035 to 5085 and is all-in
+mabeal1: folds 
+macarroncio: folds 
+cristo2502: folds 
+Ryankhelifi7: raises 440 to 5525 and is all-in
+Capitansalami18: folds 
+I200989A: folds 
+cringo11: folds 
+Uncalled bet (440) returned to Ryankhelifi7
+*** FLOP *** [3h 5d 5h]
+*** TURN *** [3h 5d 5h] [Ks]
+*** RIVER *** [3h 5d 5h Ks] [2c]
+*** SHOW DOWN ***
+franjiru: shows [4d 4c] (two pair, Fives and Fours)
+Ryankhelifi7: shows [Ac 8c] (a pair of Fives)
+franjiru collected 10285 from pot
+*** SUMMARY ***
+Total pot 10285 | Rake 0 
+Board [3h 5d 5h Ks 2c]
+Seat 1: cringo11 (big blind) folded before Flop
+Seat 2: franjiru showed [4d 4c] and won (10285) with two pair, Fives and Fours
+Seat 3: mabeal1 folded before Flop (didn't bet)
+Seat 4: macarroncio folded before Flop (didn't bet)
+Seat 5: cristo2502 folded before Flop (didn't bet)
+Seat 6: Ryankhelifi7 showed [Ac 8c] and lost with a pair of Fives
+Seat 7: Capitansalami18 (button) folded before Flop (didn't bet)
+Seat 8: I200989A (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579248138: Tournament #3967680877, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/03 20:02:54 CET [2026/02/03 14:02:54 ET]
+Table '3967680877 73' 8-max Seat #8 is the button
+Seat 1: cringo11 (4920 in chips) is sitting out
+Seat 2: franjiru (10285 in chips) 
+Seat 3: mabeal1 (4855 in chips) 
+Seat 4: macarroncio (4620 in chips) 
+Seat 5: cristo2502 (4895 in chips) is sitting out
+Seat 6: Ryankhelifi7 (440 in chips) 
+Seat 7: Capitansalami18 (4895 in chips) 
+Seat 8: I200989A (5085 in chips) 
+cringo11: posts the ante 5
+franjiru: posts the ante 5
+mabeal1: posts the ante 5
+macarroncio: posts the ante 5
+cristo2502: posts the ante 5
+Ryankhelifi7: posts the ante 5
+Capitansalami18: posts the ante 5
+I200989A: posts the ante 5
+cringo11: posts small blind 25
+franjiru: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 7h]
+mabeal1: folds 
+macarroncio: calls 50
+cristo2502: folds 
+Ryankhelifi7: raises 385 to 435 and is all-in
+Capitansalami18: folds 
+I200989A: folds 
+cringo11: folds 
+franjiru: raises 9845 to 10280 and is all-in
+macarroncio: folds 
+Uncalled bet (9845) returned to franjiru
+*** FLOP *** [Jd 6d 3h]
+*** TURN *** [Jd 6d 3h] [8c]
+*** RIVER *** [Jd 6d 3h 8c] [4d]
+*** SHOW DOWN ***
+franjiru: shows [2c Kc] (high card King)
+Ryankhelifi7: shows [Js 7d] (a pair of Jacks)
+Ryankhelifi7 collected 985 from pot
+*** SUMMARY ***
+Total pot 985 | Rake 0 
+Board [Jd 6d 3h 8c 4d]
+Seat 1: cringo11 (small blind) folded before Flop
+Seat 2: franjiru (big blind) showed [2c Kc] and lost with high card King
+Seat 3: mabeal1 folded before Flop (didn't bet)
+Seat 4: macarroncio folded before Flop
+Seat 5: cristo2502 folded before Flop (didn't bet)
+Seat 6: Ryankhelifi7 showed [Js 7d] and won (985) with a pair of Jacks
+Seat 7: Capitansalami18 folded before Flop (didn't bet)
+Seat 8: I200989A (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579255645: Tournament #3967680877, Freeroll  Hold'em No Limit - Level II (30/60) - 2026/02/03 20:03:25 CET [2026/02/03 14:03:25 ET]
+Table '3967680877 73' 8-max Seat #1 is the button
+Seat 1: cringo11 (4890 in chips) is sitting out
+Seat 2: franjiru (9845 in chips) 
+Seat 3: mabeal1 (4850 in chips) 
+Seat 4: macarroncio (4565 in chips) 
+Seat 5: cristo2502 (4890 in chips) is sitting out
+Seat 6: Ryankhelifi7 (985 in chips) 
+Seat 7: Capitansalami18 (4890 in chips) 
+Seat 8: I200989A (5080 in chips) 
+cringo11: posts the ante 6
+franjiru: posts the ante 6
+mabeal1: posts the ante 6
+macarroncio: posts the ante 6
+cristo2502: posts the ante 6
+Ryankhelifi7: posts the ante 6
+Capitansalami18: posts the ante 6
+I200989A: posts the ante 6
+franjiru: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Qd]
+macarroncio: calls 60
+cristo2502: folds 
+Ryankhelifi7: raises 919 to 979 and is all-in
+Capitansalami18: folds 
+I200989A: folds 
+cringo11: folds 
+cringo11 has returned
+franjiru: calls 949
+mabeal1: folds 
+macarroncio: calls 919
+*** FLOP *** [3c 2d 3h]
+franjiru is disconnected 
+franjiru is connected 
+franjiru is disconnected 
+franjiru is connected 
+franjiru: checks 
+macarroncio: bets 360
+franjiru: folds 
+Uncalled bet (360) returned to macarroncio
+*** TURN *** [3c 2d 3h] [Tc]
+*** RIVER *** [3c 2d 3h Tc] [5c]
+*** SHOW DOWN ***
+macarroncio: shows [As 5s] (two pair, Fives and Threes)
+Ryankhelifi7: shows [Qs Ks] (a pair of Threes)
+macarroncio collected 3045 from pot
+Ryankhelifi7 finished the tournament in 1012th place
+*** SUMMARY ***
+Total pot 3045 | Rake 0 
+Board [3c 2d 3h Tc 5c]
+Seat 1: cringo11 (button) folded before Flop (didn't bet)
+Seat 2: franjiru (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+Seat 4: macarroncio showed [As 5s] and won (3045) with two pair, Fives and Threes
+Seat 5: cristo2502 folded before Flop (didn't bet)
+Seat 6: Ryankhelifi7 showed [Qs Ks] and lost with a pair of Threes
+Seat 7: Capitansalami18 folded before Flop (didn't bet)
+Seat 8: I200989A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579277244: Tournament #3967680877, Freeroll  Hold'em No Limit - Level II (30/60) - 2026/02/03 20:04:51 CET [2026/02/03 14:04:51 ET]
+Table '3967680877 73' 8-max Seat #2 is the button
+Seat 1: cringo11 (4884 in chips) 
+Seat 2: franjiru (8860 in chips) 
+Seat 3: mabeal1 (4784 in chips) 
+Seat 4: macarroncio (6625 in chips) 
+Seat 5: cristo2502 (4884 in chips) is sitting out
+Seat 7: Capitansalami18 (4884 in chips) 
+Seat 8: I200989A (5074 in chips) 
+cringo11: posts the ante 6
+franjiru: posts the ante 6
+mabeal1: posts the ante 6
+macarroncio: posts the ante 6
+cristo2502: posts the ante 6
+Capitansalami18: posts the ante 6
+I200989A: posts the ante 6
+mabeal1: posts small blind 30
+macarroncio: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 2s]
+cristo2502: folds 
+Capitansalami18: folds 
+I200989A: folds 
+cringo11: calls 60
+franjiru: folds 
+mabeal1: folds 
+macarroncio: checks 
+*** FLOP *** [6h Ah Qs]
+macarroncio: bets 216
+cringo11: calls 216
+*** TURN *** [6h Ah Qs] [5h]
+macarroncio: checks 
+cringo11: checks 
+*** RIVER *** [6h Ah Qs 5h] [Ac]
+macarroncio: checks 
+cringo11: bets 180
+macarroncio: calls 180
+*** SHOW DOWN ***
+cringo11: shows [Tc Js] (a pair of Aces)
+macarroncio: shows [Qd 7c] (two pair, Aces and Queens)
+macarroncio collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | Rake 0 
+Board [6h Ah Qs 5h Ac]
+Seat 1: cringo11 showed [Tc Js] and lost with a pair of Aces
+Seat 2: franjiru (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+Seat 4: macarroncio (big blind) showed [Qd 7c] and won (984) with two pair, Aces and Queens
+Seat 5: cristo2502 folded before Flop (didn't bet)
+Seat 7: Capitansalami18 folded before Flop (didn't bet)
+Seat 8: I200989A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579287814: Tournament #3967680877, Freeroll  Hold'em No Limit - Level II (30/60) - 2026/02/03 20:05:33 CET [2026/02/03 14:05:33 ET]
+Table '3967680877 73' 8-max Seat #3 is the button
+Seat 1: cringo11 (4422 in chips) 
+Seat 2: franjiru (8854 in chips) 
+Seat 3: mabeal1 (4748 in chips) 
+Seat 4: macarroncio (7147 in chips) 
+Seat 5: cristo2502 (4878 in chips) is sitting out
+Seat 6: USALLAN.USA (4833 in chips) 
+Seat 7: Capitansalami18 (4878 in chips) 
+Seat 8: I200989A (5068 in chips) 
+cringo11: posts the ante 6
+franjiru: posts the ante 6
+mabeal1: posts the ante 6
+macarroncio: posts the ante 6
+cristo2502: posts the ante 6
+USALLAN.USA: posts the ante 6
+Capitansalami18: posts the ante 6
+I200989A: posts the ante 6
+macarroncio: posts small blind 30
+cristo2502: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 2s]
+USALLAN.USA: folds 
+Capitansalami18: folds 
+I200989A: folds 
+cringo11: calls 60
+franjiru: folds 
+mabeal1: folds 
+macarroncio: raises 180 to 240
+cristo2502: folds 
+cringo11: calls 180
+*** FLOP *** [9s Qs 4s]
+macarroncio: bets 6901 and is all-in
+cringo11: folds 
+Uncalled bet (6901) returned to macarroncio
+macarroncio collected 588 from pot
+*** SUMMARY ***
+Total pot 588 | Rake 0 
+Board [9s Qs 4s]
+Seat 1: cringo11 folded on the Flop
+Seat 2: franjiru folded before Flop (didn't bet)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+Seat 4: macarroncio (small blind) collected (588)
+Seat 5: cristo2502 (big blind) folded before Flop
+Seat 6: USALLAN.USA folded before Flop (didn't bet)
+Seat 7: Capitansalami18 folded before Flop (didn't bet)
+Seat 8: I200989A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579295683: Tournament #3967680877, Freeroll  Hold'em No Limit - Level III (40/80) - 2026/02/03 20:06:05 CET [2026/02/03 14:06:05 ET]
+Table '3967680877 73' 8-max Seat #4 is the button
+Seat 1: cringo11 (4176 in chips) 
+Seat 2: franjiru (8848 in chips) 
+Seat 3: mabeal1 (4742 in chips) 
+Seat 4: macarroncio (7489 in chips) 
+Seat 5: cristo2502 (4812 in chips) is sitting out
+Seat 6: USALLAN.USA (4827 in chips) 
+Seat 7: Capitansalami18 (4872 in chips) 
+Seat 8: I200989A (5062 in chips) 
+cringo11: posts the ante 8
+franjiru: posts the ante 8
+mabeal1: posts the ante 8
+macarroncio: posts the ante 8
+cristo2502: posts the ante 8
+USALLAN.USA: posts the ante 8
+Capitansalami18: posts the ante 8
+I200989A: posts the ante 8
+cristo2502: posts small blind 40
+USALLAN.USA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 4s]
+Capitansalami18: folds 
+I200989A: folds 
+cringo11: calls 80
+franjiru: raises 8760 to 8840 and is all-in
+mabeal1: folds 
+macarroncio: folds 
+cristo2502: folds 
+USALLAN.USA: folds 
+cringo11: folds 
+Uncalled bet (8760) returned to franjiru
+franjiru collected 344 from pot
+*** SUMMARY ***
+Total pot 344 | Rake 0 
+Seat 1: cringo11 folded before Flop
+Seat 2: franjiru collected (344)
+Seat 3: mabeal1 folded before Flop (didn't bet)
+Seat 4: macarroncio (button) folded before Flop (didn't bet)
+Seat 5: cristo2502 (small blind) folded before Flop
+Seat 6: USALLAN.USA (big blind) folded before Flop
+Seat 7: Capitansalami18 folded before Flop (didn't bet)
+Seat 8: I200989A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579304193: Tournament #3967680877, Freeroll  Hold'em No Limit - Level III (40/80) - 2026/02/03 20:06:39 CET [2026/02/03 14:06:39 ET]
+Table '3967680877 73' 8-max Seat #5 is the button
+Seat 1: cringo11 (4088 in chips) 
+Seat 2: franjiru (9104 in chips) 
+Seat 3: mabeal1 (4734 in chips) 
+Seat 4: macarroncio (7481 in chips) 
+Seat 5: cristo2502 (4764 in chips) is sitting out
+Seat 6: USALLAN.USA (4739 in chips) 
+Seat 7: Capitansalami18 (4864 in chips) 
+Seat 8: I200989A (5054 in chips) 
+cringo11: posts the ante 8
+franjiru: posts the ante 8
+mabeal1: posts the ante 8
+macarroncio: posts the ante 8
+cristo2502: posts the ante 8
+USALLAN.USA: posts the ante 8
+Capitansalami18: posts the ante 8
+I200989A: posts the ante 8
+USALLAN.USA: posts small blind 40
+Capitansalami18: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ac]
+I200989A: folds 
+cringo11: calls 80
+franjiru: folds 
+mabeal1: folds 
+macarroncio: calls 80
+cristo2502: folds 
+USALLAN.USA: folds 
+Capitansalami18: raises 344 to 424
+cringo11: calls 344
+macarroncio: calls 344
+*** FLOP *** [4h 7s 9s]
+Capitansalami18: bets 4432 and is all-in
+cringo11: calls 3656 and is all-in
+macarroncio is connected 
+macarroncio is disconnected 
+macarroncio is connected 
+macarroncio: folds 
+Uncalled bet (776) returned to Capitansalami18
+*** TURN *** [4h 7s 9s] [Ks]
+*** RIVER *** [4h 7s 9s Ks] [5c]
+*** SHOW DOWN ***
+Capitansalami18: shows [As Js] (a flush, Ace high)
+cringo11: shows [Kd 5h] (two pair, Kings and Fives)
+Capitansalami18 collected 8688 from pot
+cringo11 finished the tournament in 962nd place
+*** SUMMARY ***
+Total pot 8688 | Rake 0 
+Board [4h 7s 9s Ks 5c]
+Seat 1: cringo11 showed [Kd 5h] and lost with two pair, Kings and Fives
+Seat 2: franjiru folded before Flop (didn't bet)
+Seat 3: mabeal1 folded before Flop (didn't bet)
+Seat 4: macarroncio folded on the Flop
+Seat 5: cristo2502 (button) folded before Flop (didn't bet)
+Seat 6: USALLAN.USA (small blind) folded before Flop
+Seat 7: Capitansalami18 (big blind) showed [As Js] and won (8688) with a flush, Ace high
+Seat 8: I200989A folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579315050: Tournament #3967680877, Freeroll  Hold'em No Limit - Level III (40/80) - 2026/02/03 20:07:22 CET [2026/02/03 14:07:22 ET]
+Table '3967680877 73' 8-max Seat #6 is the button
+Seat 2: franjiru (9096 in chips) 
+Seat 3: mabeal1 (4726 in chips) 
+Seat 4: macarroncio (7049 in chips) 
+Seat 5: cristo2502 (4756 in chips) is sitting out
+Seat 6: USALLAN.USA (4691 in chips) 
+Seat 7: Capitansalami18 (9464 in chips) 
+Seat 8: I200989A (5046 in chips) 
+franjiru: posts the ante 8
+mabeal1: posts the ante 8
+macarroncio: posts the ante 8
+cristo2502: posts the ante 8
+USALLAN.USA: posts the ante 8
+Capitansalami18: posts the ante 8
+I200989A: posts the ante 8
+Capitansalami18: posts small blind 40
+I200989A: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 5h]
+franjiru: calls 80
+mabeal1: raises 320 to 400
+macarroncio: folds 
+cristo2502: folds 
+USALLAN.USA: calls 400
+Capitansalami18: folds 
+I200989A: folds 
+franjiru: calls 320
+*** FLOP *** [2d Ks 7d]
+franjiru: checks 
+mabeal1: bets 528
+USALLAN.USA: folds 
+franjiru: folds 
+Uncalled bet (528) returned to mabeal1
+mabeal1 collected 1376 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1376 | Rake 0 
+Board [2d Ks 7d]
+Seat 2: franjiru folded on the Flop
+Seat 3: mabeal1 collected (1376)
+Seat 4: macarroncio folded before Flop (didn't bet)
+Seat 5: cristo2502 folded before Flop (didn't bet)
+Seat 6: USALLAN.USA (button) folded on the Flop
+Seat 7: Capitansalami18 (small blind) folded before Flop
+Seat 8: I200989A (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579326909: Tournament #3967680877, Freeroll  Hold'em No Limit - Level III (40/80) - 2026/02/03 20:08:10 CET [2026/02/03 14:08:10 ET]
+Table '3967680877 73' 8-max Seat #7 is the button
+Seat 1: alexly31120 (4884 in chips) 
+Seat 2: franjiru (8688 in chips) 
+Seat 3: mabeal1 (5694 in chips) 
+Seat 4: macarroncio (7041 in chips) 
+Seat 5: cristo2502 (4748 in chips) is sitting out
+Seat 6: USALLAN.USA (4283 in chips) 
+Seat 7: Capitansalami18 (9416 in chips) 
+Seat 8: I200989A (4958 in chips) 
+alexly31120: posts the ante 8
+franjiru: posts the ante 8
+mabeal1: posts the ante 8
+macarroncio: posts the ante 8
+cristo2502: posts the ante 8
+USALLAN.USA: posts the ante 8
+Capitansalami18: posts the ante 8
+I200989A: posts the ante 8
+I200989A: posts small blind 40
+alexly31120: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jh]
+franjiru: raises 8600 to 8680 and is all-in
+mabeal1: calls 5686 and is all-in
+macarroncio: folds 
+cristo2502: folds 
+USALLAN.USA: folds 
+Capitansalami18: folds 
+I200989A: folds 
+alexly31120: calls 4796 and is all-in
+Uncalled bet (2994) returned to franjiru
+*** FLOP *** [Kd Ah Js]
+*** TURN *** [Kd Ah Js] [2c]
+*** RIVER *** [Kd Ah Js 2c] [Qc]
+*** SHOW DOWN ***
+franjiru: shows [Tc Qd] (a straight, Ten to Ace)
+mabeal1: shows [Ad Jh] (two pair, Aces and Jacks)
+franjiru collected 1620 from side pot
+alexly31120: shows [Ts Th] (a straight, Ten to Ace)
+alexly31120 collected 7366 from main pot
+franjiru collected 7366 from main pot
+mabeal1 finished the tournament in 932nd place
+*** SUMMARY ***
+Total pot 16352 Main pot 14732. Side pot 1620. | Rake 0 
+Board [Kd Ah Js 2c Qc]
+Seat 1: alexly31120 (big blind) showed [Ts Th] and won (7366) with a straight, Ten to Ace
+Seat 2: franjiru showed [Tc Qd] and won (8986) with a straight, Ten to Ace
+Seat 3: mabeal1 showed [Ad Jh] and lost with two pair, Aces and Jacks
+Seat 4: macarroncio folded before Flop (didn't bet)
+Seat 5: cristo2502 folded before Flop (didn't bet)
+Seat 6: USALLAN.USA folded before Flop (didn't bet)
+Seat 7: Capitansalami18 (button) folded before Flop (didn't bet)
+Seat 8: I200989A (small blind) folded before Flop
+
+
+

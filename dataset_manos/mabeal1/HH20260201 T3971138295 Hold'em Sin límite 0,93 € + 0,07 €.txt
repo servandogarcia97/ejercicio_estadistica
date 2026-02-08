@@ -1,0 +1,268 @@
+﻿PokerStars Hand #259549592376: Tournament #3971138295, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:17:37 CET [2026/02/01 11:17:37 ET]
+Table '3971138295 1' 3-max Seat #1 is the button
+Seat 1: VAN DE ORDI (500 in chips) 
+Seat 2: Depaul1 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Depaul1: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8s]
+VAN DE ORDI: raises 20 to 40
+Depaul1: calls 30
+mabeal1: calls 20
+*** FLOP *** [4d 8d Jc]
+Depaul1: bets 20
+mabeal1: calls 20
+VAN DE ORDI: calls 20
+*** TURN *** [4d 8d Jc] [4h]
+Depaul1: bets 20
+mabeal1: calls 20
+VAN DE ORDI: raises 240 to 260
+Depaul1: folds 
+mabeal1: folds 
+Uncalled bet (240) returned to VAN DE ORDI
+VAN DE ORDI collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4d 8d Jc 4h]
+Seat 1: VAN DE ORDI (button) collected (240)
+Seat 2: Depaul1 (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259549599520: Tournament #3971138295, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:18:07 CET [2026/02/01 11:18:07 ET]
+Table '3971138295 1' 3-max Seat #2 is the button
+Seat 1: VAN DE ORDI (660 in chips) 
+Seat 2: Depaul1 (420 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+mabeal1: posts small blind 10
+VAN DE ORDI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3h]
+Depaul1: calls 20
+mabeal1: folds 
+VAN DE ORDI: checks 
+*** FLOP *** [Js Qc Kc]
+VAN DE ORDI: bets 39
+Depaul1: calls 39
+*** TURN *** [Js Qc Kc] [5d]
+VAN DE ORDI: bets 80
+Depaul1: raises 80 to 160
+VAN DE ORDI: raises 441 to 601 and is all-in
+Depaul1: calls 201 and is all-in
+Uncalled bet (240) returned to VAN DE ORDI
+*** RIVER *** [Js Qc Kc 5d] [4d]
+*** SHOW DOWN ***
+VAN DE ORDI: shows [7c 4c] (a pair of Fours)
+Depaul1: shows [6h Jc] (a pair of Jacks)
+Depaul1 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [Js Qc Kc 5d 4d]
+Seat 1: VAN DE ORDI (big blind) showed [7c 4c] and lost with a pair of Fours
+Seat 2: Depaul1 (button) showed [6h Jc] and won (850) with a pair of Jacks
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259549606819: Tournament #3971138295, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:18:38 CET [2026/02/01 11:18:38 ET]
+Table '3971138295 1' 3-max Seat #3 is the button
+Seat 1: VAN DE ORDI (240 in chips) 
+Seat 2: Depaul1 (850 in chips) 
+Seat 3: mabeal1 (410 in chips) 
+VAN DE ORDI: posts small blind 10
+Depaul1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 6h]
+mabeal1: folds 
+VAN DE ORDI: raises 220 to 240 and is all-in
+Depaul1: folds 
+Uncalled bet (220) returned to VAN DE ORDI
+VAN DE ORDI collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: VAN DE ORDI (small blind) collected (40)
+Seat 2: Depaul1 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259549609703: Tournament #3971138295, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:18:50 CET [2026/02/01 11:18:50 ET]
+Table '3971138295 1' 3-max Seat #1 is the button
+Seat 1: VAN DE ORDI (260 in chips) 
+Seat 2: Depaul1 (830 in chips) 
+Seat 3: mabeal1 (410 in chips) 
+Depaul1: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Qc]
+VAN DE ORDI: folds 
+Depaul1: calls 10
+mabeal1: raises 60 to 80
+Depaul1: calls 60
+*** FLOP *** [8h 3s 3h]
+Depaul1: checks 
+mabeal1: bets 60
+Depaul1: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8h 3s 3h]
+Seat 1: VAN DE ORDI (button) folded before Flop (didn't bet)
+Seat 2: Depaul1 (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259549616291: Tournament #3971138295, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:19:18 CET [2026/02/01 11:19:18 ET]
+Table '3971138295 1' 3-max Seat #2 is the button
+Seat 1: VAN DE ORDI (260 in chips) 
+Seat 2: Depaul1 (750 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+mabeal1: posts small blind 10
+VAN DE ORDI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2s]
+Depaul1: calls 20
+mabeal1: folds 
+VAN DE ORDI: raises 240 to 260 and is all-in
+Depaul1: calls 240
+*** FLOP *** [7h Kh 5s]
+*** TURN *** [7h Kh 5s] [3h]
+*** RIVER *** [7h Kh 5s 3h] [4c]
+*** SHOW DOWN ***
+VAN DE ORDI: shows [Ts Kc] (a pair of Kings)
+Depaul1: shows [8s 6c] (a straight, Four to Eight)
+Depaul1 collected 530 from pot
+VAN DE ORDI finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [7h Kh 5s 3h 4c]
+Seat 1: VAN DE ORDI (big blind) showed [Ts Kc] and lost with a pair of Kings
+Seat 2: Depaul1 (button) showed [8s 6c] and won (530) with a straight, Four to Eight
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259549622024: Tournament #3971138295, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:19:42 CET [2026/02/01 11:19:42 ET]
+Table '3971138295 1' 3-max Seat #3 is the button
+Seat 2: Depaul1 (1020 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 15
+Depaul1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 5s]
+mabeal1: calls 15
+Depaul1: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Depaul1
+Depaul1 collected 60 from pot
+Depaul1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Depaul1 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259549624340: Tournament #3971138295, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:19:51 CET [2026/02/01 11:19:51 ET]
+Table '3971138295 1' 3-max Seat #2 is the button
+Seat 2: Depaul1 (1050 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+Depaul1: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 9s]
+Depaul1: calls 15
+mabeal1: checks 
+*** FLOP *** [Ah Jc 6h]
+mabeal1: checks 
+Depaul1: checks 
+*** TURN *** [Ah Jc 6h] [Td]
+mabeal1: bets 30
+Depaul1: calls 30
+*** RIVER *** [Ah Jc 6h Td] [6d]
+mabeal1: checks 
+Depaul1: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to Depaul1
+Depaul1 collected 120 from pot
+Depaul1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah Jc 6h Td 6d]
+Seat 2: Depaul1 (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259549629332: Tournament #3971138295, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:20:12 CET [2026/02/01 11:20:12 ET]
+Table '3971138295 1' 3-max Seat #3 is the button
+Seat 2: Depaul1 (1110 in chips) 
+Seat 3: mabeal1 (390 in chips) 
+mabeal1: posts small blind 15
+Depaul1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 2c]
+mabeal1: calls 15
+Depaul1: checks 
+*** FLOP *** [Js 4h 9c]
+Depaul1: checks 
+mabeal1: bets 30
+Depaul1: calls 30
+*** TURN *** [Js 4h 9c] [6d]
+Depaul1: checks 
+mabeal1: checks 
+*** RIVER *** [Js 4h 9c 6d] [6h]
+Depaul1: bets 150
+mabeal1: folds 
+Uncalled bet (150) returned to Depaul1
+Depaul1 collected 120 from pot
+Depaul1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Js 4h 9c 6d 6h]
+Seat 2: Depaul1 (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259549634168: Tournament #3971138295, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:20:33 CET [2026/02/01 11:20:33 ET]
+Table '3971138295 1' 3-max Seat #2 is the button
+Seat 2: Depaul1 (1170 in chips) 
+Seat 3: mabeal1 (330 in chips) 
+Depaul1: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ts]
+Depaul1: calls 15
+mabeal1: checks 
+*** FLOP *** [7d Td Kd]
+mabeal1: checks 
+Depaul1: checks 
+*** TURN *** [7d Td Kd] [4h]
+mabeal1: bets 30
+Depaul1: raises 30 to 60
+mabeal1: calls 30
+*** RIVER *** [7d Td Kd 4h] [8s]
+mabeal1: checks 
+Depaul1: bets 1080 and is all-in
+mabeal1: calls 240 and is all-in
+Uncalled bet (840) returned to Depaul1
+*** SHOW DOWN ***
+Depaul1: shows [Qs Th] (a pair of Tens)
+mabeal1: shows [3s Ts] (a pair of Tens - lower kicker)
+Depaul1 collected 660 from pot
+mabeal1 finished the tournament in 2nd place
+Depaul1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [7d Td Kd 4h 8s]
+Seat 2: Depaul1 (button) (small blind) showed [Qs Th] and won (660) with a pair of Tens
+Seat 3: mabeal1 (big blind) showed [3s Ts] and lost with a pair of Tens
+
+
+

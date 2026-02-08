@@ -1,0 +1,864 @@
+﻿PokerStars Hand #259596631276: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:16:53 CET [2026/02/04 20:16:53 ET]
+Table '3972182438 1' 3-max Seat #1 is the button
+Seat 1: markkcr (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: fredinh0 (500 in chips) 
+mabeal1: posts small blind 10
+fredinh0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 8s]
+markkcr: raises 20 to 40
+mabeal1: folds 
+fredinh0: folds 
+Uncalled bet (20) returned to markkcr
+markkcr collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: markkcr (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259596633020: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:17:04 CET [2026/02/04 20:17:04 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 1: markkcr (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: fredinh0 (480 in chips) 
+fredinh0: posts small blind 10
+markkcr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3h]
+mabeal1: folds 
+fredinh0: calls 10
+markkcr: raises 20 to 40
+fredinh0: calls 20
+*** FLOP *** [6s Ah 7c]
+fredinh0: checks 
+markkcr: checks 
+*** TURN *** [6s Ah 7c] [Td]
+fredinh0: checks 
+markkcr: checks 
+*** RIVER *** [6s Ah 7c Td] [2d]
+fredinh0: checks 
+markkcr: bets 100
+fredinh0: folds 
+Uncalled bet (100) returned to markkcr
+markkcr collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s Ah 7c Td 2d]
+Seat 1: markkcr (big blind) collected (80)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: fredinh0 (small blind) folded on the River
+
+
+
+PokerStars Hand #259596641168: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:17:58 CET [2026/02/04 20:17:58 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 1: markkcr (570 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: fredinh0 (440 in chips) 
+markkcr: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 2c]
+fredinh0: folds 
+markkcr: calls 10
+mabeal1: checks 
+*** FLOP *** [6s 3s Ah]
+markkcr: checks 
+mabeal1: checks 
+*** TURN *** [6s 3s Ah] [5h]
+markkcr: bets 20
+mabeal1: raises 40 to 60
+markkcr: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 3s Ah 5h]
+Seat 1: markkcr (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: fredinh0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259596644121: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:18:17 CET [2026/02/04 20:18:17 ET]
+Table '3972182438 1' 3-max Seat #1 is the button
+Seat 1: markkcr (530 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: fredinh0 (440 in chips) 
+mabeal1: posts small blind 10
+fredinh0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 6h]
+markkcr: raises 460 to 480
+mabeal1: folds 
+fredinh0: folds 
+Uncalled bet (460) returned to markkcr
+markkcr collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: markkcr (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259596645473: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:18:26 CET [2026/02/04 20:18:26 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 1: markkcr (560 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: fredinh0 (420 in chips) 
+fredinh0: posts small blind 10
+markkcr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 2c]
+mabeal1: folds 
+fredinh0: folds 
+Uncalled bet (10) returned to markkcr
+markkcr collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: markkcr (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: fredinh0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596646564: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:18:33 CET [2026/02/04 20:18:33 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 1: markkcr (570 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: fredinh0 (410 in chips) 
+markkcr: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qs]
+fredinh0: folds 
+markkcr: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: markkcr (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: fredinh0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259596647561: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:18:40 CET [2026/02/04 20:18:40 ET]
+Table '3972182438 1' 3-max Seat #1 is the button
+Seat 1: markkcr (560 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: fredinh0 (410 in chips) 
+mabeal1: posts small blind 10
+fredinh0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Js]
+markkcr: folds 
+mabeal1: raises 30 to 50
+fredinh0: raises 360 to 410 and is all-in
+mabeal1: folds 
+Uncalled bet (360) returned to fredinh0
+fredinh0 collected 100 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: markkcr (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) collected (100)
+
+
+
+PokerStars Hand #259596650320: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:18:58 CET [2026/02/04 20:18:58 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 1: markkcr (560 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: fredinh0 (460 in chips) 
+fredinh0: posts small blind 15
+markkcr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8s]
+mabeal1: folds 
+fredinh0: folds 
+Uncalled bet (15) returned to markkcr
+markkcr collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: markkcr (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: fredinh0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596651536: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:19:06 CET [2026/02/04 20:19:06 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 1: markkcr (575 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: fredinh0 (445 in chips) 
+markkcr: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 2c]
+fredinh0: raises 30 to 60
+markkcr: calls 45
+mabeal1: folds 
+*** FLOP *** [Qd 6s Td]
+markkcr: bets 30
+fredinh0: calls 30
+*** TURN *** [Qd 6s Td] [3c]
+markkcr: bets 30
+fredinh0: folds 
+Uncalled bet (30) returned to markkcr
+markkcr collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Qd 6s Td 3c]
+Seat 1: markkcr (small blind) collected (210)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: fredinh0 (button) folded on the Turn
+
+
+
+PokerStars Hand #259596655632: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:19:33 CET [2026/02/04 20:19:33 ET]
+Table '3972182438 1' 3-max Seat #1 is the button
+Seat 1: markkcr (695 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: fredinh0 (355 in chips) 
+mabeal1: posts small blind 15
+fredinh0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7c]
+markkcr: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to fredinh0
+fredinh0 collected 30 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: markkcr (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) collected (30)
+
+
+
+PokerStars Hand #259596656328: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:19:38 CET [2026/02/04 20:19:38 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 1: markkcr (695 in chips) 
+Seat 2: mabeal1 (435 in chips) 
+Seat 3: fredinh0 (370 in chips) 
+fredinh0: posts small blind 15
+markkcr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 6c]
+mabeal1: raises 30 to 60
+fredinh0: folds 
+markkcr: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: markkcr (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (75)
+Seat 3: fredinh0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596657454: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:19:45 CET [2026/02/04 20:19:45 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 1: markkcr (665 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: fredinh0 (355 in chips) 
+markkcr: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Th]
+fredinh0: raises 325 to 355 and is all-in
+markkcr: calls 340
+mabeal1: folds 
+*** FLOP *** [8d 6s 7d]
+*** TURN *** [8d 6s 7d] [2c]
+*** RIVER *** [8d 6s 7d 2c] [7h]
+*** SHOW DOWN ***
+markkcr: shows [Jh Qh] (a pair of Sevens)
+fredinh0: shows [As 4s] (a pair of Sevens - Ace kicker)
+fredinh0 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [8d 6s 7d 2c 7h]
+Seat 1: markkcr (small blind) showed [Jh Qh] and lost with a pair of Sevens
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: fredinh0 (button) showed [As 4s] and won (740) with a pair of Sevens
+
+
+
+PokerStars Hand #259596660116: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:20:03 CET [2026/02/04 20:20:03 ET]
+Table '3972182438 1' 3-max Seat #1 is the button
+Seat 1: markkcr (310 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: fredinh0 (740 in chips) 
+mabeal1: posts small blind 15
+fredinh0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Js]
+markkcr: raises 60 to 90
+mabeal1: folds 
+fredinh0: folds 
+Uncalled bet (60) returned to markkcr
+markkcr collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: markkcr (button) collected (75)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259596661747: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:20:13 CET [2026/02/04 20:20:13 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 1: markkcr (355 in chips) 
+Seat 2: mabeal1 (435 in chips) 
+Seat 3: fredinh0 (710 in chips) 
+fredinh0: posts small blind 15
+markkcr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Ac]
+mabeal1: raises 30 to 60
+fredinh0: folds 
+markkcr: calls 30
+*** FLOP *** [7h 4c 8c]
+markkcr: bets 30
+mabeal1: raises 345 to 375 and is all-in
+markkcr: calls 265 and is all-in
+Uncalled bet (80) returned to mabeal1
+*** TURN *** [7h 4c 8c] [9s]
+*** RIVER *** [7h 4c 8c 9s] [Kc]
+*** SHOW DOWN ***
+markkcr: shows [5h 4h] (a pair of Fours)
+mabeal1: shows [9c Ac] (a flush, Ace high)
+mabeal1 collected 725 from pot
+markkcr finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Board [7h 4c 8c 9s Kc]
+Seat 1: markkcr (big blind) showed [5h 4h] and lost with a pair of Fours
+Seat 2: mabeal1 (button) showed [9c Ac] and won (725) with a flush, Ace high
+Seat 3: fredinh0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596665100: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:20:36 CET [2026/02/04 20:20:36 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (805 in chips) 
+Seat 3: fredinh0 (695 in chips) 
+fredinh0: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qd]
+fredinh0: raises 665 to 695 and is all-in
+mabeal1: folds 
+Uncalled bet (665) returned to fredinh0
+fredinh0 collected 60 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: fredinh0 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259596666413: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:20:44 CET [2026/02/04 20:20:44 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (775 in chips) 
+Seat 3: fredinh0 (725 in chips) 
+mabeal1: posts small blind 15
+fredinh0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 5h]
+mabeal1: calls 15
+fredinh0: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to fredinh0
+fredinh0 collected 60 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) collected (60)
+
+
+
+PokerStars Hand #259596668518: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:20:58 CET [2026/02/04 20:20:58 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (745 in chips) 
+Seat 3: fredinh0 (755 in chips) 
+fredinh0: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5c]
+fredinh0: calls 20
+mabeal1: checks 
+*** FLOP *** [Ts Qh 2s]
+mabeal1: checks 
+fredinh0: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to fredinh0
+fredinh0 collected 80 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts Qh 2s]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: fredinh0 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259596671119: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:21:16 CET [2026/02/04 20:21:16 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (705 in chips) 
+Seat 3: fredinh0 (795 in chips) 
+mabeal1: posts small blind 20
+fredinh0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 3c]
+mabeal1: calls 20
+fredinh0: checks 
+*** FLOP *** [As 8c 7h]
+fredinh0: checks 
+mabeal1: bets 40
+fredinh0: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 8c 7h]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: fredinh0 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259596673892: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:21:34 CET [2026/02/04 20:21:34 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (745 in chips) 
+Seat 3: fredinh0 (755 in chips) 
+fredinh0: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Th]
+fredinh0: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: fredinh0 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596675074: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:21:42 CET [2026/02/04 20:21:42 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (765 in chips) 
+Seat 3: fredinh0 (735 in chips) 
+mabeal1: posts small blind 20
+fredinh0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 3d]
+mabeal1: calls 20
+fredinh0: checks 
+*** FLOP *** [7h Kc Qd]
+fredinh0 has timed out
+fredinh0: checks 
+mabeal1: bets 80
+fredinh0: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h Kc Qd]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: fredinh0 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259596680113: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:22:16 CET [2026/02/04 20:22:16 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (805 in chips) 
+Seat 3: fredinh0 (695 in chips) 
+fredinh0: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Qc]
+fredinh0: calls 20
+mabeal1: raises 80 to 120
+fredinh0: calls 80
+*** FLOP *** [4c 9c 3c]
+mabeal1: bets 120
+fredinh0: calls 120
+*** TURN *** [4c 9c 3c] [Ac]
+mabeal1: checks 
+fredinh0: checks 
+*** RIVER *** [4c 9c 3c Ac] [Qd]
+mabeal1: bets 280
+fredinh0: folds 
+Uncalled bet (280) returned to mabeal1
+mabeal1 collected 480 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [4c 9c 3c Ac Qd]
+Seat 2: mabeal1 (big blind) collected (480)
+Seat 3: fredinh0 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259596684747: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:22:46 CET [2026/02/04 20:22:46 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1045 in chips) 
+Seat 3: fredinh0 (455 in chips) 
+mabeal1: posts small blind 20
+fredinh0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 3c]
+mabeal1: calls 20
+fredinh0: checks 
+*** FLOP *** [7d 6c 9d]
+fredinh0: checks 
+mabeal1: bets 80
+fredinh0: calls 80
+*** TURN *** [7d 6c 9d] [9h]
+fredinh0: checks 
+mabeal1: checks 
+*** RIVER *** [7d 6c 9d 9h] [3s]
+fredinh0: bets 180
+mabeal1: folds 
+Uncalled bet (180) returned to fredinh0
+fredinh0 collected 240 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7d 6c 9d 9h 3s]
+Seat 2: mabeal1 (button) (small blind) folded on the River
+Seat 3: fredinh0 (big blind) collected (240)
+
+
+
+PokerStars Hand #259596689161: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:23:16 CET [2026/02/04 20:23:16 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (925 in chips) 
+Seat 3: fredinh0 (575 in chips) 
+fredinh0: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 5c]
+fredinh0: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: fredinh0 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596689946: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:23:21 CET [2026/02/04 20:23:21 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (955 in chips) 
+Seat 3: fredinh0 (545 in chips) 
+mabeal1: posts small blind 30
+fredinh0: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qs]
+mabeal1: raises 120 to 180
+fredinh0: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: fredinh0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259596691006: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:23:28 CET [2026/02/04 20:23:28 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1015 in chips) 
+Seat 3: fredinh0 (485 in chips) 
+fredinh0: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 4d]
+fredinh0: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: fredinh0 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596691971: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:23:35 CET [2026/02/04 20:23:35 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1045 in chips) 
+Seat 3: fredinh0 (455 in chips) 
+mabeal1: posts small blind 30
+fredinh0: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 2c]
+mabeal1: folds 
+Uncalled bet (30) returned to fredinh0
+fredinh0 collected 60 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) collected (60)
+
+
+
+PokerStars Hand #259596692719: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:23:40 CET [2026/02/04 20:23:40 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1015 in chips) 
+Seat 3: fredinh0 (485 in chips) 
+fredinh0: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3s]
+fredinh0: calls 30
+mabeal1: checks 
+*** FLOP *** [Tc 7d 5s]
+mabeal1: checks 
+fredinh0: checks 
+*** TURN *** [Tc 7d 5s] [Jc]
+mabeal1: bets 60
+fredinh0: calls 60
+*** RIVER *** [Tc 7d 5s Jc] [Ks]
+mabeal1: checks 
+fredinh0: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ts 3s] (a pair of Tens)
+fredinh0: mucks hand 
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Tc 7d 5s Jc Ks]
+Seat 2: mabeal1 (big blind) showed [Ts 3s] and won (240) with a pair of Tens
+Seat 3: fredinh0 (button) (small blind) mucked [7s 8s]
+
+
+
+PokerStars Hand #259596695583: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:23:59 CET [2026/02/04 20:23:59 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1135 in chips) 
+Seat 3: fredinh0 (365 in chips) 
+mabeal1: posts small blind 30
+fredinh0: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Tc]
+mabeal1: folds 
+Uncalled bet (30) returned to fredinh0
+fredinh0 collected 60 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) collected (60)
+
+
+
+PokerStars Hand #259596696956: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:24:08 CET [2026/02/04 20:24:08 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1105 in chips) 
+Seat 3: fredinh0 (395 in chips) 
+fredinh0: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 9c]
+fredinh0: calls 30
+mabeal1: raises 1045 to 1105 and is all-in
+fredinh0: folds 
+Uncalled bet (1045) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: fredinh0 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596700262: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:24:30 CET [2026/02/04 20:24:30 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1165 in chips) 
+Seat 3: fredinh0 (335 in chips) 
+mabeal1: posts small blind 30
+fredinh0: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 3s]
+mabeal1: raises 1105 to 1165 and is all-in
+fredinh0: folds 
+Uncalled bet (1105) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: fredinh0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259596702425: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:24:45 CET [2026/02/04 20:24:45 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1225 in chips) 
+Seat 3: fredinh0 (275 in chips) 
+fredinh0: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4c]
+fredinh0: raises 215 to 275 and is all-in
+mabeal1: folds 
+Uncalled bet (215) returned to fredinh0
+fredinh0 collected 120 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: fredinh0 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259596703182: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:24:51 CET [2026/02/04 20:24:51 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1165 in chips) 
+Seat 3: fredinh0 (335 in chips) 
+mabeal1: posts small blind 30
+fredinh0: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 2c]
+mabeal1: folds 
+Uncalled bet (30) returned to fredinh0
+fredinh0 collected 60 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) collected (60)
+
+
+
+PokerStars Hand #259596704324: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 2:24:59 CET [2026/02/04 20:24:59 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1135 in chips) 
+Seat 3: fredinh0 (365 in chips) 
+fredinh0: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 3d]
+fredinh0: raises 285 to 365 and is all-in
+mabeal1: folds 
+Uncalled bet (285) returned to fredinh0
+fredinh0 collected 160 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: fredinh0 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259596705535: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 2:25:07 CET [2026/02/04 20:25:07 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1055 in chips) 
+Seat 3: fredinh0 (445 in chips) 
+mabeal1: posts small blind 40
+fredinh0: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 5s]
+mabeal1: raises 975 to 1055 and is all-in
+fredinh0: folds 
+Uncalled bet (975) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (160)
+Seat 3: fredinh0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259596706465: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 2:25:13 CET [2026/02/04 20:25:13 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1135 in chips) 
+Seat 3: fredinh0 (365 in chips) 
+fredinh0: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 6d]
+fredinh0: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: fredinh0 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596707310: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 2:25:18 CET [2026/02/04 20:25:18 ET]
+Table '3972182438 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1175 in chips) 
+Seat 3: fredinh0 (325 in chips) 
+mabeal1: posts small blind 40
+fredinh0: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Th]
+mabeal1: folds 
+Uncalled bet (40) returned to fredinh0
+fredinh0 collected 80 from pot
+fredinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: fredinh0 (big blind) collected (80)
+
+
+
+PokerStars Hand #259596708343: Tournament #3972182438, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 2:25:25 CET [2026/02/04 20:25:25 ET]
+Table '3972182438 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1135 in chips) 
+Seat 3: fredinh0 (365 in chips) 
+fredinh0: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Jh]
+fredinh0: raises 285 to 365 and is all-in
+mabeal1: calls 285
+*** FLOP *** [9d 5d 3s]
+*** TURN *** [9d 5d 3s] [9h]
+*** RIVER *** [9d 5d 3s 9h] [Jd]
+*** SHOW DOWN ***
+mabeal1: shows [As Jh] (two pair, Jacks and Nines)
+fredinh0: shows [4d Qs] (a pair of Nines)
+mabeal1 collected 730 from pot
+fredinh0 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [9d 5d 3s 9h Jd]
+Seat 2: mabeal1 (big blind) showed [As Jh] and won (730) with two pair, Jacks and Nines
+Seat 3: fredinh0 (button) (small blind) showed [4d Qs] and lost with a pair of Nines
+
+
+

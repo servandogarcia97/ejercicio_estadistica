@@ -1,0 +1,401 @@
+﻿PokerStars Hand #259484933269: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:06:50 CET [2026/01/27 13:06:50 ET]
+Table '3969643434 1' 3-max Seat #1 is the button
+Seat 1: ALLINRENAUD (500 in chips) 
+Seat 2: delfina197608 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+delfina197608: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 4h]
+ALLINRENAUD: calls 20
+delfina197608: calls 10
+mabeal1: checks 
+*** FLOP *** [3h Ts Qh]
+delfina197608: checks 
+mabeal1: checks 
+ALLINRENAUD: checks 
+*** TURN *** [3h Ts Qh] [As]
+delfina197608: checks 
+mabeal1: checks 
+ALLINRENAUD: checks 
+*** RIVER *** [3h Ts Qh As] [2h]
+delfina197608: checks 
+mabeal1: checks 
+ALLINRENAUD: checks 
+*** SHOW DOWN ***
+delfina197608: shows [Js 6c] (high card Ace)
+mabeal1: shows [Kd 4h] (high card Ace - King kicker)
+ALLINRENAUD: shows [5d 2d] (a pair of Deuces)
+ALLINRENAUD collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h Ts Qh As 2h]
+Seat 1: ALLINRENAUD (button) showed [5d 2d] and won (60) with a pair of Deuces
+Seat 2: delfina197608 (small blind) showed [Js 6c] and lost with high card Ace
+Seat 3: mabeal1 (big blind) showed [Kd 4h] and lost with high card Ace
+
+
+
+PokerStars Hand #259484938741: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:07:15 CET [2026/01/27 13:07:15 ET]
+Table '3969643434 1' 3-max Seat #2 is the button
+Seat 1: ALLINRENAUD (540 in chips) 
+Seat 2: delfina197608 (480 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+ALLINRENAUD: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4d]
+delfina197608: calls 20
+mabeal1: raises 460 to 480 and is all-in
+ALLINRENAUD: folds 
+delfina197608: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: ALLINRENAUD (big blind) folded before Flop
+Seat 2: delfina197608 (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259484942616: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:07:33 CET [2026/01/27 13:07:33 ET]
+Table '3969643434 1' 3-max Seat #3 is the button
+Seat 1: ALLINRENAUD (520 in chips) 
+Seat 2: delfina197608 (460 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+ALLINRENAUD: posts small blind 10
+delfina197608: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Ad]
+mabeal1: raises 20 to 40
+ALLINRENAUD: raises 480 to 520 and is all-in
+delfina197608: folds 
+mabeal1: folds 
+Uncalled bet (480) returned to ALLINRENAUD
+ALLINRENAUD collected 100 from pot
+ALLINRENAUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: ALLINRENAUD (small blind) collected (100)
+Seat 2: delfina197608 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop
+
+
+
+PokerStars Hand #259484945719: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:07:47 CET [2026/01/27 13:07:47 ET]
+Table '3969643434 1' 3-max Seat #1 is the button
+Seat 1: ALLINRENAUD (580 in chips) 
+Seat 2: delfina197608 (440 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+delfina197608: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6h]
+ALLINRENAUD: calls 20
+delfina197608: calls 10
+mabeal1: checks 
+*** FLOP *** [2d 5h Ts]
+delfina197608: checks 
+mabeal1: checks 
+ALLINRENAUD: bets 60
+delfina197608: calls 60
+mabeal1: folds 
+*** TURN *** [2d 5h Ts] [Qc]
+delfina197608: checks 
+ALLINRENAUD: checks 
+*** RIVER *** [2d 5h Ts Qc] [2h]
+delfina197608: checks 
+ALLINRENAUD: checks 
+*** SHOW DOWN ***
+delfina197608: shows [9h As] (a pair of Deuces)
+ALLINRENAUD: shows [5d 8d] (two pair, Fives and Deuces)
+ALLINRENAUD collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2d 5h Ts Qc 2h]
+Seat 1: ALLINRENAUD (button) showed [5d 8d] and won (180) with two pair, Fives and Deuces
+Seat 2: delfina197608 (small blind) showed [9h As] and lost with a pair of Deuces
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259484952659: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:08:19 CET [2026/01/27 13:08:19 ET]
+Table '3969643434 1' 3-max Seat #2 is the button
+Seat 1: ALLINRENAUD (680 in chips) 
+Seat 2: delfina197608 (360 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+ALLINRENAUD: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 6c]
+delfina197608: calls 20
+mabeal1: folds 
+ALLINRENAUD: checks 
+*** FLOP *** [4s Kh 6s]
+ALLINRENAUD: checks 
+delfina197608: checks 
+*** TURN *** [4s Kh 6s] [Qc]
+ALLINRENAUD: checks 
+delfina197608: checks 
+*** RIVER *** [4s Kh 6s Qc] [Tc]
+ALLINRENAUD: checks 
+delfina197608: checks 
+*** SHOW DOWN ***
+ALLINRENAUD: shows [2h Ts] (a pair of Tens)
+delfina197608: mucks hand 
+ALLINRENAUD collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4s Kh 6s Qc Tc]
+Seat 1: ALLINRENAUD (big blind) showed [2h Ts] and won (50) with a pair of Tens
+Seat 2: delfina197608 (button) mucked [5d 9c]
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259484958314: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:08:46 CET [2026/01/27 13:08:46 ET]
+Table '3969643434 1' 3-max Seat #3 is the button
+Seat 1: ALLINRENAUD (710 in chips) 
+Seat 2: delfina197608 (340 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+ALLINRENAUD: posts small blind 10
+delfina197608: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Ac]
+mabeal1: raises 20 to 40
+ALLINRENAUD: folds 
+delfina197608: calls 20
+*** FLOP *** [9s 4h 3c]
+delfina197608: checks 
+mabeal1: bets 30
+delfina197608: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9s 4h 3c]
+Seat 1: ALLINRENAUD (small blind) folded before Flop
+Seat 2: delfina197608 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) collected (90)
+
+
+
+PokerStars Hand #259484963093: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:09:07 CET [2026/01/27 13:09:07 ET]
+Table '3969643434 1' 3-max Seat #1 is the button
+Seat 1: ALLINRENAUD (700 in chips) 
+Seat 2: delfina197608 (300 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+delfina197608: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 7s]
+ALLINRENAUD: folds 
+delfina197608: calls 10
+mabeal1: checks 
+*** FLOP *** [Qc 7c 6s]
+delfina197608: checks 
+mabeal1: checks 
+*** TURN *** [Qc 7c 6s] [Ah]
+delfina197608: checks 
+mabeal1: bets 20
+delfina197608: calls 20
+*** RIVER *** [Qc 7c 6s Ah] [2h]
+delfina197608: checks 
+mabeal1: bets 30
+delfina197608: calls 30
+*** SHOW DOWN ***
+mabeal1: shows [5c 7s] (a pair of Sevens)
+delfina197608: mucks hand 
+mabeal1 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Qc 7c 6s Ah 2h]
+Seat 1: ALLINRENAUD (button) folded before Flop (didn't bet)
+Seat 2: delfina197608 (small blind) mucked [Jc 8c]
+Seat 3: mabeal1 (big blind) showed [5c 7s] and won (140) with a pair of Sevens
+
+
+
+PokerStars Hand #259484972242: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:09:50 CET [2026/01/27 13:09:50 ET]
+Table '3969643434 1' 3-max Seat #2 is the button
+Seat 1: ALLINRENAUD (700 in chips) 
+Seat 2: delfina197608 (230 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+mabeal1: posts small blind 10
+ALLINRENAUD: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ts]
+delfina197608: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to ALLINRENAUD
+ALLINRENAUD collected 20 from pot
+ALLINRENAUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: ALLINRENAUD (big blind) collected (20)
+Seat 2: delfina197608 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259484975466: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:10:04 CET [2026/01/27 13:10:04 ET]
+Table '3969643434 1' 3-max Seat #3 is the button
+Seat 1: ALLINRENAUD (710 in chips) 
+Seat 2: delfina197608 (230 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+ALLINRENAUD: posts small blind 15
+delfina197608: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 3s]
+mabeal1: folds 
+ALLINRENAUD: folds 
+Uncalled bet (15) returned to delfina197608
+delfina197608 collected 30 from pot
+delfina197608: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ALLINRENAUD (small blind) folded before Flop
+Seat 2: delfina197608 (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259484976987: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:10:11 CET [2026/01/27 13:10:11 ET]
+Table '3969643434 1' 3-max Seat #1 is the button
+Seat 1: ALLINRENAUD (695 in chips) 
+Seat 2: delfina197608 (245 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+delfina197608: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Qd]
+ALLINRENAUD: folds 
+delfina197608: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ALLINRENAUD (button) folded before Flop (didn't bet)
+Seat 2: delfina197608 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259484978216: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:10:17 CET [2026/01/27 13:10:17 ET]
+Table '3969643434 1' 3-max Seat #2 is the button
+Seat 1: ALLINRENAUD (695 in chips) 
+Seat 2: delfina197608 (230 in chips) 
+Seat 3: mabeal1 (575 in chips) 
+mabeal1: posts small blind 15
+ALLINRENAUD: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Th]
+delfina197608: calls 30
+mabeal1: calls 15
+ALLINRENAUD: checks 
+*** FLOP *** [2c 8c 6c]
+mabeal1: checks 
+ALLINRENAUD: bets 90
+delfina197608: folds 
+mabeal1: folds 
+Uncalled bet (90) returned to ALLINRENAUD
+ALLINRENAUD collected 90 from pot
+ALLINRENAUD: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2c 8c 6c]
+Seat 1: ALLINRENAUD (big blind) collected (90)
+Seat 2: delfina197608 (button) folded on the Flop
+Seat 3: mabeal1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259484982564: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:10:36 CET [2026/01/27 13:10:36 ET]
+Table '3969643434 1' 3-max Seat #3 is the button
+Seat 1: ALLINRENAUD (755 in chips) 
+Seat 2: delfina197608 (200 in chips) 
+Seat 3: mabeal1 (545 in chips) 
+ALLINRENAUD: posts small blind 15
+delfina197608: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 8s]
+mabeal1: folds 
+ALLINRENAUD: folds 
+Uncalled bet (15) returned to delfina197608
+delfina197608 collected 30 from pot
+delfina197608: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: ALLINRENAUD (small blind) folded before Flop
+Seat 2: delfina197608 (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259484983727: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:10:42 CET [2026/01/27 13:10:42 ET]
+Table '3969643434 1' 3-max Seat #1 is the button
+Seat 1: ALLINRENAUD (740 in chips) 
+Seat 2: delfina197608 (215 in chips) 
+Seat 3: mabeal1 (545 in chips) 
+delfina197608: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 8d]
+ALLINRENAUD: calls 30
+delfina197608: calls 15
+mabeal1: raises 515 to 545 and is all-in
+ALLINRENAUD: folds 
+delfina197608: calls 185 and is all-in
+Uncalled bet (330) returned to mabeal1
+*** FLOP *** [4h 9s Qc]
+*** TURN *** [4h 9s Qc] [2s]
+*** RIVER *** [4h 9s Qc 2s] [6d]
+*** SHOW DOWN ***
+delfina197608: shows [Ad Qd] (a pair of Queens)
+mabeal1: shows [As 8d] (high card Ace)
+delfina197608 collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [4h 9s Qc 2s 6d]
+Seat 1: ALLINRENAUD (button) folded before Flop
+Seat 2: delfina197608 (small blind) showed [Ad Qd] and won (460) with a pair of Queens
+Seat 3: mabeal1 (big blind) showed [As 8d] and lost with high card Ace
+
+
+
+PokerStars Hand #259484987654: Tournament #3969643434, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 19:10:59 CET [2026/01/27 13:10:59 ET]
+Table '3969643434 1' 3-max Seat #2 is the button
+Seat 1: ALLINRENAUD (710 in chips) 
+Seat 2: delfina197608 (460 in chips) 
+Seat 3: mabeal1 (330 in chips) 
+mabeal1: posts small blind 15
+ALLINRENAUD: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ts]
+delfina197608: calls 30
+mabeal1: raises 60 to 90
+ALLINRENAUD: folds 
+delfina197608: calls 60
+*** FLOP *** [Ks Ac 7d]
+mabeal1: bets 240 and is all-in
+delfina197608: calls 240
+*** TURN *** [Ks Ac 7d] [6h]
+*** RIVER *** [Ks Ac 7d 6h] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [Js Ts] (high card Ace)
+delfina197608: shows [As 9s] (a pair of Aces)
+delfina197608 collected 690 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [Ks Ac 7d 6h 4c]
+Seat 1: ALLINRENAUD (big blind) folded before Flop
+Seat 2: delfina197608 (button) showed [As 9s] and won (690) with a pair of Aces
+Seat 3: mabeal1 (small blind) showed [Js Ts] and lost with high card Ace
+
+
+

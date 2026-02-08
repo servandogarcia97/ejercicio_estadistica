@@ -1,0 +1,178 @@
+﻿PokerStars Hand #259639890091: Tournament #3973190781, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:25:58 CET [2026/02/08 2:25:58 ET]
+Table '3973190781 1' 3-max Seat #1 is the button
+Seat 1: pitou26800 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: drakebeat (500 in chips) 
+mabeal1: posts small blind 10
+drakebeat: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5h]
+pitou26800: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to drakebeat
+drakebeat collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pitou26800 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: drakebeat (big blind) collected (20)
+
+
+
+PokerStars Hand #259639890717: Tournament #3973190781, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:26:07 CET [2026/02/08 2:26:07 ET]
+Table '3973190781 1' 3-max Seat #2 is the button
+Seat 1: pitou26800 (500 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: drakebeat (510 in chips) 
+drakebeat: posts small blind 10
+pitou26800: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7d]
+mabeal1: folds 
+drakebeat: raises 40 to 60
+pitou26800: folds 
+Uncalled bet (40) returned to drakebeat
+drakebeat collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pitou26800 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: drakebeat (small blind) collected (40)
+
+
+
+PokerStars Hand #259639891408: Tournament #3973190781, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:26:17 CET [2026/02/08 2:26:17 ET]
+Table '3973190781 1' 3-max Seat #3 is the button
+Seat 1: pitou26800 (480 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: drakebeat (530 in chips) 
+pitou26800: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s As]
+drakebeat: calls 20
+pitou26800: calls 10
+mabeal1: raises 470 to 490 and is all-in
+drakebeat: folds 
+pitou26800: folds 
+Uncalled bet (470) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pitou26800 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: drakebeat (button) folded before Flop
+
+
+
+PokerStars Hand #259639892133: Tournament #3973190781, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:26:28 CET [2026/02/08 2:26:28 ET]
+Table '3973190781 1' 3-max Seat #1 is the button
+Seat 1: pitou26800 (460 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: drakebeat (510 in chips) 
+mabeal1: posts small blind 10
+drakebeat: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 5s]
+pitou26800: calls 20
+mabeal1: raises 510 to 530 and is all-in
+drakebeat: folds 
+pitou26800: folds 
+Uncalled bet (510) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pitou26800 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: drakebeat (big blind) folded before Flop
+
+
+
+PokerStars Hand #259639892730: Tournament #3973190781, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:26:37 CET [2026/02/08 2:26:37 ET]
+Table '3973190781 1' 3-max Seat #2 is the button
+Seat 1: pitou26800 (440 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: drakebeat (490 in chips) 
+drakebeat: posts small blind 10
+pitou26800: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 6d]
+mabeal1: folds 
+drakebeat: folds 
+Uncalled bet (10) returned to pitou26800
+pitou26800 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pitou26800 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: drakebeat (small blind) folded before Flop
+
+
+
+PokerStars Hand #259639893091: Tournament #3973190781, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:26:43 CET [2026/02/08 2:26:43 ET]
+Table '3973190781 1' 3-max Seat #3 is the button
+Seat 1: pitou26800 (450 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: drakebeat (480 in chips) 
+pitou26800: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 9d]
+drakebeat: folds 
+pitou26800: calls 10
+mabeal1: checks 
+*** FLOP *** [2d 8d Tc]
+pitou26800: checks 
+mabeal1: checks 
+*** TURN *** [2d 8d Tc] [Kd]
+pitou26800: checks 
+mabeal1: checks 
+*** RIVER *** [2d 8d Tc Kd] [3d]
+pitou26800: bets 20
+mabeal1: calls 20
+*** SHOW DOWN ***
+pitou26800: shows [9s Ad] (a flush, Ace high)
+mabeal1: mucks hand 
+pitou26800 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d 8d Tc Kd 3d]
+Seat 1: pitou26800 (small blind) showed [9s Ad] and won (80) with a flush, Ace high
+Seat 2: mabeal1 (big blind) mucked [6h 9d]
+Seat 3: drakebeat (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259639894526: Tournament #3973190781, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 8:27:05 CET [2026/02/08 2:27:05 ET]
+Table '3973190781 1' 3-max Seat #1 is the button
+Seat 1: pitou26800 (490 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: drakebeat (480 in chips) 
+mabeal1: posts small blind 10
+drakebeat: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Td]
+pitou26800: folds 
+mabeal1: raises 20 to 40
+drakebeat: raises 20 to 60
+mabeal1: raises 470 to 530 and is all-in
+drakebeat: calls 420 and is all-in
+Uncalled bet (50) returned to mabeal1
+*** FLOP *** [5h 7h 8d]
+*** TURN *** [5h 7h 8d] [2d]
+*** RIVER *** [5h 7h 8d 2d] [7s]
+*** SHOW DOWN ***
+mabeal1: shows [Ad Td] (a pair of Sevens)
+drakebeat: shows [5s 8h] (two pair, Eights and Sevens)
+drakebeat collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [5h 7h 8d 2d 7s]
+Seat 1: pitou26800 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Ad Td] and lost with a pair of Sevens
+Seat 3: drakebeat (big blind) showed [5s 8h] and won (960) with two pair, Eights and Sevens
+
+
+

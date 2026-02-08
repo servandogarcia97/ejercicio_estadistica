@@ -1,0 +1,265 @@
+﻿PokerStars Hand #259431195107: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:14:29 CET [2026/01/23 14:14:29 ET]
+Table '3968434951 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: peña el rayo (500 in chips) 
+Seat 3: erbfoll (500 in chips) 
+peña el rayo: posts small blind 10
+erbfoll: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 5d]
+mabeal1: folds 
+peña el rayo: calls 10
+erbfoll: checks 
+*** FLOP *** [Ts 6h 5h]
+peña el rayo: checks 
+erbfoll: bets 20
+peña el rayo: folds 
+Uncalled bet (20) returned to erbfoll
+erbfoll collected 40 from pot
+erbfoll: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ts 6h 5h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: peña el rayo (small blind) folded on the Flop
+Seat 3: erbfoll (big blind) collected (40)
+
+
+
+PokerStars Hand #259431198522: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:14:44 CET [2026/01/23 14:14:44 ET]
+Table '3968434951 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: peña el rayo (480 in chips) 
+Seat 3: erbfoll (520 in chips) 
+erbfoll: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 8d]
+peña el rayo: calls 20
+erbfoll: folds 
+mabeal1: raises 480 to 500 and is all-in
+peña el rayo: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (50)
+Seat 2: peña el rayo (button) folded before Flop
+Seat 3: erbfoll (small blind) folded before Flop
+
+
+
+PokerStars Hand #259431202670: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:15:01 CET [2026/01/23 14:15:01 ET]
+Table '3968434951 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: peña el rayo (460 in chips) 
+Seat 3: erbfoll (510 in chips) 
+mabeal1: posts small blind 10
+peña el rayo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 8d]
+erbfoll: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to peña el rayo
+peña el rayo collected 20 from pot
+peña el rayo: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: peña el rayo (big blind) collected (20)
+Seat 3: erbfoll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259431203865: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:15:07 CET [2026/01/23 14:15:07 ET]
+Table '3968434951 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: peña el rayo (470 in chips) 
+Seat 3: erbfoll (510 in chips) 
+peña el rayo: posts small blind 10
+erbfoll: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Kh]
+mabeal1: raises 20 to 40
+peña el rayo: folds 
+erbfoll: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: peña el rayo (small blind) folded before Flop
+Seat 3: erbfoll (big blind) folded before Flop
+
+
+
+PokerStars Hand #259431206539: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:15:18 CET [2026/01/23 14:15:18 ET]
+Table '3968434951 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: peña el rayo (460 in chips) 
+Seat 3: erbfoll (490 in chips) 
+erbfoll: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2c]
+peña el rayo: raises 420 to 440
+erbfoll: folds 
+mabeal1: folds 
+Uncalled bet (420) returned to peña el rayo
+peña el rayo collected 50 from pot
+peña el rayo: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: peña el rayo (button) collected (50)
+Seat 3: erbfoll (small blind) folded before Flop
+
+
+
+PokerStars Hand #259431208465: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:15:27 CET [2026/01/23 14:15:27 ET]
+Table '3968434951 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: peña el rayo (490 in chips) 
+Seat 3: erbfoll (480 in chips) 
+mabeal1: posts small blind 10
+peña el rayo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 6s]
+erbfoll: calls 20
+mabeal1: raises 510 to 530 and is all-in
+peña el rayo: folds 
+erbfoll: folds 
+Uncalled bet (510) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: peña el rayo (big blind) folded before Flop
+Seat 3: erbfoll (button) folded before Flop
+
+
+
+PokerStars Hand #259431210552: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:15:35 CET [2026/01/23 14:15:35 ET]
+Table '3968434951 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: peña el rayo (470 in chips) 
+Seat 3: erbfoll (460 in chips) 
+peña el rayo: posts small blind 10
+erbfoll: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5d]
+mabeal1: folds 
+peña el rayo: calls 10
+erbfoll: checks 
+*** FLOP *** [8c Ks 3h]
+peña el rayo: bets 20
+erbfoll: folds 
+Uncalled bet (20) returned to peña el rayo
+peña el rayo collected 40 from pot
+peña el rayo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c Ks 3h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: peña el rayo (small blind) collected (40)
+Seat 3: erbfoll (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259431213336: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:15:47 CET [2026/01/23 14:15:47 ET]
+Table '3968434951 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: peña el rayo (490 in chips) 
+Seat 3: erbfoll (440 in chips) 
+erbfoll: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Qd]
+peña el rayo: raises 40 to 60
+erbfoll: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to peña el rayo
+peña el rayo collected 50 from pot
+peña el rayo: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: peña el rayo (button) collected (50)
+Seat 3: erbfoll (small blind) folded before Flop
+
+
+
+PokerStars Hand #259431215530: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:15:56 CET [2026/01/23 14:15:56 ET]
+Table '3968434951 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: peña el rayo (520 in chips) 
+Seat 3: erbfoll (430 in chips) 
+mabeal1: posts small blind 10
+peña el rayo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 3s]
+erbfoll: folds 
+mabeal1: raises 20 to 40
+peña el rayo: calls 20
+*** FLOP *** [Qs Kd Js]
+mabeal1: bets 60
+peña el rayo: calls 60
+*** TURN *** [Qs Kd Js] [7h]
+mabeal1: checks 
+peña el rayo: bets 200
+mabeal1: raises 250 to 450 and is all-in
+peña el rayo: calls 220 and is all-in
+Uncalled bet (30) returned to mabeal1
+*** RIVER *** [Qs Kd Js 7h] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [Ks 3s] (a pair of Kings)
+peña el rayo: shows [Qd 7s] (two pair, Queens and Sevens)
+peña el rayo collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Qs Kd Js 7h 8h]
+Seat 1: mabeal1 (small blind) showed [Ks 3s] and lost with a pair of Kings
+Seat 2: peña el rayo (big blind) showed [Qd 7s] and won (1040) with two pair, Queens and Sevens
+Seat 3: erbfoll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259431223009: Tournament #3968434951, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:16:28 CET [2026/01/23 14:16:28 ET]
+Table '3968434951 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (30 in chips) 
+Seat 2: peña el rayo (1040 in chips) 
+Seat 3: erbfoll (430 in chips) 
+peña el rayo: posts small blind 10
+erbfoll: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 9d]
+mabeal1: raises 10 to 30 and is all-in
+peña el rayo: calls 20
+erbfoll: calls 10
+*** FLOP *** [7d Ah As]
+peña el rayo: checks 
+erbfoll: checks 
+*** TURN *** [7d Ah As] [Js]
+peña el rayo: checks 
+erbfoll: checks 
+*** RIVER *** [7d Ah As Js] [3s]
+peña el rayo: checks 
+erbfoll: checks 
+*** SHOW DOWN ***
+peña el rayo: shows [5s Qh] (a pair of Aces)
+erbfoll: shows [Tc Jc] (two pair, Aces and Jacks)
+mabeal1: mucks hand 
+erbfoll collected 90 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7d Ah As Js 3s]
+Seat 1: mabeal1 (button) mucked [5h 9d]
+Seat 2: peña el rayo (small blind) showed [5s Qh] and lost with a pair of Aces
+Seat 3: erbfoll (big blind) showed [Tc Jc] and won (90) with two pair, Aces and Jacks
+
+
+

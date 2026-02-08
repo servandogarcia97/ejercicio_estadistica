@@ -1,0 +1,601 @@
+﻿PokerStars Hand #259470499734: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:15:10 CET [2026/01/26 11:15:10 ET]
+Table '3969314711 1' 3-max Seat #1 is the button
+Seat 1: flamencolega (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: citrik3 (500 in chips) 
+mabeal1: posts small blind 10
+citrik3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Kh]
+flamencolega: calls 20
+mabeal1: calls 10
+citrik3: raises 60 to 80
+flamencolega: calls 60
+mabeal1: folds 
+*** FLOP *** [7d 4d Jc]
+citrik3: bets 90
+flamencolega: folds 
+Uncalled bet (90) returned to citrik3
+citrik3 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7d 4d Jc]
+Seat 1: flamencolega (button) folded on the Flop
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: citrik3 (big blind) collected (180)
+
+
+
+PokerStars Hand #259470506138: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:15:45 CET [2026/01/26 11:15:45 ET]
+Table '3969314711 1' 3-max Seat #2 is the button
+Seat 1: flamencolega (420 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: citrik3 (600 in chips) 
+citrik3: posts small blind 10
+flamencolega: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 5c]
+mabeal1: raises 20 to 40
+citrik3: folds 
+flamencolega: calls 20
+*** FLOP *** [Qh 3s 2s]
+flamencolega: bets 20
+mabeal1: calls 20
+*** TURN *** [Qh 3s 2s] [Ah]
+flamencolega: bets 20
+mabeal1: raises 128 to 148
+flamencolega: folds 
+Uncalled bet (128) returned to mabeal1
+mabeal1 collected 170 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Qh 3s 2s Ah]
+Seat 1: flamencolega (big blind) folded on the Turn
+Seat 2: mabeal1 (button) collected (170)
+Seat 3: citrik3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259470509670: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:16:04 CET [2026/01/26 11:16:04 ET]
+Table '3969314711 1' 3-max Seat #3 is the button
+Seat 1: flamencolega (340 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: citrik3 (590 in chips) 
+flamencolega: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Jh]
+citrik3: folds 
+flamencolega: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: flamencolega (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: citrik3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259470510818: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:16:10 CET [2026/01/26 11:16:10 ET]
+Table '3969314711 1' 3-max Seat #1 is the button
+Seat 1: flamencolega (330 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: citrik3 (590 in chips) 
+mabeal1: posts small blind 10
+citrik3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 8h]
+flamencolega: folds 
+mabeal1: raises 20 to 40
+citrik3: calls 20
+*** FLOP *** [9s Jc 5h]
+mabeal1: bets 30
+citrik3: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9s Jc 5h]
+Seat 1: flamencolega (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (80)
+Seat 3: citrik3 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259470516219: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:16:39 CET [2026/01/26 11:16:39 ET]
+Table '3969314711 1' 3-max Seat #2 is the button
+Seat 1: flamencolega (330 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: citrik3 (550 in chips) 
+citrik3: posts small blind 10
+flamencolega: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 4c]
+mabeal1: folds 
+citrik3: raises 20 to 40
+flamencolega: calls 20
+*** FLOP *** [2d Kd 4h]
+citrik3: checks 
+flamencolega: bets 20
+citrik3: folds 
+Uncalled bet (20) returned to flamencolega
+flamencolega collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d Kd 4h]
+Seat 1: flamencolega (big blind) collected (80)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: citrik3 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259470521441: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:17:08 CET [2026/01/26 11:17:08 ET]
+Table '3969314711 1' 3-max Seat #3 is the button
+Seat 1: flamencolega (370 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: citrik3 (510 in chips) 
+flamencolega: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 4c]
+citrik3: raises 50 to 70
+flamencolega: calls 60
+mabeal1: folds 
+*** FLOP *** [5d Ah 5s]
+flamencolega: bets 160
+citrik3: folds 
+Uncalled bet (160) returned to flamencolega
+flamencolega collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5d Ah 5s]
+Seat 1: flamencolega (small blind) collected (160)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: citrik3 (button) folded on the Flop
+
+
+
+PokerStars Hand #259470525619: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:17:31 CET [2026/01/26 11:17:31 ET]
+Table '3969314711 1' 3-max Seat #1 is the button
+Seat 1: flamencolega (460 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: citrik3 (440 in chips) 
+mabeal1: posts small blind 10
+citrik3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5s]
+flamencolega: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to citrik3
+citrik3 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: flamencolega (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: citrik3 (big blind) collected (20)
+
+
+
+PokerStars Hand #259470526704: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:17:37 CET [2026/01/26 11:17:37 ET]
+Table '3969314711 1' 3-max Seat #2 is the button
+Seat 1: flamencolega (460 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: citrik3 (450 in chips) 
+citrik3: posts small blind 10
+flamencolega: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7d]
+mabeal1: folds 
+citrik3: raises 20 to 40
+flamencolega: calls 20
+*** FLOP *** [Tc 2d 3s]
+citrik3: bets 40
+flamencolega: folds 
+Uncalled bet (40) returned to citrik3
+citrik3 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc 2d 3s]
+Seat 1: flamencolega (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: citrik3 (small blind) collected (80)
+
+
+
+PokerStars Hand #259470529319: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:17:51 CET [2026/01/26 11:17:51 ET]
+Table '3969314711 1' 3-max Seat #3 is the button
+Seat 1: flamencolega (420 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: citrik3 (490 in chips) 
+flamencolega: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 9c]
+citrik3: raises 20 to 40
+flamencolega: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to citrik3
+citrik3 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: flamencolega (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: citrik3 (button) collected (50)
+
+
+
+PokerStars Hand #259470531122: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:18:01 CET [2026/01/26 11:18:01 ET]
+Table '3969314711 1' 3-max Seat #1 is the button
+Seat 1: flamencolega (410 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: citrik3 (520 in chips) 
+mabeal1: posts small blind 10
+citrik3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kd]
+flamencolega: folds 
+mabeal1: raises 20 to 40
+citrik3: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: flamencolega (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: citrik3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470532670: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 17:18:10 CET [2026/01/26 11:18:10 ET]
+Table '3969314711 1' 3-max Seat #2 is the button
+Seat 1: flamencolega (410 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: citrik3 (500 in chips) 
+citrik3: posts small blind 10
+flamencolega: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 3c]
+mabeal1: raises 20 to 40
+citrik3: calls 30
+flamencolega: calls 20
+*** FLOP *** [3s 2s 5h]
+citrik3: checks 
+flamencolega: bets 60
+mabeal1: calls 60
+citrik3: folds 
+*** TURN *** [3s 2s 5h] [Kh]
+flamencolega: bets 120
+mabeal1: calls 120
+*** RIVER *** [3s 2s 5h Kh] [Js]
+flamencolega: bets 190 and is all-in
+mabeal1: folds 
+Uncalled bet (190) returned to flamencolega
+flamencolega collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [3s 2s 5h Kh Js]
+Seat 1: flamencolega (big blind) collected (480)
+Seat 2: mabeal1 (button) folded on the River
+Seat 3: citrik3 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259470541035: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:18:56 CET [2026/01/26 11:18:56 ET]
+Table '3969314711 1' 3-max Seat #3 is the button
+Seat 1: flamencolega (670 in chips) 
+Seat 2: mabeal1 (370 in chips) 
+Seat 3: citrik3 (460 in chips) 
+flamencolega: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 2c]
+citrik3: folds 
+flamencolega: calls 15
+mabeal1: checks 
+*** FLOP *** [5d Kh 2d]
+flamencolega: checks 
+mabeal1: bets 340 and is all-in
+flamencolega: folds 
+Uncalled bet (340) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Kh 2d]
+Seat 1: flamencolega (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: citrik3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259470543743: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:19:10 CET [2026/01/26 11:19:10 ET]
+Table '3969314711 1' 3-max Seat #1 is the button
+Seat 1: flamencolega (640 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: citrik3 (460 in chips) 
+mabeal1: posts small blind 15
+citrik3: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 6c]
+flamencolega: calls 30
+mabeal1: folds 
+citrik3: checks 
+*** FLOP *** [Qd Ks 5s]
+citrik3: checks 
+flamencolega: checks 
+*** TURN *** [Qd Ks 5s] [9s]
+citrik3: bets 30
+flamencolega: folds 
+Uncalled bet (30) returned to citrik3
+citrik3 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [Qd Ks 5s 9s]
+Seat 1: flamencolega (button) folded on the Turn
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: citrik3 (big blind) collected (75)
+
+
+
+PokerStars Hand #259470548262: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:19:35 CET [2026/01/26 11:19:35 ET]
+Table '3969314711 1' 3-max Seat #2 is the button
+Seat 1: flamencolega (610 in chips) 
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: citrik3 (505 in chips) 
+citrik3: posts small blind 15
+flamencolega: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Kh]
+mabeal1: raises 30 to 60
+citrik3: folds 
+flamencolega: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: flamencolega (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (75)
+Seat 3: citrik3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259470550028: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:19:45 CET [2026/01/26 11:19:45 ET]
+Table '3969314711 1' 3-max Seat #3 is the button
+Seat 1: flamencolega (580 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: citrik3 (490 in chips) 
+flamencolega: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3c]
+citrik3: folds 
+flamencolega: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: flamencolega (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: citrik3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259470551267: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:19:52 CET [2026/01/26 11:19:52 ET]
+Table '3969314711 1' 3-max Seat #1 is the button
+Seat 1: flamencolega (565 in chips) 
+Seat 2: mabeal1 (445 in chips) 
+Seat 3: citrik3 (490 in chips) 
+mabeal1: posts small blind 15
+citrik3: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Js]
+flamencolega: folds 
+mabeal1: raises 30 to 60
+citrik3: raises 120 to 180
+mabeal1: folds 
+Uncalled bet (120) returned to citrik3
+citrik3 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: flamencolega (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: citrik3 (big blind) collected (120)
+
+
+
+PokerStars Hand #259470553167: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:20:02 CET [2026/01/26 11:20:02 ET]
+Table '3969314711 1' 3-max Seat #2 is the button
+Seat 1: flamencolega (565 in chips) 
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: citrik3 (550 in chips) 
+citrik3: posts small blind 15
+flamencolega: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 8d]
+mabeal1: folds 
+citrik3: raises 30 to 60
+flamencolega: folds 
+Uncalled bet (30) returned to citrik3
+citrik3 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: flamencolega (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: citrik3 (small blind) collected (60)
+
+
+
+PokerStars Hand #259470554788: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:20:11 CET [2026/01/26 11:20:11 ET]
+Table '3969314711 1' 3-max Seat #3 is the button
+Seat 1: flamencolega (535 in chips) 
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: citrik3 (580 in chips) 
+flamencolega: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9c]
+citrik3: folds 
+flamencolega: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: flamencolega (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: citrik3 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259470555940: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:20:17 CET [2026/01/26 11:20:17 ET]
+Table '3969314711 1' 3-max Seat #1 is the button
+Seat 1: flamencolega (520 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: citrik3 (580 in chips) 
+mabeal1: posts small blind 15
+citrik3: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8s]
+flamencolega: raises 30 to 60
+mabeal1: folds 
+citrik3: folds 
+Uncalled bet (30) returned to flamencolega
+flamencolega collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: flamencolega (button) collected (75)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: citrik3 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470557468: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:20:26 CET [2026/01/26 11:20:26 ET]
+Table '3969314711 1' 3-max Seat #2 is the button
+Seat 1: flamencolega (565 in chips) 
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: citrik3 (550 in chips) 
+citrik3: posts small blind 15
+flamencolega: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Jh]
+mabeal1: folds 
+citrik3: folds 
+Uncalled bet (15) returned to flamencolega
+flamencolega collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: flamencolega (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: citrik3 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259470559045: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:20:34 CET [2026/01/26 11:20:34 ET]
+Table '3969314711 1' 3-max Seat #3 is the button
+Seat 1: flamencolega (580 in chips) 
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: citrik3 (535 in chips) 
+flamencolega: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 5s]
+citrik3: raises 30 to 60
+flamencolega: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to citrik3
+citrik3 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: flamencolega (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: citrik3 (button) collected (75)
+
+
+
+PokerStars Hand #259470560619: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:20:43 CET [2026/01/26 11:20:43 ET]
+Table '3969314711 1' 3-max Seat #1 is the button
+Seat 1: flamencolega (565 in chips) 
+Seat 2: mabeal1 (355 in chips) 
+Seat 3: citrik3 (580 in chips) 
+mabeal1: posts small blind 15
+citrik3: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 8s]
+flamencolega: folds 
+mabeal1: raises 30 to 60
+citrik3: calls 30
+*** FLOP *** [Jh 5d 7h]
+mabeal1: bets 60
+citrik3: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 5d 7h]
+Seat 1: flamencolega (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (120)
+Seat 3: citrik3 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259470564292: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 17:21:03 CET [2026/01/26 11:21:03 ET]
+Table '3969314711 1' 3-max Seat #2 is the button
+Seat 1: flamencolega (565 in chips) 
+Seat 2: mabeal1 (415 in chips) 
+Seat 3: citrik3 (520 in chips) 
+citrik3: posts small blind 15
+flamencolega: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jd]
+mabeal1: folds 
+citrik3: raises 30 to 60
+flamencolega: folds 
+Uncalled bet (30) returned to citrik3
+citrik3 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: flamencolega (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: citrik3 (small blind) collected (60)
+
+
+
+PokerStars Hand #259470567247: Tournament #3969314711, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 17:21:19 CET [2026/01/26 11:21:19 ET]
+Table '3969314711 1' 3-max Seat #3 is the button
+Seat 1: flamencolega (535 in chips) 
+Seat 2: mabeal1 (415 in chips) 
+Seat 3: citrik3 (550 in chips) 
+flamencolega: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 4c]
+citrik3: raises 40 to 80
+flamencolega: raises 200 to 280
+mabeal1: raises 135 to 415 and is all-in
+citrik3: folds 
+flamencolega: calls 135
+*** FLOP *** [5h 4h 5d]
+*** TURN *** [5h 4h 5d] [Jc]
+*** RIVER *** [5h 4h 5d Jc] [8d]
+*** SHOW DOWN ***
+flamencolega: shows [Qh Qs] (two pair, Queens and Fives)
+mabeal1: shows [Ad 4c] (two pair, Fives and Fours)
+flamencolega collected 910 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [5h 4h 5d Jc 8d]
+Seat 1: flamencolega (small blind) showed [Qh Qs] and won (910) with two pair, Queens and Fives
+Seat 2: mabeal1 (big blind) showed [Ad 4c] and lost with two pair, Fives and Fours
+Seat 3: citrik3 (button) folded before Flop
+
+
+

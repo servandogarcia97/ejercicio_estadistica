@@ -1,0 +1,557 @@
+﻿PokerStars Hand #259578045137: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:33:04 CET [2026/02/03 12:33:04 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: merlubroza (500 in chips) 
+Seat 3: VALALAI (500 in chips) 
+merlubroza: posts small blind 10
+VALALAI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 6h]
+mabeal1: raises 20 to 40
+merlubroza: calls 30
+VALALAI: calls 20
+*** FLOP *** [9c 4s 2d]
+merlubroza: checks 
+VALALAI: checks 
+mabeal1: bets 60
+merlubroza: calls 60
+VALALAI: folds 
+*** TURN *** [9c 4s 2d] [5c]
+merlubroza: checks 
+mabeal1: checks 
+*** RIVER *** [9c 4s 2d 5c] [5d]
+merlubroza: bets 120
+mabeal1: calls 120
+*** SHOW DOWN ***
+merlubroza: shows [4h 8c] (two pair, Fives and Fours)
+mabeal1: shows [6d 6h] (two pair, Sixes and Fives)
+mabeal1 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9c 4s 2d 5c 5d]
+Seat 1: mabeal1 (button) showed [6d 6h] and won (480) with two pair, Sixes and Fives
+Seat 2: merlubroza (small blind) showed [4h 8c] and lost with two pair, Fives and Fours
+Seat 3: VALALAI (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259578053815: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:33:45 CET [2026/02/03 12:33:45 ET]
+Table '3971758308 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (760 in chips) 
+Seat 2: merlubroza (280 in chips) 
+Seat 3: VALALAI (460 in chips) 
+VALALAI: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4d]
+merlubroza: folds 
+VALALAI: calls 10
+mabeal1: checks 
+*** FLOP *** [Ah Ks Ad]
+VALALAI: checks 
+mabeal1: checks 
+*** TURN *** [Ah Ks Ad] [8d]
+VALALAI: checks 
+mabeal1: bets 30
+VALALAI: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ah Ks Ad 8d]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: merlubroza (button) folded before Flop (didn't bet)
+Seat 3: VALALAI (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259578058562: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:34:07 CET [2026/02/03 12:34:07 ET]
+Table '3971758308 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: merlubroza (280 in chips) 
+Seat 3: VALALAI (440 in chips) 
+mabeal1: posts small blind 10
+merlubroza: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 5d]
+VALALAI: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to merlubroza
+merlubroza collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: merlubroza (big blind) collected (20)
+Seat 3: VALALAI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578060102: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:34:14 CET [2026/02/03 12:34:14 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (770 in chips) 
+Seat 2: merlubroza (290 in chips) 
+Seat 3: VALALAI (440 in chips) 
+merlubroza: posts small blind 10
+VALALAI: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h As]
+mabeal1: raises 20 to 40
+merlubroza: calls 30
+VALALAI: folds 
+*** FLOP *** [Qs Tc 8h]
+merlubroza: checks 
+mabeal1: checks 
+*** TURN *** [Qs Tc 8h] [Jd]
+merlubroza: checks 
+mabeal1: checks 
+*** RIVER *** [Qs Tc 8h Jd] [7c]
+merlubroza: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+merlubroza: shows [3h Ks] (high card King)
+mabeal1: shows [2h As] (high card Ace)
+mabeal1 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Qs Tc 8h Jd 7c]
+Seat 1: mabeal1 (button) showed [2h As] and won (100) with high card Ace
+Seat 2: merlubroza (small blind) showed [3h Ks] and lost with high card King
+Seat 3: VALALAI (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578066728: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:34:45 CET [2026/02/03 12:34:45 ET]
+Table '3971758308 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 2: merlubroza (250 in chips) 
+Seat 3: VALALAI (420 in chips) 
+VALALAI: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 3d]
+merlubroza: raises 230 to 250 and is all-in
+VALALAI: folds 
+mabeal1: folds 
+Uncalled bet (230) returned to merlubroza
+merlubroza collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: merlubroza (button) collected (50)
+Seat 3: VALALAI (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578069437: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:34:58 CET [2026/02/03 12:34:58 ET]
+Table '3971758308 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (810 in chips) 
+Seat 2: merlubroza (280 in chips) 
+Seat 3: VALALAI (410 in chips) 
+mabeal1: posts small blind 10
+merlubroza: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 3d]
+VALALAI: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to merlubroza
+merlubroza collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: merlubroza (big blind) collected (20)
+Seat 3: VALALAI (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578072120: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:35:10 CET [2026/02/03 12:35:10 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (800 in chips) 
+Seat 2: merlubroza (290 in chips) 
+Seat 3: VALALAI (410 in chips) 
+merlubroza: posts small blind 15
+VALALAI: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Qh]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+merlubroza: calls 15
+mabeal1 has returned
+VALALAI: checks 
+*** FLOP *** [Qc 7h Qs]
+merlubroza: checks 
+VALALAI: checks 
+*** TURN *** [Qc 7h Qs] [Kc]
+merlubroza: bets 60
+VALALAI: calls 60
+*** RIVER *** [Qc 7h Qs Kc] [4d]
+merlubroza: bets 180
+VALALAI: folds 
+Uncalled bet (180) returned to merlubroza
+merlubroza collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qc 7h Qs Kc 4d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: merlubroza (small blind) collected (180)
+Seat 3: VALALAI (big blind) folded on the River
+
+
+
+PokerStars Hand #259578079473: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:35:44 CET [2026/02/03 12:35:44 ET]
+Table '3971758308 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (800 in chips) 
+Seat 2: merlubroza (380 in chips) 
+Seat 3: VALALAI (320 in chips) 
+VALALAI: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Qd]
+merlubroza: folds 
+VALALAI: calls 15
+mabeal1: checks 
+*** FLOP *** [Qc 6c 8d]
+VALALAI: bets 60
+mabeal1: calls 60
+*** TURN *** [Qc 6c 8d] [Js]
+VALALAI: bets 90
+mabeal1: calls 90
+*** RIVER *** [Qc 6c 8d Js] [7h]
+VALALAI: bets 140 and is all-in
+mabeal1: calls 140
+*** SHOW DOWN ***
+VALALAI: shows [9s 8c] (a pair of Eights)
+mabeal1: shows [Jd Qd] (two pair, Queens and Jacks)
+mabeal1 collected 640 from pot
+VALALAI finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Qc 6c 8d Js 7h]
+Seat 1: mabeal1 (big blind) showed [Jd Qd] and won (640) with two pair, Queens and Jacks
+Seat 2: merlubroza (button) folded before Flop (didn't bet)
+Seat 3: VALALAI (small blind) showed [9s 8c] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259578088063: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:36:24 CET [2026/02/03 12:36:24 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1120 in chips) 
+Seat 2: merlubroza (380 in chips) 
+mabeal1: posts small blind 15
+merlubroza: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 2h]
+mabeal1: raises 1090 to 1120 and is all-in
+merlubroza: folds 
+Uncalled bet (1090) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: merlubroza (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578090170: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:36:34 CET [2026/02/03 12:36:34 ET]
+Table '3971758308 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1150 in chips) 
+Seat 2: merlubroza (350 in chips) 
+merlubroza: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Jc]
+merlubroza: calls 15
+mabeal1: checks 
+*** FLOP *** [Th 8s Tc]
+mabeal1: checks 
+merlubroza: checks 
+*** TURN *** [Th 8s Tc] [Qd]
+mabeal1: bets 30
+merlubroza: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to merlubroza
+merlubroza collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th 8s Tc Qd]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: merlubroza (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259578096110: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 18:37:00 CET [2026/02/03 12:37:00 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 2: merlubroza (410 in chips) 
+mabeal1: posts small blind 15
+merlubroza: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 3d]
+mabeal1: raises 1060 to 1090 and is all-in
+merlubroza: folds 
+Uncalled bet (1060) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: merlubroza (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578098213: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:37:10 CET [2026/02/03 12:37:10 ET]
+Table '3971758308 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1120 in chips) 
+Seat 2: merlubroza (380 in chips) 
+merlubroza: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9c]
+merlubroza: raises 340 to 380 and is all-in
+mabeal1: folds 
+Uncalled bet (340) returned to merlubroza
+merlubroza collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: merlubroza (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259578099972: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:37:18 CET [2026/02/03 12:37:18 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1080 in chips) 
+Seat 2: merlubroza (420 in chips) 
+mabeal1: posts small blind 20
+merlubroza: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Qh]
+mabeal1: raises 40 to 80
+merlubroza: raises 340 to 420 and is all-in
+mabeal1: folds 
+Uncalled bet (340) returned to merlubroza
+merlubroza collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: merlubroza (big blind) collected (160)
+
+
+
+PokerStars Hand #259578103029: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:37:32 CET [2026/02/03 12:37:32 ET]
+Table '3971758308 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 2: merlubroza (500 in chips) 
+merlubroza: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 8s]
+merlubroza: raises 460 to 500 and is all-in
+mabeal1: folds 
+Uncalled bet (460) returned to merlubroza
+merlubroza collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: merlubroza (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259578104583: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:37:39 CET [2026/02/03 12:37:39 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 2: merlubroza (540 in chips) 
+mabeal1: posts small blind 20
+merlubroza: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 9h]
+mabeal1: calls 20
+merlubroza: checks 
+*** FLOP *** [6d 6s 8s]
+merlubroza: checks 
+mabeal1: bets 40
+merlubroza: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d 6s 8s]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: merlubroza (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259578107056: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:37:50 CET [2026/02/03 12:37:50 ET]
+Table '3971758308 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 2: merlubroza (500 in chips) 
+merlubroza: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 5c]
+merlubroza: calls 20
+mabeal1: checks 
+*** FLOP *** [8d Qd 3s]
+mabeal1: checks 
+merlubroza: checks 
+*** TURN *** [8d Qd 3s] [Td]
+mabeal1: bets 60
+merlubroza: calls 60
+*** RIVER *** [8d Qd 3s Td] [3c]
+mabeal1: bets 150
+merlubroza: raises 150 to 300
+mabeal1: calls 150
+*** SHOW DOWN ***
+merlubroza: shows [9c Jc] (a straight, Eight to Queen)
+mabeal1: mucks hand 
+merlubroza collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [8d Qd 3s Td 3c]
+Seat 1: mabeal1 (big blind) mucked [Qh 5c]
+Seat 2: merlubroza (button) (small blind) showed [9c Jc] and won (800) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #259578111246: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:38:10 CET [2026/02/03 12:38:10 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: merlubroza (900 in chips) 
+mabeal1: posts small blind 20
+merlubroza: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8h]
+mabeal1: raises 40 to 80
+merlubroza: calls 40
+*** FLOP *** [2c 9d Js]
+merlubroza: checks 
+mabeal1: bets 40
+merlubroza: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c 9d Js]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 2: merlubroza (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259578114572: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:38:25 CET [2026/02/03 12:38:25 ET]
+Table '3971758308 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (680 in chips) 
+Seat 2: merlubroza (820 in chips) 
+merlubroza: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Jd]
+merlubroza: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [Ah 8d 4c]
+mabeal1: checks 
+merlubroza: bets 80
+mabeal1: calls 80
+*** TURN *** [Ah 8d 4c] [8s]
+mabeal1: checks 
+merlubroza: checks 
+*** RIVER *** [Ah 8d 4c 8s] [9c]
+mabeal1: checks 
+merlubroza: bets 320
+mabeal1: folds 
+Uncalled bet (320) returned to merlubroza
+merlubroza collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ah 8d 4c 8s 9c]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: merlubroza (button) (small blind) collected (320)
+
+
+
+PokerStars Hand #259578122155: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 18:38:58 CET [2026/02/03 12:38:58 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: merlubroza (980 in chips) 
+mabeal1: posts small blind 20
+merlubroza: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8c]
+mabeal1: calls 20
+merlubroza: checks 
+*** FLOP *** [4s Jc 6h]
+merlubroza: bets 40
+mabeal1: raises 80 to 120
+merlubroza: calls 80
+*** TURN *** [4s Jc 6h] [Th]
+merlubroza: checks 
+mabeal1: bets 360 and is all-in
+merlubroza: calls 360
+*** RIVER *** [4s Jc 6h Th] [9d]
+*** SHOW DOWN ***
+merlubroza: shows [3h 5h] (high card Jack)
+mabeal1: shows [7h 8c] (a straight, Seven to Jack)
+mabeal1 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [4s Jc 6h Th 9d]
+Seat 1: mabeal1 (button) (small blind) showed [7h 8c] and won (1040) with a straight, Seven to Jack
+Seat 2: merlubroza (big blind) showed [3h 5h] and lost with high card Jack
+
+
+
+PokerStars Hand #259578127289: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 18:39:22 CET [2026/02/03 12:39:22 ET]
+Table '3971758308 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 2: merlubroza (460 in chips) 
+merlubroza: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 4s]
+merlubroza: calls 30
+mabeal1: checks 
+*** FLOP *** [As Qh 5d]
+mabeal1: checks 
+merlubroza: bets 400 and is all-in
+mabeal1: folds 
+Uncalled bet (400) returned to merlubroza
+merlubroza collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As Qh 5d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: merlubroza (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259578129686: Tournament #3971758308, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 18:39:33 CET [2026/02/03 12:39:33 ET]
+Table '3971758308 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 2: merlubroza (520 in chips) 
+mabeal1: posts small blind 30
+merlubroza: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 4h]
+mabeal1: raises 920 to 980 and is all-in
+merlubroza: calls 460 and is all-in
+Uncalled bet (460) returned to mabeal1
+*** FLOP *** [9d 6c 7s]
+*** TURN *** [9d 6c 7s] [Jd]
+*** RIVER *** [9d 6c 7s Jd] [9c]
+*** SHOW DOWN ***
+merlubroza: shows [Kc 2c] (a pair of Nines)
+mabeal1: shows [Ac 4h] (a pair of Nines - Ace kicker)
+mabeal1 collected 1040 from pot
+merlubroza finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [9d 6c 7s Jd 9c]
+Seat 1: mabeal1 (button) (small blind) showed [Ac 4h] and won (1040) with a pair of Nines
+Seat 2: merlubroza (big blind) showed [Kc 2c] and lost with a pair of Nines
+
+
+

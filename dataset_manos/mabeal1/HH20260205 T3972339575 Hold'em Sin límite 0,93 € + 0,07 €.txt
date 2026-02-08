@@ -1,0 +1,398 @@
+﻿PokerStars Hand #259602730429: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:01:14 CET [2026/02/05 12:01:14 ET]
+Table '3972339575 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: xeyla00000 (500 in chips) 
+Seat 3: rubenuno87 (500 in chips) 
+xeyla00000: posts small blind 10
+rubenuno87: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 5d]
+mabeal1: folds 
+xeyla00000: raises 20 to 40
+rubenuno87: calls 20
+*** FLOP *** [5c 5s 2c]
+xeyla00000: bets 80
+rubenuno87: calls 80
+*** TURN *** [5c 5s 2c] [Th]
+xeyla00000: bets 240
+rubenuno87: raises 140 to 380 and is all-in
+xeyla00000: calls 140 and is all-in
+*** RIVER *** [5c 5s 2c Th] [Kh]
+*** SHOW DOWN ***
+xeyla00000: shows [Ts Tc] (a full house, Tens full of Fives)
+rubenuno87: shows [2h 2s] (a full house, Deuces full of Fives)
+xeyla00000 collected 1000 from pot
+rubenuno87 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [5c 5s 2c Th Kh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: xeyla00000 (small blind) showed [Ts Tc] and won (1000) with a full house, Tens full of Fives
+Seat 3: rubenuno87 (big blind) showed [2h 2s] and lost with a full house, Deuces full of Fives
+
+
+
+PokerStars Hand #259602735070: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:01:39 CET [2026/02/05 12:01:39 ET]
+Table '3972339575 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: xeyla00000 (1000 in chips) 
+xeyla00000: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 7s]
+xeyla00000: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: xeyla00000 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602735803: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:01:43 CET [2026/02/05 12:01:43 ET]
+Table '3972339575 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: xeyla00000 (990 in chips) 
+mabeal1: posts small blind 10
+xeyla00000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7c]
+mabeal1: raises 20 to 40
+xeyla00000: calls 20
+*** FLOP *** [5d 4d Kh]
+xeyla00000: checks 
+mabeal1: checks 
+*** TURN *** [5d 4d Kh] [9s]
+xeyla00000: checks 
+mabeal1: bets 60
+xeyla00000: calls 60
+*** RIVER *** [5d 4d Kh 9s] [9c]
+xeyla00000: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+xeyla00000: shows [7h Ad] (a pair of Nines)
+mabeal1: mucks hand 
+xeyla00000 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5d 4d Kh 9s 9c]
+Seat 1: mabeal1 (button) (small blind) mucked [2d 7c]
+Seat 2: xeyla00000 (big blind) showed [7h Ad] and won (200) with a pair of Nines
+
+
+
+PokerStars Hand #259602739449: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:02:02 CET [2026/02/05 12:02:02 ET]
+Table '3972339575 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: xeyla00000 (1090 in chips) 
+xeyla00000: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 5d]
+xeyla00000: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to xeyla00000
+xeyla00000 collected 40 from pot
+xeyla00000: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: xeyla00000 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259602740791: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:02:09 CET [2026/02/05 12:02:09 ET]
+Table '3972339575 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (390 in chips) 
+Seat 2: xeyla00000 (1110 in chips) 
+mabeal1: posts small blind 10
+xeyla00000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Jc]
+mabeal1: calls 10
+xeyla00000: checks 
+*** FLOP *** [9c 8c Ah]
+xeyla00000: checks 
+mabeal1: checks 
+*** TURN *** [9c 8c Ah] [6s]
+xeyla00000: checks 
+mabeal1: checks 
+*** RIVER *** [9c 8c Ah 6s] [Qh]
+xeyla00000: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+xeyla00000: shows [8h Kd] (a pair of Eights)
+mabeal1: mucks hand 
+xeyla00000 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c 8c Ah 6s Qh]
+Seat 1: mabeal1 (button) (small blind) mucked [3h Jc]
+Seat 2: xeyla00000 (big blind) showed [8h Kd] and won (40) with a pair of Eights
+
+
+
+PokerStars Hand #259602743658: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:02:24 CET [2026/02/05 12:02:24 ET]
+Table '3972339575 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (370 in chips) 
+Seat 2: xeyla00000 (1130 in chips) 
+xeyla00000: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 8d]
+xeyla00000: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: xeyla00000 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602744772: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:02:31 CET [2026/02/05 12:02:31 ET]
+Table '3972339575 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: xeyla00000 (1120 in chips) 
+mabeal1: posts small blind 10
+xeyla00000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5s]
+mabeal1: calls 10
+xeyla00000: checks 
+*** FLOP *** [As 8d 7c]
+xeyla00000: checks 
+mabeal1: checks 
+*** TURN *** [As 8d 7c] [Ks]
+xeyla00000: checks 
+mabeal1: bets 40
+xeyla00000: calls 40
+*** RIVER *** [As 8d 7c Ks] [Qd]
+xeyla00000: checks 
+mabeal1: bets 320 and is all-in
+xeyla00000: folds 
+Uncalled bet (320) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As 8d 7c Ks Qd]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 2: xeyla00000 (big blind) folded on the River
+
+
+
+PokerStars Hand #259602750229: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:03:01 CET [2026/02/05 12:03:01 ET]
+Table '3972339575 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: xeyla00000 (1060 in chips) 
+xeyla00000: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 3h]
+xeyla00000: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to xeyla00000
+xeyla00000 collected 40 from pot
+xeyla00000: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: xeyla00000 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259602751408: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:03:07 CET [2026/02/05 12:03:07 ET]
+Table '3972339575 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: xeyla00000 (1080 in chips) 
+mabeal1: posts small blind 10
+xeyla00000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 8s]
+mabeal1: calls 10
+xeyla00000: checks 
+*** FLOP *** [5c 5d 3d]
+xeyla00000: bets 20
+mabeal1: calls 20
+*** TURN *** [5c 5d 3d] [6s]
+xeyla00000: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to xeyla00000
+xeyla00000 collected 80 from pot
+xeyla00000: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c 5d 3d 6s]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 2: xeyla00000 (big blind) collected (80)
+
+
+
+PokerStars Hand #259602753852: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:03:20 CET [2026/02/05 12:03:20 ET]
+Table '3972339575 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: xeyla00000 (1120 in chips) 
+xeyla00000: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6h]
+xeyla00000: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to xeyla00000
+xeyla00000 collected 40 from pot
+xeyla00000: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: xeyla00000 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259602754986: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:03:26 CET [2026/02/05 12:03:26 ET]
+Table '3972339575 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (360 in chips) 
+Seat 2: xeyla00000 (1140 in chips) 
+mabeal1: posts small blind 10
+xeyla00000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 4s]
+mabeal1: raises 20 to 40
+xeyla00000: raises 60 to 100
+mabeal1: folds 
+Uncalled bet (60) returned to xeyla00000
+xeyla00000 collected 80 from pot
+xeyla00000: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: xeyla00000 (big blind) collected (80)
+
+
+
+PokerStars Hand #259602756681: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:03:35 CET [2026/02/05 12:03:35 ET]
+Table '3972339575 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (320 in chips) 
+Seat 2: xeyla00000 (1180 in chips) 
+xeyla00000: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 8h]
+xeyla00000: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [5d Tc 9c]
+mabeal1: checks 
+xeyla00000: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to xeyla00000
+xeyla00000 collected 80 from pot
+xeyla00000: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d Tc 9c]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: xeyla00000 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259602758748: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:03:46 CET [2026/02/05 12:03:46 ET]
+Table '3972339575 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (280 in chips) 
+Seat 2: xeyla00000 (1220 in chips) 
+mabeal1: posts small blind 10
+xeyla00000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Th]
+mabeal1: raises 20 to 40
+xeyla00000: calls 20
+*** FLOP *** [7d Ac Jh]
+xeyla00000: checks 
+mabeal1: bets 40
+xeyla00000: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d Ac Jh]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: xeyla00000 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259602761367: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:04:00 CET [2026/02/05 12:04:00 ET]
+Table '3972339575 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (320 in chips) 
+Seat 2: xeyla00000 (1180 in chips) 
+xeyla00000: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3d]
+xeyla00000: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to xeyla00000
+xeyla00000 collected 40 from pot
+xeyla00000: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: xeyla00000 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259602762422: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:04:05 CET [2026/02/05 12:04:05 ET]
+Table '3972339575 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (300 in chips) 
+Seat 2: xeyla00000 (1200 in chips) 
+mabeal1: posts small blind 10
+xeyla00000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 5s]
+mabeal1: calls 10
+xeyla00000: checks 
+*** FLOP *** [6c 3c 5h]
+xeyla00000: checks 
+mabeal1: bets 20
+xeyla00000: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c 3c 5h]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: xeyla00000 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259602765109: Tournament #3972339575, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:04:19 CET [2026/02/05 12:04:19 ET]
+Table '3972339575 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (320 in chips) 
+Seat 2: xeyla00000 (1180 in chips) 
+xeyla00000: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5h]
+xeyla00000: raises 30 to 60
+mabeal1: raises 260 to 320 and is all-in
+xeyla00000: calls 260
+*** FLOP *** [4h 3c 7s]
+*** TURN *** [4h 3c 7s] [2d]
+*** RIVER *** [4h 3c 7s 2d] [Kh]
+*** SHOW DOWN ***
+mabeal1: shows [Qs 5h] (high card King)
+xeyla00000: shows [7h 7c] (three of a kind, Sevens)
+xeyla00000 collected 640 from pot
+mabeal1 finished the tournament in 2nd place
+xeyla00000 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [4h 3c 7s 2d Kh]
+Seat 1: mabeal1 (big blind) showed [Qs 5h] and lost with high card King
+Seat 2: xeyla00000 (button) (small blind) showed [7h 7c] and won (640) with three of a kind, Sevens
+
+
+

@@ -1,0 +1,586 @@
+﻿PokerStars Hand #259561646869: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:22:34 CET [2026/02/02 8:22:34 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Joker23T (500 in chips) 
+Seat 3: Mehdi13700B (500 in chips) 
+Joker23T: posts small blind 10
+Mehdi13700B: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 7s]
+mabeal1: raises 20 to 40
+Joker23T: folds 
+Mehdi13700B: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: Joker23T (small blind) folded before Flop
+Seat 3: Mehdi13700B (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561649162: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:22:51 CET [2026/02/02 8:22:51 ET]
+Table '3971393090 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Joker23T (490 in chips) 
+Seat 3: Mehdi13700B (480 in chips) 
+Mehdi13700B: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Ac]
+Joker23T: raises 470 to 490 and is all-in
+Mehdi13700B: folds 
+mabeal1: calls 470
+*** FLOP *** [3h Js 2c]
+*** TURN *** [3h Js 2c] [Kd]
+*** RIVER *** [3h Js 2c Kd] [9h]
+*** SHOW DOWN ***
+mabeal1: shows [Ah Ac] (a pair of Aces)
+Joker23T: shows [6c 6h] (a pair of Sixes)
+mabeal1 collected 990 from pot
+Joker23T finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [3h Js 2c Kd 9h]
+Seat 1: mabeal1 (big blind) showed [Ah Ac] and won (990) with a pair of Aces
+Seat 2: Joker23T (button) showed [6c 6h] and lost with a pair of Sixes
+Seat 3: Mehdi13700B (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561652134: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:23:13 CET [2026/02/02 8:23:13 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: Mehdi13700B (470 in chips) 
+mabeal1: posts small blind 10
+Mehdi13700B: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Tc]
+mabeal1: calls 10
+Mehdi13700B: checks 
+*** FLOP *** [Ks 9s Kh]
+Mehdi13700B: checks 
+mabeal1: bets 20
+Mehdi13700B: calls 20
+*** TURN *** [Ks 9s Kh] [7h]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** RIVER *** [Ks 9s Kh 7h] [7d]
+Mehdi13700B: checks 
+mabeal1: bets 60
+Mehdi13700B: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks 9s Kh 7h 7d]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: Mehdi13700B (big blind) folded on the River
+
+
+
+PokerStars Hand #259561654939: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:23:34 CET [2026/02/02 8:23:34 ET]
+Table '3971393090 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: Mehdi13700B (430 in chips) 
+Mehdi13700B: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5h]
+Mehdi13700B: calls 10
+mabeal1: checks 
+*** FLOP *** [Td Kh 6s]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** TURN *** [Td Kh 6s] [Ts]
+mabeal1: checks 
+Mehdi13700B: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Mehdi13700B
+Mehdi13700B collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td Kh 6s Ts]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 3: Mehdi13700B (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259561657886: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:23:55 CET [2026/02/02 8:23:55 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: Mehdi13700B (450 in chips) 
+mabeal1: posts small blind 10
+Mehdi13700B: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 4c]
+mabeal1: folds 
+Uncalled bet (10) returned to Mehdi13700B
+Mehdi13700B collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Mehdi13700B (big blind) collected (20)
+
+
+
+PokerStars Hand #259561658493: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:24:00 CET [2026/02/02 8:24:00 ET]
+Table '3971393090 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 3: Mehdi13700B (460 in chips) 
+Mehdi13700B: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Qh]
+Mehdi13700B: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: Mehdi13700B (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561659255: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:24:05 CET [2026/02/02 8:24:05 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: Mehdi13700B (450 in chips) 
+mabeal1: posts small blind 10
+Mehdi13700B: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kc]
+mabeal1: raises 20 to 40
+Mehdi13700B: calls 20
+*** FLOP *** [8h 8s 6h]
+Mehdi13700B: checks 
+mabeal1: bets 40
+Mehdi13700B: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 8s 6h]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: Mehdi13700B (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259561661396: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:24:21 CET [2026/02/02 8:24:21 ET]
+Table '3971393090 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 3: Mehdi13700B (410 in chips) 
+Mehdi13700B: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Jc]
+Mehdi13700B: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: Mehdi13700B (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561662256: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:24:27 CET [2026/02/02 8:24:27 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1100 in chips) 
+Seat 3: Mehdi13700B (400 in chips) 
+mabeal1: posts small blind 10
+Mehdi13700B: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 3d]
+mabeal1: calls 10
+Mehdi13700B: checks 
+*** FLOP *** [Jh Qc 7d]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** TURN *** [Jh Qc 7d] [Ah]
+Mehdi13700B: checks 
+mabeal1: bets 20
+Mehdi13700B: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jh Qc 7d Ah]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: Mehdi13700B (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259561664378: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:24:43 CET [2026/02/02 8:24:43 ET]
+Table '3971393090 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1120 in chips) 
+Seat 3: Mehdi13700B (380 in chips) 
+Mehdi13700B: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Qh]
+Mehdi13700B: calls 10
+mabeal1: checks 
+*** FLOP *** [3s 9d Ah]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** TURN *** [3s 9d Ah] [9c]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** RIVER *** [3s 9d Ah 9c] [Ts]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** SHOW DOWN ***
+mabeal1: shows [6c Qh] (a pair of Nines)
+Mehdi13700B: shows [As 6d] (two pair, Aces and Nines)
+Mehdi13700B collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3s 9d Ah 9c Ts]
+Seat 1: mabeal1 (big blind) showed [6c Qh] and lost with a pair of Nines
+Seat 3: Mehdi13700B (button) (small blind) showed [As 6d] and won (40) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #259561666853: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:25:01 CET [2026/02/02 8:25:01 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1100 in chips) 
+Seat 3: Mehdi13700B (400 in chips) 
+mabeal1: posts small blind 10
+Mehdi13700B: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6s]
+mabeal1: calls 10
+Mehdi13700B: checks 
+*** FLOP *** [3d 6d 2c]
+Mehdi13700B: checks 
+mabeal1: bets 20
+Mehdi13700B: calls 20
+*** TURN *** [3d 6d 2c] [9d]
+Mehdi13700B: checks 
+mabeal1: bets 60
+Mehdi13700B: calls 60
+*** RIVER *** [3d 6d 2c 9d] [9s]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Mehdi13700B: shows [Qc 3h] (two pair, Nines and Threes)
+mabeal1: shows [4s 6s] (two pair, Nines and Sixes)
+mabeal1 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3d 6d 2c 9d 9s]
+Seat 1: mabeal1 (button) (small blind) showed [4s 6s] and won (200) with two pair, Nines and Sixes
+Seat 3: Mehdi13700B (big blind) showed [Qc 3h] and lost with two pair, Nines and Threes
+
+
+
+PokerStars Hand #259561670526: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:25:28 CET [2026/02/02 8:25:28 ET]
+Table '3971393090 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1200 in chips) 
+Seat 3: Mehdi13700B (300 in chips) 
+Mehdi13700B: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 5c]
+Mehdi13700B: calls 10
+mabeal1: raises 1180 to 1200 and is all-in
+Mehdi13700B: calls 280 and is all-in
+Uncalled bet (900) returned to mabeal1
+*** FLOP *** [Kh 2c Jh]
+*** TURN *** [Kh 2c Jh] [4s]
+*** RIVER *** [Kh 2c Jh 4s] [9h]
+*** SHOW DOWN ***
+mabeal1: shows [5s 5c] (a pair of Fives)
+Mehdi13700B: shows [3s Jc] (a pair of Jacks)
+Mehdi13700B collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Kh 2c Jh 4s 9h]
+Seat 1: mabeal1 (big blind) showed [5s 5c] and lost with a pair of Fives
+Seat 3: Mehdi13700B (button) (small blind) showed [3s Jc] and won (600) with a pair of Jacks
+
+
+
+PokerStars Hand #259561673274: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:25:48 CET [2026/02/02 8:25:48 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 3: Mehdi13700B (600 in chips) 
+mabeal1: posts small blind 15
+Mehdi13700B: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 8d]
+mabeal1: raises 30 to 60
+Mehdi13700B: calls 30
+*** FLOP *** [Th 9d 2s]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** TURN *** [Th 9d 2s] [Qd]
+Mehdi13700B: checks 
+mabeal1: bets 60
+Mehdi13700B: calls 60
+*** RIVER *** [Th 9d 2s Qd] [3d]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Mehdi13700B: shows [Jh 6h] (high card Queen)
+mabeal1: shows [Kh 8d] (high card King)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Th 9d 2s Qd 3d]
+Seat 1: mabeal1 (button) (small blind) showed [Kh 8d] and won (240) with high card King
+Seat 3: Mehdi13700B (big blind) showed [Jh 6h] and lost with high card Queen
+
+
+
+PokerStars Hand #259561675850: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:26:07 CET [2026/02/02 8:26:07 ET]
+Table '3971393090 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: Mehdi13700B (480 in chips) 
+Mehdi13700B: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7h]
+Mehdi13700B: calls 15
+mabeal1: checks 
+*** FLOP *** [7d 9c 3d]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** TURN *** [7d 9c 3d] [6d]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** RIVER *** [7d 9c 3d 6d] [4s]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Kd 7h] (a pair of Sevens)
+Mehdi13700B: shows [5s Kh] (a straight, Three to Seven)
+Mehdi13700B collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 9c 3d 6d 4s]
+Seat 1: mabeal1 (big blind) showed [Kd 7h] and lost with a pair of Sevens
+Seat 3: Mehdi13700B (button) (small blind) showed [5s Kh] and won (60) with a straight, Three to Seven
+
+
+
+PokerStars Hand #259561678517: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:26:26 CET [2026/02/02 8:26:26 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 3: Mehdi13700B (510 in chips) 
+mabeal1: posts small blind 15
+Mehdi13700B: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Ks]
+mabeal1: raises 30 to 60
+Mehdi13700B: calls 30
+*** FLOP *** [Qd 5c Tc]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** TURN *** [Qd 5c Tc] [4s]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** RIVER *** [Qd 5c Tc 4s] [Ac]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Mehdi13700B: shows [9h 6c] (high card Ace)
+mabeal1: shows [9s Ks] (high card Ace - King kicker)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd 5c Tc 4s Ac]
+Seat 1: mabeal1 (button) (small blind) showed [9s Ks] and won (120) with high card Ace
+Seat 3: Mehdi13700B (big blind) showed [9h 6c] and lost with high card Ace
+
+
+
+PokerStars Hand #259561681018: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:26:45 CET [2026/02/02 8:26:45 ET]
+Table '3971393090 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: Mehdi13700B (450 in chips) 
+Mehdi13700B: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 6d]
+Mehdi13700B: calls 15
+mabeal1: checks 
+*** FLOP *** [7c 9h Th]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** TURN *** [7c 9h Th] [5h]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** RIVER *** [7c 9h Th 5h] [4s]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qh 6d] (high card Queen)
+Mehdi13700B: shows [Qd 8d] (high card Queen - Ten+Nine+Eight kicker)
+Mehdi13700B collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7c 9h Th 5h 4s]
+Seat 1: mabeal1 (big blind) showed [Qh 6d] and lost with high card Queen
+Seat 3: Mehdi13700B (button) (small blind) showed [Qd 8d] and won (60) with high card Queen
+
+
+
+PokerStars Hand #259561684142: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:27:08 CET [2026/02/02 8:27:08 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: Mehdi13700B (480 in chips) 
+mabeal1: posts small blind 15
+Mehdi13700B: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 5s]
+mabeal1: calls 15
+Mehdi13700B: checks 
+*** FLOP *** [2h 8h Ks]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** TURN *** [2h 8h Ks] [2d]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** RIVER *** [2h 8h Ks 2d] [4c]
+Mehdi13700B: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Mehdi13700B: shows [8c 6s] (two pair, Eights and Deuces)
+mabeal1: mucks hand 
+Mehdi13700B collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h 8h Ks 2d 4c]
+Seat 1: mabeal1 (button) (small blind) mucked [3c 5s]
+Seat 3: Mehdi13700B (big blind) showed [8c 6s] and won (60) with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #259561687835: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:27:35 CET [2026/02/02 8:27:35 ET]
+Table '3971393090 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 3: Mehdi13700B (510 in chips) 
+Mehdi13700B: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9h]
+Mehdi13700B: calls 15
+mabeal1: checks 
+*** FLOP *** [Ah 9s 7h]
+mabeal1: bets 30
+Mehdi13700B: calls 30
+*** TURN *** [Ah 9s 7h] [Ts]
+mabeal1: checks 
+Mehdi13700B: bets 30
+mabeal1: calls 30
+*** RIVER *** [Ah 9s 7h Ts] [Qc]
+mabeal1: checks 
+Mehdi13700B: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+Mehdi13700B: shows [Td 8d] (a pair of Tens)
+mabeal1: mucks hand 
+Mehdi13700B collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ah 9s 7h Ts Qc]
+Seat 1: mabeal1 (big blind) mucked [8h 9h]
+Seat 3: Mehdi13700B (button) (small blind) showed [Td 8d] and won (240) with a pair of Tens
+
+
+
+PokerStars Hand #259561691679: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:28:03 CET [2026/02/02 8:28:03 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (870 in chips) 
+Seat 3: Mehdi13700B (630 in chips) 
+mabeal1: posts small blind 15
+Mehdi13700B: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Qc]
+mabeal1: calls 15
+Mehdi13700B: checks 
+*** FLOP *** [4h 4c 2h]
+Mehdi13700B: checks 
+mabeal1: bets 840 and is all-in
+Mehdi13700B: folds 
+Uncalled bet (840) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 4c 2h]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: Mehdi13700B (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259561693544: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:28:17 CET [2026/02/02 8:28:17 ET]
+Table '3971393090 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 3: Mehdi13700B (600 in chips) 
+Mehdi13700B: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 6h]
+Mehdi13700B: calls 15
+mabeal1: checks 
+*** FLOP *** [3c 8d Ah]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** TURN *** [3c 8d Ah] [6c]
+mabeal1: bets 60
+Mehdi13700B: calls 60
+*** RIVER *** [3c 8d Ah 6c] [7c]
+mabeal1: checks 
+Mehdi13700B: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Td 6h] (a pair of Sixes)
+Mehdi13700B: shows [6s Qs] (a pair of Sixes - Ace+Queen kicker)
+Mehdi13700B collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3c 8d Ah 6c 7c]
+Seat 1: mabeal1 (big blind) showed [Td 6h] and lost with a pair of Sixes
+Seat 3: Mehdi13700B (button) (small blind) showed [6s Qs] and won (180) with a pair of Sixes
+
+
+
+PokerStars Hand #259561696032: Tournament #3971393090, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:28:36 CET [2026/02/02 8:28:36 ET]
+Table '3971393090 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (810 in chips) 
+Seat 3: Mehdi13700B (690 in chips) 
+mabeal1: posts small blind 15
+Mehdi13700B: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks As]
+mabeal1: raises 45 to 75
+Mehdi13700B: raises 45 to 120
+mabeal1: raises 690 to 810 and is all-in
+Mehdi13700B: calls 570 and is all-in
+Uncalled bet (120) returned to mabeal1
+*** FLOP *** [9s 7d 8c]
+*** TURN *** [9s 7d 8c] [4d]
+*** RIVER *** [9s 7d 8c 4d] [5s]
+*** SHOW DOWN ***
+Mehdi13700B: shows [Qs Kd] (high card King)
+mabeal1: shows [Ks As] (high card Ace)
+mabeal1 collected 1380 from pot
+Mehdi13700B finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1380 | Rake 0 
+Board [9s 7d 8c 4d 5s]
+Seat 1: mabeal1 (button) (small blind) showed [Ks As] and won (1380) with high card Ace
+Seat 3: Mehdi13700B (big blind) showed [Qs Kd] and lost with high card King
+
+
+

@@ -1,0 +1,966 @@
+﻿PokerStars Hand #259588208419: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:26:17 CET [2026/02/04 9:26:17 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Friardel (500 in chips) 
+Seat 3: atxabal (500 in chips) 
+Friardel: posts small blind 10
+atxabal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 7h]
+mabeal1: raises 20 to 40
+Friardel: folds 
+atxabal: calls 20
+*** FLOP *** [Js 4d 3d]
+atxabal: checks 
+mabeal1: bets 40
+atxabal: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Js 4d 3d]
+Seat 1: mabeal1 (button) collected (90)
+Seat 2: Friardel (small blind) folded before Flop
+Seat 3: atxabal (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259588213507: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:26:50 CET [2026/02/04 9:26:50 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: Friardel (490 in chips) 
+Seat 3: atxabal (460 in chips) 
+atxabal: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Jc]
+Friardel: calls 20
+atxabal: calls 10
+mabeal1: checks 
+*** FLOP *** [5s 4c 6h]
+atxabal: bets 20
+mabeal1: raises 40 to 60
+Friardel: calls 60
+atxabal: calls 40
+*** TURN *** [5s 4c 6h] [2s]
+atxabal: checks 
+mabeal1: checks 
+Friardel: bets 410 and is all-in
+atxabal: folds 
+mabeal1: folds 
+Uncalled bet (410) returned to Friardel
+Friardel collected 240 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5s 4c 6h 2s]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Friardel (button) collected (240)
+Seat 3: atxabal (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259588220535: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:27:36 CET [2026/02/04 9:27:36 ET]
+Table '3971991715 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: Friardel (650 in chips) 
+Seat 3: atxabal (380 in chips) 
+mabeal1: posts small blind 10
+Friardel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 3c]
+atxabal: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Friardel
+Friardel collected 20 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Friardel (big blind) collected (20)
+Seat 3: atxabal (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259588222728: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 15:27:50 CET [2026/02/04 9:27:50 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: Friardel (660 in chips) 
+Seat 3: atxabal (380 in chips) 
+Friardel: posts small blind 10
+atxabal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9s]
+mabeal1: folds 
+Friardel: calls 10
+atxabal: checks 
+*** FLOP *** [8s 7s 4h]
+Friardel: bets 20
+atxabal: calls 20
+*** TURN *** [8s 7s 4h] [3c]
+Friardel: bets 20
+atxabal: calls 20
+*** RIVER *** [8s 7s 4h 3c] [Jc]
+Friardel: checks 
+atxabal: bets 120
+Friardel: folds 
+Uncalled bet (120) returned to atxabal
+atxabal collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s 7s 4h 3c Jc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Friardel (small blind) folded on the River
+Seat 3: atxabal (big blind) collected (120)
+
+
+
+PokerStars Hand #259588229260: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:28:34 CET [2026/02/04 9:28:34 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: Friardel (600 in chips) 
+Seat 3: atxabal (440 in chips) 
+atxabal: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 3s]
+Friardel: folds 
+atxabal: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: Friardel (button) folded before Flop (didn't bet)
+Seat 3: atxabal (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588230465: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:28:42 CET [2026/02/04 9:28:42 ET]
+Table '3971991715 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 2: Friardel (600 in chips) 
+Seat 3: atxabal (425 in chips) 
+mabeal1: posts small blind 15
+Friardel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 6d]
+atxabal: calls 30
+mabeal1: calls 15
+Friardel: raises 30 to 60
+atxabal: calls 30
+mabeal1: folds 
+*** FLOP *** [3h 5h 2d]
+Friardel: bets 60
+atxabal: folds 
+Uncalled bet (60) returned to Friardel
+Friardel collected 150 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [3h 5h 2d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Friardel (big blind) collected (150)
+Seat 3: atxabal (button) folded on the Flop
+
+
+
+PokerStars Hand #259588234683: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:29:10 CET [2026/02/04 9:29:10 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: Friardel (690 in chips) 
+Seat 3: atxabal (365 in chips) 
+Friardel: posts small blind 15
+atxabal: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Js]
+mabeal1: folds 
+Friardel: calls 15
+atxabal: checks 
+*** FLOP *** [4h 4s 2s]
+Friardel: bets 30
+atxabal: calls 30
+*** TURN *** [4h 4s 2s] [Ts]
+Friardel: bets 60
+atxabal: folds 
+Uncalled bet (60) returned to Friardel
+Friardel collected 120 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h 4s 2s Ts]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Friardel (small blind) collected (120)
+Seat 3: atxabal (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259588239628: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:29:42 CET [2026/02/04 9:29:42 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: Friardel (750 in chips) 
+Seat 3: atxabal (305 in chips) 
+atxabal: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 9h]
+Friardel: raises 30 to 60
+atxabal: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to Friardel
+Friardel collected 75 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Friardel (button) collected (75)
+Seat 3: atxabal (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588241298: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:29:53 CET [2026/02/04 9:29:53 ET]
+Table '3971991715 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 2: Friardel (795 in chips) 
+Seat 3: atxabal (290 in chips) 
+mabeal1: posts small blind 15
+Friardel: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 3c]
+atxabal: calls 30
+mabeal1: raises 385 to 415 and is all-in
+Friardel: folds 
+atxabal: folds 
+Uncalled bet (385) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (90)
+Seat 2: Friardel (big blind) folded before Flop
+Seat 3: atxabal (button) folded before Flop
+
+
+
+PokerStars Hand #259588242789: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 15:30:02 CET [2026/02/04 9:30:02 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 2: Friardel (765 in chips) 
+Seat 3: atxabal (260 in chips) 
+Friardel: posts small blind 15
+atxabal: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7s]
+mabeal1: folds 
+Friardel: raises 30 to 60
+atxabal: calls 30
+*** FLOP *** [7d 5d Ks]
+Friardel: bets 60
+atxabal: calls 60
+*** TURN *** [7d 5d Ks] [5h]
+Friardel: bets 120
+atxabal: folds 
+Uncalled bet (120) returned to Friardel
+Friardel collected 240 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7d 5d Ks 5h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Friardel (small blind) collected (240)
+Seat 3: atxabal (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259588249442: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:30:45 CET [2026/02/04 9:30:45 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 2: Friardel (885 in chips) 
+Seat 3: atxabal (140 in chips) 
+atxabal: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 6s]
+Friardel: calls 40
+atxabal: folds 
+mabeal1: checks 
+*** FLOP *** [9h Js Jh]
+mabeal1: checks 
+Friardel: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Friardel
+Friardel collected 100 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [9h Js Jh]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Friardel (button) collected (100)
+Seat 3: atxabal (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588252193: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:31:02 CET [2026/02/04 9:31:02 ET]
+Table '3971991715 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (435 in chips) 
+Seat 2: Friardel (945 in chips) 
+Seat 3: atxabal (120 in chips) 
+mabeal1: posts small blind 20
+Friardel: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Kd]
+atxabal: raises 80 to 120 and is all-in
+mabeal1: raises 315 to 435 and is all-in
+Friardel: folds 
+Uncalled bet (315) returned to mabeal1
+*** FLOP *** [8c As 7h]
+*** TURN *** [8c As 7h] [2s]
+*** RIVER *** [8c As 7h 2s] [Qs]
+*** SHOW DOWN ***
+mabeal1: shows [Th Kd] (high card Ace)
+atxabal: shows [Ac Td] (a pair of Aces)
+atxabal collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [8c As 7h 2s Qs]
+Seat 1: mabeal1 (small blind) showed [Th Kd] and lost with high card Ace
+Seat 2: Friardel (big blind) folded before Flop
+Seat 3: atxabal (button) showed [Ac Td] and won (280) with a pair of Aces
+
+
+
+PokerStars Hand #259588256141: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:31:27 CET [2026/02/04 9:31:27 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (315 in chips) 
+Seat 2: Friardel (905 in chips) 
+Seat 3: atxabal (280 in chips) 
+Friardel: posts small blind 20
+atxabal: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 4h]
+mabeal1: folds 
+Friardel: raises 40 to 80
+atxabal: raises 40 to 120
+Friardel: calls 40
+*** FLOP *** [2s Jc 3d]
+Friardel: bets 120
+atxabal: folds 
+Uncalled bet (120) returned to Friardel
+Friardel collected 240 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2s Jc 3d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Friardel (small blind) collected (240)
+Seat 3: atxabal (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259588261198: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 15:31:59 CET [2026/02/04 9:31:59 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (315 in chips) 
+Seat 2: Friardel (1025 in chips) 
+Seat 3: atxabal (160 in chips) 
+atxabal: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 6c]
+Friardel: raises 40 to 80
+atxabal: folds 
+mabeal1: calls 40
+*** FLOP *** [Js 3s Kc]
+mabeal1: checks 
+Friardel: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to Friardel
+Friardel collected 180 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Js 3s Kc]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Friardel (button) collected (180)
+Seat 3: atxabal (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588265640: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:32:28 CET [2026/02/04 9:32:28 ET]
+Table '3971991715 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (235 in chips) 
+Seat 2: Friardel (1125 in chips) 
+Seat 3: atxabal (140 in chips) 
+mabeal1: posts small blind 30
+Friardel: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 2h]
+atxabal: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to Friardel
+Friardel collected 60 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Friardel (big blind) collected (60)
+Seat 3: atxabal (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259588266768: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:32:35 CET [2026/02/04 9:32:35 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (205 in chips) 
+Seat 2: Friardel (1155 in chips) 
+Seat 3: atxabal (140 in chips) 
+Friardel: posts small blind 30
+atxabal: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 9d]
+mabeal1: raises 145 to 205 and is all-in
+Friardel: folds 
+atxabal: calls 80 and is all-in
+Uncalled bet (65) returned to mabeal1
+*** FLOP *** [Ad Jc 6c]
+*** TURN *** [Ad Jc 6c] [8d]
+*** RIVER *** [Ad Jc 6c 8d] [4h]
+*** SHOW DOWN ***
+atxabal: shows [Ks Qd] (high card Ace)
+mabeal1: shows [8s 9d] (a pair of Eights)
+mabeal1 collected 310 from pot
+atxabal finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [Ad Jc 6c 8d 4h]
+Seat 1: mabeal1 (button) showed [8s 9d] and won (310) with a pair of Eights
+Seat 2: Friardel (small blind) folded before Flop
+Seat 3: atxabal (big blind) showed [Ks Qd] and lost with high card Ace
+
+
+
+PokerStars Hand #259588269753: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:32:53 CET [2026/02/04 9:32:53 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (375 in chips) 
+Seat 2: Friardel (1125 in chips) 
+Friardel: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Td]
+Friardel: calls 30
+mabeal1: checks 
+*** FLOP *** [3d Kd 3c]
+mabeal1: checks 
+Friardel: bets 60
+mabeal1: raises 255 to 315 and is all-in
+Friardel: folds 
+Uncalled bet (255) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3d Kd 3c]
+Seat 1: mabeal1 (big blind) collected (240)
+Seat 2: Friardel (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259588272014: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:33:08 CET [2026/02/04 9:33:08 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (495 in chips) 
+Seat 2: Friardel (1005 in chips) 
+mabeal1: posts small blind 30
+Friardel: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Ah]
+mabeal1: raises 60 to 120
+Friardel: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 2: Friardel (big blind) folded before Flop
+
+
+
+PokerStars Hand #259588274189: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:33:22 CET [2026/02/04 9:33:22 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 2: Friardel (945 in chips) 
+Friardel: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Kc]
+Friardel: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: Friardel (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588274994: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:33:27 CET [2026/02/04 9:33:27 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (585 in chips) 
+Seat 2: Friardel (915 in chips) 
+mabeal1: posts small blind 30
+Friardel: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Qc]
+mabeal1: calls 30
+Friardel: raises 60 to 120
+mabeal1: calls 60
+*** FLOP *** [As Ts 2s]
+Friardel: bets 795 and is all-in
+mabeal1: folds 
+Uncalled bet (795) returned to Friardel
+Friardel collected 240 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [As Ts 2s]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 2: Friardel (big blind) collected (240)
+
+
+
+PokerStars Hand #259588277806: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:33:45 CET [2026/02/04 9:33:45 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (465 in chips) 
+Seat 2: Friardel (1035 in chips) 
+Friardel: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 3h]
+Friardel: calls 30
+mabeal1: checks 
+*** FLOP *** [Jc Qh As]
+mabeal1: checks 
+Friardel: bets 975 and is all-in
+mabeal1: calls 405 and is all-in
+Uncalled bet (570) returned to Friardel
+*** TURN *** [Jc Qh As] [8s]
+*** RIVER *** [Jc Qh As 8s] [7s]
+*** SHOW DOWN ***
+mabeal1: shows [Qs 3h] (a pair of Queens)
+Friardel: shows [4s 3d] (high card Ace)
+mabeal1 collected 930 from pot
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [Jc Qh As 8s 7s]
+Seat 1: mabeal1 (big blind) showed [Qs 3h] and won (930) with a pair of Queens
+Seat 2: Friardel (button) (small blind) showed [4s 3d] and lost with high card Ace
+
+
+
+PokerStars Hand #259588281504: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 15:34:08 CET [2026/02/04 9:34:08 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (930 in chips) 
+Seat 2: Friardel (570 in chips) 
+mabeal1: posts small blind 30
+Friardel: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 5c]
+mabeal1: folds 
+Uncalled bet (30) returned to Friardel
+Friardel collected 60 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: Friardel (big blind) collected (60)
+
+
+
+PokerStars Hand #259588284150: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:34:24 CET [2026/02/04 9:34:24 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 2: Friardel (600 in chips) 
+Friardel: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 6c]
+Friardel: calls 40
+mabeal1: checks 
+*** FLOP *** [7s Ac Ks]
+mabeal1: checks 
+Friardel: checks 
+*** TURN *** [7s Ac Ks] [Ah]
+mabeal1: bets 80
+Friardel: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7s Ac Ks Ah]
+Seat 1: mabeal1 (big blind) collected (160)
+Seat 2: Friardel (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259588286818: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:34:41 CET [2026/02/04 9:34:41 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 2: Friardel (520 in chips) 
+mabeal1: posts small blind 40
+Friardel: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Tc]
+mabeal1: folds 
+Uncalled bet (40) returned to Friardel
+Friardel collected 80 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: Friardel (big blind) collected (80)
+
+
+
+PokerStars Hand #259588288375: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:34:51 CET [2026/02/04 9:34:51 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 2: Friardel (560 in chips) 
+Friardel: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8d]
+Friardel: raises 80 to 160
+mabeal1: folds 
+Uncalled bet (80) returned to Friardel
+Friardel collected 160 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Friardel (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259588290877: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:35:07 CET [2026/02/04 9:35:07 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (860 in chips) 
+Seat 2: Friardel (640 in chips) 
+mabeal1: posts small blind 40
+Friardel: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Tc]
+mabeal1: folds 
+Uncalled bet (40) returned to Friardel
+Friardel collected 80 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: Friardel (big blind) collected (80)
+
+
+
+PokerStars Hand #259588291662: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:35:12 CET [2026/02/04 9:35:12 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (820 in chips) 
+Seat 2: Friardel (680 in chips) 
+Friardel: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6c]
+Friardel: calls 40
+mabeal1: checks 
+*** FLOP *** [8c 9s Js]
+mabeal1: bets 80
+Friardel: calls 80
+*** TURN *** [8c 9s Js] [6d]
+mabeal1: checks 
+Friardel: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to Friardel
+Friardel collected 320 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [8c 9s Js 6d]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Friardel (button) (small blind) collected (320)
+
+
+
+PokerStars Hand #259588294497: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:35:29 CET [2026/02/04 9:35:29 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 2: Friardel (840 in chips) 
+mabeal1: posts small blind 40
+Friardel: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Qc]
+mabeal1: calls 40
+Friardel: checks 
+*** FLOP *** [6s 3s 9s]
+Friardel: checks 
+mabeal1: checks 
+*** TURN *** [6s 3s 9s] [Ac]
+Friardel: bets 80
+mabeal1: calls 80
+*** RIVER *** [6s 3s 9s Ac] [9h]
+Friardel: bets 320
+mabeal1: calls 320
+*** SHOW DOWN ***
+Friardel: shows [4d 2c] (a pair of Nines)
+mabeal1: shows [Qs Qc] (two pair, Queens and Nines)
+mabeal1 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [6s 3s 9s Ac 9h]
+Seat 1: mabeal1 (button) (small blind) showed [Qs Qc] and won (960) with two pair, Queens and Nines
+Seat 2: Friardel (big blind) showed [4d 2c] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259588298289: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:35:53 CET [2026/02/04 9:35:53 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1140 in chips) 
+Seat 2: Friardel (360 in chips) 
+Friardel: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 5d]
+Friardel: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: Friardel (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588299329: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:36:00 CET [2026/02/04 9:36:00 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1180 in chips) 
+Seat 2: Friardel (320 in chips) 
+mabeal1: posts small blind 40
+Friardel: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Kh]
+mabeal1: raises 1100 to 1180 and is all-in
+Friardel: folds 
+Uncalled bet (1100) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 2: Friardel (big blind) folded before Flop
+
+
+
+PokerStars Hand #259588300330: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:36:07 CET [2026/02/04 9:36:07 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1260 in chips) 
+Seat 2: Friardel (240 in chips) 
+Friardel: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Kh]
+Friardel: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: Friardel (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588301154: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 15:36:12 CET [2026/02/04 9:36:12 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1300 in chips) 
+Seat 2: Friardel (200 in chips) 
+mabeal1: posts small blind 40
+Friardel: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6s]
+mabeal1: raises 1220 to 1300 and is all-in
+Friardel: calls 120 and is all-in
+Uncalled bet (1100) returned to mabeal1
+*** FLOP *** [Kd Ad 8d]
+*** TURN *** [Kd Ad 8d] [7d]
+*** RIVER *** [Kd Ad 8d 7d] [3s]
+*** SHOW DOWN ***
+Friardel: shows [Ks 2d] (a flush, Ace high)
+mabeal1: shows [6c 6s] (a pair of Sixes)
+Friardel collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Kd Ad 8d 7d 3s]
+Seat 1: mabeal1 (button) (small blind) showed [6c 6s] and lost with a pair of Sixes
+Seat 2: Friardel (big blind) showed [Ks 2d] and won (400) with a flush, Ace high
+
+
+
+PokerStars Hand #259588303838: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level VI (50/100) - 2026/02/04 15:36:28 CET [2026/02/04 9:36:28 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1100 in chips) 
+Seat 2: Friardel (400 in chips) 
+Friardel: posts small blind 50
+mabeal1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Jc]
+Friardel: calls 50
+mabeal1: raises 1000 to 1100 and is all-in
+Friardel: folds 
+Uncalled bet (1000) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (200)
+Seat 2: Friardel (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588305492: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level VI (50/100) - 2026/02/04 15:36:39 CET [2026/02/04 9:36:39 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1200 in chips) 
+Seat 2: Friardel (300 in chips) 
+mabeal1: posts small blind 50
+Friardel: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Js]
+mabeal1: raises 1100 to 1200 and is all-in
+Friardel: calls 200 and is all-in
+Uncalled bet (900) returned to mabeal1
+*** FLOP *** [2c 8s Qc]
+*** TURN *** [2c 8s Qc] [9d]
+*** RIVER *** [2c 8s Qc 9d] [5d]
+*** SHOW DOWN ***
+Friardel: shows [Qd Kd] (a pair of Queens)
+mabeal1: shows [Jc Js] (a pair of Jacks)
+Friardel collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [2c 8s Qc 9d 5d]
+Seat 1: mabeal1 (button) (small blind) showed [Jc Js] and lost with a pair of Jacks
+Seat 2: Friardel (big blind) showed [Qd Kd] and won (600) with a pair of Queens
+
+
+
+PokerStars Hand #259588308004: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level VI (50/100) - 2026/02/04 15:36:55 CET [2026/02/04 9:36:55 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 2: Friardel (600 in chips) 
+Friardel: posts small blind 50
+mabeal1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Td]
+Friardel: folds 
+Uncalled bet (50) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (100)
+Seat 2: Friardel (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259588309575: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level VI (50/100) - 2026/02/04 15:37:04 CET [2026/02/04 9:37:04 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (950 in chips) 
+Seat 2: Friardel (550 in chips) 
+mabeal1: posts small blind 50
+Friardel: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Td]
+mabeal1: raises 850 to 950 and is all-in
+Friardel: calls 450 and is all-in
+Uncalled bet (400) returned to mabeal1
+*** FLOP *** [8c 9s 4c]
+*** TURN *** [8c 9s 4c] [Qd]
+*** RIVER *** [8c 9s 4c Qd] [7s]
+*** SHOW DOWN ***
+Friardel: shows [Qs Kh] (a pair of Queens)
+mabeal1: shows [Tc Td] (a pair of Tens)
+Friardel collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [8c 9s 4c Qd 7s]
+Seat 1: mabeal1 (button) (small blind) showed [Tc Td] and lost with a pair of Tens
+Seat 2: Friardel (big blind) showed [Qs Kh] and won (1100) with a pair of Queens
+
+
+
+PokerStars Hand #259588311681: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level VI (50/100) - 2026/02/04 15:37:18 CET [2026/02/04 9:37:18 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: Friardel (1100 in chips) 
+Friardel: posts small blind 50
+mabeal1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Td]
+Friardel: raises 100 to 200
+mabeal1: folds 
+Uncalled bet (100) returned to Friardel
+Friardel collected 200 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Friardel (button) (small blind) collected (200)
+
+
+
+PokerStars Hand #259588313044: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level VI (50/100) - 2026/02/04 15:37:26 CET [2026/02/04 9:37:26 ET]
+Table '3971991715 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (300 in chips) 
+Seat 2: Friardel (1200 in chips) 
+mabeal1: posts small blind 50
+Friardel: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 5h]
+mabeal1: folds 
+Uncalled bet (50) returned to Friardel
+Friardel collected 100 from pot
+Friardel: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: Friardel (big blind) collected (100)
+
+
+
+PokerStars Hand #259588313883: Tournament #3971991715, €0.46+€0.04 EUR Hold'em No Limit - Level VI (50/100) - 2026/02/04 15:37:31 CET [2026/02/04 9:37:31 ET]
+Table '3971991715 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (250 in chips) 
+Seat 2: Friardel (1250 in chips) 
+Friardel: posts small blind 50
+mabeal1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qd]
+Friardel: raises 100 to 200
+mabeal1: raises 50 to 250 and is all-in
+Friardel: calls 50
+*** FLOP *** [8h Jd 3h]
+*** TURN *** [8h Jd 3h] [6h]
+*** RIVER *** [8h Jd 3h 6h] [7c]
+*** SHOW DOWN ***
+mabeal1: shows [3s Qd] (a pair of Threes)
+Friardel: shows [Kh Ks] (a pair of Kings)
+Friardel collected 500 from pot
+mabeal1 finished the tournament in 2nd place
+Friardel wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [8h Jd 3h 6h 7c]
+Seat 1: mabeal1 (big blind) showed [3s Qd] and lost with a pair of Threes
+Seat 2: Friardel (button) (small blind) showed [Kh Ks] and won (500) with a pair of Kings
+
+
+

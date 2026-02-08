@@ -1,0 +1,265 @@
+﻿PokerStars Hand #259572466651: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:57:07 CET [2026/02/02 21:57:07 ET]
+Table '3971614128 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: usuario1901 (500 in chips) 
+Seat 3: Yoyotorex (500 in chips) 
+usuario1901: posts small blind 10
+Yoyotorex: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 3h]
+mabeal1: folds 
+usuario1901: calls 10
+Yoyotorex: checks 
+*** FLOP *** [6c 5d 7c]
+usuario1901: checks 
+Yoyotorex: bets 20
+usuario1901: folds 
+Uncalled bet (20) returned to Yoyotorex
+Yoyotorex collected 40 from pot
+Yoyotorex: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c 5d 7c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: usuario1901 (small blind) folded on the Flop
+Seat 3: Yoyotorex (big blind) collected (40)
+
+
+
+PokerStars Hand #259572468784: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:57:32 CET [2026/02/02 21:57:32 ET]
+Table '3971614128 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: usuario1901 (480 in chips) 
+Seat 3: Yoyotorex (520 in chips) 
+Yoyotorex: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7h]
+usuario1901: folds 
+Yoyotorex: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: usuario1901 (button) folded before Flop (didn't bet)
+Seat 3: Yoyotorex (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572469611: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:57:43 CET [2026/02/02 21:57:43 ET]
+Table '3971614128 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: usuario1901 (480 in chips) 
+Seat 3: Yoyotorex (510 in chips) 
+mabeal1: posts small blind 10
+usuario1901: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Kc]
+Yoyotorex: raises 20 to 40
+mabeal1: folds 
+usuario1901: calls 20
+*** FLOP *** [8h Qs 6c]
+usuario1901: checks 
+Yoyotorex: bets 30
+usuario1901: calls 30
+*** TURN *** [8h Qs 6c] [7h]
+usuario1901: checks 
+Yoyotorex: bets 100
+usuario1901: raises 310 to 410 and is all-in
+Yoyotorex: calls 310
+*** RIVER *** [8h Qs 6c 7h] [6h]
+*** SHOW DOWN ***
+usuario1901: shows [5h Ks] (a pair of Sixes)
+Yoyotorex: shows [9s Ad] (a pair of Sixes - Ace kicker)
+Yoyotorex collected 970 from pot
+usuario1901 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [8h Qs 6c 7h 6h]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: usuario1901 (big blind) showed [5h Ks] and lost with a pair of Sixes
+Seat 3: Yoyotorex (button) showed [9s Ad] and won (970) with a pair of Sixes
+
+
+
+PokerStars Hand #259572474985: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:58:44 CET [2026/02/02 21:58:44 ET]
+Table '3971614128 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 3: Yoyotorex (1000 in chips) 
+mabeal1: posts small blind 10
+Yoyotorex: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 3d]
+mabeal1: calls 10
+Yoyotorex: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to Yoyotorex
+Yoyotorex collected 40 from pot
+Yoyotorex: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Yoyotorex (big blind) collected (40)
+
+
+
+PokerStars Hand #259572476480: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:01 CET [2026/02/02 21:59:01 ET]
+Table '3971614128 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 3: Yoyotorex (1020 in chips) 
+Yoyotorex: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 9h]
+Yoyotorex: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to Yoyotorex
+Yoyotorex collected 40 from pot
+Yoyotorex: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: Yoyotorex (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259572477338: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:11 CET [2026/02/02 21:59:11 ET]
+Table '3971614128 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 3: Yoyotorex (1040 in chips) 
+mabeal1: posts small blind 10
+Yoyotorex: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4s]
+mabeal1: calls 10
+Yoyotorex: checks 
+*** FLOP *** [9c 6c Td]
+Yoyotorex: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Yoyotorex
+Yoyotorex collected 40 from pot
+Yoyotorex: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c 6c Td]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: Yoyotorex (big blind) collected (40)
+
+
+
+PokerStars Hand #259572478391: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:22 CET [2026/02/02 21:59:22 ET]
+Table '3971614128 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 3: Yoyotorex (1060 in chips) 
+Yoyotorex: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc As]
+Yoyotorex: calls 10
+mabeal1: raises 60 to 80
+Yoyotorex: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: Yoyotorex (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572479255: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:32 CET [2026/02/02 21:59:32 ET]
+Table '3971614128 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 3: Yoyotorex (1040 in chips) 
+mabeal1: posts small blind 10
+Yoyotorex: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6d]
+mabeal1: raises 440 to 460 and is all-in
+Yoyotorex: folds 
+Uncalled bet (440) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: Yoyotorex (big blind) folded before Flop
+
+
+
+PokerStars Hand #259572479913: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:40 CET [2026/02/02 21:59:40 ET]
+Table '3971614128 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 3: Yoyotorex (1020 in chips) 
+Yoyotorex: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 5s]
+Yoyotorex: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to Yoyotorex
+Yoyotorex collected 40 from pot
+Yoyotorex: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: Yoyotorex (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259572480492: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:46 CET [2026/02/02 21:59:46 ET]
+Table '3971614128 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 3: Yoyotorex (1040 in chips) 
+mabeal1: posts small blind 10
+Yoyotorex: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 9c]
+mabeal1: calls 10
+Yoyotorex: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to Yoyotorex
+Yoyotorex collected 40 from pot
+Yoyotorex: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Yoyotorex (big blind) collected (40)
+
+
+
+PokerStars Hand #259572481283: Tournament #3971614128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:55 CET [2026/02/02 21:59:55 ET]
+Table '3971614128 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 3: Yoyotorex (1060 in chips) 
+Yoyotorex: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Qh]
+Yoyotorex: calls 10
+mabeal1: raises 40 to 60
+Yoyotorex: calls 40
+*** FLOP *** [Tc Kh Qd]
+mabeal1: bets 60
+Yoyotorex: raises 60 to 120
+mabeal1: raises 260 to 380 and is all-in
+Yoyotorex: calls 260
+*** TURN *** [Tc Kh Qd] [Ts]
+*** RIVER *** [Tc Kh Qd Ts] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [7h Qh] (two pair, Queens and Tens)
+Yoyotorex: shows [Ks 3d] (two pair, Kings and Tens)
+Yoyotorex collected 880 from pot
+mabeal1 finished the tournament in 2nd place
+Yoyotorex wins the tournament and receives €5.00 - congratulations!
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Tc Kh Qd Ts 4c]
+Seat 1: mabeal1 (big blind) showed [7h Qh] and lost with two pair, Queens and Tens
+Seat 3: Yoyotorex (button) (small blind) showed [Ks 3d] and won (880) with two pair, Kings and Tens
+
+
+

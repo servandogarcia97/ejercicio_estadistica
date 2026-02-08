@@ -1,0 +1,635 @@
+﻿PokerStars Hand #259576861121: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:47:07 CET [2026/02/03 10:47:07 ET]
+Table '3971729662 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: george_as_78 (500 in chips) 
+Seat 3: panchau32 (500 in chips) 
+george_as_78: posts small blind 10
+panchau32: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 3c]
+mabeal1: raises 20 to 40
+george_as_78: raises 460 to 500 and is all-in
+panchau32: folds 
+mabeal1: folds 
+Uncalled bet (460) returned to george_as_78
+george_as_78 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: george_as_78 (small blind) collected (100)
+Seat 3: panchau32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576863246: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:47:19 CET [2026/02/03 10:47:19 ET]
+Table '3971729662 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: george_as_78 (560 in chips) 
+Seat 3: panchau32 (480 in chips) 
+panchau32: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 6c]
+george_as_78: folds 
+panchau32: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to panchau32
+panchau32 collected 40 from pot
+panchau32: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: george_as_78 (button) folded before Flop (didn't bet)
+Seat 3: panchau32 (small blind) collected (40)
+
+
+
+PokerStars Hand #259576866067: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:47:35 CET [2026/02/03 10:47:35 ET]
+Table '3971729662 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: george_as_78 (560 in chips) 
+Seat 3: panchau32 (500 in chips) 
+mabeal1: posts small blind 10
+george_as_78: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 9d]
+panchau32: calls 20
+mabeal1: calls 10
+george_as_78: checks 
+*** FLOP *** [Ad 4h 7s]
+mabeal1: checks 
+george_as_78: checks 
+panchau32: bets 20
+mabeal1: folds 
+george_as_78: folds 
+Uncalled bet (20) returned to panchau32
+panchau32 collected 60 from pot
+panchau32: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ad 4h 7s]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: george_as_78 (big blind) folded on the Flop
+Seat 3: panchau32 (button) collected (60)
+
+
+
+PokerStars Hand #259576869987: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:47:57 CET [2026/02/03 10:47:57 ET]
+Table '3971729662 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: george_as_78 (540 in chips) 
+Seat 3: panchau32 (540 in chips) 
+george_as_78: posts small blind 10
+panchau32: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Ts]
+mabeal1: raises 20 to 40
+george_as_78: calls 30
+panchau32: calls 20
+*** FLOP *** [5c Jc Kh]
+george_as_78: checks 
+panchau32: checks 
+mabeal1: bets 60
+george_as_78: folds 
+panchau32: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c Jc Kh]
+Seat 1: mabeal1 (button) collected (120)
+Seat 2: george_as_78 (small blind) folded on the Flop
+Seat 3: panchau32 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259576873799: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:48:18 CET [2026/02/03 10:48:18 ET]
+Table '3971729662 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: george_as_78 (500 in chips) 
+Seat 3: panchau32 (500 in chips) 
+panchau32: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 3d]
+george_as_78: folds 
+panchau32: calls 10
+mabeal1: checks 
+*** FLOP *** [Qs 2c 7d]
+panchau32: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to panchau32
+panchau32 collected 40 from pot
+panchau32: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs 2c 7d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: george_as_78 (button) folded before Flop (didn't bet)
+Seat 3: panchau32 (small blind) collected (40)
+
+
+
+PokerStars Hand #259576876483: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:48:32 CET [2026/02/03 10:48:32 ET]
+Table '3971729662 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: george_as_78 (500 in chips) 
+Seat 3: panchau32 (520 in chips) 
+mabeal1: posts small blind 10
+george_as_78: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 5h]
+panchau32: calls 20
+mabeal1: folds 
+george_as_78: checks 
+*** FLOP *** [6h Kc 2s]
+george_as_78: checks 
+panchau32: checks 
+*** TURN *** [6h Kc 2s] [Ks]
+george_as_78: checks 
+panchau32: checks 
+*** RIVER *** [6h Kc 2s Ks] [8c]
+george_as_78: checks 
+panchau32: checks 
+*** SHOW DOWN ***
+george_as_78: shows [9h 3d] (a pair of Kings)
+panchau32: shows [Js 4c] (a pair of Kings - Jack kicker)
+panchau32 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [6h Kc 2s Ks 8c]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: george_as_78 (big blind) showed [9h 3d] and lost with a pair of Kings
+Seat 3: panchau32 (button) showed [Js 4c] and won (50) with a pair of Kings
+
+
+
+PokerStars Hand #259576881686: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:49:01 CET [2026/02/03 10:49:01 ET]
+Table '3971729662 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: george_as_78 (480 in chips) 
+Seat 3: panchau32 (550 in chips) 
+george_as_78: posts small blind 10
+panchau32: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ks]
+mabeal1: raises 20 to 40
+george_as_78: folds 
+panchau32: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: george_as_78 (small blind) folded before Flop
+Seat 3: panchau32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576883439: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:49:11 CET [2026/02/03 10:49:11 ET]
+Table '3971729662 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: george_as_78 (470 in chips) 
+Seat 3: panchau32 (530 in chips) 
+panchau32: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9s]
+george_as_78: folds 
+panchau32: calls 10
+mabeal1: checks 
+*** FLOP *** [Qs 4h 2s]
+panchau32: bets 20
+mabeal1: raises 40 to 60
+panchau32: calls 40
+*** TURN *** [Qs 4h 2s] [Ah]
+panchau32: checks 
+mabeal1: checks 
+*** RIVER *** [Qs 4h 2s Ah] [8d]
+panchau32: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+panchau32: shows [7c 9h] (high card Ace)
+mabeal1: shows [4s 9s] (a pair of Fours)
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs 4h 2s Ah 8d]
+Seat 1: mabeal1 (big blind) showed [4s 9s] and won (160) with a pair of Fours
+Seat 2: george_as_78 (button) folded before Flop (didn't bet)
+Seat 3: panchau32 (small blind) showed [7c 9h] and lost with high card Ace
+
+
+
+PokerStars Hand #259576887235: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:49:33 CET [2026/02/03 10:49:33 ET]
+Table '3971729662 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: george_as_78 (470 in chips) 
+Seat 3: panchau32 (450 in chips) 
+mabeal1: posts small blind 10
+george_as_78: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9d]
+panchau32: calls 20
+mabeal1: folds 
+george_as_78: checks 
+*** FLOP *** [4h 4d Kh]
+george_as_78: checks 
+panchau32: checks 
+*** TURN *** [4h 4d Kh] [Qd]
+george_as_78: checks 
+panchau32: checks 
+*** RIVER *** [4h 4d Kh Qd] [3s]
+george_as_78: checks 
+panchau32: checks 
+*** SHOW DOWN ***
+george_as_78: shows [6h 7d] (a pair of Fours)
+panchau32: shows [6c 8s] (a pair of Fours - King+Queen+Eight kicker)
+panchau32 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4h 4d Kh Qd 3s]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: george_as_78 (big blind) showed [6h 7d] and lost with a pair of Fours
+Seat 3: panchau32 (button) showed [6c 8s] and won (50) with a pair of Fours
+
+
+
+PokerStars Hand #259576897781: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:50:32 CET [2026/02/03 10:50:32 ET]
+Table '3971729662 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: george_as_78 (450 in chips) 
+Seat 3: panchau32 (480 in chips) 
+george_as_78: posts small blind 15
+panchau32: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 6d]
+mabeal1: folds 
+george_as_78: raises 420 to 450 and is all-in
+panchau32: folds 
+Uncalled bet (420) returned to george_as_78
+george_as_78 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: george_as_78 (small blind) collected (60)
+Seat 3: panchau32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576899455: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:50:42 CET [2026/02/03 10:50:42 ET]
+Table '3971729662 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: george_as_78 (480 in chips) 
+Seat 3: panchau32 (450 in chips) 
+panchau32: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Jh]
+george_as_78: folds 
+panchau32: calls 15
+mabeal1: checks 
+*** FLOP *** [Ts Th 8c]
+panchau32: checks 
+mabeal1: checks 
+*** TURN *** [Ts Th 8c] [5d]
+panchau32: checks 
+mabeal1: checks 
+*** RIVER *** [Ts Th 8c 5d] [4s]
+panchau32: bets 30
+mabeal1: raises 90 to 120
+panchau32: calls 90
+*** SHOW DOWN ***
+mabeal1: shows [6c Jh] (a pair of Tens)
+panchau32: shows [9h 5s] (two pair, Tens and Fives)
+panchau32 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ts Th 8c 5d 4s]
+Seat 1: mabeal1 (big blind) showed [6c Jh] and lost with a pair of Tens
+Seat 2: george_as_78 (button) folded before Flop (didn't bet)
+Seat 3: panchau32 (small blind) showed [9h 5s] and won (300) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #259576903863: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:51:07 CET [2026/02/03 10:51:07 ET]
+Table '3971729662 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: george_as_78 (480 in chips) 
+Seat 3: panchau32 (600 in chips) 
+mabeal1: posts small blind 15
+george_as_78: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 7h]
+panchau32: calls 30
+mabeal1: folds 
+george_as_78: checks 
+*** FLOP *** [5c 6c 5h]
+george_as_78: bets 450 and is all-in
+panchau32: folds 
+Uncalled bet (450) returned to george_as_78
+george_as_78 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [5c 6c 5h]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: george_as_78 (big blind) collected (75)
+Seat 3: panchau32 (button) folded on the Flop
+
+
+
+PokerStars Hand #259576906735: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:51:22 CET [2026/02/03 10:51:22 ET]
+Table '3971729662 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (405 in chips) 
+Seat 2: george_as_78 (525 in chips) 
+Seat 3: panchau32 (570 in chips) 
+george_as_78: posts small blind 15
+panchau32: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Ah]
+mabeal1: raises 375 to 405 and is all-in
+george_as_78: folds 
+panchau32: folds 
+Uncalled bet (375) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (button) collected (75)
+Seat 2: george_as_78 (small blind) folded before Flop
+Seat 3: panchau32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576908580: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:51:33 CET [2026/02/03 10:51:33 ET]
+Table '3971729662 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (450 in chips) 
+Seat 2: george_as_78 (510 in chips) 
+Seat 3: panchau32 (540 in chips) 
+panchau32: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Qh]
+george_as_78: folds 
+panchau32: calls 15
+mabeal1: checks 
+*** FLOP *** [4h 2c 5s]
+panchau32: checks 
+mabeal1: checks 
+*** TURN *** [4h 2c 5s] [7h]
+panchau32: checks 
+mabeal1: checks 
+*** RIVER *** [4h 2c 5s 7h] [3h]
+panchau32: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+panchau32: shows [9h Kd] (high card King)
+mabeal1: mucks hand 
+panchau32 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 2c 5s 7h 3h]
+Seat 1: mabeal1 (big blind) mucked [8s Qh]
+Seat 2: george_as_78 (button) folded before Flop (didn't bet)
+Seat 3: panchau32 (small blind) showed [9h Kd] and won (60) with high card King
+
+
+
+PokerStars Hand #259576912871: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:51:57 CET [2026/02/03 10:51:57 ET]
+Table '3971729662 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: george_as_78 (510 in chips) 
+Seat 3: panchau32 (570 in chips) 
+mabeal1: posts small blind 15
+george_as_78: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 7c]
+panchau32: calls 30
+mabeal1: folds 
+george_as_78: raises 60 to 90
+panchau32: folds 
+Uncalled bet (60) returned to george_as_78
+george_as_78 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: george_as_78 (big blind) collected (75)
+Seat 3: panchau32 (button) folded before Flop
+
+
+
+PokerStars Hand #259576916132: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:52:15 CET [2026/02/03 10:52:15 ET]
+Table '3971729662 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (405 in chips) 
+Seat 2: george_as_78 (555 in chips) 
+Seat 3: panchau32 (540 in chips) 
+george_as_78: posts small blind 15
+panchau32: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 7d]
+mabeal1: folds 
+george_as_78: calls 15
+panchau32: checks 
+*** FLOP *** [Qd Kd Ks]
+george_as_78: bets 30
+panchau32: calls 30
+*** TURN *** [Qd Kd Ks] [6c]
+george_as_78: checks 
+panchau32: bets 30
+george_as_78: folds 
+Uncalled bet (30) returned to panchau32
+panchau32 collected 120 from pot
+panchau32: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd Kd Ks 6c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: george_as_78 (small blind) folded on the Turn
+Seat 3: panchau32 (big blind) collected (120)
+
+
+
+PokerStars Hand #259576922032: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:52:47 CET [2026/02/03 10:52:47 ET]
+Table '3971729662 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (405 in chips) 
+Seat 2: george_as_78 (495 in chips) 
+Seat 3: panchau32 (600 in chips) 
+panchau32: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ad]
+george_as_78: folds 
+panchau32: calls 15
+mabeal1: raises 90 to 120
+panchau32: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: george_as_78 (button) folded before Flop (didn't bet)
+Seat 3: panchau32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576924244: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:53:00 CET [2026/02/03 10:53:00 ET]
+Table '3971729662 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (435 in chips) 
+Seat 2: george_as_78 (495 in chips) 
+Seat 3: panchau32 (570 in chips) 
+mabeal1: posts small blind 15
+george_as_78: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6s]
+panchau32: calls 30
+mabeal1: raises 405 to 435 and is all-in
+george_as_78: folds 
+panchau32: folds 
+Uncalled bet (405) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (90)
+Seat 2: george_as_78 (big blind) folded before Flop
+Seat 3: panchau32 (button) folded before Flop
+
+
+
+PokerStars Hand #259576926798: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:53:14 CET [2026/02/03 10:53:14 ET]
+Table '3971729662 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (495 in chips) 
+Seat 2: george_as_78 (465 in chips) 
+Seat 3: panchau32 (540 in chips) 
+george_as_78: posts small blind 20
+panchau32: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qc]
+mabeal1: raises 40 to 80
+george_as_78: folds 
+panchau32: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) collected (100)
+Seat 2: george_as_78 (small blind) folded before Flop
+Seat 3: panchau32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576928095: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:53:22 CET [2026/02/03 10:53:22 ET]
+Table '3971729662 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 2: george_as_78 (445 in chips) 
+Seat 3: panchau32 (500 in chips) 
+panchau32: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Qs]
+george_as_78: raises 60 to 100
+panchau32: folds 
+mabeal1: calls 60
+*** FLOP *** [6c 8s 9h]
+mabeal1: checks 
+george_as_78: bets 80
+mabeal1: calls 80
+*** TURN *** [6c 8s 9h] [4s]
+mabeal1: checks 
+george_as_78: checks 
+*** RIVER *** [6c 8s 9h 4s] [7d]
+mabeal1: checks 
+george_as_78: bets 230
+mabeal1: calls 230
+*** SHOW DOWN ***
+george_as_78: shows [Ts Kd] (a straight, Six to Ten)
+mabeal1: mucks hand 
+george_as_78 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [6c 8s 9h 4s 7d]
+Seat 1: mabeal1 (big blind) mucked [Kc Qs]
+Seat 2: george_as_78 (button) showed [Ts Kd] and won (840) with a straight, Six to Ten
+Seat 3: panchau32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576937336: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:54:14 CET [2026/02/03 10:54:14 ET]
+Table '3971729662 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (145 in chips) 
+Seat 2: george_as_78 (875 in chips) 
+Seat 3: panchau32 (480 in chips) 
+mabeal1: posts small blind 20
+george_as_78: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Qd]
+panchau32: raises 40 to 80
+mabeal1: folds 
+george_as_78: folds 
+Uncalled bet (40) returned to panchau32
+panchau32 collected 100 from pot
+panchau32: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: george_as_78 (big blind) folded before Flop
+Seat 3: panchau32 (button) collected (100)
+
+
+
+PokerStars Hand #259576939073: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:54:23 CET [2026/02/03 10:54:23 ET]
+Table '3971729662 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (125 in chips) 
+Seat 2: george_as_78 (835 in chips) 
+Seat 3: panchau32 (540 in chips) 
+george_as_78: posts small blind 20
+panchau32: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5d]
+mabeal1: folds 
+george_as_78: folds 
+Uncalled bet (20) returned to panchau32
+panchau32 collected 40 from pot
+panchau32: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: george_as_78 (small blind) folded before Flop
+Seat 3: panchau32 (big blind) collected (40)
+
+
+
+PokerStars Hand #259576940063: Tournament #3971729662, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 16:54:29 CET [2026/02/03 10:54:29 ET]
+Table '3971729662 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (125 in chips) 
+Seat 2: george_as_78 (815 in chips) 
+Seat 3: panchau32 (560 in chips) 
+panchau32: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 7c]
+george_as_78: folds 
+panchau32: calls 20
+mabeal1: raises 85 to 125 and is all-in
+panchau32: calls 85
+*** FLOP *** [8h Ac 5s]
+*** TURN *** [8h Ac 5s] [Th]
+*** RIVER *** [8h Ac 5s Th] [2c]
+*** SHOW DOWN ***
+panchau32: shows [4h 8s] (a pair of Eights)
+mabeal1: shows [7h 7c] (a pair of Sevens)
+panchau32 collected 250 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [8h Ac 5s Th 2c]
+Seat 1: mabeal1 (big blind) showed [7h 7c] and lost with a pair of Sevens
+Seat 2: george_as_78 (button) folded before Flop (didn't bet)
+Seat 3: panchau32 (small blind) showed [4h 8s] and won (250) with a pair of Eights
+
+
+

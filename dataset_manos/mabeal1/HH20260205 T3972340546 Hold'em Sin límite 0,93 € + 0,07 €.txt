@@ -1,0 +1,559 @@
+﻿PokerStars Hand #259602772697: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:04:59 CET [2026/02/05 12:04:59 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: sanc.pt (500 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Jh]
+Jorgecheca1991: raises 20 to 40
+mabeal1: folds 
+sanc.pt: calls 20
+*** FLOP *** [4h 9h As]
+sanc.pt: checks 
+Jorgecheca1991: bets 40
+sanc.pt: calls 40
+*** TURN *** [4h 9h As] [5h]
+sanc.pt: bets 20
+Jorgecheca1991: raises 100 to 120
+sanc.pt: calls 100
+*** RIVER *** [4h 9h As 5h] [3h]
+sanc.pt: bets 205
+Jorgecheca1991: raises 95 to 300 and is all-in
+sanc.pt: calls 95 and is all-in
+*** SHOW DOWN ***
+Jorgecheca1991: shows [4d Ah] (a flush, Ace high)
+sanc.pt: shows [9c Qh] (a flush, Queen high)
+Jorgecheca1991 collected 1010 from pot
+sanc.pt finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [4h 9h As 5h 3h]
+Seat 1: Jorgecheca1991 (button) showed [4d Ah] and won (1010) with a flush, Ace high
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) showed [9c Qh] and lost with a flush, Queen high
+
+
+
+PokerStars Hand #259602780396: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:05:38 CET [2026/02/05 12:05:38 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+mabeal1: posts small blind 10
+Jorgecheca1991: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Td]
+mabeal1: raises 20 to 40
+Jorgecheca1991: calls 20
+*** FLOP *** [Tc 9h 9c]
+Jorgecheca1991: checks 
+mabeal1: bets 30
+Jorgecheca1991: raises 70 to 100
+mabeal1: calls 70
+*** TURN *** [Tc 9h 9c] [Ts]
+Jorgecheca1991: bets 80
+mabeal1: raises 80 to 160
+Jorgecheca1991: calls 80
+*** RIVER *** [Tc 9h 9c Ts] [6s]
+Jorgecheca1991: checks 
+mabeal1: bets 190 and is all-in
+Jorgecheca1991: calls 190
+*** SHOW DOWN ***
+mabeal1: shows [Qc Td] (a full house, Tens full of Nines)
+Jorgecheca1991: shows [9d 3s] (a full house, Nines full of Tens)
+mabeal1 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Tc 9h 9c Ts 6s]
+Seat 1: Jorgecheca1991 (big blind) showed [9d 3s] and lost with a full house, Nines full of Tens
+Seat 2: mabeal1 (button) (small blind) showed [Qc Td] and won (980) with a full house, Tens full of Nines
+
+
+
+PokerStars Hand #259602788151: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:06:17 CET [2026/02/05 12:06:17 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (520 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+Jorgecheca1991: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 6s]
+Jorgecheca1991: calls 10
+mabeal1: raises 960 to 980 and is all-in
+Jorgecheca1991: folds 
+Uncalled bet (960) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jorgecheca1991 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259602789708: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:06:25 CET [2026/02/05 12:06:25 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (500 in chips) 
+Seat 2: mabeal1 (1000 in chips) 
+mabeal1: posts small blind 10
+Jorgecheca1991: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Ad]
+mabeal1: raises 980 to 1000 and is all-in
+Jorgecheca1991: folds 
+Uncalled bet (980) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jorgecheca1991 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259602790846: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:06:31 CET [2026/02/05 12:06:31 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (480 in chips) 
+Seat 2: mabeal1 (1020 in chips) 
+Jorgecheca1991: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 7d]
+Jorgecheca1991: calls 10
+mabeal1: checks 
+*** FLOP *** [7c 8d 5h]
+mabeal1: checks 
+Jorgecheca1991: checks 
+*** TURN *** [7c 8d 5h] [Ad]
+mabeal1: bets 20
+Jorgecheca1991: calls 20
+*** RIVER *** [7c 8d 5h Ad] [Ah]
+mabeal1: bets 40
+Jorgecheca1991: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c 8d 5h Ad Ah]
+Seat 1: Jorgecheca1991 (button) (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259602793346: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:06:44 CET [2026/02/05 12:06:44 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (440 in chips) 
+Seat 2: mabeal1 (1060 in chips) 
+mabeal1: posts small blind 10
+Jorgecheca1991: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 6d]
+mabeal1: calls 10
+Jorgecheca1991: checks 
+*** FLOP *** [2h Kd 2c]
+Jorgecheca1991: checks 
+mabeal1: bets 20
+Jorgecheca1991: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2h Kd 2c]
+Seat 1: Jorgecheca1991 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259602795031: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:06:53 CET [2026/02/05 12:06:53 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (420 in chips) 
+Seat 2: mabeal1 (1080 in chips) 
+Jorgecheca1991: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Qd]
+Jorgecheca1991: calls 10
+mabeal1: checks 
+*** FLOP *** [Qc 4s Jd]
+mabeal1: checks 
+Jorgecheca1991: checks 
+*** TURN *** [Qc 4s Jd] [7h]
+mabeal1: bets 30
+Jorgecheca1991: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qc 4s Jd 7h]
+Seat 1: Jorgecheca1991 (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259602798504: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:07:11 CET [2026/02/05 12:07:11 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (400 in chips) 
+Seat 2: mabeal1 (1100 in chips) 
+mabeal1: posts small blind 15
+Jorgecheca1991: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Jd]
+mabeal1: calls 15
+Jorgecheca1991: checks 
+*** FLOP *** [8d 9c Ac]
+Jorgecheca1991: checks 
+mabeal1: checks 
+*** TURN *** [8d 9c Ac] [6s]
+Jorgecheca1991: checks 
+mabeal1: bets 30
+Jorgecheca1991: calls 30
+*** RIVER *** [8d 9c Ac 6s] [3h]
+Jorgecheca1991: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Jorgecheca1991: shows [6d 5d] (a pair of Sixes)
+mabeal1: mucks hand 
+Jorgecheca1991 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 9c Ac 6s 3h]
+Seat 1: Jorgecheca1991 (big blind) showed [6d 5d] and won (120) with a pair of Sixes
+Seat 2: mabeal1 (button) (small blind) mucked [5s Jd]
+
+
+
+PokerStars Hand #259602802268: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:07:30 CET [2026/02/05 12:07:30 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (460 in chips) 
+Seat 2: mabeal1 (1040 in chips) 
+Jorgecheca1991: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Js]
+Jorgecheca1991: calls 15
+mabeal1: checks 
+*** FLOP *** [4s 2c Ad]
+mabeal1: checks 
+Jorgecheca1991: checks 
+*** TURN *** [4s 2c Ad] [Ac]
+mabeal1: checks 
+Jorgecheca1991: checks 
+*** RIVER *** [4s 2c Ad Ac] [6c]
+mabeal1: checks 
+Jorgecheca1991: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Jorgecheca1991
+Jorgecheca1991 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s 2c Ad Ac 6c]
+Seat 1: Jorgecheca1991 (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259602805637: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:07:48 CET [2026/02/05 12:07:48 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (490 in chips) 
+Seat 2: mabeal1 (1010 in chips) 
+mabeal1: posts small blind 15
+Jorgecheca1991: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6d]
+mabeal1: calls 15
+Jorgecheca1991: checks 
+*** FLOP *** [6s Ah 7s]
+Jorgecheca1991: checks 
+mabeal1: bets 30
+Jorgecheca1991: calls 30
+*** TURN *** [6s Ah 7s] [4h]
+Jorgecheca1991: checks 
+mabeal1: bets 150
+Jorgecheca1991: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6s Ah 7s 4h]
+Seat 1: Jorgecheca1991 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259602808353: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:08:01 CET [2026/02/05 12:08:01 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (430 in chips) 
+Seat 2: mabeal1 (1070 in chips) 
+Jorgecheca1991: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 7s]
+Jorgecheca1991: calls 15
+mabeal1: checks 
+*** FLOP *** [8d Jd 6c]
+mabeal1: checks 
+Jorgecheca1991: checks 
+*** TURN *** [8d Jd 6c] [Ad]
+mabeal1: bets 30
+Jorgecheca1991: calls 30
+*** RIVER *** [8d Jd 6c Ad] [9s]
+mabeal1: checks 
+Jorgecheca1991: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to Jorgecheca1991
+Jorgecheca1991 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d Jd 6c Ad 9s]
+Seat 1: Jorgecheca1991 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259602811192: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:08:16 CET [2026/02/05 12:08:16 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (490 in chips) 
+Seat 2: mabeal1 (1010 in chips) 
+mabeal1: posts small blind 15
+Jorgecheca1991: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Js]
+mabeal1: calls 15
+Jorgecheca1991: checks 
+*** FLOP *** [8c 6h Ac]
+Jorgecheca1991: checks 
+mabeal1: bets 30
+Jorgecheca1991: calls 30
+*** TURN *** [8c 6h Ac] [Qs]
+Jorgecheca1991: checks 
+mabeal1: checks 
+*** RIVER *** [8c 6h Ac Qs] [8h]
+Jorgecheca1991: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Jorgecheca1991
+Jorgecheca1991 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c 6h Ac Qs 8h]
+Seat 1: Jorgecheca1991 (big blind) collected (120)
+Seat 2: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259602814636: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:08:34 CET [2026/02/05 12:08:34 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (550 in chips) 
+Seat 2: mabeal1 (950 in chips) 
+Jorgecheca1991: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ah]
+Jorgecheca1991: calls 15
+mabeal1: raises 920 to 950 and is all-in
+Jorgecheca1991: folds 
+Uncalled bet (920) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Jorgecheca1991 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259602815892: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:08:40 CET [2026/02/05 12:08:40 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (520 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+mabeal1: posts small blind 15
+Jorgecheca1991: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 7c]
+mabeal1: raises 950 to 980 and is all-in
+Jorgecheca1991: calls 490 and is all-in
+Uncalled bet (460) returned to mabeal1
+*** FLOP *** [Qs 9c As]
+*** TURN *** [Qs 9c As] [Qc]
+*** RIVER *** [Qs 9c As Qc] [Qh]
+*** SHOW DOWN ***
+Jorgecheca1991: shows [Jh Ad] (a full house, Queens full of Aces)
+mabeal1: shows [7d 7c] (a full house, Queens full of Sevens)
+Jorgecheca1991 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Qs 9c As Qc Qh]
+Seat 1: Jorgecheca1991 (big blind) showed [Jh Ad] and won (1040) with a full house, Queens full of Aces
+Seat 2: mabeal1 (button) (small blind) showed [7d 7c] and lost with a full house, Queens full of Sevens
+
+
+
+PokerStars Hand #259602818258: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:08:53 CET [2026/02/05 12:08:53 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (1040 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Jorgecheca1991: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 6s]
+Jorgecheca1991: calls 15
+mabeal1: checks 
+*** FLOP *** [9h 5h 7s]
+mabeal1: checks 
+Jorgecheca1991: checks 
+*** TURN *** [9h 5h 7s] [4d]
+mabeal1: bets 45
+Jorgecheca1991: calls 45
+*** RIVER *** [9h 5h 7s 4d] [3s]
+mabeal1: bets 385 and is all-in
+Jorgecheca1991: folds 
+Uncalled bet (385) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [9h 5h 7s 4d 3s]
+Seat 1: Jorgecheca1991 (button) (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (150)
+
+
+
+PokerStars Hand #259602822642: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:09:15 CET [2026/02/05 12:09:15 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (965 in chips) 
+Seat 2: mabeal1 (535 in chips) 
+mabeal1: posts small blind 20
+Jorgecheca1991: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 7s]
+mabeal1: folds 
+Uncalled bet (20) returned to Jorgecheca1991
+Jorgecheca1991 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jorgecheca1991 (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602823472: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:09:20 CET [2026/02/05 12:09:20 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (985 in chips) 
+Seat 2: mabeal1 (515 in chips) 
+Jorgecheca1991: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 8d]
+Jorgecheca1991: calls 20
+mabeal1: checks 
+*** FLOP *** [5d 6d 8h]
+mabeal1: checks 
+Jorgecheca1991: checks 
+*** TURN *** [5d 6d 8h] [Qh]
+mabeal1: bets 80
+Jorgecheca1991: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 6d 8h Qh]
+Seat 1: Jorgecheca1991 (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259602826661: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:09:36 CET [2026/02/05 12:09:36 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (945 in chips) 
+Seat 2: mabeal1 (555 in chips) 
+mabeal1: posts small blind 20
+Jorgecheca1991: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 5s]
+mabeal1: calls 20
+Jorgecheca1991: checks 
+*** FLOP *** [9c 4h Js]
+Jorgecheca1991: checks 
+mabeal1: bets 40
+Jorgecheca1991: calls 40
+*** TURN *** [9c 4h Js] [3h]
+Jorgecheca1991: checks 
+mabeal1: checks 
+*** RIVER *** [9c 4h Js 3h] [8c]
+Jorgecheca1991: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Jorgecheca1991: shows [Ts 8s] (a pair of Eights)
+mabeal1: mucks hand 
+Jorgecheca1991 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9c 4h Js 3h 8c]
+Seat 1: Jorgecheca1991 (big blind) showed [Ts 8s] and won (160) with a pair of Eights
+Seat 2: mabeal1 (button) (small blind) mucked [3d 5s]
+
+
+
+PokerStars Hand #259602829762: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:09:53 CET [2026/02/05 12:09:53 ET]
+Table '3972340546 1' 3-max Seat #1 is the button
+Seat 1: Jorgecheca1991 (1025 in chips) 
+Seat 2: mabeal1 (475 in chips) 
+Jorgecheca1991: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Ts]
+Jorgecheca1991: calls 20
+mabeal1: checks 
+*** FLOP *** [2c 2h 7d]
+mabeal1: checks 
+Jorgecheca1991: checks 
+*** TURN *** [2c 2h 7d] [Kc]
+mabeal1: checks 
+Jorgecheca1991: checks 
+*** RIVER *** [2c 2h 7d Kc] [Jc]
+mabeal1: bets 80
+Jorgecheca1991: calls 80
+*** SHOW DOWN ***
+mabeal1: shows [8c Ts] (a pair of Deuces)
+Jorgecheca1991: shows [Kh 9s] (two pair, Kings and Deuces)
+Jorgecheca1991 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2c 2h 7d Kc Jc]
+Seat 1: Jorgecheca1991 (button) (small blind) showed [Kh 9s] and won (240) with two pair, Kings and Deuces
+Seat 2: mabeal1 (big blind) showed [8c Ts] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259602833180: Tournament #3972340546, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:10:10 CET [2026/02/05 12:10:10 ET]
+Table '3972340546 1' 3-max Seat #2 is the button
+Seat 1: Jorgecheca1991 (1145 in chips) 
+Seat 2: mabeal1 (355 in chips) 
+mabeal1: posts small blind 20
+Jorgecheca1991: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 9d]
+mabeal1: raises 315 to 355 and is all-in
+Jorgecheca1991: calls 315
+*** FLOP *** [Js Qd 3d]
+*** TURN *** [Js Qd 3d] [7d]
+*** RIVER *** [Js Qd 3d 7d] [2h]
+*** SHOW DOWN ***
+Jorgecheca1991: shows [Qs Ks] (a pair of Queens)
+mabeal1: shows [As 9d] (high card Ace)
+Jorgecheca1991 collected 710 from pot
+mabeal1 finished the tournament in 2nd place
+Jorgecheca1991 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Board [Js Qd 3d 7d 2h]
+Seat 1: Jorgecheca1991 (big blind) showed [Qs Ks] and won (710) with a pair of Queens
+Seat 2: mabeal1 (button) (small blind) showed [As 9d] and lost with high card Ace
+
+
+

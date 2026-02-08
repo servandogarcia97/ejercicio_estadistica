@@ -1,0 +1,547 @@
+﻿PokerStars Hand #259543492854: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:16:42 CET [2026/01/31 21:16:42 ET]
+Table '3970998845 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: qelqel88 (500 in chips) 
+Seat 3: madn1994 (500 in chips) 
+qelqel88: posts small blind 10
+madn1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Ad]
+mabeal1: raises 20 to 40
+qelqel88: folds 
+madn1994: calls 20
+*** FLOP *** [Qh 3s 8h]
+madn1994: checks 
+mabeal1: bets 45
+madn1994: calls 45
+*** TURN *** [Qh 3s 8h] [Jh]
+madn1994: checks 
+mabeal1: checks 
+*** RIVER *** [Qh 3s 8h Jh] [6c]
+madn1994: checks 
+mabeal1: bets 135
+madn1994: calls 135
+*** SHOW DOWN ***
+mabeal1: shows [Qd Ad] (a pair of Queens)
+madn1994: mucks hand 
+mabeal1 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Qh 3s 8h Jh 6c]
+Seat 1: mabeal1 (button) showed [Qd Ad] and won (450) with a pair of Queens
+Seat 2: qelqel88 (small blind) folded before Flop
+Seat 3: madn1994 (big blind) mucked [Jd Td]
+
+
+
+PokerStars Hand #259543496890: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:17:12 CET [2026/01/31 21:17:12 ET]
+Table '3970998845 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: qelqel88 (490 in chips) 
+Seat 3: madn1994 (280 in chips) 
+madn1994: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Kh]
+qelqel88: folds 
+madn1994: calls 10
+mabeal1: checks 
+*** FLOP *** [Ad 4c Qs]
+madn1994: checks 
+mabeal1: checks 
+*** TURN *** [Ad 4c Qs] [6c]
+madn1994: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to madn1994
+madn1994 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ad 4c Qs 6c]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: qelqel88 (button) folded before Flop (didn't bet)
+Seat 3: madn1994 (small blind) collected (40)
+
+
+
+PokerStars Hand #259543500406: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:17:38 CET [2026/01/31 21:17:38 ET]
+Table '3970998845 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 2: qelqel88 (490 in chips) 
+Seat 3: madn1994 (300 in chips) 
+mabeal1: posts small blind 10
+qelqel88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Kh]
+madn1994: folds 
+mabeal1: raises 20 to 40
+qelqel88: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: qelqel88 (big blind) folded before Flop
+Seat 3: madn1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259543502291: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:17:52 CET [2026/01/31 21:17:52 ET]
+Table '3970998845 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: qelqel88 (470 in chips) 
+Seat 3: madn1994 (300 in chips) 
+qelqel88: posts small blind 10
+madn1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2s]
+mabeal1: folds 
+qelqel88: raises 40 to 60
+madn1994: folds 
+Uncalled bet (40) returned to qelqel88
+qelqel88 collected 40 from pot
+qelqel88: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: qelqel88 (small blind) collected (40)
+Seat 3: madn1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259543503771: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:18:03 CET [2026/01/31 21:18:03 ET]
+Table '3970998845 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: qelqel88 (490 in chips) 
+Seat 3: madn1994 (280 in chips) 
+madn1994: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3s]
+qelqel88: folds 
+madn1994: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: qelqel88 (button) folded before Flop (didn't bet)
+Seat 3: madn1994 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259543504651: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:18:09 CET [2026/01/31 21:18:09 ET]
+Table '3970998845 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (740 in chips) 
+Seat 2: qelqel88 (490 in chips) 
+Seat 3: madn1994 (270 in chips) 
+mabeal1: posts small blind 10
+qelqel88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 3c]
+madn1994: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to qelqel88
+qelqel88 collected 20 from pot
+qelqel88: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: qelqel88 (big blind) collected (20)
+Seat 3: madn1994 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259543506009: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:18:19 CET [2026/01/31 21:18:19 ET]
+Table '3970998845 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: qelqel88 (500 in chips) 
+Seat 3: madn1994 (270 in chips) 
+qelqel88: posts small blind 10
+madn1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 5h]
+mabeal1: folds 
+qelqel88: raises 40 to 60
+madn1994: folds 
+Uncalled bet (40) returned to qelqel88
+qelqel88 collected 40 from pot
+qelqel88: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: qelqel88 (small blind) collected (40)
+Seat 3: madn1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259543507584: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:18:30 CET [2026/01/31 21:18:30 ET]
+Table '3970998845 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: qelqel88 (520 in chips) 
+Seat 3: madn1994 (250 in chips) 
+madn1994: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 2c]
+qelqel88: folds 
+madn1994: calls 10
+mabeal1: checks 
+*** FLOP *** [Ks 7d 2d]
+madn1994: checks 
+mabeal1: checks 
+*** TURN *** [Ks 7d 2d] [Js]
+madn1994: checks 
+mabeal1: checks 
+*** RIVER *** [Ks 7d 2d Js] [Qd]
+madn1994: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+madn1994: shows [8s Qs] (a pair of Queens)
+mabeal1: mucks hand 
+madn1994 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ks 7d 2d Js Qd]
+Seat 1: mabeal1 (big blind) mucked [4s 2c]
+Seat 2: qelqel88 (button) folded before Flop (didn't bet)
+Seat 3: madn1994 (small blind) showed [8s Qs] and won (40) with a pair of Queens
+
+
+
+PokerStars Hand #259543510288: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:18:50 CET [2026/01/31 21:18:50 ET]
+Table '3970998845 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 2: qelqel88 (520 in chips) 
+Seat 3: madn1994 (270 in chips) 
+mabeal1: posts small blind 15
+qelqel88: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ks]
+madn1994: raises 240 to 270 and is all-in
+mabeal1: folds 
+qelqel88: calls 240
+*** FLOP *** [2s 9h 6s]
+*** TURN *** [2s 9h 6s] [5s]
+*** RIVER *** [2s 9h 6s 5s] [Qc]
+*** SHOW DOWN ***
+qelqel88: shows [Ad 7s] (high card Ace)
+madn1994: shows [Ah 9d] (a pair of Nines)
+madn1994 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Board [2s 9h 6s 5s Qc]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: qelqel88 (big blind) showed [Ad 7s] and lost with high card Ace
+Seat 3: madn1994 (button) showed [Ah 9d] and won (555) with a pair of Nines
+
+
+
+PokerStars Hand #259543512943: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:19:10 CET [2026/01/31 21:19:10 ET]
+Table '3970998845 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (695 in chips) 
+Seat 2: qelqel88 (250 in chips) 
+Seat 3: madn1994 (555 in chips) 
+qelqel88: posts small blind 15
+madn1994: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 3h]
+mabeal1: folds 
+qelqel88: raises 30 to 60
+madn1994: folds 
+Uncalled bet (30) returned to qelqel88
+qelqel88 collected 60 from pot
+qelqel88: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: qelqel88 (small blind) collected (60)
+Seat 3: madn1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259543514046: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:19:18 CET [2026/01/31 21:19:18 ET]
+Table '3970998845 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (695 in chips) 
+Seat 2: qelqel88 (280 in chips) 
+Seat 3: madn1994 (525 in chips) 
+madn1994: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3c]
+qelqel88: raises 30 to 60
+madn1994: calls 45
+mabeal1: folds 
+*** FLOP *** [4s Kd 5s]
+madn1994: checks 
+qelqel88: bets 75
+madn1994: folds 
+Uncalled bet (75) returned to qelqel88
+qelqel88 collected 150 from pot
+qelqel88: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [4s Kd 5s]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: qelqel88 (button) collected (150)
+Seat 3: madn1994 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259543515905: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:19:32 CET [2026/01/31 21:19:32 ET]
+Table '3970998845 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (665 in chips) 
+Seat 2: qelqel88 (370 in chips) 
+Seat 3: madn1994 (465 in chips) 
+mabeal1: posts small blind 15
+qelqel88: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 4c]
+madn1994: calls 30
+mabeal1: folds 
+qelqel88: raises 60 to 90
+madn1994: calls 60
+*** FLOP *** [As 3d 7d]
+qelqel88: bets 98
+madn1994: raises 277 to 375 and is all-in
+qelqel88: folds 
+Uncalled bet (277) returned to madn1994
+madn1994 collected 391 from pot
+*** SUMMARY ***
+Total pot 391 | Rake 0 
+Board [As 3d 7d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: qelqel88 (big blind) folded on the Flop
+Seat 3: madn1994 (button) collected (391)
+
+
+
+PokerStars Hand #259543518875: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:19:54 CET [2026/01/31 21:19:54 ET]
+Table '3970998845 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: qelqel88 (182 in chips) 
+Seat 3: madn1994 (668 in chips) 
+qelqel88: posts small blind 15
+madn1994: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Kc]
+mabeal1: folds 
+qelqel88: raises 152 to 182 and is all-in
+madn1994: folds 
+Uncalled bet (152) returned to qelqel88
+qelqel88 collected 60 from pot
+qelqel88: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: qelqel88 (small blind) collected (60)
+Seat 3: madn1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259543520515: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:20:06 CET [2026/01/31 21:20:06 ET]
+Table '3970998845 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: qelqel88 (212 in chips) 
+Seat 3: madn1994 (638 in chips) 
+madn1994: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 7d]
+qelqel88: raises 182 to 212 and is all-in
+madn1994: raises 426 to 638 and is all-in
+mabeal1: folds 
+Uncalled bet (426) returned to madn1994
+*** FLOP *** [8c 3h 3s]
+*** TURN *** [8c 3h 3s] [5d]
+*** RIVER *** [8c 3h 3s 5d] [8s]
+*** SHOW DOWN ***
+madn1994: shows [Kd Td] (two pair, Eights and Threes)
+qelqel88: shows [9s Qs] (two pair, Eights and Threes - lower kicker)
+madn1994 collected 454 from pot
+qelqel88 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 454 | Rake 0 
+Board [8c 3h 3s 5d 8s]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: qelqel88 (button) showed [9s Qs] and lost with two pair, Eights and Threes
+Seat 3: madn1994 (small blind) showed [Kd Td] and won (454) with two pair, Eights and Threes
+
+
+
+PokerStars Hand #259543523142: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:20:26 CET [2026/01/31 21:20:26 ET]
+Table '3970998845 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 3: madn1994 (880 in chips) 
+mabeal1: posts small blind 15
+madn1994: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Ad]
+mabeal1: raises 590 to 620 and is all-in
+madn1994: calls 590
+*** FLOP *** [Kh 4d Tc]
+*** TURN *** [Kh 4d Tc] [7d]
+*** RIVER *** [Kh 4d Tc 7d] [Ah]
+*** SHOW DOWN ***
+madn1994: shows [Ks Jd] (a pair of Kings)
+mabeal1: shows [9s Ad] (a pair of Aces)
+mabeal1 collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Kh 4d Tc 7d Ah]
+Seat 1: mabeal1 (button) (small blind) showed [9s Ad] and won (1240) with a pair of Aces
+Seat 3: madn1994 (big blind) showed [Ks Jd] and lost with a pair of Kings
+
+
+
+PokerStars Hand #259543524921: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:20:39 CET [2026/01/31 21:20:39 ET]
+Table '3970998845 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1240 in chips) 
+Seat 3: madn1994 (260 in chips) 
+madn1994: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Kd]
+madn1994: raises 230 to 260 and is all-in
+mabeal1: folds 
+Uncalled bet (230) returned to madn1994
+madn1994 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: madn1994 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259543526840: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:20:53 CET [2026/01/31 21:20:53 ET]
+Table '3970998845 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1210 in chips) 
+Seat 3: madn1994 (290 in chips) 
+mabeal1: posts small blind 20
+madn1994: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Kd]
+mabeal1: raises 1170 to 1210 and is all-in
+madn1994: folds 
+Uncalled bet (1170) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: madn1994 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259543527705: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:21:00 CET [2026/01/31 21:21:00 ET]
+Table '3970998845 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1250 in chips) 
+Seat 3: madn1994 (250 in chips) 
+madn1994: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Jc]
+madn1994: raises 210 to 250 and is all-in
+mabeal1: folds 
+Uncalled bet (210) returned to madn1994
+madn1994 collected 80 from pot
+madn1994: shows [6d 7d] (high card Seven)
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: madn1994 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259543529032: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:21:10 CET [2026/01/31 21:21:10 ET]
+Table '3970998845 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1210 in chips) 
+Seat 3: madn1994 (290 in chips) 
+mabeal1: posts small blind 20
+madn1994: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Kd]
+mabeal1: raises 1170 to 1210 and is all-in
+madn1994: calls 250 and is all-in
+Uncalled bet (920) returned to mabeal1
+*** FLOP *** [3s Ks 7c]
+*** TURN *** [3s Ks 7c] [2d]
+*** RIVER *** [3s Ks 7c 2d] [3h]
+*** SHOW DOWN ***
+madn1994: shows [Kh 5h] (two pair, Kings and Threes)
+mabeal1: shows [6d Kd] (two pair, Kings and Threes)
+madn1994 collected 290 from pot
+mabeal1 collected 290 from pot
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [3s Ks 7c 2d 3h]
+Seat 1: mabeal1 (button) (small blind) showed [6d Kd] and won (290) with two pair, Kings and Threes
+Seat 3: madn1994 (big blind) showed [Kh 5h] and won (290) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #259543530792: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:21:23 CET [2026/01/31 21:21:23 ET]
+Table '3970998845 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1210 in chips) 
+Seat 3: madn1994 (290 in chips) 
+madn1994: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 6s]
+madn1994: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: madn1994 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259543531685: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:21:29 CET [2026/01/31 21:21:29 ET]
+Table '3970998845 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1230 in chips) 
+Seat 3: madn1994 (270 in chips) 
+mabeal1: posts small blind 20
+madn1994: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 4c]
+mabeal1: folds 
+Uncalled bet (20) returned to madn1994
+madn1994 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: madn1994 (big blind) collected (40)
+
+
+
+PokerStars Hand #259543532460: Tournament #3970998845, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:21:35 CET [2026/01/31 21:21:35 ET]
+Table '3970998845 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1210 in chips) 
+Seat 3: madn1994 (290 in chips) 
+madn1994: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Qc]
+madn1994: raises 250 to 290 and is all-in
+mabeal1: calls 250
+*** FLOP *** [Tc 3c Ad]
+*** TURN *** [Tc 3c Ad] [5s]
+*** RIVER *** [Tc 3c Ad 5s] [Jh]
+*** SHOW DOWN ***
+mabeal1: shows [As Qc] (a pair of Aces)
+madn1994: shows [Js 7s] (a pair of Jacks)
+mabeal1 collected 580 from pot
+madn1994 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Tc 3c Ad 5s Jh]
+Seat 1: mabeal1 (big blind) showed [As Qc] and won (580) with a pair of Aces
+Seat 3: madn1994 (button) (small blind) showed [Js 7s] and lost with a pair of Jacks
+
+
+

@@ -1,0 +1,330 @@
+﻿PokerStars Hand #259596515730: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:04:19 CET [2026/02/04 20:04:19 ET]
+Table '3972179653 1' 3-max Seat #1 is the button
+Seat 1: Earth1980 (500 in chips) 
+Seat 2: Cristian_06660 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Cristian_06660: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Qs]
+Earth1980: folds 
+Cristian_06660: calls 10
+mabeal1: raises 480 to 500 and is all-in
+Cristian_06660: calls 480 and is all-in
+*** FLOP *** [Ks 5d 8d]
+*** TURN *** [Ks 5d 8d] [Tc]
+*** RIVER *** [Ks 5d 8d Tc] [2d]
+*** SHOW DOWN ***
+Cristian_06660: shows [3h As] (high card Ace)
+mabeal1: shows [Qh Qs] (a pair of Queens)
+mabeal1 collected 1000 from pot
+Cristian_06660 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Ks 5d 8d Tc 2d]
+Seat 1: Earth1980 (button) folded before Flop (didn't bet)
+Seat 2: Cristian_06660 (small blind) showed [3h As] and lost with high card Ace
+Seat 3: mabeal1 (big blind) showed [Qh Qs] and won (1000) with a pair of Queens
+
+
+
+PokerStars Hand #259596520348: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:04:48 CET [2026/02/04 20:04:48 ET]
+Table '3972179653 1' 3-max Seat #3 is the button
+Seat 1: Earth1980 (500 in chips) 
+Seat 3: mabeal1 (1000 in chips) 
+mabeal1: posts small blind 10
+Earth1980: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9c]
+mabeal1: calls 10
+Earth1980: checks 
+*** FLOP *** [9s Kd Kc]
+Earth1980: checks 
+mabeal1: bets 20
+Earth1980: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9s Kd Kc]
+Seat 1: Earth1980 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259596522039: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:04:59 CET [2026/02/04 20:04:59 ET]
+Table '3972179653 1' 3-max Seat #1 is the button
+Seat 1: Earth1980 (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+Earth1980: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 7h]
+Earth1980: calls 10
+mabeal1: checks 
+*** FLOP *** [4h 5c Qs]
+mabeal1: checks 
+Earth1980: checks 
+*** TURN *** [4h 5c Qs] [5s]
+mabeal1: bets 20
+Earth1980: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h 5c Qs 5s]
+Seat 1: Earth1980 (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259596525695: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:05:22 CET [2026/02/04 20:05:22 ET]
+Table '3972179653 1' 3-max Seat #3 is the button
+Seat 1: Earth1980 (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+mabeal1: posts small blind 10
+Earth1980: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 6d]
+mabeal1: calls 10
+Earth1980: checks 
+*** FLOP *** [8s 9h Td]
+Earth1980: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Earth1980
+Earth1980 collected 40 from pot
+Earth1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8s 9h Td]
+Seat 1: Earth1980 (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259596527730: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:05:35 CET [2026/02/04 20:05:35 ET]
+Table '3972179653 1' 3-max Seat #1 is the button
+Seat 1: Earth1980 (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+Earth1980: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 3s]
+Earth1980: calls 10
+mabeal1: checks 
+*** FLOP *** [4c 5h Kh]
+mabeal1: checks 
+Earth1980: checks 
+*** TURN *** [4c 5h Kh] [Jc]
+mabeal1: bets 30
+Earth1980: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4c 5h Kh Jc]
+Seat 1: Earth1980 (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259596531641: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:06:00 CET [2026/02/04 20:06:00 ET]
+Table '3972179653 1' 3-max Seat #3 is the button
+Seat 1: Earth1980 (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+mabeal1: posts small blind 10
+Earth1980: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8d]
+mabeal1: calls 10
+Earth1980: checks 
+*** FLOP *** [Qs Jc Kh]
+Earth1980: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Earth1980
+Earth1980 collected 40 from pot
+Earth1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs Jc Kh]
+Seat 1: Earth1980 (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259596533800: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:06:15 CET [2026/02/04 20:06:15 ET]
+Table '3972179653 1' 3-max Seat #1 is the button
+Seat 1: Earth1980 (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+Earth1980: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Tc]
+Earth1980: calls 10
+mabeal1: checks 
+*** FLOP *** [8c 7s 6s]
+mabeal1: checks 
+Earth1980: checks 
+*** TURN *** [8c 7s 6s] [Jd]
+mabeal1: checks 
+Earth1980: checks 
+*** RIVER *** [8c 7s 6s Jd] [3d]
+mabeal1: checks 
+Earth1980: checks 
+*** SHOW DOWN ***
+mabeal1: shows [4c Tc] (high card Jack)
+Earth1980: mucks hand 
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c 7s 6s Jd 3d]
+Seat 1: Earth1980 (button) (small blind) mucked [4d 2d]
+Seat 3: mabeal1 (big blind) showed [4c Tc] and won (40) with high card Jack
+
+
+
+PokerStars Hand #259596537793: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:06:41 CET [2026/02/04 20:06:41 ET]
+Table '3972179653 1' 3-max Seat #3 is the button
+Seat 1: Earth1980 (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+mabeal1: posts small blind 15
+Earth1980: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Kc]
+mabeal1: raises 30 to 60
+Earth1980: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Earth1980 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259596538746: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:06:47 CET [2026/02/04 20:06:47 ET]
+Table '3972179653 1' 3-max Seat #1 is the button
+Seat 1: Earth1980 (430 in chips) 
+Seat 3: mabeal1 (1070 in chips) 
+Earth1980: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 3c]
+Earth1980: calls 15
+mabeal1: checks 
+*** FLOP *** [Jd Jc As]
+mabeal1: checks 
+Earth1980: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to Earth1980
+Earth1980 collected 60 from pot
+Earth1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd Jc As]
+Seat 1: Earth1980 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259596542550: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:07:11 CET [2026/02/04 20:07:11 ET]
+Table '3972179653 1' 3-max Seat #3 is the button
+Seat 1: Earth1980 (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+mabeal1: posts small blind 15
+Earth1980: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9h]
+mabeal1: folds 
+Uncalled bet (15) returned to Earth1980
+Earth1980 collected 30 from pot
+Earth1980: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Earth1980 (big blind) collected (30)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596543300: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:07:16 CET [2026/02/04 20:07:16 ET]
+Table '3972179653 1' 3-max Seat #1 is the button
+Seat 1: Earth1980 (475 in chips) 
+Seat 3: mabeal1 (1025 in chips) 
+Earth1980: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8c]
+Earth1980: calls 15
+mabeal1: checks 
+*** FLOP *** [5d 9s Ac]
+mabeal1: checks 
+Earth1980: checks 
+*** TURN *** [5d 9s Ac] [2c]
+mabeal1: checks 
+Earth1980: checks 
+*** RIVER *** [5d 9s Ac 2c] [4s]
+mabeal1: checks 
+Earth1980: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qs 8c] (high card Ace)
+Earth1980: shows [Qd Jh] (high card Ace - Queen+Jack kicker)
+Earth1980 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 9s Ac 2c 4s]
+Seat 1: Earth1980 (button) (small blind) showed [Qd Jh] and won (60) with high card Ace
+Seat 3: mabeal1 (big blind) showed [Qs 8c] and lost with high card Ace
+
+
+
+PokerStars Hand #259596548376: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:07:49 CET [2026/02/04 20:07:49 ET]
+Table '3972179653 1' 3-max Seat #3 is the button
+Seat 1: Earth1980 (505 in chips) 
+Seat 3: mabeal1 (995 in chips) 
+mabeal1: posts small blind 15
+Earth1980: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7h]
+mabeal1: raises 30 to 60
+Earth1980: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Earth1980 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259596549535: Tournament #3972179653, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:07:57 CET [2026/02/04 20:07:57 ET]
+Table '3972179653 1' 3-max Seat #1 is the button
+Seat 1: Earth1980 (475 in chips) 
+Seat 3: mabeal1 (1025 in chips) 
+Earth1980: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jd]
+Earth1980: raises 445 to 475 and is all-in
+mabeal1: calls 445
+*** FLOP *** [6c 9s 3s]
+*** TURN *** [6c 9s 3s] [As]
+*** RIVER *** [6c 9s 3s As] [6s]
+*** SHOW DOWN ***
+mabeal1: shows [Ad Jd] (two pair, Aces and Sixes)
+Earth1980: shows [2c 2h] (two pair, Sixes and Deuces)
+mabeal1 collected 950 from pot
+Earth1980 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [6c 9s 3s As 6s]
+Seat 1: Earth1980 (button) (small blind) showed [2c 2h] and lost with two pair, Sixes and Deuces
+Seat 3: mabeal1 (big blind) showed [Ad Jd] and won (950) with two pair, Aces and Sixes
+
+
+

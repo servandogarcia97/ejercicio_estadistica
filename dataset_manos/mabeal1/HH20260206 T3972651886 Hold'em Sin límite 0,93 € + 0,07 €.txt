@@ -1,0 +1,454 @@
+﻿PokerStars Hand #259616368314: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:22:54 CET [2026/02/06 11:22:54 ET]
+Table '3972651886 1' 3-max Seat #1 is the button
+Seat 1: The UkSiberian (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: MocosoPoker (500 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 5d]
+The UkSiberian: raises 40 to 60
+mabeal1: folds 
+MocosoPoker: folds 
+Uncalled bet (40) returned to The UkSiberian
+The UkSiberian collected 50 from pot
+The UkSiberian: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: The UkSiberian (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: MocosoPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #259616369912: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:23:03 CET [2026/02/06 11:23:03 ET]
+Table '3972651886 1' 3-max Seat #2 is the button
+Seat 1: The UkSiberian (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: MocosoPoker (480 in chips) 
+MocosoPoker: posts small blind 10
+The UkSiberian: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 6h]
+mabeal1: folds 
+MocosoPoker: folds 
+Uncalled bet (10) returned to The UkSiberian
+The UkSiberian collected 20 from pot
+The UkSiberian: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: The UkSiberian (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: MocosoPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259616373336: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:23:21 CET [2026/02/06 11:23:21 ET]
+Table '3972651886 1' 3-max Seat #3 is the button
+Seat 1: The UkSiberian (540 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: MocosoPoker (470 in chips) 
+The UkSiberian: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Jh]
+MocosoPoker: folds 
+The UkSiberian: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [Qh Ks Ac]
+The UkSiberian: checks 
+mabeal1: checks 
+*** TURN *** [Qh Ks Ac] [8c]
+The UkSiberian: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to The UkSiberian
+The UkSiberian collected 120 from pot
+The UkSiberian: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh Ks Ac 8c]
+Seat 1: The UkSiberian (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259616379553: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:23:55 CET [2026/02/06 11:23:55 ET]
+Table '3972651886 1' 3-max Seat #1 is the button
+Seat 1: The UkSiberian (600 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: MocosoPoker (470 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 9h]
+The UkSiberian: folds 
+mabeal1: raises 30 to 50
+MocosoPoker: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: The UkSiberian (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: MocosoPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #259616381386: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:24:05 CET [2026/02/06 11:24:05 ET]
+Table '3972651886 1' 3-max Seat #2 is the button
+Seat 1: The UkSiberian (600 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: MocosoPoker (450 in chips) 
+MocosoPoker: posts small blind 10
+The UkSiberian: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 2h]
+mabeal1: folds 
+MocosoPoker: raises 20 to 40
+The UkSiberian: calls 20
+*** FLOP *** [8h Td 2c]
+MocosoPoker: checks 
+The UkSiberian: checks 
+*** TURN *** [8h Td 2c] [2d]
+MocosoPoker: checks 
+The UkSiberian: checks 
+*** RIVER *** [8h Td 2c 2d] [6c]
+MocosoPoker: checks 
+The UkSiberian: bets 80
+MocosoPoker: folds 
+Uncalled bet (80) returned to The UkSiberian
+The UkSiberian collected 80 from pot
+The UkSiberian: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h Td 2c 2d 6c]
+Seat 1: The UkSiberian (big blind) collected (80)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: MocosoPoker (small blind) folded on the River
+
+
+
+PokerStars Hand #259616387542: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:24:37 CET [2026/02/06 11:24:37 ET]
+Table '3972651886 1' 3-max Seat #3 is the button
+Seat 1: The UkSiberian (640 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: MocosoPoker (410 in chips) 
+The UkSiberian: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3s]
+MocosoPoker: folds 
+The UkSiberian: calls 10
+mabeal1: checks 
+*** FLOP *** [As 5h Jh]
+The UkSiberian: checks 
+mabeal1: bets 20
+The UkSiberian: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As 5h Jh]
+Seat 1: The UkSiberian (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259616391738: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:25:00 CET [2026/02/06 11:25:00 ET]
+Table '3972651886 1' 3-max Seat #1 is the button
+Seat 1: The UkSiberian (620 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: MocosoPoker (410 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Jh]
+The UkSiberian: folds 
+mabeal1: calls 15
+MocosoPoker: checks 
+*** FLOP *** [Ts 6c 5d]
+mabeal1: checks 
+MocosoPoker: checks 
+*** TURN *** [Ts 6c 5d] [Th]
+mabeal1: checks 
+MocosoPoker: checks 
+*** RIVER *** [Ts 6c 5d Th] [As]
+mabeal1: bets 60
+MocosoPoker: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts 6c 5d Th As]
+Seat 1: The UkSiberian (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: MocosoPoker (big blind) folded on the River
+
+
+
+PokerStars Hand #259616397591: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:25:31 CET [2026/02/06 11:25:31 ET]
+Table '3972651886 1' 3-max Seat #2 is the button
+Seat 1: The UkSiberian (620 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: MocosoPoker (380 in chips) 
+MocosoPoker: posts small blind 15
+The UkSiberian: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9h]
+mabeal1: raises 30 to 60
+MocosoPoker: folds 
+The UkSiberian: raises 60 to 120
+mabeal1: folds 
+Uncalled bet (60) returned to The UkSiberian
+The UkSiberian collected 135 from pot
+The UkSiberian: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: The UkSiberian (big blind) collected (135)
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: MocosoPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259616400491: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:25:46 CET [2026/02/06 11:25:46 ET]
+Table '3972651886 1' 3-max Seat #3 is the button
+Seat 1: The UkSiberian (695 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: MocosoPoker (365 in chips) 
+The UkSiberian: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Jc]
+MocosoPoker: folds 
+The UkSiberian: calls 15
+mabeal1: checks 
+*** FLOP *** [2d 5h 4c]
+The UkSiberian: checks 
+mabeal1: bets 45
+The UkSiberian: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d 5h 4c]
+Seat 1: The UkSiberian (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259616404876: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:26:09 CET [2026/02/06 11:26:09 ET]
+Table '3972651886 1' 3-max Seat #1 is the button
+Seat 1: The UkSiberian (665 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: MocosoPoker (365 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 5c]
+The UkSiberian: folds 
+mabeal1: raises 45 to 75
+MocosoPoker: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: The UkSiberian (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: MocosoPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #259616406568: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:26:18 CET [2026/02/06 11:26:18 ET]
+Table '3972651886 1' 3-max Seat #2 is the button
+Seat 1: The UkSiberian (665 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: MocosoPoker (335 in chips) 
+MocosoPoker: posts small blind 15
+The UkSiberian: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9c]
+mabeal1: folds 
+MocosoPoker: folds 
+Uncalled bet (15) returned to The UkSiberian
+The UkSiberian collected 30 from pot
+The UkSiberian: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: The UkSiberian (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: MocosoPoker (small blind) folded before Flop
+
+
+
+PokerStars Hand #259616407839: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:26:25 CET [2026/02/06 11:26:25 ET]
+Table '3972651886 1' 3-max Seat #3 is the button
+Seat 1: The UkSiberian (680 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: MocosoPoker (320 in chips) 
+The UkSiberian: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7c]
+MocosoPoker: folds 
+The UkSiberian: calls 15
+mabeal1: checks 
+*** FLOP *** [7d 5c Td]
+The UkSiberian: bets 60
+mabeal1: calls 60
+*** TURN *** [7d 5c Td] [Kd]
+The UkSiberian: bets 90
+mabeal1: calls 90
+*** RIVER *** [7d 5c Td Kd] [Kh]
+The UkSiberian: checks 
+mabeal1: bets 320 and is all-in
+The UkSiberian: calls 320
+*** SHOW DOWN ***
+mabeal1: shows [Kc 7c] (a full house, Kings full of Sevens)
+The UkSiberian: shows [Tc 9h] (two pair, Kings and Tens)
+mabeal1 collected 1000 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [7d 5c Td Kd Kh]
+Seat 1: The UkSiberian (small blind) showed [Tc 9h] and lost with two pair, Kings and Tens
+Seat 2: mabeal1 (big blind) showed [Kc 7c] and won (1000) with a full house, Kings full of Sevens
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259616412746: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:26:51 CET [2026/02/06 11:26:51 ET]
+Table '3972651886 1' 3-max Seat #1 is the button
+Seat 1: The UkSiberian (180 in chips) 
+Seat 2: mabeal1 (1000 in chips) 
+Seat 3: MocosoPoker (320 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 9c]
+The UkSiberian: raises 150 to 180 and is all-in
+mabeal1: folds 
+MocosoPoker: calls 150
+*** FLOP *** [6d 2d Qd]
+*** TURN *** [6d 2d Qd] [2s]
+*** RIVER *** [6d 2d Qd 2s] [9h]
+*** SHOW DOWN ***
+MocosoPoker: shows [Ad Tc] (a pair of Deuces)
+The UkSiberian: shows [Qh Ac] (two pair, Queens and Deuces)
+The UkSiberian collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [6d 2d Qd 2s 9h]
+Seat 1: The UkSiberian (button) showed [Qh Ac] and won (375) with two pair, Queens and Deuces
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: MocosoPoker (big blind) showed [Ad Tc] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259616416274: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:27:10 CET [2026/02/06 11:27:10 ET]
+Table '3972651886 1' 3-max Seat #2 is the button
+Seat 1: The UkSiberian (375 in chips) 
+Seat 2: mabeal1 (985 in chips) 
+Seat 3: MocosoPoker (140 in chips) 
+MocosoPoker: posts small blind 20
+The UkSiberian: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 6s]
+mabeal1: folds 
+MocosoPoker: raises 100 to 140 and is all-in
+The UkSiberian: folds 
+Uncalled bet (100) returned to MocosoPoker
+MocosoPoker collected 80 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: The UkSiberian (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: MocosoPoker (small blind) collected (80)
+
+
+
+PokerStars Hand #259616417913: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:27:18 CET [2026/02/06 11:27:18 ET]
+Table '3972651886 1' 3-max Seat #3 is the button
+Seat 1: The UkSiberian (335 in chips) 
+Seat 2: mabeal1 (985 in chips) 
+Seat 3: MocosoPoker (180 in chips) 
+The UkSiberian: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Tc]
+MocosoPoker: folds 
+The UkSiberian: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: The UkSiberian (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: MocosoPoker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259616418842: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:27:23 CET [2026/02/06 11:27:23 ET]
+Table '3972651886 1' 3-max Seat #1 is the button
+Seat 1: The UkSiberian (315 in chips) 
+Seat 2: mabeal1 (1005 in chips) 
+Seat 3: MocosoPoker (180 in chips) 
+mabeal1: posts small blind 20
+MocosoPoker: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3c]
+The UkSiberian: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to MocosoPoker
+MocosoPoker collected 40 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: The UkSiberian (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: MocosoPoker (big blind) collected (40)
+
+
+
+PokerStars Hand #259616420139: Tournament #3972651886, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 17:27:30 CET [2026/02/06 11:27:30 ET]
+Table '3972651886 1' 3-max Seat #2 is the button
+Seat 1: The UkSiberian (315 in chips) 
+Seat 2: mabeal1 (985 in chips) 
+Seat 3: MocosoPoker (200 in chips) 
+MocosoPoker: posts small blind 20
+The UkSiberian: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 9c]
+mabeal1: raises 945 to 985 and is all-in
+MocosoPoker: calls 180 and is all-in
+The UkSiberian: calls 275 and is all-in
+Uncalled bet (670) returned to mabeal1
+*** FLOP *** [8d 4d Kd]
+*** TURN *** [8d 4d Kd] [9h]
+*** RIVER *** [8d 4d Kd 9h] [6s]
+*** SHOW DOWN ***
+The UkSiberian: shows [5s 5h] (a pair of Fives)
+mabeal1: shows [Kc 9c] (two pair, Kings and Nines)
+mabeal1 collected 230 from side pot
+MocosoPoker: shows [Ks Qc] (a pair of Kings)
+mabeal1 collected 600 from main pot
+The UkSiberian finished the tournament in 2nd place
+MocosoPoker finished the tournament in 3rd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 830 Main pot 600. Side pot 230. | Rake 0 
+Board [8d 4d Kd 9h 6s]
+Seat 1: The UkSiberian (big blind) showed [5s 5h] and lost with a pair of Fives
+Seat 2: mabeal1 (button) showed [Kc 9c] and won (830) with two pair, Kings and Nines
+Seat 3: MocosoPoker (small blind) showed [Ks Qc] and lost with a pair of Kings
+
+
+

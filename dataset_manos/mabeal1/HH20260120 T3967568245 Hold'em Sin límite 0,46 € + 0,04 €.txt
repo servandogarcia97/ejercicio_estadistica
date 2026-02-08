@@ -1,0 +1,732 @@
+﻿PokerStars Hand #259395699301: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:13:49 CET [2026/01/20 17:13:49 ET]
+Table '3967568245 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: ansiedadd (500 in chips) 
+mabeal1: posts small blind 10
+ansiedadd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Qc]
+Nax0: raises 20 to 40
+mabeal1: calls 30
+ansiedadd: folds 
+*** FLOP *** [7c Ad Th]
+mabeal1: checks 
+Nax0: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Nax0
+Nax0 collected 100 from pot
+Nax0: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7c Ad Th]
+Seat 1: Nax0 (button) collected (100)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: ansiedadd (big blind) folded before Flop
+
+
+
+PokerStars Hand #259395707144: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:14:20 CET [2026/01/20 17:14:20 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (560 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: ansiedadd (480 in chips) 
+ansiedadd: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5c]
+mabeal1: folds 
+ansiedadd: raises 20 to 40
+Nax0: folds 
+Uncalled bet (20) returned to ansiedadd
+ansiedadd collected 40 from pot
+ansiedadd: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Nax0 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ansiedadd (small blind) collected (40)
+
+
+
+PokerStars Hand #259395710420: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:14:33 CET [2026/01/20 17:14:33 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (540 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: ansiedadd (500 in chips) 
+Nax0: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Ks]
+ansiedadd: calls 20
+Nax0: calls 10
+mabeal1: checks 
+*** FLOP *** [Qh Ts 5c]
+Nax0: checks 
+mabeal1: checks 
+ansiedadd: checks 
+*** TURN *** [Qh Ts 5c] [3d]
+Nax0: bets 60
+mabeal1: folds 
+ansiedadd: folds 
+Uncalled bet (60) returned to Nax0
+Nax0 collected 60 from pot
+Nax0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh Ts 5c 3d]
+Seat 1: Nax0 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: ansiedadd (button) folded on the Turn
+
+
+
+PokerStars Hand #259395717575: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:15:02 CET [2026/01/20 17:15:02 ET]
+Table '3967568245 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (580 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: ansiedadd (480 in chips) 
+mabeal1: posts small blind 10
+ansiedadd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9c]
+Nax0: folds 
+mabeal1: raises 20 to 40
+ansiedadd: calls 20
+*** FLOP *** [Jd 4d 6d]
+mabeal1: bets 40
+ansiedadd: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jd 4d 6d]
+Seat 1: Nax0 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (80)
+Seat 3: ansiedadd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259395725999: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:15:35 CET [2026/01/20 17:15:35 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (580 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: ansiedadd (440 in chips) 
+ansiedadd: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 4h]
+mabeal1: folds 
+ansiedadd: calls 10
+Nax0: raises 560 to 580 and is all-in
+ansiedadd: folds 
+Uncalled bet (560) returned to Nax0
+Nax0 collected 40 from pot
+Nax0: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Nax0 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ansiedadd (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395729387: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:15:49 CET [2026/01/20 17:15:49 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (600 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: ansiedadd (420 in chips) 
+Nax0: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9d]
+ansiedadd: calls 20
+Nax0: raises 580 to 600 and is all-in
+mabeal1: folds 
+ansiedadd: folds 
+Uncalled bet (580) returned to Nax0
+Nax0 collected 60 from pot
+Nax0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Nax0 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: ansiedadd (button) folded before Flop
+
+
+
+PokerStars Hand #259395732964: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:16:03 CET [2026/01/20 17:16:03 ET]
+Table '3967568245 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (640 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: ansiedadd (400 in chips) 
+mabeal1: posts small blind 10
+ansiedadd: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 6s]
+Nax0: raises 20 to 40
+mabeal1: folds 
+ansiedadd: raises 20 to 60
+Nax0: calls 20
+*** FLOP *** [3d 5h Jh]
+ansiedadd: bets 20
+Nax0: raises 560 to 580 and is all-in
+ansiedadd: folds 
+Uncalled bet (560) returned to Nax0
+Nax0 collected 170 from pot
+Nax0: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [3d 5h Jh]
+Seat 1: Nax0 (button) collected (170)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ansiedadd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259395737606: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:16:22 CET [2026/01/20 17:16:22 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (730 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: ansiedadd (320 in chips) 
+ansiedadd: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Qs]
+mabeal1: raises 20 to 40
+ansiedadd: folds 
+Nax0: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Nax0 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: ansiedadd (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395740679: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:16:34 CET [2026/01/20 17:16:34 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (710 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: ansiedadd (310 in chips) 
+Nax0: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Kc]
+ansiedadd: calls 20
+Nax0: folds 
+mabeal1: raises 40 to 60
+ansiedadd: calls 40
+*** FLOP *** [Qs 2h Js]
+mabeal1: bets 40
+ansiedadd: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 130 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Qs 2h Js]
+Seat 1: Nax0 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (130)
+Seat 3: ansiedadd (button) folded on the Flop
+
+
+
+PokerStars Hand #259395746485: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:16:57 CET [2026/01/20 17:16:57 ET]
+Table '3967568245 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (700 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: ansiedadd (250 in chips) 
+mabeal1: posts small blind 15
+ansiedadd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 6s]
+Nax0: folds 
+mabeal1: raises 520 to 550 and is all-in
+ansiedadd: calls 220 and is all-in
+Uncalled bet (300) returned to mabeal1
+*** FLOP *** [9d 3s 2c]
+*** TURN *** [9d 3s 2c] [4c]
+*** RIVER *** [9d 3s 2c 4c] [8c]
+*** SHOW DOWN ***
+mabeal1: shows [Ad 6s] (high card Ace)
+ansiedadd: shows [8s 8h] (three of a kind, Eights)
+ansiedadd collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [9d 3s 2c 4c 8c]
+Seat 1: Nax0 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Ad 6s] and lost with high card Ace
+Seat 3: ansiedadd (big blind) showed [8s 8h] and won (500) with three of a kind, Eights
+
+
+
+PokerStars Hand #259395750567: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:17:13 CET [2026/01/20 17:17:13 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (700 in chips) 
+Seat 2: mabeal1 (300 in chips) 
+Seat 3: ansiedadd (500 in chips) 
+ansiedadd: posts small blind 15
+Nax0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Qh]
+mabeal1: raises 270 to 300 and is all-in
+ansiedadd: folds 
+Nax0: calls 270
+*** FLOP *** [Jd 6d 7s]
+*** TURN *** [Jd 6d 7s] [2h]
+*** RIVER *** [Jd 6d 7s 2h] [Qc]
+*** SHOW DOWN ***
+Nax0: shows [Ad Td] (high card Ace)
+mabeal1: shows [Jh Qh] (two pair, Queens and Jacks)
+mabeal1 collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [Jd 6d 7s 2h Qc]
+Seat 1: Nax0 (big blind) showed [Ad Td] and lost with high card Ace
+Seat 2: mabeal1 (button) showed [Jh Qh] and won (615) with two pair, Queens and Jacks
+Seat 3: ansiedadd (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395755480: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:17:33 CET [2026/01/20 17:17:33 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (400 in chips) 
+Seat 2: mabeal1 (615 in chips) 
+Seat 3: ansiedadd (485 in chips) 
+Nax0: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jd]
+ansiedadd: folds 
+Nax0: raises 370 to 400 and is all-in
+mabeal1: calls 370
+*** FLOP *** [Kc 4h Kd]
+*** TURN *** [Kc 4h Kd] [Qd]
+*** RIVER *** [Kc 4h Kd Qd] [6d]
+*** SHOW DOWN ***
+Nax0: shows [Ah 6c] (two pair, Kings and Sixes)
+mabeal1: shows [Ad Jd] (a flush, Ace high)
+mabeal1 collected 800 from pot
+Nax0 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Kc 4h Kd Qd 6d]
+Seat 1: Nax0 (small blind) showed [Ah 6c] and lost with two pair, Kings and Sixes
+Seat 2: mabeal1 (big blind) showed [Ad Jd] and won (800) with a flush, Ace high
+Seat 3: ansiedadd (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259395761087: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:17:55 CET [2026/01/20 17:17:55 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1015 in chips) 
+Seat 3: ansiedadd (485 in chips) 
+mabeal1: posts small blind 15
+ansiedadd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Jh]
+mabeal1: raises 30 to 60
+ansiedadd: calls 30
+*** FLOP *** [8s 6c Ks]
+ansiedadd: checks 
+mabeal1: bets 30
+ansiedadd: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s 6c Ks]
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: ansiedadd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259395767433: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:18:20 CET [2026/01/20 17:18:20 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1075 in chips) 
+Seat 3: ansiedadd (425 in chips) 
+ansiedadd: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 7h]
+ansiedadd: calls 15
+mabeal1: checks 
+*** FLOP *** [Th 5c 9h]
+mabeal1: bets 30
+ansiedadd: calls 30
+*** TURN *** [Th 5c 9h] [3h]
+mabeal1: bets 120
+ansiedadd: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th 5c 9h 3h]
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: ansiedadd (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259395775256: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:18:52 CET [2026/01/20 17:18:52 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1135 in chips) 
+Seat 3: ansiedadd (365 in chips) 
+mabeal1: posts small blind 15
+ansiedadd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 6s]
+mabeal1: calls 15
+ansiedadd: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to ansiedadd
+ansiedadd collected 60 from pot
+ansiedadd: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: ansiedadd (big blind) collected (60)
+
+
+
+PokerStars Hand #259395777958: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:19:02 CET [2026/01/20 17:19:02 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1105 in chips) 
+Seat 3: ansiedadd (395 in chips) 
+ansiedadd: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Ad]
+ansiedadd: raises 30 to 60
+mabeal1: raises 1045 to 1105 and is all-in
+ansiedadd: folds 
+Uncalled bet (1045) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: ansiedadd (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395781572: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:19:17 CET [2026/01/20 17:19:17 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1165 in chips) 
+Seat 3: ansiedadd (335 in chips) 
+mabeal1: posts small blind 15
+ansiedadd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 6h]
+mabeal1: calls 15
+ansiedadd: checks 
+*** FLOP *** [6s Ac 5d]
+ansiedadd: checks 
+mabeal1: checks 
+*** TURN *** [6s Ac 5d] [Qh]
+ansiedadd: bets 30
+mabeal1: calls 30
+*** RIVER *** [6s Ac 5d Qh] [Kh]
+ansiedadd: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+ansiedadd: shows [Ah 9c] (a pair of Aces)
+mabeal1: mucks hand 
+ansiedadd collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6s Ac 5d Qh Kh]
+Seat 2: mabeal1 (button) (small blind) mucked [2d 6h]
+Seat 3: ansiedadd (big blind) showed [Ah 9c] and won (180) with a pair of Aces
+
+
+
+PokerStars Hand #259395785783: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:19:34 CET [2026/01/20 17:19:34 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1075 in chips) 
+Seat 3: ansiedadd (425 in chips) 
+ansiedadd: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Ad]
+ansiedadd: calls 15
+mabeal1: raises 60 to 90
+ansiedadd: calls 60
+*** FLOP *** [8c 6d As]
+mabeal1: bets 90
+ansiedadd: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8c 6d As]
+Seat 2: mabeal1 (big blind) collected (180)
+Seat 3: ansiedadd (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259395789542: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:19:49 CET [2026/01/20 17:19:49 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1165 in chips) 
+Seat 3: ansiedadd (335 in chips) 
+mabeal1: posts small blind 15
+ansiedadd: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Kh]
+mabeal1: raises 1135 to 1165 and is all-in
+ansiedadd: folds 
+Uncalled bet (1135) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (60)
+Seat 3: ansiedadd (big blind) folded before Flop
+
+
+
+PokerStars Hand #259395793068: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:20:03 CET [2026/01/20 17:20:03 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1195 in chips) 
+Seat 3: ansiedadd (305 in chips) 
+ansiedadd: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 7d]
+ansiedadd: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to ansiedadd
+ansiedadd collected 80 from pot
+ansiedadd: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: ansiedadd (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259395795752: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:20:14 CET [2026/01/20 17:20:14 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1155 in chips) 
+Seat 3: ansiedadd (345 in chips) 
+mabeal1: posts small blind 20
+ansiedadd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2c]
+mabeal1: calls 20
+ansiedadd: checks 
+*** FLOP *** [Kc Ts Ah]
+ansiedadd: checks 
+mabeal1: bets 40
+ansiedadd: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc Ts Ah]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: ansiedadd (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259395801674: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:20:39 CET [2026/01/20 17:20:39 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1195 in chips) 
+Seat 3: ansiedadd (305 in chips) 
+ansiedadd: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3c]
+ansiedadd: calls 20
+mabeal1: checks 
+*** FLOP *** [Tc 8s Kd]
+mabeal1: checks 
+ansiedadd: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to ansiedadd
+ansiedadd collected 80 from pot
+ansiedadd: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc 8s Kd]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: ansiedadd (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259395805219: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:20:53 CET [2026/01/20 17:20:53 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1155 in chips) 
+Seat 3: ansiedadd (345 in chips) 
+mabeal1: posts small blind 20
+ansiedadd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 6c]
+mabeal1: calls 20
+ansiedadd: checks 
+*** FLOP *** [3s Ks 6h]
+ansiedadd: checks 
+mabeal1: checks 
+*** TURN *** [3s Ks 6h] [7s]
+ansiedadd: checks 
+mabeal1: bets 40
+ansiedadd: calls 40
+*** RIVER *** [3s Ks 6h 7s] [7h]
+ansiedadd: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+ansiedadd: shows [8c Qd] (a pair of Sevens)
+mabeal1: shows [3h 6c] (two pair, Sevens and Sixes)
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3s Ks 6h 7s 7h]
+Seat 2: mabeal1 (button) (small blind) showed [3h 6c] and won (160) with two pair, Sevens and Sixes
+Seat 3: ansiedadd (big blind) showed [8c Qd] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #259395813697: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:21:27 CET [2026/01/20 17:21:27 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1235 in chips) 
+Seat 3: ansiedadd (265 in chips) 
+ansiedadd: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 5s]
+ansiedadd: calls 20
+mabeal1: checks 
+*** FLOP *** [6s Kd 2h]
+mabeal1: checks 
+ansiedadd: bets 40
+mabeal1: raises 80 to 120
+ansiedadd: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6s Kd 2h]
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: ansiedadd (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259395819004: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:21:48 CET [2026/01/20 17:21:48 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1315 in chips) 
+Seat 3: ansiedadd (185 in chips) 
+mabeal1: posts small blind 20
+ansiedadd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 6c]
+mabeal1: raises 1275 to 1315 and is all-in
+ansiedadd: calls 145 and is all-in
+Uncalled bet (1130) returned to mabeal1
+*** FLOP *** [3d 2d 2c]
+*** TURN *** [3d 2d 2c] [Kd]
+*** RIVER *** [3d 2d 2c Kd] [2s]
+*** SHOW DOWN ***
+ansiedadd: shows [7d Ac] (three of a kind, Deuces)
+mabeal1: shows [As 6c] (three of a kind, Deuces)
+ansiedadd collected 185 from pot
+mabeal1 collected 185 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [3d 2d 2c Kd 2s]
+Seat 2: mabeal1 (button) (small blind) showed [As 6c] and won (185) with three of a kind, Deuces
+Seat 3: ansiedadd (big blind) showed [7d Ac] and won (185) with three of a kind, Deuces
+
+
+
+PokerStars Hand #259395822162: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:22:01 CET [2026/01/20 17:22:01 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1315 in chips) 
+Seat 3: ansiedadd (185 in chips) 
+ansiedadd: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 5c]
+ansiedadd: calls 20
+mabeal1: checks 
+*** FLOP *** [Jc 5d 5s]
+mabeal1: checks 
+ansiedadd: checks 
+*** TURN *** [Jc 5d 5s] [Jd]
+mabeal1: checks 
+ansiedadd: bets 40
+mabeal1: calls 40
+*** RIVER *** [Jc 5d 5s Jd] [Kd]
+mabeal1: bets 120
+ansiedadd: calls 105 and is all-in
+Uncalled bet (15) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [2s 5c] (a full house, Fives full of Jacks)
+ansiedadd: shows [5h 9s] (a full house, Fives full of Jacks)
+mabeal1 collected 185 from pot
+ansiedadd collected 185 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [Jc 5d 5s Jd Kd]
+Seat 2: mabeal1 (big blind) showed [2s 5c] and won (185) with a full house, Fives full of Jacks
+Seat 3: ansiedadd (button) (small blind) showed [5h 9s] and won (185) with a full house, Fives full of Jacks
+
+
+
+PokerStars Hand #259395829536: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:22:30 CET [2026/01/20 17:22:30 ET]
+Table '3967568245 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1315 in chips) 
+Seat 3: ansiedadd (185 in chips) 
+mabeal1: posts small blind 20
+ansiedadd: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ad]
+mabeal1: raises 1275 to 1315 and is all-in
+ansiedadd: folds 
+Uncalled bet (1275) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: ansiedadd (big blind) folded before Flop
+
+
+
+PokerStars Hand #259395831363: Tournament #3967568245, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:22:38 CET [2026/01/20 17:22:38 ET]
+Table '3967568245 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1355 in chips) 
+Seat 3: ansiedadd (145 in chips) 
+ansiedadd: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 8c]
+ansiedadd: calls 20
+mabeal1: raises 1315 to 1355 and is all-in
+ansiedadd: calls 105 and is all-in
+Uncalled bet (1210) returned to mabeal1
+*** FLOP *** [6h 8h Qh]
+*** TURN *** [6h 8h Qh] [2d]
+*** RIVER *** [6h 8h Qh 2d] [Tc]
+*** SHOW DOWN ***
+mabeal1: shows [Ad 8c] (a pair of Eights)
+ansiedadd: shows [Ac Jd] (high card Ace)
+mabeal1 collected 290 from pot
+ansiedadd finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 290 | Rake 0 
+Board [6h 8h Qh 2d Tc]
+Seat 2: mabeal1 (big blind) showed [Ad 8c] and won (290) with a pair of Eights
+Seat 3: ansiedadd (button) (small blind) showed [Ac Jd] and lost with high card Ace
+
+
+

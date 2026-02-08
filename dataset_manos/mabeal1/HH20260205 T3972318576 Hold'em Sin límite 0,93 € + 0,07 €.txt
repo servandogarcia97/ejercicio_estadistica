@@ -1,0 +1,1148 @@
+﻿PokerStars Hand #259601877361: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:38:38 CET [2026/02/05 10:38:38 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Adri19709 (500 in chips) 
+Seat 3: biogaia (500 in chips) 
+Adri19709: posts small blind 10
+biogaia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ks]
+mabeal1: folds 
+Adri19709: calls 10
+biogaia: checks 
+*** FLOP *** [7h Th 4d]
+Adri19709: checks 
+biogaia: bets 20
+Adri19709: calls 20
+*** TURN *** [7h Th 4d] [Js]
+Adri19709: checks 
+biogaia: checks 
+*** RIVER *** [7h Th 4d Js] [Jh]
+Adri19709: bets 20
+biogaia: calls 20
+*** SHOW DOWN ***
+Adri19709: shows [Kd 6c] (a pair of Jacks)
+biogaia: shows [7s 8s] (two pair, Jacks and Sevens)
+biogaia collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h Th 4d Js Jh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Adri19709 (small blind) showed [Kd 6c] and lost with a pair of Jacks
+Seat 3: biogaia (big blind) showed [7s 8s] and won (120) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #259601882025: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:39:06 CET [2026/02/05 10:39:06 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Adri19709 (440 in chips) 
+Seat 3: biogaia (560 in chips) 
+biogaia: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Ah]
+Adri19709: folds 
+biogaia: calls 10
+mabeal1: raises 40 to 60
+biogaia: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+Adri19709 is disconnected 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Adri19709 (button) folded before Flop (didn't bet)
+Seat 3: biogaia (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601884090: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:39:18 CET [2026/02/05 10:39:18 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: Adri19709 (440 in chips) 
+Seat 3: biogaia (540 in chips) 
+mabeal1: posts small blind 10
+Adri19709: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Th]
+biogaia: calls 20
+mabeal1: folds 
+Adri19709: checks 
+*** FLOP *** [Js 3d 5c]
+Adri19709: bets 20
+biogaia: calls 20
+*** TURN *** [Js 3d 5c] [3c]
+Adri19709: bets 20
+biogaia: calls 20
+*** RIVER *** [Js 3d 5c 3c] [Qh]
+Adri19709: bets 220
+biogaia: folds 
+Uncalled bet (220) returned to Adri19709
+Adri19709 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Js 3d 5c 3c Qh]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) collected (130)
+Seat 3: biogaia (button) folded on the River
+
+
+
+PokerStars Hand #259601887266: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:39:37 CET [2026/02/05 10:39:37 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Adri19709 (510 in chips) 
+Seat 3: biogaia (480 in chips) 
+Adri19709: posts small blind 10
+biogaia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 4s]
+mabeal1: folds 
+Adri19709: raises 20 to 40
+biogaia: calls 20
+*** FLOP *** [Th Kh Qh]
+Adri19709: bets 20
+biogaia: calls 20
+*** TURN *** [Th Kh Qh] [9d]
+Adri19709: bets 20
+biogaia: calls 20
+*** RIVER *** [Th Kh Qh 9d] [9s]
+Adri19709: bets 40
+biogaia: calls 40
+*** SHOW DOWN ***
+Adri19709: shows [8c 8h] (two pair, Nines and Eights)
+biogaia: shows [6c Qd] (two pair, Queens and Nines)
+biogaia collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Th Kh Qh 9d 9s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Adri19709 (small blind) showed [8c 8h] and lost with two pair, Nines and Eights
+Seat 3: biogaia (big blind) showed [6c Qd] and won (240) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #259601890200: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:39:54 CET [2026/02/05 10:39:54 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Adri19709 (390 in chips) 
+Seat 3: biogaia (600 in chips) 
+biogaia: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 7s]
+Adri19709: folds 
+biogaia: calls 10
+mabeal1: checks 
+*** FLOP *** [6c 8s 3h]
+biogaia: checks 
+mabeal1: checks 
+*** TURN *** [6c 8s 3h] [7h]
+biogaia: checks 
+mabeal1: bets 30
+biogaia: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c 8s 3h 7h]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Adri19709 (button) folded before Flop (didn't bet)
+Seat 3: biogaia (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259601893708: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:40:16 CET [2026/02/05 10:40:16 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Adri19709 (390 in chips) 
+Seat 3: biogaia (580 in chips) 
+mabeal1: posts small blind 10
+Adri19709: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7s]
+biogaia: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Adri19709
+Adri19709 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) collected (20)
+Seat 3: biogaia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601895219: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:40:24 CET [2026/02/05 10:40:24 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: Adri19709 (400 in chips) 
+Seat 3: biogaia (580 in chips) 
+Adri19709: posts small blind 10
+biogaia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Qs]
+mabeal1: raises 20 to 40
+Adri19709: calls 30
+biogaia: folds 
+*** FLOP *** [Ah Td 2h]
+Adri19709: checks 
+mabeal1: checks 
+*** TURN *** [Ah Td 2h] [7d]
+Adri19709: checks 
+mabeal1: checks 
+*** RIVER *** [Ah Td 2h 7d] [Ks]
+Adri19709: bets 20
+mabeal1: raises 50 to 70
+Adri19709: calls 50
+*** SHOW DOWN ***
+mabeal1: shows [Kd Qs] (a pair of Kings)
+Adri19709: mucks hand 
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ah Td 2h 7d Ks]
+Seat 1: mabeal1 (button) showed [Kd Qs] and won (240) with a pair of Kings
+Seat 2: Adri19709 (small blind) mucked [7s 8s]
+Seat 3: biogaia (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601899982: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:40:52 CET [2026/02/05 10:40:52 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: Adri19709 (290 in chips) 
+Seat 3: biogaia (560 in chips) 
+biogaia: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 5s]
+Adri19709: folds 
+biogaia: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to biogaia
+biogaia collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Adri19709 (button) folded before Flop (didn't bet)
+Seat 3: biogaia (small blind) collected (40)
+
+
+
+PokerStars Hand #259601902190: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:41:05 CET [2026/02/05 10:41:05 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (630 in chips) 
+Seat 2: Adri19709 (290 in chips) 
+Seat 3: biogaia (580 in chips) 
+mabeal1: posts small blind 10
+Adri19709: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 8d]
+biogaia: calls 20
+mabeal1: calls 10
+Adri19709: checks 
+*** FLOP *** [Ac Kh 9s]
+mabeal1: checks 
+Adri19709: bets 20
+biogaia: calls 20
+mabeal1: folds 
+*** TURN *** [Ac Kh 9s] [Qh]
+Adri19709: bets 20
+biogaia: calls 20
+*** RIVER *** [Ac Kh 9s Qh] [Ts]
+Adri19709: bets 20
+biogaia: raises 60 to 80
+Adri19709: calls 60
+*** SHOW DOWN ***
+biogaia: shows [Qs Th] (two pair, Queens and Tens)
+Adri19709: mucks hand 
+biogaia collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ac Kh 9s Qh Ts]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: Adri19709 (big blind) mucked [Kd 2h]
+Seat 3: biogaia (button) showed [Qs Th] and won (300) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #259601906408: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:41:30 CET [2026/02/05 10:41:30 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: Adri19709 (150 in chips) 
+Seat 3: biogaia (740 in chips) 
+Adri19709: posts small blind 10
+biogaia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Th]
+mabeal1: raises 20 to 40
+Adri19709: folds 
+biogaia: calls 20
+*** FLOP *** [Ad Kh 5s]
+biogaia: checks 
+mabeal1: bets 45
+biogaia: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ad Kh 5s]
+Seat 1: mabeal1 (button) collected (90)
+Seat 2: Adri19709 (small blind) folded before Flop
+Seat 3: biogaia (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259601909622: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:41:49 CET [2026/02/05 10:41:49 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 2: Adri19709 (140 in chips) 
+Seat 3: biogaia (700 in chips) 
+biogaia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Jh]
+Adri19709: calls 30
+biogaia: folds 
+mabeal1: raises 630 to 660 and is all-in
+Adri19709: calls 110 and is all-in
+Uncalled bet (520) returned to mabeal1
+*** FLOP *** [Qd Qh Ks]
+*** TURN *** [Qd Qh Ks] [As]
+*** RIVER *** [Qd Qh Ks As] [Ah]
+*** SHOW DOWN ***
+mabeal1: shows [Js Jh] (two pair, Aces and Queens)
+Adri19709: shows [Ad 8h] (a full house, Aces full of Queens)
+Adri19709 collected 295 from pot
+*** SUMMARY ***
+Total pot 295 | Rake 0 
+Board [Qd Qh Ks As Ah]
+Seat 1: mabeal1 (big blind) showed [Js Jh] and lost with two pair, Aces and Queens
+Seat 2: Adri19709 (button) showed [Ad 8h] and won (295) with a full house, Aces full of Queens
+Seat 3: biogaia (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601912150: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:42:04 CET [2026/02/05 10:42:04 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: Adri19709 (295 in chips) 
+Seat 3: biogaia (685 in chips) 
+mabeal1: posts small blind 15
+Adri19709: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4h]
+biogaia: raises 30 to 60
+mabeal1: folds 
+Adri19709: calls 30
+*** FLOP *** [3h Js 6c]
+Adri19709: checks 
+biogaia: checks 
+*** TURN *** [3h Js 6c] [8d]
+Adri19709: checks 
+biogaia: bets 68
+Adri19709: folds 
+Uncalled bet (68) returned to biogaia
+biogaia collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [3h Js 6c 8d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) folded on the Turn
+Seat 3: biogaia (button) collected (135)
+
+
+
+PokerStars Hand #259601915110: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:42:21 CET [2026/02/05 10:42:21 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (505 in chips) 
+Seat 2: Adri19709 (235 in chips) 
+Seat 3: biogaia (760 in chips) 
+Adri19709: posts small blind 15
+biogaia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3h]
+mabeal1: folds 
+Adri19709: calls 15
+biogaia: raises 30 to 60
+Adri19709: calls 30
+*** FLOP *** [8s Ts Js]
+Adri19709: bets 30
+biogaia: raises 30 to 60
+Adri19709: raises 30 to 90
+biogaia: raises 610 to 700 and is all-in
+Adri19709: calls 85 and is all-in
+Uncalled bet (525) returned to biogaia
+*** TURN *** [8s Ts Js] [3d]
+*** RIVER *** [8s Ts Js 3d] [Td]
+*** SHOW DOWN ***
+Adri19709: shows [9s 5s] (a flush, Jack high)
+biogaia: shows [Ks Jd] (two pair, Jacks and Tens)
+Adri19709 collected 470 from pot
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [8s Ts Js 3d Td]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Adri19709 (small blind) showed [9s 5s] and won (470) with a flush, Jack high
+Seat 3: biogaia (big blind) showed [Ks Jd] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #259601918852: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:42:43 CET [2026/02/05 10:42:43 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (505 in chips) 
+Seat 2: Adri19709 (470 in chips) 
+Seat 3: biogaia (525 in chips) 
+biogaia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 6h]
+Adri19709: calls 30
+biogaia: folds 
+mabeal1: checks 
+*** FLOP *** [3h Th 7h]
+mabeal1: checks 
+Adri19709: bets 30
+mabeal1: calls 30
+*** TURN *** [3h Th 7h] [9s]
+mabeal1: checks 
+Adri19709: bets 30
+mabeal1: calls 30
+*** RIVER *** [3h Th 7h 9s] [5h]
+mabeal1: checks 
+Adri19709: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+Adri19709: shows [8d Kd] (high card King)
+mabeal1: shows [9c 6h] (a flush, Ten high)
+mabeal1 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [3h Th 7h 9s 5h]
+Seat 1: mabeal1 (big blind) showed [9c 6h] and won (255) with a flush, Ten high
+Seat 2: Adri19709 (button) showed [8d Kd] and lost with high card King
+Seat 3: biogaia (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601922958: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:43:07 CET [2026/02/05 10:43:07 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (640 in chips) 
+Seat 2: Adri19709 (350 in chips) 
+Seat 3: biogaia (510 in chips) 
+mabeal1: posts small blind 15
+Adri19709: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ks]
+biogaia: raises 60 to 90
+mabeal1: folds 
+Adri19709: calls 60
+*** FLOP *** [Qh Jd 4h]
+Adri19709: checks 
+biogaia: bets 90
+Adri19709: folds 
+Uncalled bet (90) returned to biogaia
+biogaia collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [Qh Jd 4h]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) folded on the Flop
+Seat 3: biogaia (button) collected (195)
+
+
+
+PokerStars Hand #259601926222: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:43:26 CET [2026/02/05 10:43:26 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (625 in chips) 
+Seat 2: Adri19709 (260 in chips) 
+Seat 3: biogaia (615 in chips) 
+Adri19709: posts small blind 15
+biogaia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7c]
+mabeal1: folds 
+Adri19709: calls 15
+biogaia: checks 
+*** FLOP *** [4d 6h 9h]
+Adri19709: checks 
+biogaia: checks 
+*** TURN *** [4d 6h 9h] [Ts]
+Adri19709: checks 
+biogaia: checks 
+*** RIVER *** [4d 6h 9h Ts] [Qh]
+Adri19709: checks 
+biogaia: checks 
+*** SHOW DOWN ***
+Adri19709: shows [Kc 2d] (high card King)
+biogaia: mucks hand 
+Adri19709 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d 6h 9h Ts Qh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Adri19709 (small blind) showed [Kc 2d] and won (60) with high card King
+Seat 3: biogaia (big blind) mucked [8c 3d]
+
+
+
+PokerStars Hand #259601928750: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:43:41 CET [2026/02/05 10:43:41 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (625 in chips) 
+Seat 2: Adri19709 (290 in chips) 
+Seat 3: biogaia (585 in chips) 
+biogaia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 8s]
+Adri19709: calls 30
+biogaia: calls 15
+mabeal1: checks 
+*** FLOP *** [Qc Kd 6c]
+biogaia: checks 
+mabeal1: checks 
+Adri19709: bets 60
+biogaia: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to Adri19709
+Adri19709 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qc Kd 6c]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Adri19709 (button) collected (90)
+Seat 3: biogaia (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259601932316: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:44:01 CET [2026/02/05 10:44:01 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: Adri19709 (350 in chips) 
+Seat 3: biogaia (555 in chips) 
+mabeal1: posts small blind 15
+Adri19709: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 5c]
+biogaia: raises 30 to 60
+mabeal1: folds 
+Adri19709: calls 30
+*** FLOP *** [7s 7c Jh]
+Adri19709: bets 30
+biogaia: calls 30
+*** TURN *** [7s 7c Jh] [6c]
+Adri19709: bets 90
+biogaia: folds 
+Uncalled bet (90) returned to Adri19709
+Adri19709 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [7s 7c Jh 6c]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) collected (195)
+Seat 3: biogaia (button) folded on the Turn
+
+
+
+PokerStars Hand #259601934737: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:44:15 CET [2026/02/05 10:44:15 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Adri19709 (455 in chips) 
+Seat 3: biogaia (465 in chips) 
+Adri19709: posts small blind 15
+biogaia: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 8c]
+mabeal1: folds 
+Adri19709: calls 15
+biogaia: checks 
+*** FLOP *** [As 7h 5s]
+Adri19709: bets 30
+biogaia: folds 
+Uncalled bet (30) returned to Adri19709
+Adri19709 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 7h 5s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Adri19709 (small blind) collected (60)
+Seat 3: biogaia (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259601937640: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:44:32 CET [2026/02/05 10:44:32 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Adri19709 (485 in chips) 
+Seat 3: biogaia (435 in chips) 
+biogaia: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 2h]
+Adri19709: calls 30
+biogaia: calls 15
+mabeal1: checks 
+*** FLOP *** [9d Js Ah]
+biogaia: checks 
+mabeal1: checks 
+Adri19709: bets 30
+biogaia: calls 30
+mabeal1: calls 30
+*** TURN *** [9d Js Ah] [Jh]
+biogaia: checks 
+mabeal1: checks 
+Adri19709: bets 30
+biogaia: folds 
+mabeal1: calls 30
+*** RIVER *** [9d Js Ah Jh] [Th]
+mabeal1: checks 
+Adri19709: bets 150
+mabeal1: calls 150
+*** SHOW DOWN ***
+Adri19709: shows [5h 8h] (a flush, Ace high)
+mabeal1: mucks hand 
+Adri19709 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [9d Js Ah Jh Th]
+Seat 1: mabeal1 (big blind) mucked [As 2h]
+Seat 2: Adri19709 (button) showed [5h 8h] and won (540) with a flush, Ace high
+Seat 3: biogaia (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259601943704: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:45:07 CET [2026/02/05 10:45:07 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (340 in chips) 
+Seat 2: Adri19709 (785 in chips) 
+Seat 3: biogaia (375 in chips) 
+mabeal1: posts small blind 20
+Adri19709: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Qs]
+biogaia: folds 
+mabeal1: raises 300 to 340 and is all-in
+Adri19709: folds 
+Uncalled bet (300) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (80)
+Seat 2: Adri19709 (big blind) folded before Flop
+Seat 3: biogaia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601945735: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:45:18 CET [2026/02/05 10:45:18 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: Adri19709 (745 in chips) 
+Seat 3: biogaia (375 in chips) 
+Adri19709: posts small blind 20
+biogaia: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7c]
+mabeal1: raises 40 to 80
+Adri19709: calls 60
+biogaia: folds 
+*** FLOP *** [Jd 6h Qd]
+Adri19709: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Adri19709
+Adri19709 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Jd 6h Qd]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: Adri19709 (small blind) collected (200)
+Seat 3: biogaia (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601949081: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:45:38 CET [2026/02/05 10:45:38 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (300 in chips) 
+Seat 2: Adri19709 (865 in chips) 
+Seat 3: biogaia (335 in chips) 
+biogaia: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ts]
+Adri19709: folds 
+biogaia: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Adri19709 (button) folded before Flop (didn't bet)
+Seat 3: biogaia (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601950001: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:45:43 CET [2026/02/05 10:45:43 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (320 in chips) 
+Seat 2: Adri19709 (865 in chips) 
+Seat 3: biogaia (315 in chips) 
+mabeal1: posts small blind 20
+Adri19709: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 2d]
+biogaia: calls 40
+mabeal1: folds 
+Adri19709: raises 40 to 80
+biogaia: calls 40
+*** FLOP *** [3d Td 3h]
+Adri19709: bets 40
+biogaia: calls 40
+*** TURN *** [3d Td 3h] [7c]
+Adri19709: checks 
+biogaia: checks 
+*** RIVER *** [3d Td 3h 7c] [6d]
+Adri19709: checks 
+biogaia: bets 130
+Adri19709: calls 130
+*** SHOW DOWN ***
+biogaia: shows [9d 8c] (a straight, Six to Ten)
+Adri19709: mucks hand 
+biogaia collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [3d Td 3h 7c 6d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) mucked [Qh Ah]
+Seat 3: biogaia (button) showed [9d 8c] and won (520) with a straight, Six to Ten
+
+
+
+PokerStars Hand #259601954483: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:46:09 CET [2026/02/05 10:46:09 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (300 in chips) 
+Seat 2: Adri19709 (615 in chips) 
+Seat 3: biogaia (585 in chips) 
+Adri19709: posts small blind 20
+biogaia: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 6s]
+mabeal1: raises 260 to 300 and is all-in
+Adri19709: folds 
+biogaia: folds 
+Uncalled bet (260) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) collected (100)
+Seat 2: Adri19709 (small blind) folded before Flop
+Seat 3: biogaia (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601956030: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:46:18 CET [2026/02/05 10:46:18 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (360 in chips) 
+Seat 2: Adri19709 (595 in chips) 
+Seat 3: biogaia (545 in chips) 
+biogaia: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 6c]
+Adri19709: folds 
+biogaia: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to biogaia
+biogaia collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Adri19709 (button) folded before Flop (didn't bet)
+Seat 3: biogaia (small blind) collected (80)
+
+
+
+PokerStars Hand #259601960146: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:46:42 CET [2026/02/05 10:46:42 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (320 in chips) 
+Seat 2: Adri19709 (595 in chips) 
+Seat 3: biogaia (585 in chips) 
+mabeal1: posts small blind 20
+Adri19709: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Ad]
+biogaia: raises 40 to 80
+mabeal1: raises 40 to 120
+Adri19709: calls 80
+biogaia: calls 40
+*** FLOP *** [7d 6c 4c]
+mabeal1: checks 
+Adri19709: checks 
+biogaia: checks 
+*** TURN *** [7d 6c 4c] [9h]
+mabeal1: bets 80
+Adri19709: folds 
+biogaia: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [7d 6c 4c 9h]
+Seat 1: mabeal1 (small blind) collected (360)
+Seat 2: Adri19709 (big blind) folded on the Turn
+Seat 3: biogaia (button) folded on the Turn
+
+
+
+PokerStars Hand #259601965455: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:47:13 CET [2026/02/05 10:47:13 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: Adri19709 (475 in chips) 
+Seat 3: biogaia (465 in chips) 
+Adri19709: posts small blind 20
+biogaia: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 4h]
+mabeal1: raises 520 to 560 and is all-in
+Adri19709: folds 
+biogaia: folds 
+Uncalled bet (520) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) collected (100)
+Seat 2: Adri19709 (small blind) folded before Flop
+Seat 3: biogaia (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601966626: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:47:20 CET [2026/02/05 10:47:20 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: Adri19709 (455 in chips) 
+Seat 3: biogaia (425 in chips) 
+biogaia: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3d]
+Adri19709: folds 
+biogaia: calls 20
+mabeal1: checks 
+*** FLOP *** [5c 9c 6c]
+biogaia: checks 
+mabeal1: checks 
+*** TURN *** [5c 9c 6c] [4c]
+biogaia: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to biogaia
+biogaia collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c 9c 6c 4c]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Adri19709 (button) folded before Flop (didn't bet)
+Seat 3: biogaia (small blind) collected (80)
+
+
+
+PokerStars Hand #259601969005: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:47:34 CET [2026/02/05 10:47:34 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Adri19709 (455 in chips) 
+Seat 3: biogaia (465 in chips) 
+mabeal1: posts small blind 20
+Adri19709: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6h]
+biogaia: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Adri19709
+Adri19709 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) collected (40)
+Seat 3: biogaia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601970611: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:47:43 CET [2026/02/05 10:47:43 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: Adri19709 (475 in chips) 
+Seat 3: biogaia (465 in chips) 
+Adri19709: posts small blind 30
+biogaia: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Tc]
+mabeal1: raises 500 to 560 and is all-in
+Adri19709: folds 
+biogaia: folds 
+Uncalled bet (500) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (button) collected (150)
+Seat 2: Adri19709 (small blind) folded before Flop
+Seat 3: biogaia (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601972926: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:47:57 CET [2026/02/05 10:47:57 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: Adri19709 (445 in chips) 
+Seat 3: biogaia (405 in chips) 
+biogaia: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 5d]
+Adri19709: folds 
+biogaia: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: Adri19709 (button) folded before Flop (didn't bet)
+Seat 3: biogaia (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601973963: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:48:02 CET [2026/02/05 10:48:02 ET]
+Table '3972318576 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (680 in chips) 
+Seat 2: Adri19709 (445 in chips) 
+Seat 3: biogaia (375 in chips) 
+mabeal1: posts small blind 30
+Adri19709: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 9h]
+biogaia: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to Adri19709
+Adri19709 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) collected (60)
+Seat 3: biogaia (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601975169: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:48:09 CET [2026/02/05 10:48:09 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: Adri19709 (475 in chips) 
+Seat 3: biogaia (375 in chips) 
+Adri19709: posts small blind 30
+biogaia: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Td]
+mabeal1: raises 60 to 120
+Adri19709: calls 90
+biogaia: raises 255 to 375 and is all-in
+mabeal1: folds 
+Adri19709: calls 255
+*** FLOP *** [Jd 6s Qd]
+*** TURN *** [Jd 6s Qd] [5h]
+*** RIVER *** [Jd 6s Qd 5h] [Tc]
+*** SHOW DOWN ***
+Adri19709: shows [Ac Th] (a pair of Tens)
+biogaia: shows [As 3d] (high card Ace)
+Adri19709 collected 870 from pot
+biogaia finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [Jd 6s Qd 5h Tc]
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: Adri19709 (small blind) showed [Ac Th] and won (870) with a pair of Tens
+Seat 3: biogaia (big blind) showed [As 3d] and lost with high card Ace
+
+
+
+PokerStars Hand #259601980121: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:48:38 CET [2026/02/05 10:48:38 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Adri19709 (970 in chips) 
+Adri19709: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Ac]
+Adri19709: calls 30
+mabeal1: raises 470 to 530 and is all-in
+Adri19709: folds 
+Uncalled bet (470) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: Adri19709 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601981337: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:48:45 CET [2026/02/05 10:48:45 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: Adri19709 (910 in chips) 
+mabeal1: posts small blind 30
+Adri19709: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2c]
+mabeal1: folds 
+Uncalled bet (30) returned to Adri19709
+Adri19709 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) collected (60)
+
+
+
+PokerStars Hand #259601982156: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:48:50 CET [2026/02/05 10:48:50 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: Adri19709 (940 in chips) 
+Adri19709: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 2s]
+Adri19709: calls 30
+mabeal1: checks 
+*** FLOP *** [3s Jc 3c]
+mabeal1: checks 
+Adri19709: bets 60
+mabeal1: raises 60 to 120
+Adri19709: calls 60
+*** TURN *** [3s Jc 3c] [7s]
+mabeal1: checks 
+Adri19709: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Adri19709
+Adri19709 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [3s Jc 3c 7s]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Adri19709 (button) (small blind) collected (360)
+
+
+
+PokerStars Hand #259601984932: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:49:06 CET [2026/02/05 10:49:06 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: Adri19709 (1120 in chips) 
+mabeal1: posts small blind 30
+Adri19709: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 7c]
+mabeal1: raises 320 to 380 and is all-in
+Adri19709: folds 
+Uncalled bet (320) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 2: Adri19709 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601987225: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:49:19 CET [2026/02/05 10:49:19 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: Adri19709 (1060 in chips) 
+Adri19709: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ts]
+Adri19709: calls 30
+mabeal1: raises 380 to 440 and is all-in
+Adri19709: folds 
+Uncalled bet (380) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: Adri19709 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601988581: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:49:27 CET [2026/02/05 10:49:27 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Adri19709 (1000 in chips) 
+mabeal1: posts small blind 30
+Adri19709: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2d]
+mabeal1: folds 
+Uncalled bet (30) returned to Adri19709
+Adri19709 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: Adri19709 (big blind) collected (60)
+
+
+
+PokerStars Hand #259601989993: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:49:35 CET [2026/02/05 10:49:35 ET]
+Table '3972318576 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: Adri19709 (1030 in chips) 
+Adri19709: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5s]
+Adri19709: calls 30
+mabeal1: raises 410 to 470 and is all-in
+Adri19709: folds 
+Uncalled bet (410) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: Adri19709 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601991324: Tournament #3972318576, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:49:43 CET [2026/02/05 10:49:43 ET]
+Table '3972318576 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Adri19709 (970 in chips) 
+mabeal1: posts small blind 30
+Adri19709: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4d]
+mabeal1: raises 470 to 530 and is all-in
+Adri19709: calls 470
+*** FLOP *** [5d 7d 9c]
+*** TURN *** [5d 7d 9c] [Ks]
+*** RIVER *** [5d 7d 9c Ks] [9d]
+*** SHOW DOWN ***
+Adri19709: shows [Ac 9s] (three of a kind, Nines)
+mabeal1: shows [As 4d] (a pair of Nines)
+Adri19709 collected 1060 from pot
+mabeal1 finished the tournament in 2nd place
+Adri19709 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [5d 7d 9c Ks 9d]
+Seat 1: mabeal1 (button) (small blind) showed [As 4d] and lost with a pair of Nines
+Seat 2: Adri19709 (big blind) showed [Ac 9s] and won (1060) with three of a kind, Nines
+
+
+

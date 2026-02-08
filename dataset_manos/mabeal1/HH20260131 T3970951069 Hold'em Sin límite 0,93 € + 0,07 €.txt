@@ -1,0 +1,592 @@
+﻿PokerStars Hand #259541563614: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:16:50 CET [2026/01/31 18:16:50 ET]
+Table '3970951069 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: largo86 (500 in chips) 
+Seat 3: san ginés (500 in chips) 
+largo86: posts small blind 10
+san ginés: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 2s]
+mabeal1: raises 20 to 40
+largo86: calls 30
+san ginés: calls 20
+*** FLOP *** [9c 6h 4c]
+largo86: checks 
+san ginés: checks 
+mabeal1: checks 
+*** TURN *** [9c 6h 4c] [3h]
+largo86: checks 
+san ginés: checks 
+mabeal1: checks 
+*** RIVER *** [9c 6h 4c 3h] [Qc]
+largo86: checks 
+san ginés: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+largo86: shows [8s 3s] (a pair of Threes)
+san ginés: mucks hand 
+mabeal1: mucks hand 
+largo86 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c 6h 4c 3h Qc]
+Seat 1: mabeal1 (button) mucked [Ad 2s]
+Seat 2: largo86 (small blind) showed [8s 3s] and won (120) with a pair of Threes
+Seat 3: san ginés (big blind) mucked [2d Th]
+
+
+
+PokerStars Hand #259541571997: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:17:27 CET [2026/01/31 18:17:27 ET]
+Table '3970951069 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: largo86 (580 in chips) 
+Seat 3: san ginés (460 in chips) 
+san ginés: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 3c]
+largo86: calls 20
+san ginés: calls 10
+mabeal1: checks 
+*** FLOP *** [Kh Qs 6c]
+san ginés: checks 
+mabeal1: checks 
+largo86: checks 
+*** TURN *** [Kh Qs 6c] [3d]
+san ginés: bets 60
+mabeal1: folds 
+largo86: calls 60
+*** RIVER *** [Kh Qs 6c 3d] [6h]
+san ginés: bets 180
+largo86: calls 180
+*** SHOW DOWN ***
+san ginés: shows [Qc Td] (two pair, Queens and Sixes)
+largo86: shows [Kd Tc] (two pair, Kings and Sixes)
+largo86 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Kh Qs 6c 3d 6h]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: largo86 (button) showed [Kd Tc] and won (540) with two pair, Kings and Sixes
+Seat 3: san ginés (small blind) showed [Qc Td] and lost with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #259541578737: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:17:56 CET [2026/01/31 18:17:56 ET]
+Table '3970951069 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: largo86 (860 in chips) 
+Seat 3: san ginés (200 in chips) 
+mabeal1: posts small blind 10
+largo86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 3c]
+san ginés: calls 20
+mabeal1: folds 
+largo86: checks 
+*** FLOP *** [8d 2d 7h]
+largo86: checks 
+san ginés: bets 50
+largo86: calls 50
+*** TURN *** [8d 2d 7h] [9s]
+largo86: checks 
+san ginés: bets 130 and is all-in
+largo86: folds 
+Uncalled bet (130) returned to san ginés
+san ginés collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [8d 2d 7h 9s]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: largo86 (big blind) folded on the Turn
+Seat 3: san ginés (button) collected (150)
+
+
+
+PokerStars Hand #259541587756: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:18:35 CET [2026/01/31 18:18:35 ET]
+Table '3970951069 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: largo86 (790 in chips) 
+Seat 3: san ginés (280 in chips) 
+largo86: posts small blind 10
+san ginés: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 3h]
+mabeal1: folds 
+largo86: calls 10
+san ginés: checks 
+*** FLOP *** [Qc 5s 7d]
+largo86: checks 
+san ginés: checks 
+*** TURN *** [Qc 5s 7d] [5h]
+largo86: checks 
+san ginés: checks 
+*** RIVER *** [Qc 5s 7d 5h] [6h]
+largo86: checks 
+san ginés: checks 
+*** SHOW DOWN ***
+largo86: shows [9h Ac] (a pair of Fives)
+san ginés: mucks hand 
+largo86 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qc 5s 7d 5h 6h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: largo86 (small blind) showed [9h Ac] and won (40) with a pair of Fives
+Seat 3: san ginés (big blind) mucked [9c 4d]
+
+
+
+PokerStars Hand #259541596480: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:19:14 CET [2026/01/31 18:19:14 ET]
+Table '3970951069 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: largo86 (810 in chips) 
+Seat 3: san ginés (260 in chips) 
+san ginés: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 4c]
+largo86: folds 
+san ginés: calls 15
+mabeal1: raises 400 to 430 and is all-in
+san ginés: folds 
+Uncalled bet (400) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: largo86 (button) folded before Flop (didn't bet)
+Seat 3: san ginés (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541600032: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:19:30 CET [2026/01/31 18:19:30 ET]
+Table '3970951069 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: largo86 (810 in chips) 
+Seat 3: san ginés (230 in chips) 
+mabeal1: posts small blind 15
+largo86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Jd]
+san ginés: folds 
+mabeal1: raises 45 to 75
+largo86: calls 45
+*** FLOP *** [9c 2c 2h]
+mabeal1: bets 60
+largo86: calls 60
+*** TURN *** [9c 2c 2h] [Jh]
+mabeal1: bets 325 and is all-in
+largo86: folds 
+Uncalled bet (325) returned to mabeal1
+mabeal1 collected 270 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [9c 2c 2h Jh]
+Seat 1: mabeal1 (small blind) collected (270)
+Seat 2: largo86 (big blind) folded on the Turn
+Seat 3: san ginés (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259541605802: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:19:55 CET [2026/01/31 18:19:55 ET]
+Table '3970951069 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: largo86 (675 in chips) 
+Seat 3: san ginés (230 in chips) 
+largo86: posts small blind 15
+san ginés: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Js]
+mabeal1: folds 
+largo86: folds 
+Uncalled bet (15) returned to san ginés
+san ginés collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: largo86 (small blind) folded before Flop
+Seat 3: san ginés (big blind) collected (30)
+
+
+
+PokerStars Hand #259541609419: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:20:11 CET [2026/01/31 18:20:11 ET]
+Table '3970951069 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: largo86 (660 in chips) 
+Seat 3: san ginés (245 in chips) 
+san ginés: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 9h]
+largo86: folds 
+san ginés: calls 15
+mabeal1: checks 
+*** FLOP *** [3h 7d Ah]
+san ginés: checks 
+mabeal1: checks 
+*** TURN *** [3h 7d Ah] [9d]
+san ginés: bets 30
+mabeal1: raises 90 to 120
+san ginés: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3h 7d Ah 9d]
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: largo86 (button) folded before Flop (didn't bet)
+Seat 3: san ginés (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259541615752: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:20:39 CET [2026/01/31 18:20:39 ET]
+Table '3970951069 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (655 in chips) 
+Seat 2: largo86 (660 in chips) 
+Seat 3: san ginés (185 in chips) 
+mabeal1: posts small blind 15
+largo86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9s]
+san ginés: calls 30
+mabeal1: calls 15
+largo86: checks 
+*** FLOP *** [Ks Qs Kd]
+mabeal1: checks 
+largo86: checks 
+san ginés: checks 
+*** TURN *** [Ks Qs Kd] [9h]
+mabeal1: checks 
+largo86: checks 
+san ginés: checks 
+*** RIVER *** [Ks Qs Kd 9h] [4c]
+mabeal1: bets 60
+largo86: calls 60
+san ginés: folds 
+*** SHOW DOWN ***
+mabeal1: shows [8d 9s] (two pair, Kings and Nines)
+largo86: mucks hand 
+mabeal1 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Ks Qs Kd 9h 4c]
+Seat 1: mabeal1 (small blind) showed [8d 9s] and won (210) with two pair, Kings and Nines
+Seat 2: largo86 (big blind) mucked [Ah 7d]
+Seat 3: san ginés (button) folded on the River
+
+
+
+PokerStars Hand #259541626803: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 0:21:27 CET [2026/01/31 18:21:27 ET]
+Table '3970951069 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (775 in chips) 
+Seat 2: largo86 (570 in chips) 
+Seat 3: san ginés (155 in chips) 
+largo86: posts small blind 20
+san ginés: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ad]
+mabeal1: raises 735 to 775 and is all-in
+largo86: folds 
+san ginés: calls 115 and is all-in
+Uncalled bet (620) returned to mabeal1
+*** FLOP *** [Td 7s Kd]
+*** TURN *** [Td 7s Kd] [Tc]
+*** RIVER *** [Td 7s Kd Tc] [Qc]
+*** SHOW DOWN ***
+san ginés: shows [3h 3d] (two pair, Tens and Threes)
+mabeal1: shows [8h Ad] (a pair of Tens)
+san ginés collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Td 7s Kd Tc Qc]
+Seat 1: mabeal1 (button) showed [8h Ad] and lost with a pair of Tens
+Seat 2: largo86 (small blind) folded before Flop
+Seat 3: san ginés (big blind) showed [3h 3d] and won (330) with two pair, Tens and Threes
+
+
+
+PokerStars Hand #259541632508: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 0:21:52 CET [2026/01/31 18:21:52 ET]
+Table '3970951069 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: largo86 (550 in chips) 
+Seat 3: san ginés (330 in chips) 
+san ginés: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qs]
+largo86: folds 
+san ginés: calls 20
+mabeal1: checks 
+*** FLOP *** [9h Kh Ks]
+san ginés: checks 
+mabeal1: checks 
+*** TURN *** [9h Kh Ks] [Ac]
+san ginés: checks 
+mabeal1: checks 
+*** RIVER *** [9h Kh Ks Ac] [Kd]
+san ginés: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+san ginés: shows [Qh 5s] (three of a kind, Kings)
+mabeal1: shows [6d Qs] (three of a kind, Kings)
+san ginés collected 40 from pot
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Kh Ks Ac Kd]
+Seat 1: mabeal1 (big blind) showed [6d Qs] and won (40) with three of a kind, Kings
+Seat 2: largo86 (button) folded before Flop (didn't bet)
+Seat 3: san ginés (small blind) showed [Qh 5s] and won (40) with three of a kind, Kings
+
+
+
+PokerStars Hand #259541640198: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 0:22:25 CET [2026/01/31 18:22:25 ET]
+Table '3970951069 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: largo86 (550 in chips) 
+Seat 3: san ginés (330 in chips) 
+mabeal1: posts small blind 20
+largo86: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Th]
+san ginés: calls 40
+mabeal1: folds 
+largo86: checks 
+*** FLOP *** [2h 2c Qc]
+largo86: checks 
+san ginés: bets 100
+largo86: folds 
+Uncalled bet (100) returned to san ginés
+san ginés collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [2h 2c Qc]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: largo86 (big blind) folded on the Flop
+Seat 3: san ginés (button) collected (100)
+
+
+
+PokerStars Hand #259541644834: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 0:22:46 CET [2026/01/31 18:22:46 ET]
+Table '3970951069 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: largo86 (510 in chips) 
+Seat 3: san ginés (390 in chips) 
+largo86: posts small blind 20
+san ginés: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Qc]
+mabeal1: folds 
+largo86: folds 
+Uncalled bet (20) returned to san ginés
+san ginés collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: largo86 (small blind) folded before Flop
+Seat 3: san ginés (big blind) collected (40)
+
+
+
+PokerStars Hand #259541648121: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 0:23:00 CET [2026/01/31 18:23:00 ET]
+Table '3970951069 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: largo86 (490 in chips) 
+Seat 3: san ginés (410 in chips) 
+san ginés: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Ah]
+largo86: folds 
+san ginés: raises 350 to 410 and is all-in
+mabeal1: calls 350
+*** FLOP *** [Jc 4h Tc]
+*** TURN *** [Jc 4h Tc] [Th]
+*** RIVER *** [Jc 4h Tc Th] [9s]
+*** SHOW DOWN ***
+san ginés: shows [5s 5c] (two pair, Tens and Fives)
+mabeal1: shows [7s Ah] (a pair of Tens)
+san ginés collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Jc 4h Tc Th 9s]
+Seat 1: mabeal1 (big blind) showed [7s Ah] and lost with a pair of Tens
+Seat 2: largo86 (button) folded before Flop (didn't bet)
+Seat 3: san ginés (small blind) showed [5s 5c] and won (820) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #259541652074: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 0:23:18 CET [2026/01/31 18:23:18 ET]
+Table '3970951069 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (190 in chips) 
+Seat 2: largo86 (490 in chips) 
+Seat 3: san ginés (820 in chips) 
+mabeal1: posts small blind 30
+largo86: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7c]
+san ginés: folds 
+mabeal1: raises 130 to 190 and is all-in
+largo86: folds 
+Uncalled bet (130) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (120)
+Seat 2: largo86 (big blind) folded before Flop
+Seat 3: san ginés (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259541654302: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 0:23:27 CET [2026/01/31 18:23:27 ET]
+Table '3970951069 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (250 in chips) 
+Seat 2: largo86 (430 in chips) 
+Seat 3: san ginés (820 in chips) 
+largo86: posts small blind 30
+san ginés: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 5d]
+mabeal1: folds 
+largo86: folds 
+Uncalled bet (30) returned to san ginés
+san ginés collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: largo86 (small blind) folded before Flop
+Seat 3: san ginés (big blind) collected (60)
+
+
+
+PokerStars Hand #259541655662: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 0:23:33 CET [2026/01/31 18:23:33 ET]
+Table '3970951069 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (250 in chips) 
+Seat 2: largo86 (400 in chips) 
+Seat 3: san ginés (850 in chips) 
+san ginés: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 6s]
+largo86: folds 
+san ginés: raises 790 to 850 and is all-in
+mabeal1: folds 
+Uncalled bet (790) returned to san ginés
+san ginés collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: largo86 (button) folded before Flop (didn't bet)
+Seat 3: san ginés (small blind) collected (120)
+
+
+
+PokerStars Hand #259541660303: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 0:23:53 CET [2026/01/31 18:23:53 ET]
+Table '3970951069 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (190 in chips) 
+Seat 2: largo86 (400 in chips) 
+Seat 3: san ginés (910 in chips) 
+mabeal1: posts small blind 30
+largo86: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4d]
+san ginés: calls 60
+mabeal1: raises 130 to 190 and is all-in
+largo86: folds 
+san ginés: calls 130
+*** FLOP *** [6d 8h 7d]
+*** TURN *** [6d 8h 7d] [4h]
+*** RIVER *** [6d 8h 7d 4h] [6s]
+*** SHOW DOWN ***
+mabeal1: shows [Tc 4d] (two pair, Sixes and Fours)
+san ginés: shows [Kh 3h] (a pair of Sixes)
+mabeal1 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [6d 8h 7d 4h 6s]
+Seat 1: mabeal1 (small blind) showed [Tc 4d] and won (440) with two pair, Sixes and Fours
+Seat 2: largo86 (big blind) folded before Flop
+Seat 3: san ginés (button) showed [Kh 3h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259541664567: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 0:24:12 CET [2026/01/31 18:24:12 ET]
+Table '3970951069 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: largo86 (340 in chips) 
+Seat 3: san ginés (720 in chips) 
+largo86: posts small blind 30
+san ginés: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 6h]
+mabeal1: folds 
+largo86: folds 
+Uncalled bet (30) returned to san ginés
+san ginés collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: largo86 (small blind) folded before Flop
+Seat 3: san ginés (big blind) collected (60)
+
+
+
+PokerStars Hand #259541666860: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 0:24:22 CET [2026/01/31 18:24:22 ET]
+Table '3970951069 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: largo86 (310 in chips) 
+Seat 3: san ginés (750 in chips) 
+san ginés: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 4s]
+largo86: raises 250 to 310 and is all-in
+san ginés: folds 
+mabeal1: folds 
+Uncalled bet (250) returned to largo86
+largo86 collected 150 from pot
+largo86: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: largo86 (button) collected (150)
+Seat 3: san ginés (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541669738: Tournament #3970951069, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 0:24:35 CET [2026/01/31 18:24:35 ET]
+Table '3970951069 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: largo86 (400 in chips) 
+Seat 3: san ginés (720 in chips) 
+mabeal1: posts small blind 30
+largo86: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Kh]
+san ginés: calls 60
+mabeal1: raises 320 to 380 and is all-in
+largo86: raises 20 to 400 and is all-in
+san ginés: folds 
+Uncalled bet (20) returned to largo86
+*** FLOP *** [7h Qh Jd]
+*** TURN *** [7h Qh Jd] [Qd]
+*** RIVER *** [7h Qh Jd Qd] [Ac]
+*** SHOW DOWN ***
+mabeal1: shows [2d Kh] (a pair of Queens)
+largo86: shows [8d 8h] (two pair, Queens and Eights)
+largo86 collected 820 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [7h Qh Jd Qd Ac]
+Seat 1: mabeal1 (small blind) showed [2d Kh] and lost with a pair of Queens
+Seat 2: largo86 (big blind) showed [8d 8h] and won (820) with two pair, Queens and Eights
+Seat 3: san ginés (button) folded before Flop
+
+
+

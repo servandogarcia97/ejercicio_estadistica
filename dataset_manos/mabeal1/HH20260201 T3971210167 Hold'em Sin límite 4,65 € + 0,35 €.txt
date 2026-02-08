@@ -1,0 +1,141 @@
+﻿PokerStars Hand #259553454734: Tournament #3971210167, €4.65+€0.35 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:19:46 CET [2026/02/01 15:19:46 ET]
+Table '3971210167 1' 3-max Seat #1 is the button
+Seat 1: Papougame (500 in chips) 
+Seat 2: noire9 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+noire9: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 2d]
+Papougame: folds 
+noire9: calls 10
+mabeal1: checks 
+*** FLOP *** [Ts Tc 5d]
+noire9: checks 
+mabeal1: bets 20
+noire9: calls 20
+*** TURN *** [Ts Tc 5d] [2c]
+noire9: checks 
+mabeal1: bets 60
+noire9: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts Tc 5d 2c]
+Seat 1: Papougame (button) folded before Flop (didn't bet)
+Seat 2: noire9 (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259553466387: Tournament #3971210167, €4.65+€0.35 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:20:23 CET [2026/02/01 15:20:23 ET]
+Table '3971210167 1' 3-max Seat #2 is the button
+Seat 1: Papougame (500 in chips) 
+Seat 2: noire9 (460 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+mabeal1: posts small blind 10
+Papougame: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 2s]
+noire9: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Papougame
+Papougame collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Papougame (big blind) collected (20)
+Seat 2: noire9 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553470350: Tournament #3971210167, €4.65+€0.35 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:20:36 CET [2026/02/01 15:20:36 ET]
+Table '3971210167 1' 3-max Seat #3 is the button
+Seat 1: Papougame (510 in chips) 
+Seat 2: noire9 (460 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+Papougame: posts small blind 10
+noire9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 6s]
+mabeal1: folds 
+Papougame: raises 20 to 40
+noire9: folds 
+Uncalled bet (20) returned to Papougame
+Papougame collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Papougame (small blind) collected (40)
+Seat 2: noire9 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553473903: Tournament #3971210167, €4.65+€0.35 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:20:48 CET [2026/02/01 15:20:48 ET]
+Table '3971210167 1' 3-max Seat #1 is the button
+Seat 1: Papougame (530 in chips) 
+Seat 2: noire9 (440 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+noire9: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Jd]
+Papougame: folds 
+noire9: calls 10
+mabeal1: raises 40 to 60
+noire9: calls 40
+*** FLOP *** [4d 4h 3s]
+noire9: checks 
+mabeal1: bets 40
+noire9: raises 50 to 90
+mabeal1: calls 50
+*** TURN *** [4d 4h 3s] [8c]
+noire9: bets 99
+mabeal1: calls 99
+*** RIVER *** [4d 4h 3s 8c] [2d]
+noire9: bets 191 and is all-in
+mabeal1: calls 191
+*** SHOW DOWN ***
+noire9: shows [4s Ah] (three of a kind, Fours)
+mabeal1: shows [Qh Jd] (a pair of Fours)
+noire9 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [4d 4h 3s 8c 2d]
+Seat 1: Papougame (button) folded before Flop (didn't bet)
+Seat 2: noire9 (small blind) showed [4s Ah] and won (880) with three of a kind, Fours
+Seat 3: mabeal1 (big blind) showed [Qh Jd] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259553490032: Tournament #3971210167, €4.65+€0.35 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:21:40 CET [2026/02/01 15:21:40 ET]
+Table '3971210167 1' 3-max Seat #2 is the button
+Seat 1: Papougame (530 in chips) 
+Seat 2: noire9 (880 in chips) 
+Seat 3: mabeal1 (90 in chips) 
+mabeal1: posts small blind 10
+Papougame: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 7c]
+noire9: folds 
+mabeal1: raises 70 to 90 and is all-in
+Papougame: calls 70
+*** FLOP *** [8h Ah Qs]
+*** TURN *** [8h Ah Qs] [5h]
+*** RIVER *** [8h Ah Qs 5h] [5s]
+*** SHOW DOWN ***
+mabeal1: shows [Td 7c] (a pair of Fives)
+Papougame: shows [2d Kd] (a pair of Fives - Ace+King kicker)
+Papougame collected 180 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8h Ah Qs 5h 5s]
+Seat 1: Papougame (big blind) showed [2d Kd] and won (180) with a pair of Fives
+Seat 2: noire9 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [Td 7c] and lost with a pair of Fives
+
+
+

@@ -1,0 +1,590 @@
+﻿PokerStars Hand #259562060286: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:14:03 CET [2026/02/02 9:14:03 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (500 in chips) 
+Seat 2: Luichiman1 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Luichiman1: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 8h]
+javibibi6: folds 
+Luichiman1: raises 80 to 100
+mabeal1: folds 
+Uncalled bet (80) returned to Luichiman1
+Luichiman1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: javibibi6 (button) folded before Flop (didn't bet)
+Seat 2: Luichiman1 (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562061457: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:14:12 CET [2026/02/02 9:14:12 ET]
+Table '3971404087 1' 3-max Seat #2 is the button
+Seat 1: javibibi6 (500 in chips) 
+Seat 2: Luichiman1 (520 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+javibibi6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6h]
+Luichiman1: raises 20 to 40
+mabeal1: folds 
+javibibi6: folds 
+Uncalled bet (20) returned to Luichiman1
+Luichiman1 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: javibibi6 (big blind) folded before Flop
+Seat 2: Luichiman1 (button) collected (50)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562062804: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:14:21 CET [2026/02/02 9:14:21 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (480 in chips) 
+Seat 2: Luichiman1 (550 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+javibibi6: posts small blind 10
+Luichiman1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 3d]
+mabeal1: folds 
+javibibi6: raises 20 to 40
+Luichiman1: calls 20
+*** FLOP *** [7c 2s 6h]
+javibibi6: checks 
+Luichiman1: checks 
+*** TURN *** [7c 2s 6h] [Qc]
+javibibi6: bets 40
+Luichiman1: folds 
+Uncalled bet (40) returned to javibibi6
+javibibi6 collected 80 from pot
+javibibi6: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c 2s 6h Qc]
+Seat 1: javibibi6 (small blind) collected (80)
+Seat 2: Luichiman1 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259562066377: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:14:46 CET [2026/02/02 9:14:46 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (520 in chips) 
+Seat 2: Luichiman1 (510 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+Luichiman1: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3s]
+javibibi6: folds 
+Luichiman1: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to Luichiman1
+Luichiman1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: javibibi6 (button) folded before Flop (didn't bet)
+Seat 2: Luichiman1 (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562067617: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:14:55 CET [2026/02/02 9:14:55 ET]
+Table '3971404087 1' 3-max Seat #2 is the button
+Seat 1: javibibi6 (520 in chips) 
+Seat 2: Luichiman1 (530 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+mabeal1: posts small blind 10
+javibibi6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 2d]
+Luichiman1: raises 20 to 40
+mabeal1: folds 
+javibibi6: calls 20
+*** FLOP *** [7c Ac 2h]
+javibibi6: checks 
+Luichiman1: bets 80
+javibibi6: calls 80
+*** TURN *** [7c Ac 2h] [4s]
+javibibi6: checks 
+Luichiman1: bets 100
+javibibi6: calls 100
+*** RIVER *** [7c Ac 2h 4s] [6d]
+javibibi6: bets 300 and is all-in
+Luichiman1: folds 
+Uncalled bet (300) returned to javibibi6
+javibibi6 collected 450 from pot
+javibibi6: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [7c Ac 2h 4s 6d]
+Seat 1: javibibi6 (big blind) collected (450)
+Seat 2: Luichiman1 (button) folded on the River
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562074425: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:15:43 CET [2026/02/02 9:15:43 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (750 in chips) 
+Seat 2: Luichiman1 (310 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+javibibi6: posts small blind 10
+Luichiman1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 4d]
+mabeal1: folds 
+javibibi6: raises 730 to 750 and is all-in
+Luichiman1: folds 
+Uncalled bet (730) returned to javibibi6
+javibibi6 collected 40 from pot
+javibibi6: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: javibibi6 (small blind) collected (40)
+Seat 2: Luichiman1 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259562075822: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:15:53 CET [2026/02/02 9:15:53 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (770 in chips) 
+Seat 2: Luichiman1 (290 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+Luichiman1: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Td]
+javibibi6: folds 
+Luichiman1: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: javibibi6 (button) folded before Flop (didn't bet)
+Seat 2: Luichiman1 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259562076873: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:16:00 CET [2026/02/02 9:16:00 ET]
+Table '3971404087 1' 3-max Seat #2 is the button
+Seat 1: javibibi6 (770 in chips) 
+Seat 2: Luichiman1 (280 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+mabeal1: posts small blind 10
+javibibi6: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 5s]
+Luichiman1: raises 20 to 40
+mabeal1: folds 
+javibibi6: raises 730 to 770 and is all-in
+Luichiman1: calls 240 and is all-in
+Uncalled bet (490) returned to javibibi6
+*** FLOP *** [5d Js 3s]
+*** TURN *** [5d Js 3s] [8s]
+*** RIVER *** [5d Js 3s 8s] [8h]
+*** SHOW DOWN ***
+javibibi6: shows [Ad Ts] (a pair of Eights)
+Luichiman1: shows [9h Qh] (a pair of Eights - lower kicker)
+javibibi6 collected 570 from pot
+Luichiman1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [5d Js 3s 8s 8h]
+Seat 1: javibibi6 (big blind) showed [Ad Ts] and won (570) with a pair of Eights
+Seat 2: Luichiman1 (button) showed [9h Qh] and lost with a pair of Eights
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562080117: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:16:24 CET [2026/02/02 9:16:24 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (1060 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+javibibi6: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 7s]
+javibibi6: calls 15
+mabeal1: raises 410 to 440 and is all-in
+javibibi6: folds 
+Uncalled bet (410) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: javibibi6 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259562081656: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:16:35 CET [2026/02/02 9:16:35 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (1030 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+mabeal1: posts small blind 15
+javibibi6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Ts]
+mabeal1: calls 15
+javibibi6: raises 1000 to 1030 and is all-in
+mabeal1: folds 
+Uncalled bet (1000) returned to javibibi6
+javibibi6 collected 60 from pot
+javibibi6: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: javibibi6 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562083590: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:16:48 CET [2026/02/02 9:16:48 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (1060 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+javibibi6: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 7s]
+javibibi6: calls 15
+mabeal1: raises 410 to 440 and is all-in
+javibibi6: folds 
+Uncalled bet (410) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: javibibi6 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259562085105: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:16:59 CET [2026/02/02 9:16:59 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (1030 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+mabeal1: posts small blind 15
+javibibi6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Th]
+mabeal1: folds 
+Uncalled bet (15) returned to javibibi6
+javibibi6 collected 30 from pot
+javibibi6: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: javibibi6 (big blind) collected (30)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562087034: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:17:13 CET [2026/02/02 9:17:13 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (1045 in chips) 
+Seat 3: mabeal1 (455 in chips) 
+javibibi6: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Kh]
+javibibi6: calls 15
+mabeal1: checks 
+*** FLOP *** [6s 3d Tc]
+mabeal1: checks 
+javibibi6: checks 
+*** TURN *** [6s 3d Tc] [6h]
+mabeal1: checks 
+javibibi6: checks 
+*** RIVER *** [6s 3d Tc 6h] [7d]
+mabeal1: checks 
+javibibi6: checks 
+*** SHOW DOWN ***
+mabeal1: shows [8c Kh] (a pair of Sixes)
+javibibi6: shows [Kd 9s] (a pair of Sixes - King+Ten+Nine kicker)
+javibibi6 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s 3d Tc 6h 7d]
+Seat 1: javibibi6 (button) (small blind) showed [Kd 9s] and won (60) with a pair of Sixes
+Seat 3: mabeal1 (big blind) showed [8c Kh] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259562090441: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:17:36 CET [2026/02/02 9:17:36 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (1075 in chips) 
+Seat 3: mabeal1 (425 in chips) 
+mabeal1: posts small blind 15
+javibibi6: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 6c]
+mabeal1: raises 395 to 425 and is all-in
+javibibi6: folds 
+Uncalled bet (395) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: javibibi6 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259562091741: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:17:45 CET [2026/02/02 9:17:45 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (1045 in chips) 
+Seat 3: mabeal1 (455 in chips) 
+javibibi6: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Kc]
+javibibi6: calls 15
+mabeal1: checks 
+*** FLOP *** [3s Ac Kh]
+mabeal1: checks 
+javibibi6: bets 30
+mabeal1: calls 30
+*** TURN *** [3s Ac Kh] [Th]
+mabeal1: checks 
+javibibi6: bets 90
+mabeal1: calls 90
+*** RIVER *** [3s Ac Kh Th] [Tc]
+mabeal1: checks 
+javibibi6: checks 
+*** SHOW DOWN ***
+mabeal1: shows [9h Kc] (two pair, Kings and Tens)
+javibibi6: mucks hand 
+mabeal1 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [3s Ac Kh Th Tc]
+Seat 1: javibibi6 (button) (small blind) mucked [2d Js]
+Seat 3: mabeal1 (big blind) showed [9h Kc] and won (300) with two pair, Kings and Tens
+
+
+
+PokerStars Hand #259562096763: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:18:20 CET [2026/02/02 9:18:20 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (895 in chips) 
+Seat 3: mabeal1 (605 in chips) 
+mabeal1: posts small blind 20
+javibibi6: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 2s]
+mabeal1: raises 40 to 80
+javibibi6: calls 40
+*** FLOP *** [2d 3h 5c]
+javibibi6: checks 
+mabeal1: checks 
+*** TURN *** [2d 3h 5c] [Qh]
+javibibi6: bets 80
+mabeal1: calls 80
+*** RIVER *** [2d 3h 5c Qh] [Js]
+javibibi6: bets 200
+mabeal1: calls 200
+*** SHOW DOWN ***
+javibibi6: shows [Qs Tc] (a pair of Queens)
+mabeal1: mucks hand 
+javibibi6 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [2d 3h 5c Qh Js]
+Seat 1: javibibi6 (big blind) showed [Qs Tc] and won (720) with a pair of Queens
+Seat 3: mabeal1 (button) (small blind) mucked [As 2s]
+
+
+
+PokerStars Hand #259562103501: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:19:07 CET [2026/02/02 9:19:07 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (1255 in chips) 
+Seat 3: mabeal1 (245 in chips) 
+javibibi6: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3s]
+javibibi6: calls 20
+mabeal1: checks 
+*** FLOP *** [5d 7h 6s]
+mabeal1: checks 
+javibibi6: checks 
+*** TURN *** [5d 7h 6s] [Tc]
+mabeal1: bets 60
+javibibi6: raises 260 to 320
+mabeal1: calls 145 and is all-in
+Uncalled bet (115) returned to javibibi6
+*** RIVER *** [5d 7h 6s Tc] [Qs]
+*** SHOW DOWN ***
+mabeal1: shows [Ts 3s] (a pair of Tens)
+javibibi6: shows [4c Td] (a pair of Tens)
+mabeal1 collected 245 from pot
+javibibi6 collected 245 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [5d 7h 6s Tc Qs]
+Seat 1: javibibi6 (button) (small blind) showed [4c Td] and won (245) with a pair of Tens
+Seat 3: mabeal1 (big blind) showed [Ts 3s] and won (245) with a pair of Tens
+
+
+
+PokerStars Hand #259562108117: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:19:38 CET [2026/02/02 9:19:38 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (1255 in chips) 
+Seat 3: mabeal1 (245 in chips) 
+mabeal1: posts small blind 20
+javibibi6: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 4h]
+mabeal1: folds 
+Uncalled bet (20) returned to javibibi6
+javibibi6 collected 40 from pot
+javibibi6: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: javibibi6 (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562109666: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:19:49 CET [2026/02/02 9:19:49 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (1275 in chips) 
+Seat 3: mabeal1 (225 in chips) 
+javibibi6: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5c]
+javibibi6: calls 20
+mabeal1: checks 
+*** FLOP *** [6d 6c 2s]
+mabeal1: checks 
+javibibi6: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to javibibi6
+javibibi6 collected 80 from pot
+javibibi6: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d 6c 2s]
+Seat 1: javibibi6 (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259562111998: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 15:20:05 CET [2026/02/02 9:20:05 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (1315 in chips) 
+Seat 3: mabeal1 (185 in chips) 
+mabeal1: posts small blind 20
+javibibi6: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jc]
+mabeal1: raises 145 to 185 and is all-in
+javibibi6: folds 
+Uncalled bet (145) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: javibibi6 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259562113531: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 15:20:15 CET [2026/02/02 9:20:15 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (1275 in chips) 
+Seat 3: mabeal1 (225 in chips) 
+javibibi6: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6h]
+javibibi6: raises 240 to 300
+mabeal1: folds 
+Uncalled bet (240) returned to javibibi6
+javibibi6 collected 120 from pot
+javibibi6: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: javibibi6 (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562114601: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 15:20:22 CET [2026/02/02 9:20:22 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (1335 in chips) 
+Seat 3: mabeal1 (165 in chips) 
+mabeal1: posts small blind 30
+javibibi6: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8c]
+mabeal1: raises 105 to 165 and is all-in
+javibibi6: calls 105
+*** FLOP *** [8s 9d 2h]
+*** TURN *** [8s 9d 2h] [Kh]
+*** RIVER *** [8s 9d 2h Kh] [Ks]
+*** SHOW DOWN ***
+javibibi6: shows [7c 6d] (a pair of Kings)
+mabeal1: shows [7d 8c] (two pair, Kings and Eights)
+mabeal1 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [8s 9d 2h Kh Ks]
+Seat 1: javibibi6 (big blind) showed [7c 6d] and lost with a pair of Kings
+Seat 3: mabeal1 (button) (small blind) showed [7d 8c] and won (330) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #259562117207: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 15:20:40 CET [2026/02/02 9:20:40 ET]
+Table '3971404087 1' 3-max Seat #1 is the button
+Seat 1: javibibi6 (1170 in chips) 
+Seat 3: mabeal1 (330 in chips) 
+javibibi6: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6s]
+javibibi6: calls 30
+mabeal1: checks 
+*** FLOP *** [Tc Ks 8h]
+mabeal1: checks 
+javibibi6: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to javibibi6
+javibibi6 collected 120 from pot
+javibibi6: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc Ks 8h]
+Seat 1: javibibi6 (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259562119338: Tournament #3971404087, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 15:20:54 CET [2026/02/02 9:20:54 ET]
+Table '3971404087 1' 3-max Seat #3 is the button
+Seat 1: javibibi6 (1230 in chips) 
+Seat 3: mabeal1 (270 in chips) 
+mabeal1: posts small blind 30
+javibibi6: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Kc]
+mabeal1: raises 210 to 270 and is all-in
+javibibi6: folds 
+Uncalled bet (210) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: javibibi6 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+

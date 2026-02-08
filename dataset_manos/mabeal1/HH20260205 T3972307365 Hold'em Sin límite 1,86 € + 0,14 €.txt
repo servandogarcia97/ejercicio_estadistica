@@ -1,0 +1,232 @@
+﻿PokerStars Hand #259601431957: Tournament #3972307365, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:52:37 CET [2026/02/05 9:52:37 ET]
+Table '3972307365 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Rapha_81_per (500 in chips) 
+Seat 3: JUANPG1977 (500 in chips) 
+Rapha_81_per: posts small blind 10
+JUANPG1977: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 5d]
+mabeal1: folds 
+Rapha_81_per: folds 
+Uncalled bet (10) returned to JUANPG1977
+JUANPG1977 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Rapha_81_per (small blind) folded before Flop
+Seat 3: JUANPG1977 (big blind) collected (20)
+
+
+
+PokerStars Hand #259601432942: Tournament #3972307365, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:52:44 CET [2026/02/05 9:52:44 ET]
+Table '3972307365 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Rapha_81_per (490 in chips) 
+Seat 3: JUANPG1977 (510 in chips) 
+JUANPG1977: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Th]
+Rapha_81_per: raises 20 to 40
+JUANPG1977: folds 
+mabeal1: raises 460 to 500 and is all-in
+Rapha_81_per: calls 450 and is all-in
+Uncalled bet (10) returned to mabeal1
+*** FLOP *** [2s 7s 7h]
+*** TURN *** [2s 7s 7h] [Js]
+*** RIVER *** [2s 7s 7h Js] [3h]
+*** SHOW DOWN ***
+mabeal1: shows [Ah Th] (a pair of Sevens)
+Rapha_81_per: shows [Kc 9c] (a pair of Sevens - lower kicker)
+mabeal1 collected 990 from pot
+Rapha_81_per finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [2s 7s 7h Js 3h]
+Seat 1: mabeal1 (big blind) showed [Ah Th] and won (990) with a pair of Sevens
+Seat 2: Rapha_81_per (button) showed [Kc 9c] and lost with a pair of Sevens
+Seat 3: JUANPG1977 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601436181: Tournament #3972307365, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:53:04 CET [2026/02/05 9:53:04 ET]
+Table '3972307365 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 3: JUANPG1977 (500 in chips) 
+mabeal1: posts small blind 10
+JUANPG1977: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Qc]
+mabeal1: raises 40 to 60
+JUANPG1977: calls 40
+*** FLOP *** [9c 4s Qs]
+JUANPG1977: checks 
+mabeal1: checks 
+*** TURN *** [9c 4s Qs] [3d]
+JUANPG1977: checks 
+mabeal1: bets 90
+JUANPG1977: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c 4s Qs 3d]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: JUANPG1977 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259601438691: Tournament #3972307365, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:53:19 CET [2026/02/05 9:53:19 ET]
+Table '3972307365 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: JUANPG1977 (440 in chips) 
+JUANPG1977: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qd]
+JUANPG1977: calls 10
+mabeal1: checks 
+*** FLOP *** [8c 2d Tc]
+mabeal1: checks 
+JUANPG1977: bets 20
+mabeal1: raises 40 to 60
+JUANPG1977: calls 40
+*** TURN *** [8c 2d Tc] [7h]
+mabeal1: checks 
+JUANPG1977: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to JUANPG1977
+JUANPG1977 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8c 2d Tc 7h]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 3: JUANPG1977 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259601443349: Tournament #3972307365, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:53:48 CET [2026/02/05 9:53:48 ET]
+Table '3972307365 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 3: JUANPG1977 (520 in chips) 
+mabeal1: posts small blind 10
+JUANPG1977: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 7d]
+mabeal1: calls 10
+JUANPG1977: checks 
+*** FLOP *** [As 3d 6d]
+JUANPG1977: checks 
+mabeal1: checks 
+*** TURN *** [As 3d 6d] [3s]
+JUANPG1977: checks 
+mabeal1: checks 
+*** RIVER *** [As 3d 6d 3s] [4d]
+JUANPG1977: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+JUANPG1977: shows [7c Ks] (a pair of Threes)
+mabeal1: mucks hand 
+JUANPG1977 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As 3d 6d 3s 4d]
+Seat 1: mabeal1 (button) (small blind) mucked [Qs 7d]
+Seat 3: JUANPG1977 (big blind) showed [7c Ks] and won (40) with a pair of Threes
+
+
+
+PokerStars Hand #259601446341: Tournament #3972307365, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:54:07 CET [2026/02/05 9:54:07 ET]
+Table '3972307365 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 3: JUANPG1977 (540 in chips) 
+JUANPG1977: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6c]
+JUANPG1977: calls 10
+mabeal1: checks 
+*** FLOP *** [7c 9d 2d]
+mabeal1: checks 
+JUANPG1977: bets 20
+mabeal1: raises 40 to 60
+JUANPG1977: calls 40
+*** TURN *** [7c 9d 2d] [2s]
+mabeal1: bets 120
+JUANPG1977: calls 120
+*** RIVER *** [7c 9d 2d 2s] [Kc]
+mabeal1: bets 760 and is all-in
+JUANPG1977: calls 340 and is all-in
+Uncalled bet (420) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [8s 6c] (a pair of Deuces)
+JUANPG1977: shows [7d 5h] (two pair, Sevens and Deuces)
+JUANPG1977 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [7c 9d 2d 2s Kc]
+Seat 1: mabeal1 (big blind) showed [8s 6c] and lost with a pair of Deuces
+Seat 3: JUANPG1977 (button) (small blind) showed [7d 5h] and won (1080) with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #259601452063: Tournament #3972307365, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 15:54:43 CET [2026/02/05 9:54:43 ET]
+Table '3972307365 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 3: JUANPG1977 (1080 in chips) 
+mabeal1: posts small blind 15
+JUANPG1977: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 7d]
+mabeal1: calls 15
+JUANPG1977: checks 
+*** FLOP *** [5h Td 8c]
+JUANPG1977: bets 30
+mabeal1: raises 360 to 390 and is all-in
+JUANPG1977: calls 360
+*** TURN *** [5h Td 8c] [Ks]
+*** RIVER *** [5h Td 8c Ks] [9h]
+*** SHOW DOWN ***
+JUANPG1977: shows [8h 2d] (a pair of Eights)
+mabeal1: shows [9c 7d] (a pair of Nines)
+mabeal1 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [5h Td 8c Ks 9h]
+Seat 1: mabeal1 (button) (small blind) showed [9c 7d] and won (840) with a pair of Nines
+Seat 3: JUANPG1977 (big blind) showed [8h 2d] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259601455431: Tournament #3972307365, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 15:55:04 CET [2026/02/05 9:55:04 ET]
+Table '3972307365 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (840 in chips) 
+Seat 3: JUANPG1977 (660 in chips) 
+JUANPG1977: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Qh]
+JUANPG1977: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [6s Td Qd]
+mabeal1: bets 750 and is all-in
+JUANPG1977: calls 570 and is all-in
+Uncalled bet (180) returned to mabeal1
+*** TURN *** [6s Td Qd] [8d]
+*** RIVER *** [6s Td Qd 8d] [Tc]
+*** SHOW DOWN ***
+mabeal1: shows [7h Qh] (two pair, Queens and Tens)
+JUANPG1977: shows [9d 9s] (two pair, Tens and Nines)
+mabeal1 collected 1320 from pot
+JUANPG1977 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [6s Td Qd 8d Tc]
+Seat 1: mabeal1 (big blind) showed [7h Qh] and won (1320) with two pair, Queens and Tens
+Seat 3: JUANPG1977 (button) (small blind) showed [9d 9s] and lost with two pair, Tens and Nines
+
+
+

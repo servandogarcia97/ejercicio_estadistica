@@ -1,0 +1,314 @@
+﻿PokerStars Hand #259576632174: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:25:26 CET [2026/02/03 10:25:26 ET]
+Table '3971724084 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: FRANK2244 (500 in chips) 
+Seat 3: lagriffe137 (500 in chips) 
+FRANK2244: posts small blind 10
+lagriffe137: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Kh]
+mabeal1: folds 
+FRANK2244: raises 40 to 60
+lagriffe137: folds 
+Uncalled bet (40) returned to FRANK2244
+FRANK2244 collected 40 from pot
+FRANK2244: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: FRANK2244 (small blind) collected (40)
+Seat 3: lagriffe137 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576635261: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:25:44 CET [2026/02/03 10:25:44 ET]
+Table '3971724084 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: FRANK2244 (520 in chips) 
+Seat 3: lagriffe137 (480 in chips) 
+lagriffe137: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Qs]
+FRANK2244: folds 
+lagriffe137: calls 10
+mabeal1: raises 60 to 80
+lagriffe137: calls 60
+*** FLOP *** [3d 3h Js]
+lagriffe137: bets 400 and is all-in
+mabeal1: calls 400
+*** TURN *** [3d 3h Js] [7h]
+*** RIVER *** [3d 3h Js 7h] [Ad]
+*** SHOW DOWN ***
+lagriffe137: shows [6s 5h] (a pair of Threes)
+mabeal1: shows [Qc Qs] (two pair, Queens and Threes)
+mabeal1 collected 960 from pot
+lagriffe137 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [3d 3h Js 7h Ad]
+Seat 1: mabeal1 (big blind) showed [Qc Qs] and won (960) with two pair, Queens and Threes
+Seat 2: FRANK2244 (button) folded before Flop (didn't bet)
+Seat 3: lagriffe137 (small blind) showed [6s 5h] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259576640153: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:12 CET [2026/02/03 10:26:12 ET]
+Table '3971724084 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 2: FRANK2244 (520 in chips) 
+mabeal1: posts small blind 10
+FRANK2244: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 2h]
+mabeal1: folds 
+Uncalled bet (10) returned to FRANK2244
+FRANK2244 collected 20 from pot
+FRANK2244: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: FRANK2244 (big blind) collected (20)
+
+
+
+PokerStars Hand #259576640919: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:16 CET [2026/02/03 10:26:16 ET]
+Table '3971724084 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 2: FRANK2244 (530 in chips) 
+FRANK2244: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 6c]
+FRANK2244: raises 40 to 60
+mabeal1: raises 910 to 970 and is all-in
+FRANK2244: calls 470 and is all-in
+Uncalled bet (440) returned to mabeal1
+*** FLOP *** [Qc 4h Td]
+*** TURN *** [Qc 4h Td] [8d]
+*** RIVER *** [Qc 4h Td 8d] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [6s 6c] (a pair of Sixes)
+FRANK2244: shows [Tc 8c] (two pair, Tens and Eights)
+FRANK2244 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [Qc 4h Td 8d 7d]
+Seat 1: mabeal1 (big blind) showed [6s 6c] and lost with a pair of Sixes
+Seat 2: FRANK2244 (button) (small blind) showed [Tc 8c] and won (1060) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #259576644327: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:36 CET [2026/02/03 10:26:36 ET]
+Table '3971724084 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: FRANK2244 (1060 in chips) 
+mabeal1: posts small blind 10
+FRANK2244: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 9c]
+mabeal1: calls 10
+FRANK2244: checks 
+*** FLOP *** [Js Ac 4s]
+FRANK2244: checks 
+mabeal1: bets 20
+FRANK2244: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js Ac 4s]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: FRANK2244 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259576646608: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:49 CET [2026/02/03 10:26:49 ET]
+Table '3971724084 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: FRANK2244 (1040 in chips) 
+FRANK2244: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Qd]
+FRANK2244: raises 1020 to 1040 and is all-in
+mabeal1: folds 
+Uncalled bet (1020) returned to FRANK2244
+FRANK2244 collected 40 from pot
+FRANK2244: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: FRANK2244 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259576648166: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:57 CET [2026/02/03 10:26:57 ET]
+Table '3971724084 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: FRANK2244 (1060 in chips) 
+mabeal1: posts small blind 10
+FRANK2244: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Ad]
+mabeal1: raises 420 to 440 and is all-in
+FRANK2244: folds 
+Uncalled bet (420) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: FRANK2244 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576649316: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:27:04 CET [2026/02/03 10:27:04 ET]
+Table '3971724084 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: FRANK2244 (1040 in chips) 
+FRANK2244: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Qc]
+FRANK2244: calls 10
+mabeal1: checks 
+*** FLOP *** [5c 9h 7h]
+mabeal1: checks 
+FRANK2244: checks 
+*** TURN *** [5c 9h 7h] [5d]
+mabeal1: checks 
+FRANK2244: checks 
+*** RIVER *** [5c 9h 7h 5d] [Ah]
+mabeal1: checks 
+FRANK2244: checks 
+*** SHOW DOWN ***
+mabeal1: shows [8s Qc] (a pair of Fives)
+FRANK2244: mucks hand 
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5c 9h 7h 5d Ah]
+Seat 1: mabeal1 (big blind) showed [8s Qc] and won (40) with a pair of Fives
+Seat 2: FRANK2244 (button) (small blind) mucked [Jd Tc]
+
+
+
+PokerStars Hand #259576652848: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:27:24 CET [2026/02/03 10:27:24 ET]
+Table '3971724084 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: FRANK2244 (1020 in chips) 
+mabeal1: posts small blind 10
+FRANK2244: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Th]
+mabeal1: calls 10
+FRANK2244: checks 
+*** FLOP *** [3h 9d Kc]
+FRANK2244: checks 
+mabeal1: bets 20
+FRANK2244: calls 20
+*** TURN *** [3h 9d Kc] [9s]
+FRANK2244: checks 
+mabeal1: checks 
+*** RIVER *** [3h 9d Kc 9s] [9c]
+FRANK2244: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to FRANK2244
+FRANK2244 collected 80 from pot
+FRANK2244: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h 9d Kc 9s 9c]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 2: FRANK2244 (big blind) collected (80)
+
+
+
+PokerStars Hand #259576657683: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:27:51 CET [2026/02/03 10:27:51 ET]
+Table '3971724084 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: FRANK2244 (1060 in chips) 
+FRANK2244: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 6s]
+FRANK2244: calls 15
+mabeal1: checks 
+*** FLOP *** [5s 5c 7h]
+mabeal1: checks 
+FRANK2244: bets 60
+mabeal1: raises 90 to 150
+FRANK2244: raises 880 to 1030 and is all-in
+mabeal1: folds 
+Uncalled bet (880) returned to FRANK2244
+FRANK2244 collected 360 from pot
+FRANK2244: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [5s 5c 7h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: FRANK2244 (button) (small blind) collected (360)
+
+
+
+PokerStars Hand #259576661542: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:28:14 CET [2026/02/03 10:28:14 ET]
+Table '3971724084 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (260 in chips) 
+Seat 2: FRANK2244 (1240 in chips) 
+mabeal1: posts small blind 15
+FRANK2244: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Qh]
+mabeal1: raises 230 to 260 and is all-in
+FRANK2244: folds 
+Uncalled bet (230) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: FRANK2244 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576662861: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:28:21 CET [2026/02/03 10:28:21 ET]
+Table '3971724084 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (290 in chips) 
+Seat 2: FRANK2244 (1210 in chips) 
+FRANK2244: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 3s]
+FRANK2244: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: FRANK2244 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576663667: Tournament #3971724084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:28:26 CET [2026/02/03 10:28:26 ET]
+Table '3971724084 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (305 in chips) 
+Seat 2: FRANK2244 (1195 in chips) 
+mabeal1: posts small blind 15
+FRANK2244: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Ac]
+mabeal1: raises 275 to 305 and is all-in
+FRANK2244: folds 
+Uncalled bet (275) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: FRANK2244 (big blind) folded before Flop
+
+
+

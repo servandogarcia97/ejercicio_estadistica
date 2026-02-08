@@ -1,0 +1,344 @@
+﻿PokerStars Hand #259510392241: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:54:49 CET [2026/01/29 12:54:49 ET]
+Table '3970228085 1' 3-max Seat #1 is the button
+Seat 1: Cristian1307 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Goupil0831 (500 in chips) 
+mabeal1: posts small blind 10
+Goupil0831: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 5d]
+Cristian1307: folds 
+mabeal1: raises 40 to 60
+Goupil0831: calls 40
+*** FLOP *** [7h 7s Kh]
+mabeal1: bets 40
+Goupil0831: calls 40
+*** TURN *** [7h 7s Kh] [3d]
+mabeal1: checks 
+Goupil0831: bets 200
+mabeal1: folds 
+Uncalled bet (200) returned to Goupil0831
+Goupil0831 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7h 7s Kh 3d]
+Seat 1: Cristian1307 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded on the Turn
+Seat 3: Goupil0831 (big blind) collected (200)
+
+
+
+PokerStars Hand #259510399212: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:55:30 CET [2026/01/29 12:55:30 ET]
+Table '3970228085 1' 3-max Seat #2 is the button
+Seat 1: Cristian1307 (500 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: Goupil0831 (600 in chips) 
+Goupil0831: posts small blind 10
+Cristian1307: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Qs]
+mabeal1: raises 20 to 40
+Goupil0831: calls 30
+Cristian1307: calls 20
+*** FLOP *** [Td 2h 3d]
+Goupil0831: checks 
+Cristian1307: checks 
+mabeal1: checks 
+*** TURN *** [Td 2h 3d] [5h]
+Goupil0831: checks 
+Cristian1307: bets 20
+mabeal1: folds 
+Goupil0831: calls 20
+*** RIVER *** [Td 2h 3d 5h] [Qh]
+Goupil0831: checks 
+Cristian1307: checks 
+*** SHOW DOWN ***
+Goupil0831: shows [Kd 3s] (a pair of Threes)
+Cristian1307: shows [Th 9s] (a pair of Tens)
+Cristian1307 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Td 2h 3d 5h Qh]
+Seat 1: Cristian1307 (big blind) showed [Th 9s] and won (160) with a pair of Tens
+Seat 2: mabeal1 (button) folded on the Turn
+Seat 3: Goupil0831 (small blind) showed [Kd 3s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259510402468: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:55:53 CET [2026/01/29 12:55:53 ET]
+Table '3970228085 1' 3-max Seat #3 is the button
+Seat 1: Cristian1307 (600 in chips) 
+Seat 2: mabeal1 (360 in chips) 
+Seat 3: Goupil0831 (540 in chips) 
+Cristian1307: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 8s]
+Goupil0831: calls 20
+Cristian1307: folds 
+mabeal1: checks 
+*** FLOP *** [6h Ad 2s]
+mabeal1: checks 
+Goupil0831: checks 
+*** TURN *** [6h Ad 2s] [Ts]
+mabeal1: checks 
+Goupil0831: checks 
+*** RIVER *** [6h Ad 2s Ts] [6s]
+mabeal1: bets 80
+Goupil0831: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [6h Ad 2s Ts 6s]
+Seat 1: Cristian1307 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (50)
+Seat 3: Goupil0831 (button) folded on the River
+
+
+
+PokerStars Hand #259510405844: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:56:15 CET [2026/01/29 12:56:15 ET]
+Table '3970228085 1' 3-max Seat #1 is the button
+Seat 1: Cristian1307 (590 in chips) 
+Seat 2: mabeal1 (390 in chips) 
+Seat 3: Goupil0831 (520 in chips) 
+mabeal1: posts small blind 10
+Goupil0831: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8c]
+Cristian1307: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Goupil0831
+Goupil0831 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Cristian1307 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Goupil0831 (big blind) collected (20)
+
+
+
+PokerStars Hand #259510406848: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:56:22 CET [2026/01/29 12:56:22 ET]
+Table '3970228085 1' 3-max Seat #2 is the button
+Seat 1: Cristian1307 (590 in chips) 
+Seat 2: mabeal1 (380 in chips) 
+Seat 3: Goupil0831 (530 in chips) 
+Goupil0831: posts small blind 10
+Cristian1307: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Jh]
+mabeal1: raises 20 to 40
+Goupil0831: calls 30
+Cristian1307: folds 
+*** FLOP *** [Ad Kc Jd]
+Goupil0831: checks 
+mabeal1: bets 75
+Goupil0831: calls 75
+*** TURN *** [Ad Kc Jd] [4h]
+Goupil0831: checks 
+mabeal1: bets 265 and is all-in
+Goupil0831: folds 
+Uncalled bet (265) returned to mabeal1
+mabeal1 collected 250 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Ad Kc Jd 4h]
+Seat 1: Cristian1307 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (250)
+Seat 3: Goupil0831 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259510409576: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:56:40 CET [2026/01/29 12:56:40 ET]
+Table '3970228085 1' 3-max Seat #3 is the button
+Seat 1: Cristian1307 (570 in chips) 
+Seat 2: mabeal1 (515 in chips) 
+Seat 3: Goupil0831 (415 in chips) 
+Cristian1307: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Td]
+Goupil0831: calls 20
+Cristian1307: calls 10
+mabeal1: checks 
+*** FLOP *** [Tc 9h Jd]
+Cristian1307: checks 
+mabeal1: checks 
+Goupil0831: checks 
+*** TURN *** [Tc 9h Jd] [Qd]
+Cristian1307: checks 
+mabeal1: checks 
+Goupil0831: bets 20
+Cristian1307: calls 20
+mabeal1: folds 
+*** RIVER *** [Tc 9h Jd Qd] [6h]
+Cristian1307: checks 
+Goupil0831: checks 
+*** SHOW DOWN ***
+Cristian1307: shows [5s Ac] (high card Ace)
+Goupil0831: shows [Qc 7c] (a pair of Queens)
+Goupil0831 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Tc 9h Jd Qd 6h]
+Seat 1: Cristian1307 (small blind) showed [5s Ac] and lost with high card Ace
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Goupil0831 (button) showed [Qc 7c] and won (100) with a pair of Queens
+
+
+
+PokerStars Hand #259510412487: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:57:00 CET [2026/01/29 12:57:00 ET]
+Table '3970228085 1' 3-max Seat #1 is the button
+Seat 1: Cristian1307 (530 in chips) 
+Seat 2: mabeal1 (495 in chips) 
+Seat 3: Goupil0831 (475 in chips) 
+mabeal1: posts small blind 10
+Goupil0831: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 7d]
+Cristian1307: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Goupil0831
+Goupil0831 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Cristian1307 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Goupil0831 (big blind) collected (20)
+
+
+
+PokerStars Hand #259510413486: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:57:07 CET [2026/01/29 12:57:07 ET]
+Table '3970228085 1' 3-max Seat #2 is the button
+Seat 1: Cristian1307 (530 in chips) 
+Seat 2: mabeal1 (485 in chips) 
+Seat 3: Goupil0831 (485 in chips) 
+Goupil0831: posts small blind 10
+Cristian1307: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 6h]
+mabeal1: raises 465 to 485 and is all-in
+Goupil0831: folds 
+Cristian1307: calls 465
+*** FLOP *** [5d 9c 6d]
+*** TURN *** [5d 9c 6d] [Tc]
+*** RIVER *** [5d 9c 6d Tc] [2d]
+*** SHOW DOWN ***
+Cristian1307: shows [Ac Th] (a pair of Tens)
+mabeal1: shows [6s 6h] (three of a kind, Sixes)
+mabeal1 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [5d 9c 6d Tc 2d]
+Seat 1: Cristian1307 (big blind) showed [Ac Th] and lost with a pair of Tens
+Seat 2: mabeal1 (button) showed [6s 6h] and won (980) with three of a kind, Sixes
+Seat 3: Goupil0831 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259510415546: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:57:20 CET [2026/01/29 12:57:20 ET]
+Table '3970228085 1' 3-max Seat #3 is the button
+Seat 1: Cristian1307 (45 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+Seat 3: Goupil0831 (475 in chips) 
+Cristian1307: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7c]
+Goupil0831: calls 20
+Cristian1307: raises 20 to 40
+mabeal1: calls 20
+Goupil0831: calls 20
+*** FLOP *** [6d 3c 5s]
+Cristian1307: bets 5 and is all-in
+mabeal1: raises 75 to 80
+Goupil0831: calls 80
+*** TURN *** [6d 3c 5s] [2h]
+mabeal1: checks 
+Goupil0831: checks 
+*** RIVER *** [6d 3c 5s 2h] [6h]
+mabeal1: checks 
+Goupil0831: checks 
+*** SHOW DOWN ***
+mabeal1: shows [8d 7c] (a pair of Sixes)
+Goupil0831: shows [5h Ad] (two pair, Sixes and Fives)
+Goupil0831 collected 150 from side pot
+Cristian1307: mucks hand 
+Goupil0831 collected 135 from main pot
+Cristian1307 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 285 Main pot 135. Side pot 150. | Rake 0 
+Board [6d 3c 5s 2h 6h]
+Seat 1: Cristian1307 (small blind) mucked [7d Ah]
+Seat 2: mabeal1 (big blind) showed [8d 7c] and lost with a pair of Sixes
+Seat 3: Goupil0831 (button) showed [5h Ad] and won (285) with two pair, Sixes and Fives
+
+
+
+PokerStars Hand #259510421386: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:58:00 CET [2026/01/29 12:58:00 ET]
+Table '3970228085 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (860 in chips) 
+Seat 3: Goupil0831 (640 in chips) 
+mabeal1: posts small blind 15
+Goupil0831: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ts]
+mabeal1: calls 15
+Goupil0831: checks 
+*** FLOP *** [9c Ad 8s]
+Goupil0831: checks 
+mabeal1: bets 30
+Goupil0831: calls 30
+*** TURN *** [9c Ad 8s] [Jh]
+Goupil0831: checks 
+mabeal1: bets 90
+Goupil0831: calls 90
+*** RIVER *** [9c Ad 8s Jh] [9h]
+Goupil0831: bets 300
+mabeal1: folds 
+Uncalled bet (300) returned to Goupil0831
+Goupil0831 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [9c Ad 8s Jh 9h]
+Seat 2: mabeal1 (button) (small blind) folded on the River
+Seat 3: Goupil0831 (big blind) collected (300)
+
+
+
+PokerStars Hand #259510424402: Tournament #3970228085, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:58:20 CET [2026/01/29 12:58:20 ET]
+Table '3970228085 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (710 in chips) 
+Seat 3: Goupil0831 (790 in chips) 
+Goupil0831: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc As]
+Goupil0831: calls 15
+mabeal1: raises 60 to 90
+Goupil0831: calls 60
+*** FLOP *** [8h 9c 2d]
+mabeal1: bets 135
+Goupil0831: calls 135
+*** TURN *** [8h 9c 2d] [Jh]
+mabeal1: checks 
+Goupil0831: checks 
+*** RIVER *** [8h 9c 2d Jh] [3d]
+mabeal1: bets 485 and is all-in
+Goupil0831: calls 485
+*** SHOW DOWN ***
+mabeal1: shows [Qc As] (high card Ace)
+Goupil0831: shows [2c 8c] (two pair, Eights and Deuces)
+Goupil0831 collected 1420 from pot
+mabeal1 finished the tournament in 2nd place
+Goupil0831 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [8h 9c 2d Jh 3d]
+Seat 2: mabeal1 (big blind) showed [Qc As] and lost with high card Ace
+Seat 3: Goupil0831 (button) (small blind) showed [2c 8c] and won (1420) with two pair, Eights and Deuces
+
+
+

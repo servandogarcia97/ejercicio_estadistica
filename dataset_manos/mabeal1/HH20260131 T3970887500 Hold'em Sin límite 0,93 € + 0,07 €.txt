@@ -1,0 +1,142 @@
+﻿PokerStars Hand #259538539739: Tournament #3970887500, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:44:30 CET [2026/01/31 14:44:30 ET]
+Table '3970887500 1' 3-max Seat #1 is the button
+Seat 1: victorloyal (500 in chips) 
+Seat 2: Fof-RocK (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Fof-RocK: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 8s]
+victorloyal: folds 
+Fof-RocK: calls 10
+mabeal1: checks 
+*** FLOP *** [Kh Jd 4d]
+Fof-RocK: checks 
+mabeal1: checks 
+*** TURN *** [Kh Jd 4d] [Jc]
+Fof-RocK: checks 
+mabeal1: checks 
+*** RIVER *** [Kh Jd 4d Jc] [5h]
+Fof-RocK: checks 
+mabeal1: bets 60
+Fof-RocK: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [6c 8s] (a pair of Jacks)
+Fof-RocK: shows [Td 5d] (two pair, Jacks and Fives)
+Fof-RocK collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh Jd 4d Jc 5h]
+Seat 1: victorloyal (button) folded before Flop (didn't bet)
+Seat 2: Fof-RocK (small blind) showed [Td 5d] and won (160) with two pair, Jacks and Fives
+Seat 3: mabeal1 (big blind) showed [6c 8s] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259538545507: Tournament #3970887500, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:44:53 CET [2026/01/31 14:44:53 ET]
+Table '3970887500 1' 3-max Seat #2 is the button
+Seat 1: victorloyal (500 in chips) 
+Seat 2: Fof-RocK (580 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+mabeal1: posts small blind 10
+victorloyal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Kd]
+Fof-RocK: calls 20
+mabeal1: raises 60 to 80
+victorloyal: raises 100 to 180
+Fof-RocK: calls 160
+mabeal1: calls 100
+*** FLOP *** [7s Td Th]
+mabeal1: checks 
+victorloyal: checks 
+Fof-RocK: checks 
+*** TURN *** [7s Td Th] [2d]
+mabeal1: checks 
+victorloyal: bets 60
+Fof-RocK: calls 60
+mabeal1: calls 60
+*** RIVER *** [7s Td Th 2d] [As]
+mabeal1: checks 
+victorloyal: bets 140
+Fof-RocK: folds 
+mabeal1: folds 
+Uncalled bet (140) returned to victorloyal
+victorloyal collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [7s Td Th 2d As]
+Seat 1: victorloyal (big blind) collected (720)
+Seat 2: Fof-RocK (button) folded on the River
+Seat 3: mabeal1 (small blind) folded on the River
+
+
+
+PokerStars Hand #259538556111: Tournament #3970887500, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:45:38 CET [2026/01/31 14:45:38 ET]
+Table '3970887500 1' 3-max Seat #3 is the button
+Seat 1: victorloyal (980 in chips) 
+Seat 2: Fof-RocK (340 in chips) 
+Seat 3: mabeal1 (180 in chips) 
+victorloyal: posts small blind 10
+Fof-RocK: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Th]
+mabeal1: folds 
+victorloyal: raises 20 to 40
+Fof-RocK: calls 20
+*** FLOP *** [Td Kd 3d]
+victorloyal: checks 
+Fof-RocK: checks 
+*** TURN *** [Td Kd 3d] [Qd]
+victorloyal: bets 20
+Fof-RocK: calls 20
+*** RIVER *** [Td Kd 3d Qd] [Qh]
+victorloyal: bets 600
+Fof-RocK: folds 
+Uncalled bet (600) returned to victorloyal
+victorloyal collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Td Kd 3d Qd Qh]
+Seat 1: victorloyal (small blind) collected (120)
+Seat 2: Fof-RocK (big blind) folded on the River
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259538566804: Tournament #3970887500, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:46:22 CET [2026/01/31 14:46:22 ET]
+Table '3970887500 1' 3-max Seat #1 is the button
+Seat 1: victorloyal (1040 in chips) 
+Seat 2: Fof-RocK (280 in chips) 
+Seat 3: mabeal1 (180 in chips) 
+Fof-RocK: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 9s]
+victorloyal: calls 20
+Fof-RocK: calls 10
+mabeal1: raises 160 to 180 and is all-in
+victorloyal: calls 160
+Fof-RocK: calls 160
+*** FLOP *** [7s Ah 2s]
+Fof-RocK: checks 
+victorloyal: checks 
+*** TURN *** [7s Ah 2s] [Ac]
+Fof-RocK: bets 100 and is all-in
+victorloyal: folds 
+Uncalled bet (100) returned to Fof-RocK
+*** RIVER *** [7s Ah 2s Ac] [3h]
+*** SHOW DOWN ***
+Fof-RocK: shows [As 4s] (three of a kind, Aces)
+mabeal1: shows [Qc 9s] (a pair of Aces)
+Fof-RocK collected 540 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [7s Ah 2s Ac 3h]
+Seat 1: victorloyal (button) folded on the Turn
+Seat 2: Fof-RocK (small blind) showed [As 4s] and won (540) with three of a kind, Aces
+Seat 3: mabeal1 (big blind) showed [Qc 9s] and lost with a pair of Aces
+
+
+

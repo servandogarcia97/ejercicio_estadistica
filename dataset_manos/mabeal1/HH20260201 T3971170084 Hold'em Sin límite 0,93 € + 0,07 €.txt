@@ -1,0 +1,390 @@
+﻿PokerStars Hand #259551187795: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:06:14 CET [2026/02/01 13:06:14 ET]
+Table '3971170084 1' 3-max Seat #1 is the button
+Seat 1: Albertofs61 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: AttAckAA2 (500 in chips) 
+mabeal1: posts small blind 10
+AttAckAA2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 7s]
+Albertofs61: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to AttAckAA2
+AttAckAA2 collected 20 from pot
+AttAckAA2: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Albertofs61 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: AttAckAA2 (big blind) collected (20)
+
+
+
+PokerStars Hand #259551193879: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:06:36 CET [2026/02/01 13:06:36 ET]
+Table '3971170084 1' 3-max Seat #2 is the button
+Seat 1: Albertofs61 (500 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: AttAckAA2 (510 in chips) 
+AttAckAA2: posts small blind 10
+Albertofs61: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4h]
+mabeal1: folds 
+AttAckAA2: calls 10
+Albertofs61: checks 
+*** FLOP *** [4s 2s Qd]
+AttAckAA2: checks 
+Albertofs61: checks 
+*** TURN *** [4s 2s Qd] [6s]
+AttAckAA2: checks 
+Albertofs61: bets 20
+AttAckAA2: calls 20
+*** RIVER *** [4s 2s Qd 6s] [9d]
+AttAckAA2: checks 
+Albertofs61: checks 
+*** SHOW DOWN ***
+AttAckAA2: shows [Jh 3d] (high card Queen)
+Albertofs61: shows [5h 6h] (a pair of Sixes)
+Albertofs61 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 2s Qd 6s 9d]
+Seat 1: Albertofs61 (big blind) showed [5h 6h] and won (80) with a pair of Sixes
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: AttAckAA2 (small blind) showed [Jh 3d] and lost with high card Queen
+
+
+
+PokerStars Hand #259551204612: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:07:15 CET [2026/02/01 13:07:15 ET]
+Table '3971170084 1' 3-max Seat #3 is the button
+Seat 1: Albertofs61 (540 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: AttAckAA2 (470 in chips) 
+Albertofs61: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Jc]
+AttAckAA2: raises 20 to 40
+Albertofs61: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to AttAckAA2
+AttAckAA2 collected 50 from pot
+AttAckAA2: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Albertofs61 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: AttAckAA2 (button) collected (50)
+
+
+
+PokerStars Hand #259551208907: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:07:30 CET [2026/02/01 13:07:30 ET]
+Table '3971170084 1' 3-max Seat #1 is the button
+Seat 1: Albertofs61 (530 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: AttAckAA2 (500 in chips) 
+mabeal1: posts small blind 10
+AttAckAA2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 2h]
+Albertofs61: calls 20
+mabeal1: folds 
+AttAckAA2: checks 
+*** FLOP *** [4s 8d 6h]
+AttAckAA2: bets 37
+Albertofs61: calls 37
+*** TURN *** [4s 8d 6h] [Qc]
+AttAckAA2: bets 92
+Albertofs61: folds 
+Uncalled bet (92) returned to AttAckAA2
+AttAckAA2 collected 124 from pot
+AttAckAA2: doesn't show hand 
+*** SUMMARY ***
+Total pot 124 | Rake 0 
+Board [4s 8d 6h Qc]
+Seat 1: Albertofs61 (button) folded on the Turn
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: AttAckAA2 (big blind) collected (124)
+
+
+
+PokerStars Hand #259551215600: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 19:07:54 CET [2026/02/01 13:07:54 ET]
+Table '3971170084 1' 3-max Seat #2 is the button
+Seat 1: Albertofs61 (473 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: AttAckAA2 (567 in chips) 
+AttAckAA2: posts small blind 10
+Albertofs61: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 5c]
+mabeal1: folds 
+AttAckAA2: calls 10
+Albertofs61: raises 40 to 60
+AttAckAA2: calls 40
+*** FLOP *** [2h 7s 6s]
+AttAckAA2: checks 
+Albertofs61: checks 
+*** TURN *** [2h 7s 6s] [Kd]
+AttAckAA2: checks 
+Albertofs61: bets 60
+AttAckAA2: folds 
+Uncalled bet (60) returned to Albertofs61
+Albertofs61 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 7s 6s Kd]
+Seat 1: Albertofs61 (big blind) collected (120)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: AttAckAA2 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259551223126: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:08:21 CET [2026/02/01 13:08:21 ET]
+Table '3971170084 1' 3-max Seat #3 is the button
+Seat 1: Albertofs61 (533 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: AttAckAA2 (507 in chips) 
+Albertofs61: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 7c]
+AttAckAA2: folds 
+Albertofs61: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Albertofs61 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: AttAckAA2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259551224830: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:08:28 CET [2026/02/01 13:08:28 ET]
+Table '3971170084 1' 3-max Seat #1 is the button
+Seat 1: Albertofs61 (518 in chips) 
+Seat 2: mabeal1 (475 in chips) 
+Seat 3: AttAckAA2 (507 in chips) 
+mabeal1: posts small blind 15
+AttAckAA2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Kh]
+Albertofs61: folds 
+mabeal1: raises 45 to 75
+AttAckAA2: raises 432 to 507 and is all-in
+mabeal1: folds 
+Uncalled bet (432) returned to AttAckAA2
+AttAckAA2 collected 150 from pot
+AttAckAA2: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Albertofs61 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: AttAckAA2 (big blind) collected (150)
+
+
+
+PokerStars Hand #259551228915: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:08:42 CET [2026/02/01 13:08:42 ET]
+Table '3971170084 1' 3-max Seat #2 is the button
+Seat 1: Albertofs61 (518 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: AttAckAA2 (582 in chips) 
+AttAckAA2: posts small blind 15
+Albertofs61: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 4d]
+mabeal1: folds 
+AttAckAA2: folds 
+Uncalled bet (15) returned to Albertofs61
+Albertofs61 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Albertofs61 (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: AttAckAA2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551233289: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:08:58 CET [2026/02/01 13:08:58 ET]
+Table '3971170084 1' 3-max Seat #3 is the button
+Seat 1: Albertofs61 (533 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: AttAckAA2 (567 in chips) 
+Albertofs61: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 2h]
+AttAckAA2: folds 
+Albertofs61: calls 15
+mabeal1: checks 
+*** FLOP *** [Jh Qc 7d]
+Albertofs61: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Albertofs61
+Albertofs61 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jh Qc 7d]
+Seat 1: Albertofs61 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: AttAckAA2 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259551236720: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:09:10 CET [2026/02/01 13:09:10 ET]
+Table '3971170084 1' 3-max Seat #1 is the button
+Seat 1: Albertofs61 (563 in chips) 
+Seat 2: mabeal1 (370 in chips) 
+Seat 3: AttAckAA2 (567 in chips) 
+mabeal1: posts small blind 15
+AttAckAA2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9h]
+Albertofs61: folds 
+mabeal1: raises 45 to 75
+AttAckAA2: calls 45
+*** FLOP *** [2h 6s Qs]
+mabeal1: bets 60
+AttAckAA2: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [2h 6s Qs]
+Seat 1: Albertofs61 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (150)
+Seat 3: AttAckAA2 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259551243930: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:09:36 CET [2026/02/01 13:09:36 ET]
+Table '3971170084 1' 3-max Seat #2 is the button
+Seat 1: Albertofs61 (563 in chips) 
+Seat 2: mabeal1 (445 in chips) 
+Seat 3: AttAckAA2 (492 in chips) 
+AttAckAA2: posts small blind 15
+Albertofs61: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 3c]
+mabeal1: raises 30 to 60
+AttAckAA2: folds 
+Albertofs61: raises 60 to 120
+mabeal1: folds 
+Uncalled bet (60) returned to Albertofs61
+Albertofs61 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: Albertofs61 (big blind) collected (135)
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: AttAckAA2 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259551247860: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:09:50 CET [2026/02/01 13:09:50 ET]
+Table '3971170084 1' 3-max Seat #3 is the button
+Seat 1: Albertofs61 (638 in chips) 
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: AttAckAA2 (477 in chips) 
+Albertofs61: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 2d]
+AttAckAA2: raises 90 to 120
+Albertofs61: raises 518 to 638 and is all-in
+mabeal1: folds 
+AttAckAA2: calls 357 and is all-in
+Uncalled bet (161) returned to Albertofs61
+*** FLOP *** [2s 5h Jc]
+*** TURN *** [2s 5h Jc] [2c]
+*** RIVER *** [2s 5h Jc 2c] [9s]
+*** SHOW DOWN ***
+Albertofs61: shows [Qc Ad] (a pair of Deuces)
+AttAckAA2: shows [5s Ac] (two pair, Fives and Deuces)
+AttAckAA2 collected 984 from pot
+*** SUMMARY ***
+Total pot 984 | Rake 0 
+Board [2s 5h Jc 2c 9s]
+Seat 1: Albertofs61 (small blind) showed [Qc Ad] and lost with a pair of Deuces
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: AttAckAA2 (button) showed [5s Ac] and won (984) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #259551252783: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 19:10:08 CET [2026/02/01 13:10:08 ET]
+Table '3971170084 1' 3-max Seat #1 is the button
+Seat 1: Albertofs61 (161 in chips) 
+Seat 2: mabeal1 (355 in chips) 
+Seat 3: AttAckAA2 (984 in chips) 
+mabeal1: posts small blind 15
+AttAckAA2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Ah]
+Albertofs61: folds 
+mabeal1: raises 325 to 355 and is all-in
+AttAckAA2: folds 
+Uncalled bet (325) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Albertofs61 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: AttAckAA2 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259551256299: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:10:21 CET [2026/02/01 13:10:21 ET]
+Table '3971170084 1' 3-max Seat #2 is the button
+Seat 1: Albertofs61 (161 in chips) 
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: AttAckAA2 (954 in chips) 
+AttAckAA2: posts small blind 20
+Albertofs61: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Tc]
+mabeal1: folds 
+AttAckAA2: raises 914 to 954 and is all-in
+Albertofs61: folds 
+Uncalled bet (914) returned to AttAckAA2
+AttAckAA2 collected 80 from pot
+AttAckAA2: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Albertofs61 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: AttAckAA2 (small blind) collected (80)
+
+
+
+PokerStars Hand #259551258816: Tournament #3971170084, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 19:10:30 CET [2026/02/01 13:10:30 ET]
+Table '3971170084 1' 3-max Seat #3 is the button
+Seat 1: Albertofs61 (121 in chips) 
+Seat 2: mabeal1 (385 in chips) 
+Seat 3: AttAckAA2 (994 in chips) 
+Albertofs61: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Ac]
+AttAckAA2: raises 954 to 994 and is all-in
+Albertofs61: folds 
+mabeal1: calls 345 and is all-in
+Uncalled bet (609) returned to AttAckAA2
+*** FLOP *** [9d 2h Kc]
+*** TURN *** [9d 2h Kc] [Qh]
+*** RIVER *** [9d 2h Kc Qh] [5s]
+*** SHOW DOWN ***
+mabeal1: shows [3c Ac] (high card Ace)
+AttAckAA2: shows [9s 9c] (three of a kind, Nines)
+AttAckAA2 collected 790 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [9d 2h Kc Qh 5s]
+Seat 1: Albertofs61 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [3c Ac] and lost with high card Ace
+Seat 3: AttAckAA2 (button) showed [9s 9c] and won (790) with three of a kind, Nines
+
+
+

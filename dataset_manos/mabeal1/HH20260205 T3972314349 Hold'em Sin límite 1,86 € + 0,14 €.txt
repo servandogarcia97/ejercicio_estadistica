@@ -1,0 +1,587 @@
+﻿PokerStars Hand #259601703358: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:21:42 CET [2026/02/05 10:21:42 ET]
+Table '3972314349 1' 3-max Seat #1 is the button
+Seat 1: MAESTROVEGAS (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: GetluckyLana (500 in chips) 
+mabeal1: posts small blind 10
+GetluckyLana: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 3s]
+MAESTROVEGAS: folds 
+mabeal1: calls 10
+GetluckyLana: checks 
+*** FLOP *** [7d Qc 8d]
+mabeal1: checks 
+GetluckyLana: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to GetluckyLana
+GetluckyLana collected 40 from pot
+GetluckyLana: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7d Qc 8d]
+Seat 1: MAESTROVEGAS (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: GetluckyLana (big blind) collected (40)
+
+
+
+PokerStars Hand #259601709713: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:22:19 CET [2026/02/05 10:22:19 ET]
+Table '3972314349 1' 3-max Seat #2 is the button
+Seat 1: MAESTROVEGAS (500 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: GetluckyLana (520 in chips) 
+GetluckyLana: posts small blind 10
+MAESTROVEGAS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Qs]
+mabeal1: raises 20 to 40
+GetluckyLana: folds 
+MAESTROVEGAS: calls 20
+*** FLOP *** [9s 4h 7s]
+MAESTROVEGAS: checks 
+mabeal1: bets 68
+MAESTROVEGAS: calls 68
+*** TURN *** [9s 4h 7s] [Th]
+MAESTROVEGAS: checks 
+mabeal1: bets 170
+MAESTROVEGAS: folds 
+Uncalled bet (170) returned to mabeal1
+mabeal1 collected 226 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 226 | Rake 0 
+Board [9s 4h 7s Th]
+Seat 1: MAESTROVEGAS (big blind) folded on the Turn
+Seat 2: mabeal1 (button) collected (226)
+Seat 3: GetluckyLana (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601716231: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:22:57 CET [2026/02/05 10:22:57 ET]
+Table '3972314349 1' 3-max Seat #3 is the button
+Seat 1: MAESTROVEGAS (392 in chips) 
+Seat 2: mabeal1 (598 in chips) 
+Seat 3: GetluckyLana (510 in chips) 
+MAESTROVEGAS: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ac]
+GetluckyLana: raises 20 to 40
+MAESTROVEGAS: raises 80 to 120
+mabeal1: folds 
+GetluckyLana: folds 
+Uncalled bet (80) returned to MAESTROVEGAS
+MAESTROVEGAS collected 100 from pot
+MAESTROVEGAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: MAESTROVEGAS (small blind) collected (100)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: GetluckyLana (button) folded before Flop
+
+
+
+PokerStars Hand #259601720740: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:23:24 CET [2026/02/05 10:23:24 ET]
+Table '3972314349 1' 3-max Seat #1 is the button
+Seat 1: MAESTROVEGAS (452 in chips) 
+Seat 2: mabeal1 (578 in chips) 
+Seat 3: GetluckyLana (470 in chips) 
+mabeal1: posts small blind 10
+GetluckyLana: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Jc]
+MAESTROVEGAS: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to GetluckyLana
+GetluckyLana collected 20 from pot
+GetluckyLana: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MAESTROVEGAS (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: GetluckyLana (big blind) collected (20)
+
+
+
+PokerStars Hand #259601723102: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:23:38 CET [2026/02/05 10:23:38 ET]
+Table '3972314349 1' 3-max Seat #2 is the button
+Seat 1: MAESTROVEGAS (452 in chips) 
+Seat 2: mabeal1 (568 in chips) 
+Seat 3: GetluckyLana (480 in chips) 
+GetluckyLana: posts small blind 10
+MAESTROVEGAS: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 4d]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+mabeal1 has returned
+GetluckyLana: raises 40 to 60
+MAESTROVEGAS: calls 40
+*** FLOP *** [9h Th 6c]
+GetluckyLana: checks 
+MAESTROVEGAS: bets 120
+GetluckyLana: folds 
+Uncalled bet (120) returned to MAESTROVEGAS
+MAESTROVEGAS collected 120 from pot
+MAESTROVEGAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h Th 6c]
+Seat 1: MAESTROVEGAS (big blind) collected (120)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: GetluckyLana (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259601732142: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:24:31 CET [2026/02/05 10:24:31 ET]
+Table '3972314349 1' 3-max Seat #3 is the button
+Seat 1: MAESTROVEGAS (512 in chips) 
+Seat 2: mabeal1 (568 in chips) 
+Seat 3: GetluckyLana (420 in chips) 
+MAESTROVEGAS: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9c]
+GetluckyLana: folds 
+MAESTROVEGAS: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MAESTROVEGAS (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: GetluckyLana (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601735222: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:24:49 CET [2026/02/05 10:24:49 ET]
+Table '3972314349 1' 3-max Seat #1 is the button
+Seat 1: MAESTROVEGAS (497 in chips) 
+Seat 2: mabeal1 (583 in chips) 
+Seat 3: GetluckyLana (420 in chips) 
+mabeal1: posts small blind 15
+GetluckyLana: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ad]
+MAESTROVEGAS: calls 30
+mabeal1: raises 553 to 583 and is all-in
+GetluckyLana: folds 
+MAESTROVEGAS: folds 
+Uncalled bet (553) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: MAESTROVEGAS (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (90)
+Seat 3: GetluckyLana (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601736700: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:24:57 CET [2026/02/05 10:24:57 ET]
+Table '3972314349 1' 3-max Seat #2 is the button
+Seat 1: MAESTROVEGAS (467 in chips) 
+Seat 2: mabeal1 (643 in chips) 
+Seat 3: GetluckyLana (390 in chips) 
+GetluckyLana: posts small blind 15
+MAESTROVEGAS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Jd]
+mabeal1: folds 
+GetluckyLana: raises 45 to 75
+MAESTROVEGAS: calls 45
+*** FLOP *** [Th Qs 3h]
+GetluckyLana: bets 113
+MAESTROVEGAS: folds 
+Uncalled bet (113) returned to GetluckyLana
+GetluckyLana collected 150 from pot
+GetluckyLana: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Th Qs 3h]
+Seat 1: MAESTROVEGAS (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: GetluckyLana (small blind) collected (150)
+
+
+
+PokerStars Hand #259601741885: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 16:25:27 CET [2026/02/05 10:25:27 ET]
+Table '3972314349 1' 3-max Seat #3 is the button
+Seat 1: MAESTROVEGAS (392 in chips) 
+Seat 2: mabeal1 (643 in chips) 
+Seat 3: GetluckyLana (465 in chips) 
+MAESTROVEGAS: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3h]
+GetluckyLana: folds 
+MAESTROVEGAS: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to MAESTROVEGAS
+MAESTROVEGAS collected 60 from pot
+MAESTROVEGAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MAESTROVEGAS (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: GetluckyLana (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601746682: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:25:55 CET [2026/02/05 10:25:55 ET]
+Table '3972314349 1' 3-max Seat #1 is the button
+Seat 1: MAESTROVEGAS (422 in chips) 
+Seat 2: mabeal1 (613 in chips) 
+Seat 3: GetluckyLana (465 in chips) 
+mabeal1: posts small blind 20
+GetluckyLana: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 5h]
+MAESTROVEGAS: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to GetluckyLana
+GetluckyLana collected 40 from pot
+GetluckyLana: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MAESTROVEGAS (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: GetluckyLana (big blind) collected (40)
+
+
+
+PokerStars Hand #259601749574: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:26:13 CET [2026/02/05 10:26:13 ET]
+Table '3972314349 1' 3-max Seat #2 is the button
+Seat 1: MAESTROVEGAS (422 in chips) 
+Seat 2: mabeal1 (593 in chips) 
+Seat 3: GetluckyLana (485 in chips) 
+GetluckyLana: posts small blind 20
+MAESTROVEGAS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 5d]
+mabeal1: folds 
+GetluckyLana: raises 445 to 485 and is all-in
+MAESTROVEGAS: folds 
+Uncalled bet (445) returned to GetluckyLana
+GetluckyLana collected 80 from pot
+GetluckyLana: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: MAESTROVEGAS (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: GetluckyLana (small blind) collected (80)
+
+
+
+PokerStars Hand #259601753153: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:26:33 CET [2026/02/05 10:26:33 ET]
+Table '3972314349 1' 3-max Seat #3 is the button
+Seat 1: MAESTROVEGAS (382 in chips) 
+Seat 2: mabeal1 (593 in chips) 
+Seat 3: GetluckyLana (525 in chips) 
+MAESTROVEGAS: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 9h]
+GetluckyLana: folds 
+MAESTROVEGAS: raises 342 to 382 and is all-in
+mabeal1: folds 
+Uncalled bet (342) returned to MAESTROVEGAS
+MAESTROVEGAS collected 80 from pot
+MAESTROVEGAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: MAESTROVEGAS (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: GetluckyLana (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601755416: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:26:47 CET [2026/02/05 10:26:47 ET]
+Table '3972314349 1' 3-max Seat #1 is the button
+Seat 1: MAESTROVEGAS (422 in chips) 
+Seat 2: mabeal1 (553 in chips) 
+Seat 3: GetluckyLana (525 in chips) 
+mabeal1: posts small blind 20
+GetluckyLana: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 5c]
+MAESTROVEGAS: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to GetluckyLana
+GetluckyLana collected 40 from pot
+GetluckyLana: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MAESTROVEGAS (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: GetluckyLana (big blind) collected (40)
+
+
+
+PokerStars Hand #259601756559: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:26:53 CET [2026/02/05 10:26:53 ET]
+Table '3972314349 1' 3-max Seat #2 is the button
+Seat 1: MAESTROVEGAS (422 in chips) 
+Seat 2: mabeal1 (533 in chips) 
+Seat 3: GetluckyLana (545 in chips) 
+GetluckyLana: posts small blind 20
+MAESTROVEGAS: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qs]
+mabeal1: raises 40 to 80
+GetluckyLana: folds 
+MAESTROVEGAS: raises 80 to 160
+mabeal1: calls 80
+*** FLOP *** [7d 8s 9h]
+MAESTROVEGAS: bets 170
+mabeal1: folds 
+Uncalled bet (170) returned to MAESTROVEGAS
+MAESTROVEGAS collected 340 from pot
+MAESTROVEGAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [7d 8s 9h]
+Seat 1: MAESTROVEGAS (big blind) collected (340)
+Seat 2: mabeal1 (button) folded on the Flop
+Seat 3: GetluckyLana (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601761309: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:27:21 CET [2026/02/05 10:27:21 ET]
+Table '3972314349 1' 3-max Seat #3 is the button
+Seat 1: MAESTROVEGAS (602 in chips) 
+Seat 2: mabeal1 (373 in chips) 
+Seat 3: GetluckyLana (525 in chips) 
+MAESTROVEGAS: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 4d]
+GetluckyLana: raises 485 to 525 and is all-in
+MAESTROVEGAS: folds 
+mabeal1: folds 
+Uncalled bet (485) returned to GetluckyLana
+GetluckyLana collected 100 from pot
+GetluckyLana: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: MAESTROVEGAS (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: GetluckyLana (button) collected (100)
+
+
+
+PokerStars Hand #259601763499: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 16:27:34 CET [2026/02/05 10:27:34 ET]
+Table '3972314349 1' 3-max Seat #1 is the button
+Seat 1: MAESTROVEGAS (582 in chips) 
+Seat 2: mabeal1 (333 in chips) 
+Seat 3: GetluckyLana (585 in chips) 
+mabeal1: posts small blind 20
+GetluckyLana: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 2s]
+MAESTROVEGAS: raises 40 to 80
+mabeal1: folds 
+GetluckyLana: calls 40
+*** FLOP *** [Kc 3h 4c]
+GetluckyLana: checks 
+MAESTROVEGAS: bets 180
+GetluckyLana: folds 
+Uncalled bet (180) returned to MAESTROVEGAS
+MAESTROVEGAS collected 180 from pot
+MAESTROVEGAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kc 3h 4c]
+Seat 1: MAESTROVEGAS (button) collected (180)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: GetluckyLana (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259601768366: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:28:03 CET [2026/02/05 10:28:03 ET]
+Table '3972314349 1' 3-max Seat #2 is the button
+Seat 1: MAESTROVEGAS (682 in chips) 
+Seat 2: mabeal1 (313 in chips) 
+Seat 3: GetluckyLana (505 in chips) 
+GetluckyLana: posts small blind 30
+MAESTROVEGAS: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Th]
+mabeal1: raises 253 to 313 and is all-in
+GetluckyLana: raises 192 to 505 and is all-in
+MAESTROVEGAS: folds 
+Uncalled bet (192) returned to GetluckyLana
+*** FLOP *** [4s Qd Kh]
+*** TURN *** [4s Qd Kh] [6h]
+*** RIVER *** [4s Qd Kh 6h] [7s]
+*** SHOW DOWN ***
+GetluckyLana: shows [As 5d] (high card Ace)
+mabeal1: shows [Qc Th] (a pair of Queens)
+mabeal1 collected 686 from pot
+*** SUMMARY ***
+Total pot 686 | Rake 0 
+Board [4s Qd Kh 6h 7s]
+Seat 1: MAESTROVEGAS (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [Qc Th] and won (686) with a pair of Queens
+Seat 3: GetluckyLana (small blind) showed [As 5d] and lost with high card Ace
+
+
+
+PokerStars Hand #259601772043: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:28:24 CET [2026/02/05 10:28:24 ET]
+Table '3972314349 1' 3-max Seat #3 is the button
+Seat 1: MAESTROVEGAS (622 in chips) 
+Seat 2: mabeal1 (686 in chips) 
+Seat 3: GetluckyLana (192 in chips) 
+MAESTROVEGAS: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 4c]
+GetluckyLana: raises 132 to 192 and is all-in
+MAESTROVEGAS: folds 
+mabeal1: folds 
+Uncalled bet (132) returned to GetluckyLana
+GetluckyLana collected 150 from pot
+GetluckyLana: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: MAESTROVEGAS (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: GetluckyLana (button) collected (150)
+
+
+
+PokerStars Hand #259601776190: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:28:48 CET [2026/02/05 10:28:48 ET]
+Table '3972314349 1' 3-max Seat #1 is the button
+Seat 1: MAESTROVEGAS (592 in chips) 
+Seat 2: mabeal1 (626 in chips) 
+Seat 3: GetluckyLana (282 in chips) 
+mabeal1: posts small blind 30
+GetluckyLana: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Kh]
+MAESTROVEGAS: raises 150 to 210
+mabeal1: folds 
+GetluckyLana: folds 
+Uncalled bet (150) returned to MAESTROVEGAS
+MAESTROVEGAS collected 150 from pot
+MAESTROVEGAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: MAESTROVEGAS (button) collected (150)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: GetluckyLana (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601781259: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:29:18 CET [2026/02/05 10:29:18 ET]
+Table '3972314349 1' 3-max Seat #2 is the button
+Seat 1: MAESTROVEGAS (682 in chips) 
+Seat 2: mabeal1 (596 in chips) 
+Seat 3: GetluckyLana (222 in chips) 
+GetluckyLana: posts small blind 30
+MAESTROVEGAS: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Tc]
+mabeal1: raises 60 to 120
+GetluckyLana: folds 
+MAESTROVEGAS: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: MAESTROVEGAS (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (150)
+Seat 3: GetluckyLana (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601784649: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 16:29:38 CET [2026/02/05 10:29:38 ET]
+Table '3972314349 1' 3-max Seat #3 is the button
+Seat 1: MAESTROVEGAS (622 in chips) 
+Seat 2: mabeal1 (686 in chips) 
+Seat 3: GetluckyLana (192 in chips) 
+MAESTROVEGAS: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Td]
+GetluckyLana: folds 
+MAESTROVEGAS: raises 120 to 180
+mabeal1: calls 120
+*** FLOP *** [8s 6d Jd]
+MAESTROVEGAS: bets 360
+mabeal1: folds 
+Uncalled bet (360) returned to MAESTROVEGAS
+MAESTROVEGAS collected 360 from pot
+MAESTROVEGAS: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [8s 6d Jd]
+Seat 1: MAESTROVEGAS (small blind) collected (360)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: GetluckyLana (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601789149: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 16:30:03 CET [2026/02/05 10:30:03 ET]
+Table '3972314349 1' 3-max Seat #1 is the button
+Seat 1: MAESTROVEGAS (802 in chips) 
+Seat 2: mabeal1 (506 in chips) 
+Seat 3: GetluckyLana (192 in chips) 
+mabeal1: posts small blind 40
+GetluckyLana: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2h]
+MAESTROVEGAS: calls 80
+mabeal1: raises 426 to 506 and is all-in
+GetluckyLana: calls 112 and is all-in
+MAESTROVEGAS: calls 426
+*** FLOP *** [9s Ts 2c]
+*** TURN *** [9s Ts 2c] [3h]
+*** RIVER *** [9s Ts 2c 3h] [As]
+*** SHOW DOWN ***
+mabeal1: shows [Ac 2h] (two pair, Aces and Deuces)
+MAESTROVEGAS: shows [Ks Jc] (high card Ace)
+mabeal1 collected 628 from side pot
+GetluckyLana: shows [4d 4s] (a pair of Fours)
+mabeal1 collected 576 from main pot
+GetluckyLana finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1204 Main pot 576. Side pot 628. | Rake 0 
+Board [9s Ts 2c 3h As]
+Seat 1: MAESTROVEGAS (button) showed [Ks Jc] and lost with high card Ace
+Seat 2: mabeal1 (small blind) showed [Ac 2h] and won (1204) with two pair, Aces and Deuces
+Seat 3: GetluckyLana (big blind) showed [4d 4s] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259601793396: Tournament #3972314349, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 16:30:29 CET [2026/02/05 10:30:29 ET]
+Table '3972314349 1' 3-max Seat #2 is the button
+Seat 1: MAESTROVEGAS (296 in chips) 
+Seat 2: mabeal1 (1204 in chips) 
+mabeal1: posts small blind 40
+MAESTROVEGAS: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 8d]
+mabeal1: raises 240 to 320
+MAESTROVEGAS: calls 216 and is all-in
+Uncalled bet (24) returned to mabeal1
+*** FLOP *** [7d Tc 9d]
+*** TURN *** [7d Tc 9d] [2d]
+*** RIVER *** [7d Tc 9d 2d] [8c]
+*** SHOW DOWN ***
+MAESTROVEGAS: shows [5s Th] (a pair of Tens)
+mabeal1: shows [7c 8d] (two pair, Eights and Sevens)
+mabeal1 collected 592 from pot
+MAESTROVEGAS finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Board [7d Tc 9d 2d 8c]
+Seat 1: MAESTROVEGAS (big blind) showed [5s Th] and lost with a pair of Tens
+Seat 2: mabeal1 (button) (small blind) showed [7c 8d] and won (592) with two pair, Eights and Sevens
+
+
+

@@ -1,0 +1,1200 @@
+﻿PokerStars Hand #259540976263: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:33:34 CET [2026/01/31 17:33:34 ET]
+Table '3970937556 1' 3-max Seat #1 is the button
+Seat 1: Venur86 (500 in chips) 
+Seat 2: tempranos (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+tempranos: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 5s]
+Venur86: folds 
+tempranos: calls 10
+mabeal1: raises 480 to 500 and is all-in
+tempranos: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Venur86 (button) folded before Flop (didn't bet)
+Seat 2: tempranos (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259540979142: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:33:46 CET [2026/01/31 17:33:46 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 1: Venur86 (500 in chips) 
+Seat 2: tempranos (480 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 10
+Venur86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Kh]
+tempranos: calls 20
+mabeal1: calls 10
+Venur86: checks 
+*** FLOP *** [Ah Jh 9d]
+mabeal1: checks 
+Venur86: checks 
+tempranos: bets 40
+mabeal1: calls 40
+Venur86: folds 
+*** TURN *** [Ah Jh 9d] [2h]
+mabeal1: checks 
+tempranos: checks 
+*** RIVER *** [Ah Jh 9d 2h] [As]
+mabeal1: bets 460 and is all-in
+tempranos: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 140 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Ah Jh 9d 2h As]
+Seat 1: Venur86 (big blind) folded on the Flop
+Seat 2: tempranos (button) folded on the River
+Seat 3: mabeal1 (small blind) collected (140)
+
+
+
+PokerStars Hand #259540986293: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:34:15 CET [2026/01/31 17:34:15 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 1: Venur86 (480 in chips) 
+Seat 2: tempranos (420 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+Venur86: posts small blind 10
+tempranos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 4h]
+mabeal1: folds 
+Venur86: calls 10
+tempranos: raises 40 to 60
+Venur86: calls 40
+*** FLOP *** [2h 4d 9c]
+Venur86: bets 20
+tempranos: raises 160 to 180
+Venur86: folds 
+Uncalled bet (160) returned to tempranos
+tempranos collected 160 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h 4d 9c]
+Seat 1: Venur86 (small blind) folded on the Flop
+Seat 2: tempranos (big blind) collected (160)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259540993020: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:34:42 CET [2026/01/31 17:34:42 ET]
+Table '3970937556 1' 3-max Seat #1 is the button
+Seat 1: Venur86 (400 in chips) 
+Seat 2: tempranos (500 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+tempranos: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Jd]
+Venur86: folds 
+tempranos: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [7h Jh Jc]
+tempranos: checks 
+mabeal1: bets 40
+tempranos: calls 40
+*** TURN *** [7h Jh Jc] [2h]
+tempranos: checks 
+mabeal1: bets 150
+tempranos: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7h Jh Jc 2h]
+Seat 1: Venur86 (button) folded before Flop (didn't bet)
+Seat 2: tempranos (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (200)
+
+
+
+PokerStars Hand #259540999925: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:35:10 CET [2026/01/31 17:35:10 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 1: Venur86 (400 in chips) 
+Seat 2: tempranos (400 in chips) 
+Seat 3: mabeal1 (700 in chips) 
+mabeal1: posts small blind 10
+Venur86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 3h]
+tempranos: folds 
+mabeal1: raises 40 to 60
+Venur86: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Venur86 (big blind) folded before Flop
+Seat 2: tempranos (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259541003580: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:35:25 CET [2026/01/31 17:35:25 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 1: Venur86 (380 in chips) 
+Seat 2: tempranos (400 in chips) 
+Seat 3: mabeal1 (720 in chips) 
+Venur86: posts small blind 10
+tempranos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8s]
+mabeal1: folds 
+Venur86: calls 10
+tempranos: checks 
+*** FLOP *** [3s 4d Kd]
+Venur86: checks 
+tempranos: bets 40
+Venur86: folds 
+Uncalled bet (40) returned to tempranos
+tempranos collected 40 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3s 4d Kd]
+Seat 1: Venur86 (small blind) folded on the Flop
+Seat 2: tempranos (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259541009951: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:35:51 CET [2026/01/31 17:35:51 ET]
+Table '3970937556 1' 3-max Seat #1 is the button
+Seat 1: Venur86 (360 in chips) 
+Seat 2: tempranos (420 in chips) 
+Seat 3: mabeal1 (720 in chips) 
+tempranos: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Ah]
+Venur86: folds 
+tempranos: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Venur86 (button) folded before Flop (didn't bet)
+Seat 2: tempranos (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259541011221: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:35:56 CET [2026/01/31 17:35:56 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 1: Venur86 (360 in chips) 
+Seat 2: tempranos (410 in chips) 
+Seat 3: mabeal1 (730 in chips) 
+mabeal1: posts small blind 10
+Venur86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3d]
+tempranos: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Venur86
+Venur86 collected 20 from pot
+Venur86: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Venur86 (big blind) collected (20)
+Seat 2: tempranos (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541012717: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:36:02 CET [2026/01/31 17:36:02 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 1: Venur86 (370 in chips) 
+Seat 2: tempranos (410 in chips) 
+Seat 3: mabeal1 (720 in chips) 
+Venur86: posts small blind 10
+tempranos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 4s]
+mabeal1: folds 
+Venur86: raises 20 to 40
+tempranos: calls 20
+*** FLOP *** [8h 4d 2c]
+Venur86: bets 20
+tempranos: folds 
+Uncalled bet (20) returned to Venur86
+Venur86 collected 80 from pot
+Venur86: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 4d 2c]
+Seat 1: Venur86 (small blind) collected (80)
+Seat 2: tempranos (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259541016548: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:36:18 CET [2026/01/31 17:36:18 ET]
+Table '3970937556 1' 3-max Seat #1 is the button
+Seat 1: Venur86 (410 in chips) 
+Seat 2: tempranos (370 in chips) 
+Seat 3: mabeal1 (720 in chips) 
+tempranos: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 3h]
+Venur86: folds 
+tempranos: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Venur86 (button) folded before Flop (didn't bet)
+Seat 2: tempranos (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259541018211: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:36:24 CET [2026/01/31 17:36:24 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 1: Venur86 (410 in chips) 
+Seat 2: tempranos (360 in chips) 
+Seat 3: mabeal1 (730 in chips) 
+mabeal1: posts small blind 10
+Venur86: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Qc]
+tempranos: folds 
+mabeal1: raises 20 to 40
+Venur86: calls 20
+*** FLOP *** [9h Ad Tc]
+mabeal1: bets 40
+Venur86: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Ad Tc]
+Seat 1: Venur86 (big blind) folded on the Flop
+Seat 2: tempranos (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259541024010: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:36:48 CET [2026/01/31 17:36:48 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 1: Venur86 (370 in chips) 
+Seat 2: tempranos (360 in chips) 
+Seat 3: mabeal1 (770 in chips) 
+Venur86: posts small blind 15
+tempranos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Qd]
+mabeal1: folds 
+Venur86: calls 15
+tempranos: checks 
+*** FLOP *** [8s 2h 3d]
+Venur86: checks 
+tempranos: bets 60
+Venur86: folds 
+Uncalled bet (60) returned to tempranos
+tempranos collected 60 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8s 2h 3d]
+Seat 1: Venur86 (small blind) folded on the Flop
+Seat 2: tempranos (big blind) collected (60)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259541028592: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:37:07 CET [2026/01/31 17:37:07 ET]
+Table '3970937556 1' 3-max Seat #1 is the button
+Seat 1: Venur86 (340 in chips) 
+Seat 2: tempranos (390 in chips) 
+Seat 3: mabeal1 (770 in chips) 
+tempranos: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Jc]
+Venur86: calls 30
+tempranos: calls 15
+mabeal1: checks 
+*** FLOP *** [6h Qd 9s]
+tempranos: checks 
+mabeal1: checks 
+Venur86: checks 
+*** TURN *** [6h Qd 9s] [9c]
+tempranos: checks 
+mabeal1: checks 
+Venur86: checks 
+*** RIVER *** [6h Qd 9s 9c] [Ac]
+tempranos: checks 
+mabeal1: checks 
+Venur86: checks 
+*** SHOW DOWN ***
+tempranos: shows [6d Ah] (two pair, Aces and Nines)
+mabeal1: mucks hand 
+Venur86: mucks hand 
+tempranos collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6h Qd 9s 9c Ac]
+Seat 1: Venur86 (button) mucked [7c Tc]
+Seat 2: tempranos (small blind) showed [6d Ah] and won (90) with two pair, Aces and Nines
+Seat 3: mabeal1 (big blind) mucked [2c Jc]
+
+
+
+PokerStars Hand #259541034253: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:37:30 CET [2026/01/31 17:37:30 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 1: Venur86 (310 in chips) 
+Seat 2: tempranos (450 in chips) 
+Seat 3: mabeal1 (740 in chips) 
+mabeal1: posts small blind 15
+Venur86: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ad]
+tempranos: folds 
+mabeal1: raises 60 to 90
+Venur86: raises 220 to 310 and is all-in
+mabeal1: calls 220
+*** FLOP *** [4s 3c Td]
+*** TURN *** [4s 3c Td] [5d]
+*** RIVER *** [4s 3c Td 5d] [9h]
+*** SHOW DOWN ***
+mabeal1: shows [2s Ad] (a straight, Ace to Five)
+Venur86: shows [Ac Jh] (high card Ace)
+mabeal1 collected 620 from pot
+Venur86 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [4s 3c Td 5d 9h]
+Seat 1: Venur86 (big blind) showed [Ac Jh] and lost with high card Ace
+Seat 2: tempranos (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [2s Ad] and won (620) with a straight, Ace to Five
+
+
+
+PokerStars Hand #259541040428: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:37:55 CET [2026/01/31 17:37:55 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (450 in chips) 
+Seat 3: mabeal1 (1050 in chips) 
+mabeal1: posts small blind 15
+tempranos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Js]
+mabeal1: calls 15
+tempranos: checks 
+*** FLOP *** [3h 7h 3d]
+tempranos: checks 
+mabeal1: bets 30
+tempranos: calls 30
+*** TURN *** [3h 7h 3d] [8s]
+tempranos: checks 
+mabeal1: checks 
+*** RIVER *** [3h 7h 3d 8s] [7c]
+tempranos: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+tempranos: shows [8h 3c] (a full house, Threes full of Eights)
+mabeal1: mucks hand 
+tempranos collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3h 7h 3d 8s 7c]
+Seat 2: tempranos (big blind) showed [8h 3c] and won (240) with a full house, Threes full of Eights
+Seat 3: mabeal1 (button) (small blind) mucked [6h Js]
+
+
+
+PokerStars Hand #259541045019: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:38:14 CET [2026/01/31 17:38:14 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (570 in chips) 
+Seat 3: mabeal1 (930 in chips) 
+tempranos: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 5h]
+tempranos: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259541046739: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:38:20 CET [2026/01/31 17:38:20 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (555 in chips) 
+Seat 3: mabeal1 (945 in chips) 
+mabeal1: posts small blind 15
+tempranos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 9h]
+mabeal1: calls 15
+tempranos: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to tempranos
+tempranos collected 60 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: tempranos (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541048786: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:38:29 CET [2026/01/31 17:38:29 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (585 in chips) 
+Seat 3: mabeal1 (915 in chips) 
+tempranos: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 2h]
+tempranos: calls 15
+mabeal1: raises 885 to 915 and is all-in
+tempranos: folds 
+Uncalled bet (885) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259541050534: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:38:36 CET [2026/01/31 17:38:36 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (555 in chips) 
+Seat 3: mabeal1 (945 in chips) 
+mabeal1: posts small blind 15
+tempranos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Ts]
+mabeal1: raises 30 to 60
+tempranos: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: tempranos (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259541052102: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:38:42 CET [2026/01/31 17:38:42 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (525 in chips) 
+Seat 3: mabeal1 (975 in chips) 
+tempranos: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 3c]
+tempranos: calls 15
+mabeal1: checks 
+*** FLOP *** [8d Ah 9c]
+mabeal1: checks 
+tempranos: checks 
+*** TURN *** [8d Ah 9c] [Jh]
+mabeal1: bets 30
+tempranos: calls 30
+*** RIVER *** [8d Ah 9c Jh] [5d]
+mabeal1: checks 
+tempranos: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Kd 3c] (high card Ace)
+tempranos: shows [Jd 7h] (a pair of Jacks)
+tempranos collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d Ah 9c Jh 5d]
+Seat 2: tempranos (button) (small blind) showed [Jd 7h] and won (120) with a pair of Jacks
+Seat 3: mabeal1 (big blind) showed [Kd 3c] and lost with high card Ace
+
+
+
+PokerStars Hand #259541056322: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:39:00 CET [2026/01/31 17:39:00 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (585 in chips) 
+Seat 3: mabeal1 (915 in chips) 
+mabeal1: posts small blind 15
+tempranos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 9c]
+mabeal1: calls 15
+tempranos: checks 
+*** FLOP *** [5d 2s 8d]
+tempranos: checks 
+mabeal1: checks 
+*** TURN *** [5d 2s 8d] [Kd]
+tempranos: checks 
+mabeal1: bets 60
+tempranos: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 2s 8d Kd]
+Seat 2: tempranos (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259541060454: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:39:17 CET [2026/01/31 17:39:17 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (555 in chips) 
+Seat 3: mabeal1 (945 in chips) 
+tempranos: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7d]
+tempranos: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to tempranos
+tempranos collected 60 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: tempranos (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259541062762: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:39:26 CET [2026/01/31 17:39:26 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (585 in chips) 
+Seat 3: mabeal1 (915 in chips) 
+mabeal1: posts small blind 15
+tempranos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Kd]
+mabeal1: calls 15
+tempranos: checks 
+*** FLOP *** [5d 7s Jd]
+tempranos: checks 
+mabeal1: checks 
+*** TURN *** [5d 7s Jd] [3c]
+tempranos: checks 
+mabeal1: checks 
+*** RIVER *** [5d 7s Jd 3c] [Ts]
+tempranos: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+tempranos: shows [2d Qd] (high card Queen)
+mabeal1: shows [4s Kd] (high card King)
+mabeal1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 7s Jd 3c Ts]
+Seat 2: tempranos (big blind) showed [2d Qd] and lost with high card Queen
+Seat 3: mabeal1 (button) (small blind) showed [4s Kd] and won (60) with high card King
+
+
+
+PokerStars Hand #259541067006: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:39:43 CET [2026/01/31 17:39:43 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (555 in chips) 
+Seat 3: mabeal1 (945 in chips) 
+tempranos: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 6s]
+tempranos: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259541068289: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:39:49 CET [2026/01/31 17:39:49 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (535 in chips) 
+Seat 3: mabeal1 (965 in chips) 
+mabeal1: posts small blind 20
+tempranos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3c]
+mabeal1: calls 20
+tempranos: checks 
+*** FLOP *** [3d Th 6c]
+tempranos: checks 
+mabeal1: checks 
+*** TURN *** [3d Th 6c] [9s]
+tempranos: checks 
+mabeal1: checks 
+*** RIVER *** [3d Th 6c 9s] [Qd]
+tempranos: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+tempranos: shows [4d Qh] (a pair of Queens)
+mabeal1: mucks hand 
+tempranos collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d Th 6c 9s Qd]
+Seat 2: tempranos (big blind) showed [4d Qh] and won (80) with a pair of Queens
+Seat 3: mabeal1 (button) (small blind) mucked [8d 3c]
+
+
+
+PokerStars Hand #259541073406: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:40:10 CET [2026/01/31 17:40:10 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (575 in chips) 
+Seat 3: mabeal1 (925 in chips) 
+tempranos: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2c]
+tempranos: calls 20
+mabeal1: checks 
+*** FLOP *** [8c 5d Kc]
+mabeal1: checks 
+tempranos: checks 
+*** TURN *** [8c 5d Kc] [Td]
+mabeal1: bets 80
+tempranos: calls 80
+*** RIVER *** [8c 5d Kc Td] [3d]
+mabeal1: bets 180
+tempranos: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8c 5d Kc Td 3d]
+Seat 2: tempranos (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (240)
+
+
+
+PokerStars Hand #259541078145: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:40:29 CET [2026/01/31 17:40:29 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (455 in chips) 
+Seat 3: mabeal1 (1045 in chips) 
+mabeal1: posts small blind 20
+tempranos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Ac]
+mabeal1: raises 40 to 80
+tempranos: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: tempranos (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259541080330: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:40:38 CET [2026/01/31 17:40:38 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (415 in chips) 
+Seat 3: mabeal1 (1085 in chips) 
+tempranos: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 2c]
+tempranos: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259541081506: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:40:43 CET [2026/01/31 17:40:43 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (395 in chips) 
+Seat 3: mabeal1 (1105 in chips) 
+mabeal1: posts small blind 20
+tempranos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Td]
+mabeal1: raises 1065 to 1105 and is all-in
+tempranos: folds 
+Uncalled bet (1065) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: tempranos (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259541083334: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:40:50 CET [2026/01/31 17:40:50 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (355 in chips) 
+Seat 3: mabeal1 (1145 in chips) 
+tempranos: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Jd]
+tempranos: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259541084454: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:40:55 CET [2026/01/31 17:40:55 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (335 in chips) 
+Seat 3: mabeal1 (1165 in chips) 
+mabeal1: posts small blind 20
+tempranos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 9s]
+mabeal1: raises 1125 to 1165 and is all-in
+tempranos: calls 295 and is all-in
+Uncalled bet (830) returned to mabeal1
+*** FLOP *** [5s 6s 8c]
+*** TURN *** [5s 6s 8c] [3h]
+*** RIVER *** [5s 6s 8c 3h] [3d]
+*** SHOW DOWN ***
+tempranos: shows [Js Ah] (a pair of Threes)
+mabeal1: shows [Jh 9s] (a pair of Threes - lower kicker)
+tempranos collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [5s 6s 8c 3h 3d]
+Seat 2: tempranos (big blind) showed [Js Ah] and won (670) with a pair of Threes
+Seat 3: mabeal1 (button) (small blind) showed [Jh 9s] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259541088029: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:41:10 CET [2026/01/31 17:41:10 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (670 in chips) 
+Seat 3: mabeal1 (830 in chips) 
+tempranos: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ah]
+tempranos: calls 20
+mabeal1: raises 790 to 830 and is all-in
+tempranos: folds 
+Uncalled bet (790) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259541090298: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:41:19 CET [2026/01/31 17:41:19 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (630 in chips) 
+Seat 3: mabeal1 (870 in chips) 
+mabeal1: posts small blind 20
+tempranos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ks]
+mabeal1: calls 20
+tempranos: checks 
+*** FLOP *** [Qs As 6c]
+tempranos: checks 
+mabeal1: checks 
+*** TURN *** [Qs As 6c] [2h]
+tempranos: checks 
+mabeal1: checks 
+*** RIVER *** [Qs As 6c 2h] [Ad]
+tempranos: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+tempranos: shows [8s 9d] (a pair of Aces)
+mabeal1: shows [8h Ks] (a pair of Aces - King kicker)
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs As 6c 2h Ad]
+Seat 2: tempranos (big blind) showed [8s 9d] and lost with a pair of Aces
+Seat 3: mabeal1 (button) (small blind) showed [8h Ks] and won (80) with a pair of Aces
+
+
+
+PokerStars Hand #259541094784: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:41:38 CET [2026/01/31 17:41:38 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (590 in chips) 
+Seat 3: mabeal1 (910 in chips) 
+tempranos: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 8s]
+tempranos: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259541096319: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:41:44 CET [2026/01/31 17:41:44 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (570 in chips) 
+Seat 3: mabeal1 (930 in chips) 
+mabeal1: posts small blind 20
+tempranos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 6c]
+mabeal1: calls 20
+tempranos: checks 
+*** FLOP *** [Tc 9d 4c]
+tempranos: checks 
+mabeal1: checks 
+*** TURN *** [Tc 9d 4c] [As]
+tempranos: checks 
+mabeal1: checks 
+*** RIVER *** [Tc 9d 4c As] [Jd]
+tempranos: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to tempranos
+tempranos collected 80 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc 9d 4c As Jd]
+Seat 2: tempranos (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259541100400: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:42:01 CET [2026/01/31 17:42:01 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (610 in chips) 
+Seat 3: mabeal1 (890 in chips) 
+tempranos: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 4h]
+tempranos: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259541101621: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:42:06 CET [2026/01/31 17:42:06 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (590 in chips) 
+Seat 3: mabeal1 (910 in chips) 
+mabeal1: posts small blind 20
+tempranos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 2s]
+mabeal1: raises 870 to 910 and is all-in
+tempranos: folds 
+Uncalled bet (870) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: tempranos (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259541103139: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:42:12 CET [2026/01/31 17:42:12 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (550 in chips) 
+Seat 3: mabeal1 (950 in chips) 
+tempranos: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Ah]
+tempranos: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259541104405: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:42:17 CET [2026/01/31 17:42:17 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (530 in chips) 
+Seat 3: mabeal1 (970 in chips) 
+mabeal1: posts small blind 20
+tempranos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 7d]
+mabeal1: calls 20
+tempranos: raises 490 to 530 and is all-in
+mabeal1: folds 
+Uncalled bet (490) returned to tempranos
+tempranos collected 80 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: tempranos (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541106111: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:42:24 CET [2026/01/31 17:42:24 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (570 in chips) 
+Seat 3: mabeal1 (930 in chips) 
+tempranos: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7c]
+tempranos: calls 20
+mabeal1: checks 
+*** FLOP *** [6s 4c 9s]
+mabeal1: checks 
+tempranos: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to tempranos
+tempranos collected 80 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 4c 9s]
+Seat 2: tempranos (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259541108860: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 23:42:35 CET [2026/01/31 17:42:35 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (610 in chips) 
+Seat 3: mabeal1 (890 in chips) 
+mabeal1: posts small blind 20
+tempranos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 6h]
+mabeal1: calls 20
+tempranos: checks 
+*** FLOP *** [4c Qh Kh]
+tempranos: checks 
+mabeal1: bets 40
+tempranos: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c Qh Kh]
+Seat 2: tempranos (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259541112974: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 23:42:52 CET [2026/01/31 17:42:52 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (570 in chips) 
+Seat 3: mabeal1 (930 in chips) 
+tempranos: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 2s]
+tempranos: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259541114250: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 23:42:57 CET [2026/01/31 17:42:57 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (540 in chips) 
+Seat 3: mabeal1 (960 in chips) 
+mabeal1: posts small blind 30
+tempranos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 9h]
+mabeal1: calls 30
+tempranos: checks 
+*** FLOP *** [Jc 9s Th]
+tempranos: checks 
+mabeal1: checks 
+*** TURN *** [Jc 9s Th] [6d]
+tempranos: checks 
+mabeal1: checks 
+*** RIVER *** [Jc 9s Th 6d] [9c]
+tempranos: bets 120
+mabeal1: raises 780 to 900 and is all-in
+tempranos: calls 360 and is all-in
+Uncalled bet (420) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [3c 9h] (three of a kind, Nines)
+tempranos: shows [8d Qh] (a straight, Eight to Queen)
+tempranos collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [Jc 9s Th 6d 9c]
+Seat 2: tempranos (big blind) showed [8d Qh] and won (1080) with a straight, Eight to Queen
+Seat 3: mabeal1 (button) (small blind) showed [3c 9h] and lost with three of a kind, Nines
+
+
+
+PokerStars Hand #259541120042: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 23:43:21 CET [2026/01/31 17:43:21 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (1080 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+tempranos: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 5d]
+tempranos: raises 1020 to 1080 and is all-in
+mabeal1: folds 
+Uncalled bet (1020) returned to tempranos
+tempranos collected 120 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: tempranos (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259541122008: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 23:43:30 CET [2026/01/31 17:43:30 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (1140 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+mabeal1: posts small blind 30
+tempranos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9s]
+mabeal1: folds 
+Uncalled bet (30) returned to tempranos
+tempranos collected 60 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: tempranos (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541122995: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 23:43:34 CET [2026/01/31 17:43:34 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (1170 in chips) 
+Seat 3: mabeal1 (330 in chips) 
+tempranos: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Kd]
+tempranos: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259541124352: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 23:43:39 CET [2026/01/31 17:43:39 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (1140 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+mabeal1: posts small blind 30
+tempranos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3c]
+mabeal1: folds 
+Uncalled bet (30) returned to tempranos
+tempranos collected 60 from pot
+tempranos: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: tempranos (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541125387: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 23:43:44 CET [2026/01/31 17:43:44 ET]
+Table '3970937556 1' 3-max Seat #2 is the button
+Seat 2: tempranos (1170 in chips) 
+Seat 3: mabeal1 (330 in chips) 
+tempranos: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 7c]
+tempranos: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: tempranos (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259541126748: Tournament #3970937556, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 23:43:49 CET [2026/01/31 17:43:49 ET]
+Table '3970937556 1' 3-max Seat #3 is the button
+Seat 2: tempranos (1140 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+mabeal1: posts small blind 30
+tempranos: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ac]
+mabeal1: raises 300 to 360 and is all-in
+tempranos: calls 300
+*** FLOP *** [5c 3d 2c]
+*** TURN *** [5c 3d 2c] [Qc]
+*** RIVER *** [5c 3d 2c Qc] [9s]
+*** SHOW DOWN ***
+tempranos: shows [4c 4s] (a pair of Fours)
+mabeal1: shows [8h Ac] (high card Ace)
+tempranos collected 720 from pot
+mabeal1 finished the tournament in 2nd place
+tempranos wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [5c 3d 2c Qc 9s]
+Seat 2: tempranos (big blind) showed [4c 4s] and won (720) with a pair of Fours
+Seat 3: mabeal1 (button) (small blind) showed [8h Ac] and lost with high card Ace
+
+
+

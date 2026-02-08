@@ -1,0 +1,921 @@
+﻿PokerStars Hand #259578681261: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:22:14 CET [2026/02/03 13:22:14 ET]
+Table '3971773416 1' 3-max Seat #1 is the button
+Seat 1: diogofrade7 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Thomwolf62 (500 in chips) 
+mabeal1: posts small blind 10
+Thomwolf62: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 2c]
+diogofrade7: calls 20
+mabeal1: calls 10
+Thomwolf62: checks 
+*** FLOP *** [Qh 5s 8c]
+mabeal1: checks 
+Thomwolf62: checks 
+diogofrade7: bets 80
+mabeal1: folds 
+Thomwolf62: folds 
+Uncalled bet (80) returned to diogofrade7
+diogofrade7 collected 60 from pot
+diogofrade7: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh 5s 8c]
+Seat 1: diogofrade7 (button) collected (60)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: Thomwolf62 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259578689941: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:22:50 CET [2026/02/03 13:22:50 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 1: diogofrade7 (540 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: Thomwolf62 (480 in chips) 
+Thomwolf62: posts small blind 10
+diogofrade7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 6d]
+mabeal1: raises 30 to 50
+Thomwolf62: folds 
+diogofrade7: calls 30
+*** FLOP *** [4h Js Tc]
+diogofrade7: checks 
+mabeal1: checks 
+*** TURN *** [4h Js Tc] [Ts]
+diogofrade7: bets 20
+mabeal1: calls 20
+*** RIVER *** [4h Js Tc Ts] [Qd]
+diogofrade7: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to diogofrade7
+diogofrade7 collected 150 from pot
+diogofrade7: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [4h Js Tc Ts Qd]
+Seat 1: diogofrade7 (big blind) collected (150)
+Seat 2: mabeal1 (button) folded on the River
+Seat 3: Thomwolf62 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578701918: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:23:40 CET [2026/02/03 13:23:40 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 1: diogofrade7 (620 in chips) 
+Seat 2: mabeal1 (410 in chips) 
+Seat 3: Thomwolf62 (470 in chips) 
+diogofrade7: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ac]
+Thomwolf62: calls 20
+diogofrade7: calls 10
+mabeal1: raises 390 to 410 and is all-in
+Thomwolf62: folds 
+diogofrade7: calls 390
+*** FLOP *** [2h Kd 3c]
+*** TURN *** [2h Kd 3c] [4s]
+*** RIVER *** [2h Kd 3c 4s] [8s]
+*** SHOW DOWN ***
+diogofrade7: shows [As 2c] (a pair of Deuces)
+mabeal1: shows [8d Ac] (a pair of Eights)
+mabeal1 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [2h Kd 3c 4s 8s]
+Seat 1: diogofrade7 (small blind) showed [As 2c] and lost with a pair of Deuces
+Seat 2: mabeal1 (big blind) showed [8d Ac] and won (840) with a pair of Eights
+Seat 3: Thomwolf62 (button) folded before Flop
+
+
+
+PokerStars Hand #259578707725: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:24:05 CET [2026/02/03 13:24:05 ET]
+Table '3971773416 1' 3-max Seat #1 is the button
+Seat 1: diogofrade7 (210 in chips) 
+Seat 2: mabeal1 (840 in chips) 
+Seat 3: Thomwolf62 (450 in chips) 
+mabeal1: posts small blind 10
+Thomwolf62: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Kh]
+diogofrade7: folds 
+mabeal1: raises 30 to 50
+Thomwolf62: calls 30
+*** FLOP *** [As 8c 5h]
+mabeal1: bets 40
+Thomwolf62: calls 40
+*** TURN *** [As 8c 5h] [4c]
+mabeal1: checks 
+Thomwolf62: checks 
+*** RIVER *** [As 8c 5h 4c] [2d]
+mabeal1: checks 
+Thomwolf62: bets 160
+mabeal1: folds 
+Uncalled bet (160) returned to Thomwolf62
+Thomwolf62 collected 180 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [As 8c 5h 4c 2d]
+Seat 1: diogofrade7 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded on the River
+Seat 3: Thomwolf62 (big blind) collected (180)
+
+
+
+PokerStars Hand #259578718494: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:24:50 CET [2026/02/03 13:24:50 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 1: diogofrade7 (210 in chips) 
+Seat 2: mabeal1 (750 in chips) 
+Seat 3: Thomwolf62 (540 in chips) 
+Thomwolf62: posts small blind 10
+diogofrade7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 7h]
+mabeal1: raises 20 to 40
+Thomwolf62: calls 30
+diogofrade7: folds 
+*** FLOP *** [3h Jc 3d]
+Thomwolf62: checks 
+mabeal1: bets 40
+Thomwolf62: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3h Jc 3d]
+Seat 1: diogofrade7 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (100)
+Seat 3: Thomwolf62 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259578724069: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:25:14 CET [2026/02/03 13:25:14 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 1: diogofrade7 (190 in chips) 
+Seat 2: mabeal1 (810 in chips) 
+Seat 3: Thomwolf62 (500 in chips) 
+diogofrade7: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 8s]
+Thomwolf62: raises 50 to 70
+diogofrade7: raises 120 to 190 and is all-in
+mabeal1: folds 
+Thomwolf62: calls 120
+*** FLOP *** [Ah 4c 6c]
+*** TURN *** [Ah 4c 6c] [Th]
+*** RIVER *** [Ah 4c 6c Th] [8h]
+*** SHOW DOWN ***
+diogofrade7: shows [Ac Jd] (a pair of Aces)
+Thomwolf62: shows [Qs Kc] (high card Ace)
+diogofrade7 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Ah 4c 6c Th 8h]
+Seat 1: diogofrade7 (small blind) showed [Ac Jd] and won (400) with a pair of Aces
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Thomwolf62 (button) showed [Qs Kc] and lost with high card Ace
+
+
+
+PokerStars Hand #259578728462: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:25:33 CET [2026/02/03 13:25:33 ET]
+Table '3971773416 1' 3-max Seat #1 is the button
+Seat 1: diogofrade7 (400 in chips) 
+Seat 2: mabeal1 (790 in chips) 
+Seat 3: Thomwolf62 (310 in chips) 
+mabeal1: posts small blind 15
+Thomwolf62: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 8c]
+diogofrade7: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Thomwolf62
+Thomwolf62 collected 30 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: diogofrade7 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Thomwolf62 (big blind) collected (30)
+
+
+
+PokerStars Hand #259578732706: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:25:51 CET [2026/02/03 13:25:51 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 1: diogofrade7 (400 in chips) 
+Seat 2: mabeal1 (775 in chips) 
+Seat 3: Thomwolf62 (325 in chips) 
+Thomwolf62: posts small blind 15
+diogofrade7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2s]
+mabeal1: raises 30 to 60
+Thomwolf62: folds 
+diogofrade7: calls 30
+*** FLOP *** [7d Ad 5h]
+diogofrade7: checks 
+mabeal1: bets 101
+diogofrade7: folds 
+Uncalled bet (101) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7d Ad 5h]
+Seat 1: diogofrade7 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (135)
+Seat 3: Thomwolf62 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578738838: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:26:17 CET [2026/02/03 13:26:17 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 1: diogofrade7 (340 in chips) 
+Seat 2: mabeal1 (850 in chips) 
+Seat 3: Thomwolf62 (310 in chips) 
+diogofrade7: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Tc]
+Thomwolf62: folds 
+diogofrade7: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: diogofrade7 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: Thomwolf62 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578740285: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:26:23 CET [2026/02/03 13:26:23 ET]
+Table '3971773416 1' 3-max Seat #1 is the button
+Seat 1: diogofrade7 (325 in chips) 
+Seat 2: mabeal1 (865 in chips) 
+Seat 3: Thomwolf62 (310 in chips) 
+mabeal1: posts small blind 15
+Thomwolf62: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5h]
+diogofrade7: raises 30 to 60
+mabeal1: folds 
+Thomwolf62: calls 30
+*** FLOP *** [Qs Js 9d]
+Thomwolf62: bets 250 and is all-in
+diogofrade7: calls 250
+*** TURN *** [Qs Js 9d] [4c]
+*** RIVER *** [Qs Js 9d 4c] [Jd]
+*** SHOW DOWN ***
+Thomwolf62: shows [Qd 3h] (two pair, Queens and Jacks)
+diogofrade7: shows [Tc As] (a pair of Jacks)
+Thomwolf62 collected 635 from pot
+*** SUMMARY ***
+Total pot 635 | Rake 0 
+Board [Qs Js 9d 4c Jd]
+Seat 1: diogofrade7 (button) showed [Tc As] and lost with a pair of Jacks
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Thomwolf62 (big blind) showed [Qd 3h] and won (635) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #259578746740: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:26:50 CET [2026/02/03 13:26:50 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 1: diogofrade7 (15 in chips) 
+Seat 2: mabeal1 (850 in chips) 
+Seat 3: Thomwolf62 (635 in chips) 
+Thomwolf62: posts small blind 15
+diogofrade7: posts big blind 15 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Ac]
+mabeal1: raises 45 to 60
+Thomwolf62: calls 45
+*** FLOP *** [Ts 3d 3s]
+Thomwolf62: checks 
+mabeal1: bets 60
+Thomwolf62: folds 
+Uncalled bet (60) returned to mabeal1
+*** TURN *** [Ts 3d 3s] [7h]
+*** RIVER *** [Ts 3d 3s 7h] [Ah]
+*** SHOW DOWN ***
+mabeal1: shows [2c Ac] (two pair, Aces and Threes)
+mabeal1 collected 90 from side pot
+diogofrade7: shows [9s 5c] (a pair of Threes)
+mabeal1 collected 45 from main pot
+diogofrade7 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 135 Main pot 45. Side pot 90. | Rake 0 
+Board [Ts 3d 3s 7h Ah]
+Seat 1: diogofrade7 (big blind) showed [9s 5c] and lost with a pair of Threes
+Seat 2: mabeal1 (button) showed [2c Ac] and won (135) with two pair, Aces and Threes
+Seat 3: Thomwolf62 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259578752866: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:27:16 CET [2026/02/03 13:27:16 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (925 in chips) 
+Seat 3: Thomwolf62 (575 in chips) 
+Thomwolf62: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Tc]
+Thomwolf62: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: Thomwolf62 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578753890: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:27:20 CET [2026/02/03 13:27:20 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (940 in chips) 
+Seat 3: Thomwolf62 (560 in chips) 
+mabeal1: posts small blind 15
+Thomwolf62: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 7c]
+mabeal1: calls 15
+Thomwolf62: checks 
+*** FLOP *** [9d Th Kd]
+Thomwolf62: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Thomwolf62
+Thomwolf62 collected 60 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d Th Kd]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: Thomwolf62 (big blind) collected (60)
+
+
+
+PokerStars Hand #259578757527: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:27:35 CET [2026/02/03 13:27:35 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (910 in chips) 
+Seat 3: Thomwolf62 (590 in chips) 
+Thomwolf62: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 8c]
+Thomwolf62: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: Thomwolf62 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578758985: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:27:41 CET [2026/02/03 13:27:41 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (925 in chips) 
+Seat 3: Thomwolf62 (575 in chips) 
+mabeal1: posts small blind 15
+Thomwolf62: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Js]
+mabeal1: calls 15
+Thomwolf62: checks 
+*** FLOP *** [9c 3c 9d]
+Thomwolf62: checks 
+mabeal1: checks 
+*** TURN *** [9c 3c 9d] [Ks]
+Thomwolf62: checks 
+mabeal1: bets 30
+Thomwolf62: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 3c 9d Ks]
+Seat 2: mabeal1 (button) (small blind) collected (60)
+Seat 3: Thomwolf62 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259578766271: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:28:12 CET [2026/02/03 13:28:12 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (955 in chips) 
+Seat 3: Thomwolf62 (545 in chips) 
+Thomwolf62: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 6h]
+Thomwolf62: raises 515 to 545 and is all-in
+mabeal1: folds 
+Uncalled bet (515) returned to Thomwolf62
+Thomwolf62 collected 60 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Thomwolf62 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259578768590: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:28:22 CET [2026/02/03 13:28:22 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (925 in chips) 
+Seat 3: Thomwolf62 (575 in chips) 
+mabeal1: posts small blind 20
+Thomwolf62: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 8d]
+mabeal1: calls 20
+Thomwolf62: checks 
+*** FLOP *** [Qc 6s 4s]
+Thomwolf62: checks 
+mabeal1: checks 
+*** TURN *** [Qc 6s 4s] [Tc]
+Thomwolf62: checks 
+mabeal1: checks 
+*** RIVER *** [Qc 6s 4s Tc] [Qh]
+Thomwolf62: checks 
+mabeal1: bets 120
+Thomwolf62: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 6s 4s Tc Qh]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: Thomwolf62 (big blind) folded on the River
+
+
+
+PokerStars Hand #259578775659: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:28:51 CET [2026/02/03 13:28:51 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (965 in chips) 
+Seat 3: Thomwolf62 (535 in chips) 
+Thomwolf62: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Jh]
+Thomwolf62: calls 20
+mabeal1: checks 
+*** FLOP *** [Td Qs 6s]
+mabeal1: checks 
+Thomwolf62: checks 
+*** TURN *** [Td Qs 6s] [3s]
+mabeal1: bets 40
+Thomwolf62: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td Qs 6s 3s]
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: Thomwolf62 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259578779480: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:29:07 CET [2026/02/03 13:29:07 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1005 in chips) 
+Seat 3: Thomwolf62 (495 in chips) 
+mabeal1: posts small blind 20
+Thomwolf62: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 2h]
+mabeal1: folds 
+Uncalled bet (20) returned to Thomwolf62
+Thomwolf62 collected 40 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Thomwolf62 (big blind) collected (40)
+
+
+
+PokerStars Hand #259578780724: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:29:12 CET [2026/02/03 13:29:12 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (985 in chips) 
+Seat 3: Thomwolf62 (515 in chips) 
+Thomwolf62: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8h]
+Thomwolf62: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: Thomwolf62 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578781713: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:29:16 CET [2026/02/03 13:29:16 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1005 in chips) 
+Seat 3: Thomwolf62 (495 in chips) 
+mabeal1: posts small blind 20
+Thomwolf62: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 4s]
+mabeal1: raises 965 to 1005 and is all-in
+Thomwolf62: folds 
+Uncalled bet (965) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: Thomwolf62 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578786694: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:29:37 CET [2026/02/03 13:29:37 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1045 in chips) 
+Seat 3: Thomwolf62 (455 in chips) 
+Thomwolf62: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ac]
+Thomwolf62: calls 20
+mabeal1: checks 
+*** FLOP *** [6d 7s 7h]
+mabeal1: checks 
+Thomwolf62: checks 
+*** TURN *** [6d 7s 7h] [9h]
+mabeal1: checks 
+Thomwolf62: checks 
+*** RIVER *** [6d 7s 7h 9h] [8d]
+mabeal1: bets 40
+Thomwolf62: calls 40
+*** SHOW DOWN ***
+mabeal1: shows [5h Ac] (a straight, Five to Nine)
+Thomwolf62: shows [2c 5c] (a straight, Five to Nine)
+mabeal1 collected 80 from pot
+Thomwolf62 collected 80 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d 7s 7h 9h 8d]
+Seat 2: mabeal1 (big blind) showed [5h Ac] and won (80) with a straight, Five to Nine
+Seat 3: Thomwolf62 (button) (small blind) showed [2c 5c] and won (80) with a straight, Five to Nine
+
+
+
+PokerStars Hand #259578792832: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:30:03 CET [2026/02/03 13:30:03 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1045 in chips) 
+Seat 3: Thomwolf62 (455 in chips) 
+mabeal1: posts small blind 20
+Thomwolf62: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Kd]
+mabeal1: raises 40 to 80
+Thomwolf62: calls 40
+*** FLOP *** [2c 3d 9h]
+Thomwolf62: checks 
+mabeal1: checks 
+*** TURN *** [2c 3d 9h] [4s]
+Thomwolf62: bets 160
+mabeal1: folds 
+Uncalled bet (160) returned to Thomwolf62
+Thomwolf62 collected 160 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c 3d 9h 4s]
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: Thomwolf62 (big blind) collected (160)
+
+
+
+PokerStars Hand #259578796987: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:30:20 CET [2026/02/03 13:30:20 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (965 in chips) 
+Seat 3: Thomwolf62 (535 in chips) 
+Thomwolf62: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8s]
+Thomwolf62: calls 20
+mabeal1: checks 
+*** FLOP *** [Kc As 6s]
+mabeal1: checks 
+Thomwolf62: checks 
+*** TURN *** [Kc As 6s] [5s]
+mabeal1: bets 40
+Thomwolf62: calls 40
+*** RIVER *** [Kc As 6s 5s] [Ks]
+mabeal1: checks 
+Thomwolf62: bets 80
+mabeal1: calls 80
+*** SHOW DOWN ***
+Thomwolf62: shows [3s Qh] (a flush, Ace high)
+mabeal1: shows [3c 8s] (a flush, Ace high - Eight higher)
+mabeal1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Kc As 6s 5s Ks]
+Seat 2: mabeal1 (big blind) showed [3c 8s] and won (320) with a flush, Ace high
+Seat 3: Thomwolf62 (button) (small blind) showed [3s Qh] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #259578803925: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:30:49 CET [2026/02/03 13:30:49 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1125 in chips) 
+Seat 3: Thomwolf62 (375 in chips) 
+mabeal1: posts small blind 20
+Thomwolf62: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6h]
+mabeal1: folds 
+Uncalled bet (20) returned to Thomwolf62
+Thomwolf62 collected 40 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Thomwolf62 (big blind) collected (40)
+
+
+
+PokerStars Hand #259578807902: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:31:05 CET [2026/02/03 13:31:05 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1105 in chips) 
+Seat 3: Thomwolf62 (395 in chips) 
+Thomwolf62: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4c]
+Thomwolf62: calls 20
+mabeal1: checks 
+*** FLOP *** [4s Qh 6h]
+mabeal1: checks 
+Thomwolf62: checks 
+*** TURN *** [4s Qh 6h] [8s]
+mabeal1: checks 
+Thomwolf62: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to Thomwolf62
+Thomwolf62 collected 80 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s Qh 6h 8s]
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Thomwolf62 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259578814862: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:31:34 CET [2026/02/03 13:31:34 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1065 in chips) 
+Seat 3: Thomwolf62 (435 in chips) 
+mabeal1: posts small blind 30
+Thomwolf62: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 6h]
+mabeal1: calls 30
+Thomwolf62: checks 
+*** FLOP *** [3c 2c 2s]
+Thomwolf62: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to Thomwolf62
+Thomwolf62 collected 120 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3c 2c 2s]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: Thomwolf62 (big blind) collected (120)
+
+
+
+PokerStars Hand #259578822135: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:32:04 CET [2026/02/03 13:32:04 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1005 in chips) 
+Seat 3: Thomwolf62 (495 in chips) 
+Thomwolf62: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 9d]
+Thomwolf62: calls 30
+mabeal1: raises 120 to 180
+Thomwolf62: calls 120
+*** FLOP *** [Qd Ad Ts]
+mabeal1: bets 120
+Thomwolf62: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Qd Ad Ts]
+Seat 2: mabeal1 (big blind) collected (360)
+Seat 3: Thomwolf62 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259578826259: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:32:21 CET [2026/02/03 13:32:21 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1185 in chips) 
+Seat 3: Thomwolf62 (315 in chips) 
+mabeal1: posts small blind 30
+Thomwolf62: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Ah]
+mabeal1: raises 1125 to 1185 and is all-in
+Thomwolf62: calls 255 and is all-in
+Uncalled bet (870) returned to mabeal1
+*** FLOP *** [9d Qs Js]
+*** TURN *** [9d Qs Js] [2d]
+*** RIVER *** [9d Qs Js 2d] [3s]
+*** SHOW DOWN ***
+Thomwolf62: shows [8d Ac] (high card Ace)
+mabeal1: shows [7c Ah] (high card Ace - lower kicker)
+Thomwolf62 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [9d Qs Js 2d 3s]
+Seat 2: mabeal1 (button) (small blind) showed [7c Ah] and lost with high card Ace
+Seat 3: Thomwolf62 (big blind) showed [8d Ac] and won (630) with high card Ace
+
+
+
+PokerStars Hand #259578829475: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:32:34 CET [2026/02/03 13:32:34 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (870 in chips) 
+Seat 3: Thomwolf62 (630 in chips) 
+Thomwolf62: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7d]
+Thomwolf62: calls 30
+mabeal1: checks 
+*** FLOP *** [Td Ts 4s]
+mabeal1: checks 
+Thomwolf62: bets 60
+mabeal1: raises 60 to 120
+Thomwolf62: calls 60
+*** TURN *** [Td Ts 4s] [3d]
+mabeal1: bets 690 and is all-in
+Thomwolf62: folds 
+Uncalled bet (690) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Td Ts 4s 3d]
+Seat 2: mabeal1 (big blind) collected (360)
+Seat 3: Thomwolf62 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259578834069: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:32:53 CET [2026/02/03 13:32:53 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1050 in chips) 
+Seat 3: Thomwolf62 (450 in chips) 
+mabeal1: posts small blind 30
+Thomwolf62: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 5c]
+mabeal1: folds 
+Uncalled bet (30) returned to Thomwolf62
+Thomwolf62 collected 60 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Thomwolf62 (big blind) collected (60)
+
+
+
+PokerStars Hand #259578835408: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:32:58 CET [2026/02/03 13:32:58 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1020 in chips) 
+Seat 3: Thomwolf62 (480 in chips) 
+Thomwolf62: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ah]
+Thomwolf62: raises 420 to 480 and is all-in
+mabeal1: folds 
+Uncalled bet (420) returned to Thomwolf62
+Thomwolf62 collected 120 from pot
+Thomwolf62: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Thomwolf62 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259578837002: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:33:05 CET [2026/02/03 13:33:05 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (960 in chips) 
+Seat 3: Thomwolf62 (540 in chips) 
+mabeal1: posts small blind 30
+Thomwolf62: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 6c]
+mabeal1: raises 900 to 960 and is all-in
+Thomwolf62: folds 
+Uncalled bet (900) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: Thomwolf62 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578838772: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:33:12 CET [2026/02/03 13:33:12 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1020 in chips) 
+Seat 3: Thomwolf62 (480 in chips) 
+Thomwolf62: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Kd]
+Thomwolf62: calls 30
+mabeal1: raises 960 to 1020 and is all-in
+Thomwolf62: folds 
+Uncalled bet (960) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: Thomwolf62 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578840610: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:33:20 CET [2026/02/03 13:33:20 ET]
+Table '3971773416 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1080 in chips) 
+Seat 3: Thomwolf62 (420 in chips) 
+mabeal1: posts small blind 30
+Thomwolf62: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qh]
+mabeal1: raises 1020 to 1080 and is all-in
+Thomwolf62: folds 
+Uncalled bet (1020) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: Thomwolf62 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578844668: Tournament #3971773416, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 19:33:37 CET [2026/02/03 13:33:37 ET]
+Table '3971773416 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1140 in chips) 
+Seat 3: Thomwolf62 (360 in chips) 
+Thomwolf62: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 8s]
+Thomwolf62: raises 60 to 120
+mabeal1: calls 60
+*** FLOP *** [Qs 6d 8h]
+mabeal1: checks 
+Thomwolf62: checks 
+*** TURN *** [Qs 6d 8h] [Tc]
+mabeal1: bets 60
+Thomwolf62: raises 60 to 120
+mabeal1: raises 900 to 1020 and is all-in
+Thomwolf62: calls 120 and is all-in
+Uncalled bet (780) returned to mabeal1
+*** RIVER *** [Qs 6d 8h Tc] [8d]
+*** SHOW DOWN ***
+mabeal1: shows [6c 8s] (a full house, Eights full of Sixes)
+Thomwolf62: shows [Qd Ah] (two pair, Queens and Eights)
+mabeal1 collected 720 from pot
+Thomwolf62 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.50 - congratulations!
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Qs 6d 8h Tc 8d]
+Seat 2: mabeal1 (big blind) showed [6c 8s] and won (720) with a full house, Eights full of Sixes
+Seat 3: Thomwolf62 (button) (small blind) showed [Qd Ah] and lost with two pair, Queens and Eights
+
+
+

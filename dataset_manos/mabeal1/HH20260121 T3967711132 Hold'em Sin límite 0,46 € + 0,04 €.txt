@@ -1,0 +1,30 @@
+﻿PokerStars Hand #259401334614: Tournament #3967711132, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:22:56 CET [2026/01/21 7:22:56 ET]
+Table '3967711132 1' 3-max Seat #1 is the button
+Seat 1: sevncls (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: lavvendine (500 in chips) 
+mabeal1: posts small blind 10
+lavvendine: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Ah]
+sevncls: calls 20
+mabeal1: raises 480 to 500 and is all-in
+lavvendine: folds 
+sevncls: calls 480 and is all-in
+*** FLOP *** [Ts Js Kd]
+*** TURN *** [Ts Js Kd] [2s]
+*** RIVER *** [Ts Js Kd 2s] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [6h Ah] (a pair of Deuces)
+sevncls: shows [Ks As] (a flush, Ace high)
+sevncls collected 1020 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Ts Js Kd 2s 2h]
+Seat 1: sevncls (button) showed [Ks As] and won (1020) with a flush, Ace high
+Seat 2: mabeal1 (small blind) showed [6h Ah] and lost with a pair of Deuces
+Seat 3: lavvendine (big blind) folded before Flop
+
+
+

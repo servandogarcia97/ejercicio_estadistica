@@ -1,0 +1,54 @@
+﻿PokerStars Hand #259624122237: Tournament #3972828283, €1.38+€0.12 EUR Hold'em No Limit - Level I (25/50) - 2026/02/07 3:16:06 CET [2026/02/06 21:16:06 ET]
+Table '3972828283 1' 8-max Seat #1 is the button
+Seat 1: Heilak (500 in chips) 
+Seat 2: pauline987 (500 in chips) 
+Seat 3: soleil66000 (500 in chips) 
+Seat 4: chuscee (500 in chips) 
+Seat 5: CRISTALERO4 (500 in chips) 
+Seat 6: 69_RaFa_69 (500 in chips) 
+Seat 7: alaoui17 (500 in chips) 
+Seat 8: mabeal1 (500 in chips) 
+Heilak: posts the ante 10
+pauline987: posts the ante 10
+soleil66000: posts the ante 10
+chuscee: posts the ante 10
+CRISTALERO4: posts the ante 10
+69_RaFa_69: posts the ante 10
+alaoui17: posts the ante 10
+mabeal1: posts the ante 10
+pauline987: posts small blind 25
+soleil66000: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Kc]
+chuscee: raises 440 to 490 and is all-in
+CRISTALERO4: folds 
+69_RaFa_69: folds 
+alaoui17: folds 
+mabeal1: calls 490 and is all-in
+Heilak: folds 
+pauline987: folds 
+soleil66000: calls 440 and is all-in
+*** FLOP *** [Th 3s Js]
+*** TURN *** [Th 3s Js] [Kd]
+*** RIVER *** [Th 3s Js Kd] [As]
+*** SHOW DOWN ***
+soleil66000: shows [Ts 2h] (a pair of Tens)
+chuscee: shows [Ad Ac] (three of a kind, Aces)
+mabeal1: shows [Jh Kc] (two pair, Kings and Jacks)
+chuscee collected 1575 from pot
+soleil66000 finished the tournament in 7th place
+mabeal1 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 1575 | Rake 0 
+Board [Th 3s Js Kd As]
+Seat 1: Heilak (button) folded before Flop (didn't bet)
+Seat 2: pauline987 (small blind) folded before Flop
+Seat 3: soleil66000 (big blind) showed [Ts 2h] and lost with a pair of Tens
+Seat 4: chuscee showed [Ad Ac] and won (1575) with three of a kind, Aces
+Seat 5: CRISTALERO4 folded before Flop (didn't bet)
+Seat 6: 69_RaFa_69 folded before Flop (didn't bet)
+Seat 7: alaoui17 folded before Flop (didn't bet)
+Seat 8: mabeal1 showed [Jh Kc] and lost with two pair, Kings and Jacks
+
+
+

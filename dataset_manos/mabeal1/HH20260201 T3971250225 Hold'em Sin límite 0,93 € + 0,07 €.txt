@@ -1,0 +1,827 @@
+﻿PokerStars Hand #259555711221: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:28:20 CET [2026/02/01 17:28:20 ET]
+Table '3971250225 1' 3-max Seat #1 is the button
+Seat 1: Ibercast (500 in chips) 
+Seat 2: 1COSMIN (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+1COSMIN: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Jd]
+Ibercast: folds 
+1COSMIN: calls 10
+mabeal1: checks 
+*** FLOP *** [Qc 8s Th]
+1COSMIN: checks 
+mabeal1: checks 
+*** TURN *** [Qc 8s Th] [7s]
+1COSMIN: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to 1COSMIN
+1COSMIN collected 40 from pot
+1COSMIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qc 8s Th 7s]
+Seat 1: Ibercast (button) folded before Flop (didn't bet)
+Seat 2: 1COSMIN (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259555721133: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:28:54 CET [2026/02/01 17:28:54 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 1: Ibercast (500 in chips) 
+Seat 2: 1COSMIN (520 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+Ibercast: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Qh]
+1COSMIN: calls 20
+mabeal1: raises 50 to 70
+Ibercast: folds 
+1COSMIN: folds 
+Uncalled bet (50) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Ibercast (big blind) folded before Flop
+Seat 2: 1COSMIN (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259555728810: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:29:20 CET [2026/02/01 17:29:20 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 1: Ibercast (480 in chips) 
+Seat 2: 1COSMIN (500 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+Ibercast: posts small blind 10
+1COSMIN: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 6s]
+mabeal1: folds 
+Ibercast: calls 10
+1COSMIN: checks 
+*** FLOP *** [2d 8s 6h]
+Ibercast: bets 20
+1COSMIN: calls 20
+*** TURN *** [2d 8s 6h] [Th]
+Ibercast: bets 20
+1COSMIN: calls 20
+*** RIVER *** [2d 8s 6h Th] [6c]
+Ibercast: bets 20
+1COSMIN: calls 20
+*** SHOW DOWN ***
+Ibercast: shows [6d 3h] (three of a kind, Sixes)
+1COSMIN: mucks hand 
+Ibercast collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2d 8s 6h Th 6c]
+Seat 1: Ibercast (small blind) showed [6d 3h] and won (160) with three of a kind, Sixes
+Seat 2: 1COSMIN (big blind) mucked [8c 5s]
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555738483: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:29:54 CET [2026/02/01 17:29:54 ET]
+Table '3971250225 1' 3-max Seat #1 is the button
+Seat 1: Ibercast (560 in chips) 
+Seat 2: 1COSMIN (420 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+1COSMIN: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Jh]
+Ibercast: calls 20
+1COSMIN: folds 
+mabeal1: checks 
+*** FLOP *** [5c 8h Ts]
+mabeal1: checks 
+Ibercast: bets 50
+mabeal1: folds 
+Uncalled bet (50) returned to Ibercast
+Ibercast collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [5c 8h Ts]
+Seat 1: Ibercast (button) collected (50)
+Seat 2: 1COSMIN (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259555746000: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:30:19 CET [2026/02/01 17:30:19 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 1: Ibercast (590 in chips) 
+Seat 2: 1COSMIN (410 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+mabeal1: posts small blind 10
+Ibercast: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 5d]
+1COSMIN: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Ibercast
+Ibercast collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Ibercast (big blind) collected (20)
+Seat 2: 1COSMIN (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555750078: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:30:33 CET [2026/02/01 17:30:33 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 1: Ibercast (600 in chips) 
+Seat 2: 1COSMIN (410 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+Ibercast: posts small blind 15
+1COSMIN: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jc]
+mabeal1: folds 
+Ibercast: calls 15
+1COSMIN: checks 
+*** FLOP *** [Qs Tc 3h]
+Ibercast: checks 
+1COSMIN: checks 
+*** TURN *** [Qs Tc 3h] [2s]
+Ibercast: bets 30
+1COSMIN: calls 30
+*** RIVER *** [Qs Tc 3h 2s] [9c]
+Ibercast: checks 
+1COSMIN: checks 
+*** SHOW DOWN ***
+Ibercast: shows [Ks Qh] (a pair of Queens)
+1COSMIN: mucks hand 
+Ibercast collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs Tc 3h 2s 9c]
+Seat 1: Ibercast (small blind) showed [Ks Qh] and won (120) with a pair of Queens
+Seat 2: 1COSMIN (big blind) mucked [Ad 4h]
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555759600: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:31:06 CET [2026/02/01 17:31:06 ET]
+Table '3971250225 1' 3-max Seat #1 is the button
+Seat 1: Ibercast (660 in chips) 
+Seat 2: 1COSMIN (350 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+1COSMIN: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Qs]
+Ibercast: calls 30
+1COSMIN: calls 15
+mabeal1: raises 120 to 150
+Ibercast: calls 120
+1COSMIN: folds 
+*** FLOP *** [6d 7c 7d]
+mabeal1: bets 90
+Ibercast: raises 420 to 510 and is all-in
+mabeal1: folds 
+Uncalled bet (420) returned to Ibercast
+Ibercast collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [6d 7c 7d]
+Seat 1: Ibercast (button) collected (510)
+Seat 2: 1COSMIN (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259555770512: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:31:43 CET [2026/02/01 17:31:43 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 1: Ibercast (930 in chips) 
+Seat 2: 1COSMIN (320 in chips) 
+Seat 3: mabeal1 (250 in chips) 
+mabeal1: posts small blind 15
+Ibercast: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 7d]
+1COSMIN: raises 30 to 60
+mabeal1: folds 
+Ibercast: calls 30
+*** FLOP *** [6c 7c Tc]
+Ibercast: bets 30
+1COSMIN: raises 230 to 260 and is all-in
+Ibercast: folds 
+Uncalled bet (230) returned to 1COSMIN
+1COSMIN collected 195 from pot
+1COSMIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [6c 7c Tc]
+Seat 1: Ibercast (big blind) folded on the Flop
+Seat 2: 1COSMIN (button) collected (195)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555775661: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:32:01 CET [2026/02/01 17:32:01 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 1: Ibercast (840 in chips) 
+Seat 2: 1COSMIN (425 in chips) 
+Seat 3: mabeal1 (235 in chips) 
+Ibercast: posts small blind 15
+1COSMIN: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 2c]
+mabeal1: folds 
+Ibercast: calls 15
+1COSMIN: checks 
+*** FLOP *** [7s 3h Qc]
+Ibercast: checks 
+1COSMIN: bets 30
+Ibercast: calls 30
+*** TURN *** [7s 3h Qc] [3d]
+Ibercast: checks 
+1COSMIN: bets 30
+Ibercast: calls 30
+*** RIVER *** [7s 3h Qc 3d] [8d]
+Ibercast: checks 
+1COSMIN: checks 
+*** SHOW DOWN ***
+Ibercast: shows [9h Ac] (a pair of Threes)
+1COSMIN: shows [5h 7c] (two pair, Sevens and Threes)
+1COSMIN collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7s 3h Qc 3d 8d]
+Seat 1: Ibercast (small blind) showed [9h Ac] and lost with a pair of Threes
+Seat 2: 1COSMIN (big blind) showed [5h 7c] and won (180) with two pair, Sevens and Threes
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555789569: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:32:48 CET [2026/02/01 17:32:48 ET]
+Table '3971250225 1' 3-max Seat #1 is the button
+Seat 1: Ibercast (750 in chips) 
+Seat 2: 1COSMIN (515 in chips) 
+Seat 3: mabeal1 (235 in chips) 
+1COSMIN: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 6h]
+Ibercast: folds 
+1COSMIN: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Ibercast (button) folded before Flop (didn't bet)
+Seat 2: 1COSMIN (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259555791687: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:32:55 CET [2026/02/01 17:32:55 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 1: Ibercast (750 in chips) 
+Seat 2: 1COSMIN (495 in chips) 
+Seat 3: mabeal1 (255 in chips) 
+mabeal1: posts small blind 20
+Ibercast: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Td]
+1COSMIN: folds 
+mabeal1: raises 215 to 255 and is all-in
+Ibercast: folds 
+Uncalled bet (215) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Ibercast (big blind) folded before Flop
+Seat 2: 1COSMIN (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259555797551: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:33:16 CET [2026/02/01 17:33:16 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 1: Ibercast (710 in chips) 
+Seat 2: 1COSMIN (495 in chips) 
+Seat 3: mabeal1 (295 in chips) 
+Ibercast: posts small blind 20
+1COSMIN: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 4d]
+mabeal1: folds 
+Ibercast: calls 20
+1COSMIN: raises 80 to 120
+Ibercast: calls 80
+*** FLOP *** [6c 7s 4s]
+Ibercast: checks 
+1COSMIN: bets 240
+Ibercast: calls 240
+*** TURN *** [6c 7s 4s] [8d]
+Ibercast: bets 350 and is all-in
+1COSMIN: calls 135 and is all-in
+Uncalled bet (215) returned to Ibercast
+*** RIVER *** [6c 7s 4s 8d] [3h]
+*** SHOW DOWN ***
+Ibercast: shows [Ac 3d] (a pair of Threes)
+1COSMIN: shows [Jh Jc] (a pair of Jacks)
+1COSMIN collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [6c 7s 4s 8d 3h]
+Seat 1: Ibercast (small blind) showed [Ac 3d] and lost with a pair of Threes
+Seat 2: 1COSMIN (big blind) showed [Jh Jc] and won (990) with a pair of Jacks
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555810088: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:34:01 CET [2026/02/01 17:34:01 ET]
+Table '3971250225 1' 3-max Seat #1 is the button
+Seat 1: Ibercast (215 in chips) 
+Seat 2: 1COSMIN (990 in chips) 
+Seat 3: mabeal1 (295 in chips) 
+1COSMIN: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 3h]
+Ibercast: calls 40
+1COSMIN: calls 20
+mabeal1: raises 255 to 295 and is all-in
+Ibercast: calls 175 and is all-in
+1COSMIN: folds 
+Uncalled bet (80) returned to mabeal1
+*** FLOP *** [2h Ad Qd]
+*** TURN *** [2h Ad Qd] [Ac]
+*** RIVER *** [2h Ad Qd Ac] [3s]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 3h] (a full house, Aces full of Threes)
+Ibercast: shows [7c Tc] (a pair of Aces)
+mabeal1 collected 470 from pot
+Ibercast finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [2h Ad Qd Ac 3s]
+Seat 1: Ibercast (button) showed [7c Tc] and lost with a pair of Aces
+Seat 2: 1COSMIN (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [Ah 3h] and won (470) with a full house, Aces full of Threes
+
+
+
+PokerStars Hand #259555817986: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:34:29 CET [2026/02/01 17:34:29 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 2: 1COSMIN (950 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+mabeal1: posts small blind 30
+1COSMIN: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 3h]
+mabeal1: folds 
+Uncalled bet (30) returned to 1COSMIN
+1COSMIN collected 60 from pot
+1COSMIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: 1COSMIN (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555819592: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:34:34 CET [2026/02/01 17:34:34 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 2: 1COSMIN (980 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+1COSMIN: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah As]
+1COSMIN: calls 30
+mabeal1: raises 90 to 150
+1COSMIN: calls 90
+*** FLOP *** [4s Td 5h]
+mabeal1: bets 120
+1COSMIN: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [4s Td 5h]
+Seat 2: 1COSMIN (button) (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (300)
+
+
+
+PokerStars Hand #259555825045: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:34:53 CET [2026/02/01 17:34:53 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 2: 1COSMIN (830 in chips) 
+Seat 3: mabeal1 (670 in chips) 
+mabeal1: posts small blind 30
+1COSMIN: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5h]
+mabeal1: calls 30
+1COSMIN: checks 
+*** FLOP *** [Jh Ah 7s]
+1COSMIN: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to 1COSMIN
+1COSMIN collected 120 from pot
+1COSMIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh Ah 7s]
+Seat 2: 1COSMIN (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259555830647: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:35:13 CET [2026/02/01 17:35:13 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 2: 1COSMIN (890 in chips) 
+Seat 3: mabeal1 (610 in chips) 
+1COSMIN: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 6c]
+1COSMIN: calls 30
+mabeal1: checks 
+*** FLOP *** [8d 4s 4d]
+mabeal1: checks 
+1COSMIN: checks 
+*** TURN *** [8d 4s 4d] [8s]
+mabeal1: checks 
+1COSMIN: checks 
+*** RIVER *** [8d 4s 4d 8s] [4c]
+mabeal1: checks 
+1COSMIN: checks 
+*** SHOW DOWN ***
+mabeal1: shows [3s 6c] (a full house, Fours full of Eights)
+1COSMIN: shows [5s Qh] (a full house, Fours full of Eights)
+mabeal1 collected 60 from pot
+1COSMIN collected 60 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 4s 4d 8s 4c]
+Seat 2: 1COSMIN (button) (small blind) showed [5s Qh] and won (60) with a full house, Fours full of Eights
+Seat 3: mabeal1 (big blind) showed [3s 6c] and won (60) with a full house, Fours full of Eights
+
+
+
+PokerStars Hand #259555836526: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:35:33 CET [2026/02/01 17:35:33 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 2: 1COSMIN (890 in chips) 
+Seat 3: mabeal1 (610 in chips) 
+mabeal1: posts small blind 30
+1COSMIN: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Td]
+mabeal1: calls 30
+1COSMIN: checks 
+*** FLOP *** [Kd Qc Qh]
+1COSMIN: checks 
+mabeal1: bets 60
+1COSMIN: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kd Qc Qh]
+Seat 2: 1COSMIN (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259555842440: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:35:54 CET [2026/02/01 17:35:54 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 2: 1COSMIN (830 in chips) 
+Seat 3: mabeal1 (670 in chips) 
+1COSMIN: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 4c]
+1COSMIN: calls 30
+mabeal1: checks 
+*** FLOP *** [Qs Tc Jd]
+mabeal1: checks 
+1COSMIN: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to 1COSMIN
+1COSMIN collected 120 from pot
+1COSMIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs Tc Jd]
+Seat 2: 1COSMIN (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259555846055: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:36:06 CET [2026/02/01 17:36:06 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 2: 1COSMIN (890 in chips) 
+Seat 3: mabeal1 (610 in chips) 
+mabeal1: posts small blind 30
+1COSMIN: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4d]
+mabeal1: calls 30
+1COSMIN: raises 60 to 120
+mabeal1: calls 60
+*** FLOP *** [6s 5h Ts]
+1COSMIN: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to 1COSMIN
+1COSMIN collected 240 from pot
+1COSMIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6s 5h Ts]
+Seat 2: 1COSMIN (big blind) collected (240)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259555849466: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:36:18 CET [2026/02/01 17:36:18 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 2: 1COSMIN (1010 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+1COSMIN: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9h]
+1COSMIN: calls 30
+mabeal1: checks 
+*** FLOP *** [7h Jh 3h]
+mabeal1: checks 
+1COSMIN: checks 
+*** TURN *** [7h Jh 3h] [6d]
+mabeal1: checks 
+1COSMIN: checks 
+*** RIVER *** [7h Jh 3h 6d] [Js]
+mabeal1: bets 60
+1COSMIN: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [6s 9h] (two pair, Jacks and Sixes)
+1COSMIN: mucks hand 
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h Jh 3h 6d Js]
+Seat 2: 1COSMIN (button) (small blind) mucked [3s Ac]
+Seat 3: mabeal1 (big blind) showed [6s 9h] and won (240) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #259555856563: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 23:36:43 CET [2026/02/01 17:36:43 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 2: 1COSMIN (890 in chips) 
+Seat 3: mabeal1 (610 in chips) 
+mabeal1: posts small blind 40
+1COSMIN: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Qd]
+mabeal1: raises 530 to 610 and is all-in
+1COSMIN: folds 
+Uncalled bet (530) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: 1COSMIN (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259555859227: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 23:36:53 CET [2026/02/01 17:36:53 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 2: 1COSMIN (810 in chips) 
+Seat 3: mabeal1 (690 in chips) 
+1COSMIN: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ks]
+1COSMIN: calls 40
+mabeal1: raises 610 to 690 and is all-in
+1COSMIN: folds 
+Uncalled bet (610) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: 1COSMIN (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259555861638: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 23:37:01 CET [2026/02/01 17:37:01 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 2: 1COSMIN (730 in chips) 
+Seat 3: mabeal1 (770 in chips) 
+mabeal1: posts small blind 40
+1COSMIN: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9c]
+mabeal1: calls 40
+1COSMIN: raises 80 to 160
+mabeal1: calls 80
+*** FLOP *** [5c 8d As]
+1COSMIN: bets 320
+mabeal1: calls 320
+*** TURN *** [5c 8d As] [Kc]
+1COSMIN: checks 
+mabeal1: bets 290 and is all-in
+1COSMIN: folds 
+Uncalled bet (290) returned to mabeal1
+mabeal1 collected 960 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [5c 8d As Kc]
+Seat 2: 1COSMIN (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (960)
+
+
+
+PokerStars Hand #259555867940: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 23:37:24 CET [2026/02/01 17:37:24 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 2: 1COSMIN (250 in chips) 
+Seat 3: mabeal1 (1250 in chips) 
+1COSMIN: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8d]
+1COSMIN: raises 170 to 250 and is all-in
+mabeal1: folds 
+Uncalled bet (170) returned to 1COSMIN
+1COSMIN collected 160 from pot
+1COSMIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: 1COSMIN (button) (small blind) collected (160)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259555869404: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 23:37:29 CET [2026/02/01 17:37:29 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 2: 1COSMIN (330 in chips) 
+Seat 3: mabeal1 (1170 in chips) 
+mabeal1: posts small blind 40
+1COSMIN: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 9s]
+mabeal1: raises 1090 to 1170 and is all-in
+1COSMIN: calls 250 and is all-in
+Uncalled bet (840) returned to mabeal1
+*** FLOP *** [Jh Th Qd]
+*** TURN *** [Jh Th Qd] [4c]
+*** RIVER *** [Jh Th Qd 4c] [5d]
+*** SHOW DOWN ***
+1COSMIN: shows [Ad 6d] (high card Ace)
+mabeal1: shows [6h 9s] (high card Queen)
+1COSMIN collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Jh Th Qd 4c 5d]
+Seat 2: 1COSMIN (big blind) showed [Ad 6d] and won (660) with high card Ace
+Seat 3: mabeal1 (button) (small blind) showed [6h 9s] and lost with high card Queen
+
+
+
+PokerStars Hand #259555874320: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 23:37:46 CET [2026/02/01 17:37:46 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 2: 1COSMIN (660 in chips) 
+Seat 3: mabeal1 (840 in chips) 
+1COSMIN: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6d]
+1COSMIN: calls 40
+mabeal1: checks 
+*** FLOP *** [7s 5s 4s]
+mabeal1: checks 
+1COSMIN: checks 
+*** TURN *** [7s 5s 4s] [5d]
+mabeal1: bets 80
+1COSMIN: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7s 5s 4s 5d]
+Seat 2: 1COSMIN (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259555879537: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 23:38:05 CET [2026/02/01 17:38:05 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 2: 1COSMIN (580 in chips) 
+Seat 3: mabeal1 (920 in chips) 
+mabeal1: posts small blind 40
+1COSMIN: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 2s]
+mabeal1: folds 
+Uncalled bet (40) returned to 1COSMIN
+1COSMIN collected 80 from pot
+1COSMIN: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: 1COSMIN (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555880918: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/02/01 23:38:09 CET [2026/02/01 17:38:09 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 2: 1COSMIN (620 in chips) 
+Seat 3: mabeal1 (880 in chips) 
+1COSMIN: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Ks]
+1COSMIN: calls 40
+mabeal1: raises 800 to 880 and is all-in
+1COSMIN: calls 540 and is all-in
+Uncalled bet (260) returned to mabeal1
+*** FLOP *** [Ad 9c 7d]
+*** TURN *** [Ad 9c 7d] [3c]
+*** RIVER *** [Ad 9c 7d 3c] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [Jd Ks] (high card Ace)
+1COSMIN: shows [5h 6h] (a straight, Three to Seven)
+1COSMIN collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Ad 9c 7d 3c 4c]
+Seat 2: 1COSMIN (button) (small blind) showed [5h 6h] and won (1240) with a straight, Three to Seven
+Seat 3: mabeal1 (big blind) showed [Jd Ks] and lost with high card Ace
+
+
+
+PokerStars Hand #259555888686: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level VI (50/100) - 2026/02/01 23:38:36 CET [2026/02/01 17:38:36 ET]
+Table '3971250225 1' 3-max Seat #3 is the button
+Seat 2: 1COSMIN (1240 in chips) 
+Seat 3: mabeal1 (260 in chips) 
+mabeal1: posts small blind 50
+1COSMIN: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Qh]
+mabeal1: raises 160 to 260 and is all-in
+1COSMIN: calls 160
+*** FLOP *** [Kh 8h 8s]
+*** TURN *** [Kh 8h 8s] [2c]
+*** RIVER *** [Kh 8h 8s 2c] [4s]
+*** SHOW DOWN ***
+1COSMIN: shows [Jd Jc] (two pair, Jacks and Eights)
+mabeal1: shows [Kc Qh] (two pair, Kings and Eights)
+mabeal1 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [Kh 8h 8s 2c 4s]
+Seat 2: 1COSMIN (big blind) showed [Jd Jc] and lost with two pair, Jacks and Eights
+Seat 3: mabeal1 (button) (small blind) showed [Kc Qh] and won (520) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #259555892179: Tournament #3971250225, €0.93+€0.07 EUR Hold'em No Limit - Level VI (50/100) - 2026/02/01 23:38:49 CET [2026/02/01 17:38:49 ET]
+Table '3971250225 1' 3-max Seat #2 is the button
+Seat 2: 1COSMIN (980 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+1COSMIN: posts small blind 50
+mabeal1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 2h]
+1COSMIN: calls 50
+mabeal1: checks 
+*** FLOP *** [7d 6s Tc]
+mabeal1: checks 
+1COSMIN: bets 200
+mabeal1: calls 200
+*** TURN *** [7d 6s Tc] [5h]
+mabeal1: bets 220 and is all-in
+1COSMIN: calls 220
+*** RIVER *** [7d 6s Tc 5h] [Qd]
+*** SHOW DOWN ***
+mabeal1: shows [6c 2h] (a pair of Sixes)
+1COSMIN: shows [Ts 5s] (two pair, Tens and Fives)
+1COSMIN collected 1040 from pot
+mabeal1 finished the tournament in 2nd place
+1COSMIN wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [7d 6s Tc 5h Qd]
+Seat 2: 1COSMIN (button) (small blind) showed [Ts 5s] and won (1040) with two pair, Tens and Fives
+Seat 3: mabeal1 (big blind) showed [6c 2h] and lost with a pair of Sixes
+
+
+

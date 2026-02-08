@@ -1,0 +1,296 @@
+﻿PokerStars Hand #259593818911: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:35:43 CET [2026/02/04 16:35:43 ET]
+Table '3972117197 1' 3-max Seat #1 is the button
+Seat 1: Adyfa120 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: pilaxmax11 (500 in chips) 
+mabeal1: posts small blind 10
+pilaxmax11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 3h]
+Adyfa120: raises 20 to 40
+mabeal1: folds 
+pilaxmax11: calls 20
+*** FLOP *** [Kd 9d Qc]
+pilaxmax11: checks 
+Adyfa120: bets 45
+pilaxmax11: folds 
+Uncalled bet (45) returned to Adyfa120
+Adyfa120 collected 90 from pot
+Adyfa120: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Kd 9d Qc]
+Seat 1: Adyfa120 (button) collected (90)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: pilaxmax11 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259593824912: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:36:05 CET [2026/02/04 16:36:05 ET]
+Table '3972117197 1' 3-max Seat #2 is the button
+Seat 1: Adyfa120 (550 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: pilaxmax11 (460 in chips) 
+pilaxmax11: posts small blind 10
+Adyfa120: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6s]
+mabeal1: folds 
+pilaxmax11: folds 
+Uncalled bet (10) returned to Adyfa120
+Adyfa120 collected 20 from pot
+Adyfa120: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Adyfa120 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: pilaxmax11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259593827422: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:36:14 CET [2026/02/04 16:36:14 ET]
+Table '3972117197 1' 3-max Seat #3 is the button
+Seat 1: Adyfa120 (560 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: pilaxmax11 (450 in chips) 
+Adyfa120: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6s]
+pilaxmax11: calls 20
+Adyfa120: calls 10
+mabeal1: checks 
+*** FLOP *** [Jd 4c Th]
+Adyfa120: checks 
+mabeal1: checks 
+pilaxmax11: bets 20
+Adyfa120: folds 
+mabeal1: calls 20
+*** TURN *** [Jd 4c Th] [7c]
+mabeal1: checks 
+pilaxmax11: bets 50
+mabeal1: folds 
+Uncalled bet (50) returned to pilaxmax11
+pilaxmax11 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Jd 4c Th 7c]
+Seat 1: Adyfa120 (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: pilaxmax11 (button) collected (100)
+
+
+
+PokerStars Hand #259593837882: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:36:52 CET [2026/02/04 16:36:52 ET]
+Table '3972117197 1' 3-max Seat #1 is the button
+Seat 1: Adyfa120 (540 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: pilaxmax11 (510 in chips) 
+mabeal1: posts small blind 10
+pilaxmax11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 5c]
+Adyfa120: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to pilaxmax11
+pilaxmax11 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Adyfa120 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: pilaxmax11 (big blind) collected (20)
+
+
+
+PokerStars Hand #259593839328: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:36:58 CET [2026/02/04 16:36:58 ET]
+Table '3972117197 1' 3-max Seat #2 is the button
+Seat 1: Adyfa120 (540 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: pilaxmax11 (520 in chips) 
+pilaxmax11: posts small blind 10
+Adyfa120: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s As]
+mabeal1: raises 30 to 50
+pilaxmax11: calls 40
+Adyfa120: calls 30
+*** FLOP *** [7c 5d 5h]
+pilaxmax11: checks 
+Adyfa120: checks 
+mabeal1: bets 60
+pilaxmax11: folds 
+Adyfa120: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [7c 5d 5h]
+Seat 1: Adyfa120 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (150)
+Seat 3: pilaxmax11 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259593845111: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:37:19 CET [2026/02/04 16:37:19 ET]
+Table '3972117197 1' 3-max Seat #3 is the button
+Seat 1: Adyfa120 (490 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: pilaxmax11 (470 in chips) 
+Adyfa120: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Kh]
+pilaxmax11: folds 
+Adyfa120: calls 10
+mabeal1: raises 60 to 80
+Adyfa120: calls 60
+*** FLOP *** [Kd 9h 8c]
+Adyfa120: checks 
+mabeal1: bets 80
+Adyfa120: calls 80
+*** TURN *** [Kd 9h 8c] [Qh]
+Adyfa120: checks 
+mabeal1: bets 240
+Adyfa120: calls 240
+*** RIVER *** [Kd 9h 8c Qh] [5s]
+Adyfa120: checks 
+mabeal1: bets 140 and is all-in
+Adyfa120: calls 90 and is all-in
+Uncalled bet (50) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Ah Kh] (a pair of Kings)
+Adyfa120: shows [Qc Js] (a pair of Queens)
+mabeal1 collected 980 from pot
+Adyfa120 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Kd 9h 8c Qh 5s]
+Seat 1: Adyfa120 (small blind) showed [Qc Js] and lost with a pair of Queens
+Seat 2: mabeal1 (big blind) showed [Ah Kh] and won (980) with a pair of Kings
+Seat 3: pilaxmax11 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259593854023: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:37:51 CET [2026/02/04 16:37:51 ET]
+Table '3972117197 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1030 in chips) 
+Seat 3: pilaxmax11 (470 in chips) 
+mabeal1: posts small blind 10
+pilaxmax11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 2c]
+mabeal1: calls 10
+pilaxmax11: checks 
+*** FLOP *** [Kh 3d 5s]
+pilaxmax11: bets 20
+mabeal1: calls 20
+*** TURN *** [Kh 3d 5s] [7s]
+pilaxmax11: checks 
+mabeal1: bets 60
+pilaxmax11: calls 60
+*** RIVER *** [Kh 3d 5s 7s] [5h]
+pilaxmax11: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+pilaxmax11: shows [3c 9s] (two pair, Fives and Threes)
+mabeal1: mucks hand 
+pilaxmax11 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Kh 3d 5s 7s 5h]
+Seat 2: mabeal1 (button) (small blind) mucked [4s 2c]
+Seat 3: pilaxmax11 (big blind) showed [3c 9s] and won (200) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #259593861611: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:38:19 CET [2026/02/04 16:38:19 ET]
+Table '3972117197 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (930 in chips) 
+Seat 3: pilaxmax11 (570 in chips) 
+pilaxmax11: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6d]
+pilaxmax11: calls 10
+mabeal1: checks 
+*** FLOP *** [2s 4h Kh]
+mabeal1: checks 
+pilaxmax11: bets 20
+mabeal1: raises 40 to 60
+pilaxmax11: calls 40
+*** TURN *** [2s 4h Kh] [4d]
+mabeal1: checks 
+pilaxmax11: bets 160
+mabeal1: folds 
+Uncalled bet (160) returned to pilaxmax11
+pilaxmax11 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2s 4h Kh 4d]
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: pilaxmax11 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259593868074: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:38:43 CET [2026/02/04 16:38:43 ET]
+Table '3972117197 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (850 in chips) 
+Seat 3: pilaxmax11 (650 in chips) 
+mabeal1: posts small blind 10
+pilaxmax11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c As]
+mabeal1: raises 40 to 60
+pilaxmax11: calls 40
+*** FLOP *** [Qc 6d Qh]
+pilaxmax11: checks 
+mabeal1: bets 60
+pilaxmax11: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qc 6d Qh]
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: pilaxmax11 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259593874675: Tournament #3972117197, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 22:39:07 CET [2026/02/04 16:39:07 ET]
+Table '3972117197 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (910 in chips) 
+Seat 3: pilaxmax11 (590 in chips) 
+pilaxmax11: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ts]
+pilaxmax11: calls 15
+mabeal1: checks 
+*** FLOP *** [Th 8s Kd]
+mabeal1: checks 
+pilaxmax11: bets 60
+mabeal1: calls 60
+*** TURN *** [Th 8s Kd] [3d]
+mabeal1: checks 
+pilaxmax11: bets 180
+mabeal1: calls 180
+*** RIVER *** [Th 8s Kd 3d] [5s]
+mabeal1: checks 
+pilaxmax11: bets 320 and is all-in
+mabeal1: calls 320
+*** SHOW DOWN ***
+pilaxmax11: shows [7h 8h] (a pair of Eights)
+mabeal1: shows [6d Ts] (a pair of Tens)
+mabeal1 collected 1180 from pot
+pilaxmax11 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €10.00 - congratulations!
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [Th 8s Kd 3d 5s]
+Seat 2: mabeal1 (big blind) showed [6d Ts] and won (1180) with a pair of Tens
+Seat 3: pilaxmax11 (button) (small blind) showed [7h 8h] and lost with a pair of Eights
+
+
+

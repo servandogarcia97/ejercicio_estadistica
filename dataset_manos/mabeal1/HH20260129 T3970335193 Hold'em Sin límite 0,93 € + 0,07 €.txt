@@ -1,0 +1,771 @@
+﻿PokerStars Hand #259515267557: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 0:49:58 CET [2026/01/29 18:49:58 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: sotadas (500 in chips) 
+Seat 3: 87johan (500 in chips) 
+sotadas: posts small blind 10
+87johan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ac]
+mabeal1: raises 480 to 500 and is all-in
+sotadas: folds 
+87johan: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: sotadas (small blind) folded before Flop
+Seat 3: 87johan (big blind) folded before Flop
+
+
+
+PokerStars Hand #259515269562: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 0:50:08 CET [2026/01/29 18:50:08 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: sotadas (490 in chips) 
+Seat 3: 87johan (480 in chips) 
+87johan: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 2h]
+sotadas: calls 20
+87johan: calls 10
+mabeal1: checks 
+*** FLOP *** [3d 8c Qs]
+87johan: checks 
+mabeal1: checks 
+sotadas: bets 20
+87johan: calls 20
+mabeal1: folds 
+*** TURN *** [3d 8c Qs] [9c]
+87johan: checks 
+sotadas: bets 20
+87johan: calls 20
+*** RIVER *** [3d 8c Qs 9c] [7h]
+87johan: checks 
+sotadas: bets 40
+87johan: folds 
+Uncalled bet (40) returned to sotadas
+sotadas collected 140 from pot
+sotadas: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [3d 8c Qs 9c 7h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: sotadas (button) collected (140)
+Seat 3: 87johan (small blind) folded on the River
+
+
+
+PokerStars Hand #259515273849: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 0:50:31 CET [2026/01/29 18:50:31 ET]
+Table '3970335193 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: sotadas (570 in chips) 
+Seat 3: 87johan (420 in chips) 
+mabeal1: posts small blind 10
+sotadas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 9c]
+87johan: raises 50 to 70
+mabeal1: raises 440 to 510 and is all-in
+sotadas: folds 
+87johan: calls 350 and is all-in
+Uncalled bet (90) returned to mabeal1
+*** FLOP *** [7s 2h 6d]
+*** TURN *** [7s 2h 6d] [5s]
+*** RIVER *** [7s 2h 6d 5s] [5d]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 9c] (a pair of Fives)
+87johan: shows [Qd Th] (a pair of Fives - lower kicker)
+mabeal1 collected 860 from pot
+87johan finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [7s 2h 6d 5s 5d]
+Seat 1: mabeal1 (small blind) showed [Ah 9c] and won (860) with a pair of Fives
+Seat 2: sotadas (big blind) folded before Flop
+Seat 3: 87johan (button) showed [Qd Th] and lost with a pair of Fives
+
+
+
+PokerStars Hand #259515278855: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 0:50:57 CET [2026/01/29 18:50:57 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (950 in chips) 
+Seat 2: sotadas (550 in chips) 
+sotadas: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 2h]
+sotadas: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: sotadas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259515279881: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 0:51:03 CET [2026/01/29 18:51:03 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 2: sotadas (540 in chips) 
+mabeal1: posts small blind 10
+sotadas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7s]
+mabeal1: calls 10
+sotadas: checks 
+*** FLOP *** [6h Ks 5s]
+sotadas: checks 
+mabeal1: bets 30
+sotadas: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6h Ks 5s]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: sotadas (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259515283289: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 0:51:20 CET [2026/01/29 18:51:20 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 2: sotadas (520 in chips) 
+sotadas: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3h]
+sotadas: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: sotadas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259515284174: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 0:51:25 CET [2026/01/29 18:51:25 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 2: sotadas (510 in chips) 
+mabeal1: posts small blind 10
+sotadas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 9c]
+mabeal1: calls 10
+sotadas: checks 
+*** FLOP *** [4c 7s Jc]
+sotadas: bets 20
+mabeal1: calls 20
+*** TURN *** [4c 7s Jc] [5h]
+sotadas: bets 20
+mabeal1: calls 20
+*** RIVER *** [4c 7s Jc 5h] [5s]
+sotadas: bets 20
+mabeal1: calls 20
+*** SHOW DOWN ***
+sotadas: shows [7c Td] (two pair, Sevens and Fives)
+mabeal1: shows [7d 9c] (two pair, Sevens and Fives)
+sotadas collected 80 from pot
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c 7s Jc 5h 5s]
+Seat 1: mabeal1 (button) (small blind) showed [7d 9c] and won (80) with two pair, Sevens and Fives
+Seat 2: sotadas (big blind) showed [7c Td] and won (80) with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #259515287154: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 0:51:39 CET [2026/01/29 18:51:39 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 2: sotadas (510 in chips) 
+sotadas: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Jc]
+sotadas: calls 10
+mabeal1: raises 40 to 60
+sotadas: calls 40
+*** FLOP *** [Jd 4h Js]
+mabeal1: bets 40
+sotadas: calls 40
+*** TURN *** [Jd 4h Js] [2d]
+mabeal1: bets 100
+sotadas: folds 
+Uncalled bet (100) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Jd 4h Js 2d]
+Seat 1: mabeal1 (big blind) collected (200)
+Seat 2: sotadas (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259515292851: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 0:52:08 CET [2026/01/29 18:52:08 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 2: sotadas (410 in chips) 
+mabeal1: posts small blind 15
+sotadas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ad]
+mabeal1: raises 1060 to 1090 and is all-in
+sotadas: folds 
+Uncalled bet (1060) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: sotadas (big blind) folded before Flop
+
+
+
+PokerStars Hand #259515295129: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 0:52:19 CET [2026/01/29 18:52:19 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1120 in chips) 
+Seat 2: sotadas (380 in chips) 
+sotadas: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 5s]
+sotadas: calls 15
+mabeal1: checks 
+*** FLOP *** [Js 6d 4c]
+mabeal1: checks 
+sotadas: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to sotadas
+sotadas collected 60 from pot
+sotadas: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 6d 4c]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: sotadas (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259515297838: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 0:52:32 CET [2026/01/29 18:52:32 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 2: sotadas (410 in chips) 
+mabeal1: posts small blind 15
+sotadas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ac]
+mabeal1: raises 1060 to 1090 and is all-in
+sotadas: folds 
+Uncalled bet (1060) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: sotadas (big blind) folded before Flop
+
+
+
+PokerStars Hand #259515300063: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 0:52:44 CET [2026/01/29 18:52:44 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1120 in chips) 
+Seat 2: sotadas (380 in chips) 
+sotadas: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 9d]
+sotadas: calls 15
+mabeal1: checks 
+*** FLOP *** [6c Td 7h]
+mabeal1: checks 
+sotadas: bets 30
+mabeal1: calls 30
+*** TURN *** [6c Td 7h] [8h]
+mabeal1: checks 
+sotadas: bets 30
+mabeal1: raises 60 to 90
+sotadas: calls 60
+*** RIVER *** [6c Td 7h 8h] [Ad]
+mabeal1: bets 970 and is all-in
+sotadas: folds 
+Uncalled bet (970) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6c Td 7h 8h Ad]
+Seat 1: mabeal1 (big blind) collected (300)
+Seat 2: sotadas (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259515304182: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 0:53:04 CET [2026/01/29 18:53:04 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1270 in chips) 
+Seat 2: sotadas (230 in chips) 
+mabeal1: posts small blind 15
+sotadas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 5c]
+mabeal1: folds 
+Uncalled bet (15) returned to sotadas
+sotadas collected 30 from pot
+sotadas: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: sotadas (big blind) collected (30)
+
+
+
+PokerStars Hand #259515305341: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 0:53:10 CET [2026/01/29 18:53:10 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1255 in chips) 
+Seat 2: sotadas (245 in chips) 
+sotadas: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Kh]
+sotadas: calls 15
+mabeal1: checks 
+*** FLOP *** [4d Ac 7h]
+mabeal1: checks 
+sotadas: checks 
+*** TURN *** [4d Ac 7h] [Qd]
+mabeal1: bets 30
+sotadas: calls 30
+*** RIVER *** [4d Ac 7h Qd] [4c]
+mabeal1: checks 
+sotadas: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+sotadas: shows [4s Kd] (three of a kind, Fours)
+mabeal1: mucks hand 
+sotadas collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4d Ac 7h Qd 4c]
+Seat 1: mabeal1 (big blind) mucked [6d Kh]
+Seat 2: sotadas (button) (small blind) showed [4s Kd] and won (240) with three of a kind, Fours
+
+
+
+PokerStars Hand #259515309142: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 0:53:29 CET [2026/01/29 18:53:29 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1135 in chips) 
+Seat 2: sotadas (365 in chips) 
+mabeal1: posts small blind 15
+sotadas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Tc]
+mabeal1: calls 15
+sotadas: checks 
+*** FLOP *** [5d 3d Jh]
+sotadas: checks 
+mabeal1: bets 30
+sotadas: calls 30
+*** TURN *** [5d 3d Jh] [9s]
+sotadas: checks 
+mabeal1: checks 
+*** RIVER *** [5d 3d Jh 9s] [Qc]
+sotadas: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to sotadas
+sotadas collected 120 from pot
+sotadas: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5d 3d Jh 9s Qc]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 2: sotadas (big blind) collected (120)
+
+
+
+PokerStars Hand #259515313924: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/30 0:53:53 CET [2026/01/29 18:53:53 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1075 in chips) 
+Seat 2: sotadas (425 in chips) 
+sotadas: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Jd]
+sotadas: calls 15
+mabeal1: raises 1045 to 1075 and is all-in
+sotadas: folds 
+Uncalled bet (1045) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: sotadas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259515315881: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 0:54:03 CET [2026/01/29 18:54:03 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 2: sotadas (395 in chips) 
+mabeal1: posts small blind 20
+sotadas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 2s]
+mabeal1: calls 20
+sotadas: checks 
+*** FLOP *** [Ad 5c 8s]
+sotadas: checks 
+mabeal1: bets 40
+sotadas: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad 5c 8s]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: sotadas (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259515317992: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 0:54:13 CET [2026/01/29 18:54:13 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1145 in chips) 
+Seat 2: sotadas (355 in chips) 
+sotadas: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 4h]
+sotadas: calls 20
+mabeal1: checks 
+*** FLOP *** [Qs 5d 5c]
+mabeal1: checks 
+sotadas: checks 
+*** TURN *** [Qs 5d 5c] [2c]
+mabeal1: bets 80
+sotadas: calls 80
+*** RIVER *** [Qs 5d 5c 2c] [Tc]
+mabeal1: checks 
+sotadas: checks 
+*** SHOW DOWN ***
+mabeal1: shows [3h 4h] (a pair of Fives)
+sotadas: shows [As 9h] (a pair of Fives - Ace kicker)
+sotadas collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qs 5d 5c 2c Tc]
+Seat 1: mabeal1 (big blind) showed [3h 4h] and lost with a pair of Fives
+Seat 2: sotadas (button) (small blind) showed [As 9h] and won (240) with a pair of Fives
+
+
+
+PokerStars Hand #259515321044: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 0:54:29 CET [2026/01/29 18:54:29 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1025 in chips) 
+Seat 2: sotadas (475 in chips) 
+mabeal1: posts small blind 20
+sotadas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Ac]
+mabeal1: raises 985 to 1025 and is all-in
+sotadas: folds 
+Uncalled bet (985) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: sotadas (big blind) folded before Flop
+
+
+
+PokerStars Hand #259515322594: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 0:54:37 CET [2026/01/29 18:54:37 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 2: sotadas (435 in chips) 
+sotadas: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Qd]
+sotadas: calls 20
+mabeal1: checks 
+*** FLOP *** [9c 7d Qs]
+mabeal1: checks 
+sotadas: checks 
+*** TURN *** [9c 7d Qs] [Ts]
+mabeal1: checks 
+sotadas: checks 
+*** RIVER *** [9c 7d Qs Ts] [6c]
+mabeal1: bets 80
+sotadas: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c 7d Qs Ts 6c]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: sotadas (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259515325206: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 0:54:50 CET [2026/01/29 18:54:50 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 2: sotadas (395 in chips) 
+mabeal1: posts small blind 20
+sotadas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Js]
+mabeal1: raises 40 to 80
+sotadas: calls 40
+*** FLOP *** [2s 6h 4c]
+sotadas: checks 
+mabeal1: checks 
+*** TURN *** [2s 6h 4c] [Tc]
+sotadas: checks 
+mabeal1: checks 
+*** RIVER *** [2s 6h 4c Tc] [9d]
+sotadas: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+sotadas: shows [3c 3d] (a pair of Threes)
+mabeal1: mucks hand 
+sotadas collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2s 6h 4c Tc 9d]
+Seat 1: mabeal1 (button) (small blind) mucked [Ks Js]
+Seat 2: sotadas (big blind) showed [3c 3d] and won (160) with a pair of Threes
+
+
+
+PokerStars Hand #259515327757: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 0:55:03 CET [2026/01/29 18:55:03 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1025 in chips) 
+Seat 2: sotadas (475 in chips) 
+sotadas: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Th]
+sotadas: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: sotadas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259515328835: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 0:55:09 CET [2026/01/29 18:55:09 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1045 in chips) 
+Seat 2: sotadas (455 in chips) 
+mabeal1: posts small blind 20
+sotadas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 5h]
+mabeal1: calls 20
+sotadas: checks 
+*** FLOP *** [6c 5s Kh]
+sotadas: checks 
+mabeal1: checks 
+*** TURN *** [6c 5s Kh] [9s]
+sotadas: checks 
+mabeal1: checks 
+*** RIVER *** [6c 5s Kh 9s] [Tc]
+sotadas: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+sotadas: shows [7c Td] (a pair of Tens)
+mabeal1: mucks hand 
+sotadas collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6c 5s Kh 9s Tc]
+Seat 1: mabeal1 (button) (small blind) mucked [2c 5h]
+Seat 2: sotadas (big blind) showed [7c Td] and won (160) with a pair of Tens
+
+
+
+PokerStars Hand #259515331848: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 0:55:29 CET [2026/01/29 18:55:29 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (965 in chips) 
+Seat 2: sotadas (535 in chips) 
+sotadas: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Kd]
+sotadas: calls 20
+mabeal1: raises 80 to 120
+sotadas: calls 80
+*** FLOP *** [Qh As Tc]
+mabeal1: bets 80
+sotadas: calls 80
+*** TURN *** [Qh As Tc] [4d]
+mabeal1: checks 
+sotadas: checks 
+*** RIVER *** [Qh As Tc 4d] [Jd]
+mabeal1: bets 765 and is all-in
+sotadas: calls 335 and is all-in
+Uncalled bet (430) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Td Kd] (a straight, Ten to Ace)
+sotadas: shows [8d Kh] (a straight, Ten to Ace)
+mabeal1 collected 535 from pot
+sotadas collected 535 from pot
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Board [Qh As Tc 4d Jd]
+Seat 1: mabeal1 (big blind) showed [Td Kd] and won (535) with a straight, Ten to Ace
+Seat 2: sotadas (button) (small blind) showed [8d Kh] and won (535) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #259515335110: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/30 0:55:51 CET [2026/01/29 18:55:51 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (965 in chips) 
+Seat 2: sotadas (535 in chips) 
+mabeal1: posts small blind 20
+sotadas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kd]
+mabeal1: raises 40 to 80
+sotadas: calls 40
+*** FLOP *** [2h 7h Ad]
+sotadas: checks 
+mabeal1: checks 
+*** TURN *** [2h 7h Ad] [Qs]
+sotadas: checks 
+mabeal1: bets 80
+sotadas: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h 7h Ad Qs]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 2: sotadas (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259515337999: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 0:56:10 CET [2026/01/29 18:56:10 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1045 in chips) 
+Seat 2: sotadas (455 in chips) 
+sotadas: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8h]
+sotadas: calls 30
+mabeal1: checks 
+*** FLOP *** [3d 8s Th]
+mabeal1: checks 
+sotadas: checks 
+*** TURN *** [3d 8s Th] [5h]
+mabeal1: bets 120
+sotadas: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d 8s Th 5h]
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: sotadas (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259515339678: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 0:56:22 CET [2026/01/29 18:56:22 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 2: sotadas (395 in chips) 
+mabeal1: posts small blind 30
+sotadas: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Jd]
+mabeal1: calls 30
+sotadas: checks 
+*** FLOP *** [8c 3d 7h]
+sotadas: checks 
+mabeal1: checks 
+*** TURN *** [8c 3d 7h] [Jc]
+sotadas: checks 
+mabeal1: bets 60
+sotadas: calls 60
+*** RIVER *** [8c 3d 7h Jc] [Jh]
+sotadas: checks 
+mabeal1: bets 985 and is all-in
+sotadas: folds 
+Uncalled bet (985) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8c 3d 7h Jc Jh]
+Seat 1: mabeal1 (button) (small blind) collected (240)
+Seat 2: sotadas (big blind) folded on the River
+
+
+
+PokerStars Hand #259515342171: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 0:56:39 CET [2026/01/29 18:56:39 ET]
+Table '3970335193 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1225 in chips) 
+Seat 2: sotadas (275 in chips) 
+sotadas: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Td]
+sotadas: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: sotadas (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259515342794: Tournament #3970335193, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/30 0:56:43 CET [2026/01/29 18:56:43 ET]
+Table '3970335193 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1255 in chips) 
+Seat 2: sotadas (245 in chips) 
+mabeal1: posts small blind 30
+sotadas: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ah]
+mabeal1: raises 1195 to 1255 and is all-in
+sotadas: calls 185 and is all-in
+Uncalled bet (1010) returned to mabeal1
+*** FLOP *** [6h 6d Qs]
+*** TURN *** [6h 6d Qs] [8d]
+*** RIVER *** [6h 6d Qs 8d] [3s]
+*** SHOW DOWN ***
+sotadas: shows [4d 4c] (two pair, Sixes and Fours)
+mabeal1: shows [8h Ah] (two pair, Eights and Sixes)
+mabeal1 collected 490 from pot
+sotadas finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [6h 6d Qs 8d 3s]
+Seat 1: mabeal1 (button) (small blind) showed [8h Ah] and won (490) with two pair, Eights and Sixes
+Seat 2: sotadas (big blind) showed [4d 4c] and lost with two pair, Sixes and Fours
+
+
+

@@ -1,0 +1,217 @@
+﻿PokerStars Hand #259591862986: Tournament #3972075697, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:29:30 CET [2026/02/04 14:29:30 ET]
+Table '3972075697 1' 3-max Seat #1 is the button
+Seat 1: MpcAAA (500 in chips) 
+Seat 2: MissDumbledore (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+MissDumbledore: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 2c]
+MpcAAA: folds 
+MissDumbledore: calls 10
+mabeal1: raises 480 to 500 and is all-in
+MissDumbledore: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MpcAAA (button) folded before Flop (didn't bet)
+Seat 2: MissDumbledore (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259591868069: Tournament #3972075697, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:29:50 CET [2026/02/04 14:29:50 ET]
+Table '3972075697 1' 3-max Seat #2 is the button
+Seat 1: MpcAAA (500 in chips) 
+Seat 2: MissDumbledore (480 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 10
+MpcAAA: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ac]
+MissDumbledore: folds 
+mabeal1: raises 30 to 50
+MpcAAA: calls 30
+*** FLOP *** [6s Td Js]
+mabeal1: bets 50
+MpcAAA: calls 50
+*** TURN *** [6s Td Js] [Ts]
+mabeal1: bets 150
+MpcAAA: calls 150
+*** RIVER *** [6s Td Js Ts] [Ah]
+mabeal1: bets 270 and is all-in
+MpcAAA: calls 250 and is all-in
+Uncalled bet (20) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Th Ac] (a full house, Tens full of Aces)
+MpcAAA: shows [Qc Kd] (a straight, Ten to Ace)
+mabeal1 collected 1000 from pot
+MpcAAA finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [6s Td Js Ts Ah]
+Seat 1: MpcAAA (big blind) showed [Qc Kd] and lost with a straight, Ten to Ace
+Seat 2: MissDumbledore (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [Th Ac] and won (1000) with a full house, Tens full of Aces
+
+
+
+PokerStars Hand #259591874926: Tournament #3972075697, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:30:16 CET [2026/02/04 14:30:16 ET]
+Table '3972075697 1' 3-max Seat #3 is the button
+Seat 2: MissDumbledore (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 10
+MissDumbledore: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7s]
+mabeal1: calls 10
+MissDumbledore: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to MissDumbledore
+MissDumbledore collected 40 from pot
+MissDumbledore: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: MissDumbledore (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591878965: Tournament #3972075697, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:30:31 CET [2026/02/04 14:30:31 ET]
+Table '3972075697 1' 3-max Seat #2 is the button
+Seat 2: MissDumbledore (500 in chips) 
+Seat 3: mabeal1 (1000 in chips) 
+MissDumbledore: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 8h]
+MissDumbledore: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [5d Th 2c]
+mabeal1: checks 
+MissDumbledore: bets 24
+mabeal1: raises 56 to 80
+MissDumbledore: folds 
+Uncalled bet (56) returned to mabeal1
+mabeal1 collected 128 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 128 | Rake 0 
+Board [5d Th 2c]
+Seat 2: MissDumbledore (button) (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (128)
+
+
+
+PokerStars Hand #259591882804: Tournament #3972075697, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:30:46 CET [2026/02/04 14:30:46 ET]
+Table '3972075697 1' 3-max Seat #3 is the button
+Seat 2: MissDumbledore (436 in chips) 
+Seat 3: mabeal1 (1064 in chips) 
+mabeal1: posts small blind 10
+MissDumbledore: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3s]
+mabeal1: calls 10
+MissDumbledore: checks 
+*** FLOP *** [4d 3d Qd]
+MissDumbledore: checks 
+mabeal1: checks 
+*** TURN *** [4d 3d Qd] [9h]
+MissDumbledore: bets 20
+mabeal1: calls 20
+*** RIVER *** [4d 3d Qd 9h] [9c]
+MissDumbledore: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+MissDumbledore: shows [7d 8s] (a pair of Nines)
+mabeal1: shows [Jh 3s] (two pair, Nines and Threes)
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4d 3d Qd 9h 9c]
+Seat 2: MissDumbledore (big blind) showed [7d 8s] and lost with a pair of Nines
+Seat 3: mabeal1 (button) (small blind) showed [Jh 3s] and won (160) with two pair, Nines and Threes
+
+
+
+PokerStars Hand #259591888203: Tournament #3972075697, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:31:07 CET [2026/02/04 14:31:07 ET]
+Table '3972075697 1' 3-max Seat #2 is the button
+Seat 2: MissDumbledore (356 in chips) 
+Seat 3: mabeal1 (1144 in chips) 
+MissDumbledore: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9d]
+MissDumbledore: raises 336 to 356 and is all-in
+mabeal1: folds 
+Uncalled bet (336) returned to MissDumbledore
+MissDumbledore collected 40 from pot
+MissDumbledore: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: MissDumbledore (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591890979: Tournament #3972075697, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:31:17 CET [2026/02/04 14:31:17 ET]
+Table '3972075697 1' 3-max Seat #3 is the button
+Seat 2: MissDumbledore (376 in chips) 
+Seat 3: mabeal1 (1124 in chips) 
+mabeal1: posts small blind 10
+MissDumbledore: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 7d]
+mabeal1: calls 10
+MissDumbledore: checks 
+*** FLOP *** [9d Kc 7h]
+MissDumbledore: checks 
+mabeal1: checks 
+*** TURN *** [9d Kc 7h] [Js]
+MissDumbledore: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to MissDumbledore
+MissDumbledore collected 40 from pot
+MissDumbledore: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9d Kc 7h Js]
+Seat 2: MissDumbledore (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259591897482: Tournament #3972075697, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:31:42 CET [2026/02/04 14:31:42 ET]
+Table '3972075697 1' 3-max Seat #2 is the button
+Seat 2: MissDumbledore (396 in chips) 
+Seat 3: mabeal1 (1104 in chips) 
+MissDumbledore: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 8c]
+MissDumbledore: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Ah 8h 4h]
+mabeal1: checks 
+MissDumbledore: bets 80
+mabeal1: raises 984 to 1064 and is all-in
+MissDumbledore: calls 276 and is all-in
+Uncalled bet (708) returned to mabeal1
+*** TURN *** [Ah 8h 4h] [4d]
+*** RIVER *** [Ah 8h 4h 4d] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [Qh 8c] (a flush, Ace high)
+MissDumbledore: shows [Kd Ac] (two pair, Aces and Fours)
+mabeal1 collected 792 from pot
+MissDumbledore finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €8.00 - congratulations!
+*** SUMMARY ***
+Total pot 792 | Rake 0 
+Board [Ah 8h 4h 4d 2h]
+Seat 2: MissDumbledore (button) (small blind) showed [Kd Ac] and lost with two pair, Aces and Fours
+Seat 3: mabeal1 (big blind) showed [Qh 8c] and won (792) with a flush, Ace high
+
+
+

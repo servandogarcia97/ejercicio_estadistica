@@ -1,0 +1,36 @@
+﻿PokerStars Hand #259572460657: Tournament #3971614006, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:56:00 CET [2026/02/02 21:56:00 ET]
+Table '3971614006 1' 3-max Seat #1 is the button
+Seat 1: chingadeiro (500 in chips) 
+Seat 2: vazquez610 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+vazquez610: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Qc]
+chingadeiro: raises 20 to 40
+vazquez610: raises 40 to 80
+mabeal1: calls 60
+chingadeiro: calls 40
+*** FLOP *** [9s 9h Ts]
+vazquez610: bets 140
+mabeal1: calls 140
+chingadeiro: folds 
+*** TURN *** [9s 9h Ts] [7s]
+vazquez610: bets 260
+mabeal1: raises 20 to 280 and is all-in
+vazquez610: calls 20 and is all-in
+*** RIVER *** [9s 9h Ts 7s] [8s]
+*** SHOW DOWN ***
+vazquez610: shows [Js Jc] (a straight flush, Seven to Jack)
+mabeal1: shows [9c Qc] (three of a kind, Nines)
+vazquez610 collected 1080 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [9s 9h Ts 7s 8s]
+Seat 1: chingadeiro (button) folded on the Flop
+Seat 2: vazquez610 (small blind) showed [Js Jc] and won (1080) with a straight flush, Seven to Jack
+Seat 3: mabeal1 (big blind) showed [9c Qc] and lost with three of a kind, Nines
+
+
+

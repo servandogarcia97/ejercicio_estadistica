@@ -1,0 +1,976 @@
+﻿PokerStars Hand #259397201655: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:08:54 CET [2026/01/20 19:08:54 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (500 in chips) 
+Seat 2: jaro87950 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+jaro87950: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6d]
+Mayb3n0T: folds 
+jaro87950: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mayb3n0T (button) folded before Flop (didn't bet)
+Seat 2: jaro87950 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259397202376: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:08:58 CET [2026/01/20 19:08:58 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (500 in chips) 
+Seat 2: jaro87950 (490 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+mabeal1: posts small blind 10
+Mayb3n0T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2h]
+jaro87950: folds 
+mabeal1: raises 20 to 40
+Mayb3n0T: calls 20
+*** FLOP *** [6h Js 9d]
+mabeal1: checks 
+Mayb3n0T: bets 26
+mabeal1: calls 26
+*** TURN *** [6h Js 9d] [Kc]
+mabeal1: checks 
+Mayb3n0T: bets 60
+mabeal1: calls 60
+*** RIVER *** [6h Js 9d Kc] [Jh]
+mabeal1: checks 
+Mayb3n0T: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ah 2h] (a pair of Jacks)
+Mayb3n0T: mucks hand 
+mabeal1 collected 252 from pot
+*** SUMMARY ***
+Total pot 252 | Rake 0 
+Board [6h Js 9d Kc Jh]
+Seat 1: Mayb3n0T (big blind) mucked [Th 8h]
+Seat 2: jaro87950 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [Ah 2h] and won (252) with a pair of Jacks
+
+
+
+PokerStars Hand #259397210831: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:09:44 CET [2026/01/20 19:09:44 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (374 in chips) 
+Seat 2: jaro87950 (490 in chips) 
+Seat 3: mabeal1 (636 in chips) 
+Mayb3n0T: posts small blind 10
+jaro87950: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 5d]
+mabeal1: raises 20 to 40
+Mayb3n0T: folds 
+jaro87950: raises 450 to 490 and is all-in
+mabeal1: folds 
+Uncalled bet (450) returned to jaro87950
+jaro87950 collected 90 from pot
+jaro87950: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Mayb3n0T (small blind) folded before Flop
+Seat 2: jaro87950 (big blind) collected (90)
+Seat 3: mabeal1 (button) folded before Flop
+
+
+
+PokerStars Hand #259397213862: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:10:00 CET [2026/01/20 19:10:00 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (364 in chips) 
+Seat 2: jaro87950 (540 in chips) 
+Seat 3: mabeal1 (596 in chips) 
+jaro87950: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 3d]
+Mayb3n0T: raises 20 to 40
+jaro87950: calls 30
+mabeal1: folds 
+*** FLOP *** [2s Th 2c]
+jaro87950: bets 500 and is all-in
+Mayb3n0T: folds 
+Uncalled bet (500) returned to jaro87950
+jaro87950 collected 100 from pot
+jaro87950: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [2s Th 2c]
+Seat 1: Mayb3n0T (button) folded on the Flop
+Seat 2: jaro87950 (small blind) collected (100)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259397215872: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:10:12 CET [2026/01/20 19:10:12 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (324 in chips) 
+Seat 2: jaro87950 (600 in chips) 
+Seat 3: mabeal1 (576 in chips) 
+mabeal1: posts small blind 10
+Mayb3n0T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 9d]
+jaro87950: calls 20
+mabeal1: raises 40 to 60
+Mayb3n0T: folds 
+jaro87950: calls 40
+*** FLOP *** [7d Ks 6h]
+mabeal1: bets 40
+jaro87950: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 140 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [7d Ks 6h]
+Seat 1: Mayb3n0T (big blind) folded before Flop
+Seat 2: jaro87950 (button) folded on the Flop
+Seat 3: mabeal1 (small blind) collected (140)
+
+
+
+PokerStars Hand #259397218992: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:10:29 CET [2026/01/20 19:10:29 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (304 in chips) 
+Seat 2: jaro87950 (540 in chips) 
+Seat 3: mabeal1 (656 in chips) 
+Mayb3n0T: posts small blind 10
+jaro87950: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3c]
+mabeal1: folds 
+Mayb3n0T: folds 
+Uncalled bet (10) returned to jaro87950
+jaro87950 collected 20 from pot
+jaro87950: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mayb3n0T (small blind) folded before Flop
+Seat 2: jaro87950 (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259397219831: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:10:33 CET [2026/01/20 19:10:33 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (294 in chips) 
+Seat 2: jaro87950 (550 in chips) 
+Seat 3: mabeal1 (656 in chips) 
+jaro87950: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ah]
+Mayb3n0T: folds 
+jaro87950: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Mayb3n0T (button) folded before Flop (didn't bet)
+Seat 2: jaro87950 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259397222120: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:10:46 CET [2026/01/20 19:10:46 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (294 in chips) 
+Seat 2: jaro87950 (540 in chips) 
+Seat 3: mabeal1 (666 in chips) 
+mabeal1: posts small blind 10
+Mayb3n0T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Ad]
+jaro87950: folds 
+mabeal1: raises 20 to 40
+Mayb3n0T: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mayb3n0T (big blind) folded before Flop
+Seat 2: jaro87950 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259397224567: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:10:59 CET [2026/01/20 19:10:59 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (274 in chips) 
+Seat 2: jaro87950 (540 in chips) 
+Seat 3: mabeal1 (686 in chips) 
+Mayb3n0T: posts small blind 10
+jaro87950: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 9h]
+mabeal1: raises 20 to 40
+Mayb3n0T: folds 
+jaro87950: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mayb3n0T (small blind) folded before Flop
+Seat 2: jaro87950 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259397227757: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:11:16 CET [2026/01/20 19:11:16 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (264 in chips) 
+Seat 2: jaro87950 (520 in chips) 
+Seat 3: mabeal1 (716 in chips) 
+jaro87950: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5c]
+Mayb3n0T: raises 244 to 264 and is all-in
+jaro87950: folds 
+mabeal1: folds 
+Uncalled bet (244) returned to Mayb3n0T
+Mayb3n0T collected 50 from pot
+Mayb3n0T: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Mayb3n0T (button) collected (50)
+Seat 2: jaro87950 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259397229844: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:11:28 CET [2026/01/20 19:11:28 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (294 in chips) 
+Seat 2: jaro87950 (510 in chips) 
+Seat 3: mabeal1 (696 in chips) 
+mabeal1: posts small blind 10
+Mayb3n0T: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 8d]
+jaro87950: folds 
+mabeal1: raises 676 to 696 and is all-in
+Mayb3n0T: folds 
+Uncalled bet (676) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mayb3n0T (big blind) folded before Flop
+Seat 2: jaro87950 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259397231902: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:11:39 CET [2026/01/20 19:11:39 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (274 in chips) 
+Seat 2: jaro87950 (510 in chips) 
+Seat 3: mabeal1 (716 in chips) 
+Mayb3n0T: posts small blind 10
+jaro87950: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 5d]
+mabeal1: folds 
+Mayb3n0T: raises 254 to 274 and is all-in
+jaro87950: folds 
+Uncalled bet (254) returned to Mayb3n0T
+Mayb3n0T collected 40 from pot
+Mayb3n0T: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mayb3n0T (small blind) collected (40)
+Seat 2: jaro87950 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259397234475: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 1:11:53 CET [2026/01/20 19:11:53 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (294 in chips) 
+Seat 2: jaro87950 (490 in chips) 
+Seat 3: mabeal1 (716 in chips) 
+jaro87950: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Qs]
+Mayb3n0T: folds 
+jaro87950: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [2s 4d 6h]
+jaro87950: bets 430 and is all-in
+mabeal1: folds 
+Uncalled bet (430) returned to jaro87950
+jaro87950 collected 120 from pot
+jaro87950: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s 4d 6h]
+Seat 1: Mayb3n0T (button) folded before Flop (didn't bet)
+Seat 2: jaro87950 (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259397238336: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:12:15 CET [2026/01/20 19:12:15 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (294 in chips) 
+Seat 2: jaro87950 (550 in chips) 
+Seat 3: mabeal1 (656 in chips) 
+mabeal1: posts small blind 15
+Mayb3n0T: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Td]
+jaro87950: folds 
+mabeal1: raises 30 to 60
+Mayb3n0T: raises 234 to 294 and is all-in
+mabeal1: folds 
+Uncalled bet (234) returned to Mayb3n0T
+Mayb3n0T collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mayb3n0T (big blind) collected (120)
+Seat 2: jaro87950 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259397241256: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:12:31 CET [2026/01/20 19:12:31 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (354 in chips) 
+Seat 2: jaro87950 (550 in chips) 
+Seat 3: mabeal1 (596 in chips) 
+Mayb3n0T: posts small blind 15
+jaro87950: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9c]
+mabeal1: raises 30 to 60
+Mayb3n0T: folds 
+jaro87950: calls 30
+*** FLOP *** [7d 8s 2c]
+jaro87950: checks 
+mabeal1: bets 45
+jaro87950: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7d 8s 2c]
+Seat 1: Mayb3n0T (small blind) folded before Flop
+Seat 2: jaro87950 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) collected (135)
+
+
+
+PokerStars Hand #259397247100: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:13:04 CET [2026/01/20 19:13:04 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (339 in chips) 
+Seat 2: jaro87950 (490 in chips) 
+Seat 3: mabeal1 (671 in chips) 
+jaro87950: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 9s]
+Mayb3n0T: folds 
+jaro87950: raises 460 to 490 and is all-in
+mabeal1: folds 
+Uncalled bet (460) returned to jaro87950
+jaro87950 collected 60 from pot
+jaro87950: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mayb3n0T (button) folded before Flop (didn't bet)
+Seat 2: jaro87950 (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259397249148: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:13:15 CET [2026/01/20 19:13:15 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (339 in chips) 
+Seat 2: jaro87950 (520 in chips) 
+Seat 3: mabeal1 (641 in chips) 
+mabeal1: posts small blind 15
+Mayb3n0T: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 4h]
+jaro87950: calls 30
+mabeal1: folds 
+Mayb3n0T: checks 
+*** FLOP *** [6d Tc 8h]
+Mayb3n0T: checks 
+jaro87950: checks 
+*** TURN *** [6d Tc 8h] [8s]
+Mayb3n0T: bets 50
+jaro87950: folds 
+Uncalled bet (50) returned to Mayb3n0T
+Mayb3n0T collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [6d Tc 8h 8s]
+Seat 1: Mayb3n0T (big blind) collected (75)
+Seat 2: jaro87950 (button) folded on the Turn
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259397253644: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:13:40 CET [2026/01/20 19:13:40 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (384 in chips) 
+Seat 2: jaro87950 (490 in chips) 
+Seat 3: mabeal1 (626 in chips) 
+Mayb3n0T: posts small blind 15
+jaro87950: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qc]
+mabeal1: raises 596 to 626 and is all-in
+Mayb3n0T: folds 
+jaro87950: folds 
+Uncalled bet (596) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Mayb3n0T (small blind) folded before Flop
+Seat 2: jaro87950 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259397256555: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:13:57 CET [2026/01/20 19:13:57 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (369 in chips) 
+Seat 2: jaro87950 (460 in chips) 
+Seat 3: mabeal1 (671 in chips) 
+jaro87950: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 3d]
+Mayb3n0T: folds 
+jaro87950: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mayb3n0T (button) folded before Flop (didn't bet)
+Seat 2: jaro87950 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259397257959: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:14:04 CET [2026/01/20 19:14:04 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (369 in chips) 
+Seat 2: jaro87950 (445 in chips) 
+Seat 3: mabeal1 (686 in chips) 
+mabeal1: posts small blind 15
+Mayb3n0T: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 8h]
+jaro87950: folds 
+mabeal1: raises 30 to 60
+Mayb3n0T: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mayb3n0T (big blind) folded before Flop
+Seat 2: jaro87950 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259397260277: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:14:17 CET [2026/01/20 19:14:17 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (339 in chips) 
+Seat 2: jaro87950 (445 in chips) 
+Seat 3: mabeal1 (716 in chips) 
+Mayb3n0T: posts small blind 15
+jaro87950: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 2c]
+mabeal1: folds 
+Mayb3n0T: calls 15
+jaro87950: checks 
+*** FLOP *** [5d Kh Th]
+Mayb3n0T: bets 30
+jaro87950: folds 
+Uncalled bet (30) returned to Mayb3n0T
+Mayb3n0T collected 60 from pot
+Mayb3n0T: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Kh Th]
+Seat 1: Mayb3n0T (small blind) collected (60)
+Seat 2: jaro87950 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259397262890: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:14:32 CET [2026/01/20 19:14:32 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (369 in chips) 
+Seat 2: jaro87950 (415 in chips) 
+Seat 3: mabeal1 (716 in chips) 
+jaro87950: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4c]
+Mayb3n0T: folds 
+jaro87950: raises 385 to 415 and is all-in
+mabeal1: folds 
+Uncalled bet (385) returned to jaro87950
+jaro87950 collected 60 from pot
+jaro87950: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Mayb3n0T (button) folded before Flop (didn't bet)
+Seat 2: jaro87950 (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259397264409: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:14:40 CET [2026/01/20 19:14:40 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (369 in chips) 
+Seat 2: jaro87950 (445 in chips) 
+Seat 3: mabeal1 (686 in chips) 
+mabeal1: posts small blind 15
+Mayb3n0T: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Qh]
+jaro87950: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Mayb3n0T
+Mayb3n0T collected 30 from pot
+Mayb3n0T: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Mayb3n0T (big blind) collected (30)
+Seat 2: jaro87950 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259397266457: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 1:14:52 CET [2026/01/20 19:14:52 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (384 in chips) 
+Seat 2: jaro87950 (445 in chips) 
+Seat 3: mabeal1 (671 in chips) 
+Mayb3n0T: posts small blind 15
+jaro87950: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3s]
+mabeal1: folds 
+Mayb3n0T: calls 15
+jaro87950: checks 
+*** FLOP *** [Qs 9c 4s]
+Mayb3n0T: checks 
+jaro87950: checks 
+*** TURN *** [Qs 9c 4s] [Ad]
+Mayb3n0T: checks 
+jaro87950: checks 
+*** RIVER *** [Qs 9c 4s Ad] [8h]
+Mayb3n0T: bets 40
+jaro87950: folds 
+Uncalled bet (40) returned to Mayb3n0T
+Mayb3n0T collected 60 from pot
+Mayb3n0T: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 9c 4s Ad 8h]
+Seat 1: Mayb3n0T (small blind) collected (60)
+Seat 2: jaro87950 (big blind) folded on the River
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259397273080: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:15:28 CET [2026/01/20 19:15:28 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (414 in chips) 
+Seat 2: jaro87950 (415 in chips) 
+Seat 3: mabeal1 (671 in chips) 
+jaro87950: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h As]
+Mayb3n0T: folds 
+jaro87950: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mayb3n0T (button) folded before Flop (didn't bet)
+Seat 2: jaro87950 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259397273885: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:15:33 CET [2026/01/20 19:15:33 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (414 in chips) 
+Seat 2: jaro87950 (395 in chips) 
+Seat 3: mabeal1 (691 in chips) 
+mabeal1: posts small blind 20
+Mayb3n0T: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Td]
+jaro87950: folds 
+mabeal1: raises 40 to 80
+Mayb3n0T: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mayb3n0T (big blind) folded before Flop
+Seat 2: jaro87950 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259397276670: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:15:48 CET [2026/01/20 19:15:48 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (374 in chips) 
+Seat 2: jaro87950 (395 in chips) 
+Seat 3: mabeal1 (731 in chips) 
+Mayb3n0T: posts small blind 20
+jaro87950: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6c]
+mabeal1: folds 
+Mayb3n0T: raises 334 to 374 and is all-in
+jaro87950: folds 
+Uncalled bet (334) returned to Mayb3n0T
+Mayb3n0T collected 80 from pot
+Mayb3n0T: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mayb3n0T (small blind) collected (80)
+Seat 2: jaro87950 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259397278913: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:16:00 CET [2026/01/20 19:16:00 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (414 in chips) 
+Seat 2: jaro87950 (355 in chips) 
+Seat 3: mabeal1 (731 in chips) 
+jaro87950: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 5h]
+Mayb3n0T: folds 
+jaro87950: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mayb3n0T (button) folded before Flop (didn't bet)
+Seat 2: jaro87950 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259397279789: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:16:05 CET [2026/01/20 19:16:05 ET]
+Table '3967604230 1' 3-max Seat #2 is the button
+Seat 1: Mayb3n0T (414 in chips) 
+Seat 2: jaro87950 (335 in chips) 
+Seat 3: mabeal1 (751 in chips) 
+mabeal1: posts small blind 20
+Mayb3n0T: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5s]
+jaro87950: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Mayb3n0T
+Mayb3n0T collected 40 from pot
+Mayb3n0T: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mayb3n0T (big blind) collected (40)
+Seat 2: jaro87950 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259397280881: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:16:11 CET [2026/01/20 19:16:11 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (434 in chips) 
+Seat 2: jaro87950 (335 in chips) 
+Seat 3: mabeal1 (731 in chips) 
+Mayb3n0T: posts small blind 20
+jaro87950: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 8c]
+mabeal1: folds 
+Mayb3n0T: raises 394 to 434 and is all-in
+jaro87950: calls 295 and is all-in
+Uncalled bet (99) returned to Mayb3n0T
+*** FLOP *** [2c 2d Qh]
+*** TURN *** [2c 2d Qh] [4h]
+*** RIVER *** [2c 2d Qh 4h] [5d]
+*** SHOW DOWN ***
+Mayb3n0T: shows [Qs 6s] (two pair, Queens and Deuces)
+jaro87950: shows [9h 8d] (a pair of Deuces)
+Mayb3n0T collected 670 from pot
+jaro87950 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [2c 2d Qh 4h 5d]
+Seat 1: Mayb3n0T (small blind) showed [Qs 6s] and won (670) with two pair, Queens and Deuces
+Seat 2: jaro87950 (big blind) showed [9h 8d] and lost with a pair of Deuces
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259397284690: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:16:33 CET [2026/01/20 19:16:33 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (769 in chips) 
+Seat 3: mabeal1 (731 in chips) 
+Mayb3n0T: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 9h]
+Mayb3n0T: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [6d 9c 9s]
+mabeal1: checks 
+Mayb3n0T: bets 53
+mabeal1: calls 53
+*** TURN *** [6d 9c 9s] [Jh]
+mabeal1: checks 
+Mayb3n0T: checks 
+*** RIVER *** [6d 9c 9s Jh] [Qh]
+mabeal1: checks 
+Mayb3n0T: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qc 9h] (a full house, Nines full of Queens)
+Mayb3n0T: mucks hand 
+mabeal1 collected 266 from pot
+*** SUMMARY ***
+Total pot 266 | Rake 0 
+Board [6d 9c 9s Jh Qh]
+Seat 1: Mayb3n0T (button) (small blind) mucked [Th Tc]
+Seat 3: mabeal1 (big blind) showed [Qc 9h] and won (266) with a full house, Nines full of Queens
+
+
+
+PokerStars Hand #259397291718: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:17:12 CET [2026/01/20 19:17:12 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (636 in chips) 
+Seat 3: mabeal1 (864 in chips) 
+mabeal1: posts small blind 20
+Mayb3n0T: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Jh]
+mabeal1: folds 
+Uncalled bet (20) returned to Mayb3n0T
+Mayb3n0T collected 40 from pot
+Mayb3n0T: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Mayb3n0T (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259397293977: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:17:25 CET [2026/01/20 19:17:25 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (656 in chips) 
+Seat 3: mabeal1 (844 in chips) 
+Mayb3n0T: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qc]
+Mayb3n0T: calls 20
+mabeal1: raises 80 to 120
+Mayb3n0T: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Mayb3n0T (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259397297277: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 1:17:43 CET [2026/01/20 19:17:43 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (616 in chips) 
+Seat 3: mabeal1 (884 in chips) 
+mabeal1: posts small blind 20
+Mayb3n0T: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9s]
+mabeal1: calls 20
+Mayb3n0T: checks 
+*** FLOP *** [Ks 5h 7c]
+Mayb3n0T: checks 
+mabeal1: bets 40
+Mayb3n0T: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks 5h 7c]
+Seat 1: Mayb3n0T (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259397300941: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/21 1:18:04 CET [2026/01/20 19:18:04 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (576 in chips) 
+Seat 3: mabeal1 (924 in chips) 
+Mayb3n0T: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 2s]
+Mayb3n0T: raises 516 to 576 and is all-in
+mabeal1: folds 
+Uncalled bet (516) returned to Mayb3n0T
+Mayb3n0T collected 120 from pot
+Mayb3n0T: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mayb3n0T (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259397304305: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/21 1:18:23 CET [2026/01/20 19:18:23 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (636 in chips) 
+Seat 3: mabeal1 (864 in chips) 
+mabeal1: posts small blind 30
+Mayb3n0T: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh As]
+mabeal1: raises 804 to 864 and is all-in
+Mayb3n0T: folds 
+Uncalled bet (804) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mayb3n0T (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259397307011: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/21 1:18:38 CET [2026/01/20 19:18:38 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (576 in chips) 
+Seat 3: mabeal1 (924 in chips) 
+Mayb3n0T: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Qh]
+Mayb3n0T: raises 516 to 576 and is all-in
+mabeal1: folds 
+Uncalled bet (516) returned to Mayb3n0T
+Mayb3n0T collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mayb3n0T (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259397309981: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/21 1:18:55 CET [2026/01/20 19:18:55 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (636 in chips) 
+Seat 3: mabeal1 (864 in chips) 
+mabeal1: posts small blind 30
+Mayb3n0T: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8h]
+mabeal1: calls 30
+Mayb3n0T: checks 
+*** FLOP *** [Kc 6h Jc]
+Mayb3n0T: checks 
+mabeal1: bets 60
+Mayb3n0T: calls 60
+*** TURN *** [Kc 6h Jc] [3c]
+Mayb3n0T: checks 
+mabeal1: checks 
+*** RIVER *** [Kc 6h Jc 3c] [Qd]
+Mayb3n0T: bets 158
+mabeal1: folds 
+Uncalled bet (158) returned to Mayb3n0T
+Mayb3n0T collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kc 6h Jc 3c Qd]
+Seat 1: Mayb3n0T (big blind) collected (240)
+Seat 3: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259397320995: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/21 1:19:57 CET [2026/01/20 19:19:57 ET]
+Table '3967604230 1' 3-max Seat #1 is the button
+Seat 1: Mayb3n0T (756 in chips) 
+Seat 3: mabeal1 (744 in chips) 
+Mayb3n0T: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd As]
+Mayb3n0T: calls 30
+mabeal1: raises 684 to 744 and is all-in
+Mayb3n0T: folds 
+Uncalled bet (684) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Mayb3n0T (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259397323560: Tournament #3967604230, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/21 1:20:12 CET [2026/01/20 19:20:12 ET]
+Table '3967604230 1' 3-max Seat #3 is the button
+Seat 1: Mayb3n0T (696 in chips) 
+Seat 3: mabeal1 (804 in chips) 
+mabeal1: posts small blind 30
+Mayb3n0T: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 8d]
+mabeal1: raises 744 to 804 and is all-in
+Mayb3n0T: calls 636 and is all-in
+Uncalled bet (108) returned to mabeal1
+*** FLOP *** [4s Ks 6h]
+*** TURN *** [4s Ks 6h] [Qh]
+*** RIVER *** [4s Ks 6h Qh] [7c]
+*** SHOW DOWN ***
+Mayb3n0T: shows [Th Td] (a pair of Tens)
+mabeal1: shows [Kh 8d] (a pair of Kings)
+mabeal1 collected 1392 from pot
+Mayb3n0T finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1392 | Rake 0 
+Board [4s Ks 6h Qh 7c]
+Seat 1: Mayb3n0T (big blind) showed [Th Td] and lost with a pair of Tens
+Seat 3: mabeal1 (button) (small blind) showed [Kh 8d] and won (1392) with a pair of Kings
+
+
+

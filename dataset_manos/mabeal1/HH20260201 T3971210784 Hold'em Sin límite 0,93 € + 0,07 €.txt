@@ -1,0 +1,776 @@
+﻿PokerStars Hand #259553501908: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:22:19 CET [2026/02/01 15:22:19 ET]
+Table '3971210784 1' 3-max Seat #1 is the button
+Seat 1: ALFREDODUO (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Meydo14 (500 in chips) 
+mabeal1: posts small blind 10
+Meydo14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Js]
+ALFREDODUO: raises 50 to 70
+mabeal1: folds 
+Meydo14: calls 50
+*** FLOP *** [Tc Jc 3s]
+Meydo14: checks 
+ALFREDODUO: bets 150
+Meydo14: calls 150
+*** TURN *** [Tc Jc 3s] [Ah]
+Meydo14: bets 280 and is all-in
+ALFREDODUO: calls 280 and is all-in
+*** RIVER *** [Tc Jc 3s Ah] [6h]
+*** SHOW DOWN ***
+Meydo14: shows [Th 5c] (a pair of Tens)
+ALFREDODUO: shows [Qs 2d] (high card Ace)
+Meydo14 collected 1010 from pot
+ALFREDODUO finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [Tc Jc 3s Ah 6h]
+Seat 1: ALFREDODUO (button) showed [Qs 2d] and lost with high card Ace
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Meydo14 (big blind) showed [Th 5c] and won (1010) with a pair of Tens
+
+
+
+PokerStars Hand #259553516542: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:23:07 CET [2026/02/01 15:23:07 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Meydo14 (1010 in chips) 
+Meydo14: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4h]
+Meydo14: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to Meydo14
+Meydo14 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Meydo14 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259553518942: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:23:15 CET [2026/02/01 15:23:15 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: Meydo14 (1030 in chips) 
+mabeal1: posts small blind 10
+Meydo14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 5s]
+mabeal1: calls 10
+Meydo14: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [8c Kd 5c]
+Meydo14: bets 48
+mabeal1: calls 48
+*** TURN *** [8c Kd 5c] [2c]
+Meydo14: checks 
+mabeal1: checks 
+*** RIVER *** [8c Kd 5c 2c] [9s]
+Meydo14: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Meydo14: shows [2h Ac] (a pair of Deuces)
+mabeal1: shows [4s 5s] (a pair of Fives)
+mabeal1 collected 216 from pot
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [8c Kd 5c 2c 9s]
+Seat 2: mabeal1 (button) (small blind) showed [4s 5s] and won (216) with a pair of Fives
+Seat 3: Meydo14 (big blind) showed [2h Ac] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259553530715: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:23:53 CET [2026/02/01 15:23:53 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (578 in chips) 
+Seat 3: Meydo14 (922 in chips) 
+Meydo14: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Qh]
+Meydo14: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to Meydo14
+Meydo14 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Meydo14 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259553535816: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:24:10 CET [2026/02/01 15:24:10 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (558 in chips) 
+Seat 3: Meydo14 (942 in chips) 
+mabeal1: posts small blind 10
+Meydo14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 4d]
+mabeal1: raises 538 to 558 and is all-in
+Meydo14: folds 
+Uncalled bet (538) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: Meydo14 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259553537918: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:24:16 CET [2026/02/01 15:24:16 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (578 in chips) 
+Seat 3: Meydo14 (922 in chips) 
+Meydo14: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6c]
+Meydo14: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to Meydo14
+Meydo14 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Meydo14 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259553540111: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:24:23 CET [2026/02/01 15:24:23 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (558 in chips) 
+Seat 3: Meydo14 (942 in chips) 
+mabeal1: posts small blind 10
+Meydo14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 8h]
+mabeal1: calls 10
+Meydo14: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to Meydo14
+Meydo14 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Meydo14 (big blind) collected (40)
+
+
+
+PokerStars Hand #259553542995: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:24:33 CET [2026/02/01 15:24:33 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (538 in chips) 
+Seat 3: Meydo14 (962 in chips) 
+Meydo14: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7s]
+Meydo14: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Jd 9s 9d]
+mabeal1: checks 
+Meydo14: checks 
+*** TURN *** [Jd 9s 9d] [As]
+mabeal1: bets 80
+Meydo14: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jd 9s 9d As]
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: Meydo14 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259553547751: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:24:49 CET [2026/02/01 15:24:49 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (578 in chips) 
+Seat 3: Meydo14 (922 in chips) 
+mabeal1: posts small blind 10
+Meydo14: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Kd]
+mabeal1: calls 10
+Meydo14: checks 
+*** FLOP *** [Th 4d 2h]
+Meydo14: checks 
+mabeal1: checks 
+*** TURN *** [Th 4d 2h] [Qh]
+Meydo14: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Meydo14
+Meydo14 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th 4d 2h Qh]
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: Meydo14 (big blind) collected (40)
+
+
+
+PokerStars Hand #259553554308: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:25:10 CET [2026/02/01 15:25:10 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (558 in chips) 
+Seat 3: Meydo14 (942 in chips) 
+Meydo14: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ad]
+Meydo14: raises 20 to 40
+mabeal1: raises 80 to 120
+Meydo14: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: Meydo14 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553560893: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:25:31 CET [2026/02/01 15:25:31 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (598 in chips) 
+Seat 3: Meydo14 (902 in chips) 
+mabeal1: posts small blind 15
+Meydo14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5s]
+mabeal1: calls 15
+Meydo14: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to Meydo14
+Meydo14 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Meydo14 (big blind) collected (60)
+
+
+
+PokerStars Hand #259553564134: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:25:42 CET [2026/02/01 15:25:42 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (568 in chips) 
+Seat 3: Meydo14 (932 in chips) 
+Meydo14: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6h]
+Meydo14: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [3h Ks 2s]
+mabeal1: checks 
+Meydo14: bets 30
+mabeal1: raises 120 to 150
+Meydo14: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3h Ks 2s]
+Seat 2: mabeal1 (big blind) collected (180)
+Seat 3: Meydo14 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259553568939: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:25:57 CET [2026/02/01 15:25:57 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (658 in chips) 
+Seat 3: Meydo14 (842 in chips) 
+mabeal1: posts small blind 15
+Meydo14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Jh]
+mabeal1: calls 15
+Meydo14: checks 
+*** FLOP *** [4d Kd 2d]
+Meydo14: checks 
+mabeal1: checks 
+*** TURN *** [4d Kd 2d] [7c]
+Meydo14: checks 
+mabeal1: checks 
+*** RIVER *** [4d Kd 2d 7c] [7s]
+Meydo14: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+Meydo14: shows [2h 3s] (two pair, Sevens and Deuces)
+mabeal1: mucks hand 
+Meydo14 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4d Kd 2d 7c 7s]
+Seat 2: mabeal1 (button) (small blind) mucked [Ac Jh]
+Seat 3: Meydo14 (big blind) showed [2h 3s] and won (180) with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #259553575332: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:26:18 CET [2026/02/01 15:26:18 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (568 in chips) 
+Seat 3: Meydo14 (932 in chips) 
+Meydo14: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5h]
+Meydo14: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [9c Jc Tc]
+mabeal1: checks 
+Meydo14: checks 
+*** TURN *** [9c Jc Tc] [Ah]
+mabeal1: checks 
+Meydo14: checks 
+*** RIVER *** [9c Jc Tc Ah] [9s]
+mabeal1: bets 90
+Meydo14: calls 90
+*** SHOW DOWN ***
+mabeal1: shows [9h 5h] (three of a kind, Nines)
+Meydo14: mucks hand 
+mabeal1 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [9c Jc Tc Ah 9s]
+Seat 2: mabeal1 (big blind) showed [9h 5h] and won (300) with three of a kind, Nines
+Seat 3: Meydo14 (button) (small blind) mucked [6h Kh]
+
+
+
+PokerStars Hand #259553583755: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:26:45 CET [2026/02/01 15:26:45 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (718 in chips) 
+Seat 3: Meydo14 (782 in chips) 
+mabeal1: posts small blind 15
+Meydo14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ac]
+mabeal1: raises 45 to 75
+Meydo14: calls 45
+*** FLOP *** [7s 6c 8s]
+Meydo14: checks 
+mabeal1: checks 
+*** TURN *** [7s 6c 8s] [3d]
+Meydo14: checks 
+mabeal1: checks 
+*** RIVER *** [7s 6c 8s 3d] [6h]
+Meydo14: bets 75
+mabeal1: calls 75
+*** SHOW DOWN ***
+Meydo14: shows [9d Qh] (a pair of Sixes)
+mabeal1: shows [2s Ac] (a pair of Sixes - Ace kicker)
+mabeal1 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7s 6c 8s 3d 6h]
+Seat 2: mabeal1 (button) (small blind) showed [2s Ac] and won (300) with a pair of Sixes
+Seat 3: Meydo14 (big blind) showed [9d Qh] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259553592809: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:27:15 CET [2026/02/01 15:27:15 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (868 in chips) 
+Seat 3: Meydo14 (632 in chips) 
+Meydo14: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 9d]
+Meydo14: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [4h Kh 2d]
+mabeal1: bets 60
+Meydo14: calls 60
+*** TURN *** [4h Kh 2d] [Ah]
+mabeal1: checks 
+Meydo14: bets 150
+mabeal1: folds 
+Uncalled bet (150) returned to Meydo14
+Meydo14 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4h Kh 2d Ah]
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Meydo14 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #259553605297: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:27:56 CET [2026/02/01 15:27:56 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (748 in chips) 
+Seat 3: Meydo14 (752 in chips) 
+mabeal1: posts small blind 15
+Meydo14: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Js]
+mabeal1: raises 30 to 60
+Meydo14: raises 692 to 752 and is all-in
+mabeal1: folds 
+Uncalled bet (692) returned to Meydo14
+Meydo14 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Meydo14 (big blind) collected (120)
+
+
+
+PokerStars Hand #259553609939: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:28:11 CET [2026/02/01 15:28:11 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (688 in chips) 
+Seat 3: Meydo14 (812 in chips) 
+Meydo14: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Qs]
+Meydo14: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [5h 6s 9h]
+mabeal1: checks 
+Meydo14: checks 
+*** TURN *** [5h 6s 9h] [Ks]
+mabeal1: bets 90
+Meydo14: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h 6s 9h Ks]
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: Meydo14 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259553617185: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:28:34 CET [2026/02/01 15:28:34 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (748 in chips) 
+Seat 3: Meydo14 (752 in chips) 
+mabeal1: posts small blind 20
+Meydo14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8c]
+mabeal1: folds 
+Uncalled bet (20) returned to Meydo14
+Meydo14 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Meydo14 (big blind) collected (40)
+
+
+
+PokerStars Hand #259553619399: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:28:41 CET [2026/02/01 15:28:41 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (728 in chips) 
+Seat 3: Meydo14 (772 in chips) 
+Meydo14: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 3h]
+Meydo14: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to Meydo14
+Meydo14 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Meydo14 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259553621794: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:28:49 CET [2026/02/01 15:28:49 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (688 in chips) 
+Seat 3: Meydo14 (812 in chips) 
+mabeal1: posts small blind 20
+Meydo14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Ac]
+mabeal1: calls 20
+Meydo14: checks 
+*** FLOP *** [8d 4c 9h]
+Meydo14: checks 
+mabeal1: checks 
+*** TURN *** [8d 4c 9h] [5d]
+Meydo14: checks 
+mabeal1: checks 
+*** RIVER *** [8d 4c 9h 5d] [Jc]
+Meydo14: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to Meydo14
+Meydo14 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 4c 9h 5d Jc]
+Seat 2: mabeal1 (button) (small blind) folded on the River
+Seat 3: Meydo14 (big blind) collected (80)
+
+
+
+PokerStars Hand #259553629098: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:29:13 CET [2026/02/01 15:29:13 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (648 in chips) 
+Seat 3: Meydo14 (852 in chips) 
+Meydo14: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Qc]
+Meydo14: raises 40 to 80
+mabeal1: raises 160 to 240
+Meydo14: folds 
+Uncalled bet (160) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: Meydo14 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553631645: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:29:21 CET [2026/02/01 15:29:21 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (728 in chips) 
+Seat 3: Meydo14 (772 in chips) 
+mabeal1: posts small blind 20
+Meydo14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 4d]
+mabeal1: raises 40 to 80
+Meydo14: calls 40
+*** FLOP *** [Ts 3c 8d]
+Meydo14: checks 
+mabeal1: checks 
+*** TURN *** [Ts 3c 8d] [Jc]
+Meydo14: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to Meydo14
+Meydo14 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ts 3c 8d Jc]
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: Meydo14 (big blind) collected (160)
+
+
+
+PokerStars Hand #259553637181: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:29:40 CET [2026/02/01 15:29:40 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (648 in chips) 
+Seat 3: Meydo14 (852 in chips) 
+Meydo14: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 5h]
+Meydo14: raises 40 to 80
+mabeal1: raises 160 to 240
+Meydo14: raises 612 to 852 and is all-in
+mabeal1: folds 
+Uncalled bet (612) returned to Meydo14
+Meydo14 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Meydo14 (button) (small blind) collected (480)
+
+
+
+PokerStars Hand #259553640360: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:29:50 CET [2026/02/01 15:29:50 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (408 in chips) 
+Seat 3: Meydo14 (1092 in chips) 
+mabeal1: posts small blind 20
+Meydo14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 7c]
+mabeal1: raises 40 to 80
+Meydo14: raises 1012 to 1092 and is all-in
+mabeal1: folds 
+Uncalled bet (1012) returned to Meydo14
+Meydo14 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Meydo14 (big blind) collected (160)
+
+
+
+PokerStars Hand #259553643408: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:30:00 CET [2026/02/01 15:30:00 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (328 in chips) 
+Seat 3: Meydo14 (1172 in chips) 
+Meydo14: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2h]
+Meydo14: raises 1132 to 1172 and is all-in
+mabeal1: folds 
+Uncalled bet (1132) returned to Meydo14
+Meydo14 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Meydo14 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259553646948: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:30:11 CET [2026/02/01 15:30:11 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (288 in chips) 
+Seat 3: Meydo14 (1212 in chips) 
+mabeal1: posts small blind 20
+Meydo14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 2s]
+mabeal1: folds 
+Uncalled bet (20) returned to Meydo14
+Meydo14 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Meydo14 (big blind) collected (40)
+
+
+
+PokerStars Hand #259553648781: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:30:17 CET [2026/02/01 15:30:17 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (268 in chips) 
+Seat 3: Meydo14 (1232 in chips) 
+Meydo14: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 6c]
+Meydo14: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: Meydo14 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553650258: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:30:21 CET [2026/02/01 15:30:21 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (288 in chips) 
+Seat 3: Meydo14 (1212 in chips) 
+mabeal1: posts small blind 20
+Meydo14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Qd]
+mabeal1: raises 248 to 288 and is all-in
+Meydo14: calls 248
+*** FLOP *** [9d 5s Qh]
+*** TURN *** [9d 5s Qh] [7s]
+*** RIVER *** [9d 5s Qh 7s] [Th]
+*** SHOW DOWN ***
+Meydo14: shows [Js 7c] (a pair of Sevens)
+mabeal1: shows [Td Qd] (two pair, Queens and Tens)
+mabeal1 collected 576 from pot
+*** SUMMARY ***
+Total pot 576 | Rake 0 
+Board [9d 5s Qh 7s Th]
+Seat 2: mabeal1 (button) (small blind) showed [Td Qd] and won (576) with two pair, Queens and Tens
+Seat 3: Meydo14 (big blind) showed [Js 7c] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #259553654340: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:30:35 CET [2026/02/01 15:30:35 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (576 in chips) 
+Seat 3: Meydo14 (924 in chips) 
+Meydo14: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3d]
+Meydo14: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: Meydo14 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553656602: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:30:42 CET [2026/02/01 15:30:42 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (596 in chips) 
+Seat 3: Meydo14 (904 in chips) 
+mabeal1: posts small blind 20
+Meydo14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 3c]
+mabeal1: folds 
+Uncalled bet (20) returned to Meydo14
+Meydo14 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Meydo14 (big blind) collected (40)
+
+
+
+PokerStars Hand #259553658659: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:30:48 CET [2026/02/01 15:30:48 ET]
+Table '3971210784 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (576 in chips) 
+Seat 3: Meydo14 (924 in chips) 
+Meydo14: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 7c]
+Meydo14: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [Tc 4d Ac]
+mabeal1: checks 
+Meydo14: checks 
+*** TURN *** [Tc 4d Ac] [9s]
+mabeal1: bets 120
+Meydo14: raises 120 to 240
+mabeal1: folds 
+Uncalled bet (120) returned to Meydo14
+Meydo14 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Tc 4d Ac 9s]
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Meydo14 (button) (small blind) collected (400)
+
+
+
+PokerStars Hand #259553664431: Tournament #3971210784, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:31:07 CET [2026/02/01 15:31:07 ET]
+Table '3971210784 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (376 in chips) 
+Seat 3: Meydo14 (1124 in chips) 
+mabeal1: posts small blind 20
+Meydo14: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4c]
+mabeal1: raises 336 to 376 and is all-in
+Meydo14: calls 336
+*** FLOP *** [4d 8c 9s]
+*** TURN *** [4d 8c 9s] [3c]
+*** RIVER *** [4d 8c 9s 3c] [6h]
+*** SHOW DOWN ***
+Meydo14: shows [Tc 9h] (a pair of Nines)
+mabeal1: shows [As 4c] (a pair of Fours)
+Meydo14 collected 752 from pot
+mabeal1 finished the tournament in 2nd place
+Meydo14 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 752 | Rake 0 
+Board [4d 8c 9s 3c 6h]
+Seat 2: mabeal1 (button) (small blind) showed [As 4c] and lost with a pair of Fours
+Seat 3: Meydo14 (big blind) showed [Tc 9h] and won (752) with a pair of Nines
+
+
+

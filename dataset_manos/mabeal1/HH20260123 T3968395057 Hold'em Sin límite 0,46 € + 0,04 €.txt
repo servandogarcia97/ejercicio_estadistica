@@ -1,0 +1,151 @@
+﻿PokerStars Hand #259429487364: Tournament #3968395057, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:59:42 CET [2026/01/23 11:59:42 ET]
+Table '3968395057 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Rafros6969 (500 in chips) 
+Seat 3: mich740 (500 in chips) 
+Rafros6969: posts small blind 10
+mich740: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Ah]
+mabeal1: raises 20 to 40
+Rafros6969: folds 
+mich740: calls 20
+*** FLOP *** [5s 8h Ad]
+mich740: checks 
+mabeal1: bets 30
+mich740: raises 30 to 60
+mabeal1: calls 30
+*** TURN *** [5s 8h Ad] [5d]
+mich740: checks 
+mabeal1: checks 
+*** RIVER *** [5s 8h Ad 5d] [Js]
+mich740: bets 400 and is all-in
+mabeal1: calls 400 and is all-in
+*** SHOW DOWN ***
+mich740: shows [2s 2d] (two pair, Fives and Deuces)
+mabeal1: shows [Jh Ah] (two pair, Aces and Jacks)
+mabeal1 collected 1010 from pot
+mich740 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [5s 8h Ad 5d Js]
+Seat 1: mabeal1 (button) showed [Jh Ah] and won (1010) with two pair, Aces and Jacks
+Seat 2: Rafros6969 (small blind) folded before Flop
+Seat 3: mich740 (big blind) showed [2s 2d] and lost with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #259429494128: Tournament #3968395057, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:00:27 CET [2026/01/23 12:00:27 ET]
+Table '3968395057 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1010 in chips) 
+Seat 2: Rafros6969 (490 in chips) 
+Rafros6969: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 8h]
+Rafros6969: raises 80 to 100
+mabeal1: folds 
+Uncalled bet (80) returned to Rafros6969
+Rafros6969 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Rafros6969 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259429495548: Tournament #3968395057, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:00:36 CET [2026/01/23 12:00:36 ET]
+Table '3968395057 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 2: Rafros6969 (510 in chips) 
+mabeal1: posts small blind 10
+Rafros6969: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Kh]
+mabeal1: calls 10
+Rafros6969: checks 
+*** FLOP *** [Kd 6d Jh]
+Rafros6969: checks 
+mabeal1: bets 20
+Rafros6969: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kd 6d Jh]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: Rafros6969 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259429498064: Tournament #3968395057, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:00:52 CET [2026/01/23 12:00:52 ET]
+Table '3968395057 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1010 in chips) 
+Seat 2: Rafros6969 (490 in chips) 
+Rafros6969: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h As]
+Rafros6969: calls 10
+mabeal1: raises 990 to 1010 and is all-in
+Rafros6969: folds 
+Uncalled bet (990) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Rafros6969 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259429499961: Tournament #3968395057, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:01:03 CET [2026/01/23 12:01:03 ET]
+Table '3968395057 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 2: Rafros6969 (470 in chips) 
+mabeal1: posts small blind 10
+Rafros6969: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 4d]
+mabeal1: raises 1010 to 1030 and is all-in
+Rafros6969: folds 
+Uncalled bet (1010) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: Rafros6969 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259429501082: Tournament #3968395057, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 18:01:10 CET [2026/01/23 12:01:10 ET]
+Table '3968395057 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 2: Rafros6969 (450 in chips) 
+Rafros6969: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5s]
+Rafros6969: calls 10
+mabeal1: raises 1030 to 1050 and is all-in
+Rafros6969: calls 430 and is all-in
+Uncalled bet (600) returned to mabeal1
+*** FLOP *** [7h 6h 7s]
+*** TURN *** [7h 6h 7s] [7c]
+*** RIVER *** [7h 6h 7s 7c] [2d]
+*** SHOW DOWN ***
+mabeal1: shows [5h 5s] (a full house, Sevens full of Fives)
+Rafros6969: shows [9s Kd] (three of a kind, Sevens)
+mabeal1 collected 900 from pot
+Rafros6969 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [7h 6h 7s 7c 2d]
+Seat 1: mabeal1 (big blind) showed [5h 5s] and won (900) with a full house, Sevens full of Fives
+Seat 2: Rafros6969 (button) (small blind) showed [9s Kd] and lost with three of a kind, Sevens
+
+
+

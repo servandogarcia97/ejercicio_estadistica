@@ -1,0 +1,482 @@
+﻿PokerStars Hand #259541692174: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:26:13 CET [2026/01/31 18:26:13 ET]
+Table '3970954036 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: juanmy2012 (500 in chips) 
+Seat 3: bbiieell411 (500 in chips) 
+juanmy2012: posts small blind 10
+bbiieell411: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7s]
+mabeal1: raises 20 to 40
+juanmy2012: raises 20 to 60
+bbiieell411: calls 40
+mabeal1: calls 20
+*** FLOP *** [6c Qs 8c]
+juanmy2012: bets 20
+bbiieell411: calls 20
+mabeal1: calls 20
+*** TURN *** [6c Qs 8c] [Kd]
+juanmy2012: bets 40
+bbiieell411: calls 40
+mabeal1: calls 40
+*** RIVER *** [6c Qs 8c Kd] [8h]
+juanmy2012: bets 20
+bbiieell411: calls 20
+mabeal1: folds 
+*** SHOW DOWN ***
+juanmy2012: shows [Ah Kc] (two pair, Kings and Eights)
+bbiieell411: mucks hand 
+juanmy2012 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [6c Qs 8c Kd 8h]
+Seat 1: mabeal1 (button) folded on the River
+Seat 2: juanmy2012 (small blind) showed [Ah Kc] and won (400) with two pair, Kings and Eights
+Seat 3: bbiieell411 (big blind) mucked [4s Ac]
+
+
+
+PokerStars Hand #259541700989: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:26:52 CET [2026/01/31 18:26:52 ET]
+Table '3970954036 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: juanmy2012 (760 in chips) 
+Seat 3: bbiieell411 (360 in chips) 
+bbiieell411: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9h]
+juanmy2012: folds 
+bbiieell411: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Ts 8s 4c]
+bbiieell411: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to bbiieell411
+bbiieell411 collected 80 from pot
+bbiieell411: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts 8s 4c]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: juanmy2012 (button) folded before Flop (didn't bet)
+Seat 3: bbiieell411 (small blind) collected (80)
+
+
+
+PokerStars Hand #259541705322: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:27:11 CET [2026/01/31 18:27:11 ET]
+Table '3970954036 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (340 in chips) 
+Seat 2: juanmy2012 (760 in chips) 
+Seat 3: bbiieell411 (400 in chips) 
+mabeal1: posts small blind 10
+juanmy2012: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 6d]
+bbiieell411: calls 20
+mabeal1: calls 10
+juanmy2012: checks 
+*** FLOP *** [Qd Tc Jh]
+mabeal1: checks 
+juanmy2012: bets 20
+bbiieell411: raises 100 to 120
+mabeal1: calls 120
+juanmy2012: calls 100
+*** TURN *** [Qd Tc Jh] [Ad]
+mabeal1: checks 
+juanmy2012: checks 
+bbiieell411: checks 
+*** RIVER *** [Qd Tc Jh Ad] [Th]
+mabeal1: bets 200 and is all-in
+juanmy2012: calls 200
+bbiieell411: calls 200
+*** SHOW DOWN ***
+mabeal1: shows [Kh 6d] (a straight, Ten to Ace)
+juanmy2012: mucks hand 
+bbiieell411: mucks hand 
+mabeal1 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Qd Tc Jh Ad Th]
+Seat 1: mabeal1 (small blind) showed [Kh 6d] and won (1020) with a straight, Ten to Ace
+Seat 2: juanmy2012 (big blind) mucked [Td 5c]
+Seat 3: bbiieell411 (button) mucked [3d Qc]
+
+
+
+PokerStars Hand #259541712077: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:27:41 CET [2026/01/31 18:27:41 ET]
+Table '3970954036 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 2: juanmy2012 (420 in chips) 
+Seat 3: bbiieell411 (60 in chips) 
+juanmy2012: posts small blind 10
+bbiieell411: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 9c]
+mabeal1: raises 20 to 40
+juanmy2012: folds 
+bbiieell411: calls 20
+*** FLOP *** [7s 6s Jh]
+bbiieell411: bets 20 and is all-in
+mabeal1: calls 20
+*** TURN *** [7s 6s Jh] [9s]
+*** RIVER *** [7s 6s Jh 9s] [2s]
+*** SHOW DOWN ***
+bbiieell411: shows [3c Jd] (a pair of Jacks)
+mabeal1: shows [Kc 9c] (a pair of Nines)
+bbiieell411 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [7s 6s Jh 9s 2s]
+Seat 1: mabeal1 (button) showed [Kc 9c] and lost with a pair of Nines
+Seat 2: juanmy2012 (small blind) folded before Flop
+Seat 3: bbiieell411 (big blind) showed [3c Jd] and won (130) with a pair of Jacks
+
+
+
+PokerStars Hand #259541717585: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:28:05 CET [2026/01/31 18:28:05 ET]
+Table '3970954036 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 2: juanmy2012 (410 in chips) 
+Seat 3: bbiieell411 (130 in chips) 
+bbiieell411: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 9c]
+juanmy2012: folds 
+bbiieell411: raises 110 to 130 and is all-in
+mabeal1: folds 
+Uncalled bet (110) returned to bbiieell411
+bbiieell411 collected 40 from pot
+bbiieell411: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: juanmy2012 (button) folded before Flop (didn't bet)
+Seat 3: bbiieell411 (small blind) collected (40)
+
+
+
+PokerStars Hand #259541720579: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:28:19 CET [2026/01/31 18:28:19 ET]
+Table '3970954036 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 2: juanmy2012 (410 in chips) 
+Seat 3: bbiieell411 (150 in chips) 
+mabeal1: posts small blind 15
+juanmy2012: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 8d]
+bbiieell411: raises 30 to 60
+mabeal1: folds 
+juanmy2012: calls 30
+*** FLOP *** [9d 6s 8h]
+juanmy2012: bets 30
+bbiieell411: raises 60 to 90 and is all-in
+juanmy2012: calls 60
+*** TURN *** [9d 6s 8h] [Jd]
+*** RIVER *** [9d 6s 8h Jd] [7c]
+*** SHOW DOWN ***
+juanmy2012: shows [7d 8c] (two pair, Eights and Sevens)
+bbiieell411: shows [Ac Kh] (high card Ace)
+juanmy2012 collected 315 from pot
+bbiieell411 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 315 | Rake 0 
+Board [9d 6s 8h Jd 7c]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: juanmy2012 (big blind) showed [7d 8c] and won (315) with two pair, Eights and Sevens
+Seat 3: bbiieell411 (button) showed [Ac Kh] and lost with high card Ace
+
+
+
+PokerStars Hand #259541725958: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:28:43 CET [2026/01/31 18:28:43 ET]
+Table '3970954036 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (925 in chips) 
+Seat 2: juanmy2012 (575 in chips) 
+juanmy2012: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Qc]
+juanmy2012: calls 15
+mabeal1: raises 60 to 90
+juanmy2012: calls 60
+*** FLOP *** [Ac 4h Jc]
+mabeal1: bets 60
+juanmy2012: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ac 4h Jc]
+Seat 1: mabeal1 (big blind) collected (180)
+Seat 2: juanmy2012 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259541729056: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:28:56 CET [2026/01/31 18:28:56 ET]
+Table '3970954036 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1015 in chips) 
+Seat 2: juanmy2012 (485 in chips) 
+mabeal1: posts small blind 15
+juanmy2012: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 5c]
+mabeal1: calls 15
+juanmy2012: checks 
+*** FLOP *** [Jc 8d 6s]
+juanmy2012: checks 
+mabeal1: bets 30
+juanmy2012: calls 30
+*** TURN *** [Jc 8d 6s] [Ac]
+juanmy2012: checks 
+mabeal1: bets 90
+juanmy2012: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jc 8d 6s Ac]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 2: juanmy2012 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259541733286: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:29:15 CET [2026/01/31 18:29:15 ET]
+Table '3970954036 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1075 in chips) 
+Seat 2: juanmy2012 (425 in chips) 
+juanmy2012: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Kc]
+juanmy2012: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: juanmy2012 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541734411: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:29:20 CET [2026/01/31 18:29:20 ET]
+Table '3970954036 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 2: juanmy2012 (410 in chips) 
+mabeal1: posts small blind 15
+juanmy2012: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Qs]
+mabeal1: calls 15
+juanmy2012: checks 
+*** FLOP *** [Kc 3h Qd]
+juanmy2012: bets 30
+mabeal1: calls 30
+*** TURN *** [Kc 3h Qd] [As]
+juanmy2012: bets 30
+mabeal1: calls 30
+*** RIVER *** [Kc 3h Qd As] [5s]
+juanmy2012: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+juanmy2012: shows [Qc Jc] (a pair of Queens)
+mabeal1: mucks hand 
+juanmy2012 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kc 3h Qd As 5s]
+Seat 1: mabeal1 (button) (small blind) mucked [8c Qs]
+Seat 2: juanmy2012 (big blind) showed [Qc Jc] and won (240) with a pair of Queens
+
+
+
+PokerStars Hand #259541738469: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:29:38 CET [2026/01/31 18:29:38 ET]
+Table '3970954036 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 2: juanmy2012 (530 in chips) 
+juanmy2012: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Td]
+juanmy2012: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: juanmy2012 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541739955: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:29:44 CET [2026/01/31 18:29:44 ET]
+Table '3970954036 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (985 in chips) 
+Seat 2: juanmy2012 (515 in chips) 
+mabeal1: posts small blind 15
+juanmy2012: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 6s]
+mabeal1: calls 15
+juanmy2012: checks 
+*** FLOP *** [4c Jc 7s]
+juanmy2012: bets 30
+mabeal1: raises 90 to 120
+juanmy2012: calls 90
+*** TURN *** [4c Jc 7s] [Jh]
+juanmy2012: checks 
+mabeal1: checks 
+*** RIVER *** [4c Jc 7s Jh] [Qs]
+juanmy2012: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to juanmy2012
+juanmy2012 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [4c Jc 7s Jh Qs]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 2: juanmy2012 (big blind) collected (300)
+
+
+
+PokerStars Hand #259541744799: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 0:30:05 CET [2026/01/31 18:30:05 ET]
+Table '3970954036 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (835 in chips) 
+Seat 2: juanmy2012 (665 in chips) 
+juanmy2012: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8c]
+juanmy2012: calls 15
+mabeal1: checks 
+*** FLOP *** [Kd Jc 9c]
+mabeal1: checks 
+juanmy2012: checks 
+*** TURN *** [Kd Jc 9c] [7s]
+mabeal1: bets 90
+juanmy2012: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd Jc 9c 7s]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: juanmy2012 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259541748826: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 0:30:23 CET [2026/01/31 18:30:23 ET]
+Table '3970954036 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (865 in chips) 
+Seat 2: juanmy2012 (635 in chips) 
+mabeal1: posts small blind 20
+juanmy2012: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 7s]
+mabeal1: calls 20
+juanmy2012: checks 
+*** FLOP *** [2c 8h 4c]
+juanmy2012: checks 
+mabeal1: checks 
+*** TURN *** [2c 8h 4c] [7d]
+juanmy2012: checks 
+mabeal1: bets 40
+juanmy2012: calls 40
+*** RIVER *** [2c 8h 4c 7d] [Td]
+juanmy2012: checks 
+mabeal1: bets 120
+juanmy2012: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c 8h 4c 7d Td]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 2: juanmy2012 (big blind) folded on the River
+
+
+
+PokerStars Hand #259541752491: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 0:30:40 CET [2026/01/31 18:30:40 ET]
+Table '3970954036 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (945 in chips) 
+Seat 2: juanmy2012 (555 in chips) 
+juanmy2012: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 8h]
+juanmy2012: calls 20
+mabeal1: checks 
+*** FLOP *** [5c 2c 3h]
+mabeal1: checks 
+juanmy2012: bets 40
+mabeal1: calls 40
+*** TURN *** [5c 2c 3h] [3s]
+mabeal1: checks 
+juanmy2012: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to juanmy2012
+juanmy2012 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c 2c 3h 3s]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: juanmy2012 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259541756344: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 0:30:57 CET [2026/01/31 18:30:57 ET]
+Table '3970954036 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (865 in chips) 
+Seat 2: juanmy2012 (635 in chips) 
+mabeal1: posts small blind 20
+juanmy2012: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 9d]
+mabeal1: calls 20
+juanmy2012: checks 
+*** FLOP *** [Kd 4s 5h]
+juanmy2012: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to juanmy2012
+juanmy2012 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 4s 5h]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 2: juanmy2012 (big blind) collected (80)
+
+
+
+PokerStars Hand #259541758675: Tournament #3970954036, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 0:31:08 CET [2026/01/31 18:31:08 ET]
+Table '3970954036 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (825 in chips) 
+Seat 2: juanmy2012 (675 in chips) 
+juanmy2012: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s As]
+juanmy2012: calls 20
+mabeal1: raises 785 to 825 and is all-in
+juanmy2012: calls 635 and is all-in
+Uncalled bet (150) returned to mabeal1
+*** FLOP *** [3c Ah Jh]
+*** TURN *** [3c Ah Jh] [7d]
+*** RIVER *** [3c Ah Jh 7d] [5c]
+*** SHOW DOWN ***
+mabeal1: shows [2s As] (a pair of Aces)
+juanmy2012: shows [8h 8s] (a pair of Eights)
+mabeal1 collected 1350 from pot
+juanmy2012 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [3c Ah Jh 7d 5c]
+Seat 1: mabeal1 (big blind) showed [2s As] and won (1350) with a pair of Aces
+Seat 2: juanmy2012 (button) (small blind) showed [8h 8s] and lost with a pair of Eights
+
+
+

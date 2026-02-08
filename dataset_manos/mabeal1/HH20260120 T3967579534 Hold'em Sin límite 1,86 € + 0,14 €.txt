@@ -1,0 +1,587 @@
+﻿PokerStars Hand #259396196473: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:47:27 CET [2026/01/20 17:47:27 ET]
+Table '3967579534 1' 3-max Seat #1 is the button
+Seat 1: srs42 (500 in chips) 
+Seat 2: polly41213 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+polly41213: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 9c]
+srs42: calls 20
+polly41213: calls 10
+mabeal1: checks 
+*** FLOP *** [9d 4h As]
+polly41213: checks 
+mabeal1: checks 
+srs42: checks 
+*** TURN *** [9d 4h As] [6d]
+polly41213: bets 20
+mabeal1: raises 20 to 40
+srs42: folds 
+polly41213: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [9d 4h As 6d]
+Seat 1: srs42 (button) folded on the Turn
+Seat 2: polly41213 (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (100)
+
+
+
+PokerStars Hand #259396209961: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:48:23 CET [2026/01/20 17:48:23 ET]
+Table '3967579534 1' 3-max Seat #2 is the button
+Seat 1: srs42 (480 in chips) 
+Seat 2: polly41213 (460 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+mabeal1: posts small blind 10
+srs42: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ks]
+polly41213: calls 20
+mabeal1: folds 
+srs42: checks 
+*** FLOP *** [Th Kd Kc]
+srs42: checks 
+polly41213: bets 20
+srs42: folds 
+Uncalled bet (20) returned to polly41213
+polly41213 collected 50 from pot
+polly41213: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Th Kd Kc]
+Seat 1: srs42 (big blind) folded on the Flop
+Seat 2: polly41213 (button) collected (50)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259396213803: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:48:40 CET [2026/01/20 17:48:40 ET]
+Table '3967579534 1' 3-max Seat #3 is the button
+Seat 1: srs42 (460 in chips) 
+Seat 2: polly41213 (490 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+srs42: posts small blind 10
+polly41213: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Ks]
+mabeal1: raises 20 to 40
+srs42: raises 40 to 80
+polly41213: calls 60
+mabeal1: calls 40
+*** FLOP *** [7d 9c 6s]
+srs42: bets 20
+polly41213: calls 20
+mabeal1: raises 225 to 245
+srs42: folds 
+polly41213: folds 
+Uncalled bet (225) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7d 9c 6s]
+Seat 1: srs42 (small blind) folded on the Flop
+Seat 2: polly41213 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) collected (300)
+
+
+
+PokerStars Hand #259396223608: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:49:22 CET [2026/01/20 17:49:22 ET]
+Table '3967579534 1' 3-max Seat #1 is the button
+Seat 1: srs42 (360 in chips) 
+Seat 2: polly41213 (390 in chips) 
+Seat 3: mabeal1 (750 in chips) 
+polly41213: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Js]
+srs42: folds 
+polly41213: calls 10
+mabeal1: checks 
+*** FLOP *** [Jh Kc 6d]
+polly41213: bets 20
+mabeal1: raises 40 to 60
+polly41213: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh Kc 6d]
+Seat 1: srs42 (button) folded before Flop (didn't bet)
+Seat 2: polly41213 (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259396233789: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:50:05 CET [2026/01/20 17:50:05 ET]
+Table '3967579534 1' 3-max Seat #2 is the button
+Seat 1: srs42 (360 in chips) 
+Seat 2: polly41213 (350 in chips) 
+Seat 3: mabeal1 (790 in chips) 
+mabeal1: posts small blind 10
+srs42: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 6c]
+polly41213: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to srs42
+srs42 collected 20 from pot
+srs42: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: srs42 (big blind) collected (20)
+Seat 2: polly41213 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259396240556: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:50:34 CET [2026/01/20 17:50:34 ET]
+Table '3967579534 1' 3-max Seat #3 is the button
+Seat 1: srs42 (370 in chips) 
+Seat 2: polly41213 (350 in chips) 
+Seat 3: mabeal1 (780 in chips) 
+srs42: posts small blind 15
+polly41213: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9c]
+mabeal1: folds 
+srs42: calls 15
+polly41213: checks 
+*** FLOP *** [4d 8d Jc]
+srs42: bets 30
+polly41213: folds 
+Uncalled bet (30) returned to srs42
+srs42 collected 60 from pot
+srs42: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d 8d Jc]
+Seat 1: srs42 (small blind) collected (60)
+Seat 2: polly41213 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259396246204: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:50:58 CET [2026/01/20 17:50:58 ET]
+Table '3967579534 1' 3-max Seat #1 is the button
+Seat 1: srs42 (400 in chips) 
+Seat 2: polly41213 (320 in chips) 
+Seat 3: mabeal1 (780 in chips) 
+polly41213: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 8c]
+srs42: calls 30
+polly41213: calls 15
+mabeal1: checks 
+*** FLOP *** [4h 3s 9c]
+polly41213: bets 30
+mabeal1: raises 90 to 120
+srs42: folds 
+polly41213: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [4h 3s 9c]
+Seat 1: srs42 (button) folded on the Flop
+Seat 2: polly41213 (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (150)
+
+
+
+PokerStars Hand #259396255282: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:51:37 CET [2026/01/20 17:51:37 ET]
+Table '3967579534 1' 3-max Seat #2 is the button
+Seat 1: srs42 (370 in chips) 
+Seat 2: polly41213 (260 in chips) 
+Seat 3: mabeal1 (870 in chips) 
+mabeal1: posts small blind 15
+srs42: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qs]
+polly41213: calls 30
+mabeal1: raises 840 to 870 and is all-in
+srs42: calls 340 and is all-in
+polly41213: folds 
+Uncalled bet (500) returned to mabeal1
+*** FLOP *** [Jc Qd 7d]
+*** TURN *** [Jc Qd 7d] [4d]
+*** RIVER *** [Jc Qd 7d 4d] [Ad]
+*** SHOW DOWN ***
+mabeal1: shows [Kh Qs] (a pair of Queens)
+srs42: shows [Ks Ts] (a straight, Ten to Ace)
+srs42 collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | Rake 0 
+Board [Jc Qd 7d 4d Ad]
+Seat 1: srs42 (big blind) showed [Ks Ts] and won (770) with a straight, Ten to Ace
+Seat 2: polly41213 (button) folded before Flop
+Seat 3: mabeal1 (small blind) showed [Kh Qs] and lost with a pair of Queens
+
+
+
+PokerStars Hand #259396262592: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:52:09 CET [2026/01/20 17:52:09 ET]
+Table '3967579534 1' 3-max Seat #3 is the button
+Seat 1: srs42 (770 in chips) 
+Seat 2: polly41213 (230 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+srs42: posts small blind 15
+polly41213: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9s]
+mabeal1: raises 30 to 60
+srs42: calls 45
+polly41213: calls 30
+*** FLOP *** [Qs Td 5d]
+srs42: bets 30
+polly41213: calls 30
+mabeal1: folds 
+*** TURN *** [Qs Td 5d] [7d]
+srs42: bets 30
+polly41213: calls 30
+*** RIVER *** [Qs Td 5d 7d] [Jc]
+srs42: checks 
+polly41213: bets 110 and is all-in
+srs42: folds 
+Uncalled bet (110) returned to polly41213
+polly41213 collected 300 from pot
+polly41213: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Qs Td 5d 7d Jc]
+Seat 1: srs42 (small blind) folded on the River
+Seat 2: polly41213 (big blind) collected (300)
+Seat 3: mabeal1 (button) folded on the Flop
+
+
+
+PokerStars Hand #259396271364: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:52:47 CET [2026/01/20 17:52:47 ET]
+Table '3967579534 1' 3-max Seat #1 is the button
+Seat 1: srs42 (650 in chips) 
+Seat 2: polly41213 (410 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+polly41213: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 7h]
+srs42: folds 
+polly41213: calls 15
+mabeal1: raises 410 to 440 and is all-in
+polly41213: folds 
+Uncalled bet (410) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: srs42 (button) folded before Flop (didn't bet)
+Seat 2: polly41213 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259396273629: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:52:57 CET [2026/01/20 17:52:57 ET]
+Table '3967579534 1' 3-max Seat #2 is the button
+Seat 1: srs42 (650 in chips) 
+Seat 2: polly41213 (380 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+mabeal1: posts small blind 15
+srs42: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 3h]
+polly41213: calls 30
+mabeal1: raises 440 to 470 and is all-in
+srs42: folds 
+polly41213: folds 
+Uncalled bet (440) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: srs42 (big blind) folded before Flop
+Seat 2: polly41213 (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (90)
+
+
+
+PokerStars Hand #259396275689: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:53:06 CET [2026/01/20 17:53:06 ET]
+Table '3967579534 1' 3-max Seat #3 is the button
+Seat 1: srs42 (620 in chips) 
+Seat 2: polly41213 (350 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+srs42: posts small blind 15
+polly41213: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Kh]
+mabeal1: folds 
+srs42: folds 
+Uncalled bet (15) returned to polly41213
+polly41213 collected 30 from pot
+polly41213: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: srs42 (small blind) folded before Flop
+Seat 2: polly41213 (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259396277642: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:53:15 CET [2026/01/20 17:53:15 ET]
+Table '3967579534 1' 3-max Seat #1 is the button
+Seat 1: srs42 (605 in chips) 
+Seat 2: polly41213 (365 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+polly41213: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8h]
+srs42: folds 
+polly41213: calls 15
+mabeal1: checks 
+*** FLOP *** [8s 3s As]
+polly41213: bets 30
+mabeal1: raises 470 to 500 and is all-in
+polly41213: folds 
+Uncalled bet (470) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s 3s As]
+Seat 1: srs42 (button) folded before Flop (didn't bet)
+Seat 2: polly41213 (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259396282649: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:53:37 CET [2026/01/20 17:53:37 ET]
+Table '3967579534 1' 3-max Seat #2 is the button
+Seat 1: srs42 (605 in chips) 
+Seat 2: polly41213 (305 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+mabeal1: posts small blind 20
+srs42: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6c]
+polly41213: calls 40
+mabeal1: folds 
+srs42: checks 
+*** FLOP *** [Kh 6h 7h]
+srs42: checks 
+polly41213: bets 40
+srs42: raises 40 to 80
+polly41213: folds 
+Uncalled bet (40) returned to srs42
+srs42 collected 180 from pot
+srs42: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kh 6h 7h]
+Seat 1: srs42 (big blind) collected (180)
+Seat 2: polly41213 (button) folded on the Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259396286770: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:53:55 CET [2026/01/20 17:53:55 ET]
+Table '3967579534 1' 3-max Seat #3 is the button
+Seat 1: srs42 (705 in chips) 
+Seat 2: polly41213 (225 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+srs42: posts small blind 20
+polly41213: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 5d]
+mabeal1: folds 
+srs42: folds 
+Uncalled bet (20) returned to polly41213
+polly41213 collected 40 from pot
+polly41213: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: srs42 (small blind) folded before Flop
+Seat 2: polly41213 (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259396288576: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:54:03 CET [2026/01/20 17:54:03 ET]
+Table '3967579534 1' 3-max Seat #1 is the button
+Seat 1: srs42 (685 in chips) 
+Seat 2: polly41213 (245 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+polly41213: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ah]
+srs42: folds 
+polly41213: calls 20
+mabeal1: raises 530 to 570 and is all-in
+polly41213: calls 205 and is all-in
+Uncalled bet (325) returned to mabeal1
+*** FLOP *** [Qs 7h 2c]
+*** TURN *** [Qs 7h 2c] [9d]
+*** RIVER *** [Qs 7h 2c 9d] [2s]
+*** SHOW DOWN ***
+polly41213: shows [Qh As] (two pair, Queens and Deuces)
+mabeal1: shows [2h Ah] (three of a kind, Deuces)
+mabeal1 collected 490 from pot
+polly41213 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [Qs 7h 2c 9d 2s]
+Seat 1: srs42 (button) folded before Flop (didn't bet)
+Seat 2: polly41213 (small blind) showed [Qh As] and lost with two pair, Queens and Deuces
+Seat 3: mabeal1 (big blind) showed [2h Ah] and won (490) with three of a kind, Deuces
+
+
+
+PokerStars Hand #259396292907: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:54:22 CET [2026/01/20 17:54:22 ET]
+Table '3967579534 1' 3-max Seat #3 is the button
+Seat 1: srs42 (685 in chips) 
+Seat 3: mabeal1 (815 in chips) 
+mabeal1: posts small blind 20
+srs42: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 8s]
+mabeal1: calls 20
+srs42: checks 
+*** FLOP *** [6d Tc 8c]
+srs42: checks 
+mabeal1: bets 40
+srs42: calls 40
+*** TURN *** [6d Tc 8c] [Ts]
+srs42: bets 40
+mabeal1: calls 40
+*** RIVER *** [6d Tc 8c Ts] [7c]
+srs42: bets 80
+mabeal1: raises 615 to 695 and is all-in
+srs42: folds 
+Uncalled bet (615) returned to mabeal1
+mabeal1 collected 400 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [6d Tc 8c Ts 7c]
+Seat 1: srs42 (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (400)
+
+
+
+PokerStars Hand #259396301897: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:55:01 CET [2026/01/20 17:55:01 ET]
+Table '3967579534 1' 3-max Seat #1 is the button
+Seat 1: srs42 (485 in chips) 
+Seat 3: mabeal1 (1015 in chips) 
+srs42: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 4d]
+srs42: calls 20
+mabeal1: checks 
+*** FLOP *** [As 2c 6c]
+mabeal1: checks 
+srs42: bets 40
+mabeal1: calls 40
+*** TURN *** [As 2c 6c] [Th]
+mabeal1: checks 
+srs42: checks 
+*** RIVER *** [As 2c 6c Th] [Kh]
+mabeal1: checks 
+srs42: bets 405 and is all-in
+mabeal1: calls 405
+*** SHOW DOWN ***
+srs42: shows [6h Ts] (two pair, Tens and Sixes)
+mabeal1: shows [6d 4d] (a pair of Sixes)
+srs42 collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [As 2c 6c Th Kh]
+Seat 1: srs42 (button) (small blind) showed [6h Ts] and won (970) with two pair, Tens and Sixes
+Seat 3: mabeal1 (big blind) showed [6d 4d] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259396313511: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:56:07 CET [2026/01/20 17:56:07 ET]
+Table '3967579534 1' 3-max Seat #3 is the button
+Seat 1: srs42 (970 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+mabeal1: posts small blind 20
+srs42: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 2d]
+mabeal1: calls 20
+srs42: checks 
+*** FLOP *** [5h 3h 6s]
+srs42: checks 
+mabeal1: checks 
+*** TURN *** [5h 3h 6s] [6d]
+srs42: checks 
+mabeal1: checks 
+*** RIVER *** [5h 3h 6s 6d] [Qs]
+srs42: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+srs42: shows [Ks 3c] (two pair, Sixes and Threes)
+mabeal1: mucks hand 
+srs42 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h 3h 6s 6d Qs]
+Seat 1: srs42 (big blind) showed [Ks 3c] and won (80) with two pair, Sixes and Threes
+Seat 3: mabeal1 (button) (small blind) mucked [Kh 2d]
+
+
+
+PokerStars Hand #259396316835: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 23:56:27 CET [2026/01/20 17:56:27 ET]
+Table '3967579534 1' 3-max Seat #1 is the button
+Seat 1: srs42 (1010 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+srs42: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 5c]
+srs42: calls 20
+mabeal1: raises 450 to 490 and is all-in
+srs42: folds 
+Uncalled bet (450) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: srs42 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259396318703: Tournament #3967579534, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 23:56:38 CET [2026/01/20 17:56:38 ET]
+Table '3967579534 1' 3-max Seat #3 is the button
+Seat 1: srs42 (970 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+mabeal1: posts small blind 30
+srs42: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qc]
+mabeal1: raises 470 to 530 and is all-in
+srs42: calls 470
+*** FLOP *** [Ah 3h 7h]
+*** TURN *** [Ah 3h 7h] [Tc]
+*** RIVER *** [Ah 3h 7h Tc] [5h]
+*** SHOW DOWN ***
+srs42: shows [Ks Qs] (high card Ace)
+mabeal1: shows [6d Qc] (high card Ace - lower kicker)
+srs42 collected 1060 from pot
+mabeal1 finished the tournament in 2nd place
+srs42 wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [Ah 3h 7h Tc 5h]
+Seat 1: srs42 (big blind) showed [Ks Qs] and won (1060) with high card Ace
+Seat 3: mabeal1 (button) (small blind) showed [6d Qc] and lost with high card Ace
+
+
+

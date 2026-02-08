@@ -1,0 +1,595 @@
+﻿PokerStars Hand #259608701320: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 0:51:04 CET [2026/02/05 18:51:04 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Ricardopinho11 (500 in chips) 
+Seat 3: hugox587 (500 in chips) 
+Ricardopinho11: posts small blind 10
+hugox587: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Ah]
+mabeal1: raises 20 to 40
+Ricardopinho11: calls 30
+hugox587: calls 20
+*** FLOP *** [Qs 7s 3h]
+Ricardopinho11: checks 
+hugox587: checks 
+mabeal1: bets 90
+Ricardopinho11: folds 
+hugox587: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qs 7s 3h]
+Seat 1: mabeal1 (button) collected (120)
+Seat 2: Ricardopinho11 (small blind) folded on the Flop
+Seat 3: hugox587 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259608707569: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 0:51:34 CET [2026/02/05 18:51:34 ET]
+Table '3972465306 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Ricardopinho11 (460 in chips) 
+Seat 3: hugox587 (460 in chips) 
+hugox587: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Th]
+Ricardopinho11: calls 20
+hugox587: calls 10
+mabeal1: checks 
+*** FLOP *** [Ad 8h 3h]
+hugox587: checks 
+mabeal1: checks 
+Ricardopinho11: checks 
+*** TURN *** [Ad 8h 3h] [2h]
+hugox587: checks 
+mabeal1: bets 45
+Ricardopinho11: folds 
+hugox587: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ad 8h 3h 2h]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: Ricardopinho11 (button) folded on the Turn
+Seat 3: hugox587 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259608711242: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 0:51:52 CET [2026/02/05 18:51:52 ET]
+Table '3972465306 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: Ricardopinho11 (440 in chips) 
+Seat 3: hugox587 (440 in chips) 
+mabeal1: posts small blind 10
+Ricardopinho11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 7d]
+hugox587: calls 20
+mabeal1: raises 600 to 620 and is all-in
+Ricardopinho11: folds 
+hugox587: folds 
+Uncalled bet (600) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: Ricardopinho11 (big blind) folded before Flop
+Seat 3: hugox587 (button) folded before Flop
+
+
+
+PokerStars Hand #259608712876: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 0:52:00 CET [2026/02/05 18:52:00 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 2: Ricardopinho11 (420 in chips) 
+Seat 3: hugox587 (420 in chips) 
+Ricardopinho11: posts small blind 10
+hugox587: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Jc]
+mabeal1: raises 20 to 40
+Ricardopinho11: calls 30
+hugox587: folds 
+*** FLOP *** [Ts Tc 9s]
+Ricardopinho11: checks 
+mabeal1: bets 40
+Ricardopinho11: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ts Tc 9s]
+Seat 1: mabeal1 (button) collected (100)
+Seat 2: Ricardopinho11 (small blind) folded on the Flop
+Seat 3: hugox587 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259608716319: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 0:52:17 CET [2026/02/05 18:52:17 ET]
+Table '3972465306 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (720 in chips) 
+Seat 2: Ricardopinho11 (380 in chips) 
+Seat 3: hugox587 (400 in chips) 
+hugox587: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ts]
+Ricardopinho11: calls 20
+hugox587: calls 10
+mabeal1: checks 
+*** FLOP *** [4c 2h Ad]
+hugox587: checks 
+mabeal1: checks 
+Ricardopinho11: checks 
+*** TURN *** [4c 2h Ad] [6c]
+hugox587: checks 
+mabeal1: checks 
+Ricardopinho11: checks 
+*** RIVER *** [4c 2h Ad 6c] [Js]
+hugox587: checks 
+mabeal1: checks 
+Ricardopinho11: checks 
+*** SHOW DOWN ***
+hugox587: shows [8d Kh] (high card Ace)
+mabeal1: mucks hand 
+Ricardopinho11: mucks hand 
+hugox587 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c 2h Ad 6c Js]
+Seat 1: mabeal1 (big blind) mucked [8h Ts]
+Seat 2: Ricardopinho11 (button) mucked [Tc 8c]
+Seat 3: hugox587 (small blind) showed [8d Kh] and won (60) with high card Ace
+
+
+
+PokerStars Hand #259608722811: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 0:52:49 CET [2026/02/05 18:52:49 ET]
+Table '3972465306 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (700 in chips) 
+Seat 2: Ricardopinho11 (360 in chips) 
+Seat 3: hugox587 (440 in chips) 
+mabeal1: posts small blind 10
+Ricardopinho11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ad]
+hugox587: folds 
+mabeal1: raises 40 to 60
+Ricardopinho11: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: Ricardopinho11 (big blind) folded before Flop
+Seat 3: hugox587 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259608726389: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 0:53:06 CET [2026/02/05 18:53:06 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (720 in chips) 
+Seat 2: Ricardopinho11 (340 in chips) 
+Seat 3: hugox587 (440 in chips) 
+Ricardopinho11: posts small blind 10
+hugox587: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Qh]
+mabeal1: raises 20 to 40
+Ricardopinho11: calls 30
+hugox587: calls 20
+*** FLOP *** [6h Td 7h]
+Ricardopinho11: bets 20
+hugox587: folds 
+mabeal1: raises 120 to 140
+Ricardopinho11: calls 120
+*** TURN *** [6h Td 7h] [Tc]
+Ricardopinho11: checks 
+mabeal1: checks 
+*** RIVER *** [6h Td 7h Tc] [7s]
+Ricardopinho11: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Ricardopinho11: shows [3h 5h] (two pair, Tens and Sevens)
+mabeal1: shows [Qd Qh] (two pair, Queens and Tens)
+mabeal1 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [6h Td 7h Tc 7s]
+Seat 1: mabeal1 (button) showed [Qd Qh] and won (400) with two pair, Queens and Tens
+Seat 2: Ricardopinho11 (small blind) showed [3h 5h] and lost with two pair, Tens and Sevens
+Seat 3: hugox587 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259608734340: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 0:53:45 CET [2026/02/05 18:53:45 ET]
+Table '3972465306 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 2: Ricardopinho11 (160 in chips) 
+Seat 3: hugox587 (400 in chips) 
+hugox587: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3d]
+Ricardopinho11: raises 140 to 160 and is all-in
+hugox587: folds 
+mabeal1: folds 
+Uncalled bet (140) returned to Ricardopinho11
+Ricardopinho11 collected 50 from pot
+Ricardopinho11: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Ricardopinho11 (button) collected (50)
+Seat 3: hugox587 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259608736724: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 0:53:57 CET [2026/02/05 18:53:57 ET]
+Table '3972465306 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (920 in chips) 
+Seat 2: Ricardopinho11 (190 in chips) 
+Seat 3: hugox587 (390 in chips) 
+mabeal1: posts small blind 10
+Ricardopinho11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 3s]
+hugox587: calls 20
+mabeal1: folds 
+Ricardopinho11: checks 
+*** FLOP *** [5s 9s 7h]
+Ricardopinho11: checks 
+hugox587: bets 25
+Ricardopinho11: folds 
+Uncalled bet (25) returned to hugox587
+hugox587 collected 50 from pot
+hugox587: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [5s 9s 7h]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Ricardopinho11 (big blind) folded on the Flop
+Seat 3: hugox587 (button) collected (50)
+
+
+
+PokerStars Hand #259608739936: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:54:13 CET [2026/02/05 18:54:13 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (910 in chips) 
+Seat 2: Ricardopinho11 (170 in chips) 
+Seat 3: hugox587 (420 in chips) 
+Ricardopinho11: posts small blind 15
+hugox587: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 6d]
+mabeal1: folds 
+Ricardopinho11: folds 
+Uncalled bet (15) returned to hugox587
+hugox587 collected 30 from pot
+hugox587: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Ricardopinho11 (small blind) folded before Flop
+Seat 3: hugox587 (big blind) collected (30)
+
+
+
+PokerStars Hand #259608741141: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:54:19 CET [2026/02/05 18:54:19 ET]
+Table '3972465306 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (910 in chips) 
+Seat 2: Ricardopinho11 (155 in chips) 
+Seat 3: hugox587 (435 in chips) 
+hugox587: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c As]
+Ricardopinho11: raises 125 to 155 and is all-in
+hugox587: folds 
+mabeal1: calls 125
+*** FLOP *** [5d 3c Ah]
+*** TURN *** [5d 3c Ah] [2d]
+*** RIVER *** [5d 3c Ah 2d] [Js]
+*** SHOW DOWN ***
+mabeal1: shows [9c As] (a pair of Aces)
+Ricardopinho11: shows [2h Qc] (a pair of Deuces)
+mabeal1 collected 325 from pot
+Ricardopinho11 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [5d 3c Ah 2d Js]
+Seat 1: mabeal1 (big blind) showed [9c As] and won (325) with a pair of Aces
+Seat 2: Ricardopinho11 (button) showed [2h Qc] and lost with a pair of Deuces
+Seat 3: hugox587 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259608745954: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:54:43 CET [2026/02/05 18:54:43 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1080 in chips) 
+Seat 3: hugox587 (420 in chips) 
+mabeal1: posts small blind 15
+hugox587: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Ks]
+mabeal1: calls 15
+hugox587: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Ah Qc 4c]
+hugox587: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to hugox587
+hugox587 collected 120 from pot
+hugox587: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah Qc 4c]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: hugox587 (big blind) collected (120)
+
+
+
+PokerStars Hand #259608749680: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:55:02 CET [2026/02/05 18:55:02 ET]
+Table '3972465306 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: hugox587 (480 in chips) 
+hugox587: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Js]
+hugox587: calls 15
+mabeal1: checks 
+*** FLOP *** [4c Td 9c]
+mabeal1: checks 
+hugox587: checks 
+*** TURN *** [4c Td 9c] [Ts]
+mabeal1: bets 45
+hugox587: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c Td 9c Ts]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: hugox587 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259608753440: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:55:25 CET [2026/02/05 18:55:25 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: hugox587 (450 in chips) 
+mabeal1: posts small blind 15
+hugox587: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Jc]
+mabeal1: calls 15
+hugox587: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to hugox587
+hugox587 collected 60 from pot
+hugox587: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: hugox587 (big blind) collected (60)
+
+
+
+PokerStars Hand #259608755459: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:55:38 CET [2026/02/05 18:55:38 ET]
+Table '3972465306 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: hugox587 (480 in chips) 
+hugox587: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ah]
+hugox587: calls 15
+mabeal1: raises 990 to 1020 and is all-in
+hugox587: folds 
+Uncalled bet (990) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: hugox587 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259608756497: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:55:45 CET [2026/02/05 18:55:45 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: hugox587 (450 in chips) 
+mabeal1: posts small blind 15
+hugox587: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Ts]
+mabeal1: calls 15
+hugox587: checks 
+*** FLOP *** [2d 2c 9s]
+hugox587: checks 
+mabeal1: bets 30
+hugox587: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d 2c 9s]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: hugox587 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259608758069: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:55:56 CET [2026/02/05 18:55:56 ET]
+Table '3972465306 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1080 in chips) 
+Seat 3: hugox587 (420 in chips) 
+hugox587: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Td]
+hugox587: calls 15
+mabeal1: checks 
+*** FLOP *** [7c Qh Kc]
+mabeal1: checks 
+hugox587: checks 
+*** TURN *** [7c Qh Kc] [9d]
+mabeal1: bets 45
+hugox587: raises 75 to 120
+mabeal1: calls 75
+*** RIVER *** [7c Qh Kc 9d] [Ks]
+mabeal1: checks 
+hugox587: bets 120
+mabeal1: calls 120
+*** SHOW DOWN ***
+hugox587: shows [Kh 9c] (a full house, Kings full of Nines)
+mabeal1: mucks hand 
+hugox587 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [7c Qh Kc 9d Ks]
+Seat 1: mabeal1 (big blind) mucked [Qc Td]
+Seat 3: hugox587 (button) (small blind) showed [Kh 9c] and won (540) with a full house, Kings full of Nines
+
+
+
+PokerStars Hand #259608762596: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:56:26 CET [2026/02/05 18:56:26 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (810 in chips) 
+Seat 3: hugox587 (690 in chips) 
+mabeal1: posts small blind 15
+hugox587: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5h]
+mabeal1: folds 
+Uncalled bet (15) returned to hugox587
+hugox587 collected 30 from pot
+hugox587: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: hugox587 (big blind) collected (30)
+
+
+
+PokerStars Hand #259608763478: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:56:32 CET [2026/02/05 18:56:32 ET]
+Table '3972465306 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (795 in chips) 
+Seat 3: hugox587 (705 in chips) 
+hugox587: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5s]
+hugox587: calls 15
+mabeal1: raises 765 to 795 and is all-in
+hugox587: folds 
+Uncalled bet (765) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: hugox587 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259608764834: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:56:41 CET [2026/02/05 18:56:41 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (825 in chips) 
+Seat 3: hugox587 (675 in chips) 
+mabeal1: posts small blind 15
+hugox587: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ts]
+mabeal1: raises 30 to 60
+hugox587: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: hugox587 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259608765751: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:56:47 CET [2026/02/05 18:56:47 ET]
+Table '3972465306 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (855 in chips) 
+Seat 3: hugox587 (645 in chips) 
+hugox587: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 8c]
+hugox587: calls 15
+mabeal1: checks 
+*** FLOP *** [2d Kd 9c]
+mabeal1: bets 30
+hugox587: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d Kd 9c]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: hugox587 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259608767332: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 0:56:58 CET [2026/02/05 18:56:58 ET]
+Table '3972465306 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (885 in chips) 
+Seat 3: hugox587 (615 in chips) 
+mabeal1: posts small blind 15
+hugox587: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Ah]
+mabeal1: raises 855 to 885 and is all-in
+hugox587: calls 585 and is all-in
+Uncalled bet (270) returned to mabeal1
+*** FLOP *** [5h 5d 4d]
+*** TURN *** [5h 5d 4d] [Qc]
+*** RIVER *** [5h 5d 4d Qc] [Jh]
+*** SHOW DOWN ***
+hugox587: shows [3s 3d] (two pair, Fives and Threes)
+mabeal1: shows [7d Ah] (a pair of Fives)
+hugox587 collected 1230 from pot
+*** SUMMARY ***
+Total pot 1230 | Rake 0 
+Board [5h 5d 4d Qc Jh]
+Seat 1: mabeal1 (button) (small blind) showed [7d Ah] and lost with a pair of Fives
+Seat 3: hugox587 (big blind) showed [3s 3d] and won (1230) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #259608770502: Tournament #3972465306, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/06 0:57:19 CET [2026/02/05 18:57:19 ET]
+Table '3972465306 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (270 in chips) 
+Seat 3: hugox587 (1230 in chips) 
+hugox587: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2c]
+hugox587: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: hugox587 (button) (small blind) folded before Flop
+
+
+

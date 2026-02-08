@@ -1,0 +1,899 @@
+﻿PokerStars Hand #259555386932: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:10:11 CET [2026/02/01 17:10:11 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Carpallo88 (500 in chips) 
+mabeal1: posts small blind 10
+Carpallo88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 6h]
+laphil66666: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Carpallo88
+Carpallo88 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: laphil66666 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Carpallo88 (big blind) collected (20)
+
+
+
+PokerStars Hand #259555389604: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:10:20 CET [2026/02/01 17:10:20 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (500 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Carpallo88 (510 in chips) 
+Carpallo88: posts small blind 10
+laphil66666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 2h]
+mabeal1: folds 
+Carpallo88: folds 
+Uncalled bet (10) returned to laphil66666
+laphil66666 collected 20 from pot
+laphil66666: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: laphil66666 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Carpallo88 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555392292: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:10:29 CET [2026/02/01 17:10:29 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (510 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Carpallo88 (500 in chips) 
+laphil66666: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks As]
+Carpallo88: folds 
+laphil66666: calls 10
+mabeal1: raises 180 to 200
+laphil66666: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laphil66666 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: Carpallo88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555398190: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:10:48 CET [2026/02/01 17:10:48 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (490 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: Carpallo88 (500 in chips) 
+mabeal1: posts small blind 10
+Carpallo88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 9c]
+laphil66666: folds 
+mabeal1: raises 30 to 50
+Carpallo88: calls 30
+*** FLOP *** [Js Ac 8h]
+mabeal1: bets 40
+Carpallo88: calls 40
+*** TURN *** [Js Ac 8h] [Kc]
+mabeal1: checks 
+Carpallo88: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Carpallo88
+Carpallo88 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Js Ac 8h Kc]
+Seat 1: laphil66666 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded on the Turn
+Seat 3: Carpallo88 (big blind) collected (180)
+
+
+
+PokerStars Hand #259555408623: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:11:22 CET [2026/02/01 17:11:22 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (490 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: Carpallo88 (590 in chips) 
+Carpallo88: posts small blind 10
+laphil66666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 5h]
+mabeal1: folds 
+Carpallo88: calls 10
+laphil66666: checks 
+*** FLOP *** [9d Jd 5s]
+Carpallo88: checks 
+laphil66666: checks 
+*** TURN *** [9d Jd 5s] [3d]
+Carpallo88: checks 
+laphil66666: checks 
+*** RIVER *** [9d Jd 5s 3d] [Js]
+Carpallo88: checks 
+laphil66666: checks 
+*** SHOW DOWN ***
+Carpallo88: shows [Ts 2c] (a pair of Jacks)
+laphil66666: shows [7c Th] (a pair of Jacks - Ten+Nine+Seven kicker)
+laphil66666 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9d Jd 5s 3d Js]
+Seat 1: laphil66666 (big blind) showed [7c Th] and won (40) with a pair of Jacks
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Carpallo88 (small blind) showed [Ts 2c] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259555418477: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:11:55 CET [2026/02/01 17:11:55 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (510 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: Carpallo88 (570 in chips) 
+laphil66666: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6s]
+Carpallo88: calls 20
+laphil66666: calls 10
+mabeal1: checks 
+*** FLOP *** [Qs 9d Qh]
+laphil66666: checks 
+mabeal1: checks 
+Carpallo88: checks 
+*** TURN *** [Qs 9d Qh] [Qd]
+laphil66666: checks 
+mabeal1: checks 
+Carpallo88: checks 
+*** RIVER *** [Qs 9d Qh Qd] [5d]
+laphil66666: checks 
+mabeal1: checks 
+Carpallo88: checks 
+*** SHOW DOWN ***
+laphil66666: shows [Th 8s] (three of a kind, Queens)
+mabeal1: mucks hand 
+Carpallo88: shows [4h Jd] (three of a kind, Queens - Jack kicker)
+Carpallo88 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qs 9d Qh Qd 5d]
+Seat 1: laphil66666 (small blind) showed [Th 8s] and lost with three of a kind, Queens
+Seat 2: mabeal1 (big blind) mucked [8c 6s]
+Seat 3: Carpallo88 (button) showed [4h Jd] and won (60) with three of a kind, Queens
+
+
+
+PokerStars Hand #259555427438: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:12:24 CET [2026/02/01 17:12:24 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (490 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: Carpallo88 (610 in chips) 
+mabeal1: posts small blind 10
+Carpallo88: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 4c]
+laphil66666: calls 20
+mabeal1: folds 
+Carpallo88: checks 
+*** FLOP *** [9s 6h 7d]
+Carpallo88: bets 40
+laphil66666: calls 40
+*** TURN *** [9s 6h 7d] [9d]
+Carpallo88: checks 
+laphil66666: checks 
+*** RIVER *** [9s 6h 7d 9d] [Th]
+Carpallo88: bets 60
+laphil66666: folds 
+Uncalled bet (60) returned to Carpallo88
+Carpallo88 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [9s 6h 7d 9d Th]
+Seat 1: laphil66666 (button) folded on the River
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Carpallo88 (big blind) collected (130)
+
+
+
+PokerStars Hand #259555435008: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:12:49 CET [2026/02/01 17:12:49 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (430 in chips) 
+Seat 2: mabeal1 (390 in chips) 
+Seat 3: Carpallo88 (680 in chips) 
+Carpallo88: posts small blind 10
+laphil66666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 7d]
+mabeal1: folds 
+Carpallo88: calls 10
+laphil66666: checks 
+*** FLOP *** [Td 6c Kd]
+Carpallo88: checks 
+laphil66666: bets 20
+Carpallo88: folds 
+Uncalled bet (20) returned to laphil66666
+laphil66666 collected 40 from pot
+laphil66666: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td 6c Kd]
+Seat 1: laphil66666 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Carpallo88 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259555439926: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 23:13:05 CET [2026/02/01 17:13:05 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (450 in chips) 
+Seat 2: mabeal1 (390 in chips) 
+Seat 3: Carpallo88 (660 in chips) 
+laphil66666: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 3d]
+Carpallo88: raises 20 to 40
+laphil66666: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Carpallo88
+Carpallo88 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: laphil66666 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Carpallo88 (button) collected (50)
+
+
+
+PokerStars Hand #259555446500: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:13:27 CET [2026/02/01 17:13:27 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (440 in chips) 
+Seat 2: mabeal1 (370 in chips) 
+Seat 3: Carpallo88 (690 in chips) 
+mabeal1: posts small blind 15
+Carpallo88: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2h]
+laphil66666: raises 120 to 150
+mabeal1: folds 
+Carpallo88: folds 
+Uncalled bet (120) returned to laphil66666
+laphil66666 collected 75 from pot
+laphil66666: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: laphil66666 (button) collected (75)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Carpallo88 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259555451349: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:13:43 CET [2026/02/01 17:13:43 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (485 in chips) 
+Seat 2: mabeal1 (355 in chips) 
+Seat 3: Carpallo88 (660 in chips) 
+Carpallo88: posts small blind 15
+laphil66666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Tc]
+mabeal1: raises 30 to 60
+Carpallo88: calls 45
+laphil66666: calls 30
+*** FLOP *** [7h Td 3h]
+Carpallo88: bets 90
+laphil66666: folds 
+mabeal1: calls 90
+*** TURN *** [7h Td 3h] [Kd]
+Carpallo88: checks 
+mabeal1: checks 
+*** RIVER *** [7h Td 3h Kd] [4d]
+Carpallo88: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+Carpallo88: shows [9s Th] (a pair of Tens)
+mabeal1: shows [Jh Tc] (a pair of Tens - King+Jack kicker)
+mabeal1 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [7h Td 3h Kd 4d]
+Seat 1: laphil66666 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) showed [Jh Tc] and won (480) with a pair of Tens
+Seat 3: Carpallo88 (small blind) showed [9s Th] and lost with a pair of Tens
+
+
+
+PokerStars Hand #259555461807: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:14:18 CET [2026/02/01 17:14:18 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (425 in chips) 
+Seat 2: mabeal1 (625 in chips) 
+Seat 3: Carpallo88 (450 in chips) 
+laphil66666: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 6h]
+Carpallo88: raises 60 to 90
+laphil66666: calls 75
+mabeal1: folds 
+*** FLOP *** [3s Ah 2h]
+laphil66666: checks 
+Carpallo88: checks 
+*** TURN *** [3s Ah 2h] [Tc]
+laphil66666: checks 
+Carpallo88: checks 
+*** RIVER *** [3s Ah 2h Tc] [5s]
+laphil66666: checks 
+Carpallo88: checks 
+*** SHOW DOWN ***
+laphil66666: shows [Qs 7s] (high card Ace)
+Carpallo88: shows [Kh Jc] (high card Ace - King kicker)
+Carpallo88 collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [3s Ah 2h Tc 5s]
+Seat 1: laphil66666 (small blind) showed [Qs 7s] and lost with high card Ace
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Carpallo88 (button) showed [Kh Jc] and won (210) with high card Ace
+
+
+
+PokerStars Hand #259555481476: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:15:24 CET [2026/02/01 17:15:24 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (335 in chips) 
+Seat 2: mabeal1 (595 in chips) 
+Seat 3: Carpallo88 (570 in chips) 
+mabeal1: posts small blind 15
+Carpallo88: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5h]
+laphil66666: calls 30
+mabeal1: folds 
+Carpallo88: checks 
+*** FLOP *** [9h 3s 2d]
+Carpallo88: checks 
+laphil66666: checks 
+*** TURN *** [9h 3s 2d] [3h]
+Carpallo88: checks 
+laphil66666: checks 
+*** RIVER *** [9h 3s 2d 3h] [9s]
+Carpallo88: bets 30
+laphil66666: folds 
+Uncalled bet (30) returned to Carpallo88
+Carpallo88 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [9h 3s 2d 3h 9s]
+Seat 1: laphil66666 (button) folded on the River
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Carpallo88 (big blind) collected (75)
+
+
+
+PokerStars Hand #259555492291: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:16:00 CET [2026/02/01 17:16:00 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (305 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: Carpallo88 (615 in chips) 
+Carpallo88: posts small blind 15
+laphil66666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Td]
+mabeal1: raises 30 to 60
+Carpallo88: raises 555 to 615 and is all-in
+laphil66666: folds 
+mabeal1: folds 
+Uncalled bet (555) returned to Carpallo88
+Carpallo88 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: laphil66666 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: Carpallo88 (small blind) collected (150)
+
+
+
+PokerStars Hand #259555496166: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 23:16:12 CET [2026/02/01 17:16:12 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (275 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Carpallo88 (705 in chips) 
+laphil66666: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 3h]
+Carpallo88: raises 30 to 60
+laphil66666: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to Carpallo88
+Carpallo88 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: laphil66666 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Carpallo88 (button) collected (75)
+
+
+
+PokerStars Hand #259555500943: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:16:28 CET [2026/02/01 17:16:28 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (260 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Carpallo88 (750 in chips) 
+mabeal1: posts small blind 20
+Carpallo88: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 6d]
+laphil66666: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Carpallo88
+Carpallo88 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laphil66666 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Carpallo88 (big blind) collected (40)
+
+
+
+PokerStars Hand #259555505695: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:16:44 CET [2026/02/01 17:16:44 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (260 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: Carpallo88 (770 in chips) 
+Carpallo88: posts small blind 20
+laphil66666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Th]
+mabeal1: folds 
+Carpallo88: folds 
+Uncalled bet (20) returned to laphil66666
+laphil66666 collected 40 from pot
+laphil66666: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laphil66666 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Carpallo88 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555507920: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:16:52 CET [2026/02/01 17:16:52 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (280 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: Carpallo88 (750 in chips) 
+laphil66666: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6d]
+Carpallo88: folds 
+laphil66666: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laphil66666 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: Carpallo88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555510223: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:16:59 CET [2026/02/01 17:16:59 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (260 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Carpallo88 (750 in chips) 
+mabeal1: posts small blind 20
+Carpallo88: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 9d]
+laphil66666: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Carpallo88
+Carpallo88 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laphil66666 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Carpallo88 (big blind) collected (40)
+
+
+
+PokerStars Hand #259555513449: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:17:10 CET [2026/02/01 17:17:10 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (260 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: Carpallo88 (770 in chips) 
+Carpallo88: posts small blind 20
+laphil66666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2c]
+mabeal1: raises 40 to 80
+Carpallo88: folds 
+laphil66666: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: laphil66666 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (100)
+Seat 3: Carpallo88 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555519174: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:17:29 CET [2026/02/01 17:17:29 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (220 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: Carpallo88 (750 in chips) 
+laphil66666: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 8s]
+Carpallo88: calls 40
+laphil66666: folds 
+mabeal1: checks 
+*** FLOP *** [7d 6d 4c]
+mabeal1: checks 
+Carpallo88: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to Carpallo88
+Carpallo88 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7d 6d 4c]
+Seat 1: laphil66666 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: Carpallo88 (button) collected (100)
+
+
+
+PokerStars Hand #259555526449: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:17:53 CET [2026/02/01 17:17:53 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (200 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Carpallo88 (810 in chips) 
+mabeal1: posts small blind 20
+Carpallo88: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 7h]
+laphil66666: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Carpallo88
+Carpallo88 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: laphil66666 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Carpallo88 (big blind) collected (40)
+
+
+
+PokerStars Hand #259555528897: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:18:01 CET [2026/02/01 17:18:01 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (200 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: Carpallo88 (830 in chips) 
+Carpallo88: posts small blind 20
+laphil66666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Th]
+mabeal1: folds 
+Carpallo88: calls 20
+laphil66666: checks 
+*** FLOP *** [4s Ac 9d]
+Carpallo88: checks 
+laphil66666: checks 
+*** TURN *** [4s Ac 9d] [Ad]
+Carpallo88: checks 
+laphil66666: checks 
+*** RIVER *** [4s Ac 9d Ad] [2d]
+Carpallo88: checks 
+laphil66666: checks 
+*** SHOW DOWN ***
+Carpallo88: shows [6s 7c] (a pair of Aces)
+laphil66666: shows [8d 2h] (two pair, Aces and Deuces)
+laphil66666 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s Ac 9d Ad 2d]
+Seat 1: laphil66666 (big blind) showed [8d 2h] and won (80) with two pair, Aces and Deuces
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Carpallo88 (small blind) showed [6s 7c] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259555537522: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:18:30 CET [2026/02/01 17:18:30 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (240 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: Carpallo88 (790 in chips) 
+laphil66666: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Jh]
+Carpallo88: calls 40
+laphil66666: raises 200 to 240 and is all-in
+mabeal1: raises 230 to 470 and is all-in
+Carpallo88: folds 
+Uncalled bet (230) returned to mabeal1
+*** FLOP *** [5c 2s 6s]
+*** TURN *** [5c 2s 6s] [Th]
+*** RIVER *** [5c 2s 6s Th] [Ts]
+*** SHOW DOWN ***
+laphil66666: shows [2h As] (two pair, Tens and Deuces)
+mabeal1: shows [Kd Jh] (a pair of Tens)
+laphil66666 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [5c 2s 6s Th Ts]
+Seat 1: laphil66666 (small blind) showed [2h As] and won (520) with two pair, Tens and Deuces
+Seat 2: mabeal1 (big blind) showed [Kd Jh] and lost with a pair of Tens
+Seat 3: Carpallo88 (button) folded before Flop
+
+
+
+PokerStars Hand #259555545094: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 23:18:56 CET [2026/02/01 17:18:56 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (520 in chips) 
+Seat 2: mabeal1 (230 in chips) 
+Seat 3: Carpallo88 (750 in chips) 
+mabeal1: posts small blind 20
+Carpallo88: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 7s]
+laphil66666: calls 40
+mabeal1: raises 190 to 230 and is all-in
+Carpallo88: calls 190
+laphil66666: calls 190
+*** FLOP *** [2c 6c Qs]
+Carpallo88: bets 520 and is all-in
+laphil66666: folds 
+Uncalled bet (520) returned to Carpallo88
+*** TURN *** [2c 6c Qs] [7c]
+*** RIVER *** [2c 6c Qs 7c] [4h]
+*** SHOW DOWN ***
+mabeal1: shows [7h 7s] (three of a kind, Sevens)
+Carpallo88: shows [9d Td] (high card Queen)
+mabeal1 collected 690 from pot
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [2c 6c Qs 7c 4h]
+Seat 1: laphil66666 (button) folded on the Flop
+Seat 2: mabeal1 (small blind) showed [7h 7s] and won (690) with three of a kind, Sevens
+Seat 3: Carpallo88 (big blind) showed [9d Td] and lost with high card Queen
+
+
+
+PokerStars Hand #259555551912: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:19:19 CET [2026/02/01 17:19:19 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (290 in chips) 
+Seat 2: mabeal1 (690 in chips) 
+Seat 3: Carpallo88 (520 in chips) 
+Carpallo88: posts small blind 30
+laphil66666: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Ks]
+mabeal1: raises 60 to 120
+Carpallo88: calls 90
+laphil66666: folds 
+*** FLOP *** [4c Qh As]
+Carpallo88: checks 
+mabeal1: bets 120
+Carpallo88: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [4c Qh As]
+Seat 1: laphil66666 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (300)
+Seat 3: Carpallo88 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259555559690: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:19:45 CET [2026/02/01 17:19:45 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (230 in chips) 
+Seat 2: mabeal1 (870 in chips) 
+Seat 3: Carpallo88 (400 in chips) 
+laphil66666: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 4s]
+Carpallo88: folds 
+laphil66666: raises 170 to 230 and is all-in
+mabeal1: folds 
+Uncalled bet (170) returned to laphil66666
+laphil66666 collected 120 from pot
+laphil66666: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: laphil66666 (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Carpallo88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555562078: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:19:53 CET [2026/02/01 17:19:53 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (290 in chips) 
+Seat 2: mabeal1 (810 in chips) 
+Seat 3: Carpallo88 (400 in chips) 
+mabeal1: posts small blind 30
+Carpallo88: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Jh]
+laphil66666: raises 230 to 290 and is all-in
+mabeal1: raises 520 to 810 and is all-in
+Carpallo88: folds 
+Uncalled bet (520) returned to mabeal1
+*** FLOP *** [5d 9h 6h]
+*** TURN *** [5d 9h 6h] [Kd]
+*** RIVER *** [5d 9h 6h Kd] [3c]
+*** SHOW DOWN ***
+mabeal1: shows [Qc Jh] (high card King)
+laphil66666: shows [Kc 8s] (a pair of Kings)
+laphil66666 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [5d 9h 6h Kd 3c]
+Seat 1: laphil66666 (button) showed [Kc 8s] and won (640) with a pair of Kings
+Seat 2: mabeal1 (small blind) showed [Qc Jh] and lost with high card King
+Seat 3: Carpallo88 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259555566414: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:20:08 CET [2026/02/01 17:20:08 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (640 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Carpallo88 (340 in chips) 
+Carpallo88: posts small blind 30
+laphil66666: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Tc]
+mabeal1: folds 
+Carpallo88: folds 
+Uncalled bet (30) returned to laphil66666
+laphil66666 collected 60 from pot
+laphil66666: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: laphil66666 (big blind) collected (60)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Carpallo88 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259555568741: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:20:16 CET [2026/02/01 17:20:16 ET]
+Table '3971244859 1' 3-max Seat #3 is the button
+Seat 1: laphil66666 (670 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Carpallo88 (310 in chips) 
+laphil66666: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Qs]
+Carpallo88: folds 
+laphil66666: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: laphil66666 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: Carpallo88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259555570431: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:20:21 CET [2026/02/01 17:20:21 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (640 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: Carpallo88 (310 in chips) 
+mabeal1: posts small blind 30
+Carpallo88: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 8h]
+laphil66666: folds 
+mabeal1: raises 490 to 550 and is all-in
+Carpallo88: folds 
+Uncalled bet (490) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: laphil66666 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (120)
+Seat 3: Carpallo88 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259555574802: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:20:36 CET [2026/02/01 17:20:36 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (640 in chips) 
+Seat 2: mabeal1 (610 in chips) 
+Seat 3: Carpallo88 (250 in chips) 
+Carpallo88: posts small blind 30
+laphil66666: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Qs]
+mabeal1: raises 550 to 610 and is all-in
+Carpallo88: calls 220 and is all-in
+laphil66666: folds 
+Uncalled bet (360) returned to mabeal1
+*** FLOP *** [Qd 6s 5h]
+*** TURN *** [Qd 6s 5h] [3c]
+*** RIVER *** [Qd 6s 5h 3c] [Ts]
+*** SHOW DOWN ***
+Carpallo88: shows [Td Js] (a pair of Tens)
+mabeal1: shows [Ah Qs] (a pair of Queens)
+mabeal1 collected 560 from pot
+Carpallo88 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [Qd 6s 5h 3c Ts]
+Seat 1: laphil66666 (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [Ah Qs] and won (560) with a pair of Queens
+Seat 3: Carpallo88 (small blind) showed [Td Js] and lost with a pair of Tens
+
+
+
+PokerStars Hand #259555582849: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:21:03 CET [2026/02/01 17:21:03 ET]
+Table '3971244859 1' 3-max Seat #1 is the button
+Seat 1: laphil66666 (580 in chips) 
+Seat 2: mabeal1 (920 in chips) 
+laphil66666: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Kd]
+laphil66666: calls 30
+mabeal1: raises 860 to 920 and is all-in
+laphil66666: folds 
+Uncalled bet (860) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: laphil66666 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259555586163: Tournament #3971244859, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 23:21:14 CET [2026/02/01 17:21:14 ET]
+Table '3971244859 1' 3-max Seat #2 is the button
+Seat 1: laphil66666 (520 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+mabeal1: posts small blind 30
+laphil66666: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jc]
+mabeal1: raises 920 to 980 and is all-in
+laphil66666: calls 460 and is all-in
+Uncalled bet (460) returned to mabeal1
+*** FLOP *** [Jd 4c 7d]
+*** TURN *** [Jd 4c 7d] [As]
+*** RIVER *** [Jd 4c 7d As] [Ah]
+*** SHOW DOWN ***
+laphil66666: shows [Ts 9d] (a pair of Aces)
+mabeal1: shows [Ad Jc] (a full house, Aces full of Jacks)
+mabeal1 collected 1040 from pot
+laphil66666 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Jd 4c 7d As Ah]
+Seat 1: laphil66666 (big blind) showed [Ts 9d] and lost with a pair of Aces
+Seat 2: mabeal1 (button) (small blind) showed [Ad Jc] and won (1040) with a full house, Aces full of Jacks
+
+
+

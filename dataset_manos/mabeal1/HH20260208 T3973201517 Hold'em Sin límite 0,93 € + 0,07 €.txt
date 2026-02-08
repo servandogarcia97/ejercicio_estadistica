@@ -1,0 +1,536 @@
+﻿PokerStars Hand #259640253498: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:53:33 CET [2026/02/08 3:53:33 ET]
+Table '3973201517 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Paulomoura20 (500 in chips) 
+Seat 3: m69p (500 in chips) 
+Paulomoura20: posts small blind 10
+m69p: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Qs]
+mabeal1: folds 
+Paulomoura20: calls 10
+m69p: checks 
+*** FLOP *** [6h Jd 6s]
+Paulomoura20: bets 20
+m69p: folds 
+Uncalled bet (20) returned to Paulomoura20
+Paulomoura20 collected 40 from pot
+Paulomoura20: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6h Jd 6s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Paulomoura20 (small blind) collected (40)
+Seat 3: m69p (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259640255171: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:53:54 CET [2026/02/08 3:53:54 ET]
+Table '3973201517 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Paulomoura20 (520 in chips) 
+Seat 3: m69p (480 in chips) 
+m69p: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 5s]
+Paulomoura20: calls 20
+m69p: calls 10
+mabeal1: checks 
+*** FLOP *** [4h Kh Kd]
+m69p: checks 
+mabeal1: checks 
+Paulomoura20: checks 
+*** TURN *** [4h Kh Kd] [Qs]
+m69p: checks 
+mabeal1: checks 
+Paulomoura20: bets 20
+m69p: calls 20
+mabeal1: folds 
+*** RIVER *** [4h Kh Kd Qs] [2c]
+m69p: checks 
+Paulomoura20: bets 60
+m69p: folds 
+Uncalled bet (60) returned to Paulomoura20
+Paulomoura20 collected 100 from pot
+Paulomoura20: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4h Kh Kd Qs 2c]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Paulomoura20 (button) collected (100)
+Seat 3: m69p (small blind) folded on the River
+
+
+
+PokerStars Hand #259640258986: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:54:45 CET [2026/02/08 3:54:45 ET]
+Table '3973201517 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: Paulomoura20 (580 in chips) 
+Seat 3: m69p (440 in chips) 
+mabeal1: posts small blind 10
+Paulomoura20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2c]
+m69p: folds 
+mabeal1: raises 30 to 50
+Paulomoura20: calls 30
+*** FLOP *** [3h Js 5s]
+mabeal1: bets 50
+Paulomoura20: folds 
+Uncalled bet (50) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3h Js 5s]
+Seat 1: mabeal1 (small blind) collected (100)
+Seat 2: Paulomoura20 (big blind) folded on the Flop
+Seat 3: m69p (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259640259966: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:54:58 CET [2026/02/08 3:54:58 ET]
+Table '3973201517 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Paulomoura20 (530 in chips) 
+Seat 3: m69p (440 in chips) 
+Paulomoura20: posts small blind 10
+m69p: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 6s]
+mabeal1: folds 
+Paulomoura20: folds 
+Uncalled bet (10) returned to m69p
+m69p collected 20 from pot
+m69p: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Paulomoura20 (small blind) folded before Flop
+Seat 3: m69p (big blind) collected (20)
+
+
+
+PokerStars Hand #259640260438: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:55:04 CET [2026/02/08 3:55:04 ET]
+Table '3973201517 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Paulomoura20 (520 in chips) 
+Seat 3: m69p (450 in chips) 
+m69p: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 4s]
+Paulomoura20: calls 20
+m69p: folds 
+mabeal1: raises 510 to 530 and is all-in
+Paulomoura20: folds 
+Uncalled bet (510) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (50)
+Seat 2: Paulomoura20 (button) folded before Flop
+Seat 3: m69p (small blind) folded before Flop
+
+
+
+PokerStars Hand #259640261095: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:55:13 CET [2026/02/08 3:55:13 ET]
+Table '3973201517 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: Paulomoura20 (500 in chips) 
+Seat 3: m69p (440 in chips) 
+mabeal1: posts small blind 10
+Paulomoura20: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 3s]
+m69p: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Paulomoura20
+Paulomoura20 collected 20 from pot
+Paulomoura20: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Paulomoura20 (big blind) collected (20)
+Seat 3: m69p (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259640261547: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:55:20 CET [2026/02/08 3:55:20 ET]
+Table '3973201517 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: Paulomoura20 (510 in chips) 
+Seat 3: m69p (440 in chips) 
+Paulomoura20: posts small blind 10
+m69p: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 3s]
+mabeal1: folds 
+Paulomoura20: raises 20 to 40
+m69p: folds 
+Uncalled bet (20) returned to Paulomoura20
+Paulomoura20 collected 40 from pot
+Paulomoura20: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Paulomoura20 (small blind) collected (40)
+Seat 3: m69p (big blind) folded before Flop
+
+
+
+PokerStars Hand #259640262366: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:55:33 CET [2026/02/08 3:55:33 ET]
+Table '3973201517 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: Paulomoura20 (530 in chips) 
+Seat 3: m69p (420 in chips) 
+m69p: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 9d]
+Paulomoura20: calls 20
+m69p: folds 
+mabeal1: raises 530 to 550 and is all-in
+Paulomoura20: folds 
+Uncalled bet (530) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (50)
+Seat 2: Paulomoura20 (button) folded before Flop
+Seat 3: m69p (small blind) folded before Flop
+
+
+
+PokerStars Hand #259640263197: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:55:46 CET [2026/02/08 3:55:46 ET]
+Table '3973201517 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Paulomoura20 (510 in chips) 
+Seat 3: m69p (410 in chips) 
+mabeal1: posts small blind 15
+Paulomoura20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kd]
+m69p: raises 30 to 60
+mabeal1: folds 
+Paulomoura20: raises 60 to 120
+m69p: raises 290 to 410 and is all-in
+Paulomoura20: calls 290
+*** FLOP *** [As Js Td]
+*** TURN *** [As Js Td] [2c]
+*** RIVER *** [As Js Td 2c] [Ks]
+*** SHOW DOWN ***
+Paulomoura20: shows [Ad Ah] (three of a kind, Aces)
+m69p: shows [9d 9s] (a pair of Nines)
+Paulomoura20 collected 835 from pot
+m69p finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 835 | Rake 0 
+Board [As Js Td 2c Ks]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Paulomoura20 (big blind) showed [Ad Ah] and won (835) with three of a kind, Aces
+Seat 3: m69p (button) showed [9d 9s] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259640265285: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:56:17 CET [2026/02/08 3:56:17 ET]
+Table '3973201517 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (565 in chips) 
+Seat 2: Paulomoura20 (935 in chips) 
+Paulomoura20: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 4h]
+Paulomoura20: calls 15
+mabeal1: checks 
+*** FLOP *** [Th Jc Qc]
+mabeal1: checks 
+Paulomoura20: bets 30
+mabeal1: raises 60 to 90
+Paulomoura20: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th Jc Qc]
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: Paulomoura20 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259640266512: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:56:35 CET [2026/02/08 3:56:35 ET]
+Table '3973201517 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (625 in chips) 
+Seat 2: Paulomoura20 (875 in chips) 
+mabeal1: posts small blind 15
+Paulomoura20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Kh]
+mabeal1: calls 15
+Paulomoura20: checks 
+*** FLOP *** [7s 4h 6s]
+Paulomoura20: checks 
+mabeal1: checks 
+*** TURN *** [7s 4h 6s] [5s]
+Paulomoura20: bets 60
+mabeal1: raises 135 to 195
+Paulomoura20: calls 135
+*** RIVER *** [7s 4h 6s 5s] [4s]
+Paulomoura20: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Paulomoura20: shows [7d As] (a flush, Ace high)
+mabeal1: mucks hand 
+Paulomoura20 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [7s 4h 6s 5s 4s]
+Seat 1: mabeal1 (button) (small blind) mucked [8d Kh]
+Seat 2: Paulomoura20 (big blind) showed [7d As] and won (450) with a flush, Ace high
+
+
+
+PokerStars Hand #259640268501: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:57:05 CET [2026/02/08 3:57:05 ET]
+Table '3973201517 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: Paulomoura20 (1100 in chips) 
+Paulomoura20: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Td]
+Paulomoura20: calls 15
+mabeal1: checks 
+*** FLOP *** [Ad 3d 7h]
+mabeal1: checks 
+Paulomoura20: checks 
+*** TURN *** [Ad 3d 7h] [As]
+mabeal1: bets 45
+Paulomoura20: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ad 3d 7h As]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: Paulomoura20 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259640269887: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:57:25 CET [2026/02/08 3:57:25 ET]
+Table '3973201517 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: Paulomoura20 (1070 in chips) 
+mabeal1: posts small blind 15
+Paulomoura20: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Kh]
+mabeal1: calls 15
+Paulomoura20: checks 
+*** FLOP *** [Jc As 2s]
+Paulomoura20: checks 
+mabeal1: checks 
+*** TURN *** [Jc As 2s] [Ks]
+Paulomoura20: bets 30
+mabeal1: calls 30
+*** RIVER *** [Jc As 2s Ks] [Qs]
+Paulomoura20: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+Paulomoura20: shows [4h Tc] (a straight, Ten to Ace)
+mabeal1: shows [5s Kh] (a flush, Ace high)
+mabeal1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jc As 2s Ks Qs]
+Seat 1: mabeal1 (button) (small blind) showed [5s Kh] and won (180) with a flush, Ace high
+Seat 2: Paulomoura20 (big blind) showed [4h Tc] and lost with a straight, Ten to Ace
+
+
+
+PokerStars Hand #259640271462: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 9:57:49 CET [2026/02/08 3:57:49 ET]
+Table '3973201517 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: Paulomoura20 (980 in chips) 
+Paulomoura20: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 9h]
+Paulomoura20: calls 20
+mabeal1: raises 480 to 520 and is all-in
+Paulomoura20: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: Paulomoura20 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259640272228: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 9:58:00 CET [2026/02/08 3:58:00 ET]
+Table '3973201517 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: Paulomoura20 (940 in chips) 
+mabeal1: posts small blind 20
+Paulomoura20: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Kd]
+mabeal1: raises 40 to 80
+Paulomoura20: raises 40 to 120
+mabeal1: raises 440 to 560 and is all-in
+Paulomoura20: calls 440
+*** FLOP *** [Qc 6s Jd]
+*** TURN *** [Qc 6s Jd] [Ac]
+*** RIVER *** [Qc 6s Jd Ac] [Th]
+*** SHOW DOWN ***
+Paulomoura20: shows [Qs Kh] (a straight, Ten to Ace)
+mabeal1: shows [Kc Kd] (a straight, Ten to Ace)
+Paulomoura20 collected 560 from pot
+mabeal1 collected 560 from pot
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [Qc 6s Jd Ac Th]
+Seat 1: mabeal1 (button) (small blind) showed [Kc Kd] and won (560) with a straight, Ten to Ace
+Seat 2: Paulomoura20 (big blind) showed [Qs Kh] and won (560) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #259640273270: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 9:58:16 CET [2026/02/08 3:58:16 ET]
+Table '3973201517 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: Paulomoura20 (940 in chips) 
+Paulomoura20: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 4s]
+Paulomoura20: calls 20
+mabeal1: checks 
+*** FLOP *** [5s Tc 9s]
+mabeal1: checks 
+Paulomoura20: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Paulomoura20
+Paulomoura20 collected 80 from pot
+Paulomoura20: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5s Tc 9s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Paulomoura20 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259640275051: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 9:58:42 CET [2026/02/08 3:58:42 ET]
+Table '3973201517 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: Paulomoura20 (980 in chips) 
+mabeal1: posts small blind 20
+Paulomoura20: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6d]
+mabeal1: raises 480 to 520 and is all-in
+Paulomoura20: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: Paulomoura20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259640275494: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 9:58:49 CET [2026/02/08 3:58:49 ET]
+Table '3973201517 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: Paulomoura20 (940 in chips) 
+Paulomoura20: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8h]
+Paulomoura20: calls 20
+mabeal1: checks 
+*** FLOP *** [5h 2s Jc]
+mabeal1: checks 
+Paulomoura20: checks 
+*** TURN *** [5h 2s Jc] [As]
+mabeal1: bets 40
+Paulomoura20: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h 2s Jc As]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: Paulomoura20 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259640276282: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 9:59:01 CET [2026/02/08 3:59:01 ET]
+Table '3973201517 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: Paulomoura20 (900 in chips) 
+mabeal1: posts small blind 20
+Paulomoura20: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Kc]
+mabeal1: calls 20
+Paulomoura20: checks 
+*** FLOP *** [Kd Kh 4d]
+Paulomoura20: bets 40
+mabeal1: calls 40
+*** TURN *** [Kd Kh 4d] [Qc]
+Paulomoura20: bets 40
+mabeal1: raises 180 to 220
+Paulomoura20: raises 600 to 820 and is all-in
+mabeal1: calls 300 and is all-in
+Uncalled bet (300) returned to Paulomoura20
+*** RIVER *** [Kd Kh 4d Qc] [Jh]
+*** SHOW DOWN ***
+Paulomoura20: shows [7c Qh] (two pair, Kings and Queens)
+mabeal1: shows [2s Kc] (three of a kind, Kings)
+mabeal1 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [Kd Kh 4d Qc Jh]
+Seat 1: mabeal1 (button) (small blind) showed [2s Kc] and won (1200) with three of a kind, Kings
+Seat 2: Paulomoura20 (big blind) showed [7c Qh] and lost with two pair, Kings and Queens
+
+
+
+PokerStars Hand #259640278744: Tournament #3973201517, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/08 9:59:38 CET [2026/02/08 3:59:38 ET]
+Table '3973201517 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1200 in chips) 
+Seat 2: Paulomoura20 (300 in chips) 
+Paulomoura20: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Ks]
+Paulomoura20: calls 30
+mabeal1: raises 1140 to 1200 and is all-in
+Paulomoura20: calls 240 and is all-in
+Uncalled bet (900) returned to mabeal1
+*** FLOP *** [Qs 3d Kd]
+*** TURN *** [Qs 3d Kd] [Js]
+*** RIVER *** [Qs 3d Kd Js] [Th]
+*** SHOW DOWN ***
+mabeal1: shows [9c Ks] (a straight, Nine to King)
+Paulomoura20: shows [Jd 2d] (a pair of Jacks)
+mabeal1 collected 600 from pot
+Paulomoura20 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Qs 3d Kd Js Th]
+Seat 1: mabeal1 (big blind) showed [9c Ks] and won (600) with a straight, Nine to King
+Seat 2: Paulomoura20 (button) (small blind) showed [Jd 2d] and lost with a pair of Jacks
+
+
+

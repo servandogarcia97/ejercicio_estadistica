@@ -1,0 +1,479 @@
+﻿PokerStars Hand #259550128866: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:54:27 CET [2026/02/01 11:54:27 ET]
+Table '3971148921 1' 3-max Seat #1 is the button
+Seat 1: Depaul1 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: jose tari886 (500 in chips) 
+mabeal1: posts small blind 10
+jose tari886: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 2c]
+Depaul1: calls 20
+mabeal1: folds 
+jose tari886: checks 
+*** FLOP *** [8c 7d 9c]
+jose tari886: bets 40
+Depaul1: calls 40
+*** TURN *** [8c 7d 9c] [Qs]
+jose tari886: bets 80
+Depaul1: calls 80
+*** RIVER *** [8c 7d 9c Qs] [7h]
+jose tari886: bets 100
+Depaul1: calls 100
+*** SHOW DOWN ***
+jose tari886: shows [8h Js] (two pair, Eights and Sevens)
+Depaul1: mucks hand 
+jose tari886 collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [8c 7d 9c Qs 7h]
+Seat 1: Depaul1 (button) mucked [6d Jh]
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: jose tari886 (big blind) showed [8h Js] and won (490) with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #259550134813: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:54:52 CET [2026/02/01 11:54:52 ET]
+Table '3971148921 1' 3-max Seat #2 is the button
+Seat 1: Depaul1 (260 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: jose tari886 (750 in chips) 
+jose tari886: posts small blind 10
+Depaul1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 6d]
+mabeal1: folds 
+jose tari886: calls 10
+Depaul1: checks 
+*** FLOP *** [3s 8c 9h]
+jose tari886: checks 
+Depaul1: checks 
+*** TURN *** [3s 8c 9h] [Qc]
+jose tari886: checks 
+Depaul1: bets 20
+jose tari886: folds 
+Uncalled bet (20) returned to Depaul1
+Depaul1 collected 40 from pot
+Depaul1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3s 8c 9h Qc]
+Seat 1: Depaul1 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: jose tari886 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259550140969: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:55:22 CET [2026/02/01 11:55:22 ET]
+Table '3971148921 1' 3-max Seat #3 is the button
+Seat 1: Depaul1 (280 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: jose tari886 (730 in chips) 
+Depaul1: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Qs]
+jose tari886: folds 
+Depaul1: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [4s 5c 8h]
+Depaul1: bets 20
+mabeal1: calls 20
+*** TURN *** [4s 5c 8h] [As]
+Depaul1: bets 20
+mabeal1: raises 120 to 140
+Depaul1: calls 120
+*** RIVER *** [4s 5c 8h As] [3c]
+Depaul1: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Depaul1: shows [8s Jh] (a pair of Eights)
+mabeal1: mucks hand 
+Depaul1 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [4s 5c 8h As 3c]
+Seat 1: Depaul1 (small blind) showed [8s Jh] and won (400) with a pair of Eights
+Seat 2: mabeal1 (big blind) mucked [9d Qs]
+Seat 3: jose tari886 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259550145563: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:55:52 CET [2026/02/01 11:55:52 ET]
+Table '3971148921 1' 3-max Seat #1 is the button
+Seat 1: Depaul1 (480 in chips) 
+Seat 2: mabeal1 (290 in chips) 
+Seat 3: jose tari886 (730 in chips) 
+mabeal1: posts small blind 10
+jose tari886: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 9c]
+Depaul1: calls 20
+mabeal1: calls 10
+jose tari886: checks 
+*** FLOP *** [5s 3h Qs]
+mabeal1: checks 
+jose tari886: bets 20
+Depaul1: raises 20 to 40
+mabeal1: folds 
+jose tari886: calls 20
+*** TURN *** [5s 3h Qs] [Ac]
+jose tari886: checks 
+Depaul1: bets 160
+jose tari886: folds 
+Uncalled bet (160) returned to Depaul1
+Depaul1 collected 140 from pot
+Depaul1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [5s 3h Qs Ac]
+Seat 1: Depaul1 (button) collected (140)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: jose tari886 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259550150232: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:56:23 CET [2026/02/01 11:56:23 ET]
+Table '3971148921 1' 3-max Seat #2 is the button
+Seat 1: Depaul1 (560 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: jose tari886 (670 in chips) 
+jose tari886: posts small blind 10
+Depaul1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Jd]
+mabeal1: raises 20 to 40
+jose tari886: folds 
+Depaul1: calls 20
+*** FLOP *** [6s 6d Tc]
+Depaul1: checks 
+mabeal1: bets 20
+Depaul1: calls 20
+*** TURN *** [6s 6d Tc] [4h]
+Depaul1: checks 
+mabeal1: bets 210 and is all-in
+Depaul1: calls 210
+*** RIVER *** [6s 6d Tc 4h] [2c]
+*** SHOW DOWN ***
+Depaul1: shows [5h 7d] (a pair of Sixes)
+mabeal1: shows [8s Jd] (a pair of Sixes - Jack kicker)
+mabeal1 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [6s 6d Tc 4h 2c]
+Seat 1: Depaul1 (big blind) showed [5h 7d] and lost with a pair of Sixes
+Seat 2: mabeal1 (button) showed [8s Jd] and won (550) with a pair of Sixes
+Seat 3: jose tari886 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259550154222: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:56:49 CET [2026/02/01 11:56:49 ET]
+Table '3971148921 1' 3-max Seat #3 is the button
+Seat 1: Depaul1 (290 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: jose tari886 (660 in chips) 
+Depaul1: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 4h]
+jose tari886: folds 
+Depaul1: calls 15
+mabeal1: checks 
+*** FLOP *** [9s 7d 9h]
+Depaul1: checks 
+mabeal1: checks 
+*** TURN *** [9s 7d 9h] [5c]
+Depaul1: checks 
+mabeal1: checks 
+*** RIVER *** [9s 7d 9h 5c] [6s]
+Depaul1: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Depaul1
+Depaul1 collected 60 from pot
+Depaul1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s 7d 9h 5c 6s]
+Seat 1: Depaul1 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: jose tari886 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259550157443: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:57:09 CET [2026/02/01 11:57:09 ET]
+Table '3971148921 1' 3-max Seat #1 is the button
+Seat 1: Depaul1 (320 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: jose tari886 (660 in chips) 
+mabeal1: posts small blind 15
+jose tari886: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 6c]
+Depaul1: calls 30
+mabeal1: calls 15
+jose tari886: checks 
+*** FLOP *** [7h Ad 2s]
+mabeal1: checks 
+jose tari886: bets 30
+Depaul1: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to jose tari886
+jose tari886 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [7h Ad 2s]
+Seat 1: Depaul1 (button) folded on the Flop
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: jose tari886 (big blind) collected (90)
+
+
+
+PokerStars Hand #259550159787: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:57:25 CET [2026/02/01 11:57:25 ET]
+Table '3971148921 1' 3-max Seat #2 is the button
+Seat 1: Depaul1 (290 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: jose tari886 (720 in chips) 
+jose tari886: posts small blind 15
+Depaul1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 3d]
+mabeal1: folds 
+jose tari886: calls 15
+Depaul1: checks 
+*** FLOP *** [2s 9d 4h]
+jose tari886: bets 60
+Depaul1: folds 
+Uncalled bet (60) returned to jose tari886
+jose tari886 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2s 9d 4h]
+Seat 1: Depaul1 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: jose tari886 (small blind) collected (60)
+
+
+
+PokerStars Hand #259550162386: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:57:41 CET [2026/02/01 11:57:41 ET]
+Table '3971148921 1' 3-max Seat #3 is the button
+Seat 1: Depaul1 (260 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: jose tari886 (750 in chips) 
+Depaul1: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ac]
+jose tari886: folds 
+Depaul1: calls 15
+mabeal1: raises 460 to 490 and is all-in
+Depaul1: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Depaul1 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: jose tari886 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259550164615: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:57:56 CET [2026/02/01 11:57:56 ET]
+Table '3971148921 1' 3-max Seat #1 is the button
+Seat 1: Depaul1 (230 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: jose tari886 (750 in chips) 
+mabeal1: posts small blind 15
+jose tari886: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 9s]
+Depaul1: calls 30
+mabeal1: calls 15
+jose tari886: raises 720 to 750 and is all-in
+Depaul1: calls 200 and is all-in
+mabeal1: folds 
+Uncalled bet (520) returned to jose tari886
+*** FLOP *** [2d 2s 8d]
+*** TURN *** [2d 2s 8d] [3d]
+*** RIVER *** [2d 2s 8d 3d] [5c]
+*** SHOW DOWN ***
+jose tari886: shows [Ah 8c] (two pair, Eights and Deuces)
+Depaul1: shows [Ad Kc] (a pair of Deuces)
+jose tari886 collected 490 from pot
+Depaul1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [2d 2s 8d 3d 5c]
+Seat 1: Depaul1 (button) showed [Ad Kc] and lost with a pair of Deuces
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: jose tari886 (big blind) showed [Ah 8c] and won (490) with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #259550167575: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:58:15 CET [2026/02/01 11:58:15 ET]
+Table '3971148921 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: jose tari886 (1010 in chips) 
+jose tari886: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 8s]
+jose tari886: calls 15
+mabeal1: checks 
+*** FLOP *** [Qs Th 9s]
+mabeal1: checks 
+jose tari886: checks 
+*** TURN *** [Qs Th 9s] [Ts]
+mabeal1: checks 
+jose tari886: bets 60
+mabeal1: calls 60
+*** RIVER *** [Qs Th 9s Ts] [3c]
+mabeal1: checks 
+jose tari886: checks 
+*** SHOW DOWN ***
+mabeal1: shows [9h 8s] (two pair, Tens and Nines)
+jose tari886: shows [Td 6c] (three of a kind, Tens)
+jose tari886 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qs Th 9s Ts 3c]
+Seat 2: mabeal1 (big blind) showed [9h 8s] and lost with two pair, Tens and Nines
+Seat 3: jose tari886 (button) (small blind) showed [Td 6c] and won (180) with three of a kind, Tens
+
+
+
+PokerStars Hand #259550171665: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 17:58:42 CET [2026/02/01 11:58:42 ET]
+Table '3971148921 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: jose tari886 (1100 in chips) 
+mabeal1: posts small blind 20
+jose tari886: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7h]
+mabeal1: calls 20
+jose tari886: checks 
+*** FLOP *** [3s 6s Th]
+jose tari886: checks 
+mabeal1: checks 
+*** TURN *** [3s 6s Th] [7c]
+jose tari886: checks 
+mabeal1: bets 60
+jose tari886: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s 6s Th 7c]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: jose tari886 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259550173751: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 17:58:55 CET [2026/02/01 11:58:55 ET]
+Table '3971148921 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: jose tari886 (1060 in chips) 
+jose tari886: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Qs]
+jose tari886: raises 40 to 80
+mabeal1: raises 360 to 440 and is all-in
+jose tari886: folds 
+Uncalled bet (360) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: jose tari886 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259550175334: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 17:59:05 CET [2026/02/01 11:59:05 ET]
+Table '3971148921 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: jose tari886 (980 in chips) 
+mabeal1: posts small blind 20
+jose tari886: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 4h]
+mabeal1: calls 20
+jose tari886: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to jose tari886
+jose tari886 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jose tari886 (big blind) collected (80)
+
+
+
+PokerStars Hand #259550176661: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 17:59:13 CET [2026/02/01 11:59:13 ET]
+Table '3971148921 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: jose tari886 (1020 in chips) 
+jose tari886: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Ts]
+jose tari886: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: jose tari886 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259550177335: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 17:59:18 CET [2026/02/01 11:59:18 ET]
+Table '3971148921 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: jose tari886 (1000 in chips) 
+mabeal1: posts small blind 20
+jose tari886: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 4c]
+mabeal1: calls 20
+jose tari886: raises 960 to 1000 and is all-in
+mabeal1: folds 
+Uncalled bet (960) returned to jose tari886
+jose tari886 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jose tari886 (big blind) collected (80)
+
+
+
+PokerStars Hand #259550178501: Tournament #3971148921, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 17:59:25 CET [2026/02/01 11:59:25 ET]
+Table '3971148921 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: jose tari886 (1040 in chips) 
+jose tari886: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Kh]
+jose tari886: raises 1000 to 1040 and is all-in
+mabeal1: calls 420 and is all-in
+Uncalled bet (580) returned to jose tari886
+*** FLOP *** [8s 7c Jh]
+*** TURN *** [8s 7c Jh] [2c]
+*** RIVER *** [8s 7c Jh 2c] [6c]
+*** SHOW DOWN ***
+mabeal1: shows [9s Kh] (high card King)
+jose tari886: shows [Ah 8c] (a pair of Eights)
+jose tari886 collected 920 from pot
+mabeal1 finished the tournament in 2nd place
+jose tari886 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [8s 7c Jh 2c 6c]
+Seat 2: mabeal1 (big blind) showed [9s Kh] and lost with high card King
+Seat 3: jose tari886 (button) (small blind) showed [Ah 8c] and won (920) with a pair of Eights
+
+
+

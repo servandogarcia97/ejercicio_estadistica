@@ -1,0 +1,620 @@
+﻿PokerStars Hand #259596555434: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:08:35 CET [2026/02/04 20:08:35 ET]
+Table '3972180752 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Iveli C.M (500 in chips) 
+Seat 3: Tchiko212 (500 in chips) 
+Iveli C.M: posts small blind 10
+Tchiko212: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h As]
+mabeal1: raises 20 to 40
+Iveli C.M: folds 
+Tchiko212: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: Iveli C.M (small blind) folded before Flop
+Seat 3: Tchiko212 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259596557416: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:08:48 CET [2026/02/04 20:08:48 ET]
+Table '3972180752 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Iveli C.M (490 in chips) 
+Seat 3: Tchiko212 (480 in chips) 
+Tchiko212: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Jh]
+Iveli C.M: folds 
+Tchiko212: calls 10
+mabeal1: checks 
+*** FLOP *** [2h 7d Kh]
+Tchiko212: checks 
+mabeal1: checks 
+*** TURN *** [2h 7d Kh] [2d]
+Tchiko212: checks 
+mabeal1: checks 
+*** RIVER *** [2h 7d Kh 2d] [8d]
+Tchiko212: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Tchiko212: shows [Qs 4d] (a pair of Deuces)
+mabeal1: mucks hand 
+Tchiko212 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2h 7d Kh 2d 8d]
+Seat 1: mabeal1 (big blind) mucked [5d Jh]
+Seat 2: Iveli C.M (button) folded before Flop (didn't bet)
+Seat 3: Tchiko212 (small blind) showed [Qs 4d] and won (40) with a pair of Deuces
+
+
+
+PokerStars Hand #259596561372: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:09:14 CET [2026/02/04 20:09:14 ET]
+Table '3972180752 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Iveli C.M (490 in chips) 
+Seat 3: Tchiko212 (500 in chips) 
+mabeal1: posts small blind 10
+Iveli C.M: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 2s]
+Tchiko212: calls 20
+mabeal1: folds 
+Iveli C.M: checks 
+*** FLOP *** [6d Qd 8d]
+Iveli C.M: checks 
+Tchiko212: bets 50
+Iveli C.M: calls 50
+*** TURN *** [6d Qd 8d] [Kd]
+Iveli C.M: checks 
+Tchiko212: checks 
+*** RIVER *** [6d Qd 8d Kd] [2d]
+Iveli C.M: bets 20
+Tchiko212: calls 20
+*** SHOW DOWN ***
+Iveli C.M: shows [9s 5d] (a flush, King high)
+Tchiko212: shows [9c 7d] (a flush, King high - Seven higher)
+Tchiko212 collected 190 from pot
+*** SUMMARY ***
+Total pot 190 | Rake 0 
+Board [6d Qd 8d Kd 2d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Iveli C.M (big blind) showed [9s 5d] and lost with a flush, King high
+Seat 3: Tchiko212 (button) showed [9c 7d] and won (190) with a flush, King high
+
+
+
+PokerStars Hand #259596566926: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:09:50 CET [2026/02/04 20:09:50 ET]
+Table '3972180752 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Iveli C.M (400 in chips) 
+Seat 3: Tchiko212 (600 in chips) 
+Iveli C.M: posts small blind 10
+Tchiko212: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 5h]
+mabeal1: raises 20 to 40
+Iveli C.M: raises 20 to 60
+Tchiko212: raises 20 to 80
+mabeal1: calls 40
+Iveli C.M: calls 20
+*** FLOP *** [2h Kd 7d]
+Iveli C.M: bets 320 and is all-in
+Tchiko212: folds 
+mabeal1: folds 
+Uncalled bet (320) returned to Iveli C.M
+Iveli C.M collected 240 from pot
+Iveli C.M: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h Kd 7d]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: Iveli C.M (small blind) collected (240)
+Seat 3: Tchiko212 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259596570497: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:10:13 CET [2026/02/04 20:10:13 ET]
+Table '3972180752 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: Iveli C.M (560 in chips) 
+Seat 3: Tchiko212 (520 in chips) 
+Tchiko212: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7c]
+Iveli C.M: folds 
+Tchiko212: calls 10
+mabeal1: checks 
+*** FLOP *** [5c Ks 7d]
+Tchiko212: checks 
+mabeal1: checks 
+*** TURN *** [5c Ks 7d] [Qd]
+Tchiko212: checks 
+mabeal1: checks 
+*** RIVER *** [5c Ks 7d Qd] [6s]
+Tchiko212: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Tchiko212
+Tchiko212 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5c Ks 7d Qd 6s]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: Iveli C.M (button) folded before Flop (didn't bet)
+Seat 3: Tchiko212 (small blind) collected (40)
+
+
+
+PokerStars Hand #259596575981: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:10:49 CET [2026/02/04 20:10:49 ET]
+Table '3972180752 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: Iveli C.M (560 in chips) 
+Seat 3: Tchiko212 (540 in chips) 
+mabeal1: posts small blind 15
+Iveli C.M: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 8d]
+Tchiko212: folds 
+mabeal1: raises 30 to 60
+Iveli C.M: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: Iveli C.M (big blind) folded before Flop
+Seat 3: Tchiko212 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259596577531: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:10:59 CET [2026/02/04 20:10:59 ET]
+Table '3972180752 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: Iveli C.M (530 in chips) 
+Seat 3: Tchiko212 (540 in chips) 
+Iveli C.M: posts small blind 15
+Tchiko212: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 8h]
+mabeal1: folds 
+Iveli C.M: calls 15
+Tchiko212: checks 
+*** FLOP *** [Jd 2h Jc]
+Iveli C.M: checks 
+Tchiko212: checks 
+*** TURN *** [Jd 2h Jc] [7s]
+Iveli C.M: checks 
+Tchiko212: checks 
+*** RIVER *** [Jd 2h Jc 7s] [As]
+Iveli C.M: checks 
+Tchiko212: checks 
+*** SHOW DOWN ***
+Iveli C.M: shows [8d 5h] (a pair of Jacks)
+Tchiko212: shows [6s Kh] (a pair of Jacks - Ace+King kicker)
+Tchiko212 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 2h Jc 7s As]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Iveli C.M (small blind) showed [8d 5h] and lost with a pair of Jacks
+Seat 3: Tchiko212 (big blind) showed [6s Kh] and won (60) with a pair of Jacks
+
+
+
+PokerStars Hand #259596580603: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:11:20 CET [2026/02/04 20:11:20 ET]
+Table '3972180752 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: Iveli C.M (500 in chips) 
+Seat 3: Tchiko212 (570 in chips) 
+Tchiko212: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 9d]
+Iveli C.M: calls 30
+Tchiko212: calls 15
+mabeal1: checks 
+*** FLOP *** [Ac Th Jc]
+Tchiko212: checks 
+mabeal1: checks 
+Iveli C.M: checks 
+*** TURN *** [Ac Th Jc] [Kd]
+Tchiko212: checks 
+mabeal1: checks 
+Iveli C.M: checks 
+*** RIVER *** [Ac Th Jc Kd] [7s]
+Tchiko212: bets 270
+mabeal1: folds 
+Iveli C.M: folds 
+Uncalled bet (270) returned to Tchiko212
+Tchiko212 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ac Th Jc Kd 7s]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: Iveli C.M (button) folded on the River
+Seat 3: Tchiko212 (small blind) collected (90)
+
+
+
+PokerStars Hand #259596587121: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:12:01 CET [2026/02/04 20:12:01 ET]
+Table '3972180752 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: Iveli C.M (470 in chips) 
+Seat 3: Tchiko212 (630 in chips) 
+mabeal1: posts small blind 15
+Iveli C.M: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Qs]
+Tchiko212: calls 30
+mabeal1: raises 60 to 90
+Iveli C.M: calls 60
+Tchiko212: raises 60 to 150
+mabeal1: raises 250 to 400 and is all-in
+Iveli C.M: folds 
+Tchiko212: calls 250
+*** FLOP *** [Kh 3h 3s]
+*** TURN *** [Kh 3h 3s] [2s]
+*** RIVER *** [Kh 3h 3s 2s] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [Ad Qs] (two pair, Threes and Deuces)
+Tchiko212: shows [7c Qc] (two pair, Threes and Deuces - lower kicker)
+mabeal1 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [Kh 3h 3s 2s 2h]
+Seat 1: mabeal1 (small blind) showed [Ad Qs] and won (890) with two pair, Threes and Deuces
+Seat 2: Iveli C.M (big blind) folded before Flop
+Seat 3: Tchiko212 (button) showed [7c Qc] and lost with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #259596590896: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:12:26 CET [2026/02/04 20:12:26 ET]
+Table '3972180752 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 2: Iveli C.M (380 in chips) 
+Seat 3: Tchiko212 (230 in chips) 
+Iveli C.M: posts small blind 15
+Tchiko212: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 8h]
+mabeal1: folds 
+Iveli C.M: calls 15
+Tchiko212: raises 200 to 230 and is all-in
+Iveli C.M: folds 
+Uncalled bet (200) returned to Tchiko212
+Tchiko212 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Iveli C.M (small blind) folded before Flop
+Seat 3: Tchiko212 (big blind) collected (60)
+
+
+
+PokerStars Hand #259596593770: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:12:45 CET [2026/02/04 20:12:45 ET]
+Table '3972180752 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 2: Iveli C.M (350 in chips) 
+Seat 3: Tchiko212 (260 in chips) 
+Tchiko212: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Qd]
+Iveli C.M: raises 40 to 80
+Tchiko212: calls 60
+mabeal1: folds 
+*** FLOP *** [Kd 9c 6s]
+Tchiko212: bets 180 and is all-in
+Iveli C.M: folds 
+Uncalled bet (180) returned to Tchiko212
+Tchiko212 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Kd 9c 6s]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Iveli C.M (button) folded on the Flop
+Seat 3: Tchiko212 (small blind) collected (200)
+
+
+
+PokerStars Hand #259596596226: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:13:02 CET [2026/02/04 20:13:02 ET]
+Table '3972180752 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (850 in chips) 
+Seat 2: Iveli C.M (270 in chips) 
+Seat 3: Tchiko212 (380 in chips) 
+mabeal1: posts small blind 20
+Iveli C.M: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ts]
+Tchiko212: raises 340 to 380 and is all-in
+mabeal1: folds 
+Iveli C.M: folds 
+Uncalled bet (340) returned to Tchiko212
+Tchiko212 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Iveli C.M (big blind) folded before Flop
+Seat 3: Tchiko212 (button) collected (100)
+
+
+
+PokerStars Hand #259596598259: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:13:15 CET [2026/02/04 20:13:15 ET]
+Table '3972180752 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 2: Iveli C.M (230 in chips) 
+Seat 3: Tchiko212 (440 in chips) 
+Iveli C.M: posts small blind 20
+Tchiko212: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Qh]
+mabeal1: raises 40 to 80
+Iveli C.M: calls 60
+Tchiko212: calls 40
+*** FLOP *** [6d 4d 6c]
+Iveli C.M: checks 
+Tchiko212: bets 360 and is all-in
+mabeal1: calls 360
+Iveli C.M: folds 
+*** TURN *** [6d 4d 6c] [3s]
+*** RIVER *** [6d 4d 6c 3s] [3h]
+*** SHOW DOWN ***
+Tchiko212: shows [4h 4c] (a full house, Fours full of Sixes)
+mabeal1: shows [Qd Qh] (two pair, Queens and Sixes)
+Tchiko212 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [6d 4d 6c 3s 3h]
+Seat 1: mabeal1 (button) showed [Qd Qh] and lost with two pair, Queens and Sixes
+Seat 2: Iveli C.M (small blind) folded on the Flop
+Seat 3: Tchiko212 (big blind) showed [4h 4c] and won (960) with a full house, Fours full of Sixes
+
+
+
+PokerStars Hand #259596602153: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:13:41 CET [2026/02/04 20:13:41 ET]
+Table '3972180752 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (390 in chips) 
+Seat 2: Iveli C.M (150 in chips) 
+Seat 3: Tchiko212 (960 in chips) 
+Tchiko212: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2d]
+Iveli C.M: folds 
+Tchiko212: calls 20
+mabeal1: checks 
+*** FLOP *** [Td Jd 6d]
+Tchiko212: bets 920 and is all-in
+mabeal1: calls 350 and is all-in
+Uncalled bet (570) returned to Tchiko212
+*** TURN *** [Td Jd 6d] [Qc]
+*** RIVER *** [Td Jd 6d Qc] [Jh]
+*** SHOW DOWN ***
+Tchiko212: shows [8h 7s] (a pair of Jacks)
+mabeal1: shows [Qd 2d] (a flush, Queen high)
+mabeal1 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Td Jd 6d Qc Jh]
+Seat 1: mabeal1 (big blind) showed [Qd 2d] and won (780) with a flush, Queen high
+Seat 2: Iveli C.M (button) folded before Flop (didn't bet)
+Seat 3: Tchiko212 (small blind) showed [8h 7s] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259596605458: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:14:03 CET [2026/02/04 20:14:03 ET]
+Table '3972180752 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 2: Iveli C.M (150 in chips) 
+Seat 3: Tchiko212 (570 in chips) 
+mabeal1: posts small blind 20
+Iveli C.M: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 4h]
+Tchiko212: raises 530 to 570 and is all-in
+mabeal1: folds 
+Iveli C.M: folds 
+Uncalled bet (530) returned to Tchiko212
+Tchiko212 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Iveli C.M (big blind) folded before Flop
+Seat 3: Tchiko212 (button) collected (100)
+
+
+
+PokerStars Hand #259596607717: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 2:14:18 CET [2026/02/04 20:14:18 ET]
+Table '3972180752 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (760 in chips) 
+Seat 2: Iveli C.M (110 in chips) 
+Seat 3: Tchiko212 (630 in chips) 
+Iveli C.M: posts small blind 20
+Tchiko212: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Jd]
+mabeal1: raises 40 to 80
+Iveli C.M: calls 60
+Tchiko212: calls 40
+*** FLOP *** [6c 6h Ad]
+Iveli C.M: checks 
+Tchiko212: checks 
+mabeal1: checks 
+*** TURN *** [6c 6h Ad] [Th]
+Iveli C.M: bets 30 and is all-in
+Tchiko212: raises 300 to 330
+mabeal1: folds 
+Uncalled bet (300) returned to Tchiko212
+*** RIVER *** [6c 6h Ad Th] [Ac]
+*** SHOW DOWN ***
+Iveli C.M: shows [7c 9c] (two pair, Aces and Sixes)
+Tchiko212: shows [Qs 4h] (two pair, Aces and Sixes - Queen kicker)
+Tchiko212 collected 300 from pot
+Iveli C.M finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6c 6h Ad Th Ac]
+Seat 1: mabeal1 (button) folded on the Turn
+Seat 2: Iveli C.M (small blind) showed [7c 9c] and lost with two pair, Aces and Sixes
+Seat 3: Tchiko212 (big blind) showed [Qs 4h] and won (300) with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #259596612170: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:14:48 CET [2026/02/04 20:14:48 ET]
+Table '3972180752 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (680 in chips) 
+Seat 3: Tchiko212 (820 in chips) 
+Tchiko212: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2h]
+Tchiko212: calls 30
+mabeal1: checks 
+*** FLOP *** [9s 8c Jd]
+mabeal1: checks 
+Tchiko212: checks 
+*** TURN *** [9s 8c Jd] [2c]
+mabeal1: bets 120
+Tchiko212: calls 120
+*** RIVER *** [9s 8c Jd 2c] [2s]
+mabeal1: bets 500 and is all-in
+Tchiko212: folds 
+Uncalled bet (500) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [9s 8c Jd 2c 2s]
+Seat 1: mabeal1 (big blind) collected (360)
+Seat 3: Tchiko212 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259596615864: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:15:12 CET [2026/02/04 20:15:12 ET]
+Table '3972180752 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (860 in chips) 
+Seat 3: Tchiko212 (640 in chips) 
+mabeal1: posts small blind 30
+Tchiko212: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 5h]
+mabeal1: calls 30
+Tchiko212: raises 60 to 120
+mabeal1: calls 60
+*** FLOP *** [As 2h Td]
+Tchiko212: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Tchiko212
+Tchiko212 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [As 2h Td]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: Tchiko212 (big blind) collected (240)
+
+
+
+PokerStars Hand #259596617994: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:15:26 CET [2026/02/04 20:15:26 ET]
+Table '3972180752 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (740 in chips) 
+Seat 3: Tchiko212 (760 in chips) 
+Tchiko212: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4h]
+Tchiko212: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: Tchiko212 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259596618741: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:15:31 CET [2026/02/04 20:15:31 ET]
+Table '3972180752 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (770 in chips) 
+Seat 3: Tchiko212 (730 in chips) 
+mabeal1: posts small blind 30
+Tchiko212: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ad]
+mabeal1: raises 710 to 770 and is all-in
+Tchiko212: calls 670 and is all-in
+Uncalled bet (40) returned to mabeal1
+*** FLOP *** [5d Qd 5h]
+*** TURN *** [5d Qd 5h] [4h]
+*** RIVER *** [5d Qd 5h 4h] [9c]
+*** SHOW DOWN ***
+Tchiko212: shows [Kh As] (a pair of Fives)
+mabeal1: shows [2h Ad] (a pair of Fives - lower kicker)
+Tchiko212 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | Rake 0 
+Board [5d Qd 5h 4h 9c]
+Seat 1: mabeal1 (button) (small blind) showed [2h Ad] and lost with a pair of Fives
+Seat 3: Tchiko212 (big blind) showed [Kh As] and won (1460) with a pair of Fives
+
+
+
+PokerStars Hand #259596620693: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:15:43 CET [2026/02/04 20:15:43 ET]
+Table '3972180752 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (40 in chips) 
+Seat 3: Tchiko212 (1460 in chips) 
+Tchiko212: posts small blind 30
+mabeal1: posts big blind 40 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 3d]
+Tchiko212: calls 10
+*** FLOP *** [7c Kc Ks]
+*** TURN *** [7c Kc Ks] [5c]
+*** RIVER *** [7c Kc Ks 5c] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [7s 3d] (two pair, Kings and Sevens)
+Tchiko212: shows [5d 9d] (two pair, Kings and Fives)
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7c Kc Ks 5c 2h]
+Seat 1: mabeal1 (big blind) showed [7s 3d] and won (80) with two pair, Kings and Sevens
+Seat 3: Tchiko212 (button) (small blind) showed [5d 9d] and lost with two pair, Kings and Fives
+
+
+
+PokerStars Hand #259596623068: Tournament #3972180752, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 2:15:59 CET [2026/02/04 20:15:59 ET]
+Table '3972180752 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (80 in chips) 
+Seat 3: Tchiko212 (1420 in chips) 
+mabeal1: posts small blind 30
+Tchiko212: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 5h]
+mabeal1: raises 20 to 80 and is all-in
+Tchiko212: calls 20
+*** FLOP *** [Ad 2c 9d]
+*** TURN *** [Ad 2c 9d] [Kd]
+*** RIVER *** [Ad 2c 9d Kd] [Js]
+*** SHOW DOWN ***
+Tchiko212: shows [Td 2d] (a flush, Ace high)
+mabeal1: shows [6h 5h] (high card Ace)
+Tchiko212 collected 160 from pot
+mabeal1 finished the tournament in 2nd place
+Tchiko212 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ad 2c 9d Kd Js]
+Seat 1: mabeal1 (button) (small blind) showed [6h 5h] and lost with high card Ace
+Seat 3: Tchiko212 (big blind) showed [Td 2d] and won (160) with a flush, Ace high
+
+
+

@@ -1,0 +1,874 @@
+﻿PokerStars Hand #259591992511: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:37:44 CET [2026/02/04 14:37:44 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (500 in chips) 
+Seat 2: rosilloacero (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+rosilloacero: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8s]
+Nacero55: folds 
+rosilloacero: calls 10
+mabeal1: checks 
+*** FLOP *** [Jh 4d 6d]
+rosilloacero: checks 
+mabeal1: bets 20
+rosilloacero: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jh 4d 6d]
+Seat 1: Nacero55 (button) folded before Flop (didn't bet)
+Seat 2: rosilloacero (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259591998596: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:38:07 CET [2026/02/04 14:38:07 ET]
+Table '3972078537 1' 3-max Seat #2 is the button
+Seat 1: Nacero55 (500 in chips) 
+Seat 2: rosilloacero (480 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 10
+Nacero55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd As]
+rosilloacero: calls 20
+mabeal1: raises 50 to 70
+Nacero55: calls 50
+rosilloacero: calls 50
+*** FLOP *** [3h 9c Kc]
+mabeal1: bets 60
+Nacero55: folds 
+rosilloacero: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 210 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [3h 9c Kc]
+Seat 1: Nacero55 (big blind) folded on the Flop
+Seat 2: rosilloacero (button) folded on the Flop
+Seat 3: mabeal1 (small blind) collected (210)
+
+
+
+PokerStars Hand #259592006192: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:38:36 CET [2026/02/04 14:38:36 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (430 in chips) 
+Seat 2: rosilloacero (410 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+Nacero55: posts small blind 10
+rosilloacero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6s]
+mabeal1: folds 
+Nacero55: calls 10
+rosilloacero: checks 
+*** FLOP *** [4c Ah Ad]
+Nacero55: bets 20
+rosilloacero: raises 20 to 40
+Nacero55: raises 20 to 60
+rosilloacero: raises 20 to 80
+Nacero55: raises 330 to 410 and is all-in
+rosilloacero: calls 310 and is all-in
+Uncalled bet (20) returned to Nacero55
+*** TURN *** [4c Ah Ad] [7c]
+*** RIVER *** [4c Ah Ad 7c] [9h]
+*** SHOW DOWN ***
+Nacero55: shows [2c Ac] (three of a kind, Aces)
+rosilloacero: shows [2h Ks] (a pair of Aces)
+Nacero55 collected 820 from pot
+rosilloacero finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [4c Ah Ad 7c 9h]
+Seat 1: Nacero55 (small blind) showed [2c Ac] and won (820) with three of a kind, Aces
+Seat 2: rosilloacero (big blind) showed [2h Ks] and lost with a pair of Aces
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259592013607: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:39:05 CET [2026/02/04 14:39:05 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (840 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+Nacero55: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ts]
+Nacero55: calls 10
+mabeal1: checks 
+*** FLOP *** [5h 6c 4c]
+mabeal1: checks 
+Nacero55: bets 20
+mabeal1: calls 20
+*** TURN *** [5h 6c 4c] [5s]
+mabeal1: checks 
+Nacero55: bets 20
+mabeal1: raises 70 to 90
+Nacero55: calls 70
+*** RIVER *** [5h 6c 4c 5s] [5d]
+mabeal1: checks 
+Nacero55: checks 
+*** SHOW DOWN ***
+mabeal1: shows [8h Ts] (three of a kind, Fives)
+Nacero55: shows [7c Ad] (three of a kind, Fives - Ace kicker)
+Nacero55 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [5h 6c 4c 5s 5d]
+Seat 1: Nacero55 (button) (small blind) showed [7c Ad] and won (260) with three of a kind, Fives
+Seat 3: mabeal1 (big blind) showed [8h Ts] and lost with three of a kind, Fives
+
+
+
+PokerStars Hand #259592027720: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:39:58 CET [2026/02/04 14:39:58 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (970 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+mabeal1: posts small blind 10
+Nacero55: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Js]
+mabeal1: raises 30 to 50
+Nacero55: calls 30
+*** FLOP *** [4d 7c 4c]
+Nacero55: bets 20
+mabeal1: calls 20
+*** TURN *** [4d 7c 4c] [Jd]
+Nacero55: bets 20
+mabeal1: raises 135 to 155
+Nacero55: calls 135
+*** RIVER *** [4d 7c 4c Jd] [Th]
+Nacero55: checks 
+mabeal1: bets 305 and is all-in
+Nacero55: calls 305
+*** SHOW DOWN ***
+mabeal1: shows [Qs Js] (two pair, Jacks and Fours)
+Nacero55: shows [7d 8h] (two pair, Sevens and Fours)
+mabeal1 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [4d 7c 4c Jd Th]
+Seat 1: Nacero55 (big blind) showed [7d 8h] and lost with two pair, Sevens and Fours
+Seat 3: mabeal1 (button) (small blind) showed [Qs Js] and won (1060) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #259592037733: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:40:37 CET [2026/02/04 14:40:37 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+Nacero55: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 7s]
+Nacero55: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Td 4c 2h]
+mabeal1: checks 
+Nacero55: checks 
+*** TURN *** [Td 4c 2h] [As]
+mabeal1: checks 
+Nacero55: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Nacero55
+Nacero55 collected 80 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 4c 2h As]
+Seat 1: Nacero55 (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259592043869: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:41:00 CET [2026/02/04 14:41:00 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 15
+Nacero55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Qd]
+mabeal1: raises 60 to 90
+Nacero55: calls 60
+*** FLOP *** [Ts 5s 8s]
+Nacero55: bets 30
+mabeal1: calls 30
+*** TURN *** [Ts 5s 8s] [Qc]
+Nacero55: checks 
+mabeal1: bets 120
+Nacero55: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ts 5s 8s Qc]
+Seat 1: Nacero55 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #259592052169: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:41:32 CET [2026/02/04 14:41:32 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (360 in chips) 
+Seat 3: mabeal1 (1140 in chips) 
+Nacero55: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 2s]
+Nacero55: raises 30 to 60
+mabeal1: raises 1080 to 1140 and is all-in
+Nacero55: calls 300 and is all-in
+Uncalled bet (780) returned to mabeal1
+*** FLOP *** [Ks 8c 2c]
+*** TURN *** [Ks 8c 2c] [6s]
+*** RIVER *** [Ks 8c 2c 6s] [Jc]
+*** SHOW DOWN ***
+mabeal1: shows [As 2s] (a pair of Deuces)
+Nacero55: shows [Js Qd] (a pair of Jacks)
+Nacero55 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Ks 8c 2c 6s Jc]
+Seat 1: Nacero55 (button) (small blind) showed [Js Qd] and won (720) with a pair of Jacks
+Seat 3: mabeal1 (big blind) showed [As 2s] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259592056679: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:41:50 CET [2026/02/04 14:41:50 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (720 in chips) 
+Seat 3: mabeal1 (780 in chips) 
+mabeal1: posts small blind 15
+Nacero55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 6s]
+mabeal1: calls 15
+Nacero55: checks 
+*** FLOP *** [Ad Kc 3c]
+Nacero55: bets 30
+mabeal1: raises 30 to 60
+Nacero55: calls 30
+*** TURN *** [Ad Kc 3c] [3s]
+Nacero55: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Nacero55
+Nacero55 collected 180 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ad Kc 3c 3s]
+Seat 1: Nacero55 (big blind) collected (180)
+Seat 3: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259592064299: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:42:19 CET [2026/02/04 14:42:19 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (810 in chips) 
+Seat 3: mabeal1 (690 in chips) 
+Nacero55: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 9h]
+Nacero55: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Nacero55
+Nacero55 collected 60 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259592066226: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:42:26 CET [2026/02/04 14:42:26 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (840 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+mabeal1: posts small blind 15
+Nacero55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Qd]
+mabeal1: raises 30 to 60
+Nacero55: raises 30 to 90
+mabeal1: raises 570 to 660 and is all-in
+Nacero55: calls 570
+*** FLOP *** [Ah 7h 4s]
+*** TURN *** [Ah 7h 4s] [3h]
+*** RIVER *** [Ah 7h 4s 3h] [Kc]
+*** SHOW DOWN ***
+Nacero55: shows [Js Jh] (a pair of Jacks)
+mabeal1: shows [As Qd] (a pair of Aces)
+mabeal1 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Ah 7h 4s 3h Kc]
+Seat 1: Nacero55 (big blind) showed [Js Jh] and lost with a pair of Jacks
+Seat 3: mabeal1 (button) (small blind) showed [As Qd] and won (1320) with a pair of Aces
+
+
+
+PokerStars Hand #259592070440: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:42:42 CET [2026/02/04 14:42:42 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (180 in chips) 
+Seat 3: mabeal1 (1320 in chips) 
+Nacero55: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 9d]
+Nacero55: raises 150 to 180 and is all-in
+mabeal1: folds 
+Uncalled bet (150) returned to Nacero55
+Nacero55 collected 60 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259592072623: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:42:51 CET [2026/02/04 14:42:51 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (210 in chips) 
+Seat 3: mabeal1 (1290 in chips) 
+mabeal1: posts small blind 15
+Nacero55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7c]
+mabeal1: folds 
+Uncalled bet (15) returned to Nacero55
+Nacero55 collected 30 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Nacero55 (big blind) collected (30)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592075069: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:43:00 CET [2026/02/04 14:43:00 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (225 in chips) 
+Seat 3: mabeal1 (1275 in chips) 
+Nacero55: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 6c]
+Nacero55: raises 195 to 225 and is all-in
+mabeal1: folds 
+Uncalled bet (195) returned to Nacero55
+Nacero55 collected 60 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259592076753: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:43:07 CET [2026/02/04 14:43:07 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (255 in chips) 
+Seat 3: mabeal1 (1245 in chips) 
+mabeal1: posts small blind 15
+Nacero55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5c]
+mabeal1: calls 15
+Nacero55: raises 225 to 255 and is all-in
+mabeal1: folds 
+Uncalled bet (225) returned to Nacero55
+Nacero55 collected 60 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Nacero55 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592078925: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:43:15 CET [2026/02/04 14:43:15 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (285 in chips) 
+Seat 3: mabeal1 (1215 in chips) 
+Nacero55: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks As]
+Nacero55: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259592079982: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:43:19 CET [2026/02/04 14:43:19 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (270 in chips) 
+Seat 3: mabeal1 (1230 in chips) 
+mabeal1: posts small blind 15
+Nacero55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 8s]
+mabeal1: folds 
+Uncalled bet (15) returned to Nacero55
+Nacero55 collected 30 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Nacero55 (big blind) collected (30)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592081868: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:43:26 CET [2026/02/04 14:43:26 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (285 in chips) 
+Seat 3: mabeal1 (1215 in chips) 
+Nacero55: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ts]
+Nacero55: raises 255 to 285 and is all-in
+mabeal1: folds 
+Uncalled bet (255) returned to Nacero55
+Nacero55 collected 60 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259592083380: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:43:32 CET [2026/02/04 14:43:32 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (315 in chips) 
+Seat 3: mabeal1 (1185 in chips) 
+mabeal1: posts small blind 15
+Nacero55: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 6d]
+mabeal1: calls 15
+Nacero55: checks 
+*** FLOP *** [Kh 4c Td]
+Nacero55: bets 30
+mabeal1: raises 45 to 75
+Nacero55: calls 45
+*** TURN *** [Kh 4c Td] [Qh]
+Nacero55: bets 210 and is all-in
+mabeal1: folds 
+Uncalled bet (210) returned to Nacero55
+Nacero55 collected 210 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Kh 4c Td Qh]
+Seat 1: Nacero55 (big blind) collected (210)
+Seat 3: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259592089143: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:43:54 CET [2026/02/04 14:43:54 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (420 in chips) 
+Seat 3: mabeal1 (1080 in chips) 
+Nacero55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 8h]
+Nacero55: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259592090509: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:43:59 CET [2026/02/04 14:43:59 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (400 in chips) 
+Seat 3: mabeal1 (1100 in chips) 
+mabeal1: posts small blind 20
+Nacero55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 5d]
+mabeal1: calls 20
+Nacero55: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to Nacero55
+Nacero55 collected 80 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Nacero55 (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592094285: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:44:14 CET [2026/02/04 14:44:14 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+Nacero55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ac]
+Nacero55: calls 20
+mabeal1: raises 1020 to 1060 and is all-in
+Nacero55: folds 
+Uncalled bet (1020) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259592097866: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:44:28 CET [2026/02/04 14:44:28 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (400 in chips) 
+Seat 3: mabeal1 (1100 in chips) 
+mabeal1: posts small blind 20
+Nacero55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Qh]
+mabeal1: raises 40 to 80
+Nacero55: calls 40
+*** FLOP *** [4h Tc 8s]
+Nacero55: bets 40
+mabeal1: calls 40
+*** TURN *** [4h Tc 8s] [6s]
+Nacero55: bets 280 and is all-in
+mabeal1: folds 
+Uncalled bet (280) returned to Nacero55
+Nacero55 collected 240 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4h Tc 8s 6s]
+Seat 1: Nacero55 (big blind) collected (240)
+Seat 3: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259592102981: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:44:47 CET [2026/02/04 14:44:47 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (520 in chips) 
+Seat 3: mabeal1 (980 in chips) 
+Nacero55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5s]
+Nacero55: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259592104303: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:44:52 CET [2026/02/04 14:44:52 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (500 in chips) 
+Seat 3: mabeal1 (1000 in chips) 
+mabeal1: posts small blind 20
+Nacero55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9c]
+mabeal1: folds 
+Uncalled bet (20) returned to Nacero55
+Nacero55 collected 40 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Nacero55 (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592105607: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:44:57 CET [2026/02/04 14:44:57 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (520 in chips) 
+Seat 3: mabeal1 (980 in chips) 
+Nacero55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 2s]
+Nacero55: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259592106733: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:45:01 CET [2026/02/04 14:45:01 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (500 in chips) 
+Seat 3: mabeal1 (1000 in chips) 
+mabeal1: posts small blind 20
+Nacero55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Jc]
+mabeal1: calls 20
+Nacero55: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [Js 6c 7h]
+Nacero55: bets 40
+mabeal1: raises 80 to 120
+Nacero55: calls 80
+*** TURN *** [Js 6c 7h] [Kd]
+Nacero55: checks 
+mabeal1: bets 800 and is all-in
+Nacero55: folds 
+Uncalled bet (800) returned to mabeal1
+mabeal1 collected 400 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Js 6c 7h Kd]
+Seat 1: Nacero55 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (400)
+
+
+
+PokerStars Hand #259592110788: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:45:17 CET [2026/02/04 14:45:17 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (300 in chips) 
+Seat 3: mabeal1 (1200 in chips) 
+Nacero55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2d]
+Nacero55: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [3s 7s 5c]
+mabeal1: bets 80
+Nacero55: raises 140 to 220 and is all-in
+mabeal1: folds 
+Uncalled bet (140) returned to Nacero55
+Nacero55 collected 320 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [3s 7s 5c]
+Seat 1: Nacero55 (button) (small blind) collected (320)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259592116903: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:45:41 CET [2026/02/04 14:45:41 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+mabeal1: posts small blind 20
+Nacero55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 6s]
+mabeal1: folds 
+Uncalled bet (20) returned to Nacero55
+Nacero55 collected 40 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Nacero55 (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592118519: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:45:47 CET [2026/02/04 14:45:47 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+Nacero55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 2s]
+Nacero55: raises 440 to 480 and is all-in
+mabeal1: folds 
+Uncalled bet (440) returned to Nacero55
+Nacero55 collected 80 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Nacero55 (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259592119986: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:45:53 CET [2026/02/04 14:45:53 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (520 in chips) 
+Seat 3: mabeal1 (980 in chips) 
+mabeal1: posts small blind 20
+Nacero55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 4d]
+mabeal1: calls 20
+Nacero55: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [Ad 7c 8s]
+Nacero55: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to Nacero55
+Nacero55 collected 160 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ad 7c 8s]
+Seat 1: Nacero55 (big blind) collected (160)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259592125339: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:46:13 CET [2026/02/04 14:46:13 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (600 in chips) 
+Seat 3: mabeal1 (900 in chips) 
+Nacero55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5d]
+Nacero55: calls 20
+mabeal1: checks 
+*** FLOP *** [Tc 4s 5c]
+mabeal1: checks 
+Nacero55: bets 40
+mabeal1: calls 40
+*** TURN *** [Tc 4s 5c] [Qs]
+mabeal1: checks 
+Nacero55: bets 40
+mabeal1: calls 40
+*** RIVER *** [Tc 4s 5c Qs] [9d]
+mabeal1: checks 
+Nacero55: checks 
+*** SHOW DOWN ***
+mabeal1: shows [6d 5d] (a pair of Fives)
+Nacero55: mucks hand 
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Tc 4s 5c Qs 9d]
+Seat 1: Nacero55 (button) (small blind) mucked [6s 7s]
+Seat 3: mabeal1 (big blind) showed [6d 5d] and won (240) with a pair of Fives
+
+
+
+PokerStars Hand #259592130047: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:46:31 CET [2026/02/04 14:46:31 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 20
+Nacero55: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7c]
+mabeal1: raises 980 to 1020 and is all-in
+Nacero55: folds 
+Uncalled bet (980) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Nacero55 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259592133523: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:46:45 CET [2026/02/04 14:46:45 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+Nacero55: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Kc]
+Nacero55: raises 400 to 440 and is all-in
+mabeal1: calls 400
+*** FLOP *** [8h 6d 7h]
+*** TURN *** [8h 6d 7h] [Ad]
+*** RIVER *** [8h 6d 7h Ad] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [Th Kc] (high card Ace)
+Nacero55: shows [9h 6h] (a flush, Nine high)
+Nacero55 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [8h 6d 7h Ad 2h]
+Seat 1: Nacero55 (button) (small blind) showed [9h 6h] and won (880) with a flush, Nine high
+Seat 3: mabeal1 (big blind) showed [Th Kc] and lost with high card Ace
+
+
+
+PokerStars Hand #259592137488: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:47:00 CET [2026/02/04 14:47:00 ET]
+Table '3972078537 1' 3-max Seat #3 is the button
+Seat 1: Nacero55 (880 in chips) 
+Seat 3: mabeal1 (620 in chips) 
+mabeal1: posts small blind 30
+Nacero55: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Jc]
+mabeal1: folds 
+Uncalled bet (30) returned to Nacero55
+Nacero55 collected 60 from pot
+Nacero55: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Nacero55 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592138892: Tournament #3972078537, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:47:06 CET [2026/02/04 14:47:06 ET]
+Table '3972078537 1' 3-max Seat #1 is the button
+Seat 1: Nacero55 (910 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+Nacero55: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4c]
+Nacero55: raises 60 to 120
+mabeal1: calls 60
+*** FLOP *** [6d 5c Ad]
+mabeal1: bets 470 and is all-in
+Nacero55: calls 470
+*** TURN *** [6d 5c Ad] [Kc]
+*** RIVER *** [6d 5c Ad Kc] [Ks]
+*** SHOW DOWN ***
+mabeal1: shows [3c 4c] (a pair of Kings)
+Nacero55: shows [As 6h] (two pair, Aces and Kings)
+Nacero55 collected 1180 from pot
+mabeal1 finished the tournament in 2nd place
+Nacero55 wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [6d 5c Ad Kc Ks]
+Seat 1: Nacero55 (button) (small blind) showed [As 6h] and won (1180) with two pair, Aces and Kings
+Seat 3: mabeal1 (big blind) showed [3c 4c] and lost with a pair of Kings
+
+
+

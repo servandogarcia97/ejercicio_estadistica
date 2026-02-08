@@ -1,0 +1,226 @@
+﻿PokerStars Hand #259401340574: Tournament #3967711431, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:23:50 CET [2026/01/21 7:23:50 ET]
+Table '3967711431 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Isa31313 (500 in chips) 
+Seat 3: raiano1962 (500 in chips) 
+Isa31313: posts small blind 10
+raiano1962: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Js]
+mabeal1: raises 20 to 40
+Isa31313: calls 30
+raiano1962: calls 20
+*** FLOP *** [Th 5h 3c]
+Isa31313: bets 120
+raiano1962: raises 120 to 240
+mabeal1: folds 
+Isa31313: calls 120
+*** TURN *** [Th 5h 3c] [9d]
+Isa31313: bets 220 and is all-in
+raiano1962: calls 220 and is all-in
+*** RIVER *** [Th 5h 3c 9d] [7s]
+*** SHOW DOWN ***
+Isa31313: shows [6h Qh] (high card Queen)
+raiano1962: shows [Td 9c] (two pair, Tens and Nines)
+raiano1962 collected 1040 from pot
+Isa31313 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Th 5h 3c 9d 7s]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: Isa31313 (small blind) showed [6h Qh] and lost with high card Queen
+Seat 3: raiano1962 (big blind) showed [Td 9c] and won (1040) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #259401343823: Tournament #3967711431, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:24:18 CET [2026/01/21 7:24:18 ET]
+Table '3967711431 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 3: raiano1962 (1040 in chips) 
+raiano1962: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s As]
+raiano1962: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: raiano1962 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259401344406: Tournament #3967711431, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:24:23 CET [2026/01/21 7:24:23 ET]
+Table '3967711431 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 3: raiano1962 (1030 in chips) 
+mabeal1: posts small blind 10
+raiano1962: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Jh]
+mabeal1: calls 10
+raiano1962: checks 
+*** FLOP *** [Qs 9d Jd]
+raiano1962: bets 20
+mabeal1: calls 20
+*** TURN *** [Qs 9d Jd] [5c]
+raiano1962: checks 
+mabeal1: bets 60
+raiano1962: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 9d Jd 5c]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: raiano1962 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259401347004: Tournament #3967711431, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:24:47 CET [2026/01/21 7:24:47 ET]
+Table '3967711431 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 3: raiano1962 (990 in chips) 
+raiano1962: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ad]
+raiano1962: raises 40 to 60
+mabeal1: raises 450 to 510 and is all-in
+raiano1962: folds 
+Uncalled bet (450) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: raiano1962 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259401350365: Tournament #3967711431, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:25:17 CET [2026/01/21 7:25:17 ET]
+Table '3967711431 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 3: raiano1962 (930 in chips) 
+mabeal1: posts small blind 10
+raiano1962: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6c]
+mabeal1: calls 10
+raiano1962: checks 
+*** FLOP *** [Jc 4c 9c]
+raiano1962: bets 40
+mabeal1: calls 40
+*** TURN *** [Jc 4c 9c] [Qh]
+raiano1962: bets 60
+mabeal1: calls 60
+*** RIVER *** [Jc 4c 9c Qh] [9h]
+raiano1962: checks 
+mabeal1: bets 180
+raiano1962: calls 180
+*** SHOW DOWN ***
+mabeal1: shows [9s 6c] (three of a kind, Nines)
+raiano1962: mucks hand 
+mabeal1 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Jc 4c 9c Qh 9h]
+Seat 1: mabeal1 (button) (small blind) showed [9s 6c] and won (600) with three of a kind, Nines
+Seat 3: raiano1962 (big blind) mucked [Jh 4d]
+
+
+
+PokerStars Hand #259401355266: Tournament #3967711431, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:26:01 CET [2026/01/21 7:26:01 ET]
+Table '3967711431 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (870 in chips) 
+Seat 3: raiano1962 (630 in chips) 
+raiano1962: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 4s]
+raiano1962: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to raiano1962
+raiano1962 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: raiano1962 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259401357075: Tournament #3967711431, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:26:17 CET [2026/01/21 7:26:17 ET]
+Table '3967711431 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (840 in chips) 
+Seat 3: raiano1962 (660 in chips) 
+mabeal1: posts small blind 15
+raiano1962: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 8d]
+mabeal1: calls 15
+raiano1962: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to raiano1962
+raiano1962 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: raiano1962 (big blind) collected (60)
+
+
+
+PokerStars Hand #259401358422: Tournament #3967711431, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:26:29 CET [2026/01/21 7:26:29 ET]
+Table '3967711431 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (810 in chips) 
+Seat 3: raiano1962 (690 in chips) 
+raiano1962: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Qd]
+raiano1962: calls 15
+mabeal1: checks 
+*** FLOP *** [8h 2c 9s]
+mabeal1: checks 
+raiano1962: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to raiano1962
+raiano1962 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h 2c 9s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: raiano1962 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259401361645: Tournament #3967711431, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 13:26:57 CET [2026/01/21 7:26:57 ET]
+Table '3967711431 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 3: raiano1962 (720 in chips) 
+mabeal1: posts small blind 15
+raiano1962: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 8h]
+mabeal1: raises 750 to 780 and is all-in
+raiano1962: calls 690 and is all-in
+Uncalled bet (60) returned to mabeal1
+*** FLOP *** [5c 9s 8s]
+*** TURN *** [5c 9s 8s] [2d]
+*** RIVER *** [5c 9s 8s 2d] [3s]
+*** SHOW DOWN ***
+raiano1962: shows [Ah 2s] (a pair of Deuces)
+mabeal1: shows [8c 8h] (three of a kind, Eights)
+mabeal1 collected 1440 from pot
+raiano1962 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1440 | Rake 0 
+Board [5c 9s 8s 2d 3s]
+Seat 1: mabeal1 (button) (small blind) showed [8c 8h] and won (1440) with three of a kind, Eights
+Seat 3: raiano1962 (big blind) showed [Ah 2s] and lost with a pair of Deuces
+
+
+

@@ -1,0 +1,1159 @@
+﻿PokerStars Hand #259445529999: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:44:56 CET [2026/01/24 14:44:56 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (500 in chips) 
+Seat 2: santi333133 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+santi333133: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 3h]
+Portugalkin2025: folds 
+santi333133: calls 10
+mabeal1: checks 
+*** FLOP *** [6d 5d 8d]
+santi333133: bets 20
+mabeal1: calls 20
+*** TURN *** [6d 5d 8d] [7c]
+santi333133: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to santi333133
+santi333133 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d 5d 8d 7c]
+Seat 1: Portugalkin2025 (button) folded before Flop (didn't bet)
+Seat 2: santi333133 (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259445534052: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:45:13 CET [2026/01/24 14:45:13 ET]
+Table '3968766678 1' 3-max Seat #2 is the button
+Seat 1: Portugalkin2025 (500 in chips) 
+Seat 2: santi333133 (540 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+Portugalkin2025: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Tc]
+santi333133: folds 
+mabeal1: raises 20 to 40
+Portugalkin2025: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Portugalkin2025 (big blind) folded before Flop
+Seat 2: santi333133 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259445537020: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:45:25 CET [2026/01/24 14:45:25 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (480 in chips) 
+Seat 2: santi333133 (540 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+Portugalkin2025: posts small blind 10
+santi333133: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 6h]
+mabeal1: folds 
+Portugalkin2025: folds 
+Uncalled bet (10) returned to santi333133
+santi333133 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Portugalkin2025 (small blind) folded before Flop
+Seat 2: santi333133 (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259445539093: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:45:34 CET [2026/01/24 14:45:34 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (470 in chips) 
+Seat 2: santi333133 (550 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+santi333133: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Ac]
+Portugalkin2025: folds 
+santi333133: calls 10
+mabeal1: raises 460 to 480 and is all-in
+santi333133: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Portugalkin2025 (button) folded before Flop (didn't bet)
+Seat 2: santi333133 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259445541546: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:45:44 CET [2026/01/24 14:45:44 ET]
+Table '3968766678 1' 3-max Seat #2 is the button
+Seat 1: Portugalkin2025 (470 in chips) 
+Seat 2: santi333133 (530 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+mabeal1: posts small blind 10
+Portugalkin2025: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c As]
+santi333133: calls 20
+mabeal1: raises 480 to 500 and is all-in
+Portugalkin2025: folds 
+santi333133: calls 480
+*** FLOP *** [9h 7d Kd]
+*** TURN *** [9h 7d Kd] [Ac]
+*** RIVER *** [9h 7d Kd Ac] [2c]
+*** SHOW DOWN ***
+mabeal1: shows [4c As] (a pair of Aces)
+santi333133: shows [Td 9s] (a pair of Nines)
+mabeal1 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [9h 7d Kd Ac 2c]
+Seat 1: Portugalkin2025 (big blind) folded before Flop
+Seat 2: santi333133 (button) showed [Td 9s] and lost with a pair of Nines
+Seat 3: mabeal1 (small blind) showed [4c As] and won (1020) with a pair of Aces
+
+
+
+PokerStars Hand #259445545452: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:46:00 CET [2026/01/24 14:46:00 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (450 in chips) 
+Seat 2: santi333133 (30 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+Portugalkin2025: posts small blind 10
+santi333133: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Qs]
+mabeal1: raises 20 to 40
+Portugalkin2025: calls 30
+santi333133: calls 10 and is all-in
+*** FLOP *** [Ts 4h 4s]
+Portugalkin2025: checks 
+mabeal1: bets 40
+Portugalkin2025: folds 
+Uncalled bet (40) returned to mabeal1
+*** TURN *** [Ts 4h 4s] [5c]
+*** RIVER *** [Ts 4h 4s 5c] [As]
+*** SHOW DOWN ***
+mabeal1: shows [Jd Qs] (a pair of Fours)
+mabeal1 collected 20 from side pot
+santi333133: shows [5d Qd] (two pair, Fives and Fours)
+santi333133 collected 90 from main pot
+*** SUMMARY ***
+Total pot 110 Main pot 90. Side pot 20. | Rake 0 
+Board [Ts 4h 4s 5c As]
+Seat 1: Portugalkin2025 (small blind) folded on the Flop
+Seat 2: santi333133 (big blind) showed [5d Qd] and won (90) with two pair, Fives and Fours
+Seat 3: mabeal1 (button) showed [Jd Qs] and won (20) with a pair of Fours
+
+
+
+PokerStars Hand #259445554416: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:46:37 CET [2026/01/24 14:46:37 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (410 in chips) 
+Seat 2: santi333133 (90 in chips) 
+Seat 3: mabeal1 (1000 in chips) 
+santi333133: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Qs]
+Portugalkin2025: folds 
+santi333133: calls 10
+mabeal1: raises 80 to 100
+santi333133: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Portugalkin2025 (button) folded before Flop (didn't bet)
+Seat 2: santi333133 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259445557969: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:46:52 CET [2026/01/24 14:46:52 ET]
+Table '3968766678 1' 3-max Seat #2 is the button
+Seat 1: Portugalkin2025 (410 in chips) 
+Seat 2: santi333133 (70 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 10
+Portugalkin2025: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 8c]
+santi333133: calls 20
+mabeal1: folds 
+Portugalkin2025: checks 
+*** FLOP *** [9c 2d 5d]
+Portugalkin2025: checks 
+santi333133: bets 20
+Portugalkin2025: folds 
+Uncalled bet (20) returned to santi333133
+santi333133 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [9c 2d 5d]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 2: santi333133 (button) collected (50)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259445564256: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:47:18 CET [2026/01/24 14:47:18 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (390 in chips) 
+Seat 2: santi333133 (100 in chips) 
+Seat 3: mabeal1 (1010 in chips) 
+Portugalkin2025: posts small blind 10
+santi333133: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 4c]
+mabeal1: folds 
+Portugalkin2025: calls 10
+santi333133: raises 20 to 40
+Portugalkin2025: calls 20
+*** FLOP *** [Jc 3d 9h]
+Portugalkin2025: checks 
+santi333133: bets 40
+Portugalkin2025: raises 40 to 80
+santi333133: calls 20 and is all-in
+Uncalled bet (20) returned to Portugalkin2025
+*** TURN *** [Jc 3d 9h] [Tc]
+*** RIVER *** [Jc 3d 9h Tc] [4h]
+*** SHOW DOWN ***
+Portugalkin2025: shows [Th Td] (three of a kind, Tens)
+santi333133: shows [Ks 8s] (high card King)
+Portugalkin2025 collected 200 from pot
+santi333133 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Jc 3d 9h Tc 4h]
+Seat 1: Portugalkin2025 (small blind) showed [Th Td] and won (200) with three of a kind, Tens
+Seat 2: santi333133 (big blind) showed [Ks 8s] and lost with high card King
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259445571388: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:47:48 CET [2026/01/24 14:47:48 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (490 in chips) 
+Seat 3: mabeal1 (1010 in chips) 
+Portugalkin2025: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ac]
+Portugalkin2025: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259445572921: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 20:47:55 CET [2026/01/24 14:47:55 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 10
+Portugalkin2025: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Jc]
+mabeal1: calls 10
+Portugalkin2025: checks 
+*** FLOP *** [Qd 8c As]
+Portugalkin2025: checks 
+mabeal1: bets 20
+Portugalkin2025: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd 8c As]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259445576741: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:48:10 CET [2026/01/24 14:48:10 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+Portugalkin2025: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 4c]
+Portugalkin2025: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259445578059: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:48:16 CET [2026/01/24 14:48:16 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (445 in chips) 
+Seat 3: mabeal1 (1055 in chips) 
+mabeal1: posts small blind 15
+Portugalkin2025: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 3h]
+mabeal1: calls 15
+Portugalkin2025: checks 
+*** FLOP *** [Tc 2d 6s]
+Portugalkin2025: checks 
+mabeal1: checks 
+*** TURN *** [Tc 2d 6s] [9s]
+Portugalkin2025: checks 
+mabeal1: bets 30
+Portugalkin2025: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Tc 2d 6s 9s]
+Seat 1: Portugalkin2025 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259445582409: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:48:34 CET [2026/01/24 14:48:34 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (415 in chips) 
+Seat 3: mabeal1 (1085 in chips) 
+Portugalkin2025: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9h]
+Portugalkin2025: calls 15
+mabeal1: checks 
+*** FLOP *** [Th Kh 4s]
+mabeal1: checks 
+Portugalkin2025: bets 30
+mabeal1: calls 30
+*** TURN *** [Th Kh 4s] [Kd]
+mabeal1: checks 
+Portugalkin2025: bets 60
+mabeal1: calls 60
+*** RIVER *** [Th Kh 4s Kd] [Qs]
+mabeal1: checks 
+Portugalkin2025: checks 
+*** SHOW DOWN ***
+mabeal1: shows [4h 9h] (two pair, Kings and Fours)
+Portugalkin2025: shows [8s Td] (two pair, Kings and Tens)
+Portugalkin2025 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Th Kh 4s Kd Qs]
+Seat 1: Portugalkin2025 (button) (small blind) showed [8s Td] and won (240) with two pair, Kings and Tens
+Seat 3: mabeal1 (big blind) showed [4h 9h] and lost with two pair, Kings and Fours
+
+
+
+PokerStars Hand #259445588225: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:48:58 CET [2026/01/24 14:48:58 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (535 in chips) 
+Seat 3: mabeal1 (965 in chips) 
+mabeal1: posts small blind 15
+Portugalkin2025: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Ts]
+mabeal1: calls 15
+Portugalkin2025: checks 
+*** FLOP *** [2c 2d Td]
+Portugalkin2025: checks 
+mabeal1: bets 30
+Portugalkin2025: calls 30
+*** TURN *** [2c 2d Td] [As]
+Portugalkin2025: checks 
+mabeal1: checks 
+*** RIVER *** [2c 2d Td As] [4c]
+Portugalkin2025: checks 
+mabeal1: bets 90
+Portugalkin2025: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 2d Td As 4c]
+Seat 1: Portugalkin2025 (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259445593794: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:49:22 CET [2026/01/24 14:49:22 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (475 in chips) 
+Seat 3: mabeal1 (1025 in chips) 
+Portugalkin2025: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Td]
+Portugalkin2025: calls 15
+mabeal1: checks 
+*** FLOP *** [9c Ad 8d]
+mabeal1: checks 
+Portugalkin2025: checks 
+*** TURN *** [9c Ad 8d] [7c]
+mabeal1: bets 60
+Portugalkin2025: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c Ad 8d 7c]
+Seat 1: Portugalkin2025 (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259445599359: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:49:45 CET [2026/01/24 14:49:45 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (445 in chips) 
+Seat 3: mabeal1 (1055 in chips) 
+mabeal1: posts small blind 15
+Portugalkin2025: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 9h]
+mabeal1: calls 15
+Portugalkin2025: checks 
+*** FLOP *** [Js 8s 2d]
+Portugalkin2025: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Portugalkin2025
+Portugalkin2025 collected 60 from pot
+Portugalkin2025: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 8s 2d]
+Seat 1: Portugalkin2025 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259445602205: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:49:57 CET [2026/01/24 14:49:57 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (475 in chips) 
+Seat 3: mabeal1 (1025 in chips) 
+Portugalkin2025: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Ac]
+Portugalkin2025: calls 15
+mabeal1: raises 995 to 1025 and is all-in
+Portugalkin2025: folds 
+Uncalled bet (995) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259445604370: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:50:06 CET [2026/01/24 14:50:06 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (445 in chips) 
+Seat 3: mabeal1 (1055 in chips) 
+mabeal1: posts small blind 15
+Portugalkin2025: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 5c]
+mabeal1: calls 15
+Portugalkin2025: checks 
+*** FLOP *** [3s 8c Jd]
+Portugalkin2025: checks 
+mabeal1: bets 30
+Portugalkin2025: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s 8c Jd]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259445607307: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:50:18 CET [2026/01/24 14:50:18 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (415 in chips) 
+Seat 3: mabeal1 (1085 in chips) 
+Portugalkin2025: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Kh]
+Portugalkin2025: calls 15
+mabeal1: checks 
+*** FLOP *** [7c 3s 2c]
+mabeal1: checks 
+Portugalkin2025: bets 30
+mabeal1: calls 30
+*** TURN *** [7c 3s 2c] [7d]
+mabeal1: checks 
+Portugalkin2025: bets 60
+mabeal1: calls 60
+*** RIVER *** [7c 3s 2c 7d] [9s]
+mabeal1: checks 
+Portugalkin2025: checks 
+*** SHOW DOWN ***
+mabeal1: shows [2s Kh] (two pair, Sevens and Deuces)
+Portugalkin2025: shows [Qs 3c] (two pair, Sevens and Threes)
+Portugalkin2025 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7c 3s 2c 7d 9s]
+Seat 1: Portugalkin2025 (button) (small blind) showed [Qs 3c] and won (240) with two pair, Sevens and Threes
+Seat 3: mabeal1 (big blind) showed [2s Kh] and lost with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #259445612495: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:50:40 CET [2026/01/24 14:50:40 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (535 in chips) 
+Seat 3: mabeal1 (965 in chips) 
+mabeal1: posts small blind 15
+Portugalkin2025: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7d]
+mabeal1: calls 15
+Portugalkin2025: checks 
+*** FLOP *** [Jd Ah 8h]
+Portugalkin2025: checks 
+mabeal1: bets 30
+Portugalkin2025: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd Ah 8h]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259445615475: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 20:50:53 CET [2026/01/24 14:50:53 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (505 in chips) 
+Seat 3: mabeal1 (995 in chips) 
+Portugalkin2025: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ac]
+Portugalkin2025: calls 15
+mabeal1: raises 965 to 995 and is all-in
+Portugalkin2025: folds 
+Uncalled bet (965) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259445617976: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:51:03 CET [2026/01/24 14:51:03 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (475 in chips) 
+Seat 3: mabeal1 (1025 in chips) 
+mabeal1: posts small blind 20
+Portugalkin2025: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Qc]
+mabeal1: calls 20
+Portugalkin2025: checks 
+*** FLOP *** [6h Ts 3s]
+Portugalkin2025: checks 
+mabeal1: checks 
+*** TURN *** [6h Ts 3s] [7c]
+Portugalkin2025: checks 
+mabeal1: checks 
+*** RIVER *** [6h Ts 3s 7c] [5h]
+Portugalkin2025: bets 40
+mabeal1: raises 945 to 985 and is all-in
+Portugalkin2025: calls 395 and is all-in
+Uncalled bet (550) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [4d Qc] (a straight, Three to Seven)
+Portugalkin2025: shows [4c 9c] (a straight, Three to Seven)
+Portugalkin2025 collected 475 from pot
+mabeal1 collected 475 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [6h Ts 3s 7c 5h]
+Seat 1: Portugalkin2025 (big blind) showed [4c 9c] and won (475) with a straight, Three to Seven
+Seat 3: mabeal1 (button) (small blind) showed [4d Qc] and won (475) with a straight, Three to Seven
+
+
+
+PokerStars Hand #259445625070: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:51:33 CET [2026/01/24 14:51:33 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (475 in chips) 
+Seat 3: mabeal1 (1025 in chips) 
+Portugalkin2025: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Td]
+Portugalkin2025: calls 20
+mabeal1: checks 
+*** FLOP *** [Ts Jd Qh]
+mabeal1: checks 
+Portugalkin2025: checks 
+*** TURN *** [Ts Jd Qh] [3c]
+mabeal1: bets 40
+Portugalkin2025: calls 40
+*** RIVER *** [Ts Jd Qh 3c] [6h]
+mabeal1: checks 
+Portugalkin2025: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7c Td] (a pair of Tens)
+Portugalkin2025: mucks hand 
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ts Jd Qh 3c 6h]
+Seat 1: Portugalkin2025 (button) (small blind) mucked [3h Kc]
+Seat 3: mabeal1 (big blind) showed [7c Td] and won (160) with a pair of Tens
+
+
+
+PokerStars Hand #259445629631: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:51:52 CET [2026/01/24 14:51:52 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (395 in chips) 
+Seat 3: mabeal1 (1105 in chips) 
+mabeal1: posts small blind 20
+Portugalkin2025: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Js]
+mabeal1: calls 20
+Portugalkin2025: checks 
+*** FLOP *** [Kh 4s Qh]
+Portugalkin2025: checks 
+mabeal1: bets 40
+Portugalkin2025: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 4s Qh]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259445633644: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:52:09 CET [2026/01/24 14:52:09 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (355 in chips) 
+Seat 3: mabeal1 (1145 in chips) 
+Portugalkin2025: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Td]
+Portugalkin2025: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259445634906: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:52:14 CET [2026/01/24 14:52:14 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (335 in chips) 
+Seat 3: mabeal1 (1165 in chips) 
+mabeal1: posts small blind 20
+Portugalkin2025: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Td]
+mabeal1: calls 20
+Portugalkin2025: checks 
+*** FLOP *** [Qd 8s 4h]
+Portugalkin2025: checks 
+mabeal1: bets 40
+Portugalkin2025: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd 8s 4h]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259445637922: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:52:27 CET [2026/01/24 14:52:27 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (295 in chips) 
+Seat 3: mabeal1 (1205 in chips) 
+Portugalkin2025: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Kh]
+Portugalkin2025: calls 20
+mabeal1: raises 1165 to 1205 and is all-in
+Portugalkin2025: calls 255 and is all-in
+Uncalled bet (910) returned to mabeal1
+*** FLOP *** [4s Qh Qs]
+*** TURN *** [4s Qh Qs] [4c]
+*** RIVER *** [4s Qh Qs 4c] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [5s Kh] (two pair, Queens and Fours)
+Portugalkin2025: shows [Ks 3s] (two pair, Queens and Fours)
+mabeal1 collected 295 from pot
+Portugalkin2025 collected 295 from pot
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [4s Qh Qs 4c 8h]
+Seat 1: Portugalkin2025 (button) (small blind) showed [Ks 3s] and won (295) with two pair, Queens and Fours
+Seat 3: mabeal1 (big blind) showed [5s Kh] and won (295) with two pair, Queens and Fours
+
+
+
+PokerStars Hand #259445643392: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:52:50 CET [2026/01/24 14:52:50 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (295 in chips) 
+Seat 3: mabeal1 (1205 in chips) 
+mabeal1: posts small blind 20
+Portugalkin2025: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2s]
+mabeal1: calls 20
+Portugalkin2025: checks 
+*** FLOP *** [4s 2d As]
+Portugalkin2025: checks 
+mabeal1: bets 40
+Portugalkin2025: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 2d As]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259445646548: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:53:03 CET [2026/01/24 14:53:03 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (255 in chips) 
+Seat 3: mabeal1 (1245 in chips) 
+Portugalkin2025: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ah]
+Portugalkin2025: calls 20
+mabeal1: raises 1205 to 1245 and is all-in
+Portugalkin2025: calls 215 and is all-in
+Uncalled bet (990) returned to mabeal1
+*** FLOP *** [Td 9s Qh]
+*** TURN *** [Td 9s Qh] [2h]
+*** RIVER *** [Td 9s Qh 2h] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [4d Ah] (high card Ace)
+Portugalkin2025: shows [Qc Ad] (a pair of Queens)
+Portugalkin2025 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Td 9s Qh 2h 6h]
+Seat 1: Portugalkin2025 (button) (small blind) showed [Qc Ad] and won (510) with a pair of Queens
+Seat 3: mabeal1 (big blind) showed [4d Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #259445650012: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:53:18 CET [2026/01/24 14:53:18 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (510 in chips) 
+Seat 3: mabeal1 (990 in chips) 
+mabeal1: posts small blind 20
+Portugalkin2025: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5h]
+mabeal1: calls 20
+Portugalkin2025: checks 
+*** FLOP *** [8h 4d Ac]
+Portugalkin2025: checks 
+mabeal1: bets 40
+Portugalkin2025: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 4d Ac]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259445653048: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:53:31 CET [2026/01/24 14:53:31 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (470 in chips) 
+Seat 3: mabeal1 (1030 in chips) 
+Portugalkin2025: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Ts]
+Portugalkin2025: calls 20
+mabeal1: checks 
+*** FLOP *** [Td 6d 8d]
+mabeal1: checks 
+Portugalkin2025: checks 
+*** TURN *** [Td 6d 8d] [7d]
+mabeal1: checks 
+Portugalkin2025: checks 
+*** RIVER *** [Td 6d 8d 7d] [7h]
+mabeal1: checks 
+Portugalkin2025: checks 
+*** SHOW DOWN ***
+mabeal1: shows [5s Ts] (two pair, Tens and Sevens)
+Portugalkin2025: shows [Kc 7c] (three of a kind, Sevens)
+Portugalkin2025 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td 6d 8d 7d 7h]
+Seat 1: Portugalkin2025 (button) (small blind) showed [Kc 7c] and won (80) with three of a kind, Sevens
+Seat 3: mabeal1 (big blind) showed [5s Ts] and lost with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #259445656542: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 20:53:45 CET [2026/01/24 14:53:45 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (510 in chips) 
+Seat 3: mabeal1 (990 in chips) 
+mabeal1: posts small blind 20
+Portugalkin2025: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5s]
+mabeal1: calls 20
+Portugalkin2025: checks 
+*** FLOP *** [Qc Qs 8h]
+Portugalkin2025: checks 
+mabeal1: bets 40
+Portugalkin2025: calls 40
+*** TURN *** [Qc Qs 8h] [Ad]
+Portugalkin2025: checks 
+mabeal1: checks 
+*** RIVER *** [Qc Qs 8h Ad] [Ts]
+Portugalkin2025: bets 430 and is all-in
+mabeal1: folds 
+Uncalled bet (430) returned to Portugalkin2025
+Portugalkin2025 collected 160 from pot
+Portugalkin2025: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qc Qs 8h Ad Ts]
+Seat 1: Portugalkin2025 (big blind) collected (160)
+Seat 3: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259445662310: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:54:09 CET [2026/01/24 14:54:09 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (590 in chips) 
+Seat 3: mabeal1 (910 in chips) 
+Portugalkin2025: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Kd]
+Portugalkin2025: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259445663938: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:54:16 CET [2026/01/24 14:54:16 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (560 in chips) 
+Seat 3: mabeal1 (940 in chips) 
+mabeal1: posts small blind 30
+Portugalkin2025: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 8h]
+mabeal1: calls 30
+Portugalkin2025: checks 
+*** FLOP *** [Th Td 9d]
+Portugalkin2025: bets 60
+mabeal1: raises 120 to 180
+Portugalkin2025: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Th Td 9d]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #259445668315: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:54:35 CET [2026/01/24 14:54:35 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+Portugalkin2025: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 6h]
+Portugalkin2025: calls 30
+mabeal1: checks 
+*** FLOP *** [6c 5c Kd]
+mabeal1: checks 
+Portugalkin2025: checks 
+*** TURN *** [6c 5c Kd] [8c]
+mabeal1: bets 60
+Portugalkin2025: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6c 5c Kd 8c]
+Seat 1: Portugalkin2025 (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259445671698: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:54:49 CET [2026/01/24 14:54:49 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (380 in chips) 
+Seat 3: mabeal1 (1120 in chips) 
+mabeal1: posts small blind 30
+Portugalkin2025: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ah]
+mabeal1: raises 1060 to 1120 and is all-in
+Portugalkin2025: folds 
+Uncalled bet (1060) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Portugalkin2025 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259445673283: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:54:55 CET [2026/01/24 14:54:55 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (320 in chips) 
+Seat 3: mabeal1 (1180 in chips) 
+Portugalkin2025: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 5d]
+Portugalkin2025: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259445674495: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:55:01 CET [2026/01/24 14:55:01 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (290 in chips) 
+Seat 3: mabeal1 (1210 in chips) 
+mabeal1: posts small blind 30
+Portugalkin2025: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6h]
+mabeal1: calls 30
+Portugalkin2025: checks 
+*** FLOP *** [3d Kh 7s]
+Portugalkin2025: checks 
+mabeal1: bets 240
+Portugalkin2025: folds 
+Uncalled bet (240) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d Kh 7s]
+Seat 1: Portugalkin2025 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259445677270: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:55:17 CET [2026/01/24 14:55:17 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (230 in chips) 
+Seat 3: mabeal1 (1270 in chips) 
+Portugalkin2025: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Ad]
+Portugalkin2025: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259445678142: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:55:22 CET [2026/01/24 14:55:22 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (200 in chips) 
+Seat 3: mabeal1 (1300 in chips) 
+mabeal1: posts small blind 30
+Portugalkin2025: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9d]
+mabeal1: folds 
+Uncalled bet (30) returned to Portugalkin2025
+Portugalkin2025 collected 60 from pot
+Portugalkin2025: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Portugalkin2025 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259445678969: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:55:28 CET [2026/01/24 14:55:28 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (230 in chips) 
+Seat 3: mabeal1 (1270 in chips) 
+Portugalkin2025: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 8h]
+Portugalkin2025: raises 170 to 230 and is all-in
+mabeal1: folds 
+Uncalled bet (170) returned to Portugalkin2025
+Portugalkin2025 collected 120 from pot
+Portugalkin2025: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259445679919: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:55:34 CET [2026/01/24 14:55:34 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (290 in chips) 
+Seat 3: mabeal1 (1210 in chips) 
+mabeal1: posts small blind 30
+Portugalkin2025: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7d]
+mabeal1: raises 1150 to 1210 and is all-in
+Portugalkin2025: folds 
+Uncalled bet (1150) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Portugalkin2025 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259445681194: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:55:42 CET [2026/01/24 14:55:42 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (230 in chips) 
+Seat 3: mabeal1 (1270 in chips) 
+Portugalkin2025: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Qh]
+Portugalkin2025: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Portugalkin2025 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259445682009: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:55:47 CET [2026/01/24 14:55:47 ET]
+Table '3968766678 1' 3-max Seat #3 is the button
+Seat 1: Portugalkin2025 (200 in chips) 
+Seat 3: mabeal1 (1300 in chips) 
+mabeal1: posts small blind 30
+Portugalkin2025: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 6c]
+mabeal1: raises 1240 to 1300 and is all-in
+Portugalkin2025: folds 
+Uncalled bet (1240) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Portugalkin2025 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259445683016: Tournament #3968766678, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 20:55:54 CET [2026/01/24 14:55:54 ET]
+Table '3968766678 1' 3-max Seat #1 is the button
+Seat 1: Portugalkin2025 (140 in chips) 
+Seat 3: mabeal1 (1360 in chips) 
+Portugalkin2025: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Kh]
+Portugalkin2025: calls 30
+mabeal1: raises 1300 to 1360 and is all-in
+Portugalkin2025: calls 80 and is all-in
+Uncalled bet (1220) returned to mabeal1
+*** FLOP *** [2d Qs 8h]
+*** TURN *** [2d Qs 8h] [5c]
+*** RIVER *** [2d Qs 8h 5c] [3h]
+*** SHOW DOWN ***
+mabeal1: shows [8d Kh] (a pair of Eights)
+Portugalkin2025: shows [Jc Ks] (high card King)
+mabeal1 collected 280 from pot
+Portugalkin2025 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [2d Qs 8h 5c 3h]
+Seat 1: Portugalkin2025 (button) (small blind) showed [Jc Ks] and lost with high card King
+Seat 3: mabeal1 (big blind) showed [8d Kh] and won (280) with a pair of Eights
+
+
+

@@ -1,0 +1,364 @@
+﻿PokerStars Hand #259553751710: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:35:51 CET [2026/02/01 15:35:51 ET]
+Table '3971215241 1' 3-max Seat #1 is the button
+Seat 1: aKaskarla91 (500 in chips) 
+Seat 2: frozen coo52 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+frozen coo52: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Jh]
+aKaskarla91: folds 
+frozen coo52: calls 10
+mabeal1: checks 
+*** FLOP *** [9c Qh 2s]
+frozen coo52: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to frozen coo52
+frozen coo52 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c Qh 2s]
+Seat 1: aKaskarla91 (button) folded before Flop (didn't bet)
+Seat 2: frozen coo52 (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259553757794: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:36:11 CET [2026/02/01 15:36:11 ET]
+Table '3971215241 1' 3-max Seat #2 is the button
+Seat 1: aKaskarla91 (500 in chips) 
+Seat 2: frozen coo52 (520 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+aKaskarla91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad As]
+frozen coo52: folds 
+mabeal1: raises 20 to 40
+aKaskarla91: calls 20
+*** FLOP *** [6h 5c Ks]
+mabeal1: bets 60
+aKaskarla91: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 5c Ks]
+Seat 1: aKaskarla91 (big blind) folded on the Flop
+Seat 2: frozen coo52 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259553765209: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:36:35 CET [2026/02/01 15:36:35 ET]
+Table '3971215241 1' 3-max Seat #3 is the button
+Seat 1: aKaskarla91 (460 in chips) 
+Seat 2: frozen coo52 (520 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+aKaskarla91: posts small blind 10
+frozen coo52: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Kd]
+mabeal1: raises 20 to 40
+aKaskarla91: folds 
+frozen coo52: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: aKaskarla91 (small blind) folded before Flop
+Seat 2: frozen coo52 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259553770010: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:36:50 CET [2026/02/01 15:36:50 ET]
+Table '3971215241 1' 3-max Seat #1 is the button
+Seat 1: aKaskarla91 (450 in chips) 
+Seat 2: frozen coo52 (500 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+frozen coo52: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 5h]
+aKaskarla91: calls 20
+frozen coo52: calls 10
+mabeal1: checks 
+*** FLOP *** [Qd Js Td]
+frozen coo52: bets 30
+mabeal1: folds 
+aKaskarla91: calls 30
+*** TURN *** [Qd Js Td] [8c]
+frozen coo52: bets 60
+aKaskarla91: calls 60
+*** RIVER *** [Qd Js Td 8c] [5c]
+frozen coo52: bets 60
+aKaskarla91: folds 
+Uncalled bet (60) returned to frozen coo52
+frozen coo52 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qd Js Td 8c 5c]
+Seat 1: aKaskarla91 (button) folded on the River
+Seat 2: frozen coo52 (small blind) collected (240)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259553781822: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:37:29 CET [2026/02/01 15:37:29 ET]
+Table '3971215241 1' 3-max Seat #2 is the button
+Seat 1: aKaskarla91 (340 in chips) 
+Seat 2: frozen coo52 (630 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+mabeal1: posts small blind 10
+aKaskarla91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 7h]
+frozen coo52: folds 
+mabeal1: raises 20 to 40
+aKaskarla91: calls 20
+*** FLOP *** [8c Js 4d]
+mabeal1: checks 
+aKaskarla91: checks 
+*** TURN *** [8c Js 4d] [4h]
+mabeal1: bets 40
+aKaskarla91: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8c Js 4d 4h]
+Seat 1: aKaskarla91 (big blind) folded on the Turn
+Seat 2: frozen coo52 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259553791324: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:38:00 CET [2026/02/01 15:38:00 ET]
+Table '3971215241 1' 3-max Seat #3 is the button
+Seat 1: aKaskarla91 (300 in chips) 
+Seat 2: frozen coo52 (630 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+aKaskarla91: posts small blind 15
+frozen coo52: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 2d]
+mabeal1: folds 
+aKaskarla91: folds 
+Uncalled bet (15) returned to frozen coo52
+frozen coo52 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: aKaskarla91 (small blind) folded before Flop
+Seat 2: frozen coo52 (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553795008: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:38:13 CET [2026/02/01 15:38:13 ET]
+Table '3971215241 1' 3-max Seat #1 is the button
+Seat 1: aKaskarla91 (285 in chips) 
+Seat 2: frozen coo52 (645 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+frozen coo52: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 5s]
+aKaskarla91: folds 
+frozen coo52: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: aKaskarla91 (button) folded before Flop (didn't bet)
+Seat 2: frozen coo52 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259553796852: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:38:19 CET [2026/02/01 15:38:19 ET]
+Table '3971215241 1' 3-max Seat #2 is the button
+Seat 1: aKaskarla91 (285 in chips) 
+Seat 2: frozen coo52 (630 in chips) 
+Seat 3: mabeal1 (585 in chips) 
+mabeal1: posts small blind 15
+aKaskarla91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 9c]
+frozen coo52: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to aKaskarla91
+aKaskarla91 collected 30 from pot
+aKaskarla91: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: aKaskarla91 (big blind) collected (30)
+Seat 2: frozen coo52 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553800099: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:38:29 CET [2026/02/01 15:38:29 ET]
+Table '3971215241 1' 3-max Seat #3 is the button
+Seat 1: aKaskarla91 (300 in chips) 
+Seat 2: frozen coo52 (630 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+aKaskarla91: posts small blind 15
+frozen coo52: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9h]
+mabeal1: raises 30 to 60
+aKaskarla91: folds 
+frozen coo52: calls 30
+*** FLOP *** [7h Th Qs]
+frozen coo52: checks 
+mabeal1: bets 101
+frozen coo52: folds 
+Uncalled bet (101) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7h Th Qs]
+Seat 1: aKaskarla91 (small blind) folded before Flop
+Seat 2: frozen coo52 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) collected (135)
+
+
+
+PokerStars Hand #259553808419: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:38:56 CET [2026/02/01 15:38:56 ET]
+Table '3971215241 1' 3-max Seat #1 is the button
+Seat 1: aKaskarla91 (285 in chips) 
+Seat 2: frozen coo52 (570 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+frozen coo52: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Js]
+aKaskarla91: folds 
+frozen coo52: raises 60 to 90
+mabeal1: raises 555 to 645 and is all-in
+frozen coo52: calls 480 and is all-in
+Uncalled bet (75) returned to mabeal1
+*** FLOP *** [5s 4d 8h]
+*** TURN *** [5s 4d 8h] [2h]
+*** RIVER *** [5s 4d 8h 2h] [5d]
+*** SHOW DOWN ***
+frozen coo52: shows [Jh Kc] (a pair of Fives)
+mabeal1: shows [Ac Js] (a pair of Fives - Ace kicker)
+mabeal1 collected 1140 from pot
+frozen coo52 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [5s 4d 8h 2h 5d]
+Seat 1: aKaskarla91 (button) folded before Flop (didn't bet)
+Seat 2: frozen coo52 (small blind) showed [Jh Kc] and lost with a pair of Fives
+Seat 3: mabeal1 (big blind) showed [Ac Js] and won (1140) with a pair of Fives
+
+
+
+PokerStars Hand #259553818469: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:39:29 CET [2026/02/01 15:39:29 ET]
+Table '3971215241 1' 3-max Seat #3 is the button
+Seat 1: aKaskarla91 (285 in chips) 
+Seat 3: mabeal1 (1215 in chips) 
+mabeal1: posts small blind 15
+aKaskarla91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 9s]
+mabeal1: calls 15
+aKaskarla91: checks 
+*** FLOP *** [6s 8h 2h]
+aKaskarla91: checks 
+mabeal1: bets 30
+aKaskarla91: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6s 8h 2h]
+Seat 1: aKaskarla91 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259553822501: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:39:42 CET [2026/02/01 15:39:42 ET]
+Table '3971215241 1' 3-max Seat #1 is the button
+Seat 1: aKaskarla91 (255 in chips) 
+Seat 3: mabeal1 (1245 in chips) 
+aKaskarla91: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 2c]
+aKaskarla91: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: aKaskarla91 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259553824997: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 21:39:51 CET [2026/02/01 15:39:51 ET]
+Table '3971215241 1' 3-max Seat #3 is the button
+Seat 1: aKaskarla91 (240 in chips) 
+Seat 3: mabeal1 (1260 in chips) 
+mabeal1: posts small blind 15
+aKaskarla91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Kc]
+mabeal1: calls 15
+aKaskarla91: checks 
+*** FLOP *** [Js 9h 7d]
+aKaskarla91: checks 
+mabeal1: checks 
+*** TURN *** [Js 9h 7d] [8c]
+aKaskarla91: checks 
+mabeal1: bets 30
+aKaskarla91: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 9h 7d 8c]
+Seat 1: aKaskarla91 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259553832068: Tournament #3971215241, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 21:40:13 CET [2026/02/01 15:40:13 ET]
+Table '3971215241 1' 3-max Seat #1 is the button
+Seat 1: aKaskarla91 (210 in chips) 
+Seat 3: mabeal1 (1290 in chips) 
+aKaskarla91: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7s]
+aKaskarla91: calls 20
+mabeal1: raises 1250 to 1290 and is all-in
+aKaskarla91: calls 170 and is all-in
+Uncalled bet (1080) returned to mabeal1
+*** FLOP *** [4s Jh 6d]
+*** TURN *** [4s Jh 6d] [6s]
+*** RIVER *** [4s Jh 6d 6s] [Th]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 7s] (a pair of Sixes)
+aKaskarla91: shows [7c Kh] (a pair of Sixes - lower kicker)
+mabeal1 collected 420 from pot
+aKaskarla91 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [4s Jh 6d 6s Th]
+Seat 1: aKaskarla91 (button) (small blind) showed [7c Kh] and lost with a pair of Sixes
+Seat 3: mabeal1 (big blind) showed [Ah 7s] and won (420) with a pair of Sixes
+
+
+

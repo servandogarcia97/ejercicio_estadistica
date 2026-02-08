@@ -1,0 +1,130 @@
+﻿PokerStars Hand #259377280489: Tournament #3967144171, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:00:51 CET [2026/01/19 11:00:51 ET]
+Table '3967144171 1' 3-max Seat #1 is the button
+Seat 1: pokalexy (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: LFC.RED1892 (500 in chips) 
+mabeal1: posts small blind 10
+LFC.RED1892: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 6d]
+pokalexy: raises 50 to 70
+mabeal1: folds 
+LFC.RED1892: folds 
+Uncalled bet (50) returned to pokalexy
+pokalexy collected 50 from pot
+pokalexy: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: pokalexy (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: LFC.RED1892 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259377281662: Tournament #3967144171, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:00:59 CET [2026/01/19 11:00:59 ET]
+Table '3967144171 1' 3-max Seat #2 is the button
+Seat 1: pokalexy (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: LFC.RED1892 (480 in chips) 
+LFC.RED1892: posts small blind 10
+pokalexy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2h]
+mabeal1: folds 
+LFC.RED1892: folds 
+Uncalled bet (10) returned to pokalexy
+pokalexy collected 20 from pot
+pokalexy: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pokalexy (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: LFC.RED1892 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259377283036: Tournament #3967144171, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:01:08 CET [2026/01/19 11:01:08 ET]
+Table '3967144171 1' 3-max Seat #3 is the button
+Seat 1: pokalexy (540 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: LFC.RED1892 (470 in chips) 
+pokalexy: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2d]
+LFC.RED1892: folds 
+pokalexy: calls 10
+mabeal1: checks 
+*** FLOP *** [Js 7c 4h]
+pokalexy: checks 
+mabeal1: bets 20
+pokalexy: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 7c 4h]
+Seat 1: pokalexy (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: LFC.RED1892 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259377285115: Tournament #3967144171, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:01:21 CET [2026/01/19 11:01:21 ET]
+Table '3967144171 1' 3-max Seat #1 is the button
+Seat 1: pokalexy (520 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: LFC.RED1892 (470 in chips) 
+mabeal1: posts small blind 10
+LFC.RED1892: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Qd]
+pokalexy: calls 20
+mabeal1: folds 
+LFC.RED1892: checks 
+*** FLOP *** [Th Jh 7c]
+LFC.RED1892: checks 
+pokalexy: bets 50
+LFC.RED1892: folds 
+Uncalled bet (50) returned to pokalexy
+pokalexy collected 50 from pot
+pokalexy: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Th Jh 7c]
+Seat 1: pokalexy (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: LFC.RED1892 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259377287771: Tournament #3967144171, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:01:37 CET [2026/01/19 11:01:37 ET]
+Table '3967144171 1' 3-max Seat #2 is the button
+Seat 1: pokalexy (550 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: LFC.RED1892 (450 in chips) 
+LFC.RED1892: posts small blind 10
+pokalexy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Jd]
+mabeal1: raises 480 to 500 and is all-in
+LFC.RED1892: folds 
+pokalexy: calls 480
+*** FLOP *** [4c Js Ah]
+*** TURN *** [4c Js Ah] [4d]
+*** RIVER *** [4c Js Ah 4d] [2h]
+*** SHOW DOWN ***
+pokalexy: shows [6s 4s] (three of a kind, Fours)
+mabeal1: shows [As Jd] (two pair, Aces and Jacks)
+pokalexy collected 1010 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [4c Js Ah 4d 2h]
+Seat 1: pokalexy (big blind) showed [6s 4s] and won (1010) with three of a kind, Fours
+Seat 2: mabeal1 (button) showed [As Jd] and lost with two pair, Aces and Jacks
+Seat 3: LFC.RED1892 (small blind) folded before Flop
+
+
+

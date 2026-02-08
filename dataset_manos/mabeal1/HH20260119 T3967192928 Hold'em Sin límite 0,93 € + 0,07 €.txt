@@ -1,0 +1,375 @@
+﻿PokerStars Hand #259379406453: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:48:30 CET [2026/01/19 13:48:30 ET]
+Table '3967192928 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: 73snooker (500 in chips) 
+Seat 3: pikiwiki69 (500 in chips) 
+73snooker: posts small blind 10
+pikiwiki69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8s]
+mabeal1: folds 
+73snooker: raises 40 to 60
+pikiwiki69: calls 40
+*** FLOP *** [Tc Qh Ks]
+73snooker: checks 
+pikiwiki69: bets 84
+73snooker: calls 84
+*** TURN *** [Tc Qh Ks] [6s]
+73snooker: checks 
+pikiwiki69: bets 202
+73snooker: calls 202
+*** RIVER *** [Tc Qh Ks 6s] [4c]
+73snooker: checks 
+pikiwiki69: bets 154 and is all-in
+73snooker: calls 154 and is all-in
+*** SHOW DOWN ***
+pikiwiki69: shows [7d Kc] (a pair of Kings)
+73snooker: shows [Jd Jc] (a pair of Jacks)
+pikiwiki69 collected 1000 from pot
+73snooker finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Tc Qh Ks 6s 4c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: 73snooker (small blind) showed [Jd Jc] and lost with a pair of Jacks
+Seat 3: pikiwiki69 (big blind) showed [7d Kc] and won (1000) with a pair of Kings
+
+
+
+PokerStars Hand #259379414011: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:48:59 CET [2026/01/19 13:48:59 ET]
+Table '3967192928 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 3: pikiwiki69 (1000 in chips) 
+pikiwiki69: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8h]
+pikiwiki69: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: pikiwiki69 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379415185: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:49:03 CET [2026/01/19 13:49:03 ET]
+Table '3967192928 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 3: pikiwiki69 (990 in chips) 
+mabeal1: posts small blind 10
+pikiwiki69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ts]
+mabeal1: calls 10
+pikiwiki69: checks 
+*** FLOP *** [7h 6s Jc]
+pikiwiki69: checks 
+mabeal1: bets 20
+pikiwiki69: calls 20
+*** TURN *** [7h 6s Jc] [2h]
+pikiwiki69: checks 
+mabeal1: checks 
+*** RIVER *** [7h 6s Jc 2h] [4c]
+pikiwiki69: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+pikiwiki69: shows [5c Kh] (high card King)
+mabeal1: shows [2s Ts] (a pair of Deuces)
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7h 6s Jc 2h 4c]
+Seat 1: mabeal1 (button) (small blind) showed [2s Ts] and won (80) with a pair of Deuces
+Seat 3: pikiwiki69 (big blind) showed [5c Kh] and lost with high card King
+
+
+
+PokerStars Hand #259379419459: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:49:20 CET [2026/01/19 13:49:20 ET]
+Table '3967192928 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 3: pikiwiki69 (950 in chips) 
+pikiwiki69: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 9h]
+pikiwiki69: calls 10
+mabeal1: checks 
+*** FLOP *** [Th As 2h]
+mabeal1: bets 20
+pikiwiki69: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th As 2h]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: pikiwiki69 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259379424661: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:49:39 CET [2026/01/19 13:49:39 ET]
+Table '3967192928 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 3: pikiwiki69 (930 in chips) 
+mabeal1: posts small blind 10
+pikiwiki69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 5s]
+mabeal1: calls 10
+pikiwiki69: raises 50 to 70
+mabeal1: folds 
+Uncalled bet (50) returned to pikiwiki69
+pikiwiki69 collected 40 from pot
+pikiwiki69: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: pikiwiki69 (big blind) collected (40)
+
+
+
+PokerStars Hand #259379426882: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:49:47 CET [2026/01/19 13:49:47 ET]
+Table '3967192928 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 3: pikiwiki69 (950 in chips) 
+pikiwiki69: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 8h]
+pikiwiki69: calls 10
+mabeal1: checks 
+*** FLOP *** [Qd 8d As]
+mabeal1: checks 
+pikiwiki69: checks 
+*** TURN *** [Qd 8d As] [Kh]
+mabeal1: bets 20
+pikiwiki69: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd 8d As Kh]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: pikiwiki69 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259379432871: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:50:11 CET [2026/01/19 13:50:11 ET]
+Table '3967192928 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 3: pikiwiki69 (930 in chips) 
+mabeal1: posts small blind 10
+pikiwiki69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kd]
+mabeal1: calls 10
+pikiwiki69: raises 50 to 70
+mabeal1: folds 
+Uncalled bet (50) returned to pikiwiki69
+pikiwiki69 collected 40 from pot
+pikiwiki69: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: pikiwiki69 (big blind) collected (40)
+
+
+
+PokerStars Hand #259379434875: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:50:19 CET [2026/01/19 13:50:19 ET]
+Table '3967192928 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 3: pikiwiki69 (950 in chips) 
+pikiwiki69: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Th]
+pikiwiki69: calls 10
+mabeal1: raises 40 to 60
+pikiwiki69: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: pikiwiki69 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379437080: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:50:27 CET [2026/01/19 13:50:27 ET]
+Table '3967192928 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 3: pikiwiki69 (930 in chips) 
+mabeal1: posts small blind 10
+pikiwiki69: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 2s]
+mabeal1: calls 10
+pikiwiki69: checks 
+*** FLOP *** [7h Qh 7c]
+pikiwiki69: checks 
+mabeal1: bets 20
+pikiwiki69: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h Qh 7c]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: pikiwiki69 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259379440576: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:50:40 CET [2026/01/19 13:50:40 ET]
+Table '3967192928 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 3: pikiwiki69 (910 in chips) 
+pikiwiki69: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5c]
+pikiwiki69: raises 75 to 105
+mabeal1: folds 
+Uncalled bet (75) returned to pikiwiki69
+pikiwiki69 collected 60 from pot
+pikiwiki69: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: pikiwiki69 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259379442346: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:50:47 CET [2026/01/19 13:50:47 ET]
+Table '3967192928 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 3: pikiwiki69 (940 in chips) 
+mabeal1: posts small blind 15
+pikiwiki69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Jh]
+mabeal1: calls 15
+pikiwiki69: raises 75 to 105
+mabeal1: folds 
+Uncalled bet (75) returned to pikiwiki69
+pikiwiki69 collected 60 from pot
+pikiwiki69: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: pikiwiki69 (big blind) collected (60)
+
+
+
+PokerStars Hand #259379444772: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:50:57 CET [2026/01/19 13:50:57 ET]
+Table '3967192928 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 3: pikiwiki69 (970 in chips) 
+pikiwiki69: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ts]
+pikiwiki69: raises 75 to 105
+mabeal1: raises 425 to 530 and is all-in
+pikiwiki69: calls 425
+*** FLOP *** [7s Qs Tc]
+*** TURN *** [7s Qs Tc] [9d]
+*** RIVER *** [7s Qs Tc 9d] [3h]
+*** SHOW DOWN ***
+mabeal1: shows [Td Ts] (three of a kind, Tens)
+pikiwiki69: shows [3s 3c] (three of a kind, Threes)
+mabeal1 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [7s Qs Tc 9d 3h]
+Seat 1: mabeal1 (big blind) showed [Td Ts] and won (1060) with three of a kind, Tens
+Seat 3: pikiwiki69 (button) (small blind) showed [3s 3c] and lost with three of a kind, Threes
+
+
+
+PokerStars Hand #259379448563: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:51:11 CET [2026/01/19 13:51:11 ET]
+Table '3967192928 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: pikiwiki69 (440 in chips) 
+mabeal1: posts small blind 15
+pikiwiki69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4h]
+mabeal1: calls 15
+pikiwiki69: checks 
+*** FLOP *** [Kd 5c 2h]
+pikiwiki69: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to pikiwiki69
+pikiwiki69 collected 60 from pot
+pikiwiki69: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kd 5c 2h]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: pikiwiki69 (big blind) collected (60)
+
+
+
+PokerStars Hand #259379452613: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:51:26 CET [2026/01/19 13:51:26 ET]
+Table '3967192928 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: pikiwiki69 (470 in chips) 
+pikiwiki69: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Th]
+pikiwiki69: calls 15
+mabeal1: raises 60 to 90
+pikiwiki69: calls 60
+*** FLOP *** [2h 4d 7c]
+mabeal1: checks 
+pikiwiki69: bets 126
+mabeal1: folds 
+Uncalled bet (126) returned to pikiwiki69
+pikiwiki69 collected 180 from pot
+pikiwiki69: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2h 4d 7c]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: pikiwiki69 (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #259379457354: Tournament #3967192928, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:51:45 CET [2026/01/19 13:51:45 ET]
+Table '3967192928 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 3: pikiwiki69 (560 in chips) 
+mabeal1: posts small blind 15
+pikiwiki69: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ks]
+mabeal1: raises 30 to 60
+pikiwiki69: raises 120 to 180
+mabeal1: calls 120
+*** FLOP *** [4s Kc 2s]
+pikiwiki69: bets 380 and is all-in
+mabeal1: calls 380
+*** TURN *** [4s Kc 2s] [9h]
+*** RIVER *** [4s Kc 2s 9h] [8d]
+*** SHOW DOWN ***
+pikiwiki69: shows [Jh Jc] (a pair of Jacks)
+mabeal1: shows [Th Ks] (a pair of Kings)
+mabeal1 collected 1120 from pot
+pikiwiki69 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [4s Kc 2s 9h 8d]
+Seat 1: mabeal1 (button) (small blind) showed [Th Ks] and won (1120) with a pair of Kings
+Seat 3: pikiwiki69 (big blind) showed [Jh Jc] and lost with a pair of Jacks
+
+
+

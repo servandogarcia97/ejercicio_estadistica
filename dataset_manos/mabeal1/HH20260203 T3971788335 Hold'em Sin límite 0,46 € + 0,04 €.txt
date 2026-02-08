@@ -1,0 +1,1013 @@
+﻿PokerStars Hand #259579382203: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:11:52 CET [2026/02/03 14:11:52 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Seenat601 (500 in chips) 
+Seat 3: calinsky677 (500 in chips) 
+Seenat601: posts small blind 10
+calinsky677: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 5c]
+mabeal1: raises 480 to 500 and is all-in
+Seenat601: folds 
+calinsky677: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: Seenat601 (small blind) folded before Flop
+Seat 3: calinsky677 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579387944: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:12:15 CET [2026/02/03 14:12:15 ET]
+Table '3971788335 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Seenat601 (490 in chips) 
+Seat 3: calinsky677 (480 in chips) 
+calinsky677: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 2h]
+Seenat601: calls 20
+calinsky677: folds 
+mabeal1: checks 
+*** FLOP *** [6d 7s Ad]
+mabeal1: checks 
+Seenat601: checks 
+*** TURN *** [6d 7s Ad] [Jh]
+mabeal1: bets 24
+Seenat601: folds 
+Uncalled bet (24) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [6d 7s Ad Jh]
+Seat 1: mabeal1 (big blind) collected (50)
+Seat 2: Seenat601 (button) folded on the Turn
+Seat 3: calinsky677 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579393928: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:12:39 CET [2026/02/03 14:12:39 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: Seenat601 (470 in chips) 
+Seat 3: calinsky677 (470 in chips) 
+mabeal1: posts small blind 10
+Seenat601: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 5d]
+calinsky677: folds 
+mabeal1: raises 30 to 50
+Seenat601: raises 420 to 470 and is all-in
+mabeal1: folds 
+Uncalled bet (420) returned to Seenat601
+Seenat601 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Seenat601 (big blind) collected (100)
+Seat 3: calinsky677 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579397326: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:12:53 CET [2026/02/03 14:12:53 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Seenat601 (520 in chips) 
+Seat 3: calinsky677 (470 in chips) 
+Seenat601: posts small blind 10
+calinsky677: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 5h]
+mabeal1: raises 20 to 40
+Seenat601: folds 
+calinsky677: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: Seenat601 (small blind) folded before Flop
+Seat 3: calinsky677 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579399202: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:13:00 CET [2026/02/03 14:13:00 ET]
+Table '3971788335 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: Seenat601 (510 in chips) 
+Seat 3: calinsky677 (450 in chips) 
+calinsky677: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Kh]
+Seenat601: folds 
+calinsky677: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: Seenat601 (button) folded before Flop (didn't bet)
+Seat 3: calinsky677 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579400712: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:13:06 CET [2026/02/03 14:13:06 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: Seenat601 (510 in chips) 
+Seat 3: calinsky677 (440 in chips) 
+mabeal1: posts small blind 10
+Seenat601: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 3d]
+calinsky677: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Seenat601
+Seenat601 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Seenat601 (big blind) collected (20)
+Seat 3: calinsky677 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579402406: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:13:13 CET [2026/02/03 14:13:13 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: Seenat601 (520 in chips) 
+Seat 3: calinsky677 (440 in chips) 
+Seenat601: posts small blind 10
+calinsky677: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Kc]
+mabeal1: raises 20 to 40
+Seenat601: folds 
+calinsky677: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: Seenat601 (small blind) folded before Flop
+Seat 3: calinsky677 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579405693: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:13:26 CET [2026/02/03 14:13:26 ET]
+Table '3971788335 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: Seenat601 (510 in chips) 
+Seat 3: calinsky677 (420 in chips) 
+calinsky677: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9d]
+Seenat601: folds 
+calinsky677: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: Seenat601 (button) folded before Flop (didn't bet)
+Seat 3: calinsky677 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579409806: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:13:42 CET [2026/02/03 14:13:42 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Seenat601 (510 in chips) 
+Seat 3: calinsky677 (410 in chips) 
+mabeal1: posts small blind 10
+Seenat601: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 9h]
+calinsky677: folds 
+mabeal1: raises 20 to 40
+Seenat601: calls 20
+*** FLOP *** [8s 2h 2d]
+mabeal1: bets 40
+Seenat601: calls 40
+*** TURN *** [8s 2h 2d] [Qh]
+mabeal1: checks 
+Seenat601: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Seenat601
+Seenat601 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [8s 2h 2d Qh]
+Seat 1: mabeal1 (small blind) folded on the Turn
+Seat 2: Seenat601 (big blind) collected (160)
+Seat 3: calinsky677 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579418259: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:14:16 CET [2026/02/03 14:14:16 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Seenat601 (590 in chips) 
+Seat 3: calinsky677 (410 in chips) 
+Seenat601: posts small blind 10
+calinsky677: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 3c]
+mabeal1: folds 
+Seenat601: raises 40 to 60
+calinsky677: folds 
+Uncalled bet (40) returned to Seenat601
+Seenat601 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Seenat601 (small blind) collected (40)
+Seat 3: calinsky677 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579421992: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:14:31 CET [2026/02/03 14:14:31 ET]
+Table '3971788335 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Seenat601 (610 in chips) 
+Seat 3: calinsky677 (390 in chips) 
+calinsky677: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 2s]
+Seenat601: folds 
+calinsky677: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to calinsky677
+calinsky677 collected 40 from pot
+calinsky677: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Seenat601 (button) folded before Flop (didn't bet)
+Seat 3: calinsky677 (small blind) collected (40)
+
+
+
+PokerStars Hand #259579424548: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 20:14:41 CET [2026/02/03 14:14:41 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: Seenat601 (610 in chips) 
+Seat 3: calinsky677 (410 in chips) 
+mabeal1: posts small blind 10
+Seenat601: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Ad]
+calinsky677 has timed out
+calinsky677: folds 
+calinsky677 is sitting out
+mabeal1: raises 30 to 50
+calinsky677 has returned
+Seenat601: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: Seenat601 (big blind) folded before Flop
+Seat 3: calinsky677 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579431473: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:15:08 CET [2026/02/03 14:15:08 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Seenat601 (590 in chips) 
+Seat 3: calinsky677 (410 in chips) 
+Seenat601: posts small blind 15
+calinsky677: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 8c]
+mabeal1: folds 
+Seenat601: calls 15
+calinsky677: checks 
+*** FLOP *** [2d 9h Th]
+Seenat601: checks 
+calinsky677: checks 
+*** TURN *** [2d 9h Th] [7h]
+Seenat601: checks 
+calinsky677: checks 
+*** RIVER *** [2d 9h Th 7h] [7s]
+Seenat601: checks 
+calinsky677: checks 
+*** SHOW DOWN ***
+Seenat601: shows [5h Qd] (a pair of Sevens)
+calinsky677: mucks hand 
+Seenat601 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d 9h Th 7h 7s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Seenat601 (small blind) showed [5h Qd] and won (60) with a pair of Sevens
+Seat 3: calinsky677 (big blind) mucked [8d 3s]
+
+
+
+PokerStars Hand #259579436678: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:15:29 CET [2026/02/03 14:15:29 ET]
+Table '3971788335 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Seenat601 (620 in chips) 
+Seat 3: calinsky677 (380 in chips) 
+calinsky677: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ac]
+Seenat601: folds 
+calinsky677: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: Seenat601 (button) folded before Flop (didn't bet)
+Seat 3: calinsky677 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579438270: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:15:35 CET [2026/02/03 14:15:35 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (515 in chips) 
+Seat 2: Seenat601 (620 in chips) 
+Seat 3: calinsky677 (365 in chips) 
+mabeal1: posts small blind 15
+Seenat601: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Td]
+calinsky677: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Seenat601
+Seenat601 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Seenat601 (big blind) collected (30)
+Seat 3: calinsky677 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579442488: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:15:52 CET [2026/02/03 14:15:52 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Seenat601 (635 in chips) 
+Seat 3: calinsky677 (365 in chips) 
+Seenat601: posts small blind 15
+calinsky677: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Qd]
+mabeal1: folds 
+Seenat601: raises 605 to 635 and is all-in
+calinsky677: folds 
+Uncalled bet (605) returned to Seenat601
+Seenat601 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Seenat601 (small blind) collected (60)
+Seat 3: calinsky677 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579445634: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:16:04 CET [2026/02/03 14:16:04 ET]
+Table '3971788335 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Seenat601 (665 in chips) 
+Seat 3: calinsky677 (335 in chips) 
+calinsky677: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2h]
+Seenat601: folds 
+calinsky677: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to calinsky677
+calinsky677 collected 60 from pot
+calinsky677: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Seenat601 (button) folded before Flop (didn't bet)
+Seat 3: calinsky677 (small blind) collected (60)
+
+
+
+PokerStars Hand #259579449296: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:16:19 CET [2026/02/03 14:16:19 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: Seenat601 (665 in chips) 
+Seat 3: calinsky677 (365 in chips) 
+mabeal1: posts small blind 15
+Seenat601: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Kc]
+calinsky677: folds 
+mabeal1: raises 45 to 75
+Seenat601: raises 590 to 665 and is all-in
+mabeal1: calls 395 and is all-in
+Uncalled bet (195) returned to Seenat601
+*** FLOP *** [6c 4c Js]
+*** TURN *** [6c 4c Js] [As]
+*** RIVER *** [6c 4c Js As] [Td]
+*** SHOW DOWN ***
+mabeal1: shows [Ad Kc] (a pair of Aces)
+Seenat601: shows [Ah Qs] (a pair of Aces - lower kicker)
+mabeal1 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [6c 4c Js As Td]
+Seat 1: mabeal1 (small blind) showed [Ad Kc] and won (940) with a pair of Aces
+Seat 2: Seenat601 (big blind) showed [Ah Qs] and lost with a pair of Aces
+Seat 3: calinsky677 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259579455615: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:16:43 CET [2026/02/03 14:16:43 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 2: Seenat601 (195 in chips) 
+Seat 3: calinsky677 (365 in chips) 
+Seenat601: posts small blind 15
+calinsky677: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 7h]
+mabeal1: folds 
+Seenat601: calls 15
+calinsky677: raises 60 to 90
+Seenat601: calls 60
+*** FLOP *** [Kd Qs Jc]
+Seenat601: bets 105 and is all-in
+calinsky677: calls 105
+*** TURN *** [Kd Qs Jc] [Ks]
+*** RIVER *** [Kd Qs Jc Ks] [3d]
+*** SHOW DOWN ***
+Seenat601: shows [Th 5d] (a pair of Kings)
+calinsky677: shows [6s 6d] (two pair, Kings and Sixes)
+calinsky677 collected 390 from pot
+Seenat601 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [Kd Qs Jc Ks 3d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Seenat601 (small blind) showed [Th 5d] and lost with a pair of Kings
+Seat 3: calinsky677 (big blind) showed [6s 6d] and won (390) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #259579462848: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:17:12 CET [2026/02/03 14:17:12 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 3: calinsky677 (560 in chips) 
+calinsky677: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Js]
+calinsky677: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579465838: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:17:24 CET [2026/02/03 14:17:24 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (955 in chips) 
+Seat 3: calinsky677 (545 in chips) 
+mabeal1: posts small blind 15
+calinsky677: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2s]
+mabeal1: folds 
+Uncalled bet (15) returned to calinsky677
+calinsky677 collected 30 from pot
+calinsky677: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: calinsky677 (big blind) collected (30)
+
+
+
+PokerStars Hand #259579466959: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:17:29 CET [2026/02/03 14:17:29 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 3: calinsky677 (560 in chips) 
+calinsky677: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 6h]
+calinsky677: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579468408: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:17:35 CET [2026/02/03 14:17:35 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (955 in chips) 
+Seat 3: calinsky677 (545 in chips) 
+mabeal1: posts small blind 15
+calinsky677: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 6s]
+mabeal1: folds 
+Uncalled bet (15) returned to calinsky677
+calinsky677 collected 30 from pot
+calinsky677: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: calinsky677 (big blind) collected (30)
+
+
+
+PokerStars Hand #259579470894: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:17:44 CET [2026/02/03 14:17:44 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (940 in chips) 
+Seat 3: calinsky677 (560 in chips) 
+calinsky677: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3d]
+calinsky677: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579472696: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 20:17:51 CET [2026/02/03 14:17:51 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (955 in chips) 
+Seat 3: calinsky677 (545 in chips) 
+mabeal1: posts small blind 15
+calinsky677: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Kh]
+mabeal1: calls 15
+calinsky677: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [Qh Jc 9s]
+calinsky677: checks 
+mabeal1: checks 
+*** TURN *** [Qh Jc 9s] [3d]
+calinsky677: checks 
+mabeal1: bets 135
+calinsky677: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qh Jc 9s 3d]
+Seat 1: mabeal1 (button) (small blind) collected (180)
+Seat 3: calinsky677 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259579480447: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:18:22 CET [2026/02/03 14:18:22 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1045 in chips) 
+Seat 3: calinsky677 (455 in chips) 
+calinsky677: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 7d]
+calinsky677: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579482336: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:18:29 CET [2026/02/03 14:18:29 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: calinsky677 (435 in chips) 
+mabeal1: posts small blind 20
+calinsky677: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 2d]
+mabeal1: calls 20
+calinsky677: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to calinsky677
+calinsky677 collected 80 from pot
+calinsky677: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: calinsky677 (big blind) collected (80)
+
+
+
+PokerStars Hand #259579486221: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:18:45 CET [2026/02/03 14:18:45 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1025 in chips) 
+Seat 3: calinsky677 (475 in chips) 
+calinsky677: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 9s]
+calinsky677: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579487563: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:18:50 CET [2026/02/03 14:18:50 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1045 in chips) 
+Seat 3: calinsky677 (455 in chips) 
+mabeal1: posts small blind 20
+calinsky677: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Ts]
+mabeal1: raises 40 to 80
+calinsky677: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: calinsky677 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579489390: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:18:57 CET [2026/02/03 14:18:57 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1085 in chips) 
+Seat 3: calinsky677 (415 in chips) 
+calinsky677: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7h]
+calinsky677: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579490596: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:19:02 CET [2026/02/03 14:19:02 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 3: calinsky677 (395 in chips) 
+mabeal1: posts small blind 20
+calinsky677: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4h]
+mabeal1: raises 1065 to 1105 and is all-in
+calinsky677: folds 
+Uncalled bet (1065) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: calinsky677 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259579494007: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:19:16 CET [2026/02/03 14:19:16 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1145 in chips) 
+Seat 3: calinsky677 (355 in chips) 
+calinsky677: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4c]
+calinsky677: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579496782: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:19:27 CET [2026/02/03 14:19:27 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1165 in chips) 
+Seat 3: calinsky677 (335 in chips) 
+mabeal1: posts small blind 20
+calinsky677: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 6c]
+mabeal1: raises 1120 to 1160
+calinsky677: calls 295 and is all-in
+Uncalled bet (825) returned to mabeal1
+*** FLOP *** [5h Ah Jc]
+*** TURN *** [5h Ah Jc] [9h]
+*** RIVER *** [5h Ah Jc 9h] [Qh]
+*** SHOW DOWN ***
+calinsky677: shows [8c 9d] (a pair of Nines)
+mabeal1: shows [6d 6c] (a pair of Sixes)
+calinsky677 collected 670 from pot
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [5h Ah Jc 9h Qh]
+Seat 1: mabeal1 (button) (small blind) showed [6d 6c] and lost with a pair of Sixes
+Seat 3: calinsky677 (big blind) showed [8c 9d] and won (670) with a pair of Nines
+
+
+
+PokerStars Hand #259579500732: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:19:43 CET [2026/02/03 14:19:43 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 3: calinsky677 (670 in chips) 
+calinsky677: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4h]
+calinsky677: calls 20
+mabeal1: raises 790 to 830 and is all-in
+calinsky677: folds 
+Uncalled bet (790) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579506119: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:20:04 CET [2026/02/03 14:20:04 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (870 in chips) 
+Seat 3: calinsky677 (630 in chips) 
+mabeal1: posts small blind 20
+calinsky677: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 3c]
+mabeal1: calls 20
+calinsky677: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to calinsky677
+calinsky677 collected 80 from pot
+calinsky677: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: calinsky677 (big blind) collected (80)
+
+
+
+PokerStars Hand #259579508531: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:20:14 CET [2026/02/03 14:20:14 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 3: calinsky677 (670 in chips) 
+calinsky677: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7c]
+calinsky677: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579509861: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:20:19 CET [2026/02/03 14:20:19 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (850 in chips) 
+Seat 3: calinsky677 (650 in chips) 
+mabeal1: posts small blind 20
+calinsky677: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Kc]
+mabeal1: calls 20
+calinsky677: checks 
+*** FLOP *** [Ad 8h 9d]
+calinsky677: checks 
+mabeal1: bets 40
+calinsky677: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad 8h 9d]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: calinsky677 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259579515709: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:20:43 CET [2026/02/03 14:20:43 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 3: calinsky677 (610 in chips) 
+calinsky677: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Ad]
+calinsky677: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579518015: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 20:20:52 CET [2026/02/03 14:20:52 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (910 in chips) 
+Seat 3: calinsky677 (590 in chips) 
+mabeal1: posts small blind 20
+calinsky677: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 4s]
+mabeal1: calls 20
+calinsky677: checks 
+*** FLOP *** [Jd 7s 6d]
+calinsky677: checks 
+mabeal1: bets 40
+calinsky677: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jd 7s 6d]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: calinsky677 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259579522877: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 20:21:11 CET [2026/02/03 14:21:11 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (950 in chips) 
+Seat 3: calinsky677 (550 in chips) 
+calinsky677: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 6s]
+calinsky677: raises 120 to 180
+mabeal1: folds 
+Uncalled bet (120) returned to calinsky677
+calinsky677 collected 120 from pot
+calinsky677: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: calinsky677 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259579524783: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 20:21:19 CET [2026/02/03 14:21:19 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 3: calinsky677 (610 in chips) 
+mabeal1: posts small blind 30
+calinsky677: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5c]
+mabeal1: calls 30
+calinsky677: checks 
+*** FLOP *** [5s Js 7c]
+calinsky677: checks 
+mabeal1: checks 
+*** TURN *** [5s Js 7c] [4h]
+calinsky677: checks 
+mabeal1: checks 
+*** RIVER *** [5s Js 7c 4h] [Qs]
+calinsky677: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+calinsky677: shows [6d 2d] (high card Queen)
+mabeal1: shows [9s 5c] (a pair of Fives)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5s Js 7c 4h Qs]
+Seat 1: mabeal1 (button) (small blind) showed [9s 5c] and won (120) with a pair of Fives
+Seat 3: calinsky677 (big blind) showed [6d 2d] and lost with high card Queen
+
+
+
+PokerStars Hand #259579531356: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 20:21:45 CET [2026/02/03 14:21:45 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (950 in chips) 
+Seat 3: calinsky677 (550 in chips) 
+calinsky677: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 9s]
+calinsky677: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: calinsky677 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259579534096: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 20:21:55 CET [2026/02/03 14:21:55 ET]
+Table '3971788335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (980 in chips) 
+Seat 3: calinsky677 (520 in chips) 
+mabeal1: posts small blind 30
+calinsky677: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 3s]
+mabeal1: calls 30
+calinsky677: checks 
+*** FLOP *** [Kh Ks 8c]
+calinsky677: checks 
+mabeal1: bets 60
+calinsky677: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kh Ks 8c]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: calinsky677 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259579539809: Tournament #3971788335, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 20:22:18 CET [2026/02/03 14:22:18 ET]
+Table '3971788335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 3: calinsky677 (460 in chips) 
+calinsky677: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ad]
+calinsky677: raises 120 to 180
+mabeal1: raises 860 to 1040 and is all-in
+calinsky677: calls 280 and is all-in
+Uncalled bet (580) returned to mabeal1
+*** FLOP *** [5h Ac 4d]
+*** TURN *** [5h Ac 4d] [3h]
+*** RIVER *** [5h Ac 4d 3h] [Jh]
+*** SHOW DOWN ***
+mabeal1: shows [Js Ad] (two pair, Aces and Jacks)
+calinsky677: shows [Kh Ts] (high card Ace)
+mabeal1 collected 920 from pot
+calinsky677 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [5h Ac 4d 3h Jh]
+Seat 1: mabeal1 (big blind) showed [Js Ad] and won (920) with two pair, Aces and Jacks
+Seat 3: calinsky677 (button) (small blind) showed [Kh Ts] and lost with high card Ace
+
+
+

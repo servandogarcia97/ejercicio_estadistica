@@ -1,0 +1,215 @@
+﻿PokerStars Hand #259572307053: Tournament #3971610039, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:34:19 CET [2026/02/02 21:34:19 ET]
+Table '3971610039 1' 3-max Seat #1 is the button
+Seat 1: coscolin64 (500 in chips) 
+Seat 2: Tapis2Bain (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Tapis2Bain: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 5s]
+coscolin64: calls 20
+Tapis2Bain: calls 10
+mabeal1: checks 
+*** FLOP *** [Jd 7d Th]
+Tapis2Bain: checks 
+mabeal1: checks 
+coscolin64: bets 60
+Tapis2Bain: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to coscolin64
+coscolin64 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 7d Th]
+Seat 1: coscolin64 (button) collected (60)
+Seat 2: Tapis2Bain (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259572311117: Tournament #3971610039, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:34:52 CET [2026/02/02 21:34:52 ET]
+Table '3971610039 1' 3-max Seat #2 is the button
+Seat 1: coscolin64 (540 in chips) 
+Seat 2: Tapis2Bain (480 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+coscolin64: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 5h]
+Tapis2Bain: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to coscolin64
+coscolin64 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: coscolin64 (big blind) collected (20)
+Seat 2: Tapis2Bain (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572313453: Tournament #3971610039, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:35:12 CET [2026/02/02 21:35:12 ET]
+Table '3971610039 1' 3-max Seat #3 is the button
+Seat 1: coscolin64 (550 in chips) 
+Seat 2: Tapis2Bain (480 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+coscolin64: posts small blind 10
+Tapis2Bain: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 4h]
+mabeal1: folds 
+coscolin64: folds 
+Uncalled bet (10) returned to Tapis2Bain
+Tapis2Bain collected 20 from pot
+Tapis2Bain: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: coscolin64 (small blind) folded before Flop
+Seat 2: Tapis2Bain (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572314195: Tournament #3971610039, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:35:18 CET [2026/02/02 21:35:18 ET]
+Table '3971610039 1' 3-max Seat #1 is the button
+Seat 1: coscolin64 (540 in chips) 
+Seat 2: Tapis2Bain (490 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+Tapis2Bain: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6c]
+coscolin64: folds 
+Tapis2Bain: calls 10
+mabeal1: raises 450 to 470 and is all-in
+Tapis2Bain: folds 
+Uncalled bet (450) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: coscolin64 (button) folded before Flop (didn't bet)
+Seat 2: Tapis2Bain (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259572316351: Tournament #3971610039, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:35:36 CET [2026/02/02 21:35:36 ET]
+Table '3971610039 1' 3-max Seat #2 is the button
+Seat 1: coscolin64 (540 in chips) 
+Seat 2: Tapis2Bain (470 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+mabeal1: posts small blind 10
+coscolin64: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 6c]
+Tapis2Bain: raises 20 to 40
+mabeal1: folds 
+coscolin64: folds 
+Uncalled bet (20) returned to Tapis2Bain
+Tapis2Bain collected 50 from pot
+Tapis2Bain: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: coscolin64 (big blind) folded before Flop
+Seat 2: Tapis2Bain (button) collected (50)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572317320: Tournament #3971610039, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:35:44 CET [2026/02/02 21:35:44 ET]
+Table '3971610039 1' 3-max Seat #3 is the button
+Seat 1: coscolin64 (520 in chips) 
+Seat 2: Tapis2Bain (500 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+coscolin64: posts small blind 10
+Tapis2Bain: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c As]
+mabeal1: raises 20 to 40
+coscolin64: calls 30
+Tapis2Bain: calls 20
+*** FLOP *** [8d Ah 3s]
+coscolin64: bets 120
+Tapis2Bain: folds 
+mabeal1: calls 120
+*** TURN *** [8d Ah 3s] [Ks]
+coscolin64: bets 360 and is all-in
+mabeal1: calls 320 and is all-in
+Uncalled bet (40) returned to coscolin64
+*** RIVER *** [8d Ah 3s Ks] [8s]
+*** SHOW DOWN ***
+coscolin64: shows [Ad Js] (two pair, Aces and Eights)
+mabeal1: shows [9c As] (two pair, Aces and Eights)
+coscolin64 collected 500 from pot
+mabeal1 collected 500 from pot
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [8d Ah 3s Ks 8s]
+Seat 1: coscolin64 (small blind) showed [Ad Js] and won (500) with two pair, Aces and Eights
+Seat 2: Tapis2Bain (big blind) folded on the Flop
+Seat 3: mabeal1 (button) showed [9c As] and won (500) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #259572321613: Tournament #3971610039, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:36:18 CET [2026/02/02 21:36:18 ET]
+Table '3971610039 1' 3-max Seat #1 is the button
+Seat 1: coscolin64 (540 in chips) 
+Seat 2: Tapis2Bain (460 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Tapis2Bain: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 2s]
+coscolin64: calls 20
+Tapis2Bain: raises 60 to 80
+mabeal1: folds 
+coscolin64: calls 60
+*** FLOP *** [8d Kd Ad]
+Tapis2Bain: checks 
+coscolin64: bets 180
+Tapis2Bain: folds 
+Uncalled bet (180) returned to coscolin64
+coscolin64 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8d Kd Ad]
+Seat 1: coscolin64 (button) collected (180)
+Seat 2: Tapis2Bain (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259572326168: Tournament #3971610039, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:36:55 CET [2026/02/02 21:36:55 ET]
+Table '3971610039 1' 3-max Seat #2 is the button
+Seat 1: coscolin64 (640 in chips) 
+Seat 2: Tapis2Bain (380 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 15
+coscolin64: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Ad]
+Tapis2Bain: raises 350 to 380 and is all-in
+mabeal1: raises 100 to 480 and is all-in
+coscolin64: calls 450
+*** FLOP *** [3d 4c Ks]
+*** TURN *** [3d 4c Ks] [5s]
+*** RIVER *** [3d 4c Ks 5s] [5c]
+*** SHOW DOWN ***
+mabeal1: shows [Jh Ad] (a pair of Fives)
+coscolin64: shows [Qh Qs] (two pair, Queens and Fives)
+coscolin64 collected 200 from side pot
+Tapis2Bain: shows [7d Ah] (a pair of Fives)
+coscolin64 collected 1140 from main pot
+mabeal1 finished the tournament in 2nd place
+Tapis2Bain finished the tournament in 3rd place
+coscolin64 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1340 Main pot 1140. Side pot 200. | Rake 0 
+Board [3d 4c Ks 5s 5c]
+Seat 1: coscolin64 (big blind) showed [Qh Qs] and won (1340) with two pair, Queens and Fives
+Seat 2: Tapis2Bain (button) showed [7d Ah] and lost with a pair of Fives
+Seat 3: mabeal1 (small blind) showed [Jh Ad] and lost with a pair of Fives
+
+
+

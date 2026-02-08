@@ -1,0 +1,100 @@
+﻿PokerStars Hand #259538517268: Tournament #3970887134, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:42:54 CET [2026/01/31 14:42:54 ET]
+Table '3970887134 1' 3-max Seat #1 is the button
+Seat 1: victorloyal (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: jesusgv3 (500 in chips) 
+mabeal1: posts small blind 10
+jesusgv3: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 5h]
+victorloyal: raises 420 to 440
+mabeal1: folds 
+jesusgv3: calls 420
+*** FLOP *** [Qc 3c 7d]
+jesusgv3: checks 
+victorloyal: bets 60 and is all-in
+jesusgv3: calls 60 and is all-in
+*** TURN *** [Qc 3c 7d] [2h]
+*** RIVER *** [Qc 3c 7d 2h] [2d]
+*** SHOW DOWN ***
+jesusgv3: shows [6h Ah] (a pair of Deuces)
+victorloyal: shows [Qs 8c] (two pair, Queens and Deuces)
+victorloyal collected 1010 from pot
+jesusgv3 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [Qc 3c 7d 2h 2d]
+Seat 1: victorloyal (button) showed [Qs 8c] and won (1010) with two pair, Queens and Deuces
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: jesusgv3 (big blind) showed [6h Ah] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259538523959: Tournament #3970887134, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:43:23 CET [2026/01/31 14:43:23 ET]
+Table '3970887134 1' 3-max Seat #2 is the button
+Seat 1: victorloyal (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+mabeal1: posts small blind 10
+victorloyal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 4c]
+mabeal1: calls 10
+victorloyal: raises 360 to 380
+mabeal1: folds 
+Uncalled bet (360) returned to victorloyal
+victorloyal collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: victorloyal (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259538527265: Tournament #3970887134, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:43:37 CET [2026/01/31 14:43:37 ET]
+Table '3970887134 1' 3-max Seat #1 is the button
+Seat 1: victorloyal (1030 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+victorloyal: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 7s]
+victorloyal: raises 500 to 520
+mabeal1: folds 
+Uncalled bet (500) returned to victorloyal
+victorloyal collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: victorloyal (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259538528821: Tournament #3970887134, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 20:43:44 CET [2026/01/31 14:43:44 ET]
+Table '3970887134 1' 3-max Seat #2 is the button
+Seat 1: victorloyal (1050 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+mabeal1: posts small blind 10
+victorloyal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ks]
+mabeal1: calls 10
+victorloyal: raises 420 to 440
+mabeal1: raises 10 to 450 and is all-in
+victorloyal: calls 10
+*** FLOP *** [7h 7s 3d]
+*** TURN *** [7h 7s 3d] [3h]
+*** RIVER *** [7h 7s 3d 3h] [8s]
+*** SHOW DOWN ***
+victorloyal: shows [Qs 3c] (a full house, Threes full of Sevens)
+mabeal1: shows [9h Ks] (two pair, Sevens and Threes)
+victorloyal collected 900 from pot
+mabeal1 finished the tournament in 2nd place
+victorloyal wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [7h 7s 3d 3h 8s]
+Seat 1: victorloyal (big blind) showed [Qs 3c] and won (900) with a full house, Threes full of Sevens
+Seat 2: mabeal1 (button) (small blind) showed [9h Ks] and lost with two pair, Sevens and Threes
+
+
+

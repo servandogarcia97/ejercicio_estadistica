@@ -1,0 +1,747 @@
+﻿PokerStars Hand #259597441571: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:55:33 CET [2026/02/04 21:55:33 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Duke Confurc (500 in chips) 
+Seat 3: toniseth23 (500 in chips) 
+Duke Confurc: posts small blind 10
+toniseth23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Qc]
+mabeal1: folds 
+Duke Confurc: calls 10
+toniseth23: checks 
+*** FLOP *** [3c 6h Ad]
+Duke Confurc: checks 
+toniseth23: checks 
+*** TURN *** [3c 6h Ad] [Qh]
+Duke Confurc: checks 
+toniseth23: bets 40
+Duke Confurc: folds 
+Uncalled bet (40) returned to toniseth23
+toniseth23 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c 6h Ad Qh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Duke Confurc (small blind) folded on the Turn
+Seat 3: toniseth23 (big blind) collected (40)
+
+
+
+PokerStars Hand #259597443568: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:55:55 CET [2026/02/04 21:55:55 ET]
+Table '3972200801 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Duke Confurc (480 in chips) 
+Seat 3: toniseth23 (520 in chips) 
+toniseth23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 2s]
+Duke Confurc: raises 20 to 40
+toniseth23: calls 30
+mabeal1: calls 20
+*** FLOP *** [9h 9d Th]
+toniseth23: bets 40
+mabeal1: folds 
+Duke Confurc: raises 40 to 80
+toniseth23: calls 40
+*** TURN *** [9h 9d Th] [6s]
+toniseth23: bets 40
+Duke Confurc: raises 60 to 100
+toniseth23: raises 300 to 400 and is all-in
+Duke Confurc: folds 
+Uncalled bet (300) returned to toniseth23
+toniseth23 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9h 9d Th 6s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Duke Confurc (button) folded on the Turn
+Seat 3: toniseth23 (small blind) collected (480)
+
+
+
+PokerStars Hand #259597447282: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:56:34 CET [2026/02/04 21:56:34 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: Duke Confurc (260 in chips) 
+Seat 3: toniseth23 (780 in chips) 
+mabeal1: posts small blind 10
+Duke Confurc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9c]
+toniseth23: calls 20
+mabeal1: calls 10
+Duke Confurc: checks 
+*** FLOP *** [8d 7h 5c]
+mabeal1: checks 
+Duke Confurc: bets 40
+toniseth23: calls 40
+mabeal1: calls 40
+*** TURN *** [8d 7h 5c] [3d]
+mabeal1: checks 
+Duke Confurc: bets 40
+toniseth23: calls 40
+mabeal1: calls 40
+*** RIVER *** [8d 7h 5c 3d] [Kd]
+mabeal1: checks 
+Duke Confurc: checks 
+toniseth23: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7s 9c] (a pair of Sevens)
+Duke Confurc: mucks hand 
+toniseth23: shows [8c 2c] (a pair of Eights)
+toniseth23 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [8d 7h 5c 3d Kd]
+Seat 1: mabeal1 (small blind) showed [7s 9c] and lost with a pair of Sevens
+Seat 2: Duke Confurc (big blind) mucked [2d 3s]
+Seat 3: toniseth23 (button) showed [8c 2c] and won (300) with a pair of Eights
+
+
+
+PokerStars Hand #259597452832: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:57:33 CET [2026/02/04 21:57:33 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (360 in chips) 
+Seat 2: Duke Confurc (160 in chips) 
+Seat 3: toniseth23 (980 in chips) 
+Duke Confurc: posts small blind 10
+toniseth23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 5c]
+mabeal1: folds 
+Duke Confurc: raises 140 to 160 and is all-in
+toniseth23: folds 
+Uncalled bet (140) returned to Duke Confurc
+Duke Confurc collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Duke Confurc (small blind) collected (40)
+Seat 3: toniseth23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259597454241: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:57:48 CET [2026/02/04 21:57:48 ET]
+Table '3972200801 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (360 in chips) 
+Seat 2: Duke Confurc (180 in chips) 
+Seat 3: toniseth23 (960 in chips) 
+toniseth23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 6h]
+Duke Confurc: folds 
+toniseth23: calls 10
+mabeal1: raises 340 to 360 and is all-in
+toniseth23: folds 
+Uncalled bet (340) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Duke Confurc (button) folded before Flop (didn't bet)
+Seat 3: toniseth23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259597455654: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:58:04 CET [2026/02/04 21:58:04 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: Duke Confurc (180 in chips) 
+Seat 3: toniseth23 (940 in chips) 
+mabeal1: posts small blind 10
+Duke Confurc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac As]
+toniseth23: calls 20
+mabeal1: raises 40 to 60
+Duke Confurc: calls 40
+toniseth23: calls 40
+*** FLOP *** [Jd 6d Qs]
+mabeal1: bets 135
+Duke Confurc: folds 
+toniseth23: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jd 6d Qs]
+Seat 1: mabeal1 (small blind) collected (180)
+Seat 2: Duke Confurc (big blind) folded on the Flop
+Seat 3: toniseth23 (button) folded on the Flop
+
+
+
+PokerStars Hand #259597457698: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:58:25 CET [2026/02/04 21:58:25 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Duke Confurc (120 in chips) 
+Seat 3: toniseth23 (880 in chips) 
+Duke Confurc: posts small blind 10
+toniseth23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4h]
+mabeal1: folds 
+Duke Confurc: calls 10
+toniseth23: checks 
+*** FLOP *** [5d Qc Tc]
+Duke Confurc: bets 20
+toniseth23: raises 20 to 40
+Duke Confurc: folds 
+Uncalled bet (20) returned to toniseth23
+toniseth23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d Qc Tc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Duke Confurc (small blind) folded on the Flop
+Seat 3: toniseth23 (big blind) collected (80)
+
+
+
+PokerStars Hand #259597460118: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 3:58:51 CET [2026/02/04 21:58:51 ET]
+Table '3972200801 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Duke Confurc (80 in chips) 
+Seat 3: toniseth23 (920 in chips) 
+toniseth23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 6d]
+Duke Confurc: raises 50 to 80 and is all-in
+toniseth23: calls 65
+mabeal1: calls 50
+*** FLOP *** [3s 8s 7c]
+toniseth23: checks 
+mabeal1: checks 
+*** TURN *** [3s 8s 7c] [6s]
+toniseth23: checks 
+mabeal1: checks 
+*** RIVER *** [3s 8s 7c 6s] [3c]
+toniseth23: checks 
+mabeal1: bets 180
+toniseth23: folds 
+Uncalled bet (180) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Ad 6d] (two pair, Sixes and Threes)
+Duke Confurc: shows [As 4c] (a pair of Threes)
+mabeal1 collected 240 from pot
+Duke Confurc finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3s 8s 7c 6s 3c]
+Seat 1: mabeal1 (big blind) showed [Ad 6d] and won (240) with two pair, Sixes and Threes
+Seat 2: Duke Confurc (button) showed [As 4c] and lost with a pair of Threes
+Seat 3: toniseth23 (small blind) folded on the River
+
+
+
+PokerStars Hand #259597464665: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 3:59:40 CET [2026/02/04 21:59:40 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 3: toniseth23 (840 in chips) 
+mabeal1: posts small blind 15
+toniseth23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 7h]
+mabeal1: raises 45 to 75
+toniseth23: calls 45
+*** FLOP *** [9h Jd Js]
+toniseth23: checks 
+mabeal1: bets 60
+toniseth23: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [9h Jd Js]
+Seat 1: mabeal1 (button) (small blind) collected (150)
+Seat 3: toniseth23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259597466405: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 3:59:58 CET [2026/02/04 21:59:58 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (735 in chips) 
+Seat 3: toniseth23 (765 in chips) 
+toniseth23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 6h]
+toniseth23: calls 15
+mabeal1: checks 
+*** FLOP *** [Kd 5h Jc]
+mabeal1: bets 30
+toniseth23: calls 30
+*** TURN *** [Kd 5h Jc] [4s]
+mabeal1: checks 
+toniseth23: bets 30
+mabeal1: calls 30
+*** RIVER *** [Kd 5h Jc 4s] [8d]
+mabeal1: checks 
+toniseth23: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+toniseth23: shows [Jd 2d] (a pair of Jacks)
+mabeal1: shows [Jh 6h] (a pair of Jacks - King+Eight+Six kicker)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Kd 5h Jc 4s 8d]
+Seat 1: mabeal1 (big blind) showed [Jh 6h] and won (240) with a pair of Jacks
+Seat 3: toniseth23 (button) (small blind) showed [Jd 2d] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259597469166: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 4:00:26 CET [2026/02/04 22:00:26 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (855 in chips) 
+Seat 3: toniseth23 (645 in chips) 
+mabeal1: posts small blind 15
+toniseth23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 2h]
+mabeal1: raises 825 to 855 and is all-in
+toniseth23: folds 
+Uncalled bet (825) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: toniseth23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259597470323: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 4:00:37 CET [2026/02/04 22:00:37 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (885 in chips) 
+Seat 3: toniseth23 (615 in chips) 
+toniseth23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2c]
+toniseth23: calls 15
+mabeal1: raises 30 to 60
+toniseth23: calls 30
+*** FLOP *** [As 7d 7s]
+mabeal1: bets 60
+toniseth23: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [As 7d 7s]
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: toniseth23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259597472438: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 4:00:55 CET [2026/02/04 22:00:55 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (945 in chips) 
+Seat 3: toniseth23 (555 in chips) 
+mabeal1: posts small blind 15
+toniseth23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 5h]
+mabeal1: calls 15
+toniseth23: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [6h 5d 7d]
+toniseth23: checks 
+mabeal1: bets 90
+toniseth23: calls 90
+*** TURN *** [6h 5d 7d] [7h]
+toniseth23: checks 
+mabeal1: checks 
+*** RIVER *** [6h 5d 7d 7h] [Kh]
+toniseth23: checks 
+mabeal1: bets 795 and is all-in
+toniseth23: folds 
+Uncalled bet (795) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6h 5d 7d 7h Kh]
+Seat 1: mabeal1 (button) (small blind) collected (300)
+Seat 3: toniseth23 (big blind) folded on the River
+
+
+
+PokerStars Hand #259597477424: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:01:38 CET [2026/02/04 22:01:38 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1095 in chips) 
+Seat 3: toniseth23 (405 in chips) 
+toniseth23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Js]
+toniseth23: calls 20
+mabeal1: checks 
+*** FLOP *** [Jc Jh Td]
+mabeal1: checks 
+toniseth23: checks 
+*** TURN *** [Jc Jh Td] [8d]
+mabeal1: bets 40
+toniseth23: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc Jh Td 8d]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: toniseth23 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259597478924: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:01:51 CET [2026/02/04 22:01:51 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1135 in chips) 
+Seat 3: toniseth23 (365 in chips) 
+mabeal1: posts small blind 20
+toniseth23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4d]
+mabeal1: calls 20
+toniseth23: checks 
+*** FLOP *** [6s Ad 2h]
+toniseth23: checks 
+mabeal1: checks 
+*** TURN *** [6s Ad 2h] [4h]
+toniseth23: checks 
+mabeal1: bets 40
+toniseth23: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s Ad 2h 4h]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: toniseth23 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259597480750: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:02:07 CET [2026/02/04 22:02:07 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1175 in chips) 
+Seat 3: toniseth23 (325 in chips) 
+toniseth23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3c]
+toniseth23: calls 20
+mabeal1: checks 
+*** FLOP *** [5c 6d 7c]
+mabeal1: checks 
+toniseth23: checks 
+*** TURN *** [5c 6d 7c] [4h]
+mabeal1: bets 40
+toniseth23: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c 6d 7c 4h]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: toniseth23 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259597482377: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:02:21 CET [2026/02/04 22:02:21 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1215 in chips) 
+Seat 3: toniseth23 (285 in chips) 
+mabeal1: posts small blind 20
+toniseth23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 2c]
+mabeal1: calls 20
+toniseth23: raises 245 to 285 and is all-in
+mabeal1: folds 
+Uncalled bet (245) returned to toniseth23
+toniseth23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: toniseth23 (big blind) collected (80)
+
+
+
+PokerStars Hand #259597483955: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:02:34 CET [2026/02/04 22:02:34 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1175 in chips) 
+Seat 3: toniseth23 (325 in chips) 
+toniseth23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 2h]
+toniseth23: raises 285 to 325 and is all-in
+mabeal1: folds 
+Uncalled bet (285) returned to toniseth23
+toniseth23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: toniseth23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259597484682: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:02:41 CET [2026/02/04 22:02:41 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1135 in chips) 
+Seat 3: toniseth23 (365 in chips) 
+mabeal1: posts small blind 20
+toniseth23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7h]
+mabeal1: calls 20
+toniseth23: checks 
+*** FLOP *** [7s Kh 2d]
+toniseth23: checks 
+mabeal1: bets 40
+toniseth23: calls 40
+*** TURN *** [7s Kh 2d] [4c]
+toniseth23: checks 
+mabeal1: checks 
+*** RIVER *** [7s Kh 2d 4c] [Ah]
+toniseth23: bets 40
+mabeal1: raises 40 to 80
+toniseth23: calls 40
+*** SHOW DOWN ***
+mabeal1: shows [Jd 7h] (a pair of Sevens)
+toniseth23: mucks hand 
+mabeal1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [7s Kh 2d 4c Ah]
+Seat 1: mabeal1 (button) (small blind) showed [Jd 7h] and won (320) with a pair of Sevens
+Seat 3: toniseth23 (big blind) mucked [6d 2s]
+
+
+
+PokerStars Hand #259597487293: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:03:02 CET [2026/02/04 22:03:02 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1295 in chips) 
+Seat 3: toniseth23 (205 in chips) 
+toniseth23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 3c]
+toniseth23: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: toniseth23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259597488236: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:03:10 CET [2026/02/04 22:03:10 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1315 in chips) 
+Seat 3: toniseth23 (185 in chips) 
+mabeal1: posts small blind 20
+toniseth23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Qc]
+mabeal1: raises 1275 to 1315 and is all-in
+toniseth23: calls 145 and is all-in
+Uncalled bet (1130) returned to mabeal1
+*** FLOP *** [3c 6h Ac]
+*** TURN *** [3c 6h Ac] [7h]
+*** RIVER *** [3c 6h Ac 7h] [5h]
+*** SHOW DOWN ***
+toniseth23: shows [Qh Ts] (high card Ace)
+mabeal1: shows [2c Qc] (high card Ace - lower kicker)
+toniseth23 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [3c 6h Ac 7h 5h]
+Seat 1: mabeal1 (button) (small blind) showed [2c Qc] and lost with high card Ace
+Seat 3: toniseth23 (big blind) showed [Qh Ts] and won (370) with high card Ace
+
+
+
+PokerStars Hand #259597489737: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:03:23 CET [2026/02/04 22:03:23 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1130 in chips) 
+Seat 3: toniseth23 (370 in chips) 
+toniseth23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4h]
+toniseth23: calls 20
+mabeal1: checks 
+*** FLOP *** [8s 9c 6s]
+mabeal1: checks 
+toniseth23: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to toniseth23
+toniseth23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s 9c 6s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: toniseth23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259597491325: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:03:36 CET [2026/02/04 22:03:36 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 3: toniseth23 (410 in chips) 
+mabeal1: posts small blind 20
+toniseth23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 5c]
+mabeal1: calls 20
+toniseth23: checks 
+*** FLOP *** [7d 8d 9s]
+toniseth23: checks 
+mabeal1: checks 
+*** TURN *** [7d 8d 9s] [Td]
+toniseth23: checks 
+mabeal1: bets 80
+toniseth23: calls 80
+*** RIVER *** [7d 8d 9s Td] [Ks]
+toniseth23: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+toniseth23: shows [4d Ts] (a pair of Tens)
+mabeal1: mucks hand 
+toniseth23 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7d 8d 9s Td Ks]
+Seat 1: mabeal1 (button) (small blind) mucked [Qc 5c]
+Seat 3: toniseth23 (big blind) showed [4d Ts] and won (240) with a pair of Tens
+
+
+
+PokerStars Hand #259597493372: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:03:54 CET [2026/02/04 22:03:54 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 3: toniseth23 (530 in chips) 
+toniseth23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 7s]
+toniseth23: calls 20
+mabeal1: checks 
+*** FLOP *** [2h 9c Ks]
+mabeal1: checks 
+toniseth23: checks 
+*** TURN *** [2h 9c Ks] [3h]
+mabeal1: bets 40
+toniseth23: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to toniseth23
+toniseth23 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h 9c Ks 3h]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 3: toniseth23 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259597495252: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:04:09 CET [2026/02/04 22:04:09 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 3: toniseth23 (610 in chips) 
+mabeal1: posts small blind 20
+toniseth23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 3s]
+mabeal1: calls 20
+toniseth23: checks 
+*** FLOP *** [9s Qh 8d]
+toniseth23: checks 
+mabeal1: checks 
+*** TURN *** [9s Qh 8d] [9h]
+toniseth23: checks 
+mabeal1: bets 40
+toniseth23: calls 40
+*** RIVER *** [9s Qh 8d 9h] [Js]
+toniseth23: checks 
+mabeal1: bets 80
+toniseth23: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9s Qh 8d 9h Js]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: toniseth23 (big blind) folded on the River
+
+
+
+PokerStars Hand #259597497481: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:04:28 CET [2026/02/04 22:04:28 ET]
+Table '3972200801 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 3: toniseth23 (530 in chips) 
+toniseth23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7d]
+toniseth23: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: toniseth23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259597498049: Tournament #3972200801, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 4:04:33 CET [2026/02/04 22:04:33 ET]
+Table '3972200801 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (990 in chips) 
+Seat 3: toniseth23 (510 in chips) 
+mabeal1: posts small blind 20
+toniseth23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qs]
+mabeal1: raises 40 to 80
+toniseth23: calls 40
+*** FLOP *** [Kc 6s 7s]
+toniseth23: checks 
+mabeal1: bets 80
+toniseth23: calls 80
+*** TURN *** [Kc 6s 7s] [5h]
+toniseth23: checks 
+mabeal1: checks 
+*** RIVER *** [Kc 6s 7s 5h] [5s]
+toniseth23: bets 40
+mabeal1: raises 790 to 830 and is all-in
+toniseth23: calls 310 and is all-in
+Uncalled bet (480) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Js Qs] (a flush, Queen high)
+toniseth23: shows [8h 7d] (two pair, Sevens and Fives)
+mabeal1 collected 1020 from pot
+toniseth23 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Kc 6s 7s 5h 5s]
+Seat 1: mabeal1 (button) (small blind) showed [Js Qs] and won (1020) with a flush, Queen high
+Seat 3: toniseth23 (big blind) showed [8h 7d] and lost with two pair, Sevens and Fives
+
+
+

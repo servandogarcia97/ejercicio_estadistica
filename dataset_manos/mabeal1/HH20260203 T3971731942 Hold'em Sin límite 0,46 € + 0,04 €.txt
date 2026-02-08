@@ -1,0 +1,401 @@
+﻿PokerStars Hand #259576957093: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:56:20 CET [2026/02/03 10:56:20 ET]
+Table '3971731942 1' 3-max Seat #1 is the button
+Seat 1: mawaxx (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: tecalo (500 in chips) 
+mabeal1: posts small blind 10
+tecalo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Ah]
+mawaxx: calls 20
+mabeal1: raises 480 to 500 and is all-in
+tecalo: folds 
+mawaxx: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mawaxx (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: tecalo (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576958706: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:56:31 CET [2026/02/03 10:56:31 ET]
+Table '3971731942 1' 3-max Seat #2 is the button
+Seat 1: mawaxx (480 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: tecalo (480 in chips) 
+tecalo: posts small blind 10
+mawaxx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6h]
+mabeal1: folds 
+tecalo: calls 10
+mawaxx: checks 
+*** FLOP *** [Qs Jc Qc]
+tecalo: checks 
+mawaxx: checks 
+*** TURN *** [Qs Jc Qc] [Ad]
+tecalo: checks 
+mawaxx: checks 
+*** RIVER *** [Qs Jc Qc Ad] [Th]
+tecalo: checks 
+mawaxx: checks 
+*** SHOW DOWN ***
+tecalo: shows [5s 3s] (a pair of Queens)
+mawaxx: shows [Tc 3h] (two pair, Queens and Tens)
+mawaxx collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qs Jc Qc Ad Th]
+Seat 1: mawaxx (big blind) showed [Tc 3h] and won (40) with two pair, Queens and Tens
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: tecalo (small blind) showed [5s 3s] and lost with a pair of Queens
+
+
+
+PokerStars Hand #259576960775: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:56:46 CET [2026/02/03 10:56:46 ET]
+Table '3971731942 1' 3-max Seat #3 is the button
+Seat 1: mawaxx (500 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: tecalo (460 in chips) 
+mawaxx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 3d]
+tecalo: folds 
+mawaxx: calls 10
+mabeal1: raises 520 to 540 and is all-in
+mawaxx: folds 
+Uncalled bet (520) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mawaxx (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: tecalo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259576962344: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:56:57 CET [2026/02/03 10:56:57 ET]
+Table '3971731942 1' 3-max Seat #1 is the button
+Seat 1: mawaxx (480 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: tecalo (460 in chips) 
+mabeal1: posts small blind 10
+tecalo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 7c]
+mawaxx: folds 
+mabeal1: raises 30 to 50
+tecalo: calls 30
+*** FLOP *** [3s 3c 7s]
+mabeal1: bets 75
+tecalo: calls 75
+*** TURN *** [3s 3c 7s] [8d]
+mabeal1: checks 
+tecalo: checks 
+*** RIVER *** [3s 3c 7s 8d] [Kc]
+mabeal1: bets 60
+tecalo: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 250 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [3s 3c 7s 8d Kc]
+Seat 1: mawaxx (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (250)
+Seat 3: tecalo (big blind) folded on the River
+
+
+
+PokerStars Hand #259576965392: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:57:20 CET [2026/02/03 10:57:20 ET]
+Table '3971731942 1' 3-max Seat #2 is the button
+Seat 1: mawaxx (480 in chips) 
+Seat 2: mabeal1 (685 in chips) 
+Seat 3: tecalo (335 in chips) 
+tecalo: posts small blind 10
+mawaxx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Td]
+mabeal1: raises 30 to 50
+tecalo: folds 
+mawaxx: raises 430 to 480 and is all-in
+mabeal1: calls 430
+*** FLOP *** [Ad 9d Jc]
+*** TURN *** [Ad 9d Jc] [2s]
+*** RIVER *** [Ad 9d Jc 2s] [5s]
+*** SHOW DOWN ***
+mawaxx: shows [3d 3c] (a pair of Threes)
+mabeal1: shows [As Td] (a pair of Aces)
+mabeal1 collected 970 from pot
+mawaxx finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [Ad 9d Jc 2s 5s]
+Seat 1: mawaxx (big blind) showed [3d 3c] and lost with a pair of Threes
+Seat 2: mabeal1 (button) showed [As Td] and won (970) with a pair of Aces
+Seat 3: tecalo (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576967982: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:57:39 CET [2026/02/03 10:57:39 ET]
+Table '3971731942 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1175 in chips) 
+Seat 3: tecalo (325 in chips) 
+tecalo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Ah]
+tecalo: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: tecalo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576968635: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:57:43 CET [2026/02/03 10:57:43 ET]
+Table '3971731942 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1185 in chips) 
+Seat 3: tecalo (315 in chips) 
+mabeal1: posts small blind 10
+tecalo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Qs]
+mabeal1: calls 10
+tecalo: checks 
+*** FLOP *** [9h Td 5d]
+tecalo: checks 
+mabeal1: bets 20
+tecalo: calls 20
+*** TURN *** [9h Td 5d] [Js]
+tecalo: checks 
+mabeal1: bets 60
+tecalo: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h Td 5d Js]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: tecalo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259576972807: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:58:14 CET [2026/02/03 10:58:14 ET]
+Table '3971731942 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1225 in chips) 
+Seat 3: tecalo (275 in chips) 
+tecalo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 5h]
+tecalo: raises 255 to 275 and is all-in
+mabeal1: folds 
+Uncalled bet (255) returned to tecalo
+tecalo collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: tecalo (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259576975152: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:58:31 CET [2026/02/03 10:58:31 ET]
+Table '3971731942 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1205 in chips) 
+Seat 3: tecalo (295 in chips) 
+mabeal1: posts small blind 15
+tecalo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 8c]
+mabeal1: raises 1175 to 1205 and is all-in
+tecalo: folds 
+Uncalled bet (1175) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (60)
+Seat 3: tecalo (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576976381: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:58:40 CET [2026/02/03 10:58:40 ET]
+Table '3971731942 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1235 in chips) 
+Seat 3: tecalo (265 in chips) 
+tecalo: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7d]
+tecalo: raises 235 to 265 and is all-in
+mabeal1: folds 
+Uncalled bet (235) returned to tecalo
+tecalo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: tecalo (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259576977560: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:58:49 CET [2026/02/03 10:58:49 ET]
+Table '3971731942 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1205 in chips) 
+Seat 3: tecalo (295 in chips) 
+mabeal1: posts small blind 15
+tecalo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Ts]
+mabeal1: raises 1175 to 1205 and is all-in
+tecalo: folds 
+Uncalled bet (1175) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (60)
+Seat 3: tecalo (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576978482: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:58:55 CET [2026/02/03 10:58:55 ET]
+Table '3971731942 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1235 in chips) 
+Seat 3: tecalo (265 in chips) 
+tecalo: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ah]
+tecalo: calls 15
+mabeal1: raises 1205 to 1235 and is all-in
+tecalo: calls 235 and is all-in
+Uncalled bet (970) returned to mabeal1
+*** FLOP *** [9s Jh 9h]
+*** TURN *** [9s Jh 9h] [4h]
+*** RIVER *** [9s Jh 9h 4h] [5s]
+*** SHOW DOWN ***
+mabeal1: shows [6d Ah] (a pair of Nines)
+tecalo: shows [8s 4s] (two pair, Nines and Fours)
+tecalo collected 530 from pot
+*** SUMMARY ***
+Total pot 530 | Rake 0 
+Board [9s Jh 9h 4h 5s]
+Seat 2: mabeal1 (big blind) showed [6d Ah] and lost with a pair of Nines
+Seat 3: tecalo (button) (small blind) showed [8s 4s] and won (530) with two pair, Nines and Fours
+
+
+
+PokerStars Hand #259576980345: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:59:09 CET [2026/02/03 10:59:09 ET]
+Table '3971731942 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (970 in chips) 
+Seat 3: tecalo (530 in chips) 
+mabeal1: posts small blind 15
+tecalo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3s]
+mabeal1: calls 15
+tecalo: checks 
+*** FLOP *** [7c Qc 9s]
+tecalo: checks 
+mabeal1: checks 
+*** TURN *** [7c Qc 9s] [Kh]
+tecalo: checks 
+mabeal1: bets 45
+tecalo: raises 150 to 195
+mabeal1: folds 
+Uncalled bet (150) returned to tecalo
+tecalo collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [7c Qc 9s Kh]
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: tecalo (big blind) collected (150)
+
+
+
+PokerStars Hand #259576984008: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:59:35 CET [2026/02/03 10:59:35 ET]
+Table '3971731942 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (895 in chips) 
+Seat 3: tecalo (605 in chips) 
+tecalo: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Qd]
+tecalo: calls 15
+mabeal1: raises 865 to 895 and is all-in
+tecalo: folds 
+Uncalled bet (865) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: tecalo (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576985090: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:59:43 CET [2026/02/03 10:59:43 ET]
+Table '3971731942 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (925 in chips) 
+Seat 3: tecalo (575 in chips) 
+mabeal1: posts small blind 15
+tecalo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 2d]
+mabeal1: calls 15
+tecalo: raises 150 to 180
+mabeal1: folds 
+Uncalled bet (150) returned to tecalo
+tecalo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: tecalo (big blind) collected (60)
+
+
+
+PokerStars Hand #259576986904: Tournament #3971731942, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 16:59:56 CET [2026/02/03 10:59:56 ET]
+Table '3971731942 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (895 in chips) 
+Seat 3: tecalo (605 in chips) 
+tecalo: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 5d]
+tecalo: calls 15
+mabeal1: checks 
+*** FLOP *** [7c 9c 6s]
+mabeal1: bets 60
+tecalo: calls 60
+*** TURN *** [7c 9c 6s] [As]
+mabeal1: bets 135
+tecalo: calls 135
+*** RIVER *** [7c 9c 6s As] [4d]
+mabeal1: bets 670 and is all-in
+tecalo: calls 380 and is all-in
+Uncalled bet (290) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [8c 5d] (a straight, Five to Nine)
+tecalo: shows [Kd 9h] (a pair of Nines)
+mabeal1 collected 1210 from pot
+tecalo finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1210 | Rake 0 
+Board [7c 9c 6s As 4d]
+Seat 2: mabeal1 (big blind) showed [8c 5d] and won (1210) with a straight, Five to Nine
+Seat 3: tecalo (button) (small blind) showed [Kd 9h] and lost with a pair of Nines
+
+
+

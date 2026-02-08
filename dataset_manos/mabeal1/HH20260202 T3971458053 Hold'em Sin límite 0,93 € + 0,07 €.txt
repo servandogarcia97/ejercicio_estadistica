@@ -1,0 +1,368 @@
+﻿PokerStars Hand #259564291427: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:46:43 CET [2026/02/02 12:46:43 ET]
+Table '3971458053 1' 3-max Seat #1 is the button
+Seat 1: mouflon2b (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: resident75020 (500 in chips) 
+mabeal1: posts small blind 10
+resident75020: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 7h]
+mouflon2b: calls 20
+mabeal1: folds 
+resident75020: raises 60 to 80
+mouflon2b: calls 60
+*** FLOP *** [2c 8s 3h]
+resident75020: bets 100
+mouflon2b: calls 100
+*** TURN *** [2c 8s 3h] [9c]
+resident75020: bets 200
+mouflon2b: calls 200
+*** RIVER *** [2c 8s 3h 9c] [Td]
+resident75020: checks 
+mouflon2b: bets 120 and is all-in
+resident75020: folds 
+Uncalled bet (120) returned to mouflon2b
+mouflon2b collected 770 from pot
+*** SUMMARY ***
+Total pot 770 | Rake 0 
+Board [2c 8s 3h 9c Td]
+Seat 1: mouflon2b (button) collected (770)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: resident75020 (big blind) folded on the River
+
+
+
+PokerStars Hand #259564300603: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:47:26 CET [2026/02/02 12:47:26 ET]
+Table '3971458053 1' 3-max Seat #2 is the button
+Seat 1: mouflon2b (890 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: resident75020 (120 in chips) 
+resident75020: posts small blind 10
+mouflon2b: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Qh]
+mabeal1: folds 
+resident75020: raises 100 to 120 and is all-in
+mouflon2b: calls 100
+*** FLOP *** [9h Ks Ac]
+*** TURN *** [9h Ks Ac] [Kd]
+*** RIVER *** [9h Ks Ac Kd] [Tc]
+*** SHOW DOWN ***
+resident75020: shows [Qc 7s] (a pair of Kings)
+mouflon2b: shows [Ah Qs] (two pair, Aces and Kings)
+mouflon2b collected 240 from pot
+resident75020 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9h Ks Ac Kd Tc]
+Seat 1: mouflon2b (big blind) showed [Ah Qs] and won (240) with two pair, Aces and Kings
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: resident75020 (small blind) showed [Qc 7s] and lost with a pair of Kings
+
+
+
+PokerStars Hand #259564305804: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:47:49 CET [2026/02/02 12:47:49 ET]
+Table '3971458053 1' 3-max Seat #1 is the button
+Seat 1: mouflon2b (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+mouflon2b: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 3d]
+mouflon2b: calls 10
+mabeal1: checks 
+*** FLOP *** [9c 6c 5h]
+mabeal1: checks 
+mouflon2b: bets 20
+mabeal1: raises 40 to 60
+mouflon2b: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c 6c 5h]
+Seat 1: mouflon2b (button) (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259564309008: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:48:04 CET [2026/02/02 12:48:04 ET]
+Table '3971458053 1' 3-max Seat #2 is the button
+Seat 1: mouflon2b (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+mabeal1: posts small blind 10
+mouflon2b: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Qd]
+mabeal1: raises 20 to 40
+mouflon2b: calls 20
+*** FLOP *** [7s 8c 2s]
+mouflon2b: bets 40
+mabeal1: raises 120 to 160
+mouflon2b: calls 120
+*** TURN *** [7s 8c 2s] [Td]
+mouflon2b: checks 
+mabeal1: bets 330 and is all-in
+mouflon2b: calls 330
+*** RIVER *** [7s 8c 2s Td] [4c]
+*** SHOW DOWN ***
+mouflon2b: shows [8h 9d] (a pair of Eights)
+mabeal1: shows [Qh Qd] (a pair of Queens)
+mabeal1 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [7s 8c 2s Td 4c]
+Seat 1: mouflon2b (big blind) showed [8h 9d] and lost with a pair of Eights
+Seat 2: mabeal1 (button) (small blind) showed [Qh Qd] and won (1060) with a pair of Queens
+
+
+
+PokerStars Hand #259564314898: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:48:31 CET [2026/02/02 12:48:31 ET]
+Table '3971458053 1' 3-max Seat #1 is the button
+Seat 1: mouflon2b (440 in chips) 
+Seat 2: mabeal1 (1060 in chips) 
+mouflon2b: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Tc]
+mouflon2b: calls 10
+mabeal1: checks 
+*** FLOP *** [Ad 3c 9d]
+mabeal1: bets 20
+mouflon2b: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ad 3c 9d]
+Seat 1: mouflon2b (button) (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259564317688: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:48:44 CET [2026/02/02 12:48:44 ET]
+Table '3971458053 1' 3-max Seat #2 is the button
+Seat 1: mouflon2b (420 in chips) 
+Seat 2: mabeal1 (1080 in chips) 
+mabeal1: posts small blind 10
+mouflon2b: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 2c]
+mabeal1: calls 10
+mouflon2b: raises 60 to 80
+mabeal1: folds 
+Uncalled bet (60) returned to mouflon2b
+mouflon2b collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mouflon2b (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259564319993: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:48:55 CET [2026/02/02 12:48:55 ET]
+Table '3971458053 1' 3-max Seat #1 is the button
+Seat 1: mouflon2b (440 in chips) 
+Seat 2: mabeal1 (1060 in chips) 
+mouflon2b: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qc]
+mouflon2b: calls 10
+mabeal1: raises 60 to 80
+mouflon2b: calls 60
+*** FLOP *** [7s Kh 7h]
+mabeal1: bets 60
+mouflon2b: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7s Kh 7h]
+Seat 1: mouflon2b (button) (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259564324024: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:49:13 CET [2026/02/02 12:49:13 ET]
+Table '3971458053 1' 3-max Seat #2 is the button
+Seat 1: mouflon2b (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+mabeal1: posts small blind 10
+mouflon2b: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Th]
+mabeal1: raises 20 to 40
+mouflon2b: calls 20
+*** FLOP *** [6s 8s Ac]
+mouflon2b: checks 
+mabeal1: checks 
+*** TURN *** [6s 8s Ac] [9h]
+mouflon2b: checks 
+mabeal1: bets 60
+mouflon2b: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 8s Ac 9h]
+Seat 1: mouflon2b (big blind) folded on the Turn
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259564328045: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:49:32 CET [2026/02/02 12:49:32 ET]
+Table '3971458053 1' 3-max Seat #1 is the button
+Seat 1: mouflon2b (320 in chips) 
+Seat 2: mabeal1 (1180 in chips) 
+mouflon2b: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 6s]
+mouflon2b: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mouflon2b (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259564329132: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 18:49:37 CET [2026/02/02 12:49:37 ET]
+Table '3971458053 1' 3-max Seat #2 is the button
+Seat 1: mouflon2b (310 in chips) 
+Seat 2: mabeal1 (1190 in chips) 
+mabeal1: posts small blind 10
+mouflon2b: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Ad]
+mabeal1: raises 1170 to 1190 and is all-in
+mouflon2b: folds 
+Uncalled bet (1170) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mouflon2b (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259564333303: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:49:56 CET [2026/02/02 12:49:56 ET]
+Table '3971458053 1' 3-max Seat #1 is the button
+Seat 1: mouflon2b (290 in chips) 
+Seat 2: mabeal1 (1210 in chips) 
+mouflon2b: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 5c]
+mouflon2b: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mouflon2b (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259564334250: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:50:00 CET [2026/02/02 12:50:00 ET]
+Table '3971458053 1' 3-max Seat #2 is the button
+Seat 1: mouflon2b (275 in chips) 
+Seat 2: mabeal1 (1225 in chips) 
+mabeal1: posts small blind 15
+mouflon2b: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Jd]
+mabeal1: calls 15
+mouflon2b: raises 245 to 275 and is all-in
+mabeal1: folds 
+Uncalled bet (245) returned to mouflon2b
+mouflon2b collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mouflon2b (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259564336371: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:50:11 CET [2026/02/02 12:50:11 ET]
+Table '3971458053 1' 3-max Seat #1 is the button
+Seat 1: mouflon2b (305 in chips) 
+Seat 2: mabeal1 (1195 in chips) 
+mouflon2b: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Td]
+mouflon2b: raises 275 to 305 and is all-in
+mabeal1: calls 275
+*** FLOP *** [2s Ad 4s]
+*** TURN *** [2s Ad 4s] [Jc]
+*** RIVER *** [2s Ad 4s Jc] [3d]
+*** SHOW DOWN ***
+mabeal1: shows [Kd Td] (high card Ace)
+mouflon2b: shows [Tc Ks] (high card Ace)
+mabeal1 collected 305 from pot
+mouflon2b collected 305 from pot
+*** SUMMARY ***
+Total pot 610 | Rake 0 
+Board [2s Ad 4s Jc 3d]
+Seat 1: mouflon2b (button) (small blind) showed [Tc Ks] and won (305) with high card Ace
+Seat 2: mabeal1 (big blind) showed [Kd Td] and won (305) with high card Ace
+
+
+
+PokerStars Hand #259564339090: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:50:24 CET [2026/02/02 12:50:24 ET]
+Table '3971458053 1' 3-max Seat #2 is the button
+Seat 1: mouflon2b (305 in chips) 
+Seat 2: mabeal1 (1195 in chips) 
+mabeal1: posts small blind 15
+mouflon2b: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 5d]
+mabeal1: folds 
+Uncalled bet (15) returned to mouflon2b
+mouflon2b collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mouflon2b (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259564341581: Tournament #3971458053, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 18:50:36 CET [2026/02/02 12:50:36 ET]
+Table '3971458053 1' 3-max Seat #1 is the button
+Seat 1: mouflon2b (320 in chips) 
+Seat 2: mabeal1 (1180 in chips) 
+mouflon2b: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Ah]
+mouflon2b: calls 15
+mabeal1: raises 1150 to 1180 and is all-in
+mouflon2b: calls 290 and is all-in
+Uncalled bet (860) returned to mabeal1
+*** FLOP *** [Qh 5d 4d]
+*** TURN *** [Qh 5d 4d] [Tc]
+*** RIVER *** [Qh 5d 4d Tc] [8d]
+*** SHOW DOWN ***
+mabeal1: shows [7s Ah] (high card Ace)
+mouflon2b: shows [Kc 9c] (high card King)
+mabeal1 collected 640 from pot
+mouflon2b finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €5.00 - congratulations!
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Qh 5d 4d Tc 8d]
+Seat 1: mouflon2b (button) (small blind) showed [Kc 9c] and lost with high card King
+Seat 2: mabeal1 (big blind) showed [7s Ah] and won (640) with high card Ace
+
+
+

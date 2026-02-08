@@ -1,0 +1,225 @@
+﻿PokerStars Hand #259477075514: Tournament #3969457454, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 1:03:03 CET [2026/01/26 19:03:03 ET]
+Table '3969457454 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Miguel moredo (500 in chips) 
+Seat 3: GSBET610 (500 in chips) 
+Miguel moredo: posts small blind 10
+GSBET610: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Js]
+mabeal1: folds 
+Miguel moredo: calls 10
+GSBET610: raises 400 to 420
+Miguel moredo: raises 80 to 500 and is all-in
+GSBET610: calls 80 and is all-in
+*** FLOP *** [Jd 3d As]
+*** TURN *** [Jd 3d As] [5d]
+*** RIVER *** [Jd 3d As 5d] [3c]
+*** SHOW DOWN ***
+Miguel moredo: shows [Jc Ad] (two pair, Aces and Jacks)
+GSBET610: shows [Qh Ah] (two pair, Aces and Threes)
+Miguel moredo collected 1000 from pot
+GSBET610 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Jd 3d As 5d 3c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Miguel moredo (small blind) showed [Jc Ad] and won (1000) with two pair, Aces and Jacks
+Seat 3: GSBET610 (big blind) showed [Qh Ah] and lost with two pair, Aces and Threes
+
+
+
+PokerStars Hand #259477080946: Tournament #3969457454, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 1:03:32 CET [2026/01/26 19:03:32 ET]
+Table '3969457454 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Miguel moredo (1000 in chips) 
+Miguel moredo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 8c]
+Miguel moredo: calls 10
+mabeal1: checks 
+*** FLOP *** [Qh Kd Qd]
+mabeal1: checks 
+Miguel moredo: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Miguel moredo
+Miguel moredo collected 40 from pot
+Miguel moredo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qh Kd Qd]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Miguel moredo (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259477084041: Tournament #3969457454, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 1:03:48 CET [2026/01/26 19:03:48 ET]
+Table '3969457454 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: Miguel moredo (1020 in chips) 
+mabeal1: posts small blind 10
+Miguel moredo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2c]
+mabeal1: calls 10
+Miguel moredo: checks 
+*** FLOP *** [4h 6c Js]
+Miguel moredo: checks 
+mabeal1: bets 20
+Miguel moredo: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h 6c Js]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: Miguel moredo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259477085947: Tournament #3969457454, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 1:03:59 CET [2026/01/26 19:03:59 ET]
+Table '3969457454 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Miguel moredo (1000 in chips) 
+Miguel moredo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Kd]
+Miguel moredo: calls 10
+mabeal1: checks 
+*** FLOP *** [Qd Kh 7c]
+mabeal1: checks 
+Miguel moredo: checks 
+*** TURN *** [Qd Kh 7c] [Tc]
+mabeal1: bets 20
+Miguel moredo: calls 20
+*** RIVER *** [Qd Kh 7c Tc] [4c]
+mabeal1: bets 60
+Miguel moredo: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qd Kh 7c Tc 4c]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: Miguel moredo (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259477090056: Tournament #3969457454, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 1:04:20 CET [2026/01/26 19:04:20 ET]
+Table '3969457454 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: Miguel moredo (960 in chips) 
+mabeal1: posts small blind 10
+Miguel moredo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Qs]
+mabeal1: calls 10
+Miguel moredo: checks 
+*** FLOP *** [Ad 9d Td]
+Miguel moredo: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Miguel moredo
+Miguel moredo collected 40 from pot
+Miguel moredo: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ad 9d Td]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 2: Miguel moredo (big blind) collected (40)
+
+
+
+PokerStars Hand #259477092602: Tournament #3969457454, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 1:04:34 CET [2026/01/26 19:04:34 ET]
+Table '3969457454 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: Miguel moredo (980 in chips) 
+Miguel moredo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Kd]
+Miguel moredo: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [6h 2c 7c]
+mabeal1: checks 
+Miguel moredo: bets 40
+mabeal1: calls 40
+*** TURN *** [6h 2c 7c] [9h]
+mabeal1: checks 
+Miguel moredo: bets 20
+mabeal1: raises 140 to 160
+Miguel moredo: folds 
+Uncalled bet (140) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [6h 2c 7c 9h]
+Seat 1: mabeal1 (big blind) collected (200)
+Seat 2: Miguel moredo (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259477097720: Tournament #3969457454, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 1:05:01 CET [2026/01/26 19:05:01 ET]
+Table '3969457454 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: Miguel moredo (880 in chips) 
+mabeal1: posts small blind 10
+Miguel moredo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 8s]
+mabeal1: calls 10
+Miguel moredo: checks 
+*** FLOP *** [Ac 7c Tc]
+Miguel moredo: checks 
+mabeal1: bets 20
+Miguel moredo: calls 20
+*** TURN *** [Ac 7c Tc] [Kd]
+Miguel moredo: bets 40
+mabeal1: calls 40
+*** RIVER *** [Ac 7c Tc Kd] [5c]
+Miguel moredo: bets 800 and is all-in
+mabeal1: calls 540 and is all-in
+Uncalled bet (260) returned to Miguel moredo
+*** SHOW DOWN ***
+Miguel moredo: shows [4s Ah] (a pair of Aces)
+mabeal1: shows [Kc 8s] (a flush, Ace high)
+mabeal1 collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [Ac 7c Tc Kd 5c]
+Seat 1: mabeal1 (button) (small blind) showed [Kc 8s] and won (1240) with a flush, Ace high
+Seat 2: Miguel moredo (big blind) showed [4s Ah] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259477103651: Tournament #3969457454, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 1:05:32 CET [2026/01/26 19:05:32 ET]
+Table '3969457454 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1240 in chips) 
+Seat 2: Miguel moredo (260 in chips) 
+Miguel moredo: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Kd]
+Miguel moredo: raises 230 to 260 and is all-in
+mabeal1: calls 230
+*** FLOP *** [Js 8d Tc]
+*** TURN *** [Js 8d Tc] [7c]
+*** RIVER *** [Js 8d Tc 7c] [5d]
+*** SHOW DOWN ***
+mabeal1: shows [Jc Kd] (a pair of Jacks)
+Miguel moredo: shows [6h Qh] (high card Queen)
+mabeal1 collected 520 from pot
+Miguel moredo finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [Js 8d Tc 7c 5d]
+Seat 1: mabeal1 (big blind) showed [Jc Kd] and won (520) with a pair of Jacks
+Seat 2: Miguel moredo (button) (small blind) showed [6h Qh] and lost with high card Queen
+
+
+

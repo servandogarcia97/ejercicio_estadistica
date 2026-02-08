@@ -1,0 +1,831 @@
+﻿PokerStars Hand #259591850829: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:28:43 CET [2026/02/04 14:28:43 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: sinner_vlc (500 in chips) 
+Seat 3: BlackGEagle (500 in chips) 
+sinner_vlc: posts small blind 10
+BlackGEagle: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4c]
+mabeal1: folds 
+sinner_vlc: folds 
+Uncalled bet (10) returned to BlackGEagle
+BlackGEagle collected 20 from pot
+BlackGEagle: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sinner_vlc (small blind) folded before Flop
+Seat 3: BlackGEagle (big blind) collected (20)
+
+
+
+PokerStars Hand #259591852490: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:28:49 CET [2026/02/04 14:28:49 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: sinner_vlc (490 in chips) 
+Seat 3: BlackGEagle (510 in chips) 
+BlackGEagle: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 5c]
+sinner_vlc: calls 20
+BlackGEagle: folds 
+mabeal1: checks 
+*** FLOP *** [8s Kc 4c]
+mabeal1: checks 
+sinner_vlc: checks 
+*** TURN *** [8s Kc 4c] [Ks]
+mabeal1: bets 20
+sinner_vlc: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [8s Kc 4c Ks]
+Seat 1: mabeal1 (big blind) collected (50)
+Seat 2: sinner_vlc (button) folded on the Turn
+Seat 3: BlackGEagle (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591859186: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:29:15 CET [2026/02/04 14:29:15 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: sinner_vlc (470 in chips) 
+Seat 3: BlackGEagle (500 in chips) 
+mabeal1: posts small blind 10
+sinner_vlc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Qs]
+BlackGEagle: folds 
+mabeal1: raises 30 to 50
+sinner_vlc: calls 30
+*** FLOP *** [2s 3c 7c]
+mabeal1: checks 
+sinner_vlc: checks 
+*** TURN *** [2s 3c 7c] [Ac]
+mabeal1: bets 50
+sinner_vlc: folds 
+Uncalled bet (50) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [2s 3c 7c Ac]
+Seat 1: mabeal1 (small blind) collected (100)
+Seat 2: sinner_vlc (big blind) folded on the Turn
+Seat 3: BlackGEagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591865078: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:29:38 CET [2026/02/04 14:29:38 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: sinner_vlc (420 in chips) 
+Seat 3: BlackGEagle (500 in chips) 
+sinner_vlc: posts small blind 10
+BlackGEagle: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4h]
+mabeal1: folds 
+sinner_vlc: folds 
+Uncalled bet (10) returned to BlackGEagle
+BlackGEagle collected 20 from pot
+BlackGEagle: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sinner_vlc (small blind) folded before Flop
+Seat 3: BlackGEagle (big blind) collected (20)
+
+
+
+PokerStars Hand #259591866669: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:29:44 CET [2026/02/04 14:29:44 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: sinner_vlc (410 in chips) 
+Seat 3: BlackGEagle (510 in chips) 
+BlackGEagle: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 6d]
+sinner_vlc: folds 
+BlackGEagle: raises 30 to 50
+mabeal1: folds 
+Uncalled bet (30) returned to BlackGEagle
+BlackGEagle collected 40 from pot
+BlackGEagle: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sinner_vlc (button) folded before Flop (didn't bet)
+Seat 3: BlackGEagle (small blind) collected (40)
+
+
+
+PokerStars Hand #259591872757: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:30:07 CET [2026/02/04 14:30:07 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: sinner_vlc (410 in chips) 
+Seat 3: BlackGEagle (530 in chips) 
+mabeal1: posts small blind 10
+sinner_vlc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 5h]
+BlackGEagle: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to sinner_vlc
+sinner_vlc collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sinner_vlc (big blind) collected (20)
+Seat 3: BlackGEagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591875144: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:30:17 CET [2026/02/04 14:30:17 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: sinner_vlc (420 in chips) 
+Seat 3: BlackGEagle (530 in chips) 
+sinner_vlc: posts small blind 10
+BlackGEagle: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Kd]
+mabeal1: raises 20 to 40
+sinner_vlc: calls 30
+BlackGEagle: calls 20
+*** FLOP *** [7h 6h Qs]
+sinner_vlc: checks 
+BlackGEagle: checks 
+mabeal1: checks 
+*** TURN *** [7h 6h Qs] [4d]
+sinner_vlc: checks 
+BlackGEagle: checks 
+mabeal1: checks 
+*** RIVER *** [7h 6h Qs 4d] [8d]
+sinner_vlc: checks 
+BlackGEagle: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+sinner_vlc: shows [Jc 4s] (a pair of Fours)
+BlackGEagle: mucks hand 
+mabeal1: mucks hand 
+sinner_vlc collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 6h Qs 4d 8d]
+Seat 1: mabeal1 (button) mucked [Tc Kd]
+Seat 2: sinner_vlc (small blind) showed [Jc 4s] and won (120) with a pair of Fours
+Seat 3: BlackGEagle (big blind) mucked [Jd Kc]
+
+
+
+PokerStars Hand #259591884360: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:30:52 CET [2026/02/04 14:30:52 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: sinner_vlc (500 in chips) 
+Seat 3: BlackGEagle (490 in chips) 
+BlackGEagle: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 2h]
+sinner_vlc: folds 
+BlackGEagle: raises 30 to 60
+mabeal1: raises 450 to 510 and is all-in
+BlackGEagle: folds 
+Uncalled bet (450) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: sinner_vlc (button) folded before Flop (didn't bet)
+Seat 3: BlackGEagle (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591887450: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:31:04 CET [2026/02/04 14:31:04 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: sinner_vlc (500 in chips) 
+Seat 3: BlackGEagle (430 in chips) 
+mabeal1: posts small blind 15
+sinner_vlc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6s]
+BlackGEagle: folds 
+mabeal1: raises 540 to 570 and is all-in
+sinner_vlc: folds 
+Uncalled bet (540) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: sinner_vlc (big blind) folded before Flop
+Seat 3: BlackGEagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591889887: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:31:13 CET [2026/02/04 14:31:13 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: sinner_vlc (470 in chips) 
+Seat 3: BlackGEagle (430 in chips) 
+sinner_vlc: posts small blind 15
+BlackGEagle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 7d]
+mabeal1: folds 
+sinner_vlc: calls 15
+BlackGEagle: checks 
+*** FLOP *** [Qd Ah 3c]
+sinner_vlc: checks 
+BlackGEagle: checks 
+*** TURN *** [Qd Ah 3c] [Qc]
+sinner_vlc: checks 
+BlackGEagle: checks 
+*** RIVER *** [Qd Ah 3c Qc] [9c]
+sinner_vlc: checks 
+BlackGEagle: checks 
+*** SHOW DOWN ***
+sinner_vlc: shows [4c Jd] (a pair of Queens)
+BlackGEagle: shows [Ks 9d] (two pair, Queens and Nines)
+BlackGEagle collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd Ah 3c Qc 9c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sinner_vlc (small blind) showed [4c Jd] and lost with a pair of Queens
+Seat 3: BlackGEagle (big blind) showed [Ks 9d] and won (60) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #259591899000: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:31:48 CET [2026/02/04 14:31:48 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: sinner_vlc (440 in chips) 
+Seat 3: BlackGEagle (460 in chips) 
+BlackGEagle: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6s]
+sinner_vlc: raises 180 to 210
+BlackGEagle: folds 
+mabeal1: folds 
+Uncalled bet (180) returned to sinner_vlc
+sinner_vlc collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sinner_vlc (button) collected (75)
+Seat 3: BlackGEagle (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591904736: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:32:10 CET [2026/02/04 14:32:10 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: sinner_vlc (485 in chips) 
+Seat 3: BlackGEagle (445 in chips) 
+mabeal1: posts small blind 15
+sinner_vlc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8h]
+BlackGEagle: raises 415 to 445 and is all-in
+mabeal1: folds 
+sinner_vlc: folds 
+Uncalled bet (415) returned to BlackGEagle
+BlackGEagle collected 75 from pot
+BlackGEagle: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sinner_vlc (big blind) folded before Flop
+Seat 3: BlackGEagle (button) collected (75)
+
+
+
+PokerStars Hand #259591908152: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:32:23 CET [2026/02/04 14:32:23 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 2: sinner_vlc (455 in chips) 
+Seat 3: BlackGEagle (490 in chips) 
+sinner_vlc: posts small blind 15
+BlackGEagle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4c]
+mabeal1: folds 
+sinner_vlc: raises 425 to 455 and is all-in
+BlackGEagle: folds 
+Uncalled bet (425) returned to sinner_vlc
+sinner_vlc collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sinner_vlc (small blind) collected (60)
+Seat 3: BlackGEagle (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591910327: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:32:32 CET [2026/02/04 14:32:32 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 2: sinner_vlc (485 in chips) 
+Seat 3: BlackGEagle (460 in chips) 
+BlackGEagle: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Qh]
+sinner_vlc: folds 
+BlackGEagle: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: sinner_vlc (button) folded before Flop (didn't bet)
+Seat 3: BlackGEagle (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591912493: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:32:40 CET [2026/02/04 14:32:40 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: sinner_vlc (485 in chips) 
+Seat 3: BlackGEagle (445 in chips) 
+mabeal1: posts small blind 15
+sinner_vlc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4d]
+BlackGEagle: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to sinner_vlc
+sinner_vlc collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sinner_vlc (big blind) collected (30)
+Seat 3: BlackGEagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591915310: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:32:51 CET [2026/02/04 14:32:51 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 2: sinner_vlc (500 in chips) 
+Seat 3: BlackGEagle (445 in chips) 
+sinner_vlc: posts small blind 20
+BlackGEagle: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9s]
+mabeal1: folds 
+sinner_vlc: calls 20
+BlackGEagle: checks 
+*** FLOP *** [Ks Th 7h]
+sinner_vlc: bets 160
+BlackGEagle: folds 
+Uncalled bet (160) returned to sinner_vlc
+sinner_vlc collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks Th 7h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sinner_vlc (small blind) collected (80)
+Seat 3: BlackGEagle (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259591920888: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:33:12 CET [2026/02/04 14:33:12 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (555 in chips) 
+Seat 2: sinner_vlc (540 in chips) 
+Seat 3: BlackGEagle (405 in chips) 
+BlackGEagle: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 7d]
+sinner_vlc: folds 
+BlackGEagle: raises 365 to 405 and is all-in
+mabeal1: folds 
+Uncalled bet (365) returned to BlackGEagle
+BlackGEagle collected 80 from pot
+BlackGEagle: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sinner_vlc (button) folded before Flop (didn't bet)
+Seat 3: BlackGEagle (small blind) collected (80)
+
+
+
+PokerStars Hand #259591923113: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:33:20 CET [2026/02/04 14:33:20 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (515 in chips) 
+Seat 2: sinner_vlc (540 in chips) 
+Seat 3: BlackGEagle (445 in chips) 
+mabeal1: posts small blind 20
+sinner_vlc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 5c]
+BlackGEagle: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to sinner_vlc
+sinner_vlc collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sinner_vlc (big blind) collected (40)
+Seat 3: BlackGEagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591925206: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:33:29 CET [2026/02/04 14:33:29 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (495 in chips) 
+Seat 2: sinner_vlc (560 in chips) 
+Seat 3: BlackGEagle (445 in chips) 
+sinner_vlc: posts small blind 20
+BlackGEagle: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 4d]
+mabeal1: folds 
+sinner_vlc: calls 20
+BlackGEagle: checks 
+*** FLOP *** [9d Ad 8d]
+sinner_vlc: bets 40
+BlackGEagle: calls 40
+*** TURN *** [9d Ad 8d] [6s]
+sinner_vlc: bets 40
+BlackGEagle: calls 40
+*** RIVER *** [9d Ad 8d 6s] [7h]
+sinner_vlc: bets 200
+BlackGEagle: folds 
+Uncalled bet (200) returned to sinner_vlc
+sinner_vlc collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [9d Ad 8d 6s 7h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sinner_vlc (small blind) collected (240)
+Seat 3: BlackGEagle (big blind) folded on the River
+
+
+
+PokerStars Hand #259591931195: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:33:51 CET [2026/02/04 14:33:51 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (495 in chips) 
+Seat 2: sinner_vlc (680 in chips) 
+Seat 3: BlackGEagle (325 in chips) 
+BlackGEagle: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Js]
+sinner_vlc: raises 160 to 200
+BlackGEagle: folds 
+mabeal1: folds 
+Uncalled bet (160) returned to sinner_vlc
+sinner_vlc collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sinner_vlc (button) collected (100)
+Seat 3: BlackGEagle (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591933685: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:34:01 CET [2026/02/04 14:34:01 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 2: sinner_vlc (740 in chips) 
+Seat 3: BlackGEagle (305 in chips) 
+mabeal1: posts small blind 20
+sinner_vlc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c As]
+BlackGEagle: folds 
+mabeal1: raises 60 to 100
+sinner_vlc: raises 100 to 200
+mabeal1: folds 
+Uncalled bet (100) returned to sinner_vlc
+sinner_vlc collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sinner_vlc (big blind) collected (200)
+Seat 3: BlackGEagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591939516: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:34:23 CET [2026/02/04 14:34:23 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (355 in chips) 
+Seat 2: sinner_vlc (840 in chips) 
+Seat 3: BlackGEagle (305 in chips) 
+sinner_vlc: posts small blind 20
+BlackGEagle: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ts]
+mabeal1: raises 40 to 80
+sinner_vlc: folds 
+BlackGEagle: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) collected (100)
+Seat 2: sinner_vlc (small blind) folded before Flop
+Seat 3: BlackGEagle (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591942848: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:34:35 CET [2026/02/04 14:34:35 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 2: sinner_vlc (820 in chips) 
+Seat 3: BlackGEagle (265 in chips) 
+BlackGEagle: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Qs]
+sinner_vlc: calls 40
+BlackGEagle: folds 
+mabeal1: raises 375 to 415 and is all-in
+sinner_vlc: folds 
+Uncalled bet (375) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (100)
+Seat 2: sinner_vlc (button) folded before Flop
+Seat 3: BlackGEagle (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591947786: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:34:54 CET [2026/02/04 14:34:54 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 2: sinner_vlc (780 in chips) 
+Seat 3: BlackGEagle (245 in chips) 
+mabeal1: posts small blind 30
+sinner_vlc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Tc]
+BlackGEagle: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to sinner_vlc
+sinner_vlc collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sinner_vlc (big blind) collected (60)
+Seat 3: BlackGEagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591950260: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:35:03 CET [2026/02/04 14:35:03 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: sinner_vlc (810 in chips) 
+Seat 3: BlackGEagle (245 in chips) 
+sinner_vlc: posts small blind 30
+BlackGEagle: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2s]
+mabeal1: raises 385 to 445 and is all-in
+sinner_vlc: folds 
+BlackGEagle: folds 
+Uncalled bet (385) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (button) collected (150)
+Seat 2: sinner_vlc (small blind) folded before Flop
+Seat 3: BlackGEagle (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591952325: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:35:11 CET [2026/02/04 14:35:11 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 2: sinner_vlc (780 in chips) 
+Seat 3: BlackGEagle (185 in chips) 
+BlackGEagle: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9s]
+sinner_vlc: raises 240 to 300
+BlackGEagle: calls 155 and is all-in
+mabeal1: folds 
+Uncalled bet (115) returned to sinner_vlc
+*** FLOP *** [As Qc 8h]
+*** TURN *** [As Qc 8h] [3c]
+*** RIVER *** [As Qc 8h 3c] [Ah]
+*** SHOW DOWN ***
+BlackGEagle: shows [9h Ad] (three of a kind, Aces)
+sinner_vlc: shows [3h Ks] (two pair, Aces and Threes)
+BlackGEagle collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [As Qc 8h 3c Ah]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sinner_vlc (button) showed [3h Ks] and lost with two pair, Aces and Threes
+Seat 3: BlackGEagle (small blind) showed [9h Ad] and won (430) with three of a kind, Aces
+
+
+
+PokerStars Hand #259591956075: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:35:26 CET [2026/02/04 14:35:26 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 2: sinner_vlc (595 in chips) 
+Seat 3: BlackGEagle (430 in chips) 
+mabeal1: posts small blind 30
+sinner_vlc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 8s]
+BlackGEagle: raises 370 to 430 and is all-in
+mabeal1: folds 
+sinner_vlc: folds 
+Uncalled bet (370) returned to BlackGEagle
+BlackGEagle collected 150 from pot
+BlackGEagle: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sinner_vlc (big blind) folded before Flop
+Seat 3: BlackGEagle (button) collected (150)
+
+
+
+PokerStars Hand #259591958552: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:35:35 CET [2026/02/04 14:35:35 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (445 in chips) 
+Seat 2: sinner_vlc (535 in chips) 
+Seat 3: BlackGEagle (520 in chips) 
+sinner_vlc: posts small blind 30
+BlackGEagle: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 4c]
+mabeal1: raises 385 to 445 and is all-in
+sinner_vlc: folds 
+BlackGEagle: folds 
+Uncalled bet (385) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (button) collected (150)
+Seat 2: sinner_vlc (small blind) folded before Flop
+Seat 3: BlackGEagle (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591960534: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:35:43 CET [2026/02/04 14:35:43 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 2: sinner_vlc (505 in chips) 
+Seat 3: BlackGEagle (460 in chips) 
+BlackGEagle: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 6h]
+sinner_vlc: raises 445 to 505 and is all-in
+BlackGEagle: calls 430 and is all-in
+mabeal1: folds 
+Uncalled bet (45) returned to sinner_vlc
+*** FLOP *** [Tc 5d 5h]
+*** TURN *** [Tc 5d 5h] [Ac]
+*** RIVER *** [Tc 5d 5h Ac] [2d]
+*** SHOW DOWN ***
+BlackGEagle: shows [Kh As] (two pair, Aces and Fives)
+sinner_vlc: shows [Kc 2c] (two pair, Fives and Deuces)
+BlackGEagle collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Tc 5d 5h Ac 2d]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sinner_vlc (button) showed [Kc 2c] and lost with two pair, Fives and Deuces
+Seat 3: BlackGEagle (small blind) showed [Kh As] and won (980) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #259591964250: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:35:57 CET [2026/02/04 14:35:57 ET]
+Table '3972075498 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (475 in chips) 
+Seat 2: sinner_vlc (45 in chips) 
+Seat 3: BlackGEagle (980 in chips) 
+mabeal1: posts small blind 30
+sinner_vlc: posts big blind 45 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2h]
+BlackGEagle: folds 
+mabeal1: calls 15
+*** FLOP *** [8s 4c Tc]
+*** TURN *** [8s 4c Tc] [8d]
+*** RIVER *** [8s 4c Tc 8d] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [Ac 2h] (a pair of Eights)
+sinner_vlc: shows [Kc 7s] (two pair, Eights and Sevens)
+sinner_vlc collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8s 4c Tc 8d 7d]
+Seat 1: mabeal1 (small blind) showed [Ac 2h] and lost with a pair of Eights
+Seat 2: sinner_vlc (big blind) showed [Kc 7s] and won (90) with two pair, Eights and Sevens
+Seat 3: BlackGEagle (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591967825: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:36:10 CET [2026/02/04 14:36:10 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: sinner_vlc (90 in chips) 
+Seat 3: BlackGEagle (980 in chips) 
+sinner_vlc: posts small blind 30
+BlackGEagle: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 2h]
+mabeal1: folds 
+sinner_vlc: raises 30 to 90 and is all-in
+BlackGEagle: calls 30
+*** FLOP *** [Qh 8h 6d]
+*** TURN *** [Qh 8h 6d] [Jh]
+*** RIVER *** [Qh 8h 6d Jh] [Jc]
+*** SHOW DOWN ***
+sinner_vlc: shows [5c 7c] (a pair of Jacks)
+BlackGEagle: shows [4d 5h] (a pair of Jacks - lower kicker)
+sinner_vlc collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Qh 8h 6d Jh Jc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sinner_vlc (small blind) showed [5c 7c] and won (180) with a pair of Jacks
+Seat 3: BlackGEagle (big blind) showed [4d 5h] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259591973202: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:36:31 CET [2026/02/04 14:36:31 ET]
+Table '3972075498 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (430 in chips) 
+Seat 2: sinner_vlc (180 in chips) 
+Seat 3: BlackGEagle (890 in chips) 
+BlackGEagle: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9c]
+sinner_vlc: raises 120 to 180 and is all-in
+BlackGEagle: raises 710 to 890 and is all-in
+mabeal1: folds 
+Uncalled bet (710) returned to BlackGEagle
+*** FLOP *** [4h 7s Td]
+*** TURN *** [4h 7s Td] [Qd]
+*** RIVER *** [4h 7s Td Qd] [9h]
+*** SHOW DOWN ***
+BlackGEagle: shows [7d 7c] (three of a kind, Sevens)
+sinner_vlc: shows [Qc 5h] (a pair of Queens)
+BlackGEagle collected 420 from pot
+sinner_vlc finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [4h 7s Td Qd 9h]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: sinner_vlc (button) showed [Qc 5h] and lost with a pair of Queens
+Seat 3: BlackGEagle (small blind) showed [7d 7c] and won (420) with three of a kind, Sevens
+
+
+
+PokerStars Hand #259591978474: Tournament #3972075498, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 20:36:51 CET [2026/02/04 14:36:51 ET]
+Table '3972075498 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (370 in chips) 
+Seat 3: BlackGEagle (1130 in chips) 
+mabeal1: posts small blind 40
+BlackGEagle: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Tc]
+mabeal1: raises 290 to 370 and is all-in
+BlackGEagle: calls 290
+*** FLOP *** [Ks 4h 7s]
+*** TURN *** [Ks 4h 7s] [Qc]
+*** RIVER *** [Ks 4h 7s Qc] [9h]
+*** SHOW DOWN ***
+BlackGEagle: shows [5s Ad] (high card Ace)
+mabeal1: shows [6d Tc] (high card King)
+BlackGEagle collected 740 from pot
+mabeal1 finished the tournament in 2nd place
+BlackGEagle wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [Ks 4h 7s Qc 9h]
+Seat 1: mabeal1 (button) (small blind) showed [6d Tc] and lost with high card King
+Seat 3: BlackGEagle (big blind) showed [5s Ad] and won (740) with high card Ace
+
+
+

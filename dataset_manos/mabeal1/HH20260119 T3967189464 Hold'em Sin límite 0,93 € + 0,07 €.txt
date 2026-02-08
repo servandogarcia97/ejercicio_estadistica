@@ -1,0 +1,310 @@
+﻿PokerStars Hand #259379225090: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:36:43 CET [2026/01/19 13:36:43 ET]
+Table '3967189464 1' 3-max Seat #1 is the button
+Seat 1: 57apip (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: SHOGUN10000 (500 in chips) 
+mabeal1: posts small blind 10
+SHOGUN10000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4d]
+57apip: raises 20 to 40
+mabeal1: folds 
+SHOGUN10000: folds 
+Uncalled bet (20) returned to 57apip
+57apip collected 50 from pot
+57apip: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: 57apip (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: SHOGUN10000 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379226852: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:36:50 CET [2026/01/19 13:36:50 ET]
+Table '3967189464 1' 3-max Seat #2 is the button
+Seat 1: 57apip (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: SHOGUN10000 (480 in chips) 
+SHOGUN10000: posts small blind 10
+57apip: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Jd]
+mabeal1: folds 
+SHOGUN10000: calls 10
+57apip: checks 
+*** FLOP *** [3d Td Qd]
+SHOGUN10000: checks 
+57apip: bets 20
+SHOGUN10000: calls 20
+*** TURN *** [3d Td Qd] [3s]
+SHOGUN10000: checks 
+57apip: bets 40
+SHOGUN10000: folds 
+Uncalled bet (40) returned to 57apip
+57apip collected 80 from pot
+57apip: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d Td Qd 3s]
+Seat 1: 57apip (big blind) collected (80)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: SHOGUN10000 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259379233533: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:37:16 CET [2026/01/19 13:37:16 ET]
+Table '3967189464 1' 3-max Seat #3 is the button
+Seat 1: 57apip (570 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: SHOGUN10000 (440 in chips) 
+57apip: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2s]
+SHOGUN10000: raises 20 to 40
+57apip: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to SHOGUN10000
+SHOGUN10000 collected 50 from pot
+SHOGUN10000: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: 57apip (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: SHOGUN10000 (button) collected (50)
+
+
+
+PokerStars Hand #259379235288: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:37:23 CET [2026/01/19 13:37:23 ET]
+Table '3967189464 1' 3-max Seat #1 is the button
+Seat 1: 57apip (560 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: SHOGUN10000 (470 in chips) 
+mabeal1: posts small blind 10
+SHOGUN10000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3d]
+57apip: raises 60 to 80
+mabeal1: folds 
+SHOGUN10000: folds 
+Uncalled bet (60) returned to 57apip
+57apip collected 50 from pot
+57apip: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: 57apip (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: SHOGUN10000 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379237743: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:37:32 CET [2026/01/19 13:37:32 ET]
+Table '3967189464 1' 3-max Seat #2 is the button
+Seat 1: 57apip (590 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: SHOGUN10000 (450 in chips) 
+SHOGUN10000: posts small blind 10
+57apip: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 7s]
+mabeal1: folds 
+SHOGUN10000: folds 
+Uncalled bet (10) returned to 57apip
+57apip collected 20 from pot
+57apip: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 57apip (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: SHOGUN10000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379239826: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:37:40 CET [2026/01/19 13:37:40 ET]
+Table '3967189464 1' 3-max Seat #3 is the button
+Seat 1: 57apip (600 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: SHOGUN10000 (440 in chips) 
+57apip: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 7h]
+SHOGUN10000: folds 
+57apip: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Qh 4s Kh]
+57apip: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to 57apip
+57apip collected 80 from pot
+57apip: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh 4s Kh]
+Seat 1: 57apip (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: SHOGUN10000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379245654: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:38:03 CET [2026/01/19 13:38:03 ET]
+Table '3967189464 1' 3-max Seat #1 is the button
+Seat 1: 57apip (640 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: SHOGUN10000 (440 in chips) 
+mabeal1: posts small blind 10
+SHOGUN10000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Jc]
+57apip: raises 20 to 40
+mabeal1: folds 
+SHOGUN10000: calls 20
+*** FLOP *** [Tc 7d Td]
+SHOGUN10000: checks 
+57apip: bets 45
+SHOGUN10000: calls 45
+*** TURN *** [Tc 7d Td] [Js]
+SHOGUN10000: checks 
+57apip: bets 60
+SHOGUN10000: calls 60
+*** RIVER *** [Tc 7d Td Js] [Kh]
+SHOGUN10000: checks 
+57apip: bets 150
+SHOGUN10000: raises 145 to 295 and is all-in
+57apip: folds 
+Uncalled bet (145) returned to SHOGUN10000
+SHOGUN10000 collected 600 from pot
+SHOGUN10000: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Tc 7d Td Js Kh]
+Seat 1: 57apip (button) folded on the River
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: SHOGUN10000 (big blind) collected (600)
+
+
+
+PokerStars Hand #259379258626: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:38:54 CET [2026/01/19 13:38:54 ET]
+Table '3967189464 1' 3-max Seat #2 is the button
+Seat 1: 57apip (345 in chips) 
+Seat 2: mabeal1 (410 in chips) 
+Seat 3: SHOGUN10000 (745 in chips) 
+SHOGUN10000: posts small blind 10
+57apip: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 9h]
+mabeal1: folds 
+SHOGUN10000: folds 
+Uncalled bet (10) returned to 57apip
+57apip collected 20 from pot
+57apip: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: 57apip (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: SHOGUN10000 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379259898: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:38:59 CET [2026/01/19 13:38:59 ET]
+Table '3967189464 1' 3-max Seat #3 is the button
+Seat 1: 57apip (355 in chips) 
+Seat 2: mabeal1 (410 in chips) 
+Seat 3: SHOGUN10000 (735 in chips) 
+57apip: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qs]
+SHOGUN10000: folds 
+57apip: calls 10
+mabeal1: checks 
+*** FLOP *** [5c 3h 2s]
+57apip: bets 40
+mabeal1: calls 40
+*** TURN *** [5c 3h 2s] [9h]
+57apip: bets 60
+mabeal1: calls 60
+*** RIVER *** [5c 3h 2s 9h] [Ks]
+57apip: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+57apip: shows [Qc 5s] (a pair of Fives)
+mabeal1: mucks hand 
+57apip collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [5c 3h 2s 9h Ks]
+Seat 1: 57apip (small blind) showed [Qc 5s] and won (240) with a pair of Fives
+Seat 2: mabeal1 (big blind) mucked [3s Qs]
+Seat 3: SHOGUN10000 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379267557: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:39:30 CET [2026/01/19 13:39:30 ET]
+Table '3967189464 1' 3-max Seat #1 is the button
+Seat 1: 57apip (475 in chips) 
+Seat 2: mabeal1 (290 in chips) 
+Seat 3: SHOGUN10000 (735 in chips) 
+mabeal1: posts small blind 10
+SHOGUN10000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Jc]
+57apip: raises 20 to 40
+mabeal1: calls 30
+SHOGUN10000: calls 20
+*** FLOP *** [Kc 6h Qd]
+mabeal1: checks 
+SHOGUN10000: checks 
+57apip: bets 60
+mabeal1: calls 60
+SHOGUN10000: raises 140 to 200
+57apip: calls 140
+mabeal1: folds 
+*** TURN *** [Kc 6h Qd] [2d]
+SHOGUN10000: bets 435
+57apip: calls 235 and is all-in
+Uncalled bet (200) returned to SHOGUN10000
+*** RIVER *** [Kc 6h Qd 2d] [Kd]
+*** SHOW DOWN ***
+SHOGUN10000: shows [Jd Kh] (three of a kind, Kings)
+57apip: shows [Ks 7d] (three of a kind, Kings - lower kicker)
+SHOGUN10000 collected 1050 from pot
+57apip finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Kc 6h Qd 2d Kd]
+Seat 1: 57apip (button) showed [Ks 7d] and lost with three of a kind, Kings
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: SHOGUN10000 (big blind) showed [Jd Kh] and won (1050) with three of a kind, Kings
+
+
+
+PokerStars Hand #259379281108: Tournament #3967189464, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 19:40:23 CET [2026/01/19 13:40:23 ET]
+Table '3967189464 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (190 in chips) 
+Seat 3: SHOGUN10000 (1310 in chips) 
+SHOGUN10000: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Tc]
+SHOGUN10000: raises 1280 to 1310 and is all-in
+mabeal1: calls 160 and is all-in
+Uncalled bet (1120) returned to SHOGUN10000
+*** FLOP *** [7d Ad Qd]
+*** TURN *** [7d Ad Qd] [2c]
+*** RIVER *** [7d Ad Qd 2c] [As]
+*** SHOW DOWN ***
+mabeal1: shows [8h Tc] (a pair of Aces)
+SHOGUN10000: shows [Qh Jh] (two pair, Aces and Queens)
+SHOGUN10000 collected 380 from pot
+mabeal1 finished the tournament in 2nd place
+SHOGUN10000 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [7d Ad Qd 2c As]
+Seat 2: mabeal1 (big blind) showed [8h Tc] and lost with a pair of Aces
+Seat 3: SHOGUN10000 (button) (small blind) showed [Qh Jh] and won (380) with two pair, Aces and Queens
+
+
+

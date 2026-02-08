@@ -1,0 +1,446 @@
+﻿PokerStars Hand #259589497855: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:32:01 CET [2026/02/04 11:32:01 ET]
+Table '3972023450 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: david1374 (500 in chips) 
+Seat 3: Manzanoo33 (500 in chips) 
+david1374: posts small blind 10
+Manzanoo33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d As]
+mabeal1: raises 20 to 40
+david1374: folds 
+Manzanoo33: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: david1374 (small blind) folded before Flop
+Seat 3: Manzanoo33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589499552: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:32:11 CET [2026/02/04 11:32:11 ET]
+Table '3972023450 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: david1374 (490 in chips) 
+Seat 3: Manzanoo33 (480 in chips) 
+Manzanoo33: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Tc]
+david1374: folds 
+Manzanoo33: calls 10
+mabeal1: checks 
+*** FLOP *** [6s 3h 7s]
+Manzanoo33: checks 
+mabeal1: bets 30
+Manzanoo33: calls 30
+*** TURN *** [6s 3h 7s] [2h]
+Manzanoo33: checks 
+mabeal1: bets 90
+Manzanoo33: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6s 3h 7s 2h]
+Seat 1: mabeal1 (big blind) collected (100)
+Seat 2: david1374 (button) folded before Flop (didn't bet)
+Seat 3: Manzanoo33 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259589506644: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:32:47 CET [2026/02/04 11:32:47 ET]
+Table '3972023450 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: david1374 (490 in chips) 
+Seat 3: Manzanoo33 (430 in chips) 
+mabeal1: posts small blind 10
+david1374: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Qc]
+Manzanoo33: raises 20 to 40
+mabeal1: folds 
+david1374: folds 
+Uncalled bet (20) returned to Manzanoo33
+Manzanoo33 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: david1374 (big blind) folded before Flop
+Seat 3: Manzanoo33 (button) collected (50)
+
+
+
+PokerStars Hand #259589508945: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:32:59 CET [2026/02/04 11:32:59 ET]
+Table '3972023450 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: david1374 (470 in chips) 
+Seat 3: Manzanoo33 (460 in chips) 
+david1374: posts small blind 10
+Manzanoo33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 3c]
+mabeal1: folds 
+david1374: raises 20 to 40
+Manzanoo33: folds 
+Uncalled bet (20) returned to david1374
+david1374 collected 40 from pot
+david1374: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: david1374 (small blind) collected (40)
+Seat 3: Manzanoo33 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259589510197: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:33:05 CET [2026/02/04 11:33:05 ET]
+Table '3972023450 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: david1374 (490 in chips) 
+Seat 3: Manzanoo33 (440 in chips) 
+Manzanoo33: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6s]
+david1374: calls 20
+Manzanoo33: folds 
+mabeal1: checks 
+*** FLOP *** [Jd Js Ad]
+mabeal1: checks 
+david1374: checks 
+*** TURN *** [Jd Js Ad] [6h]
+mabeal1: checks 
+david1374: checks 
+*** RIVER *** [Jd Js Ad 6h] [Kd]
+mabeal1: checks 
+david1374: bets 50
+mabeal1: calls 50
+*** SHOW DOWN ***
+david1374: shows [Jc 8s] (three of a kind, Jacks)
+mabeal1: mucks hand 
+david1374 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Jd Js Ad 6h Kd]
+Seat 1: mabeal1 (big blind) mucked [9s 6s]
+Seat 2: david1374 (button) showed [Jc 8s] and won (150) with three of a kind, Jacks
+Seat 3: Manzanoo33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589516309: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:33:37 CET [2026/02/04 11:33:37 ET]
+Table '3972023450 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: david1374 (570 in chips) 
+Seat 3: Manzanoo33 (430 in chips) 
+mabeal1: posts small blind 10
+david1374: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4h]
+Manzanoo33: raises 20 to 40
+mabeal1: folds 
+david1374: folds 
+Uncalled bet (20) returned to Manzanoo33
+Manzanoo33 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: david1374 (big blind) folded before Flop
+Seat 3: Manzanoo33 (button) collected (50)
+
+
+
+PokerStars Hand #259589518773: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 17:33:50 CET [2026/02/04 11:33:50 ET]
+Table '3972023450 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 2: david1374 (550 in chips) 
+Seat 3: Manzanoo33 (460 in chips) 
+david1374: posts small blind 10
+Manzanoo33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Jd]
+mabeal1: folds 
+david1374: calls 10
+Manzanoo33: checks 
+*** FLOP *** [3h 7h Kd]
+david1374: checks 
+Manzanoo33: checks 
+*** TURN *** [3h 7h Kd] [Qh]
+david1374: checks 
+Manzanoo33: bets 20
+david1374: folds 
+Uncalled bet (20) returned to Manzanoo33
+Manzanoo33 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h 7h Kd Qh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: david1374 (small blind) folded on the Turn
+Seat 3: Manzanoo33 (big blind) collected (40)
+
+
+
+PokerStars Hand #259589521863: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:34:06 CET [2026/02/04 11:34:06 ET]
+Table '3972023450 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 2: david1374 (530 in chips) 
+Seat 3: Manzanoo33 (480 in chips) 
+Manzanoo33: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 3s]
+david1374: calls 30
+Manzanoo33: calls 15
+mabeal1: checks 
+*** FLOP *** [2h 4s 5c]
+Manzanoo33: checks 
+mabeal1: checks 
+david1374: checks 
+*** TURN *** [2h 4s 5c] [8s]
+Manzanoo33: checks 
+mabeal1: bets 68
+david1374: folds 
+Manzanoo33: folds 
+Uncalled bet (68) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2h 4s 5c 8s]
+Seat 1: mabeal1 (big blind) collected (90)
+Seat 2: david1374 (button) folded on the Turn
+Seat 3: Manzanoo33 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259589525524: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:34:25 CET [2026/02/04 11:34:25 ET]
+Table '3972023450 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: david1374 (500 in chips) 
+Seat 3: Manzanoo33 (450 in chips) 
+mabeal1: posts small blind 15
+david1374: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Th]
+Manzanoo33: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to david1374
+david1374 collected 30 from pot
+david1374: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: david1374 (big blind) collected (30)
+Seat 3: Manzanoo33 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589526835: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:34:32 CET [2026/02/04 11:34:32 ET]
+Table '3972023450 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 2: david1374 (515 in chips) 
+Seat 3: Manzanoo33 (450 in chips) 
+david1374: posts small blind 15
+Manzanoo33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 2h]
+mabeal1: folds 
+david1374: raises 30 to 60
+Manzanoo33: calls 30
+*** FLOP *** [5h 2s Ah]
+david1374: bets 60
+Manzanoo33: folds 
+Uncalled bet (60) returned to david1374
+david1374 collected 120 from pot
+david1374: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h 2s Ah]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: david1374 (small blind) collected (120)
+Seat 3: Manzanoo33 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259589529624: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:34:47 CET [2026/02/04 11:34:47 ET]
+Table '3972023450 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 2: david1374 (575 in chips) 
+Seat 3: Manzanoo33 (390 in chips) 
+Manzanoo33: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7s]
+david1374: folds 
+Manzanoo33: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: david1374 (button) folded before Flop (didn't bet)
+Seat 3: Manzanoo33 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589531280: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:34:55 CET [2026/02/04 11:34:55 ET]
+Table '3972023450 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: david1374 (575 in chips) 
+Seat 3: Manzanoo33 (375 in chips) 
+mabeal1: posts small blind 15
+david1374: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 2d]
+Manzanoo33: raises 30 to 60
+mabeal1: raises 490 to 550 and is all-in
+david1374: folds 
+Manzanoo33: folds 
+Uncalled bet (490) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (150)
+Seat 2: david1374 (big blind) folded before Flop
+Seat 3: Manzanoo33 (button) folded before Flop
+
+
+
+PokerStars Hand #259589534628: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:35:13 CET [2026/02/04 11:35:13 ET]
+Table '3972023450 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (640 in chips) 
+Seat 2: david1374 (545 in chips) 
+Seat 3: Manzanoo33 (315 in chips) 
+david1374: posts small blind 15
+Manzanoo33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 9c]
+mabeal1: raises 30 to 60
+david1374: folds 
+Manzanoo33: calls 30
+*** FLOP *** [5d 9s 7d]
+Manzanoo33: checks 
+mabeal1: bets 68
+Manzanoo33: calls 68
+*** TURN *** [5d 9s 7d] [Jh]
+Manzanoo33: checks 
+mabeal1: checks 
+*** RIVER *** [5d 9s 7d Jh] [6h]
+Manzanoo33: bets 136
+mabeal1: calls 136
+*** SHOW DOWN ***
+Manzanoo33: shows [8d Jd] (a straight, Five to Nine)
+mabeal1: mucks hand 
+Manzanoo33 collected 543 from pot
+*** SUMMARY ***
+Total pot 543 | Rake 0 
+Board [5d 9s 7d Jh 6h]
+Seat 1: mabeal1 (button) mucked [Ac 9c]
+Seat 2: david1374 (small blind) folded before Flop
+Seat 3: Manzanoo33 (big blind) showed [8d Jd] and won (543) with a straight, Five to Nine
+
+
+
+PokerStars Hand #259589543354: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 17:35:59 CET [2026/02/04 11:35:59 ET]
+Table '3972023450 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (376 in chips) 
+Seat 2: david1374 (530 in chips) 
+Seat 3: Manzanoo33 (594 in chips) 
+Manzanoo33: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8c]
+david1374: folds 
+Manzanoo33: calls 15
+mabeal1: checks 
+*** FLOP *** [7c As 6s]
+Manzanoo33: checks 
+mabeal1: checks 
+*** TURN *** [7c As 6s] [7d]
+Manzanoo33: bets 30
+mabeal1: raises 90 to 120
+Manzanoo33: calls 90
+*** RIVER *** [7c As 6s 7d] [Td]
+Manzanoo33: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Manzanoo33: shows [9d 6h] (two pair, Sevens and Sixes)
+mabeal1: mucks hand 
+Manzanoo33 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [7c As 6s 7d Td]
+Seat 1: mabeal1 (big blind) mucked [5s 8c]
+Seat 2: david1374 (button) folded before Flop (didn't bet)
+Seat 3: Manzanoo33 (small blind) showed [9d 6h] and won (300) with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #259589549299: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:36:30 CET [2026/02/04 11:36:30 ET]
+Table '3972023450 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (226 in chips) 
+Seat 2: david1374 (530 in chips) 
+Seat 3: Manzanoo33 (744 in chips) 
+mabeal1: posts small blind 20
+david1374: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 4d]
+Manzanoo33: raises 704 to 744 and is all-in
+mabeal1: folds 
+david1374: folds 
+Uncalled bet (704) returned to Manzanoo33
+Manzanoo33 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: david1374 (big blind) folded before Flop
+Seat 3: Manzanoo33 (button) collected (100)
+
+
+
+PokerStars Hand #259589550478: Tournament #3972023450, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 17:36:37 CET [2026/02/04 11:36:37 ET]
+Table '3972023450 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (206 in chips) 
+Seat 2: david1374 (490 in chips) 
+Seat 3: Manzanoo33 (804 in chips) 
+david1374: posts small blind 20
+Manzanoo33: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ad]
+mabeal1: calls 40
+david1374: calls 20
+Manzanoo33: checks 
+*** FLOP *** [6c Qs 3c]
+david1374: checks 
+Manzanoo33: checks 
+mabeal1: bets 40
+david1374: calls 40
+Manzanoo33: folds 
+*** TURN *** [6c Qs 3c] [3d]
+david1374: checks 
+mabeal1: bets 40
+david1374: raises 80 to 120
+mabeal1: raises 6 to 126 and is all-in
+david1374: calls 6
+*** RIVER *** [6c Qs 3c 3d] [2s]
+*** SHOW DOWN ***
+david1374: shows [9c 3s] (three of a kind, Threes)
+mabeal1: shows [As Ad] (two pair, Aces and Threes)
+david1374 collected 452 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 452 | Rake 0 
+Board [6c Qs 3c 3d 2s]
+Seat 1: mabeal1 (button) showed [As Ad] and lost with two pair, Aces and Threes
+Seat 2: david1374 (small blind) showed [9c 3s] and won (452) with three of a kind, Threes
+Seat 3: Manzanoo33 (big blind) folded on the Flop
+
+
+

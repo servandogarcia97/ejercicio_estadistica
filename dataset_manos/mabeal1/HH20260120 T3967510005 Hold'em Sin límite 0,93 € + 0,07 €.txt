@@ -1,0 +1,181 @@
+﻿PokerStars Hand #259393079508: Tournament #3967510005, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:13:36 CET [2026/01/20 14:13:36 ET]
+Table '3967510005 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Mel26333 (500 in chips) 
+Seat 3: prellezo21 (500 in chips) 
+Mel26333: posts small blind 10
+prellezo21: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Ad]
+mabeal1: raises 40 to 60
+Mel26333: folds 
+prellezo21: calls 40
+*** FLOP *** [5h 9d Ks]
+prellezo21: checks 
+mabeal1: bets 65
+prellezo21: folds 
+Uncalled bet (65) returned to mabeal1
+mabeal1 collected 130 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5h 9d Ks]
+Seat 1: mabeal1 (button) collected (130)
+Seat 2: Mel26333 (small blind) folded before Flop
+Seat 3: prellezo21 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259393086374: Tournament #3967510005, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:14:04 CET [2026/01/20 14:14:04 ET]
+Table '3967510005 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: Mel26333 (490 in chips) 
+Seat 3: prellezo21 (440 in chips) 
+prellezo21: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 4d]
+Mel26333: folds 
+prellezo21: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: Mel26333 (button) folded before Flop (didn't bet)
+Seat 3: prellezo21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259393087926: Tournament #3967510005, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:14:11 CET [2026/01/20 14:14:11 ET]
+Table '3967510005 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Mel26333 (490 in chips) 
+Seat 3: prellezo21 (430 in chips) 
+mabeal1: posts small blind 10
+Mel26333: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Td]
+prellezo21: raises 20 to 40
+mabeal1: folds 
+Mel26333: calls 20
+*** FLOP *** [6c 7s 5d]
+Mel26333: checks 
+prellezo21: bets 29
+Mel26333: calls 29
+*** TURN *** [6c 7s 5d] [Js]
+Mel26333: checks 
+prellezo21: bets 48
+Mel26333: calls 48
+*** RIVER *** [6c 7s 5d Js] [8c]
+Mel26333: checks 
+prellezo21: bets 120
+Mel26333: raises 253 to 373 and is all-in
+prellezo21: calls 193 and is all-in
+Uncalled bet (60) returned to Mel26333
+*** SHOW DOWN ***
+Mel26333: shows [9s 9d] (a straight, Five to Nine)
+prellezo21: shows [4s 4h] (a straight, Four to Eight)
+Mel26333 collected 870 from pot
+prellezo21 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [6c 7s 5d Js 8c]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Mel26333 (big blind) showed [9s 9d] and won (870) with a straight, Five to Nine
+Seat 3: prellezo21 (button) showed [4s 4h] and lost with a straight, Four to Eight
+
+
+
+PokerStars Hand #259393097392: Tournament #3967510005, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:14:51 CET [2026/01/20 14:14:51 ET]
+Table '3967510005 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: Mel26333 (930 in chips) 
+Mel26333: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 6s]
+Mel26333: calls 10
+mabeal1: checks 
+*** FLOP *** [Qd Js 4d]
+mabeal1: checks 
+Mel26333: checks 
+*** TURN *** [Qd Js 4d] [Ts]
+mabeal1: checks 
+Mel26333: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Mel26333
+Mel26333 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd Js 4d Ts]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Mel26333 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259393103139: Tournament #3967510005, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:15:14 CET [2026/01/20 14:15:14 ET]
+Table '3967510005 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: Mel26333 (950 in chips) 
+mabeal1: posts small blind 10
+Mel26333: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Kc]
+mabeal1: raises 40 to 60
+Mel26333: calls 40
+*** FLOP *** [2d Qs 6d]
+Mel26333: checks 
+mabeal1: bets 60
+Mel26333: calls 60
+*** TURN *** [2d Qs 6d] [Qd]
+Mel26333: checks 
+mabeal1: checks 
+*** RIVER *** [2d Qs 6d Qd] [4h]
+Mel26333: checks 
+mabeal1: bets 180
+Mel26333: raises 650 to 830 and is all-in
+mabeal1: calls 250 and is all-in
+Uncalled bet (400) returned to Mel26333
+*** SHOW DOWN ***
+Mel26333: shows [Ad Ac] (two pair, Aces and Queens)
+mabeal1: shows [Qh Kc] (three of a kind, Queens)
+mabeal1 collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [2d Qs 6d Qd 4h]
+Seat 1: mabeal1 (button) (small blind) showed [Qh Kc] and won (1100) with three of a kind, Queens
+Seat 2: Mel26333 (big blind) showed [Ad Ac] and lost with two pair, Aces and Queens
+
+
+
+PokerStars Hand #259393110222: Tournament #3967510005, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:15:43 CET [2026/01/20 14:15:43 ET]
+Table '3967510005 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1100 in chips) 
+Seat 2: Mel26333 (400 in chips) 
+Mel26333: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 8d]
+Mel26333: calls 10
+mabeal1: raises 1080 to 1100 and is all-in
+Mel26333: calls 380 and is all-in
+Uncalled bet (700) returned to mabeal1
+*** FLOP *** [5s 8h 9c]
+*** TURN *** [5s 8h 9c] [Jc]
+*** RIVER *** [5s 8h 9c Jc] [2c]
+*** SHOW DOWN ***
+mabeal1: shows [8s 8d] (three of a kind, Eights)
+Mel26333: shows [2d 2s] (three of a kind, Deuces)
+mabeal1 collected 800 from pot
+Mel26333 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [5s 8h 9c Jc 2c]
+Seat 1: mabeal1 (big blind) showed [8s 8d] and won (800) with three of a kind, Eights
+Seat 2: Mel26333 (button) (small blind) showed [2d 2s] and lost with three of a kind, Deuces
+
+
+

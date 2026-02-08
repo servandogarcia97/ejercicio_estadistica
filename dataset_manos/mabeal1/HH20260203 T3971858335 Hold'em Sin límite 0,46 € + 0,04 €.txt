@@ -1,0 +1,207 @@
+﻿PokerStars Hand #259582822741: Tournament #3971858335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:44:23 CET [2026/02/03 17:44:23 ET]
+Table '3971858335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: RC-DAVID2 (500 in chips) 
+Seat 3: pit69200 (500 in chips) 
+RC-DAVID2: posts small blind 10
+pit69200: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Qc]
+mabeal1: folds 
+RC-DAVID2 has timed out
+RC-DAVID2: folds 
+RC-DAVID2 is sitting out
+Uncalled bet (10) returned to pit69200
+pit69200 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: RC-DAVID2 (small blind) folded before Flop
+Seat 3: pit69200 (big blind) collected (20)
+
+
+
+PokerStars Hand #259582830150: Tournament #3971858335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:44:50 CET [2026/02/03 17:44:50 ET]
+Table '3971858335 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: RC-DAVID2 (490 in chips) is sitting out
+Seat 3: pit69200 (510 in chips) 
+pit69200: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Qs]
+RC-DAVID2: folds 
+pit69200: calls 10
+RC-DAVID2 has returned
+mabeal1: checks 
+*** FLOP *** [6c Kh 3c]
+pit69200: checks 
+mabeal1: checks 
+*** TURN *** [6c Kh 3c] [5h]
+pit69200: checks 
+mabeal1: checks 
+*** RIVER *** [6c Kh 3c 5h] [Qc]
+pit69200: checks 
+mabeal1: bets 30
+pit69200: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6c Kh 3c 5h Qc]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: RC-DAVID2 (button) folded before Flop (didn't bet)
+Seat 3: pit69200 (small blind) folded on the River
+
+
+
+PokerStars Hand #259582840226: Tournament #3971858335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:45:28 CET [2026/02/03 17:45:28 ET]
+Table '3971858335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: RC-DAVID2 (490 in chips) 
+Seat 3: pit69200 (490 in chips) 
+mabeal1: posts small blind 10
+RC-DAVID2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 6d]
+pit69200: folds 
+mabeal1: raises 30 to 50
+RC-DAVID2: calls 30
+*** FLOP *** [Th Ah 4s]
+mabeal1: checks 
+RC-DAVID2: checks 
+*** TURN *** [Th Ah 4s] [8h]
+mabeal1: checks 
+RC-DAVID2: checks 
+*** RIVER *** [Th Ah 4s 8h] [Jc]
+mabeal1: checks 
+RC-DAVID2: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Kh 6d] (high card Ace)
+RC-DAVID2: shows [3h 3c] (a pair of Threes)
+RC-DAVID2 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Th Ah 4s 8h Jc]
+Seat 1: mabeal1 (small blind) showed [Kh 6d] and lost with high card Ace
+Seat 2: RC-DAVID2 (big blind) showed [3h 3c] and won (100) with a pair of Threes
+Seat 3: pit69200 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259582847475: Tournament #3971858335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:45:55 CET [2026/02/03 17:45:55 ET]
+Table '3971858335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: RC-DAVID2 (540 in chips) 
+Seat 3: pit69200 (490 in chips) 
+RC-DAVID2: posts small blind 10
+pit69200: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 3c]
+mabeal1: folds 
+RC-DAVID2: calls 10
+pit69200: checks 
+*** FLOP *** [Qd Jh Kd]
+RC-DAVID2: checks 
+pit69200: bets 40
+RC-DAVID2: folds 
+Uncalled bet (40) returned to pit69200
+pit69200 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd Jh Kd]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: RC-DAVID2 (small blind) folded on the Flop
+Seat 3: pit69200 (big blind) collected (40)
+
+
+
+PokerStars Hand #259582852545: Tournament #3971858335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:46:14 CET [2026/02/03 17:46:14 ET]
+Table '3971858335 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: RC-DAVID2 (520 in chips) 
+Seat 3: pit69200 (510 in chips) 
+pit69200: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7d]
+RC-DAVID2: calls 20
+pit69200: calls 10
+mabeal1: checks 
+*** FLOP *** [4d Ad Ks]
+pit69200: checks 
+mabeal1: checks 
+RC-DAVID2: bets 60
+pit69200: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to RC-DAVID2
+RC-DAVID2 collected 60 from pot
+RC-DAVID2: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4d Ad Ks]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: RC-DAVID2 (button) collected (60)
+Seat 3: pit69200 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259582857810: Tournament #3971858335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:46:33 CET [2026/02/03 17:46:33 ET]
+Table '3971858335 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (450 in chips) 
+Seat 2: RC-DAVID2 (560 in chips) 
+Seat 3: pit69200 (490 in chips) 
+mabeal1: posts small blind 10
+RC-DAVID2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3h]
+pit69200: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to RC-DAVID2
+RC-DAVID2 collected 20 from pot
+RC-DAVID2: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: RC-DAVID2 (big blind) collected (20)
+Seat 3: pit69200 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259582860361: Tournament #3971858335, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 23:46:43 CET [2026/02/03 17:46:43 ET]
+Table '3971858335 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: RC-DAVID2 (570 in chips) 
+Seat 3: pit69200 (490 in chips) 
+RC-DAVID2: posts small blind 10
+pit69200: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Th]
+mabeal1: raises 20 to 40
+RC-DAVID2: calls 30
+pit69200: folds 
+*** FLOP *** [Jc 9s Kc]
+RC-DAVID2: checks 
+mabeal1: checks 
+*** TURN *** [Jc 9s Kc] [6c]
+RC-DAVID2: checks 
+mabeal1: checks 
+*** RIVER *** [Jc 9s Kc 6c] [4c]
+RC-DAVID2: bets 530 and is all-in
+mabeal1: calls 400 and is all-in
+Uncalled bet (130) returned to RC-DAVID2
+*** SHOW DOWN ***
+RC-DAVID2: shows [8d Ac] (a flush, Ace high)
+mabeal1: shows [Js Th] (a pair of Jacks)
+RC-DAVID2 collected 900 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Jc 9s Kc 6c 4c]
+Seat 1: mabeal1 (button) showed [Js Th] and lost with a pair of Jacks
+Seat 2: RC-DAVID2 (small blind) showed [8d Ac] and won (900) with a flush, Ace high
+Seat 3: pit69200 (big blind) folded before Flop
+
+
+

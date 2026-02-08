@@ -1,0 +1,533 @@
+﻿PokerStars Hand #259603595846: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:13:13 CET [2026/02/05 13:13:13 ET]
+Table '3972359564 1' 3-max Seat #1 is the button
+Seat 1: panasonixm (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Lindemann29 (500 in chips) 
+mabeal1: posts small blind 10
+Lindemann29: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Jh]
+panasonixm: folds 
+mabeal1: raises 40 to 60
+Lindemann29: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: panasonixm (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: Lindemann29 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259603598088: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:13:24 CET [2026/02/05 13:13:24 ET]
+Table '3972359564 1' 3-max Seat #2 is the button
+Seat 1: panasonixm (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Lindemann29 (480 in chips) 
+Lindemann29: posts small blind 10
+panasonixm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 8s]
+mabeal1: folds 
+Lindemann29: raises 20 to 40
+panasonixm: calls 20
+*** FLOP *** [6c 2s 4s]
+Lindemann29: checks 
+panasonixm: checks 
+*** TURN *** [6c 2s 4s] [Jc]
+Lindemann29: checks 
+panasonixm: checks 
+*** RIVER *** [6c 2s 4s Jc] [4c]
+Lindemann29: checks 
+panasonixm: checks 
+*** SHOW DOWN ***
+Lindemann29: shows [Ts Ks] (a pair of Fours)
+panasonixm: mucks hand 
+Lindemann29 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c 2s 4s Jc 4c]
+Seat 1: panasonixm (big blind) mucked [Qs 7c]
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Lindemann29 (small blind) showed [Ts Ks] and won (80) with a pair of Fours
+
+
+
+PokerStars Hand #259603603150: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:13:47 CET [2026/02/05 13:13:47 ET]
+Table '3972359564 1' 3-max Seat #3 is the button
+Seat 1: panasonixm (460 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Lindemann29 (520 in chips) 
+panasonixm: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c As]
+Lindemann29: folds 
+panasonixm: calls 10
+mabeal1: raises 500 to 520 and is all-in
+panasonixm: folds 
+Uncalled bet (500) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: panasonixm (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: Lindemann29 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259603606277: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:14:01 CET [2026/02/05 13:14:01 ET]
+Table '3972359564 1' 3-max Seat #1 is the button
+Seat 1: panasonixm (440 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Lindemann29 (520 in chips) 
+mabeal1: posts small blind 10
+Lindemann29: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2h]
+panasonixm: raises 30 to 50
+mabeal1: folds 
+Lindemann29: calls 30
+*** FLOP *** [Ks 4s 5h]
+Lindemann29: bets 55
+panasonixm: calls 55
+*** TURN *** [Ks 4s 5h] [Jh]
+Lindemann29: checks 
+panasonixm: bets 335 and is all-in
+Lindemann29: folds 
+Uncalled bet (335) returned to panasonixm
+panasonixm collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Ks 4s 5h Jh]
+Seat 1: panasonixm (button) collected (220)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Lindemann29 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259603612596: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:14:29 CET [2026/02/05 13:14:29 ET]
+Table '3972359564 1' 3-max Seat #2 is the button
+Seat 1: panasonixm (555 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: Lindemann29 (415 in chips) 
+Lindemann29: posts small blind 10
+panasonixm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 5c]
+mabeal1: folds 
+Lindemann29: folds 
+Uncalled bet (10) returned to panasonixm
+panasonixm collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: panasonixm (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Lindemann29 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259603614210: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:14:36 CET [2026/02/05 13:14:36 ET]
+Table '3972359564 1' 3-max Seat #3 is the button
+Seat 1: panasonixm (565 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: Lindemann29 (405 in chips) 
+panasonixm: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Kd]
+Lindemann29: folds 
+panasonixm: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [Qd Jh 2h]
+panasonixm: bets 40
+mabeal1: calls 40
+*** TURN *** [Qd Jh 2h] [2c]
+panasonixm: bets 140
+mabeal1: folds 
+Uncalled bet (140) returned to panasonixm
+panasonixm collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qd Jh 2h 2c]
+Seat 1: panasonixm (small blind) collected (200)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Lindemann29 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259603622752: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 19:15:14 CET [2026/02/05 13:15:14 ET]
+Table '3972359564 1' 3-max Seat #1 is the button
+Seat 1: panasonixm (665 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: Lindemann29 (405 in chips) 
+mabeal1: posts small blind 10
+Lindemann29: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9d]
+panasonixm: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Lindemann29
+Lindemann29 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: panasonixm (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Lindemann29 (big blind) collected (20)
+
+
+
+PokerStars Hand #259603625426: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:15:26 CET [2026/02/05 13:15:26 ET]
+Table '3972359564 1' 3-max Seat #2 is the button
+Seat 1: panasonixm (665 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: Lindemann29 (415 in chips) 
+Lindemann29: posts small blind 15
+panasonixm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 3d]
+mabeal1: folds 
+Lindemann29: raises 30 to 60
+panasonixm: folds 
+Uncalled bet (30) returned to Lindemann29
+Lindemann29 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: panasonixm (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Lindemann29 (small blind) collected (60)
+
+
+
+PokerStars Hand #259603627284: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:15:34 CET [2026/02/05 13:15:34 ET]
+Table '3972359564 1' 3-max Seat #3 is the button
+Seat 1: panasonixm (635 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: Lindemann29 (445 in chips) 
+panasonixm: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 6d]
+Lindemann29: raises 75 to 105
+panasonixm: folds 
+mabeal1: folds 
+Uncalled bet (75) returned to Lindemann29
+Lindemann29 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: panasonixm (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Lindemann29 (button) collected (75)
+
+
+
+PokerStars Hand #259603629649: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:15:44 CET [2026/02/05 13:15:44 ET]
+Table '3972359564 1' 3-max Seat #1 is the button
+Seat 1: panasonixm (620 in chips) 
+Seat 2: mabeal1 (390 in chips) 
+Seat 3: Lindemann29 (490 in chips) 
+mabeal1: posts small blind 15
+Lindemann29: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 4s]
+panasonixm: folds 
+mabeal1: raises 45 to 75
+Lindemann29: calls 45
+*** FLOP *** [7h 3c 9h]
+mabeal1: checks 
+Lindemann29: checks 
+*** TURN *** [7h 3c 9h] [Ts]
+mabeal1: bets 60
+Lindemann29: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [7h 3c 9h Ts]
+Seat 1: panasonixm (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (150)
+Seat 3: Lindemann29 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259603633803: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:16:03 CET [2026/02/05 13:16:03 ET]
+Table '3972359564 1' 3-max Seat #2 is the button
+Seat 1: panasonixm (620 in chips) 
+Seat 2: mabeal1 (465 in chips) 
+Seat 3: Lindemann29 (415 in chips) 
+Lindemann29: posts small blind 15
+panasonixm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Qc]
+mabeal1: raises 30 to 60
+Lindemann29: folds 
+panasonixm: calls 30
+*** FLOP *** [2s 7c 8d]
+panasonixm: bets 75
+mabeal1: folds 
+Uncalled bet (75) returned to panasonixm
+panasonixm collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [2s 7c 8d]
+Seat 1: panasonixm (big blind) collected (135)
+Seat 2: mabeal1 (button) folded on the Flop
+Seat 3: Lindemann29 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259603636814: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:16:16 CET [2026/02/05 13:16:16 ET]
+Table '3972359564 1' 3-max Seat #3 is the button
+Seat 1: panasonixm (695 in chips) 
+Seat 2: mabeal1 (405 in chips) 
+Seat 3: Lindemann29 (400 in chips) 
+panasonixm: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ks]
+Lindemann29: raises 30 to 60
+panasonixm: raises 150 to 210
+mabeal1: folds 
+Lindemann29: folds 
+Uncalled bet (150) returned to panasonixm
+panasonixm collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: panasonixm (small blind) collected (150)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Lindemann29 (button) folded before Flop
+
+
+
+PokerStars Hand #259603639849: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:16:29 CET [2026/02/05 13:16:29 ET]
+Table '3972359564 1' 3-max Seat #1 is the button
+Seat 1: panasonixm (785 in chips) 
+Seat 2: mabeal1 (375 in chips) 
+Seat 3: Lindemann29 (340 in chips) 
+mabeal1: posts small blind 15
+Lindemann29: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 9d]
+panasonixm: folds 
+mabeal1: raises 30 to 60
+Lindemann29: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: panasonixm (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Lindemann29 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259603642091: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:16:39 CET [2026/02/05 13:16:39 ET]
+Table '3972359564 1' 3-max Seat #2 is the button
+Seat 1: panasonixm (785 in chips) 
+Seat 2: mabeal1 (405 in chips) 
+Seat 3: Lindemann29 (310 in chips) 
+Lindemann29: posts small blind 15
+panasonixm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 9h]
+mabeal1: raises 30 to 60
+Lindemann29: folds 
+panasonixm: calls 30
+*** FLOP *** [Qd 2h 6h]
+panasonixm: checks 
+mabeal1: bets 60
+panasonixm: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Qd 2h 6h]
+Seat 1: panasonixm (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (135)
+Seat 3: Lindemann29 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259603645993: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:16:55 CET [2026/02/05 13:16:55 ET]
+Table '3972359564 1' 3-max Seat #3 is the button
+Seat 1: panasonixm (725 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: Lindemann29 (295 in chips) 
+panasonixm: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 5c]
+Lindemann29: raises 30 to 60
+panasonixm: calls 45
+mabeal1: folds 
+*** FLOP *** [Ac Ts 3s]
+panasonixm: checks 
+Lindemann29: bets 30
+panasonixm: folds 
+Uncalled bet (30) returned to Lindemann29
+Lindemann29 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Ac Ts 3s]
+Seat 1: panasonixm (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Lindemann29 (button) collected (150)
+
+
+
+PokerStars Hand #259603649065: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 19:17:09 CET [2026/02/05 13:17:09 ET]
+Table '3972359564 1' 3-max Seat #1 is the button
+Seat 1: panasonixm (665 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: Lindemann29 (385 in chips) 
+mabeal1: posts small blind 15
+Lindemann29: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 3c]
+panasonixm: raises 45 to 75
+mabeal1: folds 
+Lindemann29: folds 
+Uncalled bet (45) returned to panasonixm
+panasonixm collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: panasonixm (button) collected (75)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Lindemann29 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259603651128: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 19:17:18 CET [2026/02/05 13:17:18 ET]
+Table '3972359564 1' 3-max Seat #2 is the button
+Seat 1: panasonixm (710 in chips) 
+Seat 2: mabeal1 (435 in chips) 
+Seat 3: Lindemann29 (355 in chips) 
+Lindemann29: posts small blind 20
+panasonixm: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 7s]
+mabeal1: folds 
+Lindemann29: folds 
+Uncalled bet (20) returned to panasonixm
+panasonixm collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: panasonixm (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Lindemann29 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259603652698: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 19:17:25 CET [2026/02/05 13:17:25 ET]
+Table '3972359564 1' 3-max Seat #3 is the button
+Seat 1: panasonixm (730 in chips) 
+Seat 2: mabeal1 (435 in chips) 
+Seat 3: Lindemann29 (335 in chips) 
+panasonixm: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 2h]
+Lindemann29: raises 100 to 140
+panasonixm: folds 
+mabeal1: folds 
+Uncalled bet (100) returned to Lindemann29
+Lindemann29 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: panasonixm (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Lindemann29 (button) collected (100)
+
+
+
+PokerStars Hand #259603654545: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 19:17:33 CET [2026/02/05 13:17:33 ET]
+Table '3972359564 1' 3-max Seat #1 is the button
+Seat 1: panasonixm (710 in chips) 
+Seat 2: mabeal1 (395 in chips) 
+Seat 3: Lindemann29 (395 in chips) 
+mabeal1: posts small blind 20
+Lindemann29: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6s]
+panasonixm: raises 40 to 80
+mabeal1: folds 
+Lindemann29: calls 40
+*** FLOP *** [Th Ac Tc]
+Lindemann29: checks 
+panasonixm: bets 60
+Lindemann29: folds 
+Uncalled bet (60) returned to panasonixm
+panasonixm collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Th Ac Tc]
+Seat 1: panasonixm (button) collected (180)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Lindemann29 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259603657547: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 19:17:46 CET [2026/02/05 13:17:46 ET]
+Table '3972359564 1' 3-max Seat #2 is the button
+Seat 1: panasonixm (810 in chips) 
+Seat 2: mabeal1 (375 in chips) 
+Seat 3: Lindemann29 (315 in chips) 
+Lindemann29: posts small blind 20
+panasonixm: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Kh]
+mabeal1: raises 60 to 100
+Lindemann29: folds 
+panasonixm: calls 60
+*** FLOP *** [Qh Tc 4c]
+panasonixm: checks 
+mabeal1: bets 80
+panasonixm: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 220 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Qh Tc 4c]
+Seat 1: panasonixm (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (220)
+Seat 3: Lindemann29 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259603661487: Tournament #3972359564, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 19:18:03 CET [2026/02/05 13:18:03 ET]
+Table '3972359564 1' 3-max Seat #3 is the button
+Seat 1: panasonixm (710 in chips) 
+Seat 2: mabeal1 (495 in chips) 
+Seat 3: Lindemann29 (295 in chips) 
+panasonixm: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts As]
+Lindemann29: folds 
+panasonixm: raises 80 to 120
+mabeal1: raises 375 to 495 and is all-in
+panasonixm: calls 375
+*** FLOP *** [2s Kh Ks]
+*** TURN *** [2s Kh Ks] [Qh]
+*** RIVER *** [2s Kh Ks Qh] [2d]
+*** SHOW DOWN ***
+panasonixm: shows [3s 3h] (two pair, Kings and Threes)
+mabeal1: shows [Ts As] (two pair, Kings and Deuces)
+panasonixm collected 990 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [2s Kh Ks Qh 2d]
+Seat 1: panasonixm (small blind) showed [3s 3h] and won (990) with two pair, Kings and Threes
+Seat 2: mabeal1 (big blind) showed [Ts As] and lost with two pair, Kings and Deuces
+Seat 3: Lindemann29 (button) folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,277 @@
+﻿PokerStars Hand #259478511095: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:46:03 CET [2026/01/26 21:46:03 ET]
+Table '3969491323 1' 3-max Seat #1 is the button
+Seat 1: Bomoa2 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Edulius GZ (500 in chips) 
+mabeal1: posts small blind 10
+Edulius GZ: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 3s]
+Bomoa2: folds 
+mabeal1: raises 480 to 500 and is all-in
+Edulius GZ: calls 480 and is all-in
+*** FLOP *** [4s 4c Kd]
+*** TURN *** [4s 4c Kd] [7c]
+*** RIVER *** [4s 4c Kd 7c] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [3c 3s] (two pair, Fours and Threes)
+Edulius GZ: shows [2c Ac] (a pair of Fours)
+mabeal1 collected 1000 from pot
+Edulius GZ finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [4s 4c Kd 7c 8h]
+Seat 1: Bomoa2 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [3c 3s] and won (1000) with two pair, Fours and Threes
+Seat 3: Edulius GZ (big blind) showed [2c Ac] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259478514839: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:46:35 CET [2026/01/26 21:46:35 ET]
+Table '3969491323 1' 3-max Seat #2 is the button
+Seat 1: Bomoa2 (500 in chips) 
+Seat 2: mabeal1 (1000 in chips) 
+mabeal1: posts small blind 10
+Bomoa2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 8s]
+mabeal1: raises 20 to 40
+Bomoa2: raises 460 to 500 and is all-in
+mabeal1: folds 
+Uncalled bet (460) returned to Bomoa2
+Bomoa2 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Bomoa2 (big blind) collected (80)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478516533: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:46:49 CET [2026/01/26 21:46:49 ET]
+Table '3969491323 1' 3-max Seat #1 is the button
+Seat 1: Bomoa2 (540 in chips) 
+Seat 2: mabeal1 (960 in chips) 
+Bomoa2: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6h]
+Bomoa2: calls 10
+mabeal1: checks 
+*** FLOP *** [2d Jh Ac]
+mabeal1: checks 
+Bomoa2: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Bomoa2
+Bomoa2 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d Jh Ac]
+Seat 1: Bomoa2 (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259478518940: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:47:11 CET [2026/01/26 21:47:11 ET]
+Table '3969491323 1' 3-max Seat #2 is the button
+Seat 1: Bomoa2 (560 in chips) 
+Seat 2: mabeal1 (940 in chips) 
+mabeal1: posts small blind 10
+Bomoa2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Td]
+mabeal1: calls 10
+Bomoa2: checks 
+*** FLOP *** [4s 7s Ad]
+Bomoa2: checks 
+mabeal1: bets 20
+Bomoa2: calls 20
+*** TURN *** [4s 7s Ad] [Jd]
+Bomoa2: checks 
+mabeal1: checks 
+*** RIVER *** [4s 7s Ad Jd] [Ts]
+Bomoa2: checks 
+mabeal1: bets 80
+Bomoa2: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s 7s Ad Jd Ts]
+Seat 1: Bomoa2 (big blind) folded on the River
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259478522204: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:47:39 CET [2026/01/26 21:47:39 ET]
+Table '3969491323 1' 3-max Seat #1 is the button
+Seat 1: Bomoa2 (520 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+Bomoa2: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 9h]
+Bomoa2: calls 10
+mabeal1: raises 960 to 980 and is all-in
+Bomoa2: folds 
+Uncalled bet (960) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Bomoa2 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259478523497: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:47:50 CET [2026/01/26 21:47:50 ET]
+Table '3969491323 1' 3-max Seat #2 is the button
+Seat 1: Bomoa2 (500 in chips) 
+Seat 2: mabeal1 (1000 in chips) 
+mabeal1: posts small blind 10
+Bomoa2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 3h]
+mabeal1: calls 10
+Bomoa2: checks 
+*** FLOP *** [9c 5s Ad]
+Bomoa2: checks 
+mabeal1: bets 20
+Bomoa2: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c 5s Ad]
+Seat 1: Bomoa2 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259478525233: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:48:06 CET [2026/01/26 21:48:06 ET]
+Table '3969491323 1' 3-max Seat #1 is the button
+Seat 1: Bomoa2 (480 in chips) 
+Seat 2: mabeal1 (1020 in chips) 
+Bomoa2: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9d]
+Bomoa2: calls 10
+mabeal1: checks 
+*** FLOP *** [2d 3c 8h]
+mabeal1: checks 
+Bomoa2: checks 
+*** TURN *** [2d 3c 8h] [7c]
+mabeal1: bets 20
+Bomoa2: raises 440 to 460 and is all-in
+mabeal1: folds 
+Uncalled bet (440) returned to Bomoa2
+Bomoa2 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d 3c 8h 7c]
+Seat 1: Bomoa2 (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259478527841: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:48:29 CET [2026/01/26 21:48:29 ET]
+Table '3969491323 1' 3-max Seat #2 is the button
+Seat 1: Bomoa2 (520 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+mabeal1: posts small blind 10
+Bomoa2: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Th]
+mabeal1: calls 10
+Bomoa2: checks 
+*** FLOP *** [Tc Kh Ts]
+Bomoa2: checks 
+mabeal1: checks 
+*** TURN *** [Tc Kh Ts] [7c]
+Bomoa2: bets 40
+mabeal1: calls 40
+*** RIVER *** [Tc Kh Ts 7c] [As]
+Bomoa2: bets 120
+mabeal1: raises 800 to 920 and is all-in
+Bomoa2: calls 340 and is all-in
+Uncalled bet (460) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [3h Th] (three of a kind, Tens)
+Bomoa2: shows [Qd Td] (three of a kind, Tens)
+Bomoa2 collected 520 from pot
+mabeal1 collected 520 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Tc Kh Ts 7c As]
+Seat 1: Bomoa2 (big blind) showed [Qd Td] and won (520) with three of a kind, Tens
+Seat 2: mabeal1 (button) (small blind) showed [3h Th] and won (520) with three of a kind, Tens
+
+
+
+PokerStars Hand #259478531014: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:48:58 CET [2026/01/26 21:48:58 ET]
+Table '3969491323 1' 3-max Seat #1 is the button
+Seat 1: Bomoa2 (520 in chips) 
+Seat 2: mabeal1 (980 in chips) 
+Bomoa2: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 5c]
+Bomoa2: calls 10
+mabeal1: checks 
+*** FLOP *** [Kc 6h Tc]
+mabeal1: checks 
+Bomoa2: checks 
+*** TURN *** [Kc 6h Tc] [Qc]
+mabeal1: bets 20
+Bomoa2: calls 20
+*** RIVER *** [Kc 6h Tc Qc] [5d]
+mabeal1: checks 
+Bomoa2: bets 480 and is all-in
+mabeal1: folds 
+Uncalled bet (480) returned to Bomoa2
+Bomoa2 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 6h Tc Qc 5d]
+Seat 1: Bomoa2 (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259478534345: Tournament #3969491323, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:49:27 CET [2026/01/26 21:49:27 ET]
+Table '3969491323 1' 3-max Seat #2 is the button
+Seat 1: Bomoa2 (560 in chips) 
+Seat 2: mabeal1 (940 in chips) 
+mabeal1: posts small blind 15
+Bomoa2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3d]
+mabeal1: calls 15
+Bomoa2: checks 
+*** FLOP *** [3c 8d As]
+Bomoa2: checks 
+mabeal1: checks 
+*** TURN *** [3c 8d As] [Ts]
+Bomoa2: bets 30
+mabeal1: calls 30
+*** RIVER *** [3c 8d As Ts] [6h]
+Bomoa2: bets 60
+mabeal1: raises 820 to 880 and is all-in
+Bomoa2: calls 440 and is all-in
+Uncalled bet (380) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [6c 3d] (two pair, Sixes and Threes)
+Bomoa2: shows [Th Qs] (a pair of Tens)
+mabeal1 collected 1120 from pot
+Bomoa2 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [3c 8d As Ts 6h]
+Seat 1: Bomoa2 (big blind) showed [Th Qs] and lost with a pair of Tens
+Seat 2: mabeal1 (button) (small blind) showed [6c 3d] and won (1120) with two pair, Sixes and Threes
+
+
+

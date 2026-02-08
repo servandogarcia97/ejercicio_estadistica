@@ -1,0 +1,239 @@
+﻿PokerStars Hand #259553684568: Tournament #3971214042, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:32:12 CET [2026/02/01 15:32:12 ET]
+Table '3971214042 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: pmportela1 (500 in chips) 
+Seat 3: tricantin199 (500 in chips) is sitting out
+pmportela1: posts small blind 10
+tricantin199: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Kc]
+tricantin199 is disconnected 
+mabeal1: raises 20 to 40
+tricantin199 has returned
+pmportela1: calls 30
+tricantin199 is disconnected 
+tricantin199 has timed out while disconnected
+tricantin199: folds 
+tricantin199 is sitting out
+*** FLOP *** [6d 4d Ts]
+pmportela1: checks 
+mabeal1: bets 50
+pmportela1: calls 50
+*** TURN *** [6d 4d Ts] [Td]
+pmportela1: checks 
+mabeal1: checks 
+*** RIVER *** [6d 4d Ts Td] [As]
+pmportela1: bets 20
+mabeal1: raises 390 to 410 and is all-in
+tricantin199 is disconnected 
+tricantin199 has returned
+pmportela1: folds 
+Uncalled bet (390) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6d 4d Ts Td As]
+Seat 1: mabeal1 (button) collected (240)
+Seat 2: pmportela1 (small blind) folded on the River
+Seat 3: tricantin199 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259553698054: Tournament #3971214042, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:32:55 CET [2026/02/01 15:32:55 ET]
+Table '3971214042 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (630 in chips) 
+Seat 2: pmportela1 (390 in chips) 
+Seat 3: tricantin199 (480 in chips) 
+tricantin199: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4d]
+pmportela1: calls 20
+tricantin199: calls 10
+mabeal1: checks 
+*** FLOP *** [5s 9c 2d]
+tricantin199: checks 
+mabeal1: checks 
+pmportela1: checks 
+*** TURN *** [5s 9c 2d] [Th]
+tricantin199: checks 
+mabeal1: checks 
+pmportela1: checks 
+*** RIVER *** [5s 9c 2d Th] [3h]
+tricantin199: checks 
+mabeal1: checks 
+pmportela1: checks 
+*** SHOW DOWN ***
+tricantin199: shows [Js Kc] (high card King)
+mabeal1: shows [3c 4d] (a pair of Threes)
+pmportela1: mucks hand 
+mabeal1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s 9c 2d Th 3h]
+Seat 1: mabeal1 (big blind) showed [3c 4d] and won (60) with a pair of Threes
+Seat 2: pmportela1 (button) mucked [7d Jd]
+Seat 3: tricantin199 (small blind) showed [Js Kc] and lost with high card King
+
+
+
+PokerStars Hand #259553705093: Tournament #3971214042, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:33:18 CET [2026/02/01 15:33:18 ET]
+Table '3971214042 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (670 in chips) 
+Seat 2: pmportela1 (370 in chips) 
+Seat 3: tricantin199 (460 in chips) 
+mabeal1: posts small blind 10
+pmportela1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 6s]
+tricantin199: raises 50 to 70
+mabeal1: folds 
+pmportela1: folds 
+Uncalled bet (50) returned to tricantin199
+tricantin199 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: pmportela1 (big blind) folded before Flop
+Seat 3: tricantin199 (button) collected (50)
+
+
+
+PokerStars Hand #259553708417: Tournament #3971214042, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:33:30 CET [2026/02/01 15:33:30 ET]
+Table '3971214042 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 2: pmportela1 (350 in chips) 
+Seat 3: tricantin199 (490 in chips) 
+pmportela1: posts small blind 10
+tricantin199: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Td]
+mabeal1: raises 40 to 60
+pmportela1: calls 50
+tricantin199: calls 40
+*** FLOP *** [Tc 4d 7h]
+pmportela1: bets 290 and is all-in
+tricantin199: folds 
+mabeal1: calls 290
+*** TURN *** [Tc 4d 7h] [4h]
+*** RIVER *** [Tc 4d 7h 4h] [Jc]
+*** SHOW DOWN ***
+pmportela1: shows [6d 6s] (two pair, Sixes and Fours)
+mabeal1: shows [Th Td] (a full house, Tens full of Fours)
+mabeal1 collected 760 from pot
+pmportela1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [Tc 4d 7h 4h Jc]
+Seat 1: mabeal1 (button) showed [Th Td] and won (760) with a full house, Tens full of Fours
+Seat 2: pmportela1 (small blind) showed [6d 6s] and lost with two pair, Sixes and Fours
+Seat 3: tricantin199 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259553717495: Tournament #3971214042, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:33:59 CET [2026/02/01 15:33:59 ET]
+Table '3971214042 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: tricantin199 (430 in chips) 
+tricantin199: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Ks]
+tricantin199: calls 10
+mabeal1: checks 
+*** FLOP *** [3s 8s 4c]
+mabeal1: checks 
+tricantin199: bets 20
+mabeal1: raises 40 to 60
+tricantin199: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s 8s 4c]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: tricantin199 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259553727597: Tournament #3971214042, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:34:32 CET [2026/02/01 15:34:32 ET]
+Table '3971214042 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1110 in chips) 
+Seat 3: tricantin199 (390 in chips) 
+mabeal1: posts small blind 10
+tricantin199: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5d]
+mabeal1: calls 10
+tricantin199: checks 
+*** FLOP *** [7s 8d Qh]
+tricantin199: checks 
+mabeal1: bets 20
+tricantin199: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s 8d Qh]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: tricantin199 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259553731770: Tournament #3971214042, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:34:46 CET [2026/02/01 15:34:46 ET]
+Table '3971214042 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1130 in chips) 
+Seat 3: tricantin199 (370 in chips) 
+tricantin199: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8d]
+tricantin199: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [2d 6d 3d]
+mabeal1: checks 
+tricantin199: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to tricantin199
+tricantin199 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d 6d 3d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: tricantin199 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259553737152: Tournament #3971214042, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:35:03 CET [2026/02/01 15:35:03 ET]
+Table '3971214042 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 3: tricantin199 (410 in chips) 
+mabeal1: posts small blind 10
+tricantin199: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Qc]
+mabeal1: raises 20 to 40
+tricantin199: raises 80 to 120
+mabeal1: raises 970 to 1090 and is all-in
+tricantin199: calls 290 and is all-in
+Uncalled bet (680) returned to mabeal1
+*** FLOP *** [7d 3c 2h]
+*** TURN *** [7d 3c 2h] [6h]
+*** RIVER *** [7d 3c 2h 6h] [Kh]
+*** SHOW DOWN ***
+tricantin199: shows [9h As] (high card Ace)
+mabeal1: shows [Qd Qc] (a pair of Queens)
+mabeal1 collected 820 from pot
+tricantin199 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [7d 3c 2h 6h Kh]
+Seat 1: mabeal1 (button) (small blind) showed [Qd Qc] and won (820) with a pair of Queens
+Seat 3: tricantin199 (big blind) showed [9h As] and lost with high card Ace
+
+
+

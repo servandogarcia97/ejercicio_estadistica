@@ -1,0 +1,801 @@
+﻿PokerStars Hand #259577042666: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:05:22 CET [2026/02/03 11:05:22 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: pit69200 (500 in chips) 
+Seat 3: UTHMY (500 in chips) 
+pit69200: posts small blind 10
+UTHMY: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Jh]
+mabeal1: folds 
+pit69200: calls 10
+UTHMY: checks 
+*** FLOP *** [Ac 3c 6d]
+pit69200: bets 20
+UTHMY: calls 20
+*** TURN *** [Ac 3c 6d] [Kh]
+pit69200: checks 
+UTHMY: bets 80
+pit69200: folds [4c 2h]
+Uncalled bet (80) returned to UTHMY
+UTHMY collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 3c 6d Kh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: pit69200 (small blind) folded on the Turn
+Seat 3: UTHMY (big blind) collected (80)
+
+
+
+PokerStars Hand #259577048212: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:05:52 CET [2026/02/03 11:05:52 ET]
+Table '3971734398 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: pit69200 (460 in chips) 
+Seat 3: UTHMY (540 in chips) 
+UTHMY: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Js]
+pit69200: folds 
+UTHMY: calls 10
+mabeal1: checks 
+*** FLOP *** [8d 5h 3d]
+UTHMY: checks 
+mabeal1: checks 
+*** TURN *** [8d 5h 3d] [7d]
+UTHMY: checks 
+mabeal1: checks 
+*** RIVER *** [8d 5h 3d 7d] [Td]
+UTHMY: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+UTHMY: shows [2d 7h] (a flush, Ten high)
+mabeal1: mucks hand 
+UTHMY collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d 5h 3d 7d Td]
+Seat 1: mabeal1 (big blind) mucked [7c Js]
+Seat 2: pit69200 (button) folded before Flop (didn't bet)
+Seat 3: UTHMY (small blind) showed [2d 7h] and won (40) with a flush, Ten high
+
+
+
+PokerStars Hand #259577052609: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:06:16 CET [2026/02/03 11:06:16 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: pit69200 (460 in chips) 
+Seat 3: UTHMY (560 in chips) 
+mabeal1: posts small blind 10
+pit69200: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 6h]
+UTHMY: calls 20
+mabeal1: raises 460 to 480 and is all-in
+pit69200: calls 440 and is all-in
+UTHMY: folds 
+Uncalled bet (20) returned to mabeal1
+*** FLOP *** [7s Kc 7c]
+*** TURN *** [7s Kc 7c] [3h]
+*** RIVER *** [7s Kc 7c 3h] [7h]
+*** SHOW DOWN ***
+mabeal1: shows [6d 6h] (a full house, Sevens full of Sixes)
+pit69200: shows [Ac Qd] (three of a kind, Sevens)
+mabeal1 collected 940 from pot
+pit69200 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [7s Kc 7c 3h 7h]
+Seat 1: mabeal1 (small blind) showed [6d 6h] and won (940) with a full house, Sevens full of Sixes
+Seat 2: pit69200 (big blind) showed [Ac Qd] and lost with three of a kind, Sevens
+Seat 3: UTHMY (button) folded before Flop
+
+
+
+PokerStars Hand #259577057466: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:06:42 CET [2026/02/03 11:06:42 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (960 in chips) 
+Seat 3: UTHMY (540 in chips) 
+mabeal1: posts small blind 10
+UTHMY: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Ad]
+mabeal1: raises 20 to 40
+UTHMY: calls 20
+*** FLOP *** [9h 2c 8c]
+UTHMY: checks 
+mabeal1: checks 
+*** TURN *** [9h 2c 8c] [8d]
+UTHMY: checks 
+mabeal1: checks 
+*** RIVER *** [9h 2c 8c 8d] [Jd]
+UTHMY: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+UTHMY: shows [3c Tc] (a pair of Eights)
+mabeal1: shows [4h Ad] (a pair of Eights - Ace kicker)
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h 2c 8c 8d Jd]
+Seat 1: mabeal1 (button) (small blind) showed [4h Ad] and won (80) with a pair of Eights
+Seat 3: UTHMY (big blind) showed [3c Tc] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259577061182: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:07:02 CET [2026/02/03 11:07:02 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 3: UTHMY (500 in chips) 
+UTHMY: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8c]
+UTHMY: calls 10
+mabeal1: checks 
+*** FLOP *** [Kh 6h Qd]
+mabeal1: checks 
+UTHMY: checks 
+*** TURN *** [Kh 6h Qd] [Qc]
+mabeal1: checks 
+UTHMY: checks 
+*** RIVER *** [Kh 6h Qd Qc] [7c]
+mabeal1: checks 
+UTHMY: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7d 8c] (two pair, Queens and Sevens)
+UTHMY: mucks hand 
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 6h Qd Qc 7c]
+Seat 1: mabeal1 (big blind) showed [7d 8c] and won (40) with two pair, Queens and Sevens
+Seat 3: UTHMY (button) (small blind) mucked [4s As]
+
+
+
+PokerStars Hand #259577066788: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:07:32 CET [2026/02/03 11:07:32 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: UTHMY (480 in chips) 
+mabeal1: posts small blind 15
+UTHMY: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ah]
+mabeal1: raises 30 to 60
+UTHMY: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: UTHMY (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577068355: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:07:40 CET [2026/02/03 11:07:40 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: UTHMY (450 in chips) 
+UTHMY: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 2c]
+UTHMY: calls 15
+mabeal1: checks 
+*** FLOP *** [6d 2d Td]
+mabeal1: checks 
+UTHMY: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to UTHMY
+UTHMY collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d 2d Td]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: UTHMY (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259577071528: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:07:57 CET [2026/02/03 11:07:57 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: UTHMY (480 in chips) 
+mabeal1: posts small blind 15
+UTHMY: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 7h]
+mabeal1: raises 990 to 1020 and is all-in
+UTHMY: folds 
+Uncalled bet (990) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: UTHMY (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577072477: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:08:03 CET [2026/02/03 11:08:03 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: UTHMY (450 in chips) 
+UTHMY: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 7d]
+UTHMY: calls 15
+mabeal1: checks 
+*** FLOP *** [9d 5d Qs]
+mabeal1: checks 
+UTHMY: checks 
+*** TURN *** [9d 5d Qs] [Jh]
+mabeal1: checks 
+UTHMY: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to UTHMY
+UTHMY collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9d 5d Qs Jh]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 3: UTHMY (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259577075431: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:08:19 CET [2026/02/03 11:08:19 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: UTHMY (480 in chips) 
+mabeal1: posts small blind 15
+UTHMY: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Ks]
+mabeal1: raises 30 to 60
+UTHMY: calls 30
+*** FLOP *** [Td Qh 2s]
+UTHMY: checks 
+mabeal1: bets 60
+UTHMY: calls 60
+*** TURN *** [Td Qh 2s] [6s]
+UTHMY: checks 
+mabeal1: checks 
+*** RIVER *** [Td Qh 2s 6s] [9h]
+UTHMY: bets 240
+mabeal1: folds 
+Uncalled bet (240) returned to UTHMY
+UTHMY collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Td Qh 2s 6s 9h]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 3: UTHMY (big blind) collected (240)
+
+
+
+PokerStars Hand #259577079019: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:08:39 CET [2026/02/03 11:08:39 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 3: UTHMY (600 in chips) 
+UTHMY: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 8s]
+UTHMY: calls 15
+mabeal1: checks 
+*** FLOP *** [4c Ts Ad]
+mabeal1: checks 
+UTHMY: checks 
+*** TURN *** [4c Ts Ad] [Js]
+mabeal1: bets 45
+UTHMY: calls 45
+*** RIVER *** [4c Ts Ad Js] [7h]
+mabeal1: bets 113
+UTHMY: folds 
+Uncalled bet (113) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [4c Ts Ad Js 7h]
+Seat 1: mabeal1 (big blind) collected (150)
+Seat 3: UTHMY (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259577081862: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:08:55 CET [2026/02/03 11:08:55 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (975 in chips) 
+Seat 3: UTHMY (525 in chips) 
+mabeal1: posts small blind 15
+UTHMY: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 9c]
+mabeal1: raises 945 to 975 and is all-in
+UTHMY: folds 
+Uncalled bet (945) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: UTHMY (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577083008: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:09:01 CET [2026/02/03 11:09:01 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1005 in chips) 
+Seat 3: UTHMY (495 in chips) 
+UTHMY: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 2c]
+UTHMY: calls 15
+mabeal1: raises 975 to 1005 and is all-in
+UTHMY: folds 
+Uncalled bet (975) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: UTHMY (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577084374: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:09:08 CET [2026/02/03 11:09:08 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1035 in chips) 
+Seat 3: UTHMY (465 in chips) 
+mabeal1: posts small blind 15
+UTHMY: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qd]
+mabeal1: raises 30 to 60
+UTHMY: calls 30
+*** FLOP *** [Qh 3d Tc]
+UTHMY: checks 
+mabeal1: bets 60
+UTHMY: calls 60
+*** TURN *** [Qh 3d Tc] [8d]
+UTHMY: checks 
+mabeal1: bets 120
+UTHMY: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qh 3d Tc 8d]
+Seat 1: mabeal1 (button) (small blind) collected (240)
+Seat 3: UTHMY (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259577088175: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:09:29 CET [2026/02/03 11:09:29 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1155 in chips) 
+Seat 3: UTHMY (345 in chips) 
+UTHMY: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ac]
+UTHMY: calls 20
+mabeal1: raises 1115 to 1155 and is all-in
+UTHMY: folds 
+Uncalled bet (1115) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: UTHMY (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577089518: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:09:36 CET [2026/02/03 11:09:36 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1195 in chips) 
+Seat 3: UTHMY (305 in chips) 
+mabeal1: posts small blind 20
+UTHMY: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 3s]
+mabeal1: folds 
+Uncalled bet (20) returned to UTHMY
+UTHMY collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: UTHMY (big blind) collected (40)
+
+
+
+PokerStars Hand #259577091541: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:09:47 CET [2026/02/03 11:09:47 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1175 in chips) 
+Seat 3: UTHMY (325 in chips) 
+UTHMY: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9d]
+UTHMY: calls 20
+mabeal1: checks 
+*** FLOP *** [5h Ah 2s]
+mabeal1: checks 
+UTHMY: checks 
+*** TURN *** [5h Ah 2s] [Qd]
+mabeal1: bets 40
+UTHMY: calls 40
+*** RIVER *** [5h Ah 2s Qd] [5s]
+mabeal1: checks 
+UTHMY: bets 160
+mabeal1: folds 
+Uncalled bet (160) returned to UTHMY
+UTHMY collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5h Ah 2s Qd 5s]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 3: UTHMY (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259577095548: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:10:09 CET [2026/02/03 11:10:09 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1095 in chips) 
+Seat 3: UTHMY (405 in chips) 
+mabeal1: posts small blind 20
+UTHMY: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9s]
+mabeal1: calls 20
+UTHMY: checks 
+*** FLOP *** [As 8d 5d]
+UTHMY: checks 
+mabeal1: bets 40
+UTHMY: calls 40
+*** TURN *** [As 8d 5d] [Ks]
+UTHMY: checks 
+mabeal1: bets 120
+UTHMY: calls 120
+*** RIVER *** [As 8d 5d Ks] [Td]
+UTHMY: checks 
+mabeal1: bets 895 and is all-in
+UTHMY: calls 205 and is all-in
+Uncalled bet (690) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [3h 9s] (high card Ace)
+UTHMY: shows [Kd Ad] (a flush, Ace high)
+UTHMY collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [As 8d 5d Ks Td]
+Seat 1: mabeal1 (button) (small blind) showed [3h 9s] and lost with high card Ace
+Seat 3: UTHMY (big blind) showed [Kd Ad] and won (810) with a flush, Ace high
+
+
+
+PokerStars Hand #259577100223: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:10:35 CET [2026/02/03 11:10:35 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 3: UTHMY (810 in chips) 
+UTHMY: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 8s]
+UTHMY: calls 20
+mabeal1: raises 650 to 690 and is all-in
+UTHMY: folds 
+Uncalled bet (650) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: UTHMY (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577101934: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:10:44 CET [2026/02/03 11:10:44 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 3: UTHMY (770 in chips) 
+mabeal1: posts small blind 20
+UTHMY: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 9s]
+mabeal1: raises 40 to 80
+UTHMY: calls 40
+*** FLOP *** [4s 5s 7c]
+UTHMY: checks 
+mabeal1: checks 
+*** TURN *** [4s 5s 7c] [Jc]
+UTHMY: checks 
+mabeal1: bets 80
+UTHMY: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4s 5s 7c Jc]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: UTHMY (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259577105078: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:11:01 CET [2026/02/03 11:11:01 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (810 in chips) 
+Seat 3: UTHMY (690 in chips) 
+UTHMY: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qd]
+UTHMY: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: UTHMY (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577106086: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:11:06 CET [2026/02/03 11:11:06 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 3: UTHMY (670 in chips) 
+mabeal1: posts small blind 20
+UTHMY: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 5h]
+mabeal1: calls 20
+UTHMY: checks 
+*** FLOP *** [3h Jh 2c]
+UTHMY: checks 
+mabeal1: checks 
+*** TURN *** [3h Jh 2c] [9d]
+UTHMY: checks 
+mabeal1: checks 
+*** RIVER *** [3h Jh 2c 9d] [2d]
+UTHMY: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+UTHMY: shows [Ah Kc] (a pair of Deuces)
+mabeal1: mucks hand 
+UTHMY collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h Jh 2c 9d 2d]
+Seat 1: mabeal1 (button) (small blind) mucked [Qc 5h]
+Seat 3: UTHMY (big blind) showed [Ah Kc] and won (80) with a pair of Deuces
+
+
+
+PokerStars Hand #259577108917: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:11:22 CET [2026/02/03 11:11:22 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (790 in chips) 
+Seat 3: UTHMY (710 in chips) 
+UTHMY: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4c]
+UTHMY: calls 20
+mabeal1: checks 
+*** FLOP *** [Kd 5d 9d]
+mabeal1: checks 
+UTHMY: checks 
+*** TURN *** [Kd 5d 9d] [3s]
+mabeal1: checks 
+UTHMY: checks 
+*** RIVER *** [Kd 5d 9d 3s] [9s]
+mabeal1: checks 
+UTHMY: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7s 4c] (a pair of Nines)
+UTHMY: shows [2c Jd] (a pair of Nines - King+Jack kicker)
+UTHMY collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 5d 9d 3s 9s]
+Seat 1: mabeal1 (big blind) showed [7s 4c] and lost with a pair of Nines
+Seat 3: UTHMY (button) (small blind) showed [2c Jd] and won (80) with a pair of Nines
+
+
+
+PokerStars Hand #259577114056: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:11:50 CET [2026/02/03 11:11:50 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (750 in chips) 
+Seat 3: UTHMY (750 in chips) 
+mabeal1: posts small blind 30
+UTHMY: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 2h]
+mabeal1: folds 
+Uncalled bet (30) returned to UTHMY
+UTHMY collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: UTHMY (big blind) collected (60)
+
+
+
+PokerStars Hand #259577114896: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:11:54 CET [2026/02/03 11:11:54 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (720 in chips) 
+Seat 3: UTHMY (780 in chips) 
+UTHMY: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ah]
+UTHMY: calls 30
+mabeal1: raises 660 to 720 and is all-in
+UTHMY: folds 
+Uncalled bet (660) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: UTHMY (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577116420: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:12:03 CET [2026/02/03 11:12:03 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (780 in chips) 
+Seat 3: UTHMY (720 in chips) 
+mabeal1: posts small blind 30
+UTHMY: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 9d]
+mabeal1: raises 720 to 780 and is all-in
+UTHMY: folds 
+Uncalled bet (720) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: UTHMY (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577117715: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:12:10 CET [2026/02/03 11:12:10 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (840 in chips) 
+Seat 3: UTHMY (660 in chips) 
+UTHMY: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 2d]
+UTHMY: calls 30
+mabeal1: checks 
+*** FLOP *** [5c As 6d]
+mabeal1: checks 
+UTHMY: checks 
+*** TURN *** [5c As 6d] [Ts]
+mabeal1: checks 
+UTHMY: checks 
+*** RIVER *** [5c As 6d Ts] [7s]
+mabeal1: bets 60
+UTHMY: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5c As 6d Ts 7s]
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: UTHMY (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259577120691: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:12:26 CET [2026/02/03 11:12:26 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (900 in chips) 
+Seat 3: UTHMY (600 in chips) 
+mabeal1: posts small blind 30
+UTHMY: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9c]
+mabeal1: folds 
+Uncalled bet (30) returned to UTHMY
+UTHMY collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: UTHMY (big blind) collected (60)
+
+
+
+PokerStars Hand #259577121998: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:12:33 CET [2026/02/03 11:12:33 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (870 in chips) 
+Seat 3: UTHMY (630 in chips) 
+UTHMY: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2h]
+UTHMY: calls 30
+mabeal1: raises 810 to 870 and is all-in
+UTHMY: folds 
+Uncalled bet (810) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: UTHMY (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577123500: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:12:41 CET [2026/02/03 11:12:41 ET]
+Table '3971734398 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (930 in chips) 
+Seat 3: UTHMY (570 in chips) 
+mabeal1: posts small blind 30
+UTHMY: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3h]
+mabeal1: calls 30
+UTHMY: checks 
+*** FLOP *** [Qh Ac 4h]
+UTHMY: checks 
+mabeal1: bets 60
+UTHMY: calls 60
+*** TURN *** [Qh Ac 4h] [8s]
+UTHMY: checks 
+mabeal1: bets 120
+UTHMY: calls 120
+*** RIVER *** [Qh Ac 4h 8s] [3d]
+UTHMY: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+UTHMY: shows [Qd Qs] (three of a kind, Queens)
+mabeal1: mucks hand 
+UTHMY collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Qh Ac 4h 8s 3d]
+Seat 1: mabeal1 (button) (small blind) mucked [9c 3h]
+Seat 3: UTHMY (big blind) showed [Qd Qs] and won (480) with three of a kind, Queens
+
+
+
+PokerStars Hand #259577129304: Tournament #3971734398, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:13:14 CET [2026/02/03 11:13:14 ET]
+Table '3971734398 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (690 in chips) 
+Seat 3: UTHMY (810 in chips) 
+UTHMY: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Jc]
+UTHMY: calls 30
+mabeal1: raises 630 to 690 and is all-in
+UTHMY: calls 630
+*** FLOP *** [Ac 3d 8s]
+*** TURN *** [Ac 3d 8s] [7s]
+*** RIVER *** [Ac 3d 8s 7s] [9s]
+*** SHOW DOWN ***
+mabeal1: shows [Kc Jc] (high card Ace)
+UTHMY: shows [As Th] (a pair of Aces)
+UTHMY collected 1380 from pot
+mabeal1 finished the tournament in 2nd place
+UTHMY wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1380 | Rake 0 
+Board [Ac 3d 8s 7s 9s]
+Seat 1: mabeal1 (big blind) showed [Kc Jc] and lost with high card Ace
+Seat 3: UTHMY (button) (small blind) showed [As Th] and won (1380) with a pair of Aces
+
+
+

@@ -1,0 +1,106 @@
+﻿PokerStars Hand #259541692385: Tournament #3970954062, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:26:14 CET [2026/01/31 18:26:14 ET]
+Table '3970954062 1' 3-max Seat #1 is the button
+Seat 1: delfi2024 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: SouCego666 (500 in chips) 
+mabeal1: posts small blind 10
+SouCego666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Jc]
+delfi2024: raises 20 to 40
+mabeal1: raises 80 to 120
+SouCego666: folds 
+delfi2024: calls 80
+*** FLOP *** [8h 6d 3d]
+mabeal1: bets 130
+delfi2024: folds 
+Uncalled bet (130) returned to mabeal1
+mabeal1 collected 260 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [8h 6d 3d]
+Seat 1: delfi2024 (button) folded on the Flop
+Seat 2: mabeal1 (small blind) collected (260)
+Seat 3: SouCego666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259541695386: Tournament #3970954062, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:26:27 CET [2026/01/31 18:26:27 ET]
+Table '3970954062 1' 3-max Seat #2 is the button
+Seat 1: delfi2024 (380 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: SouCego666 (480 in chips) 
+SouCego666: posts small blind 10
+delfi2024: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Ah]
+mabeal1: raises 20 to 40
+SouCego666: folds 
+delfi2024: raises 340 to 380 and is all-in
+mabeal1: calls 340
+*** FLOP *** [Ac 2d 6h]
+*** TURN *** [Ac 2d 6h] [Td]
+*** RIVER *** [Ac 2d 6h Td] [Jd]
+*** SHOW DOWN ***
+delfi2024: shows [7c 7d] (a pair of Sevens)
+mabeal1: shows [Jh Ah] (two pair, Aces and Jacks)
+mabeal1 collected 770 from pot
+delfi2024 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 770 | Rake 0 
+Board [Ac 2d 6h Td Jd]
+Seat 1: delfi2024 (big blind) showed [7c 7d] and lost with a pair of Sevens
+Seat 2: mabeal1 (button) showed [Jh Ah] and won (770) with two pair, Aces and Jacks
+Seat 3: SouCego666 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541701090: Tournament #3970954062, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:26:52 CET [2026/01/31 18:26:52 ET]
+Table '3970954062 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1030 in chips) 
+Seat 3: SouCego666 (470 in chips) 
+SouCego666: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 2c]
+SouCego666: raises 450 to 470 and is all-in
+mabeal1: folds 
+Uncalled bet (450) returned to SouCego666
+SouCego666 collected 40 from pot
+SouCego666: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: SouCego666 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259541702488: Tournament #3970954062, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 0:26:58 CET [2026/01/31 18:26:58 ET]
+Table '3970954062 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1010 in chips) 
+Seat 3: SouCego666 (490 in chips) 
+mabeal1: posts small blind 10
+SouCego666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5d]
+mabeal1: raises 990 to 1010 and is all-in
+SouCego666: calls 470 and is all-in
+Uncalled bet (520) returned to mabeal1
+*** FLOP *** [Ts Tc 4d]
+*** TURN *** [Ts Tc 4d] [5s]
+*** RIVER *** [Ts Tc 4d 5s] [Ks]
+*** SHOW DOWN ***
+SouCego666: shows [4c Ad] (two pair, Tens and Fours)
+mabeal1: shows [5h 5d] (a full house, Fives full of Tens)
+mabeal1 collected 980 from pot
+SouCego666 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Ts Tc 4d 5s Ks]
+Seat 2: mabeal1 (button) (small blind) showed [5h 5d] and won (980) with a full house, Fives full of Tens
+Seat 3: SouCego666 (big blind) showed [4c Ad] and lost with two pair, Tens and Fours
+
+
+

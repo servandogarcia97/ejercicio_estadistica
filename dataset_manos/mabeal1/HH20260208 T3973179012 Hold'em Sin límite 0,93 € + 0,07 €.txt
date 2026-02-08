@@ -1,0 +1,612 @@
+﻿PokerStars Hand #259639440617: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:32:09 CET [2026/02/08 0:32:09 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (500 in chips) 
+Seat 2: fraskazia (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+fraskazia: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 9s]
+Papa1811: folds 
+fraskazia: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [2h 4d 8s]
+fraskazia: bets 40
+mabeal1: calls 40
+*** TURN *** [2h 4d 8s] [Qs]
+fraskazia: checks 
+mabeal1: bets 120
+fraskazia: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2h 4d 8s Qs]
+Seat 1: Papa1811 (button) folded before Flop (didn't bet)
+Seat 2: fraskazia (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259639443291: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:32:45 CET [2026/02/08 0:32:45 ET]
+Table '3973179012 1' 3-max Seat #2 is the button
+Seat 1: Papa1811 (500 in chips) 
+Seat 2: fraskazia (420 in chips) 
+Seat 3: mabeal1 (580 in chips) 
+mabeal1: posts small blind 10
+Papa1811: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Kc]
+fraskazia: folds 
+mabeal1: raises 20 to 40
+Papa1811: calls 20
+*** FLOP *** [Ks 8c Tc]
+mabeal1: bets 60
+Papa1811: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks 8c Tc]
+Seat 1: Papa1811 (big blind) folded on the Flop
+Seat 2: fraskazia (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259639444634: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:33:02 CET [2026/02/08 0:33:02 ET]
+Table '3973179012 1' 3-max Seat #3 is the button
+Seat 1: Papa1811 (460 in chips) 
+Seat 2: fraskazia (420 in chips) 
+Seat 3: mabeal1 (620 in chips) 
+Papa1811: posts small blind 10
+fraskazia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Js]
+mabeal1: raises 20 to 40
+Papa1811: folds 
+fraskazia: raises 20 to 60
+mabeal1: calls 20
+*** FLOP *** [5h 6h 7h]
+fraskazia: bets 65
+mabeal1: folds 
+Uncalled bet (65) returned to fraskazia
+fraskazia collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [5h 6h 7h]
+Seat 1: Papa1811 (small blind) folded before Flop
+Seat 2: fraskazia (big blind) collected (130)
+Seat 3: mabeal1 (button) folded on the Flop
+
+
+
+PokerStars Hand #259639446288: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:33:25 CET [2026/02/08 0:33:25 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (450 in chips) 
+Seat 2: fraskazia (490 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+fraskazia: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ad]
+Papa1811: calls 20
+fraskazia: calls 10
+mabeal1: raises 540 to 560 and is all-in
+Papa1811: folds 
+fraskazia: folds 
+Uncalled bet (540) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Papa1811 (button) folded before Flop
+Seat 2: fraskazia (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259639447269: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:33:38 CET [2026/02/08 0:33:38 ET]
+Table '3973179012 1' 3-max Seat #2 is the button
+Seat 1: Papa1811 (430 in chips) 
+Seat 2: fraskazia (470 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+mabeal1: posts small blind 10
+Papa1811: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5c]
+fraskazia: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Papa1811
+Papa1811 collected 20 from pot
+Papa1811: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Papa1811 (big blind) collected (20)
+Seat 2: fraskazia (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259639447783: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:33:45 CET [2026/02/08 0:33:45 ET]
+Table '3973179012 1' 3-max Seat #3 is the button
+Seat 1: Papa1811 (440 in chips) 
+Seat 2: fraskazia (470 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+Papa1811: posts small blind 10
+fraskazia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Jd]
+mabeal1: raises 20 to 40
+Papa1811: folds 
+fraskazia: raises 430 to 470 and is all-in
+mabeal1: folds 
+Uncalled bet (430) returned to fraskazia
+fraskazia collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Papa1811 (small blind) folded before Flop
+Seat 2: fraskazia (big blind) collected (90)
+Seat 3: mabeal1 (button) folded before Flop
+
+
+
+PokerStars Hand #259639448571: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:33:55 CET [2026/02/08 0:33:55 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (430 in chips) 
+Seat 2: fraskazia (520 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+fraskazia: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Td]
+Papa1811: folds 
+fraskazia: calls 10
+mabeal1: raises 530 to 550 and is all-in
+fraskazia: folds 
+Uncalled bet (530) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Papa1811 (button) folded before Flop (didn't bet)
+Seat 2: fraskazia (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259639449189: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:34:03 CET [2026/02/08 0:34:03 ET]
+Table '3973179012 1' 3-max Seat #2 is the button
+Seat 1: Papa1811 (430 in chips) 
+Seat 2: fraskazia (500 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+mabeal1: posts small blind 10
+Papa1811: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7h]
+fraskazia: raises 20 to 40
+mabeal1: folds 
+Papa1811: calls 20
+*** FLOP *** [Ks Th 5s]
+Papa1811: checks 
+fraskazia: bets 45
+Papa1811: raises 45 to 90
+fraskazia: folds 
+Uncalled bet (45) returned to Papa1811
+Papa1811 collected 180 from pot
+Papa1811: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ks Th 5s]
+Seat 1: Papa1811 (big blind) collected (180)
+Seat 2: fraskazia (button) folded on the Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259639450608: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:34:22 CET [2026/02/08 0:34:22 ET]
+Table '3973179012 1' 3-max Seat #3 is the button
+Seat 1: Papa1811 (525 in chips) 
+Seat 2: fraskazia (415 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+Papa1811: posts small blind 10
+fraskazia: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 5d]
+mabeal1: folds 
+Papa1811: folds 
+Uncalled bet (10) returned to fraskazia
+fraskazia collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Papa1811 (small blind) folded before Flop
+Seat 2: fraskazia (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259639451200: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:34:30 CET [2026/02/08 0:34:30 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (515 in chips) 
+Seat 2: fraskazia (425 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+fraskazia: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 6h]
+Papa1811: calls 20
+fraskazia: raises 20 to 40
+mabeal1: folds 
+Papa1811: calls 20
+*** FLOP *** [Jd 9s Kh]
+fraskazia: bets 50
+Papa1811: folds 
+Uncalled bet (50) returned to fraskazia
+fraskazia collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Jd 9s Kh]
+Seat 1: Papa1811 (button) folded on the Flop
+Seat 2: fraskazia (small blind) collected (100)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259639452616: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:34:49 CET [2026/02/08 0:34:49 ET]
+Table '3973179012 1' 3-max Seat #2 is the button
+Seat 1: Papa1811 (475 in chips) 
+Seat 2: fraskazia (485 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+mabeal1: posts small blind 10
+Papa1811: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Tc]
+fraskazia: raises 40 to 60
+mabeal1: raises 480 to 540 and is all-in
+Papa1811: folds 
+fraskazia: calls 425 and is all-in
+Uncalled bet (55) returned to mabeal1
+*** FLOP *** [4s Ah 4c]
+*** TURN *** [4s Ah 4c] [6s]
+*** RIVER *** [4s Ah 4c 6s] [7c]
+*** SHOW DOWN ***
+mabeal1: shows [As Tc] (two pair, Aces and Fours)
+fraskazia: shows [Kc Jc] (a pair of Fours)
+mabeal1 collected 990 from pot
+fraskazia finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [4s Ah 4c 6s 7c]
+Seat 1: Papa1811 (big blind) folded before Flop
+Seat 2: fraskazia (button) showed [Kc Jc] and lost with a pair of Fours
+Seat 3: mabeal1 (small blind) showed [As Tc] and won (990) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #259639454459: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 6:35:13 CET [2026/02/08 0:35:13 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (455 in chips) 
+Seat 3: mabeal1 (1045 in chips) 
+Papa1811: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qs]
+Papa1811: calls 10
+mabeal1: checks 
+*** FLOP *** [Jc 4d 5d]
+mabeal1: checks 
+Papa1811: checks 
+*** TURN *** [Jc 4d 5d] [7s]
+mabeal1: bets 30
+Papa1811: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc 4d 5d 7s]
+Seat 1: Papa1811 (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259639456291: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:35:37 CET [2026/02/08 0:35:37 ET]
+Table '3973179012 1' 3-max Seat #3 is the button
+Seat 1: Papa1811 (435 in chips) 
+Seat 3: mabeal1 (1065 in chips) 
+mabeal1: posts small blind 15
+Papa1811: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 4s]
+mabeal1: calls 15
+Papa1811: checks 
+*** FLOP *** [Js Ac 5c]
+Papa1811: checks 
+mabeal1: bets 30
+Papa1811: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js Ac 5c]
+Seat 1: Papa1811 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259639457344: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:35:51 CET [2026/02/08 0:35:51 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (405 in chips) 
+Seat 3: mabeal1 (1095 in chips) 
+Papa1811: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5h]
+Papa1811: calls 15
+mabeal1: checks 
+*** FLOP *** [7h 5c Th]
+mabeal1: checks 
+Papa1811: checks 
+*** TURN *** [7h 5c Th] [2c]
+mabeal1: bets 30
+Papa1811: calls 30
+*** RIVER *** [7h 5c Th 2c] [9d]
+mabeal1: bets 120
+Papa1811: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 5c Th 2c 9d]
+Seat 1: Papa1811 (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259639459002: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:36:12 CET [2026/02/08 0:36:12 ET]
+Table '3973179012 1' 3-max Seat #3 is the button
+Seat 1: Papa1811 (345 in chips) 
+Seat 3: mabeal1 (1155 in chips) 
+mabeal1: posts small blind 15
+Papa1811: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 3d]
+mabeal1: calls 15
+Papa1811: checks 
+*** FLOP *** [Th 2c As]
+Papa1811: bets 30
+mabeal1: calls 30
+*** TURN *** [Th 2c As] [Ah]
+Papa1811: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Papa1811
+Papa1811 collected 120 from pot
+Papa1811: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Th 2c As Ah]
+Seat 1: Papa1811 (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259639460139: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:36:27 CET [2026/02/08 0:36:27 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (405 in chips) 
+Seat 3: mabeal1 (1095 in chips) 
+Papa1811: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 4c]
+Papa1811: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Papa1811 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259639460552: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:36:33 CET [2026/02/08 0:36:33 ET]
+Table '3973179012 1' 3-max Seat #3 is the button
+Seat 1: Papa1811 (390 in chips) 
+Seat 3: mabeal1 (1110 in chips) 
+mabeal1: posts small blind 15
+Papa1811: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9h]
+mabeal1: calls 15
+Papa1811: checks 
+*** FLOP *** [Th Qh 2h]
+Papa1811: checks 
+mabeal1: checks 
+*** TURN *** [Th Qh 2h] [9c]
+Papa1811: checks 
+mabeal1: bets 45
+Papa1811: calls 45
+*** RIVER *** [Th Qh 2h 9c] [Ts]
+Papa1811: checks 
+mabeal1: bets 75
+Papa1811: folds 
+Uncalled bet (75) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Th Qh 2h 9c Ts]
+Seat 1: Papa1811 (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (150)
+
+
+
+PokerStars Hand #259639462090: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:36:53 CET [2026/02/08 0:36:53 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (315 in chips) 
+Seat 3: mabeal1 (1185 in chips) 
+Papa1811: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 3c]
+Papa1811: calls 15
+mabeal1: checks 
+*** FLOP *** [Ah 6h As]
+mabeal1: checks 
+Papa1811: bets 60
+mabeal1: raises 1095 to 1155 and is all-in
+Papa1811: calls 225 and is all-in
+Uncalled bet (870) returned to mabeal1
+*** TURN *** [Ah 6h As] [8d]
+*** RIVER *** [Ah 6h As 8d] [7h]
+*** SHOW DOWN ***
+mabeal1: shows [6s 3c] (two pair, Aces and Sixes)
+Papa1811: shows [5h 4h] (a flush, Ace high)
+Papa1811 collected 630 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [Ah 6h As 8d 7h]
+Seat 1: Papa1811 (button) (small blind) showed [5h 4h] and won (630) with a flush, Ace high
+Seat 3: mabeal1 (big blind) showed [6s 3c] and lost with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #259639464056: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:37:18 CET [2026/02/08 0:37:18 ET]
+Table '3973179012 1' 3-max Seat #3 is the button
+Seat 1: Papa1811 (630 in chips) 
+Seat 3: mabeal1 (870 in chips) 
+mabeal1: posts small blind 15
+Papa1811: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 8h]
+mabeal1: raises 840 to 870 and is all-in
+Papa1811: folds 
+Uncalled bet (840) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Papa1811 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259639464663: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:37:27 CET [2026/02/08 0:37:27 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (600 in chips) 
+Seat 3: mabeal1 (900 in chips) 
+Papa1811: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 8s]
+Papa1811: calls 15
+mabeal1: checks 
+*** FLOP *** [Jc 4c Ks]
+mabeal1: checks 
+Papa1811: checks 
+*** TURN *** [Jc 4c Ks] [7s]
+mabeal1: bets 45
+Papa1811: calls 45
+*** RIVER *** [Jc 4c Ks 7s] [Ah]
+mabeal1: bets 113
+Papa1811: folds 
+Uncalled bet (113) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Jc 4c Ks 7s Ah]
+Seat 1: Papa1811 (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (150)
+
+
+
+PokerStars Hand #259639465799: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:37:42 CET [2026/02/08 0:37:42 ET]
+Table '3973179012 1' 3-max Seat #3 is the button
+Seat 1: Papa1811 (525 in chips) 
+Seat 3: mabeal1 (975 in chips) 
+mabeal1: posts small blind 15
+Papa1811: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 3c]
+mabeal1: calls 15
+Papa1811: checks 
+*** FLOP *** [Jc Tc 5d]
+Papa1811: checks 
+mabeal1: checks 
+*** TURN *** [Jc Tc 5d] [5s]
+Papa1811: checks 
+mabeal1: bets 30
+Papa1811: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc Tc 5d 5s]
+Seat 1: Papa1811 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259639466845: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:37:56 CET [2026/02/08 0:37:56 ET]
+Table '3973179012 1' 3-max Seat #1 is the button
+Seat 1: Papa1811 (495 in chips) 
+Seat 3: mabeal1 (1005 in chips) 
+Papa1811: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 2d]
+Papa1811: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Papa1811
+Papa1811 collected 60 from pot
+Papa1811: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Papa1811 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259639467349: Tournament #3973179012, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 6:38:03 CET [2026/02/08 0:38:03 ET]
+Table '3973179012 1' 3-max Seat #3 is the button
+Seat 1: Papa1811 (525 in chips) 
+Seat 3: mabeal1 (975 in chips) 
+mabeal1: posts small blind 15
+Papa1811: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Jc]
+mabeal1: raises 30 to 60
+Papa1811: calls 30
+*** FLOP *** [Tc 7h 9h]
+Papa1811: bets 30
+mabeal1: raises 135 to 165
+Papa1811: calls 135
+*** TURN *** [Tc 7h 9h] [8d]
+Papa1811: checks 
+mabeal1: bets 105
+Papa1811: calls 105
+*** RIVER *** [Tc 7h 9h 8d] [2c]
+Papa1811: checks 
+mabeal1: bets 645 and is all-in
+Papa1811: calls 195 and is all-in
+Uncalled bet (450) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [Ts Jc] (a straight, Seven to Jack)
+Papa1811: shows [9s Kh] (a pair of Nines)
+mabeal1 collected 1050 from pot
+Papa1811 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [Tc 7h 9h 8d 2c]
+Seat 1: Papa1811 (big blind) showed [9s Kh] and lost with a pair of Nines
+Seat 3: mabeal1 (button) (small blind) showed [Ts Jc] and won (1050) with a straight, Seven to Jack
+
+
+

@@ -1,0 +1,628 @@
+﻿PokerStars Hand #259389704122: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:14:21 CET [2026/01/20 10:14:21 ET]
+Table '3967442106 1' 3-max Seat #1 is the button
+Seat 1: Thibs62 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: glandeur66 (500 in chips) 
+mabeal1: posts small blind 10
+glandeur66: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 9s]
+Thibs62: raises 480 to 500 and is all-in
+mabeal1: folds 
+glandeur66: folds 
+Uncalled bet (480) returned to Thibs62
+Thibs62 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Thibs62 (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: glandeur66 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259389705170: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:14:27 CET [2026/01/20 10:14:27 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 1: Thibs62 (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: glandeur66 (480 in chips) 
+glandeur66: posts small blind 10
+Thibs62: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Ts]
+mabeal1: raises 20 to 40
+glandeur66: folds 
+Thibs62: raises 90 to 130
+mabeal1: folds 
+Uncalled bet (90) returned to Thibs62
+Thibs62 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Thibs62 (big blind) collected (90)
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: glandeur66 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259389707008: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:14:39 CET [2026/01/20 10:14:39 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 1: Thibs62 (580 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: glandeur66 (470 in chips) 
+Thibs62: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Qc]
+glandeur66: calls 20
+Thibs62: raises 560 to 580 and is all-in
+mabeal1: calls 430 and is all-in
+glandeur66: folds 
+Uncalled bet (130) returned to Thibs62
+*** FLOP *** [Ad 2s 9c]
+*** TURN *** [Ad 2s 9c] [Ts]
+*** RIVER *** [Ad 2s 9c Ts] [9s]
+*** SHOW DOWN ***
+Thibs62: shows [5c 2h] (two pair, Nines and Deuces)
+mabeal1: shows [9h Qc] (three of a kind, Nines)
+mabeal1 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Ad 2s 9c Ts 9s]
+Seat 1: Thibs62 (small blind) showed [5c 2h] and lost with two pair, Nines and Deuces
+Seat 2: mabeal1 (big blind) showed [9h Qc] and won (920) with three of a kind, Nines
+Seat 3: glandeur66 (button) folded before Flop
+
+
+
+PokerStars Hand #259389710560: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:15:00 CET [2026/01/20 10:15:00 ET]
+Table '3967442106 1' 3-max Seat #1 is the button
+Seat 1: Thibs62 (130 in chips) 
+Seat 2: mabeal1 (920 in chips) 
+Seat 3: glandeur66 (450 in chips) 
+mabeal1: posts small blind 10
+glandeur66: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Jd]
+Thibs62: raises 110 to 130 and is all-in
+mabeal1: folds 
+glandeur66: calls 110
+*** FLOP *** [6h 9d 4d]
+*** TURN *** [6h 9d 4d] [5d]
+*** RIVER *** [6h 9d 4d 5d] [Qc]
+*** SHOW DOWN ***
+glandeur66: shows [Ah 4h] (a pair of Fours)
+Thibs62: shows [4c As] (a pair of Fours)
+glandeur66 collected 135 from pot
+Thibs62 collected 135 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [6h 9d 4d 5d Qc]
+Seat 1: Thibs62 (button) showed [4c As] and won (135) with a pair of Fours
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: glandeur66 (big blind) showed [Ah 4h] and won (135) with a pair of Fours
+
+
+
+PokerStars Hand #259389713466: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:15:17 CET [2026/01/20 10:15:17 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 1: Thibs62 (135 in chips) 
+Seat 2: mabeal1 (910 in chips) 
+Seat 3: glandeur66 (455 in chips) 
+glandeur66: posts small blind 10
+Thibs62: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 7c]
+mabeal1: folds 
+glandeur66: raises 120 to 140
+Thibs62: calls 115 and is all-in
+Uncalled bet (5) returned to glandeur66
+*** FLOP *** [3c 7h 3s]
+*** TURN *** [3c 7h 3s] [Ts]
+*** RIVER *** [3c 7h 3s Ts] [6h]
+*** SHOW DOWN ***
+glandeur66: shows [Ah 9c] (a pair of Threes)
+Thibs62: shows [4c Jh] (a pair of Threes - lower kicker)
+glandeur66 collected 270 from pot
+Thibs62 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [3c 7h 3s Ts 6h]
+Seat 1: Thibs62 (big blind) showed [4c Jh] and lost with a pair of Threes
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: glandeur66 (small blind) showed [Ah 9c] and won (270) with a pair of Threes
+
+
+
+PokerStars Hand #259389718629: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:15:49 CET [2026/01/20 10:15:49 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (910 in chips) 
+Seat 3: glandeur66 (590 in chips) 
+glandeur66: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 2s]
+glandeur66: calls 10
+mabeal1: checks 
+*** FLOP *** [As 4d 3d]
+mabeal1: checks 
+glandeur66: bets 20
+mabeal1: raises 40 to 60
+glandeur66: calls 40
+*** TURN *** [As 4d 3d] [8d]
+mabeal1: checks 
+glandeur66: checks 
+*** RIVER *** [As 4d 3d 8d] [7d]
+mabeal1: bets 120
+glandeur66: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [As 4d 3d 8d 7d]
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: glandeur66 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259389723380: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:16:17 CET [2026/01/20 10:16:17 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (990 in chips) 
+Seat 3: glandeur66 (510 in chips) 
+mabeal1: posts small blind 10
+glandeur66: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Ah]
+mabeal1: calls 10
+glandeur66: checks 
+*** FLOP *** [Qs 7h Ks]
+glandeur66: bets 20
+mabeal1: raises 40 to 60
+glandeur66: calls 40
+*** TURN *** [Qs 7h Ks] [7c]
+glandeur66: checks 
+mabeal1: bets 120
+glandeur66: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs 7h Ks 7c]
+Seat 2: mabeal1 (button) (small blind) collected (160)
+Seat 3: glandeur66 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259389728730: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:16:49 CET [2026/01/20 10:16:49 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1070 in chips) 
+Seat 3: glandeur66 (430 in chips) 
+glandeur66: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 3s]
+glandeur66: calls 15
+mabeal1: checks 
+*** FLOP *** [4h Kh As]
+mabeal1: checks 
+glandeur66: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to glandeur66
+glandeur66 collected 60 from pot
+glandeur66: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h Kh As]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: glandeur66 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259389730832: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:17:01 CET [2026/01/20 10:17:01 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1040 in chips) 
+Seat 3: glandeur66 (460 in chips) 
+mabeal1: posts small blind 15
+glandeur66: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9d]
+mabeal1: raises 30 to 60
+glandeur66: calls 30
+*** FLOP *** [Ac Jc Qh]
+glandeur66: checks 
+mabeal1: bets 60
+glandeur66: raises 340 to 400 and is all-in
+mabeal1: folds 
+Uncalled bet (340) returned to glandeur66
+glandeur66 collected 240 from pot
+glandeur66: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ac Jc Qh]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: glandeur66 (big blind) collected (240)
+
+
+
+PokerStars Hand #259389733209: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:17:15 CET [2026/01/20 10:17:15 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (920 in chips) 
+Seat 3: glandeur66 (580 in chips) 
+glandeur66: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 6s]
+glandeur66: calls 15
+mabeal1: checks 
+*** FLOP *** [3c 5s 9s]
+mabeal1: checks 
+glandeur66: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to glandeur66
+glandeur66 collected 60 from pot
+glandeur66: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c 5s 9s]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: glandeur66 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259389735478: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:17:29 CET [2026/01/20 10:17:29 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (890 in chips) 
+Seat 3: glandeur66 (610 in chips) 
+mabeal1: posts small blind 15
+glandeur66: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 5c]
+mabeal1: calls 15
+glandeur66: checks 
+*** FLOP *** [7c 2h 6c]
+glandeur66: checks 
+mabeal1: bets 30
+glandeur66: calls 30
+*** TURN *** [7c 2h 6c] [2s]
+glandeur66: checks 
+mabeal1: bets 180
+glandeur66: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c 2h 6c 2s]
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: glandeur66 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259389739493: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:17:54 CET [2026/01/20 10:17:54 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (950 in chips) 
+Seat 3: glandeur66 (550 in chips) 
+glandeur66: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Kc]
+glandeur66: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to glandeur66
+glandeur66 collected 60 from pot
+glandeur66: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: glandeur66 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259389740955: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:18:02 CET [2026/01/20 10:18:02 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (920 in chips) 
+Seat 3: glandeur66 (580 in chips) 
+mabeal1: posts small blind 15
+glandeur66: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6d]
+mabeal1: calls 15
+glandeur66: checks 
+*** FLOP *** [8s 9s Jd]
+glandeur66: checks 
+mabeal1: bets 30
+glandeur66: calls 30
+*** TURN *** [8s 9s Jd] [6s]
+glandeur66: checks 
+mabeal1: checks 
+*** RIVER *** [8s 9s Jd 6s] [7h]
+glandeur66: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+glandeur66: shows [Ts 3d] (a straight, Seven to Jack)
+mabeal1: mucks hand 
+glandeur66 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8s 9s Jd 6s 7h]
+Seat 2: mabeal1 (button) (small blind) mucked [4d 6d]
+Seat 3: glandeur66 (big blind) showed [Ts 3d] and won (240) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #259389744949: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:18:26 CET [2026/01/20 10:18:26 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (800 in chips) 
+Seat 3: glandeur66 (700 in chips) 
+glandeur66: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 3c]
+glandeur66: calls 20
+mabeal1: checks 
+*** FLOP *** [2h Jc 4d]
+mabeal1: checks 
+glandeur66: checks 
+*** TURN *** [2h Jc 4d] [Kh]
+mabeal1: bets 120
+glandeur66: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h Jc 4d Kh]
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: glandeur66 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259389747645: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:18:42 CET [2026/01/20 10:18:42 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (840 in chips) 
+Seat 3: glandeur66 (660 in chips) 
+mabeal1: posts small blind 20
+glandeur66: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jh]
+mabeal1: raises 40 to 80
+glandeur66: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: glandeur66 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259389748703: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:18:48 CET [2026/01/20 10:18:48 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (880 in chips) 
+Seat 3: glandeur66 (620 in chips) 
+glandeur66: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ad]
+glandeur66: raises 40 to 80
+mabeal1: raises 800 to 880 and is all-in
+glandeur66: folds 
+Uncalled bet (800) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: glandeur66 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259389751374: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:19:04 CET [2026/01/20 10:19:04 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (960 in chips) 
+Seat 3: glandeur66 (540 in chips) 
+mabeal1: posts small blind 20
+glandeur66: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 6d]
+mabeal1: calls 20
+glandeur66: checks 
+*** FLOP *** [9d 6s Jh]
+glandeur66: checks 
+mabeal1: checks 
+*** TURN *** [9d 6s Jh] [6c]
+glandeur66: checks 
+mabeal1: bets 120
+glandeur66: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 6s Jh 6c]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: glandeur66 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259389754072: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:19:21 CET [2026/01/20 10:19:21 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1000 in chips) 
+Seat 3: glandeur66 (500 in chips) 
+glandeur66: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Qd]
+glandeur66: calls 20
+mabeal1: checks 
+*** FLOP *** [6c 2d 8s]
+mabeal1: checks 
+glandeur66: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to glandeur66
+glandeur66 collected 80 from pot
+glandeur66: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c 2d 8s]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: glandeur66 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259389756206: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:19:33 CET [2026/01/20 10:19:33 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (960 in chips) 
+Seat 3: glandeur66 (540 in chips) 
+mabeal1: posts small blind 20
+glandeur66: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Qs]
+mabeal1: calls 20
+glandeur66: checks 
+*** FLOP *** [Th 2h Ad]
+glandeur66: checks 
+mabeal1: bets 40
+glandeur66: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th 2h Ad]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: glandeur66 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259389758244: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:19:45 CET [2026/01/20 10:19:45 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1000 in chips) 
+Seat 3: glandeur66 (500 in chips) 
+glandeur66: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 2c]
+glandeur66: calls 20
+mabeal1: checks 
+*** FLOP *** [Kd 5s Jc]
+mabeal1: checks 
+glandeur66: checks 
+*** TURN *** [Kd 5s Jc] [9c]
+mabeal1: checks 
+glandeur66: checks 
+*** RIVER *** [Kd 5s Jc 9c] [Qc]
+mabeal1: checks 
+glandeur66: checks 
+*** SHOW DOWN ***
+mabeal1: shows [9h 2c] (a pair of Nines)
+glandeur66: mucks hand 
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 5s Jc 9c Qc]
+Seat 2: mabeal1 (big blind) showed [9h 2c] and won (80) with a pair of Nines
+Seat 3: glandeur66 (button) (small blind) mucked [6d 3s]
+
+
+
+PokerStars Hand #259389761032: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:20:02 CET [2026/01/20 10:20:02 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1040 in chips) 
+Seat 3: glandeur66 (460 in chips) 
+mabeal1: posts small blind 20
+glandeur66: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8h]
+mabeal1: raises 40 to 80
+glandeur66: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: glandeur66 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259389762712: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:20:12 CET [2026/01/20 10:20:12 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1080 in chips) 
+Seat 3: glandeur66 (420 in chips) 
+glandeur66: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 4c]
+glandeur66: calls 20
+mabeal1: checks 
+*** FLOP *** [Kd 4h Ah]
+mabeal1: checks 
+glandeur66: bets 40
+mabeal1: calls 40
+*** TURN *** [Kd 4h Ah] [9d]
+mabeal1: checks 
+glandeur66: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to glandeur66
+glandeur66 collected 160 from pot
+glandeur66: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd 4h Ah 9d]
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: glandeur66 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259389766129: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 16:20:32 CET [2026/01/20 10:20:32 ET]
+Table '3967442106 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1000 in chips) 
+Seat 3: glandeur66 (500 in chips) 
+mabeal1: posts small blind 30
+glandeur66: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8s]
+mabeal1: raises 940 to 1000 and is all-in
+glandeur66: folds 
+Uncalled bet (940) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (120)
+Seat 3: glandeur66 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259389767204: Tournament #3967442106, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 16:20:39 CET [2026/01/20 10:20:39 ET]
+Table '3967442106 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1060 in chips) 
+Seat 3: glandeur66 (440 in chips) 
+glandeur66: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 6s]
+glandeur66: calls 30
+mabeal1: raises 1000 to 1060 and is all-in
+glandeur66: calls 380 and is all-in
+Uncalled bet (620) returned to mabeal1
+*** FLOP *** [3h 3c 2d]
+*** TURN *** [3h 3c 2d] [7h]
+*** RIVER *** [3h 3c 2d 7h] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [Kd 6s] (a pair of Threes)
+glandeur66: shows [Td 6d] (a pair of Threes - lower kicker)
+mabeal1 collected 880 from pot
+glandeur66 finished the tournament in 2nd place
+mabeal1 wins the tournament - congratulations!
+mabeal1 wins a '€1 Step 2 MTT Power Path ticket' ticket
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [3h 3c 2d 7h 4c]
+Seat 2: mabeal1 (big blind) showed [Kd 6s] and won (880) with a pair of Threes
+Seat 3: glandeur66 (button) (small blind) showed [Td 6d] and lost with a pair of Threes
+
+
+

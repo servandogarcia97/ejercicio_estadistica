@@ -1,0 +1,363 @@
+﻿PokerStars Hand #259416414288: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 17:43:07 CET [2026/01/22 11:43:07 ET]
+Table '3968072964 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Chataigne59 (500 in chips) 
+Seat 3: jesudinero (500 in chips) 
+Chataigne59: posts small blind 10
+jesudinero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4s]
+mabeal1: raises 20 to 40
+Chataigne59: calls 30
+jesudinero: calls 20
+*** FLOP *** [6s Qh Js]
+Chataigne59: checks 
+jesudinero: checks 
+mabeal1: checks 
+*** TURN *** [6s Qh Js] [2c]
+Chataigne59: checks 
+jesudinero: bets 20
+mabeal1: calls 20
+Chataigne59: calls 20
+*** RIVER *** [6s Qh Js 2c] [9s]
+Chataigne59: bets 440 and is all-in
+jesudinero: folds 
+mabeal1: folds 
+Uncalled bet (440) returned to Chataigne59
+Chataigne59 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6s Qh Js 2c 9s]
+Seat 1: mabeal1 (button) folded on the River
+Seat 2: Chataigne59 (small blind) collected (180)
+Seat 3: jesudinero (big blind) folded on the River
+
+
+
+PokerStars Hand #259416420184: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 17:43:39 CET [2026/01/22 11:43:39 ET]
+Table '3968072964 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: Chataigne59 (620 in chips) 
+Seat 3: jesudinero (440 in chips) 
+jesudinero: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 9h]
+Chataigne59: folds 
+jesudinero: calls 10
+mabeal1: checks 
+*** FLOP *** [2d 4d 7d]
+jesudinero: checks 
+mabeal1: checks 
+*** TURN *** [2d 4d 7d] [3d]
+jesudinero: checks 
+mabeal1: checks 
+*** RIVER *** [2d 4d 7d 3d] [8h]
+jesudinero: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+jesudinero: shows [7c Js] (a pair of Sevens)
+mabeal1: mucks hand 
+jesudinero collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d 4d 7d 3d 8h]
+Seat 1: mabeal1 (big blind) mucked [3s 9h]
+Seat 2: Chataigne59 (button) folded before Flop (didn't bet)
+Seat 3: jesudinero (small blind) showed [7c Js] and won (40) with a pair of Sevens
+
+
+
+PokerStars Hand #259416423027: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 17:43:54 CET [2026/01/22 11:43:54 ET]
+Table '3968072964 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: Chataigne59 (620 in chips) 
+Seat 3: jesudinero (460 in chips) 
+mabeal1: posts small blind 10
+Chataigne59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9s]
+jesudinero: calls 20
+mabeal1: folds 
+Chataigne59: checks 
+*** FLOP *** [5d Ks Tc]
+Chataigne59: checks 
+jesudinero: checks 
+*** TURN *** [5d Ks Tc] [6s]
+Chataigne59: checks 
+jesudinero: checks 
+*** RIVER *** [5d Ks Tc 6s] [8h]
+Chataigne59: bets 20
+jesudinero: calls 20
+*** SHOW DOWN ***
+Chataigne59: shows [2s 5s] (a pair of Fives)
+jesudinero: shows [Qd 8s] (a pair of Eights)
+jesudinero collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5d Ks Tc 6s 8h]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Chataigne59 (big blind) showed [2s 5s] and lost with a pair of Fives
+Seat 3: jesudinero (button) showed [Qd 8s] and won (90) with a pair of Eights
+
+
+
+PokerStars Hand #259416427451: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 17:44:18 CET [2026/01/22 11:44:18 ET]
+Table '3968072964 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: Chataigne59 (580 in chips) 
+Seat 3: jesudinero (510 in chips) 
+Chataigne59: posts small blind 10
+jesudinero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5c]
+mabeal1: folds 
+Chataigne59: calls 10
+jesudinero: checks 
+*** FLOP *** [As 8h 7d]
+Chataigne59: checks 
+jesudinero: checks 
+*** TURN *** [As 8h 7d] [Kh]
+Chataigne59: checks 
+jesudinero: checks 
+*** RIVER *** [As 8h 7d Kh] [Kd]
+Chataigne59: checks 
+jesudinero: bets 20
+Chataigne59: folds 
+Uncalled bet (20) returned to jesudinero
+jesudinero collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [As 8h 7d Kh Kd]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Chataigne59 (small blind) folded on the River
+Seat 3: jesudinero (big blind) collected (40)
+
+
+
+PokerStars Hand #259416431708: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 17:44:42 CET [2026/01/22 11:44:42 ET]
+Table '3968072964 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: Chataigne59 (560 in chips) 
+Seat 3: jesudinero (530 in chips) 
+jesudinero: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Jd]
+Chataigne59: folds 
+jesudinero: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to jesudinero
+jesudinero collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Chataigne59 (button) folded before Flop (didn't bet)
+Seat 3: jesudinero (small blind) collected (40)
+
+
+
+PokerStars Hand #259416433580: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 17:44:52 CET [2026/01/22 11:44:52 ET]
+Table '3968072964 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (390 in chips) 
+Seat 2: Chataigne59 (560 in chips) 
+Seat 3: jesudinero (550 in chips) 
+mabeal1: posts small blind 10
+Chataigne59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 7d]
+jesudinero: raises 20 to 40
+mabeal1: folds 
+Chataigne59: calls 20
+*** FLOP *** [Ts 8c Jc]
+Chataigne59: checks 
+jesudinero: bets 20
+Chataigne59: raises 65 to 85
+jesudinero: calls 65
+*** TURN *** [Ts 8c Jc] [Qs]
+Chataigne59: checks 
+jesudinero: checks 
+*** RIVER *** [Ts 8c Jc Qs] [Jd]
+Chataigne59: bets 260
+jesudinero: raises 165 to 425 and is all-in
+Chataigne59: folds 
+Uncalled bet (165) returned to jesudinero
+jesudinero collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Ts 8c Jc Qs Jd]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Chataigne59 (big blind) folded on the River
+Seat 3: jesudinero (button) collected (780)
+
+
+
+PokerStars Hand #259416440314: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 17:45:29 CET [2026/01/22 11:45:29 ET]
+Table '3968072964 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: Chataigne59 (175 in chips) 
+Seat 3: jesudinero (945 in chips) 
+Chataigne59: posts small blind 15
+jesudinero: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 8s]
+mabeal1: folds 
+Chataigne59: folds 
+Uncalled bet (15) returned to jesudinero
+jesudinero collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Chataigne59 (small blind) folded before Flop
+Seat 3: jesudinero (big blind) collected (30)
+
+
+
+PokerStars Hand #259416441628: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 17:45:36 CET [2026/01/22 11:45:36 ET]
+Table '3968072964 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: Chataigne59 (160 in chips) 
+Seat 3: jesudinero (960 in chips) 
+jesudinero: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 3c]
+Chataigne59: calls 30
+jesudinero: calls 15
+mabeal1: checks 
+*** FLOP *** [9d 6h Jh]
+jesudinero: checks 
+mabeal1: checks 
+Chataigne59: bets 130 and is all-in
+jesudinero: folds 
+mabeal1: folds 
+Uncalled bet (130) returned to Chataigne59
+Chataigne59 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9d 6h Jh]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Chataigne59 (button) collected (90)
+Seat 3: jesudinero (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259416445272: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 17:45:56 CET [2026/01/22 11:45:56 ET]
+Table '3968072964 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (350 in chips) 
+Seat 2: Chataigne59 (220 in chips) 
+Seat 3: jesudinero (930 in chips) 
+mabeal1: posts small blind 15
+Chataigne59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 7s]
+jesudinero: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Chataigne59
+Chataigne59 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Chataigne59 (big blind) collected (30)
+Seat 3: jesudinero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259416446708: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 17:46:04 CET [2026/01/22 11:46:04 ET]
+Table '3968072964 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (335 in chips) 
+Seat 2: Chataigne59 (235 in chips) 
+Seat 3: jesudinero (930 in chips) 
+Chataigne59: posts small blind 15
+jesudinero: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 7s]
+mabeal1: raises 30 to 60
+Chataigne59: folds 
+jesudinero: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (button) collected (75)
+Seat 2: Chataigne59 (small blind) folded before Flop
+Seat 3: jesudinero (big blind) folded before Flop
+
+
+
+PokerStars Hand #259416448002: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 17:46:11 CET [2026/01/22 11:46:11 ET]
+Table '3968072964 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: Chataigne59 (220 in chips) 
+Seat 3: jesudinero (900 in chips) 
+jesudinero: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 4c]
+Chataigne59: folds 
+jesudinero: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: Chataigne59 (button) folded before Flop (didn't bet)
+Seat 3: jesudinero (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416448987: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 17:46:16 CET [2026/01/22 11:46:16 ET]
+Table '3968072964 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (395 in chips) 
+Seat 2: Chataigne59 (220 in chips) 
+Seat 3: jesudinero (885 in chips) 
+mabeal1: posts small blind 15
+Chataigne59: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Kc]
+jesudinero: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Chataigne59
+Chataigne59 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Chataigne59 (big blind) collected (30)
+Seat 3: jesudinero (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259416450152: Tournament #3968072964, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 17:46:22 CET [2026/01/22 11:46:22 ET]
+Table '3968072964 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: Chataigne59 (235 in chips) 
+Seat 3: jesudinero (885 in chips) 
+Chataigne59: posts small blind 15
+jesudinero: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Qd]
+mabeal1: raises 30 to 60
+Chataigne59: calls 45
+jesudinero: raises 30 to 90
+mabeal1: raises 290 to 380 and is all-in
+Chataigne59: folds 
+jesudinero: calls 290
+*** FLOP *** [Tc 7d 8d]
+*** TURN *** [Tc 7d 8d] [Ac]
+*** RIVER *** [Tc 7d 8d Ac] [9s]
+*** SHOW DOWN ***
+jesudinero: shows [Qc Ah] (a pair of Aces)
+mabeal1: shows [Qs Qd] (a pair of Queens)
+jesudinero collected 820 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Tc 7d 8d Ac 9s]
+Seat 1: mabeal1 (button) showed [Qs Qd] and lost with a pair of Queens
+Seat 2: Chataigne59 (small blind) folded before Flop
+Seat 3: jesudinero (big blind) showed [Qc Ah] and won (820) with a pair of Aces
+
+
+

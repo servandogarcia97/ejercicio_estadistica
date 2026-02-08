@@ -1,0 +1,695 @@
+﻿PokerStars Hand #259561638066: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:21:28 CET [2026/02/02 8:21:28 ET]
+Table '3971392974 1' 3-max Seat #1 is the button
+Seat 1: catcoon (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: mixclub151 (500 in chips) 
+mabeal1: posts small blind 10
+mixclub151: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td As]
+catcoon: folds 
+mabeal1: raises 30 to 50
+mixclub151: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: catcoon (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: mixclub151 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561639282: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:21:37 CET [2026/02/02 8:21:37 ET]
+Table '3971392974 1' 3-max Seat #2 is the button
+Seat 1: catcoon (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: mixclub151 (480 in chips) 
+mixclub151: posts small blind 10
+catcoon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Jc]
+mabeal1: raises 20 to 40
+mixclub151: folds 
+catcoon: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: catcoon (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: mixclub151 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561640634: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:21:47 CET [2026/02/02 8:21:47 ET]
+Table '3971392974 1' 3-max Seat #3 is the button
+Seat 1: catcoon (480 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: mixclub151 (470 in chips) 
+catcoon: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 5s]
+mixclub151: folds 
+catcoon: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: catcoon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: mixclub151 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561641400: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:21:53 CET [2026/02/02 8:21:53 ET]
+Table '3971392974 1' 3-max Seat #1 is the button
+Seat 1: catcoon (470 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: mixclub151 (470 in chips) 
+mabeal1: posts small blind 10
+mixclub151: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 5h]
+catcoon: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to mixclub151
+mixclub151 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: catcoon (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: mixclub151 (big blind) collected (20)
+
+
+
+PokerStars Hand #259561643611: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:22:09 CET [2026/02/02 8:22:09 ET]
+Table '3971392974 1' 3-max Seat #2 is the button
+Seat 1: catcoon (470 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: mixclub151 (480 in chips) 
+mixclub151: posts small blind 10
+catcoon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad As]
+mabeal1: raises 20 to 40
+mixclub151: folds 
+catcoon: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: catcoon (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: mixclub151 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561644673: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:22:18 CET [2026/02/02 8:22:18 ET]
+Table '3971392974 1' 3-max Seat #3 is the button
+Seat 1: catcoon (450 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: mixclub151 (470 in chips) 
+catcoon: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Kh]
+mixclub151: calls 20
+catcoon: folds 
+mabeal1: checks 
+*** FLOP *** [7s 6s Qd]
+mabeal1: checks 
+mixclub151: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to mixclub151
+mixclub151 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [7s 6s Qd]
+Seat 1: catcoon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: mixclub151 (button) collected (50)
+
+
+
+PokerStars Hand #259561649654: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:22:54 CET [2026/02/02 8:22:54 ET]
+Table '3971392974 1' 3-max Seat #1 is the button
+Seat 1: catcoon (440 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: mixclub151 (500 in chips) 
+mabeal1: posts small blind 10
+mixclub151: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 3s]
+catcoon: calls 20
+mabeal1: folds 
+mixclub151: raises 40 to 60
+catcoon: calls 40
+*** FLOP *** [Ad 7d Js]
+mixclub151: checks 
+catcoon: checks 
+*** TURN *** [Ad 7d Js] [4c]
+mixclub151: bets 20
+catcoon: folds 
+Uncalled bet (20) returned to mixclub151
+mixclub151 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Ad 7d Js 4c]
+Seat 1: catcoon (button) folded on the Turn
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: mixclub151 (big blind) collected (130)
+
+
+
+PokerStars Hand #259561652418: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:23:15 CET [2026/02/02 8:23:15 ET]
+Table '3971392974 1' 3-max Seat #2 is the button
+Seat 1: catcoon (380 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: mixclub151 (570 in chips) 
+mixclub151: posts small blind 10
+catcoon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 9d]
+mabeal1: raises 20 to 40
+mixclub151: folds 
+catcoon: calls 20
+*** FLOP *** [Th 4h 3c]
+catcoon: checks 
+mabeal1: checks 
+*** TURN *** [Th 4h 3c] [6d]
+catcoon: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to catcoon
+catcoon collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Th 4h 3c 6d]
+Seat 1: catcoon (big blind) collected (90)
+Seat 2: mabeal1 (button) folded on the Turn
+Seat 3: mixclub151 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561657161: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:23:50 CET [2026/02/02 8:23:50 ET]
+Table '3971392974 1' 3-max Seat #3 is the button
+Seat 1: catcoon (430 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: mixclub151 (560 in chips) 
+catcoon: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 3h]
+mixclub151: calls 30
+catcoon: calls 15
+mabeal1: checks 
+*** FLOP *** [2s 3s Ad]
+catcoon: checks 
+mabeal1: checks 
+mixclub151: checks 
+*** TURN *** [2s 3s Ad] [5d]
+catcoon: checks 
+mabeal1: bets 68
+mixclub151: folds 
+catcoon: folds 
+Uncalled bet (68) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2s 3s Ad 5d]
+Seat 1: catcoon (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (90)
+Seat 3: mixclub151 (button) folded on the Turn
+
+
+
+PokerStars Hand #259561662538: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:24:29 CET [2026/02/02 8:24:29 ET]
+Table '3971392974 1' 3-max Seat #1 is the button
+Seat 1: catcoon (400 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: mixclub151 (530 in chips) 
+mabeal1: posts small blind 15
+mixclub151: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 2h]
+catcoon: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to mixclub151
+mixclub151 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: catcoon (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: mixclub151 (big blind) collected (30)
+
+
+
+PokerStars Hand #259561663444: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:24:36 CET [2026/02/02 8:24:36 ET]
+Table '3971392974 1' 3-max Seat #2 is the button
+Seat 1: catcoon (400 in chips) 
+Seat 2: mabeal1 (555 in chips) 
+Seat 3: mixclub151 (545 in chips) 
+mixclub151: posts small blind 15
+catcoon: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Th]
+mabeal1: folds 
+mixclub151: raises 60 to 90
+catcoon: raises 310 to 400 and is all-in
+mixclub151: calls 310
+*** FLOP *** [5c 6h 6s]
+*** TURN *** [5c 6h 6s] [9c]
+*** RIVER *** [5c 6h 6s 9c] [2h]
+*** SHOW DOWN ***
+mixclub151: shows [Qs As] (a pair of Sixes)
+catcoon: shows [8c 8d] (two pair, Eights and Sixes)
+catcoon collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [5c 6h 6s 9c 2h]
+Seat 1: catcoon (big blind) showed [8c 8d] and won (800) with two pair, Eights and Sixes
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: mixclub151 (small blind) showed [Qs As] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259561665695: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:24:53 CET [2026/02/02 8:24:53 ET]
+Table '3971392974 1' 3-max Seat #3 is the button
+Seat 1: catcoon (800 in chips) 
+Seat 2: mabeal1 (555 in chips) 
+Seat 3: mixclub151 (145 in chips) 
+catcoon: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Ah]
+mixclub151: folds 
+catcoon: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: catcoon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: mixclub151 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561666601: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:25:00 CET [2026/02/02 8:25:00 ET]
+Table '3971392974 1' 3-max Seat #1 is the button
+Seat 1: catcoon (785 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: mixclub151 (145 in chips) 
+mabeal1: posts small blind 15
+mixclub151: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9h]
+catcoon: folds 
+mabeal1: raises 30 to 60
+mixclub151: raises 85 to 145 and is all-in
+mabeal1: folds 
+Uncalled bet (85) returned to mixclub151
+mixclub151 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: catcoon (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: mixclub151 (big blind) collected (120)
+
+
+
+PokerStars Hand #259561668614: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:25:14 CET [2026/02/02 8:25:14 ET]
+Table '3971392974 1' 3-max Seat #2 is the button
+Seat 1: catcoon (785 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: mixclub151 (205 in chips) 
+mixclub151: posts small blind 15
+catcoon: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Qh]
+mabeal1: folds 
+mixclub151: folds 
+Uncalled bet (15) returned to catcoon
+catcoon collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: catcoon (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: mixclub151 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561670219: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 14:25:26 CET [2026/02/02 8:25:26 ET]
+Table '3971392974 1' 3-max Seat #3 is the button
+Seat 1: catcoon (800 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: mixclub151 (190 in chips) 
+catcoon: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Ks]
+mixclub151: folds 
+catcoon: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: catcoon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: mixclub151 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561671432: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:25:34 CET [2026/02/02 8:25:34 ET]
+Table '3971392974 1' 3-max Seat #1 is the button
+Seat 1: catcoon (785 in chips) 
+Seat 2: mabeal1 (525 in chips) 
+Seat 3: mixclub151 (190 in chips) 
+mabeal1: posts small blind 20
+mixclub151: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 2d]
+catcoon: raises 40 to 80
+mabeal1: folds 
+mixclub151: raises 110 to 190 and is all-in
+catcoon: calls 110
+*** FLOP *** [3h 5d 8d]
+*** TURN *** [3h 5d 8d] [As]
+*** RIVER *** [3h 5d 8d As] [9d]
+*** SHOW DOWN ***
+mixclub151: shows [7h Ah] (a pair of Aces)
+catcoon: shows [Kh 8s] (a pair of Eights)
+mixclub151 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [3h 5d 8d As 9d]
+Seat 1: catcoon (button) showed [Kh 8s] and lost with a pair of Eights
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: mixclub151 (big blind) showed [7h Ah] and won (400) with a pair of Aces
+
+
+
+PokerStars Hand #259561674185: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:25:55 CET [2026/02/02 8:25:55 ET]
+Table '3971392974 1' 3-max Seat #2 is the button
+Seat 1: catcoon (595 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: mixclub151 (400 in chips) 
+mixclub151: posts small blind 20
+catcoon: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 5h]
+mabeal1: folds 
+mixclub151: raises 40 to 80
+catcoon: folds 
+Uncalled bet (40) returned to mixclub151
+mixclub151 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: catcoon (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: mixclub151 (small blind) collected (80)
+
+
+
+PokerStars Hand #259561675297: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:26:03 CET [2026/02/02 8:26:03 ET]
+Table '3971392974 1' 3-max Seat #3 is the button
+Seat 1: catcoon (555 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: mixclub151 (440 in chips) 
+catcoon: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ah]
+mixclub151: calls 40
+catcoon: folds 
+mabeal1: raises 465 to 505 and is all-in
+mixclub151: folds 
+Uncalled bet (465) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: catcoon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (100)
+Seat 3: mixclub151 (button) folded before Flop
+
+
+
+PokerStars Hand #259561676874: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:26:15 CET [2026/02/02 8:26:15 ET]
+Table '3971392974 1' 3-max Seat #1 is the button
+Seat 1: catcoon (535 in chips) 
+Seat 2: mabeal1 (565 in chips) 
+Seat 3: mixclub151 (400 in chips) 
+mabeal1: posts small blind 20
+mixclub151: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 7c]
+catcoon: raises 40 to 80
+mabeal1: folds 
+mixclub151: calls 40
+*** FLOP *** [Ac As 3h]
+mixclub151: checks 
+catcoon: checks 
+*** TURN *** [Ac As 3h] [Ad]
+mixclub151: checks 
+catcoon: checks 
+*** RIVER *** [Ac As 3h Ad] [Ts]
+mixclub151: bets 320 and is all-in
+catcoon: folds 
+Uncalled bet (320) returned to mixclub151
+mixclub151 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ac As 3h Ad Ts]
+Seat 1: catcoon (button) folded on the River
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: mixclub151 (big blind) collected (180)
+
+
+
+PokerStars Hand #259561679904: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:26:37 CET [2026/02/02 8:26:37 ET]
+Table '3971392974 1' 3-max Seat #2 is the button
+Seat 1: catcoon (455 in chips) 
+Seat 2: mabeal1 (545 in chips) 
+Seat 3: mixclub151 (500 in chips) 
+mixclub151: posts small blind 20
+catcoon: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8h]
+mabeal1: folds 
+mixclub151: calls 20
+catcoon: checks 
+*** FLOP *** [5c Ah Ks]
+mixclub151: checks 
+catcoon: checks 
+*** TURN *** [5c Ah Ks] [9c]
+mixclub151: checks 
+catcoon: checks 
+*** RIVER *** [5c Ah Ks 9c] [2h]
+mixclub151: checks 
+catcoon: checks 
+*** SHOW DOWN ***
+mixclub151: shows [6d 9h] (a pair of Nines)
+catcoon: shows [9d Qs] (a pair of Nines - Ace+King+Queen kicker)
+catcoon collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5c Ah Ks 9c 2h]
+Seat 1: catcoon (big blind) showed [9d Qs] and won (80) with a pair of Nines
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: mixclub151 (small blind) showed [6d 9h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259561682638: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:26:57 CET [2026/02/02 8:26:57 ET]
+Table '3971392974 1' 3-max Seat #3 is the button
+Seat 1: catcoon (495 in chips) 
+Seat 2: mabeal1 (545 in chips) 
+Seat 3: mixclub151 (460 in chips) 
+catcoon: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 5s]
+mixclub151: folds 
+catcoon: calls 20
+mabeal1: checks 
+*** FLOP *** [4c Kd Ts]
+catcoon: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to catcoon
+catcoon collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c Kd Ts]
+Seat 1: catcoon (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: mixclub151 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561685246: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 14:27:17 CET [2026/02/02 8:27:17 ET]
+Table '3971392974 1' 3-max Seat #1 is the button
+Seat 1: catcoon (535 in chips) 
+Seat 2: mabeal1 (505 in chips) 
+Seat 3: mixclub151 (460 in chips) 
+mabeal1: posts small blind 20
+mixclub151: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Kc]
+catcoon: raises 40 to 80
+mabeal1: folds 
+mixclub151: folds 
+Uncalled bet (40) returned to catcoon
+catcoon collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: catcoon (button) collected (100)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: mixclub151 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259561687940: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 14:27:36 CET [2026/02/02 8:27:36 ET]
+Table '3971392974 1' 3-max Seat #2 is the button
+Seat 1: catcoon (595 in chips) 
+Seat 2: mabeal1 (485 in chips) 
+Seat 3: mixclub151 (420 in chips) 
+mixclub151: posts small blind 30
+catcoon: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 7h]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+mabeal1 has returned
+mixclub151: folds 
+Uncalled bet (30) returned to catcoon
+catcoon collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: catcoon (big blind) collected (60)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: mixclub151 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561690342: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 14:27:53 CET [2026/02/02 8:27:53 ET]
+Table '3971392974 1' 3-max Seat #3 is the button
+Seat 1: catcoon (625 in chips) 
+Seat 2: mabeal1 (485 in chips) 
+Seat 3: mixclub151 (390 in chips) 
+catcoon: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Kh]
+mixclub151: calls 60
+catcoon: folds 
+mabeal1: raises 60 to 120
+mixclub151: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: catcoon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (150)
+Seat 3: mixclub151 (button) folded before Flop
+
+
+
+PokerStars Hand #259561693259: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 14:28:15 CET [2026/02/02 8:28:15 ET]
+Table '3971392974 1' 3-max Seat #1 is the button
+Seat 1: catcoon (595 in chips) 
+Seat 2: mabeal1 (575 in chips) 
+Seat 3: mixclub151 (330 in chips) 
+mabeal1: posts small blind 30
+mixclub151: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4s]
+catcoon: folds 
+mabeal1: raises 60 to 120
+mixclub151: calls 60
+*** FLOP *** [6s 2h 9h]
+mabeal1: checks 
+mixclub151: checks 
+*** TURN *** [6s 2h 9h] [5c]
+mabeal1: checks 
+mixclub151: checks 
+*** RIVER *** [6s 2h 9h 5c] [7c]
+mabeal1: checks 
+mixclub151: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to mixclub151
+mixclub151 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6s 2h 9h 5c 7c]
+Seat 1: catcoon (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded on the River
+Seat 3: mixclub151 (big blind) collected (240)
+
+
+
+PokerStars Hand #259561697877: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 14:28:49 CET [2026/02/02 8:28:49 ET]
+Table '3971392974 1' 3-max Seat #2 is the button
+Seat 1: catcoon (595 in chips) 
+Seat 2: mabeal1 (455 in chips) 
+Seat 3: mixclub151 (450 in chips) 
+mixclub151: posts small blind 30
+catcoon: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 8d]
+mabeal1: folds 
+mixclub151: raises 60 to 120
+catcoon: calls 60
+*** FLOP *** [8s Ac 5h]
+mixclub151: bets 330 and is all-in
+catcoon: folds 
+Uncalled bet (330) returned to mixclub151
+mixclub151 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8s Ac 5h]
+Seat 1: catcoon (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: mixclub151 (small blind) collected (240)
+
+
+
+PokerStars Hand #259561700039: Tournament #3971392974, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 14:29:05 CET [2026/02/02 8:29:05 ET]
+Table '3971392974 1' 3-max Seat #3 is the button
+Seat 1: catcoon (475 in chips) 
+Seat 2: mabeal1 (455 in chips) 
+Seat 3: mixclub151 (570 in chips) 
+catcoon: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 9h]
+mixclub151: calls 60
+catcoon: folds 
+mabeal1: raises 395 to 455 and is all-in
+mixclub151: calls 395
+*** FLOP *** [Qs Jd 2h]
+*** TURN *** [Qs Jd 2h] [4h]
+*** RIVER *** [Qs Jd 2h 4h] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [Ac 9h] (high card Ace)
+mixclub151: shows [5h 5s] (a pair of Fives)
+mixclub151 collected 940 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Qs Jd 2h 4h 8h]
+Seat 1: catcoon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [Ac 9h] and lost with high card Ace
+Seat 3: mixclub151 (button) showed [5h 5s] and won (940) with a pair of Fives
+
+
+

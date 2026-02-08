@@ -1,0 +1,1100 @@
+﻿PokerStars Hand #259597331293: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:40:44 CET [2026/02/04 21:40:44 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (500 in chips) 
+Seat 2: leandrovki (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+leandrovki: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d As]
+Rosa26100: raises 20 to 40
+leandrovki: folds 
+mabeal1: calls 20
+*** FLOP *** [Td 6h Ac]
+mabeal1: checks 
+Rosa26100: bets 30
+mabeal1: calls 30
+*** TURN *** [Td 6h Ac] [6s]
+mabeal1: checks 
+Rosa26100: checks 
+*** RIVER *** [Td 6h Ac 6s] [Ts]
+mabeal1: bets 80
+Rosa26100: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Td 6h Ac 6s Ts]
+Seat 1: Rosa26100 (button) folded on the River
+Seat 2: leandrovki (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (150)
+
+
+
+PokerStars Hand #259597338203: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:41:38 CET [2026/02/04 21:41:38 ET]
+Table '3972198489 1' 3-max Seat #2 is the button
+Seat 1: Rosa26100 (430 in chips) 
+Seat 2: leandrovki (490 in chips) 
+Seat 3: mabeal1 (580 in chips) 
+mabeal1: posts small blind 10
+Rosa26100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7d]
+leandrovki: calls 20
+mabeal1: calls 10
+Rosa26100: checks 
+*** FLOP *** [6d 8h Th]
+mabeal1: checks 
+Rosa26100: bets 20
+leandrovki: calls 20
+mabeal1: calls 20
+*** TURN *** [6d 8h Th] [9d]
+mabeal1: checks 
+Rosa26100: checks 
+leandrovki: checks 
+*** RIVER *** [6d 8h Th 9d] [Jc]
+mabeal1: checks 
+Rosa26100: bets 118
+leandrovki: folds 
+mabeal1: calls 118
+*** SHOW DOWN ***
+Rosa26100: shows [Qc 9h] (a straight, Eight to Queen)
+mabeal1: mucks hand 
+Rosa26100 collected 356 from pot
+*** SUMMARY ***
+Total pot 356 | Rake 0 
+Board [6d 8h Th 9d Jc]
+Seat 1: Rosa26100 (big blind) showed [Qc 9h] and won (356) with a straight, Eight to Queen
+Seat 2: leandrovki (button) folded on the River
+Seat 3: mabeal1 (small blind) mucked [Kc 7d]
+
+
+
+PokerStars Hand #259597344814: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:42:30 CET [2026/02/04 21:42:30 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (628 in chips) 
+Seat 2: leandrovki (450 in chips) 
+Seat 3: mabeal1 (422 in chips) 
+Rosa26100: posts small blind 10
+leandrovki: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Ac]
+mabeal1: raises 20 to 40
+Rosa26100: folds 
+leandrovki: calls 20
+*** FLOP *** [5s 2c Kh]
+leandrovki: checks 
+mabeal1: bets 40
+leandrovki: calls 40
+*** TURN *** [5s 2c Kh] [Kc]
+leandrovki: checks 
+mabeal1: checks 
+*** RIVER *** [5s 2c Kh Kc] [2h]
+leandrovki: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+leandrovki: shows [Ah 8d] (two pair, Kings and Deuces)
+mabeal1: shows [4s Ac] (two pair, Kings and Deuces)
+leandrovki collected 85 from pot
+mabeal1 collected 85 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [5s 2c Kh Kc 2h]
+Seat 1: Rosa26100 (small blind) folded before Flop
+Seat 2: leandrovki (big blind) showed [Ah 8d] and won (85) with two pair, Kings and Deuces
+Seat 3: mabeal1 (button) showed [4s Ac] and won (85) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #259597350586: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:43:15 CET [2026/02/04 21:43:15 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (618 in chips) 
+Seat 2: leandrovki (455 in chips) 
+Seat 3: mabeal1 (427 in chips) 
+leandrovki: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ts]
+Rosa26100: folds 
+leandrovki: calls 10
+mabeal1: raises 40 to 60
+leandrovki: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Rosa26100 (button) folded before Flop (didn't bet)
+Seat 2: leandrovki (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259597352775: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 3:43:33 CET [2026/02/04 21:43:33 ET]
+Table '3972198489 1' 3-max Seat #2 is the button
+Seat 1: Rosa26100 (618 in chips) 
+Seat 2: leandrovki (435 in chips) 
+Seat 3: mabeal1 (447 in chips) 
+mabeal1: posts small blind 10
+Rosa26100: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 6h]
+leandrovki: calls 20
+mabeal1: raises 427 to 447 and is all-in
+Rosa26100: folds 
+leandrovki: folds 
+Uncalled bet (427) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Rosa26100 (big blind) folded before Flop
+Seat 2: leandrovki (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259597355515: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 3:43:55 CET [2026/02/04 21:43:55 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (598 in chips) 
+Seat 2: leandrovki (415 in chips) 
+Seat 3: mabeal1 (487 in chips) 
+Rosa26100: posts small blind 15
+leandrovki: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Js]
+mabeal1: raises 30 to 60
+Rosa26100: folds 
+leandrovki: calls 30
+*** FLOP *** [2h Ac 7d]
+leandrovki: checks 
+mabeal1: bets 45
+leandrovki: calls 45
+*** TURN *** [2h Ac 7d] [Ks]
+leandrovki: checks 
+mabeal1: checks 
+*** RIVER *** [2h Ac 7d Ks] [4s]
+leandrovki: bets 180
+mabeal1: folds 
+Uncalled bet (180) returned to leandrovki
+leandrovki collected 225 from pot
+leandrovki: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [2h Ac 7d Ks 4s]
+Seat 1: Rosa26100 (small blind) folded before Flop
+Seat 2: leandrovki (big blind) collected (225)
+Seat 3: mabeal1 (button) folded on the River
+
+
+
+PokerStars Hand #259597362836: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 3:44:53 CET [2026/02/04 21:44:53 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (583 in chips) 
+Seat 2: leandrovki (535 in chips) 
+Seat 3: mabeal1 (382 in chips) 
+leandrovki: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3c]
+Rosa26100: folds 
+leandrovki: calls 15
+mabeal1: checks 
+*** FLOP *** [4h Qs 8h]
+leandrovki: checks 
+mabeal1: bets 30
+leandrovki: calls 30
+*** TURN *** [4h Qs 8h] [Jh]
+leandrovki: checks 
+mabeal1: checks 
+*** RIVER *** [4h Qs 8h Jh] [Tc]
+leandrovki: bets 240
+mabeal1: folds 
+Uncalled bet (240) returned to leandrovki
+leandrovki collected 120 from pot
+leandrovki: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h Qs 8h Jh Tc]
+Seat 1: Rosa26100 (button) folded before Flop (didn't bet)
+Seat 2: leandrovki (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259597367116: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 3:45:27 CET [2026/02/04 21:45:27 ET]
+Table '3972198489 1' 3-max Seat #2 is the button
+Seat 1: Rosa26100 (583 in chips) 
+Seat 2: leandrovki (595 in chips) 
+Seat 3: mabeal1 (322 in chips) 
+mabeal1: posts small blind 15
+Rosa26100: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d As]
+leandrovki: calls 30
+mabeal1: raises 292 to 322 and is all-in
+Rosa26100: folds 
+leandrovki: calls 292
+*** FLOP *** [Qd Kd 5s]
+*** TURN *** [Qd Kd 5s] [7h]
+*** RIVER *** [Qd Kd 5s 7h] [Ah]
+*** SHOW DOWN ***
+mabeal1: shows [5d As] (two pair, Aces and Fives)
+leandrovki: shows [9s Ac] (a pair of Aces)
+mabeal1 collected 674 from pot
+*** SUMMARY ***
+Total pot 674 | Rake 0 
+Board [Qd Kd 5s 7h Ah]
+Seat 1: Rosa26100 (big blind) folded before Flop
+Seat 2: leandrovki (button) showed [9s Ac] and lost with a pair of Aces
+Seat 3: mabeal1 (small blind) showed [5d As] and won (674) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #259597369808: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 3:45:48 CET [2026/02/04 21:45:48 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (553 in chips) 
+Seat 2: leandrovki (273 in chips) 
+Seat 3: mabeal1 (674 in chips) 
+Rosa26100: posts small blind 15
+leandrovki: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 2c]
+mabeal1: folds 
+Rosa26100: calls 15
+leandrovki: checks 
+*** FLOP *** [2d 6h Ks]
+Rosa26100: checks 
+leandrovki: checks 
+*** TURN *** [2d 6h Ks] [4d]
+Rosa26100: checks 
+leandrovki: checks 
+*** RIVER *** [2d 6h Ks 4d] [Qd]
+Rosa26100: checks 
+leandrovki: bets 120
+Rosa26100: folds 
+Uncalled bet (120) returned to leandrovki
+leandrovki collected 60 from pot
+leandrovki: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d 6h Ks 4d Qd]
+Seat 1: Rosa26100 (small blind) folded on the River
+Seat 2: leandrovki (big blind) collected (60)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259597374199: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 3:46:22 CET [2026/02/04 21:46:22 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (523 in chips) 
+Seat 2: leandrovki (303 in chips) 
+Seat 3: mabeal1 (674 in chips) 
+leandrovki: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Ts]
+Rosa26100: raises 493 to 523 and is all-in
+leandrovki: calls 288 and is all-in
+mabeal1: folds 
+Uncalled bet (220) returned to Rosa26100
+*** FLOP *** [2d Jd 2s]
+*** TURN *** [2d Jd 2s] [4d]
+*** RIVER *** [2d Jd 2s 4d] [Qh]
+*** SHOW DOWN ***
+leandrovki: shows [8h 9h] (a pair of Deuces)
+Rosa26100: shows [5d 5s] (two pair, Fives and Deuces)
+Rosa26100 collected 636 from pot
+leandrovki finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 636 | Rake 0 
+Board [2d Jd 2s 4d Qh]
+Seat 1: Rosa26100 (button) showed [5d 5s] and won (636) with two pair, Fives and Deuces
+Seat 2: leandrovki (small blind) showed [8h 9h] and lost with a pair of Deuces
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259597376618: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 3:46:42 CET [2026/02/04 21:46:42 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (856 in chips) 
+Seat 3: mabeal1 (644 in chips) 
+mabeal1: posts small blind 15
+Rosa26100: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Qs]
+mabeal1: raises 30 to 60
+Rosa26100: calls 30
+*** FLOP *** [4h 3h Td]
+Rosa26100: checks 
+mabeal1: bets 60
+Rosa26100: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h 3h Td]
+Seat 1: Rosa26100 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259597378901: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:47:00 CET [2026/02/04 21:47:00 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (796 in chips) 
+Seat 3: mabeal1 (704 in chips) 
+Rosa26100: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7s]
+Rosa26100: calls 20
+mabeal1: checks 
+*** FLOP *** [Js 3s 8d]
+mabeal1: checks 
+Rosa26100: bets 40
+mabeal1: calls 40
+*** TURN *** [Js 3s 8d] [Td]
+mabeal1: checks 
+Rosa26100: checks 
+*** RIVER *** [Js 3s 8d Td] [Kc]
+mabeal1: bets 80
+Rosa26100: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Js 3s 8d Td Kc]
+Seat 1: Rosa26100 (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259597381115: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:47:17 CET [2026/02/04 21:47:17 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (716 in chips) 
+Seat 3: mabeal1 (784 in chips) 
+mabeal1: posts small blind 20
+Rosa26100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 8d]
+mabeal1: calls 20
+Rosa26100: checks 
+*** FLOP *** [4c 2c 2h]
+Rosa26100: checks 
+mabeal1: bets 40
+Rosa26100: calls 40
+*** TURN *** [4c 2c 2h] [Kc]
+Rosa26100: checks 
+mabeal1: checks 
+*** RIVER *** [4c 2c 2h Kc] [4h]
+Rosa26100: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Rosa26100: shows [6d 5d] (two pair, Fours and Deuces)
+mabeal1: shows [Th 8d] (two pair, Fours and Deuces)
+Rosa26100 collected 80 from pot
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c 2c 2h Kc 4h]
+Seat 1: Rosa26100 (big blind) showed [6d 5d] and won (80) with two pair, Fours and Deuces
+Seat 3: mabeal1 (button) (small blind) showed [Th 8d] and won (80) with two pair, Fours and Deuces
+
+
+
+PokerStars Hand #259597384112: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:47:41 CET [2026/02/04 21:47:41 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (716 in chips) 
+Seat 3: mabeal1 (784 in chips) 
+Rosa26100: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 2s]
+Rosa26100: calls 20
+mabeal1: raises 40 to 80
+Rosa26100: calls 40
+*** FLOP *** [7d 3c 4h]
+mabeal1: checks 
+Rosa26100: checks 
+*** TURN *** [7d 3c 4h] [5c]
+mabeal1: bets 80
+Rosa26100: calls 80
+*** RIVER *** [7d 3c 4h 5c] [8c]
+mabeal1: checks 
+Rosa26100: bets 160
+mabeal1: folds 
+Uncalled bet (160) returned to Rosa26100
+Rosa26100 collected 320 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [7d 3c 4h 5c 8c]
+Seat 1: Rosa26100 (button) (small blind) collected (320)
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259597387619: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:48:09 CET [2026/02/04 21:48:09 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (876 in chips) 
+Seat 3: mabeal1 (624 in chips) 
+mabeal1: posts small blind 20
+Rosa26100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Ts]
+mabeal1: calls 20
+Rosa26100: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to Rosa26100
+Rosa26100 collected 80 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Rosa26100 (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259597388579: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:48:16 CET [2026/02/04 21:48:16 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (916 in chips) 
+Seat 3: mabeal1 (584 in chips) 
+Rosa26100: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7c]
+Rosa26100: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to Rosa26100
+Rosa26100 collected 80 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Rosa26100 (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259597389341: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:48:22 CET [2026/02/04 21:48:22 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (956 in chips) 
+Seat 3: mabeal1 (544 in chips) 
+mabeal1: posts small blind 20
+Rosa26100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 5d]
+mabeal1: raises 504 to 544 and is all-in
+Rosa26100: folds 
+Uncalled bet (504) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Rosa26100 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259597390999: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:48:35 CET [2026/02/04 21:48:35 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (916 in chips) 
+Seat 3: mabeal1 (584 in chips) 
+Rosa26100: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 4h]
+Rosa26100: calls 20
+mabeal1: checks 
+*** FLOP *** [3s 2s 7c]
+mabeal1: checks 
+Rosa26100: bets 40
+mabeal1: raises 120 to 160
+Rosa26100: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3s 2s 7c]
+Seat 1: Rosa26100 (button) (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259597392781: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:48:50 CET [2026/02/04 21:48:50 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (836 in chips) 
+Seat 3: mabeal1 (664 in chips) 
+mabeal1: posts small blind 20
+Rosa26100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Qh]
+mabeal1: calls 20
+Rosa26100: raises 120 to 160
+mabeal1: folds 
+Uncalled bet (120) returned to Rosa26100
+Rosa26100 collected 80 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Rosa26100 (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259597393688: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:48:57 CET [2026/02/04 21:48:57 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (876 in chips) 
+Seat 3: mabeal1 (624 in chips) 
+Rosa26100: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d As]
+Rosa26100: calls 20
+mabeal1: raises 584 to 624 and is all-in
+Rosa26100: folds 
+Uncalled bet (584) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Rosa26100 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259597395297: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:49:10 CET [2026/02/04 21:49:10 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (836 in chips) 
+Seat 3: mabeal1 (664 in chips) 
+mabeal1: posts small blind 20
+Rosa26100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 6c]
+mabeal1: calls 20
+Rosa26100: checks 
+*** FLOP *** [9d 2h 3d]
+Rosa26100: checks 
+mabeal1: checks 
+*** TURN *** [9d 2h 3d] [2c]
+Rosa26100: checks 
+mabeal1: checks 
+*** RIVER *** [9d 2h 3d 2c] [5h]
+Rosa26100: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Rosa26100: shows [8h Ac] (a pair of Deuces)
+mabeal1: mucks hand 
+Rosa26100 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9d 2h 3d 2c 5h]
+Seat 1: Rosa26100 (big blind) showed [8h Ac] and won (80) with a pair of Deuces
+Seat 3: mabeal1 (button) (small blind) mucked [Jc 6c]
+
+
+
+PokerStars Hand #259597397790: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:49:30 CET [2026/02/04 21:49:30 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (876 in chips) 
+Seat 3: mabeal1 (624 in chips) 
+Rosa26100: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 6h]
+Rosa26100: calls 20
+mabeal1: checks 
+*** FLOP *** [Ts Kh Qs]
+mabeal1: checks 
+Rosa26100: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Rosa26100
+Rosa26100 collected 80 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts Kh Qs]
+Seat 1: Rosa26100 (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259597399344: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 3:49:42 CET [2026/02/04 21:49:42 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (916 in chips) 
+Seat 3: mabeal1 (584 in chips) 
+mabeal1: posts small blind 20
+Rosa26100: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 3c]
+mabeal1: calls 20
+Rosa26100: checks 
+*** FLOP *** [Jh 6s 7h]
+Rosa26100: checks 
+mabeal1: bets 40
+Rosa26100: calls 40
+*** TURN *** [Jh 6s 7h] [4c]
+Rosa26100: checks 
+mabeal1: bets 120
+Rosa26100: calls 120
+*** RIVER *** [Jh 6s 7h 4c] [7s]
+Rosa26100: checks 
+mabeal1: bets 384 and is all-in
+Rosa26100: folds 
+Uncalled bet (384) returned to mabeal1
+mabeal1 collected 400 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Jh 6s 7h 4c 7s]
+Seat 1: Rosa26100 (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (400)
+
+
+
+PokerStars Hand #259597402763: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:50:10 CET [2026/02/04 21:50:10 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (716 in chips) 
+Seat 3: mabeal1 (784 in chips) 
+Rosa26100: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 4c]
+Rosa26100: calls 30
+mabeal1: checks 
+*** FLOP *** [Ad 5s 3c]
+mabeal1: checks 
+Rosa26100: bets 60
+mabeal1: calls 60
+*** TURN *** [Ad 5s 3c] [Th]
+mabeal1: checks 
+Rosa26100: checks 
+*** RIVER *** [Ad 5s 3c Th] [Ah]
+mabeal1: bets 180
+Rosa26100: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ad 5s 3c Th Ah]
+Seat 1: Rosa26100 (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (240)
+
+
+
+PokerStars Hand #259597405128: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:50:29 CET [2026/02/04 21:50:29 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (596 in chips) 
+Seat 3: mabeal1 (904 in chips) 
+mabeal1: posts small blind 30
+Rosa26100: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 9d]
+mabeal1: calls 30
+Rosa26100: checks 
+*** FLOP *** [3c Ad 8c]
+Rosa26100: checks 
+mabeal1: bets 60
+Rosa26100: calls 60
+*** TURN *** [3c Ad 8c] [Qd]
+Rosa26100: checks 
+mabeal1: checks 
+*** RIVER *** [3c Ad 8c Qd] [6d]
+Rosa26100: bets 476 and is all-in
+mabeal1: folds 
+Uncalled bet (476) returned to Rosa26100
+Rosa26100 collected 240 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3c Ad 8c Qd 6d]
+Seat 1: Rosa26100 (big blind) collected (240)
+Seat 3: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259597408480: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:50:56 CET [2026/02/04 21:50:56 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (716 in chips) 
+Seat 3: mabeal1 (784 in chips) 
+Rosa26100: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ad]
+Rosa26100: calls 30
+mabeal1: raises 724 to 784 and is all-in
+Rosa26100: folds 
+Uncalled bet (724) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Rosa26100 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259597409453: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:51:03 CET [2026/02/04 21:51:03 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (656 in chips) 
+Seat 3: mabeal1 (844 in chips) 
+mabeal1: posts small blind 30
+Rosa26100: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 4h]
+mabeal1: calls 30
+Rosa26100: checks 
+*** FLOP *** [5h 4d 2c]
+Rosa26100: checks 
+mabeal1: bets 60
+Rosa26100: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [5h 4d 2c]
+Seat 1: Rosa26100 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259597411660: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:51:21 CET [2026/02/04 21:51:21 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (596 in chips) 
+Seat 3: mabeal1 (904 in chips) 
+Rosa26100: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7h]
+Rosa26100: calls 30
+mabeal1: checks 
+*** FLOP *** [9c Th Qd]
+mabeal1: checks 
+Rosa26100: checks 
+*** TURN *** [9c Th Qd] [2s]
+mabeal1: bets 90
+Rosa26100: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c Th Qd 2s]
+Seat 1: Rosa26100 (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259597414183: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:51:41 CET [2026/02/04 21:51:41 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (536 in chips) 
+Seat 3: mabeal1 (964 in chips) 
+mabeal1: posts small blind 30
+Rosa26100: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6s]
+mabeal1: calls 30
+Rosa26100: checks 
+*** FLOP *** [Td 4s 2h]
+Rosa26100: checks 
+mabeal1: bets 60
+Rosa26100: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Td 4s 2h]
+Seat 1: Rosa26100 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259597416266: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:51:58 CET [2026/02/04 21:51:58 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (476 in chips) 
+Seat 3: mabeal1 (1024 in chips) 
+Rosa26100: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 6s]
+Rosa26100: calls 30
+mabeal1: raises 964 to 1024 and is all-in
+Rosa26100: calls 416 and is all-in
+Uncalled bet (548) returned to mabeal1
+*** FLOP *** [9h 5c Qc]
+*** TURN *** [9h 5c Qc] [Jh]
+*** RIVER *** [9h 5c Qc Jh] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [Ac 6s] (high card Ace)
+Rosa26100: shows [7c Kd] (a pair of Sevens)
+Rosa26100 collected 952 from pot
+*** SUMMARY ***
+Total pot 952 | Rake 0 
+Board [9h 5c Qc Jh 7d]
+Seat 1: Rosa26100 (button) (small blind) showed [7c Kd] and won (952) with a pair of Sevens
+Seat 3: mabeal1 (big blind) showed [Ac 6s] and lost with high card Ace
+
+
+
+PokerStars Hand #259597418361: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:52:15 CET [2026/02/04 21:52:15 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (952 in chips) 
+Seat 3: mabeal1 (548 in chips) 
+mabeal1: posts small blind 30
+Rosa26100: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 6h]
+mabeal1: folds 
+Uncalled bet (30) returned to Rosa26100
+Rosa26100 collected 60 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Rosa26100 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259597419220: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:52:22 CET [2026/02/04 21:52:22 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (982 in chips) 
+Seat 3: mabeal1 (518 in chips) 
+Rosa26100: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Qc]
+Rosa26100: raises 60 to 120
+mabeal1: raises 60 to 180
+Rosa26100: calls 60
+*** FLOP *** [Ad Qd Kd]
+mabeal1: bets 338 and is all-in
+Rosa26100: folds 
+Uncalled bet (338) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ad Qd Kd]
+Seat 1: Rosa26100 (button) (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (360)
+
+
+
+PokerStars Hand #259597420605: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:52:33 CET [2026/02/04 21:52:33 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (802 in chips) 
+Seat 3: mabeal1 (698 in chips) 
+mabeal1: posts small blind 30
+Rosa26100: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3d]
+mabeal1: calls 30
+Rosa26100: raises 180 to 240
+mabeal1: folds 
+Uncalled bet (180) returned to Rosa26100
+Rosa26100 collected 120 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Rosa26100 (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259597421472: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 3:52:41 CET [2026/02/04 21:52:41 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (862 in chips) 
+Seat 3: mabeal1 (638 in chips) 
+Rosa26100: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 4s]
+Rosa26100: raises 60 to 120
+mabeal1: folds 
+Uncalled bet (60) returned to Rosa26100
+Rosa26100 collected 120 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Rosa26100 (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259597422543: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 3:52:49 CET [2026/02/04 21:52:49 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (922 in chips) 
+Seat 3: mabeal1 (578 in chips) 
+mabeal1: posts small blind 40
+Rosa26100: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Kh]
+mabeal1: raises 498 to 578 and is all-in
+Rosa26100: folds 
+Uncalled bet (498) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Rosa26100 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259597423168: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 3:52:55 CET [2026/02/04 21:52:55 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (842 in chips) 
+Seat 3: mabeal1 (658 in chips) 
+Rosa26100: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 2d]
+Rosa26100: raises 80 to 160
+mabeal1: folds 
+Uncalled bet (80) returned to Rosa26100
+Rosa26100 collected 160 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Rosa26100 (button) (small blind) collected (160)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259597423747: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 3:52:59 CET [2026/02/04 21:52:59 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (922 in chips) 
+Seat 3: mabeal1 (578 in chips) 
+mabeal1: posts small blind 40
+Rosa26100: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c As]
+mabeal1: raises 498 to 578 and is all-in
+Rosa26100: folds 
+Uncalled bet (498) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Rosa26100 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259597424430: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 3:53:05 CET [2026/02/04 21:53:05 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (842 in chips) 
+Seat 3: mabeal1 (658 in chips) 
+Rosa26100: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Jc]
+Rosa26100: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Rosa26100 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259597424881: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 3:53:09 CET [2026/02/04 21:53:09 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (802 in chips) 
+Seat 3: mabeal1 (698 in chips) 
+mabeal1: posts small blind 40
+Rosa26100: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 7s]
+mabeal1: calls 40
+Rosa26100: checks 
+*** FLOP *** [9d 9c 5s]
+Rosa26100: checks 
+mabeal1: bets 120
+Rosa26100: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9d 9c 5s]
+Seat 1: Rosa26100 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259597426063: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 3:53:19 CET [2026/02/04 21:53:19 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (722 in chips) 
+Seat 3: mabeal1 (778 in chips) 
+Rosa26100: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 7d]
+Rosa26100: raises 80 to 160
+mabeal1: raises 618 to 778 and is all-in
+Rosa26100: folds 
+Uncalled bet (618) returned to mabeal1
+mabeal1 collected 320 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: Rosa26100 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (320)
+
+
+
+PokerStars Hand #259597426842: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 3:53:25 CET [2026/02/04 21:53:25 ET]
+Table '3972198489 1' 3-max Seat #3 is the button
+Seat 1: Rosa26100 (562 in chips) 
+Seat 3: mabeal1 (938 in chips) 
+mabeal1: posts small blind 40
+Rosa26100: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 9c]
+mabeal1: calls 40
+Rosa26100: raises 168 to 248
+mabeal1: folds 
+Uncalled bet (168) returned to Rosa26100
+Rosa26100 collected 160 from pot
+Rosa26100: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Rosa26100 (big blind) collected (160)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259597427678: Tournament #3972198489, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/05 3:53:31 CET [2026/02/04 21:53:31 ET]
+Table '3972198489 1' 3-max Seat #1 is the button
+Seat 1: Rosa26100 (642 in chips) 
+Seat 3: mabeal1 (858 in chips) 
+Rosa26100: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Jh]
+Rosa26100: raises 562 to 642 and is all-in
+mabeal1: calls 562
+*** FLOP *** [7d 7s As]
+*** TURN *** [7d 7s As] [Qh]
+*** RIVER *** [7d 7s As Qh] [Tc]
+*** SHOW DOWN ***
+mabeal1: shows [Qc Jh] (two pair, Queens and Sevens)
+Rosa26100: shows [3h Ac] (two pair, Aces and Sevens)
+Rosa26100 collected 1284 from pot
+*** SUMMARY ***
+Total pot 1284 | Rake 0 
+Board [7d 7s As Qh Tc]
+Seat 1: Rosa26100 (button) (small blind) showed [3h Ac] and won (1284) with two pair, Aces and Sevens
+Seat 3: mabeal1 (big blind) showed [Qc Jh] and lost with two pair, Queens and Sevens
+
+
+

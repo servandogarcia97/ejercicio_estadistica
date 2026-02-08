@@ -1,0 +1,280 @@
+﻿PokerStars Hand #259576013875: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 15:19:27 CET [2026/02/03 9:19:27 ET]
+Table '3971708769 1' 3-max Seat #1 is the button
+Seat 1: Jessicacsmendon (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Chataigne59 (500 in chips) 
+mabeal1: posts small blind 10
+Chataigne59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Th]
+Jessicacsmendon: calls 20
+mabeal1: folds 
+Chataigne59: checks 
+*** FLOP *** [Ah As 4c]
+Chataigne59: bets 480 and is all-in
+Jessicacsmendon: folds 
+Uncalled bet (480) returned to Chataigne59
+Chataigne59 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Ah As 4c]
+Seat 1: Jessicacsmendon (button) folded on the Flop
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Chataigne59 (big blind) collected (50)
+
+
+
+PokerStars Hand #259576016804: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 15:19:46 CET [2026/02/03 9:19:46 ET]
+Table '3971708769 1' 3-max Seat #2 is the button
+Seat 1: Jessicacsmendon (480 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Chataigne59 (530 in chips) 
+Chataigne59: posts small blind 10
+Jessicacsmendon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 7h]
+mabeal1: raises 20 to 40
+Chataigne59: folds 
+Jessicacsmendon: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Jessicacsmendon (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: Chataigne59 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576018325: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 15:19:56 CET [2026/02/03 9:19:56 ET]
+Table '3971708769 1' 3-max Seat #3 is the button
+Seat 1: Jessicacsmendon (460 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Chataigne59 (520 in chips) 
+Jessicacsmendon: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 6h]
+Chataigne59: calls 20
+Jessicacsmendon: folds 
+mabeal1: checks 
+*** FLOP *** [Kc Jh Th]
+mabeal1: checks 
+Chataigne59: checks 
+*** TURN *** [Kc Jh Th] [6s]
+mabeal1: checks 
+Chataigne59: checks 
+*** RIVER *** [Kc Jh Th 6s] [4s]
+mabeal1: bets 20
+Chataigne59: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Kc Jh Th 6s 4s]
+Seat 1: Jessicacsmendon (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (50)
+Seat 3: Chataigne59 (button) folded on the River
+
+
+
+PokerStars Hand #259576021277: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 15:20:17 CET [2026/02/03 9:20:17 ET]
+Table '3971708769 1' 3-max Seat #1 is the button
+Seat 1: Jessicacsmendon (450 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: Chataigne59 (500 in chips) 
+mabeal1: posts small blind 10
+Chataigne59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 3h]
+Jessicacsmendon: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Chataigne59
+Chataigne59 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Jessicacsmendon (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Chataigne59 (big blind) collected (20)
+
+
+
+PokerStars Hand #259576022304: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 15:20:23 CET [2026/02/03 9:20:23 ET]
+Table '3971708769 1' 3-max Seat #2 is the button
+Seat 1: Jessicacsmendon (450 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Chataigne59 (510 in chips) 
+Chataigne59: posts small blind 10
+Jessicacsmendon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Qh]
+mabeal1: folds 
+Chataigne59: calls 10
+Jessicacsmendon: checks 
+*** FLOP *** [9h Td Th]
+Chataigne59: checks 
+Jessicacsmendon: checks 
+*** TURN *** [9h Td Th] [9d]
+Chataigne59: checks 
+Jessicacsmendon: checks 
+*** RIVER *** [9h Td Th 9d] [4h]
+Chataigne59: checks 
+Jessicacsmendon: checks 
+*** SHOW DOWN ***
+Chataigne59: shows [5d Kh] (two pair, Tens and Nines)
+Jessicacsmendon: mucks hand 
+Chataigne59 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9h Td Th 9d 4h]
+Seat 1: Jessicacsmendon (big blind) mucked [4d Js]
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Chataigne59 (small blind) showed [5d Kh] and won (40) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #259576025037: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 15:20:42 CET [2026/02/03 9:20:42 ET]
+Table '3971708769 1' 3-max Seat #3 is the button
+Seat 1: Jessicacsmendon (430 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Chataigne59 (530 in chips) 
+Jessicacsmendon: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 8s]
+Chataigne59: folds 
+Jessicacsmendon: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to Jessicacsmendon
+Jessicacsmendon collected 40 from pot
+Jessicacsmendon: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jessicacsmendon (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Chataigne59 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259576026430: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 15:20:51 CET [2026/02/03 9:20:51 ET]
+Table '3971708769 1' 3-max Seat #1 is the button
+Seat 1: Jessicacsmendon (450 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Chataigne59 (530 in chips) 
+mabeal1: posts small blind 10
+Chataigne59: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 5d]
+Jessicacsmendon: raises 40 to 60
+mabeal1: folds 
+Chataigne59: calls 40
+*** FLOP *** [Jd 7h 8h]
+Chataigne59: checks 
+Jessicacsmendon: bets 120
+Chataigne59: calls 120
+*** TURN *** [Jd 7h 8h] [2s]
+Chataigne59: bets 350 and is all-in
+Jessicacsmendon: calls 270 and is all-in
+Uncalled bet (80) returned to Chataigne59
+*** RIVER *** [Jd 7h 8h 2s] [4h]
+*** SHOW DOWN ***
+Chataigne59: shows [7c Td] (a pair of Sevens)
+Jessicacsmendon: shows [Jh Qh] (a flush, Queen high)
+Jessicacsmendon collected 910 from pot
+*** SUMMARY ***
+Total pot 910 | Rake 0 
+Board [Jd 7h 8h 2s 4h]
+Seat 1: Jessicacsmendon (button) showed [Jh Qh] and won (910) with a flush, Queen high
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Chataigne59 (big blind) showed [7c Td] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #259576031033: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 15:21:22 CET [2026/02/03 9:21:22 ET]
+Table '3971708769 1' 3-max Seat #2 is the button
+Seat 1: Jessicacsmendon (910 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: Chataigne59 (80 in chips) 
+Chataigne59: posts small blind 10
+Jessicacsmendon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Js]
+mabeal1: raises 20 to 40
+Chataigne59: raises 40 to 80 and is all-in
+Jessicacsmendon: calls 60
+mabeal1: raises 430 to 510 and is all-in
+Jessicacsmendon: folds 
+Uncalled bet (430) returned to mabeal1
+*** FLOP *** [Jd Th 3c]
+*** TURN *** [Jd Th 3c] [Kd]
+*** RIVER *** [Jd Th 3c Kd] [5s]
+*** SHOW DOWN ***
+Chataigne59: shows [Kc 2s] (a pair of Kings)
+mabeal1: shows [Jh Js] (three of a kind, Jacks)
+mabeal1 collected 240 from pot
+Chataigne59 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jd Th 3c Kd 5s]
+Seat 1: Jessicacsmendon (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [Jh Js] and won (240) with three of a kind, Jacks
+Seat 3: Chataigne59 (small blind) showed [Kc 2s] and lost with a pair of Kings
+
+
+
+PokerStars Hand #259576035007: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 15:21:49 CET [2026/02/03 9:21:49 ET]
+Table '3971708769 1' 3-max Seat #1 is the button
+Seat 1: Jessicacsmendon (830 in chips) 
+Seat 2: mabeal1 (670 in chips) 
+Jessicacsmendon: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ad]
+Jessicacsmendon: raises 30 to 60
+mabeal1: raises 610 to 670 and is all-in
+Jessicacsmendon: calls 610
+*** FLOP *** [8s Qh Qc]
+*** TURN *** [8s Qh Qc] [Th]
+*** RIVER *** [8s Qh Qc Th] [Jc]
+*** SHOW DOWN ***
+mabeal1: shows [Kh Ad] (a straight, Ten to Ace)
+Jessicacsmendon: shows [3h 3c] (two pair, Queens and Threes)
+mabeal1 collected 1340 from pot
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [8s Qh Qc Th Jc]
+Seat 1: Jessicacsmendon (button) (small blind) showed [3h 3c] and lost with two pair, Queens and Threes
+Seat 2: mabeal1 (big blind) showed [Kh Ad] and won (1340) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #259576037298: Tournament #3971708769, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 15:22:04 CET [2026/02/03 9:22:04 ET]
+Table '3971708769 1' 3-max Seat #2 is the button
+Seat 1: Jessicacsmendon (160 in chips) 
+Seat 2: mabeal1 (1340 in chips) 
+mabeal1: posts small blind 15
+Jessicacsmendon: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7h]
+mabeal1: raises 1310 to 1340 and is all-in
+Jessicacsmendon: calls 130 and is all-in
+Uncalled bet (1180) returned to mabeal1
+*** FLOP *** [9s Ad Td]
+*** TURN *** [9s Ad Td] [8c]
+*** RIVER *** [9s Ad Td 8c] [2h]
+*** SHOW DOWN ***
+Jessicacsmendon: shows [Qd 5d] (high card Ace)
+mabeal1: shows [Jd 7h] (a straight, Seven to Jack)
+mabeal1 collected 320 from pot
+Jessicacsmendon finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [9s Ad Td 8c 2h]
+Seat 1: Jessicacsmendon (big blind) showed [Qd 5d] and lost with high card Ace
+Seat 2: mabeal1 (button) (small blind) showed [Jd 7h] and won (320) with a straight, Seven to Jack
+
+
+

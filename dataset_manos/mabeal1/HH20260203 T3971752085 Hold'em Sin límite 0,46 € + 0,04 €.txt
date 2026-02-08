@@ -1,0 +1,123 @@
+﻿PokerStars Hand #259577774031: Tournament #3971752085, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:11:37 CET [2026/02/03 12:11:37 ET]
+Table '3971752085 1' 3-max Seat #1 is the button
+Seat 1: michael29810 (500 in chips) 
+Seat 2: titice37 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+titice37: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 2h]
+michael29810: calls 20
+titice37: raises 460 to 480
+mabeal1: folds 
+michael29810: folds 
+Uncalled bet (460) returned to titice37
+titice37 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: michael29810 (button) folded before Flop
+Seat 2: titice37 (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577777110: Tournament #3971752085, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:11:52 CET [2026/02/03 12:11:52 ET]
+Table '3971752085 1' 3-max Seat #2 is the button
+Seat 1: michael29810 (480 in chips) 
+Seat 2: titice37 (540 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+michael29810: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Kc]
+titice37: folds 
+mabeal1: raises 30 to 50
+michael29810: calls 30
+*** FLOP *** [8d Qh 2d]
+mabeal1: bets 40
+michael29810: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to michael29810
+michael29810 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8d Qh 2d]
+Seat 1: michael29810 (big blind) collected (180)
+Seat 2: titice37 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259577783390: Tournament #3971752085, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:12:23 CET [2026/02/03 12:12:23 ET]
+Table '3971752085 1' 3-max Seat #3 is the button
+Seat 1: michael29810 (570 in chips) 
+Seat 2: titice37 (540 in chips) 
+Seat 3: mabeal1 (390 in chips) 
+michael29810: posts small blind 10
+titice37: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Tc]
+mabeal1: folds 
+michael29810: calls 10
+titice37: checks 
+*** FLOP *** [2h Qh 6s]
+michael29810: checks 
+titice37 has timed out
+titice37: checks 
+*** TURN *** [2h Qh 6s] [Ad]
+michael29810: checks 
+titice37: bets 20
+michael29810: calls 20
+*** RIVER *** [2h Qh 6s Ad] [3h]
+michael29810: checks 
+titice37: bets 80
+michael29810: folds 
+Uncalled bet (80) returned to titice37
+titice37 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h Qh 6s Ad 3h]
+Seat 1: michael29810 (small blind) folded on the River
+Seat 2: titice37 (big blind) collected (80)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259577794448: Tournament #3971752085, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 18:13:17 CET [2026/02/03 12:13:17 ET]
+Table '3971752085 1' 3-max Seat #1 is the button
+Seat 1: michael29810 (530 in chips) 
+Seat 2: titice37 (580 in chips) 
+Seat 3: mabeal1 (390 in chips) 
+titice37: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Th]
+michael29810: raises 40 to 60
+titice37: folds 
+mabeal1: calls 40
+*** FLOP *** [6s 3h 2h]
+mabeal1: checks 
+michael29810: checks 
+*** TURN *** [6s 3h 2h] [Qd]
+mabeal1: bets 98
+michael29810: raises 98 to 196
+mabeal1: calls 98
+*** RIVER *** [6s 3h 2h Qd] [7c]
+mabeal1: checks 
+michael29810: bets 261
+mabeal1: calls 134 and is all-in
+Uncalled bet (127) returned to michael29810
+*** SHOW DOWN ***
+michael29810: shows [Qc Kh] (a pair of Queens)
+mabeal1: shows [6h Th] (a pair of Sixes)
+michael29810 collected 790 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [6s 3h 2h Qd 7c]
+Seat 1: michael29810 (button) showed [Qc Kh] and won (790) with a pair of Queens
+Seat 2: titice37 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [6h Th] and lost with a pair of Sixes
+
+
+

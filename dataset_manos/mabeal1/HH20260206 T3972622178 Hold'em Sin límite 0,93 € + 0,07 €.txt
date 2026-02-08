@@ -1,0 +1,336 @@
+﻿PokerStars Hand #259615261453: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:32:12 CET [2026/02/06 9:32:12 ET]
+Table '3972622178 1' 3-max Seat #1 is the button
+Seat 1: raqgui (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: BabyCarlito (500 in chips) 
+mabeal1: posts small blind 10
+BabyCarlito: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 7d]
+raqgui: raises 480 to 500 and is all-in
+mabeal1: folds 
+BabyCarlito: folds 
+Uncalled bet (480) returned to raqgui
+raqgui collected 50 from pot
+raqgui: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: raqgui (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: BabyCarlito (big blind) folded before Flop
+
+
+
+PokerStars Hand #259615262767: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:32:20 CET [2026/02/06 9:32:20 ET]
+Table '3972622178 1' 3-max Seat #2 is the button
+Seat 1: raqgui (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: BabyCarlito (480 in chips) 
+BabyCarlito: posts small blind 10
+raqgui: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 5s]
+mabeal1: folds 
+BabyCarlito: folds 
+Uncalled bet (10) returned to raqgui
+raqgui collected 20 from pot
+raqgui: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: raqgui (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: BabyCarlito (small blind) folded before Flop
+
+
+
+PokerStars Hand #259615264521: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:32:32 CET [2026/02/06 9:32:32 ET]
+Table '3972622178 1' 3-max Seat #3 is the button
+Seat 1: raqgui (540 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: BabyCarlito (470 in chips) 
+raqgui: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4d]
+BabyCarlito: raises 20 to 40
+raqgui: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to BabyCarlito
+BabyCarlito collected 50 from pot
+BabyCarlito: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: raqgui (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: BabyCarlito (button) collected (50)
+
+
+
+PokerStars Hand #259615265802: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:32:40 CET [2026/02/06 9:32:40 ET]
+Table '3972622178 1' 3-max Seat #1 is the button
+Seat 1: raqgui (530 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: BabyCarlito (500 in chips) 
+mabeal1: posts small blind 10
+BabyCarlito: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc As]
+raqgui: folds 
+mabeal1: raises 20 to 40
+BabyCarlito: raises 460 to 500 and is all-in
+mabeal1: calls 430 and is all-in
+Uncalled bet (30) returned to BabyCarlito
+*** FLOP *** [Th 3h 6d]
+*** TURN *** [Th 3h 6d] [6h]
+*** RIVER *** [Th 3h 6d 6h] [Ad]
+*** SHOW DOWN ***
+mabeal1: shows [Kc As] (two pair, Aces and Sixes)
+BabyCarlito: shows [Ac Qh] (two pair, Aces and Sixes - lower kicker)
+mabeal1 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Th 3h 6d 6h Ad]
+Seat 1: raqgui (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Kc As] and won (940) with two pair, Aces and Sixes
+Seat 3: BabyCarlito (big blind) showed [Ac Qh] and lost with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #259615268189: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:32:56 CET [2026/02/06 9:32:56 ET]
+Table '3972622178 1' 3-max Seat #2 is the button
+Seat 1: raqgui (530 in chips) 
+Seat 2: mabeal1 (940 in chips) 
+Seat 3: BabyCarlito (30 in chips) 
+BabyCarlito: posts small blind 10
+raqgui: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5s]
+mabeal1: folds 
+BabyCarlito: raises 10 to 30 and is all-in
+raqgui: calls 10
+*** FLOP *** [7d 9h Qs]
+*** TURN *** [7d 9h Qs] [8s]
+*** RIVER *** [7d 9h Qs 8s] [Jc]
+*** SHOW DOWN ***
+BabyCarlito: shows [4h 5c] (high card Queen)
+raqgui: shows [4s 8h] (a pair of Eights)
+raqgui collected 60 from pot
+BabyCarlito finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 9h Qs 8s Jc]
+Seat 1: raqgui (big blind) showed [4s 8h] and won (60) with a pair of Eights
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: BabyCarlito (small blind) showed [4h 5c] and lost with high card Queen
+
+
+
+PokerStars Hand #259615271450: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:33:17 CET [2026/02/06 9:33:17 ET]
+Table '3972622178 1' 3-max Seat #1 is the button
+Seat 1: raqgui (560 in chips) 
+Seat 2: mabeal1 (940 in chips) 
+raqgui: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 2c]
+raqgui: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: raqgui (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259615272114: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:33:22 CET [2026/02/06 9:33:22 ET]
+Table '3972622178 1' 3-max Seat #2 is the button
+Seat 1: raqgui (550 in chips) 
+Seat 2: mabeal1 (950 in chips) 
+mabeal1: posts small blind 10
+raqgui: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qs]
+mabeal1: calls 10
+raqgui: raises 530 to 550 and is all-in
+mabeal1: folds 
+Uncalled bet (530) returned to raqgui
+raqgui collected 40 from pot
+raqgui: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: raqgui (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259615273325: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:33:30 CET [2026/02/06 9:33:30 ET]
+Table '3972622178 1' 3-max Seat #1 is the button
+Seat 1: raqgui (570 in chips) 
+Seat 2: mabeal1 (930 in chips) 
+raqgui: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Jh]
+raqgui: calls 10
+mabeal1: checks 
+*** FLOP *** [Td Ad 4h]
+mabeal1: checks 
+raqgui: bets 20
+mabeal1: raises 40 to 60
+raqgui: calls 40
+*** TURN *** [Td Ad 4h] [2c]
+mabeal1: bets 120
+raqgui: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Td Ad 4h 2c]
+Seat 1: raqgui (button) (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259615275998: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:33:48 CET [2026/02/06 9:33:48 ET]
+Table '3972622178 1' 3-max Seat #2 is the button
+Seat 1: raqgui (490 in chips) 
+Seat 2: mabeal1 (1010 in chips) 
+mabeal1: posts small blind 10
+raqgui: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 8h]
+mabeal1: calls 10
+raqgui: raises 470 to 490 and is all-in
+mabeal1: folds 
+Uncalled bet (470) returned to raqgui
+raqgui collected 40 from pot
+raqgui: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: raqgui (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259615277078: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:33:55 CET [2026/02/06 9:33:55 ET]
+Table '3972622178 1' 3-max Seat #1 is the button
+Seat 1: raqgui (510 in chips) 
+Seat 2: mabeal1 (990 in chips) 
+raqgui: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c As]
+raqgui: raises 490 to 510 and is all-in
+mabeal1: folds 
+Uncalled bet (490) returned to raqgui
+raqgui collected 40 from pot
+raqgui: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: raqgui (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259615278410: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:34:04 CET [2026/02/06 9:34:04 ET]
+Table '3972622178 1' 3-max Seat #2 is the button
+Seat 1: raqgui (530 in chips) 
+Seat 2: mabeal1 (970 in chips) 
+mabeal1: posts small blind 10
+raqgui: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 7c]
+mabeal1: calls 10
+raqgui: checks 
+*** FLOP *** [Th 3c 3h]
+raqgui: checks 
+mabeal1: bets 20
+raqgui: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th 3c 3h]
+Seat 1: raqgui (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259615280391: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 15:34:17 CET [2026/02/06 9:34:17 ET]
+Table '3972622178 1' 3-max Seat #1 is the button
+Seat 1: raqgui (510 in chips) 
+Seat 2: mabeal1 (990 in chips) 
+raqgui: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Qd]
+raqgui: raises 480 to 510 and is all-in
+mabeal1: folds 
+Uncalled bet (480) returned to raqgui
+raqgui collected 60 from pot
+raqgui: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: raqgui (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259615281490: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 15:34:24 CET [2026/02/06 9:34:24 ET]
+Table '3972622178 1' 3-max Seat #2 is the button
+Seat 1: raqgui (540 in chips) 
+Seat 2: mabeal1 (960 in chips) 
+mabeal1: posts small blind 15
+raqgui: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8h]
+mabeal1: calls 15
+raqgui: raises 510 to 540 and is all-in
+mabeal1: folds 
+Uncalled bet (510) returned to raqgui
+raqgui collected 60 from pot
+raqgui: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: raqgui (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259615283391: Tournament #3972622178, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 15:34:36 CET [2026/02/06 9:34:36 ET]
+Table '3972622178 1' 3-max Seat #1 is the button
+Seat 1: raqgui (570 in chips) 
+Seat 2: mabeal1 (930 in chips) 
+raqgui: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 6d]
+raqgui: calls 15
+mabeal1: checks 
+*** FLOP *** [6s 4d As]
+mabeal1: checks 
+raqgui: bets 60
+mabeal1: calls 60
+*** TURN *** [6s 4d As] [2d]
+mabeal1: checks 
+raqgui: bets 480 and is all-in
+mabeal1: calls 480
+*** RIVER *** [6s 4d As 2d] [Jc]
+*** SHOW DOWN ***
+mabeal1: shows [4h 6d] (two pair, Sixes and Fours)
+raqgui: shows [5h Ah] (a pair of Aces)
+mabeal1 collected 1140 from pot
+raqgui finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [6s 4d As 2d Jc]
+Seat 1: raqgui (button) (small blind) showed [5h Ah] and lost with a pair of Aces
+Seat 2: mabeal1 (big blind) showed [4h 6d] and won (1140) with two pair, Sixes and Fours
+
+
+

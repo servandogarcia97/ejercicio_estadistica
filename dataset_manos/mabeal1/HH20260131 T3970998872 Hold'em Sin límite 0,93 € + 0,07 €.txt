@@ -1,0 +1,623 @@
+﻿PokerStars Hand #259543494625: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:16:55 CET [2026/01/31 21:16:55 ET]
+Table '3970998872 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: ruisilver (500 in chips) 
+Seat 3: pescadili r (500 in chips) 
+ruisilver: posts small blind 10
+pescadili r: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Kh]
+mabeal1: raises 20 to 40
+ruisilver: folds 
+pescadili r: calls 20
+*** FLOP *** [4s 7d 2c]
+pescadili r: checks 
+mabeal1: checks 
+*** TURN *** [4s 7d 2c] [7s]
+pescadili r: checks 
+mabeal1: checks 
+*** RIVER *** [4s 7d 2c 7s] [Ah]
+pescadili r: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+pescadili r: shows [9c 6d] (a pair of Sevens)
+mabeal1: shows [8d Kh] (a pair of Sevens - Ace+King kicker)
+mabeal1 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4s 7d 2c 7s Ah]
+Seat 1: mabeal1 (button) showed [8d Kh] and won (90) with a pair of Sevens
+Seat 2: ruisilver (small blind) folded before Flop
+Seat 3: pescadili r (big blind) showed [9c 6d] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #259543501218: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:17:44 CET [2026/01/31 21:17:44 ET]
+Table '3970998872 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: ruisilver (490 in chips) 
+Seat 3: pescadili r (460 in chips) 
+pescadili r: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 3c]
+ruisilver: calls 20
+pescadili r: calls 10
+mabeal1: raises 530 to 550 and is all-in
+ruisilver: folds 
+pescadili r: folds 
+Uncalled bet (530) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: ruisilver (button) folded before Flop
+Seat 3: pescadili r (small blind) folded before Flop
+
+
+
+PokerStars Hand #259543503884: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:18:03 CET [2026/01/31 21:18:03 ET]
+Table '3970998872 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (590 in chips) 
+Seat 2: ruisilver (470 in chips) 
+Seat 3: pescadili r (440 in chips) 
+mabeal1: posts small blind 10
+ruisilver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Ks]
+pescadili r: raises 20 to 40
+mabeal1: calls 30
+ruisilver: folds 
+*** FLOP *** [Qd 7c 4d]
+mabeal1: checks 
+pescadili r: checks 
+*** TURN *** [Qd 7c 4d] [8c]
+mabeal1: bets 75
+pescadili r: calls 75
+*** RIVER *** [Qd 7c 4d 8c] [3c]
+mabeal1: bets 188
+pescadili r: calls 188
+*** SHOW DOWN ***
+mabeal1: shows [Qh Ks] (a pair of Queens)
+pescadili r: mucks hand 
+mabeal1 collected 626 from pot
+*** SUMMARY ***
+Total pot 626 | Rake 0 
+Board [Qd 7c 4d 8c 3c]
+Seat 1: mabeal1 (small blind) showed [Qh Ks] and won (626) with a pair of Queens
+Seat 2: ruisilver (big blind) folded before Flop
+Seat 3: pescadili r (button) mucked [2h Ad]
+
+
+
+PokerStars Hand #259543506765: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:18:24 CET [2026/01/31 21:18:24 ET]
+Table '3970998872 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (913 in chips) 
+Seat 2: ruisilver (450 in chips) 
+Seat 3: pescadili r (137 in chips) 
+ruisilver: posts small blind 10
+pescadili r: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3c]
+mabeal1: folds 
+ruisilver: calls 10
+pescadili r: raises 117 to 137 and is all-in
+ruisilver: folds 
+Uncalled bet (117) returned to pescadili r
+pescadili r collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: ruisilver (small blind) folded before Flop
+Seat 3: pescadili r (big blind) collected (40)
+
+
+
+PokerStars Hand #259543508651: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:18:38 CET [2026/01/31 21:18:38 ET]
+Table '3970998872 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (913 in chips) 
+Seat 2: ruisilver (430 in chips) 
+Seat 3: pescadili r (157 in chips) 
+pescadili r: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Td]
+ruisilver: calls 20
+pescadili r: calls 10
+mabeal1: checks 
+*** FLOP *** [2s Ah 6h]
+pescadili r: bets 20
+mabeal1: folds 
+ruisilver: folds 
+Uncalled bet (20) returned to pescadili r
+pescadili r collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2s Ah 6h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: ruisilver (button) folded on the Flop
+Seat 3: pescadili r (small blind) collected (60)
+
+
+
+PokerStars Hand #259543511153: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:18:56 CET [2026/01/31 21:18:56 ET]
+Table '3970998872 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (893 in chips) 
+Seat 2: ruisilver (410 in chips) 
+Seat 3: pescadili r (197 in chips) 
+mabeal1: posts small blind 10
+ruisilver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 5h]
+pescadili r: calls 20
+mabeal1: folds 
+ruisilver: checks 
+*** FLOP *** [Tc Ks 7h]
+ruisilver: checks 
+pescadili r: bets 20
+ruisilver: folds 
+Uncalled bet (20) returned to pescadili r
+pescadili r collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Tc Ks 7h]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: ruisilver (big blind) folded on the Flop
+Seat 3: pescadili r (button) collected (50)
+
+
+
+PokerStars Hand #259543513816: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:19:16 CET [2026/01/31 21:19:16 ET]
+Table '3970998872 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (883 in chips) 
+Seat 2: ruisilver (390 in chips) 
+Seat 3: pescadili r (227 in chips) 
+ruisilver: posts small blind 10
+pescadili r: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 4h]
+mabeal1: folds 
+ruisilver: raises 20 to 40
+pescadili r: calls 20
+*** FLOP *** [6h 7s Qs]
+ruisilver: checks 
+pescadili r: checks 
+*** TURN *** [6h 7s Qs] [As]
+ruisilver: bets 20
+pescadili r: folds 
+Uncalled bet (20) returned to ruisilver
+ruisilver collected 80 from pot
+ruisilver: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 7s Qs As]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: ruisilver (small blind) collected (80)
+Seat 3: pescadili r (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259543516113: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:19:34 CET [2026/01/31 21:19:34 ET]
+Table '3970998872 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (883 in chips) 
+Seat 2: ruisilver (430 in chips) 
+Seat 3: pescadili r (187 in chips) 
+pescadili r: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Ac]
+ruisilver: folds 
+pescadili r: calls 10
+mabeal1: raises 863 to 883 and is all-in
+pescadili r: calls 167 and is all-in
+Uncalled bet (696) returned to mabeal1
+*** FLOP *** [6h 5s 8c]
+*** TURN *** [6h 5s 8c] [7s]
+*** RIVER *** [6h 5s 8c 7s] [4h]
+*** SHOW DOWN ***
+pescadili r: shows [5c 2d] (a straight, Four to Eight)
+mabeal1: shows [7h Ac] (a straight, Four to Eight)
+pescadili r collected 187 from pot
+mabeal1 collected 187 from pot
+*** SUMMARY ***
+Total pot 374 | Rake 0 
+Board [6h 5s 8c 7s 4h]
+Seat 1: mabeal1 (big blind) showed [7h Ac] and won (187) with a straight, Four to Eight
+Seat 2: ruisilver (button) folded before Flop (didn't bet)
+Seat 3: pescadili r (small blind) showed [5c 2d] and won (187) with a straight, Four to Eight
+
+
+
+PokerStars Hand #259543518411: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 3:19:51 CET [2026/01/31 21:19:51 ET]
+Table '3970998872 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (883 in chips) 
+Seat 2: ruisilver (430 in chips) 
+Seat 3: pescadili r (187 in chips) 
+mabeal1: posts small blind 10
+ruisilver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Qc]
+pescadili r: calls 20
+mabeal1: raises 863 to 883 and is all-in
+ruisilver: folds 
+pescadili r: calls 167 and is all-in
+Uncalled bet (696) returned to mabeal1
+*** FLOP *** [6c 3c 8s]
+*** TURN *** [6c 3c 8s] [Jc]
+*** RIVER *** [6c 3c 8s Jc] [5s]
+*** SHOW DOWN ***
+mabeal1: shows [As Qc] (high card Ace)
+pescadili r: shows [9c 3d] (a pair of Threes)
+pescadili r collected 394 from pot
+*** SUMMARY ***
+Total pot 394 | Rake 0 
+Board [6c 3c 8s Jc 5s]
+Seat 1: mabeal1 (small blind) showed [As Qc] and lost with high card Ace
+Seat 2: ruisilver (big blind) folded before Flop
+Seat 3: pescadili r (button) showed [9c 3d] and won (394) with a pair of Threes
+
+
+
+PokerStars Hand #259543521613: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:20:14 CET [2026/01/31 21:20:14 ET]
+Table '3970998872 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (696 in chips) 
+Seat 2: ruisilver (410 in chips) 
+Seat 3: pescadili r (394 in chips) 
+ruisilver: posts small blind 15
+pescadili r: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Tc]
+mabeal1: raises 30 to 60
+ruisilver: calls 45
+pescadili r: calls 30
+*** FLOP *** [Kc Qh Qd]
+ruisilver: checks 
+pescadili r: checks 
+mabeal1: checks 
+*** TURN *** [Kc Qh Qd] [Qc]
+ruisilver: checks 
+pescadili r: checks 
+mabeal1: checks 
+*** RIVER *** [Kc Qh Qd Qc] [9c]
+ruisilver: checks 
+pescadili r: checks 
+mabeal1: bets 135
+ruisilver: folds 
+pescadili r: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kc Qh Qd Qc 9c]
+Seat 1: mabeal1 (button) collected (180)
+Seat 2: ruisilver (small blind) folded on the River
+Seat 3: pescadili r (big blind) folded on the River
+
+
+
+PokerStars Hand #259543525868: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:20:46 CET [2026/01/31 21:20:46 ET]
+Table '3970998872 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (816 in chips) 
+Seat 2: ruisilver (350 in chips) 
+Seat 3: pescadili r (334 in chips) 
+pescadili r: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ts]
+ruisilver: calls 30
+pescadili r: calls 15
+mabeal1: raises 60 to 90
+ruisilver: raises 260 to 350 and is all-in
+pescadili r: folds 
+mabeal1: folds 
+Uncalled bet (260) returned to ruisilver
+ruisilver collected 210 from pot
+ruisilver: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: ruisilver (button) collected (210)
+Seat 3: pescadili r (small blind) folded before Flop
+
+
+
+PokerStars Hand #259543528393: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:21:05 CET [2026/01/31 21:21:05 ET]
+Table '3970998872 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (726 in chips) 
+Seat 2: ruisilver (470 in chips) 
+Seat 3: pescadili r (304 in chips) 
+mabeal1: posts small blind 15
+ruisilver: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Th]
+pescadili r: raises 30 to 60
+mabeal1: folds 
+ruisilver: calls 30
+*** FLOP *** [Jh 6h Jd]
+ruisilver: checks 
+pescadili r: checks 
+*** TURN *** [Jh 6h Jd] [7s]
+ruisilver: checks 
+pescadili r: checks 
+*** RIVER *** [Jh 6h Jd 7s] [6c]
+ruisilver: bets 30
+pescadili r: calls 30
+*** SHOW DOWN ***
+ruisilver: shows [Qs 8d] (two pair, Jacks and Sixes)
+pescadili r: shows [Qh Ah] (two pair, Jacks and Sixes - Ace kicker)
+pescadili r collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [Jh 6h Jd 7s 6c]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: ruisilver (big blind) showed [Qs 8d] and lost with two pair, Jacks and Sixes
+Seat 3: pescadili r (button) showed [Qh Ah] and won (195) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #259543531842: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:21:31 CET [2026/01/31 21:21:31 ET]
+Table '3970998872 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (711 in chips) 
+Seat 2: ruisilver (380 in chips) 
+Seat 3: pescadili r (409 in chips) 
+ruisilver: posts small blind 15
+pescadili r: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Kh]
+mabeal1: raises 30 to 60
+ruisilver: folds 
+pescadili r: calls 30
+*** FLOP *** [9h 4c 6d]
+pescadili r: checks 
+mabeal1: checks 
+*** TURN *** [9h 4c 6d] [Js]
+pescadili r: checks 
+mabeal1: checks 
+*** RIVER *** [9h 4c 6d Js] [6h]
+pescadili r: bets 30
+mabeal1: raises 146 to 176
+pescadili r: folds 
+Uncalled bet (146) returned to mabeal1
+mabeal1 collected 195 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [9h 4c 6d Js 6h]
+Seat 1: mabeal1 (button) collected (195)
+Seat 2: ruisilver (small blind) folded before Flop
+Seat 3: pescadili r (big blind) folded on the River
+
+
+
+PokerStars Hand #259543535399: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:21:58 CET [2026/01/31 21:21:58 ET]
+Table '3970998872 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (816 in chips) 
+Seat 2: ruisilver (365 in chips) 
+Seat 3: pescadili r (319 in chips) 
+pescadili r: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Kc]
+ruisilver: folds 
+pescadili r: calls 15
+mabeal1: raises 60 to 90
+pescadili r: calls 60
+*** FLOP *** [8s Ks 3s]
+pescadili r: bets 229 and is all-in
+mabeal1: calls 229
+*** TURN *** [8s Ks 3s] [As]
+*** RIVER *** [8s Ks 3s As] [6h]
+*** SHOW DOWN ***
+pescadili r: shows [Kh 6s] (a flush, Ace high)
+mabeal1: shows [Ts Kc] (a flush, Ace high - Ten higher)
+mabeal1 collected 638 from pot
+pescadili r finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 638 | Rake 0 
+Board [8s Ks 3s As 6h]
+Seat 1: mabeal1 (big blind) showed [Ts Kc] and won (638) with a flush, Ace high
+Seat 2: ruisilver (button) folded before Flop (didn't bet)
+Seat 3: pescadili r (small blind) showed [Kh 6s] and lost with a flush, Ace high
+
+
+
+PokerStars Hand #259543538362: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:22:20 CET [2026/01/31 21:22:20 ET]
+Table '3970998872 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1135 in chips) 
+Seat 2: ruisilver (365 in chips) 
+mabeal1: posts small blind 15
+ruisilver: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 7s]
+mabeal1: calls 15
+ruisilver: checks 
+*** FLOP *** [Js 8c 6c]
+ruisilver: checks 
+mabeal1: checks 
+*** TURN *** [Js 8c 6c] [5d]
+ruisilver: bets 30
+mabeal1: raises 60 to 90
+ruisilver: calls 60
+*** RIVER *** [Js 8c 6c 5d] [3c]
+ruisilver: checks 
+mabeal1: bets 1015 and is all-in
+ruisilver: folds 
+Uncalled bet (1015) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Js 8c 6c 5d 3c]
+Seat 1: mabeal1 (button) (small blind) collected (240)
+Seat 2: ruisilver (big blind) folded on the River
+
+
+
+PokerStars Hand #259543542985: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 3:22:54 CET [2026/01/31 21:22:54 ET]
+Table '3970998872 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1255 in chips) 
+Seat 2: ruisilver (245 in chips) 
+ruisilver: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5d]
+ruisilver: calls 15
+mabeal1: checks 
+*** FLOP *** [2s Tc 9d]
+mabeal1: checks 
+ruisilver: bets 30
+mabeal1: calls 30
+*** TURN *** [2s Tc 9d] [Jd]
+mabeal1: checks 
+ruisilver: checks 
+*** RIVER *** [2s Tc 9d Jd] [8c]
+mabeal1: bets 1195 and is all-in
+ruisilver: calls 185 and is all-in
+Uncalled bet (1010) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [2h 5d] (a pair of Deuces)
+ruisilver: shows [2d Qh] (a straight, Eight to Queen)
+ruisilver collected 490 from pot
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Board [2s Tc 9d Jd 8c]
+Seat 1: mabeal1 (big blind) showed [2h 5d] and lost with a pair of Deuces
+Seat 2: ruisilver (button) (small blind) showed [2d Qh] and won (490) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #259543546698: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:23:22 CET [2026/01/31 21:23:22 ET]
+Table '3970998872 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1010 in chips) 
+Seat 2: ruisilver (490 in chips) 
+mabeal1: posts small blind 20
+ruisilver: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7s]
+mabeal1: calls 20
+ruisilver: raises 450 to 490 and is all-in
+mabeal1: folds 
+Uncalled bet (450) returned to ruisilver
+ruisilver collected 80 from pot
+ruisilver: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: ruisilver (big blind) collected (80)
+
+
+
+PokerStars Hand #259543547652: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:23:29 CET [2026/01/31 21:23:29 ET]
+Table '3970998872 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (970 in chips) 
+Seat 2: ruisilver (530 in chips) 
+ruisilver: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 8h]
+ruisilver: calls 20
+mabeal1: checks 
+*** FLOP *** [3s Qc As]
+mabeal1: checks 
+ruisilver: checks 
+*** TURN *** [3s Qc As] [Kd]
+mabeal1: bets 60
+ruisilver: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s Qc As Kd]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: ruisilver (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259543550358: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:23:50 CET [2026/01/31 21:23:50 ET]
+Table '3970998872 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1010 in chips) 
+Seat 2: ruisilver (490 in chips) 
+mabeal1: posts small blind 20
+ruisilver: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c As]
+mabeal1: raises 60 to 100
+ruisilver: calls 60
+*** FLOP *** [Ad 4c 3h]
+ruisilver: checks 
+mabeal1: bets 80
+ruisilver: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Ad 4c 3h]
+Seat 1: mabeal1 (button) (small blind) collected (200)
+Seat 2: ruisilver (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259543552240: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:24:05 CET [2026/01/31 21:24:05 ET]
+Table '3970998872 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1110 in chips) 
+Seat 2: ruisilver (390 in chips) 
+ruisilver: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Kc]
+ruisilver: calls 20
+mabeal1: checks 
+*** FLOP *** [9s 7c 7h]
+mabeal1: checks 
+ruisilver: bets 40
+mabeal1: calls 40
+*** TURN *** [9s 7c 7h] [4h]
+mabeal1: checks 
+ruisilver: checks 
+*** RIVER *** [9s 7c 7h 4h] [4d]
+mabeal1: checks 
+ruisilver: checks 
+*** SHOW DOWN ***
+mabeal1: shows [8h Kc] (two pair, Sevens and Fours)
+ruisilver: mucks hand 
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9s 7c 7h 4h 4d]
+Seat 1: mabeal1 (big blind) showed [8h Kc] and won (160) with two pair, Sevens and Fours
+Seat 2: ruisilver (button) (small blind) mucked [6c 8d]
+
+
+
+PokerStars Hand #259543554511: Tournament #3970998872, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 3:24:23 CET [2026/01/31 21:24:23 ET]
+Table '3970998872 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1190 in chips) 
+Seat 2: ruisilver (310 in chips) 
+mabeal1: posts small blind 20
+ruisilver: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Qs]
+mabeal1: raises 1150 to 1190 and is all-in
+ruisilver: calls 270 and is all-in
+Uncalled bet (880) returned to mabeal1
+*** FLOP *** [6d Kc Kh]
+*** TURN *** [6d Kc Kh] [As]
+*** RIVER *** [6d Kc Kh As] [Qh]
+*** SHOW DOWN ***
+ruisilver: shows [8s Ts] (a pair of Kings)
+mabeal1: shows [Tc Qs] (two pair, Kings and Queens)
+mabeal1 collected 620 from pot
+ruisilver finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [6d Kc Kh As Qh]
+Seat 1: mabeal1 (button) (small blind) showed [Tc Qs] and won (620) with two pair, Kings and Queens
+Seat 2: ruisilver (big blind) showed [8s Ts] and lost with a pair of Kings
+
+
+

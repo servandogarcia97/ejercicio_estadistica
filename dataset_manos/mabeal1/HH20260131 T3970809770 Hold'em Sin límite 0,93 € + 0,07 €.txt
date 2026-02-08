@@ -1,0 +1,816 @@
+﻿PokerStars Hand #259534913135: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 15:49:53 CET [2026/01/31 9:49:53 ET]
+Table '3970809770 1' 3-max Seat #1 is the button
+Seat 1: Marta469 (500 in chips) 
+Seat 2: Davothhh (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Davothhh: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Js]
+Marta469: calls 20
+Davothhh: calls 10
+mabeal1: checks 
+*** FLOP *** [9c 8c 2d]
+Davothhh: checks 
+mabeal1: checks 
+Marta469: checks 
+*** TURN *** [9c 8c 2d] [6d]
+Davothhh: checks 
+mabeal1: checks 
+Marta469: bets 20
+Davothhh: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Marta469
+Marta469 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 8c 2d 6d]
+Seat 1: Marta469 (button) collected (60)
+Seat 2: Davothhh (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259534916212: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 15:50:11 CET [2026/01/31 9:50:11 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 1: Marta469 (540 in chips) 
+Seat 2: Davothhh (480 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+Marta469: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 8d]
+Davothhh: calls 20
+mabeal1: calls 10
+Marta469: raises 100 to 120
+Davothhh: folds 
+mabeal1: folds 
+Uncalled bet (100) returned to Marta469
+Marta469 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Marta469 (big blind) collected (60)
+Seat 2: Davothhh (button) folded before Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259534919054: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 15:50:28 CET [2026/01/31 9:50:28 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 1: Marta469 (580 in chips) 
+Seat 2: Davothhh (460 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+Marta469: posts small blind 10
+Davothhh: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Th]
+mabeal1: folds 
+Marta469: calls 10
+Davothhh: checks 
+*** FLOP *** [6s 4d 8d]
+Marta469: checks 
+Davothhh: bets 440 and is all-in
+Marta469: folds 
+Uncalled bet (440) returned to Davothhh
+Davothhh collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s 4d 8d]
+Seat 1: Marta469 (small blind) folded on the Flop
+Seat 2: Davothhh (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259534922264: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 15:50:47 CET [2026/01/31 9:50:47 ET]
+Table '3970809770 1' 3-max Seat #1 is the button
+Seat 1: Marta469 (560 in chips) 
+Seat 2: Davothhh (480 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+Davothhh: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 5s]
+Marta469: folds 
+Davothhh: calls 10
+mabeal1: checks 
+*** FLOP *** [4c 5d 7h]
+Davothhh: checks 
+mabeal1: bets 20
+Davothhh: calls 20
+*** TURN *** [4c 5d 7h] [5h]
+Davothhh: checks 
+mabeal1: bets 80
+Davothhh: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c 5d 7h 5h]
+Seat 1: Marta469 (button) folded before Flop (didn't bet)
+Seat 2: Davothhh (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259534925372: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 15:51:05 CET [2026/01/31 9:51:05 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 1: Marta469 (560 in chips) 
+Seat 2: Davothhh (440 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+mabeal1: posts small blind 10
+Marta469: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kh]
+Davothhh: folds 
+mabeal1: raises 40 to 60
+Marta469: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Marta469 (big blind) folded before Flop
+Seat 2: Davothhh (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259534926913: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 15:51:14 CET [2026/01/31 9:51:14 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 1: Marta469 (540 in chips) 
+Seat 2: Davothhh (440 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+Marta469: posts small blind 10
+Davothhh: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Jh]
+mabeal1: folds 
+Marta469: calls 10
+Davothhh: checks 
+*** FLOP *** [4c Td 2h]
+Marta469: bets 20
+Davothhh: calls 20
+*** TURN *** [4c Td 2h] [3d]
+Marta469: bets 20
+Davothhh: calls 20
+*** RIVER *** [4c Td 2h 3d] [5c]
+Marta469: bets 20
+Davothhh: folds 
+Uncalled bet (20) returned to Marta469
+Marta469 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c Td 2h 3d 5c]
+Seat 1: Marta469 (small blind) collected (120)
+Seat 2: Davothhh (big blind) folded on the River
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259534930160: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 15:51:33 CET [2026/01/31 9:51:33 ET]
+Table '3970809770 1' 3-max Seat #1 is the button
+Seat 1: Marta469 (600 in chips) 
+Seat 2: Davothhh (380 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+Davothhh: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Td]
+Marta469: raises 20 to 40
+Davothhh: calls 30
+mabeal1: calls 20
+*** FLOP *** [8d Jh Jd]
+Davothhh: checks 
+mabeal1: checks 
+Marta469: checks 
+*** TURN *** [8d Jh Jd] [2c]
+Davothhh: checks 
+mabeal1: bets 90
+Marta469: folds 
+Davothhh: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d Jh Jd 2c]
+Seat 1: Marta469 (button) folded on the Turn
+Seat 2: Davothhh (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259534933740: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 15:51:54 CET [2026/01/31 9:51:54 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 1: Marta469 (560 in chips) 
+Seat 2: Davothhh (340 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+mabeal1: posts small blind 10
+Marta469: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8c]
+Davothhh: calls 20
+mabeal1: calls 10
+Marta469: checks 
+*** FLOP *** [8h 5c 3c]
+mabeal1: checks 
+Marta469: checks 
+Davothhh: checks 
+*** TURN *** [8h 5c 3c] [Qc]
+mabeal1: checks 
+Marta469: checks 
+Davothhh: checks 
+*** RIVER *** [8h 5c 3c Qc] [Th]
+mabeal1: checks 
+Marta469: checks 
+Davothhh: checks 
+*** SHOW DOWN ***
+mabeal1: shows [9s 8c] (a pair of Eights)
+Marta469: mucks hand 
+Davothhh: mucks hand 
+mabeal1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h 5c 3c Qc Th]
+Seat 1: Marta469 (big blind) mucked [2h 6c]
+Seat 2: Davothhh (button) mucked [3h 4d]
+Seat 3: mabeal1 (small blind) showed [9s 8c] and won (60) with a pair of Eights
+
+
+
+PokerStars Hand #259534938058: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 15:52:20 CET [2026/01/31 9:52:20 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 1: Marta469 (540 in chips) 
+Seat 2: Davothhh (320 in chips) 
+Seat 3: mabeal1 (640 in chips) 
+Marta469: posts small blind 15
+Davothhh: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Ac]
+mabeal1: raises 30 to 60
+Marta469: calls 45
+Davothhh: calls 30
+*** FLOP *** [4d As Ah]
+Marta469: bets 60
+Davothhh: folds 
+mabeal1: calls 60
+*** TURN *** [4d As Ah] [Kh]
+Marta469: checks 
+mabeal1: checks 
+*** RIVER *** [4d As Ah Kh] [Qh]
+Marta469: bets 60
+mabeal1: raises 120 to 180
+Marta469: calls 120
+*** SHOW DOWN ***
+mabeal1: shows [4s Ac] (a full house, Aces full of Fours)
+Marta469: mucks hand 
+mabeal1 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [4d As Ah Kh Qh]
+Seat 1: Marta469 (small blind) mucked [8d Ad]
+Seat 2: Davothhh (big blind) folded on the Flop
+Seat 3: mabeal1 (button) showed [4s Ac] and won (660) with a full house, Aces full of Fours
+
+
+
+PokerStars Hand #259534945447: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 15:53:03 CET [2026/01/31 9:53:03 ET]
+Table '3970809770 1' 3-max Seat #1 is the button
+Seat 1: Marta469 (240 in chips) 
+Seat 2: Davothhh (260 in chips) 
+Seat 3: mabeal1 (1000 in chips) 
+Davothhh: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Tc]
+Marta469: calls 30
+Davothhh: calls 15
+mabeal1: checks 
+*** FLOP *** [Ad Jh Jc]
+Davothhh: checks 
+mabeal1: checks 
+Marta469: bets 210 and is all-in
+Davothhh: folds 
+mabeal1: folds 
+Uncalled bet (210) returned to Marta469
+Marta469 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ad Jh Jc]
+Seat 1: Marta469 (button) collected (90)
+Seat 2: Davothhh (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259534948306: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 15:53:20 CET [2026/01/31 9:53:20 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 1: Marta469 (300 in chips) 
+Seat 2: Davothhh (230 in chips) 
+Seat 3: mabeal1 (970 in chips) 
+mabeal1: posts small blind 15
+Marta469: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3h]
+Davothhh: calls 30
+mabeal1: folds 
+Marta469: raises 270 to 300 and is all-in
+Davothhh: calls 200 and is all-in
+Uncalled bet (70) returned to Marta469
+*** FLOP *** [Jc 8s 4d]
+*** TURN *** [Jc 8s 4d] [6s]
+*** RIVER *** [Jc 8s 4d 6s] [3s]
+*** SHOW DOWN ***
+Marta469: shows [As 9c] (high card Ace)
+Davothhh: shows [Ad 8d] (a pair of Eights)
+Davothhh collected 475 from pot
+*** SUMMARY ***
+Total pot 475 | Rake 0 
+Board [Jc 8s 4d 6s 3s]
+Seat 1: Marta469 (big blind) showed [As 9c] and lost with high card Ace
+Seat 2: Davothhh (button) showed [Ad 8d] and won (475) with a pair of Eights
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259534952372: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 15:53:45 CET [2026/01/31 9:53:45 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 1: Marta469 (70 in chips) 
+Seat 2: Davothhh (475 in chips) 
+Seat 3: mabeal1 (955 in chips) 
+Marta469: posts small blind 15
+Davothhh: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Ac]
+mabeal1: raises 30 to 60
+Marta469: raises 10 to 70 and is all-in
+Davothhh: calls 40
+mabeal1: calls 10
+*** FLOP *** [2s Kd 5d]
+Davothhh: bets 405 and is all-in
+mabeal1: folds 
+Uncalled bet (405) returned to Davothhh
+*** TURN *** [2s Kd 5d] [Ah]
+*** RIVER *** [2s Kd 5d Ah] [As]
+*** SHOW DOWN ***
+Marta469: shows [Th 9d] (a pair of Aces)
+Davothhh: shows [5h 9h] (two pair, Aces and Fives)
+Davothhh collected 210 from pot
+Marta469 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [2s Kd 5d Ah As]
+Seat 1: Marta469 (small blind) showed [Th 9d] and lost with a pair of Aces
+Seat 2: Davothhh (big blind) showed [5h 9h] and won (210) with two pair, Aces and Fives
+Seat 3: mabeal1 (button) folded on the Flop
+
+
+
+PokerStars Hand #259534957045: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 15:54:12 CET [2026/01/31 9:54:12 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 2: Davothhh (615 in chips) 
+Seat 3: mabeal1 (885 in chips) 
+Davothhh: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 4d]
+Davothhh: calls 20
+mabeal1: checks 
+*** FLOP *** [3s 4h 6h]
+mabeal1: checks 
+Davothhh: checks 
+*** TURN *** [3s 4h 6h] [9s]
+mabeal1: bets 40
+Davothhh: calls 40
+*** RIVER *** [3s 4h 6h 9s] [9d]
+mabeal1: checks 
+Davothhh: bets 160
+mabeal1: calls 160
+*** SHOW DOWN ***
+Davothhh: shows [Kc 9h] (three of a kind, Nines)
+mabeal1: mucks hand 
+Davothhh collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [3s 4h 6h 9s 9d]
+Seat 2: Davothhh (button) (small blind) showed [Kc 9h] and won (480) with three of a kind, Nines
+Seat 3: mabeal1 (big blind) mucked [Ts 4d]
+
+
+
+PokerStars Hand #259534960300: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 15:54:32 CET [2026/01/31 9:54:32 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 2: Davothhh (855 in chips) 
+Seat 3: mabeal1 (645 in chips) 
+mabeal1: posts small blind 20
+Davothhh: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3d]
+mabeal1: calls 20
+Davothhh: raises 815 to 855 and is all-in
+mabeal1: folds 
+Uncalled bet (815) returned to Davothhh
+Davothhh collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Davothhh (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259534961872: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 15:54:41 CET [2026/01/31 9:54:41 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 2: Davothhh (895 in chips) 
+Seat 3: mabeal1 (605 in chips) 
+Davothhh: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Ah]
+Davothhh: calls 20
+mabeal1: raises 60 to 100
+Davothhh: calls 60
+*** FLOP *** [8s Jd As]
+mabeal1: checks 
+Davothhh: bets 80
+mabeal1: calls 80
+*** TURN *** [8s Jd As] [Ad]
+mabeal1: checks 
+Davothhh: bets 715 and is all-in
+mabeal1: calls 425 and is all-in
+Uncalled bet (290) returned to Davothhh
+*** RIVER *** [8s Jd As Ad] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [Ac Ah] (four of a kind, Aces)
+Davothhh: shows [Qs 9h] (two pair, Aces and Eights)
+mabeal1 collected 1210 from pot
+*** SUMMARY ***
+Total pot 1210 | Rake 0 
+Board [8s Jd As Ad 8h]
+Seat 2: Davothhh (button) (small blind) showed [Qs 9h] and lost with two pair, Aces and Eights
+Seat 3: mabeal1 (big blind) showed [Ac Ah] and won (1210) with four of a kind, Aces
+
+
+
+PokerStars Hand #259534967645: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 15:55:17 CET [2026/01/31 9:55:17 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 2: Davothhh (290 in chips) 
+Seat 3: mabeal1 (1210 in chips) 
+mabeal1: posts small blind 20
+Davothhh: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qd]
+mabeal1: calls 20
+Davothhh: raises 250 to 290 and is all-in
+mabeal1: folds 
+Uncalled bet (250) returned to Davothhh
+Davothhh collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: Davothhh (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259534969144: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 15:55:29 CET [2026/01/31 9:55:29 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 2: Davothhh (330 in chips) 
+Seat 3: mabeal1 (1170 in chips) 
+Davothhh: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Qs]
+Davothhh: calls 20
+mabeal1: checks 
+*** FLOP *** [7h 2h 6d]
+mabeal1: checks 
+Davothhh: bets 290 and is all-in
+mabeal1: calls 290
+*** TURN *** [7h 2h 6d] [3c]
+*** RIVER *** [7h 2h 6d 3c] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [2c Qs] (two pair, Sevens and Deuces)
+Davothhh: shows [Jd 6c] (two pair, Sevens and Sixes)
+Davothhh collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [7h 2h 6d 3c 7d]
+Seat 2: Davothhh (button) (small blind) showed [Jd 6c] and won (660) with two pair, Sevens and Sixes
+Seat 3: mabeal1 (big blind) showed [2c Qs] and lost with two pair, Sevens and Deuces
+
+
+
+PokerStars Hand #259534971297: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 15:55:45 CET [2026/01/31 9:55:45 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 2: Davothhh (660 in chips) 
+Seat 3: mabeal1 (840 in chips) 
+mabeal1: posts small blind 20
+Davothhh: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 5h]
+mabeal1: calls 20
+Davothhh: checks 
+*** FLOP *** [3d Qh 7h]
+Davothhh: checks 
+mabeal1: bets 40
+Davothhh: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d Qh 7h]
+Seat 2: Davothhh (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259534973007: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:55:59 CET [2026/01/31 9:55:59 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 2: Davothhh (620 in chips) 
+Seat 3: mabeal1 (880 in chips) 
+Davothhh: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7h]
+Davothhh: calls 30
+mabeal1: checks 
+*** FLOP *** [Ah Td 5h]
+mabeal1: checks 
+Davothhh: checks 
+*** TURN *** [Ah Td 5h] [6s]
+mabeal1: bets 60
+Davothhh: calls 60
+*** RIVER *** [Ah Td 5h 6s] [8s]
+mabeal1: checks 
+Davothhh: bets 180
+mabeal1: folds 
+Uncalled bet (180) returned to Davothhh
+Davothhh collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ah Td 5h 6s 8s]
+Seat 2: Davothhh (button) (small blind) collected (240)
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259534975740: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:56:20 CET [2026/01/31 9:56:20 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 2: Davothhh (740 in chips) 
+Seat 3: mabeal1 (760 in chips) 
+mabeal1: posts small blind 30
+Davothhh: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Kd]
+mabeal1: raises 60 to 120
+Davothhh: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Davothhh (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259534976597: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:56:26 CET [2026/01/31 9:56:26 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 2: Davothhh (680 in chips) 
+Seat 3: mabeal1 (820 in chips) 
+Davothhh: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3s]
+Davothhh: calls 30
+mabeal1: checks 
+*** FLOP *** [Jh 2d 2h]
+mabeal1: checks 
+Davothhh: checks 
+*** TURN *** [Jh 2d 2h] [Ks]
+mabeal1: bets 60
+Davothhh: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 2d 2h Ks]
+Seat 2: Davothhh (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259534978110: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:56:38 CET [2026/01/31 9:56:38 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 2: Davothhh (620 in chips) 
+Seat 3: mabeal1 (880 in chips) 
+mabeal1: posts small blind 30
+Davothhh: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Ks]
+mabeal1: raises 60 to 120
+Davothhh: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Davothhh (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259534978973: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:56:44 CET [2026/01/31 9:56:44 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 2: Davothhh (560 in chips) 
+Seat 3: mabeal1 (940 in chips) 
+Davothhh: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4d]
+Davothhh: calls 30
+mabeal1: checks 
+*** FLOP *** [4c 7s 8c]
+mabeal1: checks 
+Davothhh: checks 
+*** TURN *** [4c 7s 8c] [2c]
+mabeal1: bets 60
+Davothhh: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c 7s 8c 2c]
+Seat 2: Davothhh (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259534980825: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:56:58 CET [2026/01/31 9:56:58 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 2: Davothhh (500 in chips) 
+Seat 3: mabeal1 (1000 in chips) 
+mabeal1: posts small blind 30
+Davothhh: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 3c]
+mabeal1: calls 30
+Davothhh: checks 
+*** FLOP *** [Kh 7d 2c]
+Davothhh: checks 
+mabeal1: bets 60
+Davothhh: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kh 7d 2c]
+Seat 2: Davothhh (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259534982025: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:57:08 CET [2026/01/31 9:57:08 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 2: Davothhh (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+Davothhh: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Ks]
+Davothhh: calls 30
+mabeal1: raises 1000 to 1060 and is all-in
+Davothhh: folds 
+Uncalled bet (1000) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Davothhh (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259534983461: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:57:18 CET [2026/01/31 9:57:18 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 2: Davothhh (380 in chips) 
+Seat 3: mabeal1 (1120 in chips) 
+mabeal1: posts small blind 30
+Davothhh: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3c]
+mabeal1: calls 30
+Davothhh: checks 
+*** FLOP *** [2d Kc 9h]
+Davothhh: bets 320 and is all-in
+mabeal1: folds 
+Uncalled bet (320) returned to Davothhh
+Davothhh collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2d Kc 9h]
+Seat 2: Davothhh (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259534984736: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:57:28 CET [2026/01/31 9:57:28 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 2: Davothhh (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+Davothhh: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 6d]
+Davothhh: calls 30
+mabeal1: checks 
+*** FLOP *** [2h 8c 9d]
+mabeal1: checks 
+Davothhh: checks 
+*** TURN *** [2h 8c 9d] [3h]
+mabeal1: checks 
+Davothhh: checks 
+*** RIVER *** [2h 8c 9d 3h] [Ts]
+mabeal1: bets 60
+Davothhh: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 8c 9d 3h Ts]
+Seat 2: Davothhh (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259534986788: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:57:44 CET [2026/01/31 9:57:44 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 2: Davothhh (380 in chips) 
+Seat 3: mabeal1 (1120 in chips) 
+mabeal1: posts small blind 30
+Davothhh: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 7h]
+mabeal1: folds 
+Uncalled bet (30) returned to Davothhh
+Davothhh collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Davothhh (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259534987572: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 15:57:50 CET [2026/01/31 9:57:50 ET]
+Table '3970809770 1' 3-max Seat #2 is the button
+Seat 2: Davothhh (410 in chips) 
+Seat 3: mabeal1 (1090 in chips) 
+Davothhh: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 9d]
+Davothhh: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: Davothhh (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259534988607: Tournament #3970809770, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/01/31 15:57:57 CET [2026/01/31 9:57:57 ET]
+Table '3970809770 1' 3-max Seat #3 is the button
+Seat 2: Davothhh (380 in chips) 
+Seat 3: mabeal1 (1120 in chips) 
+mabeal1: posts small blind 40
+Davothhh: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8s]
+mabeal1: raises 240 to 320
+Davothhh: raises 60 to 380 and is all-in
+mabeal1: calls 60
+*** FLOP *** [7h 2s 7s]
+*** TURN *** [7h 2s 7s] [4c]
+*** RIVER *** [7h 2s 7s 4c] [Js]
+*** SHOW DOWN ***
+Davothhh: shows [Qd 5h] (a pair of Sevens)
+mabeal1: shows [5s 8s] (a flush, Jack high)
+mabeal1 collected 760 from pot
+Davothhh finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [7h 2s 7s 4c Js]
+Seat 2: Davothhh (big blind) showed [Qd 5h] and lost with a pair of Sevens
+Seat 3: mabeal1 (button) (small blind) showed [5s 8s] and won (760) with a flush, Jack high
+
+
+

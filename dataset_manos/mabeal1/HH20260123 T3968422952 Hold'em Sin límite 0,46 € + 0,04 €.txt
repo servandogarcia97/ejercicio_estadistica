@@ -1,0 +1,314 @@
+﻿PokerStars Hand #259430650587: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:33:35 CET [2026/01/23 13:33:35 ET]
+Table '3968422952 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: FantomeAs5 (500 in chips) 
+mabeal1: posts small blind 10
+FantomeAs5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 8s]
+Nax0: raises 20 to 40
+mabeal1: folds 
+FantomeAs5: calls 20
+*** FLOP *** [2s 4h Th]
+FantomeAs5: bets 20
+Nax0: folds 
+Uncalled bet (20) returned to FantomeAs5
+FantomeAs5 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2s 4h Th]
+Seat 1: Nax0 (button) folded on the Flop
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: FantomeAs5 (big blind) collected (90)
+
+
+
+PokerStars Hand #259430654352: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:33:52 CET [2026/01/23 13:33:52 ET]
+Table '3968422952 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (460 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: FantomeAs5 (550 in chips) 
+FantomeAs5: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Jc]
+mabeal1: folds 
+FantomeAs5: calls 10
+Nax0: raises 40 to 60
+FantomeAs5: folds 
+Uncalled bet (40) returned to Nax0
+Nax0 collected 40 from pot
+Nax0: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Nax0 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: FantomeAs5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430656956: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:34:03 CET [2026/01/23 13:34:03 ET]
+Table '3968422952 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (480 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: FantomeAs5 (530 in chips) 
+Nax0: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d As]
+FantomeAs5: calls 20
+Nax0: raises 60 to 80
+mabeal1: calls 60
+FantomeAs5: folds 
+*** FLOP *** [4h 6h 4d]
+Nax0: bets 40
+mabeal1: calls 40
+*** TURN *** [4h 6h 4d] [5d]
+Nax0: bets 195
+mabeal1: folds 
+Uncalled bet (195) returned to Nax0
+Nax0 collected 260 from pot
+Nax0: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [4h 6h 4d 5d]
+Seat 1: Nax0 (small blind) collected (260)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: FantomeAs5 (button) folded before Flop
+
+
+
+PokerStars Hand #259430665204: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:34:39 CET [2026/01/23 13:34:39 ET]
+Table '3968422952 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (620 in chips) 
+Seat 2: mabeal1 (370 in chips) 
+Seat 3: FantomeAs5 (510 in chips) 
+mabeal1: posts small blind 10
+FantomeAs5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 7d]
+Nax0: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to FantomeAs5
+FantomeAs5 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Nax0 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: FantomeAs5 (big blind) collected (20)
+
+
+
+PokerStars Hand #259430667098: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:34:47 CET [2026/01/23 13:34:47 ET]
+Table '3968422952 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (620 in chips) 
+Seat 2: mabeal1 (360 in chips) 
+Seat 3: FantomeAs5 (520 in chips) 
+FantomeAs5: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6c]
+mabeal1: folds 
+FantomeAs5: calls 10
+Nax0: checks 
+*** FLOP *** [6h Kh Tc]
+FantomeAs5: bets 20
+Nax0: folds 
+Uncalled bet (20) returned to FantomeAs5
+FantomeAs5 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6h Kh Tc]
+Seat 1: Nax0 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: FantomeAs5 (small blind) collected (40)
+
+
+
+PokerStars Hand #259430671296: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:35:05 CET [2026/01/23 13:35:05 ET]
+Table '3968422952 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (600 in chips) 
+Seat 2: mabeal1 (360 in chips) 
+Seat 3: FantomeAs5 (540 in chips) 
+Nax0: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Th]
+FantomeAs5: calls 20
+Nax0: folds 
+mabeal1: checks 
+*** FLOP *** [Js 8c 6c]
+mabeal1: checks 
+FantomeAs5: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to FantomeAs5
+FantomeAs5 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Js 8c 6c]
+Seat 1: Nax0 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: FantomeAs5 (button) collected (50)
+
+
+
+PokerStars Hand #259430675101: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:35:21 CET [2026/01/23 13:35:21 ET]
+Table '3968422952 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (590 in chips) 
+Seat 2: mabeal1 (340 in chips) 
+Seat 3: FantomeAs5 (570 in chips) 
+mabeal1: posts small blind 10
+FantomeAs5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6h]
+Nax0: raises 20 to 40
+mabeal1: folds 
+FantomeAs5: calls 20
+*** FLOP *** [2s 3s 5h]
+FantomeAs5: checks 
+Nax0: checks 
+*** TURN *** [2s 3s 5h] [7s]
+FantomeAs5: bets 20
+Nax0: folds 
+Uncalled bet (20) returned to FantomeAs5
+FantomeAs5 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [2s 3s 5h 7s]
+Seat 1: Nax0 (button) folded on the Turn
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: FantomeAs5 (big blind) collected (90)
+
+
+
+PokerStars Hand #259430680226: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:35:43 CET [2026/01/23 13:35:43 ET]
+Table '3968422952 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (550 in chips) 
+Seat 2: mabeal1 (330 in chips) 
+Seat 3: FantomeAs5 (620 in chips) 
+FantomeAs5: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 8s]
+mabeal1: raises 20 to 40
+FantomeAs5: calls 30
+Nax0: raises 510 to 550 and is all-in
+mabeal1: folds 
+FantomeAs5: folds 
+Uncalled bet (510) returned to Nax0
+Nax0 collected 120 from pot
+Nax0: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Nax0 (big blind) collected (120)
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: FantomeAs5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259430685409: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:36:05 CET [2026/01/23 13:36:05 ET]
+Table '3968422952 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (630 in chips) 
+Seat 2: mabeal1 (290 in chips) 
+Seat 3: FantomeAs5 (580 in chips) 
+Nax0: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8h]
+FantomeAs5: raises 20 to 40
+Nax0: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to FantomeAs5
+FantomeAs5 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Nax0 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: FantomeAs5 (button) collected (50)
+
+
+
+PokerStars Hand #259430687117: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 19:36:13 CET [2026/01/23 13:36:13 ET]
+Table '3968422952 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (620 in chips) 
+Seat 2: mabeal1 (270 in chips) 
+Seat 3: FantomeAs5 (610 in chips) 
+mabeal1: posts small blind 10
+FantomeAs5: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Ts]
+Nax0: raises 20 to 40
+mabeal1: raises 230 to 270 and is all-in
+FantomeAs5: folds 
+Nax0: folds 
+Uncalled bet (230) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Nax0 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (100)
+Seat 3: FantomeAs5 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259430693833: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 19:36:42 CET [2026/01/23 13:36:42 ET]
+Table '3968422952 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (580 in chips) 
+Seat 2: mabeal1 (330 in chips) 
+Seat 3: FantomeAs5 (590 in chips) 
+FantomeAs5: posts small blind 15
+Nax0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 3c]
+mabeal1: folds 
+FantomeAs5: raises 30 to 60
+Nax0: calls 30
+*** FLOP *** [8d 6d Jd]
+FantomeAs5: bets 30
+Nax0: folds 
+Uncalled bet (30) returned to FantomeAs5
+FantomeAs5 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8d 6d Jd]
+Seat 1: Nax0 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: FantomeAs5 (small blind) collected (120)
+
+
+
+PokerStars Hand #259430697385: Tournament #3968422952, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 19:36:57 CET [2026/01/23 13:36:57 ET]
+Table '3968422952 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (520 in chips) 
+Seat 2: mabeal1 (330 in chips) 
+Seat 3: FantomeAs5 (650 in chips) 
+Nax0: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 4s]
+FantomeAs5: raises 30 to 60
+Nax0: folds 
+mabeal1: calls 30
+*** FLOP *** [8h Qs Qh]
+mabeal1: checks 
+FantomeAs5: bets 30
+mabeal1: raises 240 to 270 and is all-in
+FantomeAs5: calls 240
+*** TURN *** [8h Qs Qh] [8s]
+*** RIVER *** [8h Qs Qh 8s] [Ac]
+*** SHOW DOWN ***
+mabeal1: shows [5s 4s] (two pair, Queens and Eights)
+FantomeAs5: shows [9c 9h] (two pair, Queens and Nines)
+FantomeAs5 collected 675 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [8h Qs Qh 8s Ac]
+Seat 1: Nax0 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [5s 4s] and lost with two pair, Queens and Eights
+Seat 3: FantomeAs5 (button) showed [9c 9h] and won (675) with two pair, Queens and Nines
+
+
+

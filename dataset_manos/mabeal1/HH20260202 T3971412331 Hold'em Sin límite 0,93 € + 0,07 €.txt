@@ -1,0 +1,406 @@
+﻿PokerStars Hand #259562385730: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:50:01 CET [2026/02/02 9:50:01 ET]
+Table '3971412331 1' 3-max Seat #1 is the button
+Seat 1: miguelsd1994 (500 in chips) 
+Seat 2: ISW91 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+ISW91: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2h]
+miguelsd1994: folds 
+ISW91: calls 10
+mabeal1: checks 
+*** FLOP *** [5c Qd 3s]
+ISW91: checks 
+mabeal1: checks 
+*** TURN *** [5c Qd 3s] [Kc]
+ISW91: checks 
+mabeal1: checks 
+*** RIVER *** [5c Qd 3s Kc] [9c]
+ISW91: checks 
+mabeal1: bets 30
+ISW91: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5c Qd 3s Kc 9c]
+Seat 1: miguelsd1994 (button) folded before Flop (didn't bet)
+Seat 2: ISW91 (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259562389004: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:50:22 CET [2026/02/02 9:50:22 ET]
+Table '3971412331 1' 3-max Seat #2 is the button
+Seat 1: miguelsd1994 (500 in chips) 
+Seat 2: ISW91 (480 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 10
+miguelsd1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Jh]
+ISW91: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to miguelsd1994
+miguelsd1994 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: miguelsd1994 (big blind) collected (20)
+Seat 2: ISW91 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562390028: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:50:28 CET [2026/02/02 9:50:28 ET]
+Table '3971412331 1' 3-max Seat #3 is the button
+Seat 1: miguelsd1994 (510 in chips) 
+Seat 2: ISW91 (480 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+miguelsd1994: posts small blind 10
+ISW91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ks]
+mabeal1: raises 20 to 40
+miguelsd1994: folds 
+ISW91: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: miguelsd1994 (small blind) folded before Flop
+Seat 2: ISW91 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259562391404: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:50:36 CET [2026/02/02 9:50:36 ET]
+Table '3971412331 1' 3-max Seat #1 is the button
+Seat 1: miguelsd1994 (500 in chips) 
+Seat 2: ISW91 (460 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+ISW91: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Th]
+miguelsd1994: folds 
+ISW91: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: miguelsd1994 (button) folded before Flop (didn't bet)
+Seat 2: ISW91 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259562393845: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:50:52 CET [2026/02/02 9:50:52 ET]
+Table '3971412331 1' 3-max Seat #2 is the button
+Seat 1: miguelsd1994 (500 in chips) 
+Seat 2: ISW91 (450 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+mabeal1: posts small blind 10
+miguelsd1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 3s]
+ISW91: folds 
+mabeal1: raises 20 to 40
+miguelsd1994: calls 20
+*** FLOP *** [Ah 2d 7h]
+mabeal1: bets 40
+miguelsd1994: calls 40
+*** TURN *** [Ah 2d 7h] [Kh]
+mabeal1: checks 
+miguelsd1994: bets 80
+miguelsd1994 is disconnected 
+mabeal1: calls 80
+*** RIVER *** [Ah 2d 7h Kh] [As]
+mabeal1: checks 
+miguelsd1994: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ac 3s] (three of a kind, Aces)
+miguelsd1994: mucks hand 
+mabeal1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ah 2d 7h Kh As]
+Seat 1: miguelsd1994 (big blind) mucked [8d 7c]
+Seat 2: ISW91 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [Ac 3s] and won (320) with three of a kind, Aces
+
+
+
+PokerStars Hand #259562401778: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:51:42 CET [2026/02/02 9:51:42 ET]
+Table '3971412331 1' 3-max Seat #3 is the button
+Seat 1: miguelsd1994 (340 in chips) 
+Seat 2: ISW91 (450 in chips) 
+Seat 3: mabeal1 (710 in chips) 
+miguelsd1994: posts small blind 10
+ISW91: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2s]
+mabeal1: folds 
+miguelsd1994: calls 10
+ISW91: checks 
+*** FLOP *** [Td 5d 5s]
+miguelsd1994: checks 
+ISW91: checks 
+*** TURN *** [Td 5d 5s] [Qc]
+miguelsd1994: checks 
+ISW91: bets 20
+miguelsd1994: folds 
+Uncalled bet (20) returned to ISW91
+ISW91 collected 40 from pot
+ISW91: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Td 5d 5s Qc]
+Seat 1: miguelsd1994 (small blind) folded on the Turn
+Seat 2: ISW91 (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259562407011: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:52:15 CET [2026/02/02 9:52:15 ET]
+Table '3971412331 1' 3-max Seat #1 is the button
+Seat 1: miguelsd1994 (320 in chips) 
+Seat 2: ISW91 (470 in chips) 
+Seat 3: mabeal1 (710 in chips) 
+ISW91: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 8c]
+miguelsd1994: calls 20
+ISW91: folds 
+mabeal1: checks 
+*** FLOP *** [4c 5d 6d]
+mabeal1: checks 
+miguelsd1994: checks 
+*** TURN *** [4c 5d 6d] [5h]
+mabeal1: checks 
+miguelsd1994: checks 
+*** RIVER *** [4c 5d 6d 5h] [Ah]
+mabeal1: checks 
+miguelsd1994: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Jc 8c] (a pair of Fives)
+miguelsd1994: mucks hand 
+mabeal1 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4c 5d 6d 5h Ah]
+Seat 1: miguelsd1994 (button) mucked [7c Tc]
+Seat 2: ISW91 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [Jc 8c] and won (50) with a pair of Fives
+
+
+
+PokerStars Hand #259562412663: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 15:52:50 CET [2026/02/02 9:52:50 ET]
+Table '3971412331 1' 3-max Seat #2 is the button
+Seat 1: miguelsd1994 (300 in chips) 
+Seat 2: ISW91 (460 in chips) 
+Seat 3: mabeal1 (740 in chips) 
+mabeal1: posts small blind 10
+miguelsd1994: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 2h]
+ISW91: raises 40 to 60
+mabeal1: raises 680 to 740 and is all-in
+miguelsd1994: folds 
+ISW91: calls 400 and is all-in
+Uncalled bet (280) returned to mabeal1
+*** FLOP *** [Jh 4d Td]
+*** TURN *** [Jh 4d Td] [3d]
+*** RIVER *** [Jh 4d Td 3d] [Kd]
+*** SHOW DOWN ***
+mabeal1: shows [2s 2h] (a pair of Deuces)
+ISW91: shows [Kh Ad] (a flush, Ace high)
+ISW91 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Jh 4d Td 3d Kd]
+Seat 1: miguelsd1994 (big blind) folded before Flop
+Seat 2: ISW91 (button) showed [Kh Ad] and won (940) with a flush, Ace high
+Seat 3: mabeal1 (small blind) showed [2s 2h] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259562416076: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:53:12 CET [2026/02/02 9:53:12 ET]
+Table '3971412331 1' 3-max Seat #3 is the button
+Seat 1: miguelsd1994 (280 in chips) 
+Seat 2: ISW91 (940 in chips) 
+Seat 3: mabeal1 (280 in chips) 
+miguelsd1994: posts small blind 15
+ISW91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Kh]
+mabeal1: raises 30 to 60
+miguelsd1994: folds 
+ISW91: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: miguelsd1994 (small blind) folded before Flop
+Seat 2: ISW91 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259562417809: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:53:23 CET [2026/02/02 9:53:23 ET]
+Table '3971412331 1' 3-max Seat #1 is the button
+Seat 1: miguelsd1994 (265 in chips) 
+Seat 2: ISW91 (910 in chips) 
+Seat 3: mabeal1 (325 in chips) 
+ISW91: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 3d]
+miguelsd1994: raises 63 to 93
+ISW91: folds 
+mabeal1: calls 63
+*** FLOP *** [9c Kc Js]
+mabeal1: checks 
+miguelsd1994: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to miguelsd1994
+miguelsd1994 collected 201 from pot
+*** SUMMARY ***
+Total pot 201 | Rake 0 
+Board [9c Kc Js]
+Seat 1: miguelsd1994 (button) collected (201)
+Seat 2: ISW91 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259562421300: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:53:45 CET [2026/02/02 9:53:45 ET]
+Table '3971412331 1' 3-max Seat #2 is the button
+Seat 1: miguelsd1994 (373 in chips) 
+Seat 2: ISW91 (895 in chips) 
+Seat 3: mabeal1 (232 in chips) 
+mabeal1: posts small blind 15
+miguelsd1994: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ah]
+ISW91: folds 
+mabeal1: raises 202 to 232 and is all-in
+miguelsd1994: folds 
+Uncalled bet (202) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: miguelsd1994 (big blind) folded before Flop
+Seat 2: ISW91 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259562422508: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:53:52 CET [2026/02/02 9:53:52 ET]
+Table '3971412331 1' 3-max Seat #3 is the button
+Seat 1: miguelsd1994 (343 in chips) 
+Seat 2: ISW91 (895 in chips) 
+Seat 3: mabeal1 (262 in chips) 
+miguelsd1994: posts small blind 15
+ISW91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 5h]
+mabeal1: raises 232 to 262 and is all-in
+miguelsd1994: folds 
+ISW91: folds 
+Uncalled bet (232) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: miguelsd1994 (small blind) folded before Flop
+Seat 2: ISW91 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259562423742: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:54:00 CET [2026/02/02 9:54:00 ET]
+Table '3971412331 1' 3-max Seat #1 is the button
+Seat 1: miguelsd1994 (328 in chips) 
+Seat 2: ISW91 (865 in chips) 
+Seat 3: mabeal1 (307 in chips) 
+ISW91: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h As]
+miguelsd1994: calls 30
+ISW91: folds 
+mabeal1: raises 277 to 307 and is all-in
+miguelsd1994: folds 
+Uncalled bet (277) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: miguelsd1994 (button) folded before Flop
+Seat 2: ISW91 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (75)
+
+
+
+PokerStars Hand #259562425789: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:54:14 CET [2026/02/02 9:54:14 ET]
+Table '3971412331 1' 3-max Seat #2 is the button
+Seat 1: miguelsd1994 (298 in chips) 
+Seat 2: ISW91 (850 in chips) 
+Seat 3: mabeal1 (352 in chips) 
+mabeal1: posts small blind 15
+miguelsd1994: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 5c]
+ISW91: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to miguelsd1994
+miguelsd1994 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: miguelsd1994 (big blind) collected (30)
+Seat 2: ISW91 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562427021: Tournament #3971412331, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 15:54:22 CET [2026/02/02 9:54:22 ET]
+Table '3971412331 1' 3-max Seat #3 is the button
+Seat 1: miguelsd1994 (313 in chips) 
+Seat 2: ISW91 (850 in chips) 
+Seat 3: mabeal1 (337 in chips) 
+miguelsd1994: posts small blind 15
+ISW91: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 9s]
+mabeal1: raises 30 to 60
+miguelsd1994: calls 45
+ISW91: calls 30
+*** FLOP *** [2c 5c 5d]
+miguelsd1994: checks 
+ISW91: bets 90
+mabeal1: raises 187 to 277 and is all-in
+miguelsd1994: folds 
+ISW91: calls 187
+*** TURN *** [2c 5c 5d] [9h]
+*** RIVER *** [2c 5c 5d 9h] [7s]
+*** SHOW DOWN ***
+ISW91: shows [Js Jh] (two pair, Jacks and Fives)
+mabeal1: shows [Qh 9s] (two pair, Nines and Fives)
+ISW91 collected 734 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 734 | Rake 0 
+Board [2c 5c 5d 9h 7s]
+Seat 1: miguelsd1994 (small blind) folded on the Flop
+Seat 2: ISW91 (big blind) showed [Js Jh] and won (734) with two pair, Jacks and Fives
+Seat 3: mabeal1 (button) showed [Qh 9s] and lost with two pair, Nines and Fives
+
+
+

@@ -1,0 +1,745 @@
+﻿PokerStars Hand #259392517658: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:32:38 CET [2026/01/20 13:32:38 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: nx06 (500 in chips) 
+mabeal1: posts small blind 10
+nx06: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8h]
+padraig04: raises 20 to 40
+mabeal1: folds 
+nx06: calls 20
+*** FLOP *** [7h Jh 9d]
+nx06: bets 45
+padraig04: calls 45
+*** TURN *** [7h Jh 9d] [4h]
+nx06: bets 90
+padraig04: raises 325 to 415 and is all-in
+nx06: calls 325 and is all-in
+*** RIVER *** [7h Jh 9d 4h] [Qd]
+*** SHOW DOWN ***
+nx06: shows [9c Js] (two pair, Jacks and Nines)
+padraig04: shows [8s Tc] (a straight, Eight to Queen)
+padraig04 collected 1010 from pot
+nx06 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [7h Jh 9d 4h Qd]
+Seat 1: padraig04 (button) showed [8s Tc] and won (1010) with a straight, Eight to Queen
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: nx06 (big blind) showed [9c Js] and lost with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #259392525074: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:33:08 CET [2026/01/20 13:33:08 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (1010 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+mabeal1: posts small blind 10
+padraig04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 2h]
+mabeal1: calls 10
+padraig04: checks 
+*** FLOP *** [9d Kc Qh]
+padraig04: checks 
+mabeal1: bets 20
+padraig04: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9d Kc Qh]
+Seat 1: padraig04 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259392528398: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:33:22 CET [2026/01/20 13:33:22 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (990 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+padraig04: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ah]
+padraig04: calls 10
+mabeal1: raises 490 to 510 and is all-in
+padraig04: folds 
+Uncalled bet (490) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: padraig04 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259392530863: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:33:33 CET [2026/01/20 13:33:33 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+mabeal1: posts small blind 10
+padraig04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4s]
+mabeal1: calls 10
+padraig04: checks 
+*** FLOP *** [5h 2d 9d]
+padraig04: checks 
+mabeal1: bets 20
+padraig04: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5h 2d 9d]
+Seat 1: padraig04 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259392533748: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:33:44 CET [2026/01/20 13:33:44 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (950 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+padraig04: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Tc]
+padraig04: calls 10
+mabeal1: checks 
+*** FLOP *** [6s 3h 9c]
+mabeal1: checks 
+padraig04: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to padraig04
+padraig04 collected 40 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s 3h 9c]
+Seat 1: padraig04 (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259392537132: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:33:58 CET [2026/01/20 13:33:58 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+mabeal1: posts small blind 10
+padraig04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 9d]
+mabeal1: calls 10
+padraig04: raises 950 to 970 and is all-in
+mabeal1: folds 
+Uncalled bet (950) returned to padraig04
+padraig04 collected 40 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: padraig04 (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259392539042: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:34:06 CET [2026/01/20 13:34:06 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (990 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+padraig04: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ah]
+padraig04: calls 10
+mabeal1: raises 490 to 510 and is all-in
+padraig04: folds 
+Uncalled bet (490) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: padraig04 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259392541478: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:34:16 CET [2026/01/20 13:34:16 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (970 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+mabeal1: posts small blind 10
+padraig04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Qc]
+mabeal1: raises 20 to 40
+padraig04: calls 20
+*** FLOP *** [3s Jd 8s]
+padraig04: checks 
+mabeal1: bets 40
+padraig04: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s Jd 8s]
+Seat 1: padraig04 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259392545688: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:34:34 CET [2026/01/20 13:34:34 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (930 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+padraig04: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ah]
+padraig04: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: padraig04 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259392546824: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 19:34:38 CET [2026/01/20 13:34:38 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (920 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+mabeal1: posts small blind 10
+padraig04: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Ad]
+mabeal1: raises 40 to 60
+padraig04: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: padraig04 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259392550180: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 19:34:52 CET [2026/01/20 13:34:52 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (900 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+padraig04: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ah]
+padraig04: calls 15
+mabeal1: raises 570 to 600 and is all-in
+padraig04: folds 
+Uncalled bet (570) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: padraig04 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259392552155: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 19:35:00 CET [2026/01/20 13:35:00 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (870 in chips) 
+Seat 2: mabeal1 (630 in chips) 
+mabeal1: posts small blind 15
+padraig04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Qc]
+mabeal1: raises 60 to 90
+padraig04: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: padraig04 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259392555164: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 19:35:13 CET [2026/01/20 13:35:13 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (840 in chips) 
+Seat 2: mabeal1 (660 in chips) 
+padraig04: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Tc]
+padraig04: raises 810 to 840 and is all-in
+mabeal1: folds 
+Uncalled bet (810) returned to padraig04
+padraig04 collected 60 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: padraig04 (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259392557221: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 19:35:21 CET [2026/01/20 13:35:21 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (870 in chips) 
+Seat 2: mabeal1 (630 in chips) 
+mabeal1: posts small blind 15
+padraig04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 9h]
+mabeal1: raises 60 to 90
+padraig04: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: padraig04 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259392559433: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 19:35:31 CET [2026/01/20 13:35:31 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (840 in chips) 
+Seat 2: mabeal1 (660 in chips) 
+padraig04: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 2c]
+padraig04: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: padraig04 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259392560645: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 19:35:36 CET [2026/01/20 13:35:36 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (825 in chips) 
+Seat 2: mabeal1 (675 in chips) 
+mabeal1: posts small blind 15
+padraig04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 9d]
+mabeal1: calls 15
+padraig04: checks 
+*** FLOP *** [3d 5h 6d]
+padraig04: checks 
+mabeal1: checks 
+*** TURN *** [3d 5h 6d] [Jc]
+padraig04: checks 
+mabeal1: checks 
+*** RIVER *** [3d 5h 6d Jc] [Qc]
+padraig04: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to padraig04
+padraig04 collected 60 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d 5h 6d Jc Qc]
+Seat 1: padraig04 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259392565137: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 19:35:54 CET [2026/01/20 13:35:54 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (855 in chips) 
+Seat 2: mabeal1 (645 in chips) 
+padraig04: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5s]
+padraig04: calls 15
+mabeal1: checks 
+*** FLOP *** [3s 2c Qc]
+mabeal1: checks 
+padraig04: bets 60
+mabeal1: raises 90 to 150
+padraig04: calls 90
+*** TURN *** [3s 2c Qc] [3h]
+mabeal1: checks 
+padraig04: checks 
+*** RIVER *** [3s 2c Qc 3h] [Td]
+mabeal1: bets 120
+padraig04: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 360 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [3s 2c Qc 3h Td]
+Seat 1: padraig04 (button) (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (360)
+
+
+
+PokerStars Hand #259392573537: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 19:36:29 CET [2026/01/20 13:36:29 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (675 in chips) 
+Seat 2: mabeal1 (825 in chips) 
+mabeal1: posts small blind 15
+padraig04: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Jc]
+mabeal1: calls 15
+padraig04: raises 645 to 675 and is all-in
+mabeal1: folds 
+Uncalled bet (645) returned to padraig04
+padraig04 collected 60 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: padraig04 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259392576912: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 19:36:42 CET [2026/01/20 13:36:42 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (705 in chips) 
+Seat 2: mabeal1 (795 in chips) 
+padraig04: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 9c]
+padraig04: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: padraig04 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259392578342: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 19:36:48 CET [2026/01/20 13:36:48 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (685 in chips) 
+Seat 2: mabeal1 (815 in chips) 
+mabeal1: posts small blind 20
+padraig04: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 3d]
+mabeal1: calls 20
+padraig04: raises 645 to 685 and is all-in
+mabeal1: folds 
+Uncalled bet (645) returned to padraig04
+padraig04 collected 80 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: padraig04 (big blind) collected (80)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259392580355: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 19:36:57 CET [2026/01/20 13:36:57 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (725 in chips) 
+Seat 2: mabeal1 (775 in chips) 
+padraig04: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 4s]
+padraig04: calls 20
+mabeal1: checks 
+*** FLOP *** [6c 7s 3d]
+mabeal1: checks 
+padraig04: bets 120
+mabeal1: calls 120
+*** TURN *** [6c 7s 3d] [Tc]
+mabeal1: checks 
+padraig04: bets 565 and is all-in
+mabeal1: folds 
+Uncalled bet (565) returned to padraig04
+padraig04 collected 320 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [6c 7s 3d Tc]
+Seat 1: padraig04 (button) (small blind) collected (320)
+Seat 2: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259392588259: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 19:37:30 CET [2026/01/20 13:37:30 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (885 in chips) 
+Seat 2: mabeal1 (615 in chips) 
+mabeal1: posts small blind 20
+padraig04: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 6s]
+mabeal1: calls 20
+padraig04: raises 80 to 120
+mabeal1: calls 80
+*** FLOP *** [2c Tc 9h]
+padraig04: checks 
+mabeal1: checks 
+*** TURN *** [2c Tc 9h] [5h]
+padraig04: bets 120
+mabeal1: calls 120
+*** RIVER *** [2c Tc 9h 5h] [9c]
+padraig04: bets 240
+mabeal1: calls 240
+*** SHOW DOWN ***
+padraig04: shows [7d Jd] (a pair of Nines)
+mabeal1: shows [5s 6s] (two pair, Nines and Fives)
+mabeal1 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [2c Tc 9h 5h 9c]
+Seat 1: padraig04 (big blind) showed [7d Jd] and lost with a pair of Nines
+Seat 2: mabeal1 (button) (small blind) showed [5s 6s] and won (960) with two pair, Nines and Fives
+
+
+
+PokerStars Hand #259392602137: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 19:38:27 CET [2026/01/20 13:38:27 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (405 in chips) 
+Seat 2: mabeal1 (1095 in chips) 
+padraig04: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 6d]
+padraig04: raises 365 to 405 and is all-in
+mabeal1: folds 
+Uncalled bet (365) returned to padraig04
+padraig04 collected 80 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: padraig04 (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259392604506: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 19:38:37 CET [2026/01/20 13:38:37 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (445 in chips) 
+Seat 2: mabeal1 (1055 in chips) 
+mabeal1: posts small blind 20
+padraig04: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5c]
+mabeal1: folds 
+Uncalled bet (20) returned to padraig04
+padraig04 collected 40 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: padraig04 (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259392606427: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 19:38:45 CET [2026/01/20 13:38:45 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (465 in chips) 
+Seat 2: mabeal1 (1035 in chips) 
+padraig04: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 2s]
+padraig04: raises 405 to 465 and is all-in
+mabeal1: folds 
+Uncalled bet (405) returned to padraig04
+padraig04 collected 120 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: padraig04 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259392610763: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 19:39:02 CET [2026/01/20 13:39:02 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (525 in chips) 
+Seat 2: mabeal1 (975 in chips) 
+mabeal1: posts small blind 30
+padraig04: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qh]
+mabeal1: folds 
+Uncalled bet (30) returned to padraig04
+padraig04 collected 60 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: padraig04 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259392613337: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 19:39:13 CET [2026/01/20 13:39:13 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (555 in chips) 
+Seat 2: mabeal1 (945 in chips) 
+padraig04: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 5c]
+padraig04: raises 495 to 555 and is all-in
+mabeal1: folds 
+Uncalled bet (495) returned to padraig04
+padraig04 collected 120 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: padraig04 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259392616920: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 19:39:28 CET [2026/01/20 13:39:28 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (615 in chips) 
+Seat 2: mabeal1 (885 in chips) 
+mabeal1: posts small blind 30
+padraig04: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Qh]
+mabeal1: folds 
+Uncalled bet (30) returned to padraig04
+padraig04 collected 60 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: padraig04 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259392618964: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 19:39:36 CET [2026/01/20 13:39:36 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (645 in chips) 
+Seat 2: mabeal1 (855 in chips) 
+padraig04: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 3s]
+padraig04: raises 585 to 645 and is all-in
+mabeal1: folds 
+Uncalled bet (585) returned to padraig04
+padraig04 collected 120 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: padraig04 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259392620623: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 19:39:43 CET [2026/01/20 13:39:43 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (705 in chips) 
+Seat 2: mabeal1 (795 in chips) 
+mabeal1: posts small blind 30
+padraig04: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 3c]
+mabeal1: folds 
+Uncalled bet (30) returned to padraig04
+padraig04 collected 60 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: padraig04 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259392621637: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 19:39:47 CET [2026/01/20 13:39:47 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (735 in chips) 
+Seat 2: mabeal1 (765 in chips) 
+padraig04: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 4d]
+padraig04: raises 675 to 735 and is all-in
+mabeal1: folds 
+Uncalled bet (675) returned to padraig04
+padraig04 collected 120 from pot
+padraig04: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: padraig04 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259392623433: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 19:39:55 CET [2026/01/20 13:39:55 ET]
+Table '3967497691 1' 3-max Seat #2 is the button
+Seat 1: padraig04 (795 in chips) 
+Seat 2: mabeal1 (705 in chips) 
+mabeal1: posts small blind 30
+padraig04: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Kd]
+mabeal1: raises 645 to 705 and is all-in
+padraig04: folds 
+Uncalled bet (645) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: padraig04 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259392626415: Tournament #3967497691, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 19:40:07 CET [2026/01/20 13:40:07 ET]
+Table '3967497691 1' 3-max Seat #1 is the button
+Seat 1: padraig04 (735 in chips) 
+Seat 2: mabeal1 (765 in chips) 
+padraig04: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7h]
+padraig04: calls 30
+mabeal1: raises 705 to 765 and is all-in
+padraig04: calls 675 and is all-in
+Uncalled bet (30) returned to mabeal1
+*** FLOP *** [Kh Qc 6s]
+*** TURN *** [Kh Qc 6s] [Qd]
+*** RIVER *** [Kh Qc 6s Qd] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 7h] (two pair, Queens and Sevens)
+padraig04: shows [4h As] (a pair of Queens)
+mabeal1 collected 1470 from pot
+padraig04 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1470 | Rake 0 
+Board [Kh Qc 6s Qd 7d]
+Seat 1: padraig04 (button) (small blind) showed [4h As] and lost with a pair of Queens
+Seat 2: mabeal1 (big blind) showed [Ah 7h] and won (1470) with two pair, Queens and Sevens
+
+
+

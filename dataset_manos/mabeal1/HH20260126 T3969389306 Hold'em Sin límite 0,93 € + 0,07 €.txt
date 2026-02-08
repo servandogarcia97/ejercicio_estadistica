@@ -1,0 +1,396 @@
+﻿PokerStars Hand #259473929449: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:28:45 CET [2026/01/26 15:28:45 ET]
+Table '3969389306 1' 3-max Seat #1 is the button
+Seat 1: MChicoC (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: giovafish803 (500 in chips) 
+mabeal1: posts small blind 10
+giovafish803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 3c]
+MChicoC: raises 20 to 40
+mabeal1: folds 
+giovafish803: raises 460 to 500 and is all-in
+MChicoC: calls 460 and is all-in
+*** FLOP *** [4d Kh 6s]
+*** TURN *** [4d Kh 6s] [4h]
+*** RIVER *** [4d Kh 6s 4h] [4s]
+*** SHOW DOWN ***
+giovafish803: shows [7h 7d] (a full house, Fours full of Sevens)
+MChicoC: shows [5d 5s] (a full house, Fours full of Fives)
+giovafish803 collected 1010 from pot
+MChicoC finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [4d Kh 6s 4h 4s]
+Seat 1: MChicoC (button) showed [5d 5s] and lost with a full house, Fours full of Fives
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: giovafish803 (big blind) showed [7h 7d] and won (1010) with a full house, Fours full of Sevens
+
+
+
+PokerStars Hand #259473934755: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:29:05 CET [2026/01/26 15:29:05 ET]
+Table '3969389306 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: giovafish803 (1010 in chips) 
+giovafish803: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 4d]
+giovafish803: calls 10
+mabeal1: checks 
+*** FLOP *** [6c 5h 4h]
+mabeal1: checks 
+giovafish803: bets 30
+mabeal1: calls 30
+*** TURN *** [6c 5h 4h] [2s]
+mabeal1: checks 
+giovafish803: bets 20
+mabeal1: calls 20
+*** RIVER *** [6c 5h 4h 2s] [Ad]
+mabeal1: checks 
+giovafish803: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Th 4d] (a pair of Fours)
+giovafish803: shows [7c 6s] (a pair of Sixes)
+giovafish803 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [6c 5h 4h 2s Ad]
+Seat 2: mabeal1 (big blind) showed [Th 4d] and lost with a pair of Fours
+Seat 3: giovafish803 (button) (small blind) showed [7c 6s] and won (140) with a pair of Sixes
+
+
+
+PokerStars Hand #259473943601: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:29:38 CET [2026/01/26 15:29:38 ET]
+Table '3969389306 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: giovafish803 (1080 in chips) 
+mabeal1: posts small blind 10
+giovafish803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 2h]
+mabeal1: calls 10
+giovafish803: checks 
+*** FLOP *** [7s Ac Tc]
+giovafish803: checks 
+mabeal1: checks 
+*** TURN *** [7s Ac Tc] [As]
+giovafish803: checks 
+mabeal1: bets 20
+giovafish803: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s Ac Tc As]
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: giovafish803 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259473955540: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:30:22 CET [2026/01/26 15:30:22 ET]
+Table '3969389306 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: giovafish803 (1060 in chips) 
+giovafish803: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 9d]
+giovafish803: raises 1040 to 1060 and is all-in
+mabeal1: folds 
+Uncalled bet (1040) returned to giovafish803
+giovafish803 collected 40 from pot
+giovafish803: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: giovafish803 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259473957588: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:30:29 CET [2026/01/26 15:30:29 ET]
+Table '3969389306 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: giovafish803 (1080 in chips) 
+mabeal1: posts small blind 10
+giovafish803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 2c]
+mabeal1: calls 10
+giovafish803: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to giovafish803
+giovafish803 collected 40 from pot
+giovafish803: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: giovafish803 (big blind) collected (40)
+
+
+
+PokerStars Hand #259473960203: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:30:39 CET [2026/01/26 15:30:39 ET]
+Table '3969389306 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: giovafish803 (1100 in chips) 
+giovafish803: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Jd]
+giovafish803: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: giovafish803 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259473961774: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:30:44 CET [2026/01/26 15:30:44 ET]
+Table '3969389306 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (410 in chips) 
+Seat 3: giovafish803 (1090 in chips) 
+mabeal1: posts small blind 10
+giovafish803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5d]
+mabeal1: calls 10
+giovafish803: checks 
+*** FLOP *** [7s 3h 8h]
+giovafish803: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to giovafish803
+giovafish803 collected 40 from pot
+giovafish803: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s 3h 8h]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: giovafish803 (big blind) collected (40)
+
+
+
+PokerStars Hand #259473965030: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:30:56 CET [2026/01/26 15:30:56 ET]
+Table '3969389306 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (390 in chips) 
+Seat 3: giovafish803 (1110 in chips) 
+giovafish803: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 4s]
+giovafish803: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to giovafish803
+giovafish803 collected 40 from pot
+giovafish803: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: giovafish803 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259473967240: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:31:04 CET [2026/01/26 15:31:04 ET]
+Table '3969389306 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (370 in chips) 
+Seat 3: giovafish803 (1130 in chips) 
+mabeal1: posts small blind 10
+giovafish803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Qd]
+mabeal1: calls 10
+giovafish803: checks 
+*** FLOP *** [Kh 3d 2h]
+giovafish803: checks 
+mabeal1: bets 20
+giovafish803: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 3d 2h]
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: giovafish803 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259473972948: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:31:26 CET [2026/01/26 15:31:26 ET]
+Table '3969389306 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (390 in chips) 
+Seat 3: giovafish803 (1110 in chips) 
+giovafish803: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 7s]
+giovafish803: raises 1090 to 1110 and is all-in
+mabeal1: folds 
+Uncalled bet (1090) returned to giovafish803
+giovafish803 collected 40 from pot
+giovafish803: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: giovafish803 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259473975001: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 21:31:33 CET [2026/01/26 15:31:33 ET]
+Table '3969389306 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (370 in chips) 
+Seat 3: giovafish803 (1130 in chips) 
+mabeal1: posts small blind 10
+giovafish803: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ks]
+mabeal1: calls 10
+giovafish803: checks 
+*** FLOP *** [Qh 3s 4s]
+giovafish803: bets 20
+mabeal1: raises 330 to 350 and is all-in
+giovafish803: folds 
+Uncalled bet (330) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh 3s 4s]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: giovafish803 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259473980368: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:31:53 CET [2026/01/26 15:31:53 ET]
+Table '3969389306 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (410 in chips) 
+Seat 3: giovafish803 (1090 in chips) 
+giovafish803: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7h]
+giovafish803: raises 1060 to 1090 and is all-in
+mabeal1: folds 
+Uncalled bet (1060) returned to giovafish803
+giovafish803 collected 60 from pot
+giovafish803: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: giovafish803 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259473982234: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:32:00 CET [2026/01/26 15:32:00 ET]
+Table '3969389306 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (380 in chips) 
+Seat 3: giovafish803 (1120 in chips) 
+mabeal1: posts small blind 15
+giovafish803: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 5c]
+mabeal1: calls 15
+giovafish803: raises 1090 to 1120 and is all-in
+mabeal1: folds 
+Uncalled bet (1090) returned to giovafish803
+giovafish803 collected 60 from pot
+giovafish803: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: giovafish803 (big blind) collected (60)
+
+
+
+PokerStars Hand #259473984650: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:32:09 CET [2026/01/26 15:32:09 ET]
+Table '3969389306 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (350 in chips) 
+Seat 3: giovafish803 (1150 in chips) 
+giovafish803: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 3s]
+giovafish803: raises 1120 to 1150 and is all-in
+mabeal1: folds 
+Uncalled bet (1120) returned to giovafish803
+giovafish803 collected 60 from pot
+giovafish803: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: giovafish803 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259473986856: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:32:17 CET [2026/01/26 15:32:17 ET]
+Table '3969389306 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (320 in chips) 
+Seat 3: giovafish803 (1180 in chips) 
+mabeal1: posts small blind 15
+giovafish803: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 5h]
+mabeal1: folds 
+Uncalled bet (15) returned to giovafish803
+giovafish803 collected 30 from pot
+giovafish803: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: giovafish803 (big blind) collected (30)
+
+
+
+PokerStars Hand #259473988945: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:32:25 CET [2026/01/26 15:32:25 ET]
+Table '3969389306 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (305 in chips) 
+Seat 3: giovafish803 (1195 in chips) 
+giovafish803: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 6d]
+giovafish803: calls 15
+mabeal1: raises 275 to 305 and is all-in
+giovafish803: folds 
+Uncalled bet (275) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: giovafish803 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259473992441: Tournament #3969389306, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 21:32:38 CET [2026/01/26 15:32:38 ET]
+Table '3969389306 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (335 in chips) 
+Seat 3: giovafish803 (1165 in chips) 
+mabeal1: posts small blind 15
+giovafish803: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3h]
+mabeal1: calls 15
+giovafish803: checks 
+*** FLOP *** [7h 4d 8h]
+giovafish803: bets 45
+mabeal1: raises 260 to 305 and is all-in
+giovafish803: calls 260
+*** TURN *** [7h 4d 8h] [4s]
+*** RIVER *** [7h 4d 8h 4s] [9d]
+*** SHOW DOWN ***
+giovafish803: shows [6c 7d] (two pair, Sevens and Fours)
+mabeal1: shows [Jh 3h] (a pair of Fours)
+giovafish803 collected 670 from pot
+mabeal1 finished the tournament in 2nd place
+giovafish803 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [7h 4d 8h 4s 9d]
+Seat 2: mabeal1 (button) (small blind) showed [Jh 3h] and lost with a pair of Fours
+Seat 3: giovafish803 (big blind) showed [6c 7d] and won (670) with two pair, Sevens and Fours
+
+
+

@@ -1,0 +1,470 @@
+﻿PokerStars Hand #259578685318: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:22:31 CET [2026/02/03 13:22:31 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: titice37 (500 in chips) 
+Seat 3: picasian (500 in chips) 
+titice37: posts small blind 10
+picasian: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Jh]
+mabeal1: raises 20 to 40
+titice37: calls 30
+picasian: folds 
+*** FLOP *** [Qd 8c 2c]
+titice37: checks 
+mabeal1: bets 40
+titice37: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Qd 8c 2c]
+Seat 1: mabeal1 (button) collected (100)
+Seat 2: titice37 (small blind) folded on the Flop
+Seat 3: picasian (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578690254: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:22:52 CET [2026/02/03 13:22:52 ET]
+Table '3971773445 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: titice37 (460 in chips) 
+Seat 3: picasian (480 in chips) 
+picasian: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Td]
+titice37: folds 
+picasian: calls 10
+mabeal1: checks 
+*** FLOP *** [Js 5h 4d]
+picasian: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to picasian
+picasian collected 40 from pot
+picasian: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Js 5h 4d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: titice37 (button) folded before Flop (didn't bet)
+Seat 3: picasian (small blind) collected (40)
+
+
+
+PokerStars Hand #259578696411: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:23:17 CET [2026/02/03 13:23:17 ET]
+Table '3971773445 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: titice37 (460 in chips) 
+Seat 3: picasian (500 in chips) 
+mabeal1: posts small blind 10
+titice37: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Jd]
+picasian: calls 20
+mabeal1: raises 40 to 60
+titice37: calls 40
+picasian: calls 40
+*** FLOP *** [9s Qh 4c]
+mabeal1: bets 90
+titice37: raises 310 to 400 and is all-in
+picasian: folds 
+mabeal1: calls 310
+*** TURN *** [9s Qh 4c] [9c]
+*** RIVER *** [9s Qh 4c 9c] [5s]
+*** SHOW DOWN ***
+mabeal1: shows [Qd Jd] (two pair, Queens and Nines)
+titice37: shows [Tc Qs] (two pair, Queens and Nines - lower kicker)
+mabeal1 collected 980 from pot
+titice37 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [9s Qh 4c 9c 5s]
+Seat 1: mabeal1 (small blind) showed [Qd Jd] and won (980) with two pair, Queens and Nines
+Seat 2: titice37 (big blind) showed [Tc Qs] and lost with two pair, Queens and Nines
+Seat 3: picasian (button) folded on the Flop
+
+
+
+PokerStars Hand #259578706939: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:24:01 CET [2026/02/03 13:24:01 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: picasian (440 in chips) 
+mabeal1: posts small blind 10
+picasian: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6h]
+mabeal1: raises 1040 to 1060 and is all-in
+picasian: folds 
+Uncalled bet (1040) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: picasian (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578709679: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:24:13 CET [2026/02/03 13:24:13 ET]
+Table '3971773445 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1080 in chips) 
+Seat 3: picasian (420 in chips) 
+picasian: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 8h]
+picasian: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: picasian (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578710997: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:24:19 CET [2026/02/03 13:24:19 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1090 in chips) 
+Seat 3: picasian (410 in chips) 
+mabeal1: posts small blind 10
+picasian: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Kh]
+mabeal1: raises 1070 to 1090 and is all-in
+picasian: calls 390 and is all-in
+Uncalled bet (680) returned to mabeal1
+*** FLOP *** [5s 2d 2s]
+*** TURN *** [5s 2d 2s] [9d]
+*** RIVER *** [5s 2d 2s 9d] [8s]
+*** SHOW DOWN ***
+picasian: shows [Js 9s] (a flush, Jack high)
+mabeal1: shows [Ah Kh] (a pair of Deuces)
+picasian collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [5s 2d 2s 9d 8s]
+Seat 1: mabeal1 (button) (small blind) showed [Ah Kh] and lost with a pair of Deuces
+Seat 3: picasian (big blind) showed [Js 9s] and won (820) with a flush, Jack high
+
+
+
+PokerStars Hand #259578717672: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:24:47 CET [2026/02/03 13:24:47 ET]
+Table '3971773445 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (680 in chips) 
+Seat 3: picasian (820 in chips) 
+picasian: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8h]
+picasian: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: picasian (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578719516: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:24:54 CET [2026/02/03 13:24:54 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (695 in chips) 
+Seat 3: picasian (805 in chips) 
+mabeal1: posts small blind 15
+picasian: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6c]
+mabeal1: calls 15
+picasian: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to picasian
+picasian collected 60 from pot
+picasian: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: picasian (big blind) collected (60)
+
+
+
+PokerStars Hand #259578723095: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:25:10 CET [2026/02/03 13:25:10 ET]
+Table '3971773445 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (665 in chips) 
+Seat 3: picasian (835 in chips) 
+picasian: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3d]
+picasian: calls 15
+mabeal1: checks 
+*** FLOP *** [6s 9c Qs]
+mabeal1: checks 
+picasian: bets 60
+mabeal1: calls 60
+*** TURN *** [6s 9c Qs] [7s]
+mabeal1: checks 
+picasian: checks 
+*** RIVER *** [6s 9c Qs 7s] [7c]
+mabeal1: checks 
+picasian: bets 90
+mabeal1: calls 90
+*** SHOW DOWN ***
+picasian: shows [2c 6c] (two pair, Sevens and Sixes)
+mabeal1: shows [9d 3d] (two pair, Nines and Sevens)
+mabeal1 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6s 9c Qs 7s 7c]
+Seat 1: mabeal1 (big blind) showed [9d 3d] and won (360) with two pair, Nines and Sevens
+Seat 3: picasian (button) (small blind) showed [2c 6c] and lost with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #259578730520: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:25:42 CET [2026/02/03 13:25:42 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (845 in chips) 
+Seat 3: picasian (655 in chips) 
+mabeal1: posts small blind 15
+picasian: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 7s]
+mabeal1: folds 
+Uncalled bet (15) returned to picasian
+picasian collected 30 from pot
+picasian: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: picasian (big blind) collected (30)
+
+
+
+PokerStars Hand #259578732895: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:25:52 CET [2026/02/03 13:25:52 ET]
+Table '3971773445 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 3: picasian (670 in chips) 
+picasian: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 8s]
+picasian: raises 30 to 60
+mabeal1: raises 770 to 830 and is all-in
+picasian: folds 
+Uncalled bet (770) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 3: picasian (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578736144: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:26:06 CET [2026/02/03 13:26:06 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (890 in chips) 
+Seat 3: picasian (610 in chips) 
+mabeal1: posts small blind 15
+picasian: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Kd]
+mabeal1: raises 45 to 75
+picasian: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: picasian (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578738087: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:26:14 CET [2026/02/03 13:26:14 ET]
+Table '3971773445 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (920 in chips) 
+Seat 3: picasian (580 in chips) 
+picasian: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Th]
+picasian: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: picasian (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578739220: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:26:19 CET [2026/02/03 13:26:19 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (935 in chips) 
+Seat 3: picasian (565 in chips) 
+mabeal1: posts small blind 15
+picasian: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ks]
+mabeal1: raises 60 to 90
+picasian: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: picasian (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578741772: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:26:30 CET [2026/02/03 13:26:30 ET]
+Table '3971773445 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (965 in chips) 
+Seat 3: picasian (535 in chips) 
+picasian: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 7s]
+picasian: calls 15
+mabeal1: checks 
+*** FLOP *** [5s 6c Td]
+mabeal1: checks 
+picasian: bets 30
+mabeal1: raises 30 to 60
+picasian: raises 445 to 505 and is all-in
+mabeal1: folds 
+Uncalled bet (445) returned to picasian
+picasian collected 180 from pot
+picasian: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5s 6c Td]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 3: picasian (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #259578750032: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:27:04 CET [2026/02/03 13:27:04 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (875 in chips) 
+Seat 3: picasian (625 in chips) 
+mabeal1: posts small blind 20
+picasian: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7h]
+mabeal1: calls 20
+picasian: checks 
+*** FLOP *** [Td 9s 5h]
+picasian: bets 40
+mabeal1: raises 80 to 120
+picasian: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Td 9s 5h]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 3: picasian (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259578754382: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:27:23 CET [2026/02/03 13:27:23 ET]
+Table '3971773445 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (955 in chips) 
+Seat 3: picasian (545 in chips) 
+picasian: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 3d]
+picasian: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: picasian (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578755613: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:27:28 CET [2026/02/03 13:27:28 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (975 in chips) 
+Seat 3: picasian (525 in chips) 
+mabeal1: posts small blind 20
+picasian: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8d]
+mabeal1: folds 
+Uncalled bet (20) returned to picasian
+picasian collected 40 from pot
+picasian: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: picasian (big blind) collected (40)
+
+
+
+PokerStars Hand #259578756888: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:27:33 CET [2026/02/03 13:27:33 ET]
+Table '3971773445 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (955 in chips) 
+Seat 3: picasian (545 in chips) 
+picasian: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Kh]
+picasian: raises 40 to 80
+mabeal1: raises 875 to 955 and is all-in
+picasian: folds 
+Uncalled bet (875) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (160)
+Seat 3: picasian (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578759076: Tournament #3971773445, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:27:42 CET [2026/02/03 13:27:42 ET]
+Table '3971773445 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1035 in chips) 
+Seat 3: picasian (465 in chips) 
+mabeal1: posts small blind 20
+picasian: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2h]
+mabeal1: raises 40 to 80
+picasian: calls 40
+*** FLOP *** [4h 3h Tc]
+picasian: checks 
+mabeal1: checks 
+*** TURN *** [4h 3h Tc] [Ah]
+picasian: bets 80
+mabeal1: calls 80
+*** RIVER *** [4h 3h Tc Ah] [Qs]
+picasian: bets 305 and is all-in
+mabeal1: calls 305
+*** SHOW DOWN ***
+picasian: shows [5c Jh] (high card Ace)
+mabeal1: shows [Ac 2h] (a pair of Aces)
+mabeal1 collected 930 from pot
+picasian finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [4h 3h Tc Ah Qs]
+Seat 1: mabeal1 (button) (small blind) showed [Ac 2h] and won (930) with a pair of Aces
+Seat 3: picasian (big blind) showed [5c Jh] and lost with high card Ace
+
+
+

@@ -1,0 +1,888 @@
+﻿PokerStars Hand #259572463715: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:56:35 CET [2026/02/02 21:56:35 ET]
+Table '3971614038 1' 3-max Seat #1 is the button
+Seat 1: pedroal144 (500 in chips) 
+Seat 2: Adrián Bogdan (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Adrián Bogdan: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8d]
+pedroal144: folds 
+Adrián Bogdan: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [9c Qh Ac]
+Adrián Bogdan: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Adrián Bogdan
+Adrián Bogdan collected 80 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c Qh Ac]
+Seat 1: pedroal144 (button) folded before Flop (didn't bet)
+Seat 2: Adrián Bogdan (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259572465966: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:57:00 CET [2026/02/02 21:57:00 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 1: pedroal144 (500 in chips) 
+Seat 2: Adrián Bogdan (540 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+pedroal144: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Qs]
+Adrián Bogdan: calls 20
+mabeal1: calls 10
+pedroal144: checks 
+*** FLOP *** [2s 3h Ts]
+mabeal1: checks 
+pedroal144: checks 
+Adrián Bogdan: bets 40
+mabeal1: folds 
+pedroal144: folds 
+Uncalled bet (40) returned to Adrián Bogdan
+Adrián Bogdan collected 60 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2s 3h Ts]
+Seat 1: pedroal144 (big blind) folded on the Flop
+Seat 2: Adrián Bogdan (button) collected (60)
+Seat 3: mabeal1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259572467966: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:57:23 CET [2026/02/02 21:57:23 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 1: pedroal144 (480 in chips) 
+Seat 2: Adrián Bogdan (580 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+pedroal144: posts small blind 10
+Adrián Bogdan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Jc]
+mabeal1: raises 20 to 40
+pedroal144: folds 
+Adrián Bogdan: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: pedroal144 (small blind) folded before Flop
+Seat 2: Adrián Bogdan (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259572468760: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:57:32 CET [2026/02/02 21:57:32 ET]
+Table '3971614038 1' 3-max Seat #1 is the button
+Seat 1: pedroal144 (470 in chips) 
+Seat 2: Adrián Bogdan (560 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+Adrián Bogdan: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 9s]
+pedroal144: calls 20
+Adrián Bogdan: folds 
+mabeal1: checks 
+*** FLOP *** [5d 6s 3s]
+mabeal1: bets 38
+pedroal144: calls 38
+*** TURN *** [5d 6s 3s] [4c]
+mabeal1: checks 
+pedroal144: checks 
+*** RIVER *** [5d 6s 3s 4c] [7s]
+mabeal1: checks 
+pedroal144: checks 
+*** SHOW DOWN ***
+mabeal1: shows [6c 9s] (a straight, Three to Seven)
+pedroal144: shows [Qd Td] (a straight, Three to Seven)
+mabeal1 collected 63 from pot
+pedroal144 collected 63 from pot
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [5d 6s 3s 4c 7s]
+Seat 1: pedroal144 (button) showed [Qd Td] and won (63) with a straight, Three to Seven
+Seat 2: Adrián Bogdan (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [6c 9s] and won (63) with a straight, Three to Seven
+
+
+
+PokerStars Hand #259572471361: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:58:03 CET [2026/02/02 21:58:03 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 1: pedroal144 (475 in chips) 
+Seat 2: Adrián Bogdan (550 in chips) 
+Seat 3: mabeal1 (475 in chips) 
+mabeal1: posts small blind 10
+pedroal144: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5s]
+Adrián Bogdan: raises 20 to 40
+mabeal1: folds 
+pedroal144: calls 20
+*** FLOP *** [8c As Qs]
+pedroal144: checks 
+Adrián Bogdan: bets 40
+pedroal144: folds 
+Uncalled bet (40) returned to Adrián Bogdan
+Adrián Bogdan collected 90 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8c As Qs]
+Seat 1: pedroal144 (big blind) folded on the Flop
+Seat 2: Adrián Bogdan (button) collected (90)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572472972: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:58:22 CET [2026/02/02 21:58:22 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 1: pedroal144 (435 in chips) 
+Seat 2: Adrián Bogdan (600 in chips) 
+Seat 3: mabeal1 (465 in chips) 
+pedroal144: posts small blind 10
+Adrián Bogdan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 3s]
+mabeal1: folds 
+pedroal144: calls 10
+Adrián Bogdan: checks 
+*** FLOP *** [Kh Ah 6h]
+pedroal144: bets 20
+Adrián Bogdan: folds 
+Uncalled bet (20) returned to pedroal144
+pedroal144 collected 40 from pot
+pedroal144: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh Ah 6h]
+Seat 1: pedroal144 (small blind) collected (40)
+Seat 2: Adrián Bogdan (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572474819: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:58:43 CET [2026/02/02 21:58:43 ET]
+Table '3971614038 1' 3-max Seat #1 is the button
+Seat 1: pedroal144 (455 in chips) 
+Seat 2: Adrián Bogdan (580 in chips) 
+Seat 3: mabeal1 (465 in chips) 
+Adrián Bogdan: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 3s]
+pedroal144: folds 
+Adrián Bogdan: calls 10
+mabeal1: checks 
+*** FLOP *** [6d 2h 6c]
+Adrián Bogdan: checks 
+mabeal1: bets 30
+Adrián Bogdan: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6d 2h 6c]
+Seat 1: pedroal144 (button) folded before Flop (didn't bet)
+Seat 2: Adrián Bogdan (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259572476639: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:03 CET [2026/02/02 21:59:03 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 1: pedroal144 (455 in chips) 
+Seat 2: Adrián Bogdan (560 in chips) 
+Seat 3: mabeal1 (485 in chips) 
+mabeal1: posts small blind 10
+pedroal144: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 2c]
+Adrián Bogdan: raises 20 to 40
+mabeal1: folds 
+pedroal144: calls 20
+*** FLOP *** [Qc 4s Kh]
+pedroal144: checks 
+Adrián Bogdan: bets 60
+pedroal144: folds 
+Uncalled bet (60) returned to Adrián Bogdan
+Adrián Bogdan collected 90 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qc 4s Kh]
+Seat 1: pedroal144 (big blind) folded on the Flop
+Seat 2: Adrián Bogdan (button) collected (90)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572478260: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:21 CET [2026/02/02 21:59:21 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 1: pedroal144 (415 in chips) 
+Seat 2: Adrián Bogdan (610 in chips) 
+Seat 3: mabeal1 (475 in chips) 
+pedroal144: posts small blind 10
+Adrián Bogdan: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Ad]
+mabeal1: raises 455 to 475 and is all-in
+pedroal144: folds 
+Adrián Bogdan: folds 
+Uncalled bet (455) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: pedroal144 (small blind) folded before Flop
+Seat 2: Adrián Bogdan (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259572479121: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:59:30 CET [2026/02/02 21:59:30 ET]
+Table '3971614038 1' 3-max Seat #1 is the button
+Seat 1: pedroal144 (405 in chips) 
+Seat 2: Adrián Bogdan (590 in chips) 
+Seat 3: mabeal1 (505 in chips) 
+Adrián Bogdan: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4h]
+pedroal144: folds 
+Adrián Bogdan: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pedroal144 (button) folded before Flop (didn't bet)
+Seat 2: Adrián Bogdan (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259572479882: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:59:39 CET [2026/02/02 21:59:39 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 1: pedroal144 (405 in chips) 
+Seat 2: Adrián Bogdan (580 in chips) 
+Seat 3: mabeal1 (515 in chips) 
+mabeal1: posts small blind 15
+pedroal144: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qh]
+Adrián Bogdan: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to pedroal144
+pedroal144 collected 30 from pot
+pedroal144: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: pedroal144 (big blind) collected (30)
+Seat 2: Adrián Bogdan (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572480863: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:59:50 CET [2026/02/02 21:59:50 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 1: pedroal144 (420 in chips) 
+Seat 2: Adrián Bogdan (580 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+pedroal144: posts small blind 15
+Adrián Bogdan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7c]
+mabeal1: folds 
+pedroal144: folds 
+Uncalled bet (15) returned to Adrián Bogdan
+Adrián Bogdan collected 30 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: pedroal144 (small blind) folded before Flop
+Seat 2: Adrián Bogdan (big blind) collected (30)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572481404: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:59:56 CET [2026/02/02 21:59:56 ET]
+Table '3971614038 1' 3-max Seat #1 is the button
+Seat 1: pedroal144 (405 in chips) 
+Seat 2: Adrián Bogdan (595 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Adrián Bogdan: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Qd]
+pedroal144: calls 30
+Adrián Bogdan: calls 15
+mabeal1: checks 
+*** FLOP *** [Qc Kc 7s]
+Adrián Bogdan: checks 
+mabeal1: checks 
+pedroal144: bets 45
+Adrián Bogdan: folds 
+mabeal1: calls 45
+*** TURN *** [Qc Kc 7s] [Qs]
+mabeal1: checks 
+pedroal144: bets 90
+mabeal1: raises 335 to 425 and is all-in
+pedroal144: calls 240 and is all-in
+Uncalled bet (95) returned to mabeal1
+*** RIVER *** [Qc Kc 7s Qs] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [8d Qd] (a full house, Queens full of Sevens)
+pedroal144: shows [Tc Qh] (a full house, Queens full of Sevens)
+mabeal1 collected 420 from pot
+pedroal144 collected 420 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [Qc Kc 7s Qs 7d]
+Seat 1: pedroal144 (button) showed [Tc Qh] and won (420) with a full house, Queens full of Sevens
+Seat 2: Adrián Bogdan (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) showed [8d Qd] and won (420) with a full house, Queens full of Sevens
+
+
+
+PokerStars Hand #259572485219: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 4:00:37 CET [2026/02/02 22:00:37 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 1: pedroal144 (420 in chips) 
+Seat 2: Adrián Bogdan (565 in chips) 
+Seat 3: mabeal1 (515 in chips) 
+mabeal1: posts small blind 15
+pedroal144: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 8h]
+Adrián Bogdan: calls 30
+mabeal1: calls 15
+pedroal144: checks 
+*** FLOP *** [4h 4s 2s]
+mabeal1: checks 
+pedroal144: checks 
+Adrián Bogdan: bets 30
+mabeal1: calls 30
+pedroal144: folds 
+*** TURN *** [4h 4s 2s] [9s]
+mabeal1: checks 
+Adrián Bogdan: bets 60
+mabeal1: calls 60
+*** RIVER *** [4h 4s 2s 9s] [6h]
+mabeal1: checks 
+Adrián Bogdan: bets 120
+mabeal1: calls 120
+*** SHOW DOWN ***
+Adrián Bogdan: shows [2d Qd] (two pair, Fours and Deuces)
+mabeal1: shows [9h 8h] (two pair, Nines and Fours)
+mabeal1 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [4h 4s 2s 9s 6h]
+Seat 1: pedroal144 (big blind) folded on the Flop
+Seat 2: Adrián Bogdan (button) showed [2d Qd] and lost with two pair, Fours and Deuces
+Seat 3: mabeal1 (small blind) showed [9h 8h] and won (510) with two pair, Nines and Fours
+
+
+
+PokerStars Hand #259572490606: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 4:01:28 CET [2026/02/02 22:01:28 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 1: pedroal144 (390 in chips) 
+Seat 2: Adrián Bogdan (325 in chips) 
+Seat 3: mabeal1 (785 in chips) 
+pedroal144: posts small blind 15
+Adrián Bogdan: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 8c]
+mabeal1: folds 
+pedroal144: calls 15
+Adrián Bogdan: raises 30 to 60
+pedroal144: calls 30
+*** FLOP *** [4d 9d Tc]
+pedroal144: bets 30
+Adrián Bogdan: raises 30 to 60
+pedroal144: calls 30
+*** TURN *** [4d 9d Tc] [Jh]
+pedroal144: checks 
+Adrián Bogdan: bets 205 and is all-in
+pedroal144: folds 
+Uncalled bet (205) returned to Adrián Bogdan
+Adrián Bogdan collected 240 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4d 9d Tc Jh]
+Seat 1: pedroal144 (small blind) folded on the Turn
+Seat 2: Adrián Bogdan (big blind) collected (240)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572494718: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 4:02:05 CET [2026/02/02 22:02:05 ET]
+Table '3971614038 1' 3-max Seat #1 is the button
+Seat 1: pedroal144 (270 in chips) 
+Seat 2: Adrián Bogdan (445 in chips) 
+Seat 3: mabeal1 (785 in chips) 
+Adrián Bogdan: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Kd]
+pedroal144: folds 
+Adrián Bogdan: calls 15
+mabeal1: checks 
+*** FLOP *** [2d 4d 6s]
+Adrián Bogdan: checks 
+mabeal1: bets 60
+Adrián Bogdan: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d 4d 6s]
+Seat 1: pedroal144 (button) folded before Flop (didn't bet)
+Seat 2: Adrián Bogdan (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259572497142: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 4:02:26 CET [2026/02/02 22:02:26 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 1: pedroal144 (270 in chips) 
+Seat 2: Adrián Bogdan (415 in chips) 
+Seat 3: mabeal1 (815 in chips) 
+mabeal1: posts small blind 15
+pedroal144: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 6s]
+Adrián Bogdan: calls 30
+mabeal1: folds 
+pedroal144: checks 
+*** FLOP *** [Kh 3h Qd]
+pedroal144: checks 
+Adrián Bogdan: checks 
+*** TURN *** [Kh 3h Qd] [4d]
+pedroal144: bets 30
+Adrián Bogdan: calls 30
+*** RIVER *** [Kh 3h Qd 4d] [Ts]
+pedroal144: bets 30
+Adrián Bogdan: calls 30
+*** SHOW DOWN ***
+pedroal144: shows [4c 6c] (a pair of Fours)
+Adrián Bogdan: shows [Td 2d] (a pair of Tens)
+Adrián Bogdan collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [Kh 3h Qd 4d Ts]
+Seat 1: pedroal144 (big blind) showed [4c 6c] and lost with a pair of Fours
+Seat 2: Adrián Bogdan (button) showed [Td 2d] and won (195) with a pair of Tens
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572499969: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 4:02:51 CET [2026/02/02 22:02:51 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 1: pedroal144 (180 in chips) 
+Seat 2: Adrián Bogdan (520 in chips) 
+Seat 3: mabeal1 (800 in chips) 
+pedroal144: posts small blind 20
+Adrián Bogdan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Jh]
+mabeal1: raises 40 to 80
+pedroal144: folds 
+Adrián Bogdan: raises 40 to 120
+mabeal1: calls 40
+*** FLOP *** [2c 4c 7c]
+Adrián Bogdan: bets 130
+mabeal1: calls 130
+*** TURN *** [2c 4c 7c] [Th]
+Adrián Bogdan: bets 270 and is all-in
+mabeal1: folds 
+Uncalled bet (270) returned to Adrián Bogdan
+Adrián Bogdan collected 520 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [2c 4c 7c Th]
+Seat 1: pedroal144 (small blind) folded before Flop
+Seat 2: Adrián Bogdan (big blind) collected (520)
+Seat 3: mabeal1 (button) folded on the Turn
+
+
+
+PokerStars Hand #259572502906: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 4:03:18 CET [2026/02/02 22:03:18 ET]
+Table '3971614038 1' 3-max Seat #1 is the button
+Seat 1: pedroal144 (160 in chips) 
+Seat 2: Adrián Bogdan (790 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+Adrián Bogdan: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Ac]
+pedroal144: raises 120 to 160 and is all-in
+Adrián Bogdan: folds 
+mabeal1: calls 120
+*** FLOP *** [Ts 7s Qc]
+*** TURN *** [Ts 7s Qc] [2h]
+*** RIVER *** [Ts 7s Qc 2h] [3s]
+*** SHOW DOWN ***
+mabeal1: shows [6h Ac] (high card Ace)
+pedroal144: shows [Jc Jd] (a pair of Jacks)
+pedroal144 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Ts 7s Qc 2h 3s]
+Seat 1: pedroal144 (button) showed [Jc Jd] and won (340) with a pair of Jacks
+Seat 2: Adrián Bogdan (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [6h Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #259572505089: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 4:03:38 CET [2026/02/02 22:03:38 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 1: pedroal144 (340 in chips) 
+Seat 2: Adrián Bogdan (770 in chips) 
+Seat 3: mabeal1 (390 in chips) 
+mabeal1: posts small blind 20
+pedroal144: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8d]
+Adrián Bogdan: calls 40
+mabeal1: folds 
+pedroal144: checks 
+*** FLOP *** [3s 5d Ts]
+pedroal144: checks 
+Adrián Bogdan: checks 
+*** TURN *** [3s 5d Ts] [4s]
+pedroal144: checks 
+Adrián Bogdan: checks 
+*** RIVER *** [3s 5d Ts 4s] [8c]
+pedroal144: bets 40
+Adrián Bogdan: folds 
+Uncalled bet (40) returned to pedroal144
+pedroal144 collected 100 from pot
+pedroal144: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3s 5d Ts 4s 8c]
+Seat 1: pedroal144 (big blind) collected (100)
+Seat 2: Adrián Bogdan (button) folded on the River
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572508339: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 4:04:07 CET [2026/02/02 22:04:07 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 1: pedroal144 (400 in chips) 
+Seat 2: Adrián Bogdan (730 in chips) 
+Seat 3: mabeal1 (370 in chips) 
+pedroal144: posts small blind 20
+Adrián Bogdan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 8s]
+mabeal1: folds 
+pedroal144: calls 20
+Adrián Bogdan: raises 40 to 80
+pedroal144: calls 40
+*** FLOP *** [2s 5d Ts]
+pedroal144: checks 
+Adrián Bogdan: bets 80
+pedroal144: folds 
+Uncalled bet (80) returned to Adrián Bogdan
+Adrián Bogdan collected 160 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2s 5d Ts]
+Seat 1: pedroal144 (small blind) folded on the Flop
+Seat 2: Adrián Bogdan (big blind) collected (160)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572511080: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 4:04:32 CET [2026/02/02 22:04:32 ET]
+Table '3971614038 1' 3-max Seat #1 is the button
+Seat 1: pedroal144 (320 in chips) 
+Seat 2: Adrián Bogdan (810 in chips) 
+Seat 3: mabeal1 (370 in chips) 
+Adrián Bogdan: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Tc]
+pedroal144: folds 
+Adrián Bogdan: calls 20
+mabeal1: checks 
+*** FLOP *** [3c 8h 7h]
+Adrián Bogdan: bets 40
+mabeal1: raises 120 to 160
+Adrián Bogdan: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [3c 8h 7h]
+Seat 1: pedroal144 (button) folded before Flop (didn't bet)
+Seat 2: Adrián Bogdan (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (160)
+
+
+
+PokerStars Hand #259572514217: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 4:05:00 CET [2026/02/02 22:05:00 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 1: pedroal144 (320 in chips) 
+Seat 2: Adrián Bogdan (730 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+mabeal1: posts small blind 20
+pedroal144: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9c]
+Adrián Bogdan: calls 40
+mabeal1: folds 
+pedroal144: checks 
+*** FLOP *** [Kh 2c Jd]
+pedroal144: bets 40
+Adrián Bogdan: folds 
+Uncalled bet (40) returned to pedroal144
+pedroal144 collected 100 from pot
+pedroal144: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Kh 2c Jd]
+Seat 1: pedroal144 (big blind) collected (100)
+Seat 2: Adrián Bogdan (button) folded on the Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572515549: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 4:05:12 CET [2026/02/02 22:05:12 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 1: pedroal144 (380 in chips) 
+Seat 2: Adrián Bogdan (690 in chips) 
+Seat 3: mabeal1 (430 in chips) 
+pedroal144: posts small blind 20
+Adrián Bogdan: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 8c]
+mabeal1: folds 
+pedroal144: calls 20
+Adrián Bogdan: checks 
+*** FLOP *** [Ac 2h 8d]
+pedroal144: bets 40
+Adrián Bogdan: folds 
+Uncalled bet (40) returned to pedroal144
+pedroal144 collected 80 from pot
+pedroal144: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 2h 8d]
+Seat 1: pedroal144 (small blind) collected (80)
+Seat 2: Adrián Bogdan (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572517402: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 4:05:29 CET [2026/02/02 22:05:29 ET]
+Table '3971614038 1' 3-max Seat #1 is the button
+Seat 1: pedroal144 (420 in chips) 
+Seat 2: Adrián Bogdan (650 in chips) 
+Seat 3: mabeal1 (430 in chips) 
+Adrián Bogdan: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 4s]
+pedroal144: calls 40
+Adrián Bogdan: raises 40 to 80
+mabeal1: folds 
+pedroal144: calls 40
+*** FLOP *** [5s 9h 4h]
+Adrián Bogdan: bets 80
+pedroal144: calls 80
+*** TURN *** [5s 9h 4h] [2s]
+Adrián Bogdan: bets 160
+pedroal144: raises 100 to 260 and is all-in
+Adrián Bogdan: calls 100
+*** RIVER *** [5s 9h 4h 2s] [Ts]
+*** SHOW DOWN ***
+Adrián Bogdan: shows [Kh Kd] (a pair of Kings)
+pedroal144: shows [Qh 9d] (a pair of Nines)
+Adrián Bogdan collected 880 from pot
+pedroal144 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [5s 9h 4h 2s Ts]
+Seat 1: pedroal144 (button) showed [Qh 9d] and lost with a pair of Nines
+Seat 2: Adrián Bogdan (small blind) showed [Kh Kd] and won (880) with a pair of Kings
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259572520970: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 4:06:00 CET [2026/02/02 22:06:00 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 2: Adrián Bogdan (1110 in chips) 
+Seat 3: mabeal1 (390 in chips) 
+mabeal1: posts small blind 30
+Adrián Bogdan: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5s]
+mabeal1: calls 30
+Adrián Bogdan: checks 
+*** FLOP *** [3s 6c 4d]
+Adrián Bogdan: bets 60
+mabeal1: raises 270 to 330 and is all-in
+Adrián Bogdan: folds 
+Uncalled bet (270) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3s 6c 4d]
+Seat 2: Adrián Bogdan (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #259572522804: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 4:06:16 CET [2026/02/02 22:06:16 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 2: Adrián Bogdan (990 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+Adrián Bogdan: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9s]
+Adrián Bogdan: calls 30
+mabeal1: checks 
+*** FLOP *** [7d Jh 5c]
+mabeal1: checks 
+Adrián Bogdan: bets 60
+mabeal1: raises 390 to 450 and is all-in
+Adrián Bogdan: calls 390
+*** TURN *** [7d Jh 5c] [6h]
+*** RIVER *** [7d Jh 5c 6h] [Jc]
+*** SHOW DOWN ***
+mabeal1: shows [8d 9s] (a straight, Five to Nine)
+Adrián Bogdan: shows [Kh 7c] (two pair, Jacks and Sevens)
+mabeal1 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [7d Jh 5c 6h Jc]
+Seat 2: Adrián Bogdan (button) (small blind) showed [Kh 7c] and lost with two pair, Jacks and Sevens
+Seat 3: mabeal1 (big blind) showed [8d 9s] and won (1020) with a straight, Five to Nine
+
+
+
+PokerStars Hand #259572525859: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 4:06:44 CET [2026/02/02 22:06:44 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 2: Adrián Bogdan (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 30
+Adrián Bogdan: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9d]
+mabeal1: raises 960 to 1020 and is all-in
+Adrián Bogdan: folds 
+Uncalled bet (960) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Adrián Bogdan (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259572527588: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 4:07:00 CET [2026/02/02 22:07:00 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 2: Adrián Bogdan (420 in chips) 
+Seat 3: mabeal1 (1080 in chips) 
+Adrián Bogdan: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 7s]
+Adrián Bogdan: raises 360 to 420 and is all-in
+mabeal1: folds 
+Uncalled bet (360) returned to Adrián Bogdan
+Adrián Bogdan collected 120 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Adrián Bogdan (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259572529029: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 4:07:13 CET [2026/02/02 22:07:13 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 2: Adrián Bogdan (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 30
+Adrián Bogdan: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Kh]
+mabeal1: raises 960 to 1020 and is all-in
+Adrián Bogdan: folds 
+Uncalled bet (960) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Adrián Bogdan (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259572529981: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 4:07:22 CET [2026/02/02 22:07:22 ET]
+Table '3971614038 1' 3-max Seat #2 is the button
+Seat 2: Adrián Bogdan (420 in chips) 
+Seat 3: mabeal1 (1080 in chips) 
+Adrián Bogdan: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 7c]
+Adrián Bogdan: raises 360 to 420 and is all-in
+mabeal1: folds 
+Uncalled bet (360) returned to Adrián Bogdan
+Adrián Bogdan collected 120 from pot
+Adrián Bogdan: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: Adrián Bogdan (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259572530887: Tournament #3971614038, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 4:07:30 CET [2026/02/02 22:07:30 ET]
+Table '3971614038 1' 3-max Seat #3 is the button
+Seat 2: Adrián Bogdan (480 in chips) 
+Seat 3: mabeal1 (1020 in chips) 
+mabeal1: posts small blind 30
+Adrián Bogdan: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Kc]
+mabeal1: raises 960 to 1020 and is all-in
+Adrián Bogdan: calls 420 and is all-in
+Uncalled bet (540) returned to mabeal1
+*** FLOP *** [9c Td Ah]
+*** TURN *** [9c Td Ah] [5h]
+*** RIVER *** [9c Td Ah 5h] [As]
+*** SHOW DOWN ***
+Adrián Bogdan: shows [Qs 2h] (a pair of Aces)
+mabeal1: shows [Ad Kc] (three of a kind, Aces)
+mabeal1 collected 960 from pot
+Adrián Bogdan finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €5.00 - congratulations!
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [9c Td Ah 5h As]
+Seat 2: Adrián Bogdan (big blind) showed [Qs 2h] and lost with a pair of Aces
+Seat 3: mabeal1 (button) (small blind) showed [Ad Kc] and won (960) with three of a kind, Aces
+
+
+

@@ -1,0 +1,715 @@
+﻿PokerStars Hand #259592148601: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:47:43 CET [2026/02/04 14:47:43 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: saki200 (500 in chips) 
+Seat 3: Mieres0555 (500 in chips) 
+saki200: posts small blind 10
+Mieres0555: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Td]
+mabeal1: raises 20 to 40
+saki200: folds 
+Mieres0555: calls 20
+*** FLOP *** [3s 4c Tc]
+Mieres0555: checks 
+mabeal1: bets 45
+Mieres0555: calls 45
+*** TURN *** [3s 4c Tc] [Kh]
+Mieres0555: checks 
+mabeal1: checks 
+*** RIVER *** [3s 4c Tc Kh] [5s]
+Mieres0555: checks 
+mabeal1: bets 135
+Mieres0555: calls 135
+*** SHOW DOWN ***
+mabeal1: shows [Jh Td] (a pair of Tens)
+Mieres0555: mucks hand 
+mabeal1 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [3s 4c Tc Kh 5s]
+Seat 1: mabeal1 (button) showed [Jh Td] and won (450) with a pair of Tens
+Seat 2: saki200 (small blind) folded before Flop
+Seat 3: Mieres0555 (big blind) mucked [2s 2c]
+
+
+
+PokerStars Hand #259592154054: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:48:04 CET [2026/02/04 14:48:04 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: saki200 (490 in chips) 
+Seat 3: Mieres0555 (280 in chips) 
+Mieres0555: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ts]
+saki200: raises 20 to 40
+Mieres0555: calls 30
+mabeal1: calls 20
+*** FLOP *** [7d Ac Ks]
+Mieres0555: checks 
+mabeal1: checks 
+saki200: checks 
+*** TURN *** [7d Ac Ks] [Kc]
+Mieres0555: checks 
+mabeal1: bets 40
+saki200: calls 40
+Mieres0555: folds 
+*** RIVER *** [7d Ac Ks Kc] [Qd]
+mabeal1: bets 150
+saki200: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [7d Ac Ks Kc Qd]
+Seat 1: mabeal1 (big blind) collected (200)
+Seat 2: saki200 (button) folded on the River
+Seat 3: Mieres0555 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259592162338: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:48:36 CET [2026/02/04 14:48:36 ET]
+Table '3972081586 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (850 in chips) 
+Seat 2: saki200 (410 in chips) 
+Seat 3: Mieres0555 (240 in chips) 
+mabeal1: posts small blind 10
+saki200: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 9d]
+Mieres0555: calls 20
+mabeal1: calls 10
+saki200: checks 
+*** FLOP *** [8s Jc Ks]
+mabeal1: checks 
+saki200: bets 60
+Mieres0555: calls 60
+mabeal1: calls 60
+*** TURN *** [8s Jc Ks] [Jh]
+mabeal1: checks 
+saki200: checks 
+Mieres0555: checks 
+*** RIVER *** [8s Jc Ks Jh] [Jd]
+mabeal1: checks 
+saki200: bets 140
+Mieres0555: calls 140
+mabeal1: folds 
+*** SHOW DOWN ***
+saki200: shows [Kc 3d] (a full house, Jacks full of Kings)
+Mieres0555: mucks hand 
+saki200 collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [8s Jc Ks Jh Jd]
+Seat 1: mabeal1 (small blind) folded on the River
+Seat 2: saki200 (big blind) showed [Kc 3d] and won (520) with a full house, Jacks full of Kings
+Seat 3: Mieres0555 (button) mucked [Ah Td]
+
+
+
+PokerStars Hand #259592179884: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:49:46 CET [2026/02/04 14:49:46 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (770 in chips) 
+Seat 2: saki200 (710 in chips) 
+Seat 3: Mieres0555 (20 in chips) 
+saki200: posts small blind 10
+Mieres0555: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Ts]
+mabeal1: raises 20 to 40
+saki200: calls 30
+*** FLOP *** [Jd 5d 7h]
+saki200: checks 
+mabeal1: checks 
+*** TURN *** [Jd 5d 7h] [7s]
+saki200: checks 
+mabeal1: checks 
+*** RIVER *** [Jd 5d 7h 7s] [3d]
+saki200: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+saki200: shows [4h 4s] (two pair, Sevens and Fours)
+mabeal1: mucks hand 
+saki200 collected 40 from side pot
+Mieres0555: mucks hand 
+saki200 collected 60 from main pot
+Mieres0555 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 100 Main pot 60. Side pot 40. | Rake 0 
+Board [Jd 5d 7h 7s 3d]
+Seat 1: mabeal1 (button) mucked [Qd Ts]
+Seat 2: saki200 (small blind) showed [4h 4s] and won (100) with two pair, Sevens and Fours
+Seat 3: Mieres0555 (big blind) mucked [Qs 8h]
+
+
+
+PokerStars Hand #259592190756: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:50:28 CET [2026/02/04 14:50:28 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (730 in chips) 
+Seat 2: saki200 (770 in chips) 
+saki200: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 6d]
+saki200: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: saki200 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592193024: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:50:37 CET [2026/02/04 14:50:37 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (740 in chips) 
+Seat 2: saki200 (760 in chips) 
+mabeal1: posts small blind 10
+saki200: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Qc]
+mabeal1: raises 20 to 40
+saki200: calls 20
+*** FLOP *** [Ts 8c Jc]
+saki200: checks 
+mabeal1: bets 60
+saki200: calls 60
+*** TURN *** [Ts 8c Jc] [Qh]
+saki200: checks 
+mabeal1: checks 
+*** RIVER *** [Ts 8c Jc Qh] [2s]
+saki200: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+saki200: shows [Js Qs] (two pair, Queens and Jacks)
+mabeal1: mucks hand 
+saki200 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ts 8c Jc Qh 2s]
+Seat 1: mabeal1 (button) (small blind) mucked [Ks Qc]
+Seat 2: saki200 (big blind) showed [Js Qs] and won (320) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #259592200726: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:51:07 CET [2026/02/04 14:51:07 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: saki200 (920 in chips) 
+saki200: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Kh]
+saki200: calls 15
+mabeal1: checks 
+*** FLOP *** [Js Ah 8c]
+mabeal1: checks 
+saki200: checks 
+*** TURN *** [Js Ah 8c] [Jd]
+mabeal1: checks 
+saki200: checks 
+*** RIVER *** [Js Ah 8c Jd] [5s]
+mabeal1: checks 
+saki200: checks 
+*** SHOW DOWN ***
+mabeal1: shows [9s Kh] (a pair of Jacks)
+saki200: mucks hand 
+mabeal1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js Ah 8c Jd 5s]
+Seat 1: mabeal1 (big blind) showed [9s Kh] and won (60) with a pair of Jacks
+Seat 2: saki200 (button) (small blind) mucked [Qc Ts]
+
+
+
+PokerStars Hand #259592207467: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:51:33 CET [2026/02/04 14:51:33 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: saki200 (890 in chips) 
+mabeal1: posts small blind 15
+saki200: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 3h]
+mabeal1: calls 15
+saki200: checks 
+*** FLOP *** [Jc As Td]
+saki200: checks 
+mabeal1: bets 30
+saki200: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc As Td]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: saki200 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259592211427: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:51:49 CET [2026/02/04 14:51:49 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (640 in chips) 
+Seat 2: saki200 (860 in chips) 
+saki200: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Jc]
+saki200: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to saki200
+saki200 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: saki200 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259592217338: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:52:12 CET [2026/02/04 14:52:12 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: saki200 (890 in chips) 
+mabeal1: posts small blind 15
+saki200: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qh]
+mabeal1: calls 15
+saki200: raises 60 to 90
+mabeal1: calls 60
+*** FLOP *** [Ts Js 7s]
+saki200: bets 60
+mabeal1: raises 195 to 255
+saki200: folds 
+Uncalled bet (195) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ts Js 7s]
+Seat 1: mabeal1 (button) (small blind) collected (300)
+Seat 2: saki200 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259592229106: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:52:58 CET [2026/02/04 14:52:58 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (760 in chips) 
+Seat 2: saki200 (740 in chips) 
+saki200: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Jh]
+saki200: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: saki200 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592230545: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:53:03 CET [2026/02/04 14:53:03 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (775 in chips) 
+Seat 2: saki200 (725 in chips) 
+mabeal1: posts small blind 15
+saki200: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Th]
+mabeal1: folds 
+Uncalled bet (15) returned to saki200
+saki200 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: saki200 (big blind) collected (30)
+
+
+
+PokerStars Hand #259592232620: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:53:11 CET [2026/02/04 14:53:11 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (760 in chips) 
+Seat 2: saki200 (740 in chips) 
+saki200: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 2c]
+saki200: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: saki200 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592233952: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:53:17 CET [2026/02/04 14:53:17 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (775 in chips) 
+Seat 2: saki200 (725 in chips) 
+mabeal1: posts small blind 15
+saki200: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Kd]
+mabeal1: folds 
+Uncalled bet (15) returned to saki200
+saki200 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: saki200 (big blind) collected (30)
+
+
+
+PokerStars Hand #259592236212: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:53:26 CET [2026/02/04 14:53:26 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (760 in chips) 
+Seat 2: saki200 (740 in chips) 
+saki200: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 7d]
+saki200: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: saki200 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592237575: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:53:31 CET [2026/02/04 14:53:31 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (775 in chips) 
+Seat 2: saki200 (725 in chips) 
+mabeal1: posts small blind 15
+saki200: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 7c]
+mabeal1: calls 15
+saki200: raises 90 to 120
+mabeal1: folds 
+Uncalled bet (90) returned to saki200
+saki200 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: saki200 (big blind) collected (60)
+
+
+
+PokerStars Hand #259592243719: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:53:55 CET [2026/02/04 14:53:55 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (745 in chips) 
+Seat 2: saki200 (755 in chips) 
+saki200: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 5s]
+saki200: calls 20
+mabeal1: checks 
+*** FLOP *** [Tc 2s Kd]
+mabeal1: checks 
+saki200: checks 
+*** TURN *** [Tc 2s Kd] [Qs]
+mabeal1: checks 
+saki200: checks 
+*** RIVER *** [Tc 2s Kd Qs] [6c]
+mabeal1: checks 
+saki200: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Jc 5s] (high card King)
+saki200: shows [4d Jd] (high card King)
+mabeal1 collected 40 from pot
+saki200 collected 40 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc 2s Kd Qs 6c]
+Seat 1: mabeal1 (big blind) showed [Jc 5s] and won (40) with high card King
+Seat 2: saki200 (button) (small blind) showed [4d Jd] and won (40) with high card King
+
+
+
+PokerStars Hand #259592253203: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:54:32 CET [2026/02/04 14:54:32 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (745 in chips) 
+Seat 2: saki200 (755 in chips) 
+mabeal1: posts small blind 20
+saki200: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 4h]
+mabeal1: raises 40 to 80
+saki200: calls 40
+*** FLOP *** [Jd Ac Td]
+saki200: checks 
+mabeal1: bets 80
+saki200: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd Ac Td]
+Seat 1: mabeal1 (button) (small blind) collected (160)
+Seat 2: saki200 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259592258078: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:54:51 CET [2026/02/04 14:54:51 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (825 in chips) 
+Seat 2: saki200 (675 in chips) 
+saki200: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Qd]
+saki200: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: saki200 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592259332: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:54:56 CET [2026/02/04 14:54:56 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (845 in chips) 
+Seat 2: saki200 (655 in chips) 
+mabeal1: posts small blind 20
+saki200: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 3d]
+mabeal1: calls 20
+saki200: checks 
+*** FLOP *** [6h 8s Qs]
+saki200: checks 
+mabeal1: bets 40
+saki200: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 8s Qs]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: saki200 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259592262329: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:55:09 CET [2026/02/04 14:55:09 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (885 in chips) 
+Seat 2: saki200 (615 in chips) 
+saki200: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 8s]
+saki200: calls 20
+mabeal1: checks 
+*** FLOP *** [4d 5c Qc]
+mabeal1: checks 
+saki200: checks 
+*** TURN *** [4d 5c Qc] [Kd]
+mabeal1: checks 
+saki200: checks 
+*** RIVER *** [4d 5c Qc Kd] [7d]
+mabeal1: bets 40
+saki200: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d 5c Qc Kd 7d]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: saki200 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259592265267: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:55:27 CET [2026/02/04 14:55:27 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (925 in chips) 
+Seat 2: saki200 (575 in chips) 
+mabeal1: posts small blind 20
+saki200: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Th]
+mabeal1: calls 20
+saki200: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to saki200
+saki200 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: saki200 (big blind) collected (80)
+
+
+
+PokerStars Hand #259592267585: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:55:41 CET [2026/02/04 14:55:41 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (885 in chips) 
+Seat 2: saki200 (615 in chips) 
+saki200: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qd]
+saki200: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [Kh 8d As]
+mabeal1: checks 
+saki200: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to saki200
+saki200 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh 8d As]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: saki200 (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #259592270285: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:55:58 CET [2026/02/04 14:55:58 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (805 in chips) 
+Seat 2: saki200 (695 in chips) 
+mabeal1: posts small blind 20
+saki200: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 7d]
+mabeal1: calls 20
+saki200: checks 
+*** FLOP *** [Ah 5d 8d]
+saki200: checks 
+mabeal1: bets 40
+saki200: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ah 5d 8d]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: saki200 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259592273053: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:56:14 CET [2026/02/04 14:56:14 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (845 in chips) 
+Seat 2: saki200 (655 in chips) 
+saki200: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Th]
+saki200: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: saki200 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592274612: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:56:24 CET [2026/02/04 14:56:24 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (865 in chips) 
+Seat 2: saki200 (635 in chips) 
+mabeal1: posts small blind 20
+saki200: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8s]
+mabeal1: calls 20
+saki200: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to saki200
+saki200 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: saki200 (big blind) collected (80)
+
+
+
+PokerStars Hand #259592276149: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:56:33 CET [2026/02/04 14:56:33 ET]
+Table '3972081586 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (825 in chips) 
+Seat 2: saki200 (675 in chips) 
+saki200: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8c]
+saki200: calls 20
+mabeal1: checks 
+*** FLOP *** [7d 6s 9s]
+mabeal1: checks 
+saki200: checks 
+*** TURN *** [7d 6s 9s] [2d]
+mabeal1: bets 60
+saki200: calls 60
+*** RIVER *** [7d 6s 9s 2d] [Jd]
+mabeal1: bets 80
+saki200: calls 80
+*** SHOW DOWN ***
+mabeal1: shows [6d 8c] (a pair of Sixes)
+saki200: shows [2s 2c] (three of a kind, Deuces)
+saki200 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [7d 6s 9s 2d Jd]
+Seat 1: mabeal1 (big blind) showed [6d 8c] and lost with a pair of Sixes
+Seat 2: saki200 (button) (small blind) showed [2s 2c] and won (360) with three of a kind, Deuces
+
+
+
+PokerStars Hand #259592280713: Tournament #3972081586, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:57:00 CET [2026/02/04 14:57:00 ET]
+Table '3972081586 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (645 in chips) 
+Seat 2: saki200 (855 in chips) 
+mabeal1: posts small blind 30
+saki200: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kd]
+mabeal1: raises 60 to 120
+saki200: calls 60
+*** FLOP *** [9d 9c 3d]
+saki200: checks 
+mabeal1: bets 120
+saki200: calls 120
+*** TURN *** [9d 9c 3d] [Jc]
+saki200: checks 
+mabeal1: bets 405 and is all-in
+saki200: calls 405
+*** RIVER *** [9d 9c 3d Jc] [9h]
+*** SHOW DOWN ***
+saki200: shows [9s Jh] (four of a kind, Nines)
+mabeal1: shows [Ks Kd] (a full house, Nines full of Kings)
+saki200 collected 1290 from pot
+mabeal1 finished the tournament in 2nd place
+saki200 wins the tournament and receives €8.00 - congratulations!
+*** SUMMARY ***
+Total pot 1290 | Rake 0 
+Board [9d 9c 3d Jc 9h]
+Seat 1: mabeal1 (button) (small blind) showed [Ks Kd] and lost with a full house, Nines full of Kings
+Seat 2: saki200 (big blind) showed [9s Jh] and won (1290) with four of a kind, Nines
+
+
+

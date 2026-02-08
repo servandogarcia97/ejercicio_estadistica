@@ -1,0 +1,560 @@
+﻿PokerStars Hand #259616593788: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:42:57 CET [2026/02/06 11:42:57 ET]
+Table '3972657502 1' 3-max Seat #1 is the button
+Seat 1: bubucoach (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: MocosoPoker (500 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4s]
+bubucoach: calls 20
+mabeal1: raises 480 to 500 and is all-in
+MocosoPoker: folds 
+bubucoach: calls 480 and is all-in
+*** FLOP *** [3h Qs 4h]
+*** TURN *** [3h Qs 4h] [Qc]
+*** RIVER *** [3h Qs 4h Qc] [2c]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 4s] (two pair, Queens and Fours)
+bubucoach: shows [6d As] (a pair of Queens)
+mabeal1 collected 1020 from pot
+bubucoach finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [3h Qs 4h Qc 2c]
+Seat 1: bubucoach (button) showed [6d As] and lost with a pair of Queens
+Seat 2: mabeal1 (small blind) showed [Ah 4s] and won (1020) with two pair, Queens and Fours
+Seat 3: MocosoPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #259616597084: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:43:14 CET [2026/02/06 11:43:14 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1020 in chips) 
+Seat 3: MocosoPoker (480 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Tc]
+MocosoPoker: calls 10
+mabeal1: checks 
+*** FLOP *** [8h 6d 9d]
+mabeal1: checks 
+MocosoPoker: checks 
+*** TURN *** [8h 6d 9d] [4d]
+mabeal1: bets 20
+MocosoPoker: calls 20
+*** RIVER *** [8h 6d 9d 4d] [5s]
+mabeal1: bets 80
+MocosoPoker: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 6d 9d 4d 5s]
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: MocosoPoker (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259616601590: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:43:38 CET [2026/02/06 11:43:38 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1060 in chips) 
+Seat 3: MocosoPoker (440 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Td]
+mabeal1: calls 10
+MocosoPoker: checks 
+*** FLOP *** [7s 2s 4c]
+MocosoPoker: checks 
+mabeal1: checks 
+*** TURN *** [7s 2s 4c] [As]
+MocosoPoker: checks 
+mabeal1: checks 
+*** RIVER *** [7s 2s 4c As] [3c]
+MocosoPoker: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+MocosoPoker: shows [7d 8c] (a pair of Sevens)
+mabeal1: mucks hand 
+MocosoPoker collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7s 2s 4c As 3c]
+Seat 2: mabeal1 (button) (small blind) mucked [2c Td]
+Seat 3: MocosoPoker (big blind) showed [7d 8c] and won (40) with a pair of Sevens
+
+
+
+PokerStars Hand #259616605365: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:43:57 CET [2026/02/06 11:43:57 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1040 in chips) 
+Seat 3: MocosoPoker (460 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Qs]
+MocosoPoker: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Kc Kh 3h]
+mabeal1: checks 
+MocosoPoker: bets 40
+mabeal1: calls 40
+*** TURN *** [Kc Kh 3h] [Qd]
+mabeal1: checks 
+MocosoPoker: checks 
+*** RIVER *** [Kc Kh 3h Qd] [2d]
+mabeal1: bets 80
+MocosoPoker: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kc Kh 3h Qd 2d]
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: MocosoPoker (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259616609379: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:44:19 CET [2026/02/06 11:44:19 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1120 in chips) 
+Seat 3: MocosoPoker (380 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 9c]
+mabeal1: calls 10
+MocosoPoker: checks 
+*** FLOP *** [5d 2d Ad]
+MocosoPoker: checks 
+mabeal1: bets 20
+MocosoPoker: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d 2d Ad]
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: MocosoPoker (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259616611374: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:44:29 CET [2026/02/06 11:44:29 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1140 in chips) 
+Seat 3: MocosoPoker (360 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 4c]
+MocosoPoker: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to MocosoPoker
+MocosoPoker collected 40 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: MocosoPoker (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259616612301: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:44:34 CET [2026/02/06 11:44:34 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1120 in chips) 
+Seat 3: MocosoPoker (380 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jc]
+mabeal1: calls 10
+MocosoPoker: checks 
+*** FLOP *** [5d 5c Qs]
+MocosoPoker: checks 
+mabeal1: bets 20
+MocosoPoker: calls 20
+*** TURN *** [5d 5c Qs] [Kd]
+MocosoPoker: checks 
+mabeal1: checks 
+*** RIVER *** [5d 5c Qs Kd] [9s]
+MocosoPoker: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+MocosoPoker: shows [Qh 3h] (two pair, Queens and Fives)
+mabeal1: mucks hand 
+MocosoPoker collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5d 5c Qs Kd 9s]
+Seat 2: mabeal1 (button) (small blind) mucked [7d Jc]
+Seat 3: MocosoPoker (big blind) showed [Qh 3h] and won (80) with two pair, Queens and Fives
+
+
+
+PokerStars Hand #259616615131: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:44:49 CET [2026/02/06 11:44:49 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1080 in chips) 
+Seat 3: MocosoPoker (420 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 5s]
+MocosoPoker: calls 10
+mabeal1: checks 
+*** FLOP *** [Jd 3s 4c]
+mabeal1: checks 
+MocosoPoker: checks 
+*** TURN *** [Jd 3s 4c] [Ts]
+mabeal1: checks 
+MocosoPoker: checks 
+*** RIVER *** [Jd 3s 4c Ts] [Qd]
+mabeal1: bets 40
+MocosoPoker: calls 40
+*** SHOW DOWN ***
+mabeal1: shows [Qh 5s] (a pair of Queens)
+MocosoPoker: mucks hand 
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jd 3s 4c Ts Qd]
+Seat 2: mabeal1 (big blind) showed [Qh 5s] and won (120) with a pair of Queens
+Seat 3: MocosoPoker (button) (small blind) mucked [3d 8c]
+
+
+
+PokerStars Hand #259616619528: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:45:12 CET [2026/02/06 11:45:12 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1140 in chips) 
+Seat 3: MocosoPoker (360 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Kd]
+mabeal1: raises 1120 to 1140 and is all-in
+MocosoPoker: folds 
+Uncalled bet (1120) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: MocosoPoker (big blind) folded before Flop
+
+
+
+PokerStars Hand #259616621853: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:45:23 CET [2026/02/06 11:45:23 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1160 in chips) 
+Seat 3: MocosoPoker (340 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 5c]
+MocosoPoker: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [4d Qd 9s]
+mabeal1: checks 
+MocosoPoker: checks 
+*** TURN *** [4d Qd 9s] [9d]
+mabeal1: checks 
+MocosoPoker: checks 
+*** RIVER *** [4d Qd 9s 9d] [4c]
+mabeal1: checks 
+MocosoPoker: checks 
+*** SHOW DOWN ***
+mabeal1: shows [As 5c] (two pair, Nines and Fours)
+MocosoPoker: shows [Jh Jd] (two pair, Jacks and Nines)
+MocosoPoker collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d Qd 9s 9d 4c]
+Seat 2: mabeal1 (big blind) showed [As 5c] and lost with two pair, Nines and Fours
+Seat 3: MocosoPoker (button) (small blind) showed [Jh Jd] and won (80) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #259616625638: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:45:43 CET [2026/02/06 11:45:43 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1120 in chips) 
+Seat 3: MocosoPoker (380 in chips) 
+mabeal1: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Qh]
+mabeal1: raises 20 to 40
+MocosoPoker: calls 20
+*** FLOP *** [4s Jh Kd]
+MocosoPoker: checks 
+mabeal1: checks 
+*** TURN *** [4s Jh Kd] [Kh]
+MocosoPoker: checks 
+mabeal1: bets 40
+MocosoPoker: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s Jh Kd Kh]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: MocosoPoker (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259616629412: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:46:02 CET [2026/02/06 11:46:02 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1160 in chips) 
+Seat 3: MocosoPoker (340 in chips) 
+MocosoPoker: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2d]
+MocosoPoker: raises 310 to 340 and is all-in
+mabeal1: folds 
+Uncalled bet (310) returned to MocosoPoker
+MocosoPoker collected 60 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: MocosoPoker (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259616630148: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:46:07 CET [2026/02/06 11:46:07 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1130 in chips) 
+Seat 3: MocosoPoker (370 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 5h]
+mabeal1: calls 15
+MocosoPoker: raises 340 to 370 and is all-in
+mabeal1: folds 
+Uncalled bet (340) returned to MocosoPoker
+MocosoPoker collected 60 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: MocosoPoker (big blind) collected (60)
+
+
+
+PokerStars Hand #259616631469: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:46:14 CET [2026/02/06 11:46:14 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1100 in chips) 
+Seat 3: MocosoPoker (400 in chips) 
+MocosoPoker: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 4s]
+MocosoPoker: calls 15
+mabeal1: checks 
+*** FLOP *** [Ad Qd Jd]
+mabeal1: checks 
+MocosoPoker: checks 
+*** TURN *** [Ad Qd Jd] [9s]
+mabeal1: bets 45
+MocosoPoker: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ad Qd Jd 9s]
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: MocosoPoker (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259616634109: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:46:27 CET [2026/02/06 11:46:27 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1130 in chips) 
+Seat 3: MocosoPoker (370 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Jc]
+mabeal1: calls 15
+MocosoPoker: checks 
+*** FLOP *** [4d Tc As]
+MocosoPoker: checks 
+mabeal1: bets 30
+MocosoPoker: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to MocosoPoker
+MocosoPoker collected 120 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d Tc As]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: MocosoPoker (big blind) collected (120)
+
+
+
+PokerStars Hand #259616636278: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:46:38 CET [2026/02/06 11:46:38 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1070 in chips) 
+Seat 3: MocosoPoker (430 in chips) 
+MocosoPoker: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9d]
+MocosoPoker: calls 15
+mabeal1: checks 
+*** FLOP *** [Qh Jc 4d]
+mabeal1: checks 
+MocosoPoker: checks 
+*** TURN *** [Qh Jc 4d] [Jd]
+mabeal1: bets 45
+MocosoPoker: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qh Jc 4d Jd]
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: MocosoPoker (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259616638384: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:46:49 CET [2026/02/06 11:46:49 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1100 in chips) 
+Seat 3: MocosoPoker (400 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qh]
+mabeal1: calls 15
+MocosoPoker: checks 
+*** FLOP *** [Jd 6c Tc]
+MocosoPoker: checks 
+mabeal1: checks 
+*** TURN *** [Jd 6c Tc] [9h]
+MocosoPoker: checks 
+mabeal1: checks 
+*** RIVER *** [Jd 6c Tc 9h] [5c]
+MocosoPoker: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+MocosoPoker: shows [8d 9c] (a pair of Nines)
+mabeal1: mucks hand 
+MocosoPoker collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 6c Tc 9h 5c]
+Seat 2: mabeal1 (button) (small blind) mucked [6d Qh]
+Seat 3: MocosoPoker (big blind) showed [8d 9c] and won (60) with a pair of Nines
+
+
+
+PokerStars Hand #259616641278: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:47:05 CET [2026/02/06 11:47:05 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1070 in chips) 
+Seat 3: MocosoPoker (430 in chips) 
+MocosoPoker: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 3h]
+MocosoPoker: calls 15
+mabeal1: checks 
+*** FLOP *** [Ts 6d Ah]
+mabeal1: checks 
+MocosoPoker: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to MocosoPoker
+MocosoPoker collected 60 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts 6d Ah]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: MocosoPoker (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259616643715: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:47:18 CET [2026/02/06 11:47:18 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1040 in chips) 
+Seat 3: MocosoPoker (460 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Kd]
+mabeal1: raises 45 to 75
+MocosoPoker: calls 45
+*** FLOP *** [7h 3c Ad]
+MocosoPoker: checks 
+mabeal1: bets 60
+MocosoPoker: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [7h 3c Ad]
+Seat 2: mabeal1 (button) (small blind) collected (150)
+Seat 3: MocosoPoker (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259616645888: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:47:29 CET [2026/02/06 11:47:29 ET]
+Table '3972657502 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1115 in chips) 
+Seat 3: MocosoPoker (385 in chips) 
+MocosoPoker: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6c]
+MocosoPoker: calls 15
+mabeal1: raises 1085 to 1115 and is all-in
+MocosoPoker: folds 
+Uncalled bet (1085) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: MocosoPoker (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259616647365: Tournament #3972657502, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 17:47:37 CET [2026/02/06 11:47:37 ET]
+Table '3972657502 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1145 in chips) 
+Seat 3: MocosoPoker (355 in chips) 
+mabeal1: posts small blind 15
+MocosoPoker: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ac]
+mabeal1: raises 30 to 60
+MocosoPoker: raises 295 to 355 and is all-in
+mabeal1: calls 295
+*** FLOP *** [Qc Qd 3d]
+*** TURN *** [Qc Qd 3d] [2s]
+*** RIVER *** [Qc Qd 3d 2s] [Kc]
+*** SHOW DOWN ***
+MocosoPoker: shows [Ah 2d] (two pair, Queens and Deuces)
+mabeal1: shows [3h Ac] (two pair, Queens and Threes)
+mabeal1 collected 710 from pot
+MocosoPoker finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Board [Qc Qd 3d 2s Kc]
+Seat 2: mabeal1 (button) (small blind) showed [3h Ac] and won (710) with two pair, Queens and Threes
+Seat 3: MocosoPoker (big blind) showed [Ah 2d] and lost with two pair, Queens and Deuces
+
+
+

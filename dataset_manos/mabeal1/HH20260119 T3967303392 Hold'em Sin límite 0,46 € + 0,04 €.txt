@@ -1,0 +1,308 @@
+﻿PokerStars Hand #259384496769: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 1:33:44 CET [2026/01/19 19:33:44 ET]
+Table '3967303392 1' 3-max Seat #1 is the button
+Seat 1: marychrisls (500 in chips) 
+Seat 2: RICARDO L60 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+RICARDO L60: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9h]
+marychrisls: calls 20
+RICARDO L60: calls 10
+mabeal1: checks 
+*** FLOP *** [3c 3h 4h]
+RICARDO L60: bets 20
+mabeal1: folds 
+marychrisls: folds 
+Uncalled bet (20) returned to RICARDO L60
+RICARDO L60 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3c 3h 4h]
+Seat 1: marychrisls (button) folded on the Flop
+Seat 2: RICARDO L60 (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259384499427: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 1:33:59 CET [2026/01/19 19:33:59 ET]
+Table '3967303392 1' 3-max Seat #2 is the button
+Seat 1: marychrisls (480 in chips) 
+Seat 2: RICARDO L60 (540 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+marychrisls: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 6c]
+RICARDO L60: calls 20
+mabeal1: calls 10
+marychrisls: checks 
+*** FLOP *** [3d 8c As]
+mabeal1: checks 
+marychrisls: checks 
+RICARDO L60: checks 
+*** TURN *** [3d 8c As] [5s]
+mabeal1: bets 40
+marychrisls: folds 
+RICARDO L60: calls 40
+*** RIVER *** [3d 8c As 5s] [Ad]
+mabeal1: checks 
+RICARDO L60: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to RICARDO L60
+RICARDO L60 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [3d 8c As 5s Ad]
+Seat 1: marychrisls (big blind) folded on the Turn
+Seat 2: RICARDO L60 (button) collected (140)
+Seat 3: mabeal1 (small blind) folded on the River
+
+
+
+PokerStars Hand #259384505391: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 1:34:34 CET [2026/01/19 19:34:34 ET]
+Table '3967303392 1' 3-max Seat #3 is the button
+Seat 1: marychrisls (460 in chips) 
+Seat 2: RICARDO L60 (620 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+marychrisls: posts small blind 10
+RICARDO L60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Qs]
+mabeal1: folds 
+marychrisls: calls 10
+RICARDO L60: checks 
+*** FLOP *** [Kd 7s 3h]
+marychrisls: checks 
+RICARDO L60: checks 
+*** TURN *** [Kd 7s 3h] [Ts]
+marychrisls: checks 
+RICARDO L60: checks 
+*** RIVER *** [Kd 7s 3h Ts] [6c]
+marychrisls: bets 20
+RICARDO L60: folds 
+Uncalled bet (20) returned to marychrisls
+marychrisls collected 40 from pot
+marychrisls: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kd 7s 3h Ts 6c]
+Seat 1: marychrisls (small blind) collected (40)
+Seat 2: RICARDO L60 (big blind) folded on the River
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259384509389: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 1:34:58 CET [2026/01/19 19:34:58 ET]
+Table '3967303392 1' 3-max Seat #1 is the button
+Seat 1: marychrisls (480 in chips) 
+Seat 2: RICARDO L60 (600 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+RICARDO L60: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Ts]
+marychrisls: folds 
+RICARDO L60: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: marychrisls (button) folded before Flop (didn't bet)
+Seat 2: RICARDO L60 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259384510524: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 1:35:05 CET [2026/01/19 19:35:05 ET]
+Table '3967303392 1' 3-max Seat #2 is the button
+Seat 1: marychrisls (480 in chips) 
+Seat 2: RICARDO L60 (590 in chips) 
+Seat 3: mabeal1 (430 in chips) 
+mabeal1: posts small blind 10
+marychrisls: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks As]
+RICARDO L60: folds 
+mabeal1: raises 20 to 40
+marychrisls: calls 20
+*** FLOP *** [Kh 8h 8s]
+mabeal1: bets 30
+marychrisls: calls 30
+*** TURN *** [Kh 8h 8s] [3c]
+mabeal1: bets 105
+marychrisls: folds 
+Uncalled bet (105) returned to mabeal1
+mabeal1 collected 140 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Kh 8h 8s 3c]
+Seat 1: marychrisls (big blind) folded on the Turn
+Seat 2: RICARDO L60 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (140)
+
+
+
+PokerStars Hand #259384514734: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 1:35:30 CET [2026/01/19 19:35:30 ET]
+Table '3967303392 1' 3-max Seat #3 is the button
+Seat 1: marychrisls (410 in chips) 
+Seat 2: RICARDO L60 (590 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+marychrisls: posts small blind 10
+RICARDO L60: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh As]
+mabeal1: raises 480 to 500 and is all-in
+marychrisls: calls 400 and is all-in
+RICARDO L60: folds 
+Uncalled bet (90) returned to mabeal1
+*** FLOP *** [9s 9d Tc]
+*** TURN *** [9s 9d Tc] [5s]
+*** RIVER *** [9s 9d Tc 5s] [4s]
+*** SHOW DOWN ***
+marychrisls: shows [Kh Qh] (a pair of Nines)
+mabeal1: shows [Jh As] (a pair of Nines - Ace kicker)
+mabeal1 collected 840 from pot
+marychrisls finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [9s 9d Tc 5s 4s]
+Seat 1: marychrisls (small blind) showed [Kh Qh] and lost with a pair of Nines
+Seat 2: RICARDO L60 (big blind) folded before Flop
+Seat 3: mabeal1 (button) showed [Jh As] and won (840) with a pair of Nines
+
+
+
+PokerStars Hand #259384517889: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 1:35:49 CET [2026/01/19 19:35:49 ET]
+Table '3967303392 1' 3-max Seat #2 is the button
+Seat 2: RICARDO L60 (570 in chips) 
+Seat 3: mabeal1 (930 in chips) 
+RICARDO L60: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 4c]
+RICARDO L60: calls 15
+mabeal1: checks 
+*** FLOP *** [Ac Td Jh]
+mabeal1: checks 
+RICARDO L60: checks 
+*** TURN *** [Ac Td Jh] [4h]
+mabeal1: checks 
+RICARDO L60: checks 
+*** RIVER *** [Ac Td Jh 4h] [3d]
+mabeal1: bets 90
+RICARDO L60: raises 450 to 540 and is all-in
+mabeal1: calls 450
+*** SHOW DOWN ***
+RICARDO L60: shows [2s 5s] (a straight, Ace to Five)
+mabeal1: shows [3c 4c] (two pair, Fours and Threes)
+RICARDO L60 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [Ac Td Jh 4h 3d]
+Seat 2: RICARDO L60 (button) (small blind) showed [2s 5s] and won (1140) with a straight, Ace to Five
+Seat 3: mabeal1 (big blind) showed [3c 4c] and lost with two pair, Fours and Threes
+
+
+
+PokerStars Hand #259384521486: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 1:36:10 CET [2026/01/19 19:36:10 ET]
+Table '3967303392 1' 3-max Seat #3 is the button
+Seat 2: RICARDO L60 (1140 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+mabeal1: posts small blind 15
+RICARDO L60: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 5h]
+mabeal1: folds 
+Uncalled bet (15) returned to RICARDO L60
+RICARDO L60 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: RICARDO L60 (big blind) collected (30)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259384522585: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 1:36:17 CET [2026/01/19 19:36:17 ET]
+Table '3967303392 1' 3-max Seat #2 is the button
+Seat 2: RICARDO L60 (1155 in chips) 
+Seat 3: mabeal1 (345 in chips) 
+RICARDO L60: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 5c]
+RICARDO L60: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: RICARDO L60 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259384523492: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 1:36:22 CET [2026/01/19 19:36:22 ET]
+Table '3967303392 1' 3-max Seat #3 is the button
+Seat 2: RICARDO L60 (1140 in chips) 
+Seat 3: mabeal1 (360 in chips) 
+mabeal1: posts small blind 15
+RICARDO L60: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 8h]
+mabeal1: calls 15
+RICARDO L60: checks 
+*** FLOP *** [7h 2c Kd]
+RICARDO L60: checks 
+mabeal1: bets 30
+RICARDO L60: calls 30
+*** TURN *** [7h 2c Kd] [3h]
+RICARDO L60: checks 
+mabeal1: bets 60
+RICARDO L60: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 2c Kd 3h]
+Seat 2: RICARDO L60 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259384527129: Tournament #3967303392, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 1:36:44 CET [2026/01/19 19:36:44 ET]
+Table '3967303392 1' 3-max Seat #2 is the button
+Seat 2: RICARDO L60 (1080 in chips) 
+Seat 3: mabeal1 (420 in chips) 
+RICARDO L60: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qd]
+RICARDO L60: calls 15
+mabeal1: checks 
+*** FLOP *** [4h 2s 3c]
+mabeal1: bets 90
+RICARDO L60: calls 90
+*** TURN *** [4h 2s 3c] [9s]
+mabeal1: checks 
+RICARDO L60: checks 
+*** RIVER *** [4h 2s 3c 9s] [8s]
+mabeal1: bets 300 and is all-in
+RICARDO L60: calls 300
+*** SHOW DOWN ***
+mabeal1: shows [7c Qd] (high card Queen)
+RICARDO L60: shows [4s Ks] (a flush, King high)
+RICARDO L60 collected 840 from pot
+mabeal1 finished the tournament in 2nd place
+RICARDO L60 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [4h 2s 3c 9s 8s]
+Seat 2: RICARDO L60 (button) (small blind) showed [4s Ks] and won (840) with a flush, King high
+Seat 3: mabeal1 (big blind) showed [7c Qd] and lost with high card Queen
+
+
+

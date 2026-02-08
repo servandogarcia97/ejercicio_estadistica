@@ -1,0 +1,393 @@
+﻿PokerStars Hand #259392926787: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:02:46 CET [2026/01/20 14:02:46 ET]
+Table '3967506840 1' 3-max Seat #1 is the button
+Seat 1: escombrero (500 in chips) 
+Seat 2: TorbalanLeFou (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+TorbalanLeFou: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 3d]
+escombrero: folds 
+TorbalanLeFou: calls 10
+mabeal1: checks 
+*** FLOP *** [Ks 9s 5s]
+TorbalanLeFou: checks 
+mabeal1: checks 
+*** TURN *** [Ks 9s 5s] [6c]
+TorbalanLeFou: checks 
+mabeal1: checks 
+*** RIVER *** [Ks 9s 5s 6c] [3s]
+TorbalanLeFou: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+TorbalanLeFou: shows [Jh Qd] (high card King)
+mabeal1: shows [6s 3d] (a flush, King high)
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ks 9s 5s 6c 3s]
+Seat 1: escombrero (button) folded before Flop (didn't bet)
+Seat 2: TorbalanLeFou (small blind) showed [Jh Qd] and lost with high card King
+Seat 3: mabeal1 (big blind) showed [6s 3d] and won (40) with a flush, King high
+
+
+
+PokerStars Hand #259392934956: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:03:21 CET [2026/01/20 14:03:21 ET]
+Table '3967506840 1' 3-max Seat #2 is the button
+Seat 1: escombrero (500 in chips) 
+Seat 2: TorbalanLeFou (480 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 10
+escombrero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 9h]
+TorbalanLeFou: calls 20
+mabeal1: folds 
+escombrero: checks 
+*** FLOP *** [Ac 4s 2s]
+escombrero: checks 
+TorbalanLeFou: bets 40
+escombrero: calls 40
+*** TURN *** [Ac 4s 2s] [Ts]
+escombrero: checks 
+TorbalanLeFou: checks 
+*** RIVER *** [Ac 4s 2s Ts] [6h]
+escombrero: checks 
+TorbalanLeFou: checks 
+*** SHOW DOWN ***
+escombrero: shows [Ks 5h] (high card Ace)
+TorbalanLeFou: shows [Td 9s] (a pair of Tens)
+TorbalanLeFou collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Ac 4s 2s Ts 6h]
+Seat 1: escombrero (big blind) showed [Ks 5h] and lost with high card Ace
+Seat 2: TorbalanLeFou (button) showed [Td 9s] and won (130) with a pair of Tens
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259392940353: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:03:45 CET [2026/01/20 14:03:45 ET]
+Table '3967506840 1' 3-max Seat #3 is the button
+Seat 1: escombrero (440 in chips) 
+Seat 2: TorbalanLeFou (550 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+escombrero: posts small blind 10
+TorbalanLeFou: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 6d]
+mabeal1: folds 
+escombrero: raises 20 to 40
+TorbalanLeFou: folds 
+Uncalled bet (20) returned to escombrero
+escombrero collected 40 from pot
+escombrero: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: escombrero (small blind) collected (40)
+Seat 2: TorbalanLeFou (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259392942098: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:03:52 CET [2026/01/20 14:03:52 ET]
+Table '3967506840 1' 3-max Seat #1 is the button
+Seat 1: escombrero (460 in chips) 
+Seat 2: TorbalanLeFou (530 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+TorbalanLeFou: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Tc]
+escombrero: raises 20 to 40
+TorbalanLeFou: folds 
+mabeal1: calls 20
+*** FLOP *** [3h 7s 5s]
+mabeal1: checks 
+escombrero: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to escombrero
+escombrero collected 90 from pot
+escombrero: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3h 7s 5s]
+Seat 1: escombrero (button) collected (90)
+Seat 2: TorbalanLeFou (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259392947683: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:04:16 CET [2026/01/20 14:04:16 ET]
+Table '3967506840 1' 3-max Seat #2 is the button
+Seat 1: escombrero (510 in chips) 
+Seat 2: TorbalanLeFou (520 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+mabeal1: posts small blind 10
+escombrero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7s]
+TorbalanLeFou has timed out
+TorbalanLeFou: folds 
+TorbalanLeFou is sitting out
+TorbalanLeFou has returned
+mabeal1: raises 20 to 40
+escombrero: calls 20
+*** FLOP *** [Kh 8d As]
+mabeal1: bets 40
+escombrero: calls 40
+*** TURN *** [Kh 8d As] [7d]
+mabeal1: checks 
+escombrero: checks 
+*** RIVER *** [Kh 8d As 7d] [2d]
+mabeal1: checks 
+escombrero: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Jc 7s] (a pair of Sevens)
+escombrero: mucks hand 
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kh 8d As 7d 2d]
+Seat 1: escombrero (big blind) mucked [Tc Qd]
+Seat 2: TorbalanLeFou (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [Jc 7s] and won (160) with a pair of Sevens
+
+
+
+PokerStars Hand #259392957218: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:04:56 CET [2026/01/20 14:04:56 ET]
+Table '3967506840 1' 3-max Seat #3 is the button
+Seat 1: escombrero (430 in chips) 
+Seat 2: TorbalanLeFou (520 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+escombrero: posts small blind 10
+TorbalanLeFou: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ah]
+mabeal1: raises 20 to 40
+escombrero: folds 
+TorbalanLeFou: calls 20
+*** FLOP *** [3d Qc Td]
+TorbalanLeFou: checks 
+mabeal1: checks 
+*** TURN *** [3d Qc Td] [2s]
+TorbalanLeFou: checks 
+mabeal1: checks 
+*** RIVER *** [3d Qc Td 2s] [Th]
+TorbalanLeFou: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+TorbalanLeFou: shows [4h Ad] (a pair of Tens)
+mabeal1: shows [9h Ah] (a pair of Tens - Ace+Queen+Nine kicker)
+mabeal1 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3d Qc Td 2s Th]
+Seat 1: escombrero (small blind) folded before Flop
+Seat 2: TorbalanLeFou (big blind) showed [4h Ad] and lost with a pair of Tens
+Seat 3: mabeal1 (button) showed [9h Ah] and won (90) with a pair of Tens
+
+
+
+PokerStars Hand #259392962405: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:05:18 CET [2026/01/20 14:05:18 ET]
+Table '3967506840 1' 3-max Seat #1 is the button
+Seat 1: escombrero (420 in chips) 
+Seat 2: TorbalanLeFou (480 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+TorbalanLeFou: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7c]
+escombrero: folds 
+TorbalanLeFou: calls 10
+mabeal1: checks 
+*** FLOP *** [5h 6c Jd]
+TorbalanLeFou: checks 
+mabeal1: bets 20
+TorbalanLeFou: calls 20
+*** TURN *** [5h 6c Jd] [9h]
+TorbalanLeFou: checks 
+mabeal1: bets 120
+TorbalanLeFou: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [5h 6c Jd 9h]
+Seat 1: escombrero (button) folded before Flop (didn't bet)
+Seat 2: TorbalanLeFou (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259392967396: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 20:05:40 CET [2026/01/20 14:05:40 ET]
+Table '3967506840 1' 3-max Seat #2 is the button
+Seat 1: escombrero (420 in chips) 
+Seat 2: TorbalanLeFou (440 in chips) 
+Seat 3: mabeal1 (640 in chips) 
+mabeal1: posts small blind 10
+escombrero: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Th]
+TorbalanLeFou: folds 
+mabeal1: raises 40 to 60
+escombrero: calls 40
+*** FLOP *** [9h 8c Ad]
+mabeal1: bets 40
+escombrero: raises 40 to 80
+mabeal1: calls 40
+*** TURN *** [9h 8c Ad] [Qs]
+mabeal1: checks 
+escombrero: checks 
+*** RIVER *** [9h 8c Ad Qs] [6c]
+mabeal1: bets 100
+escombrero: calls 100
+*** SHOW DOWN ***
+mabeal1: shows [Ts Th] (a pair of Tens)
+escombrero: mucks hand 
+mabeal1 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9h 8c Ad Qs 6c]
+Seat 1: escombrero (big blind) mucked [9c 7d]
+Seat 2: TorbalanLeFou (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [Ts Th] and won (480) with a pair of Tens
+
+
+
+PokerStars Hand #259392974975: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 20:06:12 CET [2026/01/20 14:06:12 ET]
+Table '3967506840 1' 3-max Seat #3 is the button
+Seat 1: escombrero (180 in chips) 
+Seat 2: TorbalanLeFou (440 in chips) 
+Seat 3: mabeal1 (880 in chips) 
+escombrero: posts small blind 15
+TorbalanLeFou: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ts]
+mabeal1: raises 850 to 880 and is all-in
+escombrero: folds 
+TorbalanLeFou: calls 410 and is all-in
+Uncalled bet (440) returned to mabeal1
+*** FLOP *** [5h 8c 7s]
+*** TURN *** [5h 8c 7s] [6d]
+*** RIVER *** [5h 8c 7s 6d] [2d]
+*** SHOW DOWN ***
+TorbalanLeFou: shows [7d Ac] (a pair of Sevens)
+mabeal1: shows [Td Ts] (a pair of Tens)
+mabeal1 collected 895 from pot
+TorbalanLeFou finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 895 | Rake 0 
+Board [5h 8c 7s 6d 2d]
+Seat 1: escombrero (small blind) folded before Flop
+Seat 2: TorbalanLeFou (big blind) showed [7d Ac] and lost with a pair of Sevens
+Seat 3: mabeal1 (button) showed [Td Ts] and won (895) with a pair of Tens
+
+
+
+PokerStars Hand #259392979660: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 20:06:32 CET [2026/01/20 14:06:32 ET]
+Table '3967506840 1' 3-max Seat #1 is the button
+Seat 1: escombrero (165 in chips) 
+Seat 3: mabeal1 (1335 in chips) 
+escombrero: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7h]
+escombrero: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: escombrero (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259392980632: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 20:06:36 CET [2026/01/20 14:06:36 ET]
+Table '3967506840 1' 3-max Seat #3 is the button
+Seat 1: escombrero (150 in chips) 
+Seat 3: mabeal1 (1350 in chips) 
+mabeal1: posts small blind 15
+escombrero: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s As]
+mabeal1: raises 1320 to 1350 and is all-in
+escombrero: folds 
+Uncalled bet (1320) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: escombrero (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259392982175: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 20:06:43 CET [2026/01/20 14:06:43 ET]
+Table '3967506840 1' 3-max Seat #1 is the button
+Seat 1: escombrero (120 in chips) 
+Seat 3: mabeal1 (1380 in chips) 
+escombrero: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Kd]
+escombrero: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: escombrero (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259392983068: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 20:06:47 CET [2026/01/20 14:06:47 ET]
+Table '3967506840 1' 3-max Seat #3 is the button
+Seat 1: escombrero (105 in chips) 
+Seat 3: mabeal1 (1395 in chips) 
+mabeal1: posts small blind 15
+escombrero: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 4d]
+mabeal1: raises 1365 to 1395 and is all-in
+escombrero: folds 
+Uncalled bet (1365) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: escombrero (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259392984203: Tournament #3967506840, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 20:06:52 CET [2026/01/20 14:06:52 ET]
+Table '3967506840 1' 3-max Seat #1 is the button
+Seat 1: escombrero (75 in chips) 
+Seat 3: mabeal1 (1425 in chips) 
+escombrero: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 8d]
+escombrero: raises 45 to 75 and is all-in
+mabeal1: calls 45
+*** FLOP *** [4s Qc Jh]
+*** TURN *** [4s Qc Jh] [Td]
+*** RIVER *** [4s Qc Jh Td] [Js]
+*** SHOW DOWN ***
+mabeal1: shows [Kd 8d] (a pair of Jacks)
+escombrero: shows [6h 9d] (a pair of Jacks - lower kicker)
+mabeal1 collected 150 from pot
+escombrero finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [4s Qc Jh Td Js]
+Seat 1: escombrero (button) (small blind) showed [6h 9d] and lost with a pair of Jacks
+Seat 3: mabeal1 (big blind) showed [Kd 8d] and won (150) with a pair of Jacks
+
+
+

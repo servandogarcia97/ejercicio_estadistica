@@ -1,0 +1,379 @@
+﻿PokerStars Hand #259541134455: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:44:21 CET [2026/01/31 17:44:21 ET]
+Table '3970940954 1' 3-max Seat #1 is the button
+Seat 1: Clara__511 (500 in chips) 
+Seat 2: Ctan.Haddock (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Ctan.Haddock: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 7d]
+Clara__511: calls 20
+Ctan.Haddock: calls 10
+mabeal1: checks 
+*** FLOP *** [3h Jc Qc]
+Ctan.Haddock: checks 
+mabeal1: checks 
+Clara__511: checks 
+*** TURN *** [3h Jc Qc] [Ad]
+Ctan.Haddock: checks 
+mabeal1: checks 
+Clara__511: checks 
+*** RIVER *** [3h Jc Qc Ad] [Kh]
+Ctan.Haddock: checks 
+mabeal1: bets 40
+Clara__511: folds 
+Ctan.Haddock: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h Jc Qc Ad Kh]
+Seat 1: Clara__511 (button) folded on the River
+Seat 2: Ctan.Haddock (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259541140428: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:44:46 CET [2026/01/31 17:44:46 ET]
+Table '3970940954 1' 3-max Seat #2 is the button
+Seat 1: Clara__511 (480 in chips) 
+Seat 2: Ctan.Haddock (480 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+mabeal1: posts small blind 10
+Clara__511: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 3s]
+Ctan.Haddock: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Clara__511
+Clara__511 collected 20 from pot
+Clara__511: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Clara__511 (big blind) collected (20)
+Seat 2: Ctan.Haddock (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541141579: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:44:51 CET [2026/01/31 17:44:51 ET]
+Table '3970940954 1' 3-max Seat #3 is the button
+Seat 1: Clara__511 (490 in chips) 
+Seat 2: Ctan.Haddock (480 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+Clara__511: posts small blind 10
+Ctan.Haddock: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ks]
+mabeal1: folds 
+Clara__511: calls 10
+Ctan.Haddock: checks 
+*** FLOP *** [9c 9d 5c]
+Clara__511: checks 
+Ctan.Haddock: checks 
+*** TURN *** [9c 9d 5c] [8s]
+Clara__511: bets 20
+Ctan.Haddock: folds 
+Uncalled bet (20) returned to Clara__511
+Clara__511 collected 40 from pot
+Clara__511: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c 9d 5c 8s]
+Seat 1: Clara__511 (small blind) collected (40)
+Seat 2: Ctan.Haddock (big blind) folded on the Turn
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259541145351: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:45:06 CET [2026/01/31 17:45:06 ET]
+Table '3970940954 1' 3-max Seat #1 is the button
+Seat 1: Clara__511 (510 in chips) 
+Seat 2: Ctan.Haddock (460 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+Ctan.Haddock: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 7d]
+Clara__511: folds 
+Ctan.Haddock: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [4h Ah Qh]
+Ctan.Haddock: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Ctan.Haddock
+Ctan.Haddock collected 120 from pot
+Ctan.Haddock: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4h Ah Qh]
+Seat 1: Clara__511 (button) folded before Flop (didn't bet)
+Seat 2: Ctan.Haddock (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259541148896: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:45:21 CET [2026/01/31 17:45:21 ET]
+Table '3970940954 1' 3-max Seat #2 is the button
+Seat 1: Clara__511 (510 in chips) 
+Seat 2: Ctan.Haddock (520 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+mabeal1: posts small blind 10
+Clara__511: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9s]
+Ctan.Haddock: folds 
+mabeal1: raises 40 to 60
+Clara__511: raises 40 to 100
+mabeal1: calls 40
+*** FLOP *** [5c 4h 6c]
+mabeal1: checks 
+Clara__511: bets 200
+mabeal1: raises 170 to 370 and is all-in
+Clara__511: calls 170
+*** TURN *** [5c 4h 6c] [8c]
+*** RIVER *** [5c 4h 6c 8c] [7c]
+*** SHOW DOWN ***
+mabeal1: shows [6s 9s] (a straight, Five to Nine)
+Clara__511: shows [6d 6h] (a straight, Four to Eight)
+mabeal1 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [5c 4h 6c 8c 7c]
+Seat 1: Clara__511 (big blind) showed [6d 6h] and lost with a straight, Four to Eight
+Seat 2: Ctan.Haddock (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) showed [6s 9s] and won (940) with a straight, Five to Nine
+
+
+
+PokerStars Hand #259541154696: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:45:45 CET [2026/01/31 17:45:45 ET]
+Table '3970940954 1' 3-max Seat #3 is the button
+Seat 1: Clara__511 (40 in chips) 
+Seat 2: Ctan.Haddock (520 in chips) 
+Seat 3: mabeal1 (940 in chips) 
+Clara__511: posts small blind 10
+Ctan.Haddock: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 8s]
+mabeal1: raises 40 to 60
+Clara__511: calls 30 and is all-in
+Ctan.Haddock: folds 
+Uncalled bet (20) returned to mabeal1
+*** FLOP *** [8c 4c 6d]
+*** TURN *** [8c 4c 6d] [4h]
+*** RIVER *** [8c 4c 6d 4h] [9s]
+*** SHOW DOWN ***
+Clara__511: shows [2d 3d] (a pair of Fours)
+mabeal1: shows [Ah 8s] (two pair, Eights and Fours)
+mabeal1 collected 100 from pot
+Clara__511 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8c 4c 6d 4h 9s]
+Seat 1: Clara__511 (small blind) showed [2d 3d] and lost with a pair of Fours
+Seat 2: Ctan.Haddock (big blind) folded before Flop
+Seat 3: mabeal1 (button) showed [Ah 8s] and won (100) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #259541160623: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:46:11 CET [2026/01/31 17:46:11 ET]
+Table '3970940954 1' 3-max Seat #2 is the button
+Seat 2: Ctan.Haddock (500 in chips) 
+Seat 3: mabeal1 (1000 in chips) 
+Ctan.Haddock: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 3c]
+Ctan.Haddock: calls 10
+mabeal1: checks 
+*** FLOP *** [Ac 4c 9d]
+mabeal1: checks 
+Ctan.Haddock: checks 
+*** TURN *** [Ac 4c 9d] [8d]
+mabeal1: checks 
+Ctan.Haddock: checks 
+*** RIVER *** [Ac 4c 9d 8d] [Jh]
+mabeal1: bets 30
+Ctan.Haddock: raises 50 to 80
+mabeal1: folds 
+Uncalled bet (50) returned to Ctan.Haddock
+Ctan.Haddock collected 100 from pot
+Ctan.Haddock: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ac 4c 9d 8d Jh]
+Seat 2: Ctan.Haddock (button) (small blind) collected (100)
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259541166169: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:46:33 CET [2026/01/31 17:46:33 ET]
+Table '3970940954 1' 3-max Seat #3 is the button
+Seat 2: Ctan.Haddock (550 in chips) 
+Seat 3: mabeal1 (950 in chips) 
+mabeal1: posts small blind 10
+Ctan.Haddock: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2h]
+mabeal1: calls 10
+Ctan.Haddock: raises 530 to 550 and is all-in
+mabeal1: folds 
+Uncalled bet (530) returned to Ctan.Haddock
+Ctan.Haddock collected 40 from pot
+Ctan.Haddock: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: Ctan.Haddock (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259541168463: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:46:43 CET [2026/01/31 17:46:43 ET]
+Table '3970940954 1' 3-max Seat #2 is the button
+Seat 2: Ctan.Haddock (570 in chips) 
+Seat 3: mabeal1 (930 in chips) 
+Ctan.Haddock: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 3s]
+Ctan.Haddock: calls 10
+mabeal1: checks 
+*** FLOP *** [5s Kc 6h]
+mabeal1: checks 
+Ctan.Haddock: checks 
+*** TURN *** [5s Kc 6h] [2s]
+mabeal1: bets 30
+Ctan.Haddock: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5s Kc 6h 2s]
+Seat 2: Ctan.Haddock (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259541171402: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:46:56 CET [2026/01/31 17:46:56 ET]
+Table '3970940954 1' 3-max Seat #3 is the button
+Seat 2: Ctan.Haddock (550 in chips) 
+Seat 3: mabeal1 (950 in chips) 
+mabeal1: posts small blind 10
+Ctan.Haddock: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6s]
+mabeal1: calls 10
+Ctan.Haddock: checks 
+*** FLOP *** [3s 8c 6c]
+Ctan.Haddock: checks 
+mabeal1: bets 20
+Ctan.Haddock: calls 20
+*** TURN *** [3s 8c 6c] [6h]
+Ctan.Haddock: checks 
+mabeal1: bets 80
+Ctan.Haddock: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3s 8c 6c 6h]
+Seat 2: Ctan.Haddock (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259541175700: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:47:13 CET [2026/01/31 17:47:13 ET]
+Table '3970940954 1' 3-max Seat #2 is the button
+Seat 2: Ctan.Haddock (510 in chips) 
+Seat 3: mabeal1 (990 in chips) 
+Ctan.Haddock: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 8c]
+Ctan.Haddock: calls 10
+mabeal1: checks 
+*** FLOP *** [2h 3c 4h]
+mabeal1: checks 
+Ctan.Haddock: checks 
+*** TURN *** [2h 3c 4h] [Ac]
+mabeal1: checks 
+Ctan.Haddock: checks 
+*** RIVER *** [2h 3c 4h Ac] [4s]
+mabeal1: checks 
+Ctan.Haddock: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qs 8c] (a pair of Fours)
+Ctan.Haddock: mucks hand 
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2h 3c 4h Ac 4s]
+Seat 2: Ctan.Haddock (button) (small blind) mucked [8h Tc]
+Seat 3: mabeal1 (big blind) showed [Qs 8c] and won (40) with a pair of Fours
+
+
+
+PokerStars Hand #259541179953: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:47:31 CET [2026/01/31 17:47:31 ET]
+Table '3970940954 1' 3-max Seat #3 is the button
+Seat 2: Ctan.Haddock (490 in chips) 
+Seat 3: mabeal1 (1010 in chips) 
+mabeal1: posts small blind 15
+Ctan.Haddock: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 5h]
+mabeal1: calls 15
+Ctan.Haddock: checks 
+*** FLOP *** [6h Qh Kd]
+Ctan.Haddock: checks 
+mabeal1: bets 30
+Ctan.Haddock: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h Qh Kd]
+Seat 2: Ctan.Haddock (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259541182271: Tournament #3970940954, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:47:41 CET [2026/01/31 17:47:41 ET]
+Table '3970940954 1' 3-max Seat #2 is the button
+Seat 2: Ctan.Haddock (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+Ctan.Haddock: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ks]
+Ctan.Haddock: calls 15
+mabeal1: checks 
+*** FLOP *** [Kc Qh 6h]
+mabeal1: checks 
+Ctan.Haddock: bets 60
+mabeal1: calls 60
+*** TURN *** [Kc Qh 6h] [Js]
+mabeal1: checks 
+Ctan.Haddock: bets 180
+mabeal1: calls 180
+*** RIVER *** [Kc Qh 6h Js] [Jh]
+mabeal1: checks 
+Ctan.Haddock: bets 190 and is all-in
+mabeal1: calls 190
+*** SHOW DOWN ***
+Ctan.Haddock: shows [Ad 4d] (a pair of Jacks)
+mabeal1: shows [Td Ks] (two pair, Kings and Jacks)
+mabeal1 collected 920 from pot
+Ctan.Haddock finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Kc Qh 6h Js Jh]
+Seat 2: Ctan.Haddock (button) (small blind) showed [Ad 4d] and lost with a pair of Jacks
+Seat 3: mabeal1 (big blind) showed [Td Ks] and won (920) with two pair, Kings and Jacks
+
+
+

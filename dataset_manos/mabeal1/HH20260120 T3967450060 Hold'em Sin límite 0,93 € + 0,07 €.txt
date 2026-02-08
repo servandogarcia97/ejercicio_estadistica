@@ -1,0 +1,783 @@
+﻿PokerStars Hand #259390024408: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:45:46 CET [2026/01/20 10:45:46 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: sanc.pt (500 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Tc]
+Jornnix: folds 
+mabeal1: raises 20 to 40
+sanc.pt: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jornnix (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: sanc.pt (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390026562: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:45:58 CET [2026/01/20 10:45:58 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: sanc.pt (480 in chips) 
+sanc.pt: posts small blind 10
+Jornnix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7h]
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (10) returned to Jornnix
+Jornnix collected 20 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Jornnix (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: sanc.pt (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390028642: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:46:10 CET [2026/01/20 10:46:10 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (510 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: sanc.pt (470 in chips) 
+Jornnix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7c]
+sanc.pt: calls 20
+Jornnix: raises 60 to 80
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (60) returned to Jornnix
+Jornnix collected 60 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Jornnix (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: sanc.pt (button) folded before Flop
+
+
+
+PokerStars Hand #259390030223: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:46:20 CET [2026/01/20 10:46:20 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (550 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: sanc.pt (450 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 8s]
+Jornnix: raises 20 to 40
+mabeal1: folds 
+sanc.pt: calls 20
+*** FLOP *** [6h Kh 7s]
+sanc.pt: checks 
+Jornnix: bets 30
+sanc.pt: calls 30
+*** TURN *** [6h Kh 7s] [2h]
+sanc.pt: checks 
+Jornnix: bets 120
+sanc.pt: folds 
+Uncalled bet (120) returned to Jornnix
+Jornnix collected 150 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [6h Kh 7s 2h]
+Seat 1: Jornnix (button) collected (150)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259390034628: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:46:44 CET [2026/01/20 10:46:44 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (630 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: sanc.pt (380 in chips) 
+sanc.pt: posts small blind 10
+Jornnix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 2h]
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (10) returned to Jornnix
+Jornnix collected 20 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Jornnix (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: sanc.pt (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390035875: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:46:52 CET [2026/01/20 10:46:52 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (640 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: sanc.pt (370 in chips) 
+Jornnix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7c]
+sanc.pt: folds 
+Jornnix: calls 10
+mabeal1: checks 
+*** FLOP *** [2c 4d 4c]
+Jornnix: bets 20
+mabeal1: calls 20
+*** TURN *** [2c 4d 4c] [Ac]
+Jornnix: bets 20
+mabeal1: calls 20
+*** RIVER *** [2c 4d 4c Ac] [Kd]
+Jornnix: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to Jornnix
+Jornnix collected 120 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 4d 4c Ac Kd]
+Seat 1: Jornnix (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: sanc.pt (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390040550: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:47:18 CET [2026/01/20 10:47:18 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (700 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: sanc.pt (370 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 5h]
+Jornnix: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to sanc.pt
+sanc.pt collected 20 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Jornnix (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) collected (20)
+
+
+
+PokerStars Hand #259390041790: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:47:25 CET [2026/01/20 10:47:25 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (700 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: sanc.pt (380 in chips) 
+sanc.pt: posts small blind 10
+Jornnix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qh]
+mabeal1: folds 
+sanc.pt: raises 40 to 60
+Jornnix: folds 
+Uncalled bet (40) returned to sanc.pt
+sanc.pt collected 40 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jornnix (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: sanc.pt (small blind) collected (40)
+
+
+
+PokerStars Hand #259390043997: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:47:38 CET [2026/01/20 10:47:38 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (680 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: sanc.pt (400 in chips) 
+Jornnix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6s]
+sanc.pt: folds 
+Jornnix: raises 20 to 40
+mabeal1: raises 380 to 420 and is all-in
+Jornnix: folds 
+Uncalled bet (380) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Jornnix (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: sanc.pt (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390045489: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:47:47 CET [2026/01/20 10:47:47 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (640 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: sanc.pt (400 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 6h]
+Jornnix: folds 
+mabeal1: raises 20 to 40
+sanc.pt: calls 20
+*** FLOP *** [8h 4d 2s]
+mabeal1: checks 
+sanc.pt: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to sanc.pt
+sanc.pt collected 80 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8h 4d 2s]
+Seat 1: Jornnix (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: sanc.pt (big blind) collected (80)
+
+
+
+PokerStars Hand #259390051853: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:48:22 CET [2026/01/20 10:48:22 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (640 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: sanc.pt (440 in chips) 
+sanc.pt: posts small blind 15
+Jornnix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ad]
+mabeal1: raises 390 to 420 and is all-in
+sanc.pt: folds 
+Jornnix: folds 
+Uncalled bet (390) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Jornnix (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (75)
+Seat 3: sanc.pt (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390053943: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:48:34 CET [2026/01/20 10:48:34 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (610 in chips) 
+Seat 2: mabeal1 (465 in chips) 
+Seat 3: sanc.pt (425 in chips) 
+Jornnix: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ac]
+sanc.pt: folds 
+Jornnix: raises 30 to 60
+mabeal1: raises 405 to 465 and is all-in
+Jornnix: folds 
+Uncalled bet (405) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Jornnix (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: sanc.pt (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390055699: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:48:44 CET [2026/01/20 10:48:44 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (550 in chips) 
+Seat 2: mabeal1 (525 in chips) 
+Seat 3: sanc.pt (425 in chips) 
+mabeal1: posts small blind 15
+sanc.pt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 6s]
+Jornnix: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to sanc.pt
+sanc.pt collected 30 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Jornnix (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) collected (30)
+
+
+
+PokerStars Hand #259390058188: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:48:58 CET [2026/01/20 10:48:58 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (550 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: sanc.pt (440 in chips) 
+sanc.pt: posts small blind 15
+Jornnix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Jh]
+mabeal1: folds 
+sanc.pt: raises 30 to 60
+Jornnix: folds 
+Uncalled bet (30) returned to sanc.pt
+sanc.pt collected 60 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Jornnix (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: sanc.pt (small blind) collected (60)
+
+
+
+PokerStars Hand #259390060482: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:49:11 CET [2026/01/20 10:49:11 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (520 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: sanc.pt (470 in chips) 
+Jornnix: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3s]
+sanc.pt: raises 30 to 60
+Jornnix: folds 
+mabeal1: folds 
+Uncalled bet (30) returned to sanc.pt
+sanc.pt collected 75 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Jornnix (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: sanc.pt (button) collected (75)
+
+
+
+PokerStars Hand #259390061766: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:49:19 CET [2026/01/20 10:49:19 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (505 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: sanc.pt (515 in chips) 
+mabeal1: posts small blind 15
+sanc.pt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 3h]
+Jornnix: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to sanc.pt
+sanc.pt collected 30 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Jornnix (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) collected (30)
+
+
+
+PokerStars Hand #259390062862: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:49:25 CET [2026/01/20 10:49:25 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (505 in chips) 
+Seat 2: mabeal1 (465 in chips) 
+Seat 3: sanc.pt (530 in chips) 
+sanc.pt: posts small blind 15
+Jornnix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 6c]
+mabeal1: raises 435 to 465 and is all-in
+sanc.pt: folds 
+Jornnix: folds 
+Uncalled bet (435) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Jornnix (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (75)
+Seat 3: sanc.pt (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390064733: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:49:36 CET [2026/01/20 10:49:36 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (475 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: sanc.pt (515 in chips) 
+Jornnix: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qs]
+sanc.pt: folds 
+Jornnix: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Jornnix (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: sanc.pt (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390065603: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 16:49:41 CET [2026/01/20 10:49:41 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (460 in chips) 
+Seat 2: mabeal1 (525 in chips) 
+Seat 3: sanc.pt (515 in chips) 
+mabeal1: posts small blind 15
+sanc.pt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9d]
+Jornnix: raises 30 to 60
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (30) returned to Jornnix
+Jornnix collected 75 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Jornnix (button) collected (75)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390068876: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:49:59 CET [2026/01/20 10:49:59 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (505 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: sanc.pt (485 in chips) 
+sanc.pt: posts small blind 20
+Jornnix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5c]
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (20) returned to Jornnix
+Jornnix collected 40 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jornnix (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: sanc.pt (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390070408: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:50:08 CET [2026/01/20 10:50:08 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (525 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: sanc.pt (465 in chips) 
+Jornnix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5c]
+sanc.pt: folds 
+Jornnix: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [Qs Jd Kd]
+Jornnix: checks 
+mabeal1: checks 
+*** TURN *** [Qs Jd Kd] [3s]
+Jornnix: checks 
+mabeal1: bets 120
+Jornnix: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qs Jd Kd 3s]
+Seat 1: Jornnix (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: sanc.pt (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390073706: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:50:27 CET [2026/01/20 10:50:27 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (445 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: sanc.pt (465 in chips) 
+mabeal1: posts small blind 20
+sanc.pt: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Jc]
+Jornnix: raises 405 to 445 and is all-in
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (405) returned to Jornnix
+Jornnix collected 100 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Jornnix (button) collected (100)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390075847: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:50:39 CET [2026/01/20 10:50:39 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (505 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: sanc.pt (425 in chips) 
+sanc.pt: posts small blind 20
+Jornnix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 8s]
+mabeal1: folds 
+sanc.pt: raises 385 to 425 and is all-in
+Jornnix: folds 
+Uncalled bet (385) returned to sanc.pt
+sanc.pt collected 80 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Jornnix (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: sanc.pt (small blind) collected (80)
+
+
+
+PokerStars Hand #259390078002: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:50:51 CET [2026/01/20 10:50:51 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (465 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: sanc.pt (465 in chips) 
+Jornnix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 8h]
+sanc.pt: folds 
+Jornnix: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jornnix (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: sanc.pt (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390078799: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:50:56 CET [2026/01/20 10:50:56 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (445 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: sanc.pt (465 in chips) 
+mabeal1: posts small blind 20
+sanc.pt: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 2h]
+Jornnix: raises 40 to 80
+mabeal1: folds 
+sanc.pt: calls 40
+*** FLOP *** [5s Th 5d]
+sanc.pt: checks 
+Jornnix: bets 80
+sanc.pt: folds 
+Uncalled bet (80) returned to Jornnix
+Jornnix collected 180 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5s Th 5d]
+Seat 1: Jornnix (button) collected (180)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259390081088: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:51:09 CET [2026/01/20 10:51:09 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (545 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: sanc.pt (385 in chips) 
+sanc.pt: posts small blind 20
+Jornnix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9d]
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (20) returned to Jornnix
+Jornnix collected 40 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Jornnix (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: sanc.pt (small blind) folded before Flop
+
+
+
+PokerStars Hand #259390082115: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:51:15 CET [2026/01/20 10:51:15 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (565 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: sanc.pt (365 in chips) 
+Jornnix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2d]
+sanc.pt: raises 325 to 365 and is all-in
+Jornnix: folds 
+mabeal1: folds 
+Uncalled bet (325) returned to sanc.pt
+sanc.pt collected 100 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Jornnix (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: sanc.pt (button) collected (100)
+
+
+
+PokerStars Hand #259390085890: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/20 16:51:37 CET [2026/01/20 10:51:37 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (545 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: sanc.pt (425 in chips) 
+mabeal1: posts small blind 20
+sanc.pt: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3s]
+Jornnix: raises 40 to 80
+mabeal1: folds 
+sanc.pt: calls 40
+*** FLOP *** [Ad 5s 9d]
+sanc.pt: checks 
+Jornnix: bets 80
+sanc.pt: folds 
+Uncalled bet (80) returned to Jornnix
+Jornnix collected 180 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Ad 5s 9d]
+Seat 1: Jornnix (button) collected (180)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259390089260: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 16:51:56 CET [2026/01/20 10:51:56 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (645 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: sanc.pt (345 in chips) 
+sanc.pt: posts small blind 30
+Jornnix: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 4c]
+mabeal1: folds 
+sanc.pt: raises 285 to 345 and is all-in
+Jornnix: folds 
+Uncalled bet (285) returned to sanc.pt
+sanc.pt collected 120 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Jornnix (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: sanc.pt (small blind) collected (120)
+
+
+
+PokerStars Hand #259390091256: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 16:52:07 CET [2026/01/20 10:52:07 ET]
+Table '3967450060 1' 3-max Seat #3 is the button
+Seat 1: Jornnix (585 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: sanc.pt (405 in chips) 
+Jornnix: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 7h]
+sanc.pt: folds 
+Jornnix: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Jornnix (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: sanc.pt (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259390092172: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 16:52:13 CET [2026/01/20 10:52:13 ET]
+Table '3967450060 1' 3-max Seat #1 is the button
+Seat 1: Jornnix (555 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: sanc.pt (405 in chips) 
+mabeal1: posts small blind 30
+sanc.pt: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 7d]
+Jornnix: raises 495 to 555 and is all-in
+mabeal1: folds 
+sanc.pt: folds 
+Uncalled bet (495) returned to Jornnix
+Jornnix collected 150 from pot
+Jornnix: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Jornnix (button) collected (150)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: sanc.pt (big blind) folded before Flop
+
+
+
+PokerStars Hand #259390093531: Tournament #3967450060, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/20 16:52:20 CET [2026/01/20 10:52:20 ET]
+Table '3967450060 1' 3-max Seat #2 is the button
+Seat 1: Jornnix (645 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: sanc.pt (345 in chips) 
+sanc.pt: posts small blind 30
+Jornnix: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Ks]
+mabeal1: raises 60 to 120
+sanc.pt: raises 225 to 345 and is all-in
+Jornnix: raises 300 to 645 and is all-in
+mabeal1: calls 390 and is all-in
+Uncalled bet (135) returned to Jornnix
+*** FLOP *** [2h 6c 9s]
+*** TURN *** [2h 6c 9s] [7d]
+*** RIVER *** [2h 6c 9s 7d] [3s]
+*** SHOW DOWN ***
+Jornnix: shows [Tc Th] (a pair of Tens)
+mabeal1: shows [Ad Ks] (high card Ace)
+Jornnix collected 330 from side pot
+sanc.pt: shows [4h Ah] (high card Ace)
+Jornnix collected 1035 from main pot
+mabeal1 finished the tournament in 2nd place
+sanc.pt finished the tournament in 3rd place
+Jornnix wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1365 Main pot 1035. Side pot 330. | Rake 0 
+Board [2h 6c 9s 7d 3s]
+Seat 1: Jornnix (big blind) showed [Tc Th] and won (1365) with a pair of Tens
+Seat 2: mabeal1 (button) showed [Ad Ks] and lost with high card Ace
+Seat 3: sanc.pt (small blind) showed [4h Ah] and lost with high card Ace
+
+
+

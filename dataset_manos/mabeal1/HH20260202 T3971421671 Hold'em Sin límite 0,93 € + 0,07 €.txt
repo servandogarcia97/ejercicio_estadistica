@@ -1,0 +1,830 @@
+﻿PokerStars Hand #259562780402: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:32:15 CET [2026/02/02 10:32:15 ET]
+Table '3971421671 1' 3-max Seat #1 is the button
+Seat 1: kevingm999 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: jdrix (500 in chips) 
+mabeal1: posts small blind 10
+jdrix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Kc]
+kevingm999: calls 20
+mabeal1: raises 40 to 60
+jdrix: folds 
+kevingm999: calls 40
+*** FLOP *** [2c 3s Ks]
+mabeal1: bets 70
+kevingm999: raises 90 to 160
+mabeal1: raises 280 to 440 and is all-in
+kevingm999: calls 280 and is all-in
+*** TURN *** [2c 3s Ks] [Qd]
+*** RIVER *** [2c 3s Ks Qd] [8s]
+*** SHOW DOWN ***
+mabeal1: shows [Jd Kc] (a pair of Kings)
+kevingm999: shows [Kh 6h] (a pair of Kings - lower kicker)
+mabeal1 collected 1020 from pot
+kevingm999 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [2c 3s Ks Qd 8s]
+Seat 1: kevingm999 (button) showed [Kh 6h] and lost with a pair of Kings
+Seat 2: mabeal1 (small blind) showed [Jd Kc] and won (1020) with a pair of Kings
+Seat 3: jdrix (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562784837: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:32:41 CET [2026/02/02 10:32:41 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1020 in chips) 
+Seat 3: jdrix (480 in chips) 
+jdrix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7h]
+jdrix: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: jdrix (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562785539: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:32:46 CET [2026/02/02 10:32:46 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1030 in chips) 
+Seat 3: jdrix (470 in chips) 
+mabeal1: posts small blind 10
+jdrix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 4d]
+mabeal1: calls 10
+jdrix: checks 
+*** FLOP *** [8h 8s 5d]
+jdrix: checks 
+mabeal1: bets 20
+jdrix: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8h 8s 5d]
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: jdrix (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259562787317: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:32:56 CET [2026/02/02 10:32:56 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1050 in chips) 
+Seat 3: jdrix (450 in chips) 
+jdrix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 2d]
+jdrix: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to jdrix
+jdrix collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: jdrix (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259562788414: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:33:02 CET [2026/02/02 10:33:02 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1030 in chips) 
+Seat 3: jdrix (470 in chips) 
+mabeal1: posts small blind 10
+jdrix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 9s]
+mabeal1: raises 1010 to 1030 and is all-in
+jdrix: folds 
+Uncalled bet (1010) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: jdrix (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562789744: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:33:10 CET [2026/02/02 10:33:10 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1050 in chips) 
+Seat 3: jdrix (450 in chips) 
+jdrix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 5d]
+jdrix: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to jdrix
+jdrix collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: jdrix (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259562790651: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:33:16 CET [2026/02/02 10:33:16 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1030 in chips) 
+Seat 3: jdrix (470 in chips) 
+mabeal1: posts small blind 10
+jdrix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ac]
+mabeal1: raises 20 to 40
+jdrix: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: jdrix (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562791741: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:33:23 CET [2026/02/02 10:33:23 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1050 in chips) 
+Seat 3: jdrix (450 in chips) 
+jdrix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Ts]
+jdrix: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: jdrix (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562792435: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:33:27 CET [2026/02/02 10:33:27 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1060 in chips) 
+Seat 3: jdrix (440 in chips) 
+mabeal1: posts small blind 10
+jdrix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Ad]
+mabeal1: raises 1040 to 1060 and is all-in
+jdrix: folds 
+Uncalled bet (1040) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: jdrix (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562793543: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:33:33 CET [2026/02/02 10:33:33 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1080 in chips) 
+Seat 3: jdrix (420 in chips) 
+jdrix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 9h]
+jdrix: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: jdrix (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562794155: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:33:37 CET [2026/02/02 10:33:37 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1090 in chips) 
+Seat 3: jdrix (410 in chips) 
+mabeal1: posts small blind 10
+jdrix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Ad]
+mabeal1: raises 20 to 40
+jdrix: calls 20
+*** FLOP *** [Kc 6c 2h]
+jdrix: checks 
+mabeal1: checks 
+*** TURN *** [Kc 6c 2h] [9c]
+jdrix: checks 
+mabeal1: checks 
+*** RIVER *** [Kc 6c 2h 9c] [7c]
+jdrix: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to jdrix
+jdrix collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 6c 2h 9c 7c]
+Seat 2: mabeal1 (button) (small blind) folded on the River
+Seat 3: jdrix (big blind) collected (80)
+
+
+
+PokerStars Hand #259562797329: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:33:56 CET [2026/02/02 10:33:56 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1050 in chips) 
+Seat 3: jdrix (450 in chips) 
+jdrix: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4c]
+jdrix: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Ac 7s 6s]
+mabeal1: checks 
+jdrix: bets 40
+mabeal1: raises 60 to 100
+jdrix: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac 7s 6s]
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: jdrix (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259562800186: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 16:34:13 CET [2026/02/02 10:34:13 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1130 in chips) 
+Seat 3: jdrix (370 in chips) 
+mabeal1: posts small blind 10
+jdrix: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5c]
+mabeal1: calls 10
+jdrix: checks 
+*** FLOP *** [8d 3c As]
+jdrix: checks 
+mabeal1: bets 20
+jdrix: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d 3c As]
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: jdrix (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259562802741: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:34:29 CET [2026/02/02 10:34:29 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1150 in chips) 
+Seat 3: jdrix (350 in chips) 
+jdrix: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 9c]
+jdrix: calls 15
+mabeal1: checks 
+*** FLOP *** [Jh 7d 6d]
+mabeal1: checks 
+jdrix: checks 
+*** TURN *** [Jh 7d 6d] [2d]
+mabeal1: bets 30
+jdrix: calls 30
+*** RIVER *** [Jh 7d 6d 2d] [7s]
+mabeal1: checks 
+jdrix: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to jdrix
+jdrix collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jh 7d 6d 2d 7s]
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: jdrix (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259562806879: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:34:53 CET [2026/02/02 10:34:53 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1090 in chips) 
+Seat 3: jdrix (410 in chips) 
+mabeal1: posts small blind 15
+jdrix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 4c]
+mabeal1: raises 1060 to 1090 and is all-in
+jdrix: folds 
+Uncalled bet (1060) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (60)
+Seat 3: jdrix (big blind) folded before Flop
+
+
+
+PokerStars Hand #259562807764: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:34:59 CET [2026/02/02 10:34:59 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1120 in chips) 
+Seat 3: jdrix (380 in chips) 
+jdrix: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Qh]
+jdrix: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: jdrix (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562808436: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:35:03 CET [2026/02/02 10:35:03 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1135 in chips) 
+Seat 3: jdrix (365 in chips) 
+mabeal1: posts small blind 15
+jdrix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Kh]
+mabeal1: calls 15
+jdrix: checks 
+*** FLOP *** [9s Qs 4s]
+jdrix: checks 
+mabeal1: checks 
+*** TURN *** [9s Qs 4s] [3h]
+jdrix: checks 
+mabeal1: checks 
+*** RIVER *** [9s Qs 4s 3h] [4h]
+jdrix: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+jdrix: shows [Jh 3c] (two pair, Fours and Threes)
+mabeal1: mucks hand 
+jdrix collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s Qs 4s 3h 4h]
+Seat 2: mabeal1 (button) (small blind) mucked [6d Kh]
+Seat 3: jdrix (big blind) showed [Jh 3c] and won (60) with two pair, Fours and Threes
+
+
+
+PokerStars Hand #259562810985: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:35:18 CET [2026/02/02 10:35:18 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1105 in chips) 
+Seat 3: jdrix (395 in chips) 
+jdrix: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Kc]
+jdrix: calls 15
+mabeal1: checks 
+*** FLOP *** [3c 4h 2c]
+mabeal1: checks 
+jdrix: checks 
+*** TURN *** [3c 4h 2c] [Kd]
+mabeal1: bets 45
+jdrix: raises 45 to 90
+mabeal1: raises 985 to 1075 and is all-in
+jdrix: calls 275 and is all-in
+Uncalled bet (710) returned to mabeal1
+*** RIVER *** [3c 4h 2c Kd] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [2h Kc] (two pair, Kings and Deuces)
+jdrix: shows [Ks 3d] (two pair, Kings and Threes)
+jdrix collected 790 from pot
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [3c 4h 2c Kd 7d]
+Seat 2: mabeal1 (big blind) showed [2h Kc] and lost with two pair, Kings and Deuces
+Seat 3: jdrix (button) (small blind) showed [Ks 3d] and won (790) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #259562814459: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:35:39 CET [2026/02/02 10:35:39 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (710 in chips) 
+Seat 3: jdrix (790 in chips) 
+mabeal1: posts small blind 15
+jdrix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 7d]
+mabeal1: calls 15
+jdrix: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to jdrix
+jdrix collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jdrix (big blind) collected (60)
+
+
+
+PokerStars Hand #259562817314: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:35:56 CET [2026/02/02 10:35:56 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (680 in chips) 
+Seat 3: jdrix (820 in chips) 
+jdrix: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qd]
+jdrix: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: jdrix (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562818049: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 16:36:00 CET [2026/02/02 10:36:00 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (695 in chips) 
+Seat 3: jdrix (805 in chips) 
+mabeal1: posts small blind 15
+jdrix: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 9d]
+mabeal1: raises 30 to 60
+jdrix: calls 30
+*** FLOP *** [8s 9c Kh]
+jdrix: checks 
+mabeal1: bets 60
+jdrix: calls 60
+*** TURN *** [8s 9c Kh] [8c]
+jdrix: checks 
+mabeal1: checks 
+*** RIVER *** [8s 9c Kh 8c] [4h]
+jdrix: bets 120
+mabeal1: calls 120
+*** SHOW DOWN ***
+jdrix: shows [9s Js] (two pair, Nines and Eights)
+mabeal1: shows [7d 9d] (two pair, Nines and Eights)
+jdrix collected 240 from pot
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [8s 9c Kh 8c 4h]
+Seat 2: mabeal1 (button) (small blind) showed [7d 9d] and won (240) with two pair, Nines and Eights
+Seat 3: jdrix (big blind) showed [9s Js] and won (240) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #259562821885: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:36:23 CET [2026/02/02 10:36:23 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (695 in chips) 
+Seat 3: jdrix (805 in chips) 
+jdrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9c]
+jdrix: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: jdrix (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562822550: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:36:27 CET [2026/02/02 10:36:27 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (715 in chips) 
+Seat 3: jdrix (785 in chips) 
+mabeal1: posts small blind 20
+jdrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qh]
+mabeal1: raises 40 to 80
+jdrix: calls 40
+*** FLOP *** [5s Kc 6h]
+jdrix: checks 
+mabeal1: bets 44
+jdrix: folds 
+Uncalled bet (44) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5s Kc 6h]
+Seat 2: mabeal1 (button) (small blind) collected (160)
+Seat 3: jdrix (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259562825086: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:36:42 CET [2026/02/02 10:36:42 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (795 in chips) 
+Seat 3: jdrix (705 in chips) 
+jdrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5h]
+jdrix: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: jdrix (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562825857: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:36:47 CET [2026/02/02 10:36:47 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (815 in chips) 
+Seat 3: jdrix (685 in chips) 
+mabeal1: posts small blind 20
+jdrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3h]
+mabeal1: calls 20
+jdrix: checks 
+*** FLOP *** [8d 5c 4s]
+jdrix: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to jdrix
+jdrix collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 5c 4s]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: jdrix (big blind) collected (80)
+
+
+
+PokerStars Hand #259562827613: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:36:57 CET [2026/02/02 10:36:57 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (775 in chips) 
+Seat 3: jdrix (725 in chips) 
+jdrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Th]
+jdrix: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to jdrix
+jdrix collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: jdrix (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259562828566: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:37:03 CET [2026/02/02 10:37:03 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (735 in chips) 
+Seat 3: jdrix (765 in chips) 
+mabeal1: posts small blind 20
+jdrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 4s]
+mabeal1: folds 
+Uncalled bet (20) returned to jdrix
+jdrix collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jdrix (big blind) collected (40)
+
+
+
+PokerStars Hand #259562829237: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:37:07 CET [2026/02/02 10:37:07 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (715 in chips) 
+Seat 3: jdrix (785 in chips) 
+jdrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ad]
+jdrix: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: jdrix (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562829980: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:37:11 CET [2026/02/02 10:37:11 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (735 in chips) 
+Seat 3: jdrix (765 in chips) 
+mabeal1: posts small blind 20
+jdrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Qc]
+mabeal1: calls 20
+jdrix: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to jdrix
+jdrix collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jdrix (big blind) collected (80)
+
+
+
+PokerStars Hand #259562831349: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:37:19 CET [2026/02/02 10:37:19 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (695 in chips) 
+Seat 3: jdrix (805 in chips) 
+jdrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 8c]
+jdrix: calls 20
+mabeal1: checks 
+*** FLOP *** [Ac 5s Kd]
+mabeal1: checks 
+jdrix: checks 
+*** TURN *** [Ac 5s Kd] [Th]
+mabeal1: checks 
+jdrix: bets 40
+mabeal1: calls 40
+*** RIVER *** [Ac 5s Kd Th] [9s]
+mabeal1: checks 
+jdrix: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ts 8c] (a pair of Tens)
+jdrix: shows [Kh 6c] (a pair of Kings)
+jdrix collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ac 5s Kd Th 9s]
+Seat 2: mabeal1 (big blind) showed [Ts 8c] and lost with a pair of Tens
+Seat 3: jdrix (button) (small blind) showed [Kh 6c] and won (160) with a pair of Kings
+
+
+
+PokerStars Hand #259562833922: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:37:34 CET [2026/02/02 10:37:34 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (615 in chips) 
+Seat 3: jdrix (885 in chips) 
+mabeal1: posts small blind 20
+jdrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2s]
+mabeal1: calls 20
+jdrix: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to jdrix
+jdrix collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jdrix (big blind) collected (80)
+
+
+
+PokerStars Hand #259562835339: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:37:43 CET [2026/02/02 10:37:43 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (575 in chips) 
+Seat 3: jdrix (925 in chips) 
+jdrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 8h]
+jdrix: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (40)
+Seat 3: jdrix (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259562836158: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:37:47 CET [2026/02/02 10:37:47 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (595 in chips) 
+Seat 3: jdrix (905 in chips) 
+mabeal1: posts small blind 20
+jdrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Tc]
+mabeal1: raises 40 to 80
+jdrix: raises 80 to 160
+mabeal1: folds 
+Uncalled bet (80) returned to jdrix
+jdrix collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jdrix (big blind) collected (160)
+
+
+
+PokerStars Hand #259562837536: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:37:56 CET [2026/02/02 10:37:56 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (515 in chips) 
+Seat 3: jdrix (985 in chips) 
+jdrix: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Ts]
+jdrix: calls 20
+mabeal1: checks 
+*** FLOP *** [2h 7s 4c]
+mabeal1: checks 
+jdrix: checks 
+*** TURN *** [2h 7s 4c] [6c]
+mabeal1: bets 60
+jdrix: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h 7s 4c 6c]
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: jdrix (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259562840062: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 16:38:10 CET [2026/02/02 10:38:10 ET]
+Table '3971421671 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (555 in chips) 
+Seat 3: jdrix (945 in chips) 
+mabeal1: posts small blind 20
+jdrix: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6h]
+mabeal1: raises 515 to 555 and is all-in
+jdrix: calls 515
+*** FLOP *** [7d 8c Qs]
+*** TURN *** [7d 8c Qs] [Jd]
+*** RIVER *** [7d 8c Qs Jd] [Ts]
+*** SHOW DOWN ***
+jdrix: shows [2h 2c] (a pair of Deuces)
+mabeal1: shows [6c 6h] (a pair of Sixes)
+mabeal1 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [7d 8c Qs Jd Ts]
+Seat 2: mabeal1 (button) (small blind) showed [6c 6h] and won (1110) with a pair of Sixes
+Seat 3: jdrix (big blind) showed [2h 2c] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259562843084: Tournament #3971421671, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/02 16:38:28 CET [2026/02/02 10:38:28 ET]
+Table '3971421671 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1110 in chips) 
+Seat 3: jdrix (390 in chips) 
+jdrix: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Td]
+jdrix: raises 330 to 390 and is all-in
+mabeal1: calls 330
+*** FLOP *** [6h 7c 9d]
+*** TURN *** [6h 7c 9d] [Qh]
+*** RIVER *** [6h 7c 9d Qh] [5c]
+*** SHOW DOWN ***
+mabeal1: shows [Qd Td] (a pair of Queens)
+jdrix: shows [Ks Jc] (high card King)
+mabeal1 collected 780 from pot
+jdrix finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [6h 7c 9d Qh 5c]
+Seat 2: mabeal1 (big blind) showed [Qd Td] and won (780) with a pair of Queens
+Seat 3: jdrix (button) (small blind) showed [Ks Jc] and lost with high card King
+
+
+

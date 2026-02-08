@@ -1,0 +1,548 @@
+﻿PokerStars Hand #259508478252: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:52:44 CET [2026/01/29 9:52:44 ET]
+Table '3970182805 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: toxicomax38 (500 in chips) 
+Seat 3: gigaras (500 in chips) 
+toxicomax38: posts small blind 10
+gigaras: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Qs]
+mabeal1: folds 
+toxicomax38: calls 10
+gigaras: checks 
+*** FLOP *** [Jc 3c 2h]
+toxicomax38: checks 
+gigaras: bets 20
+toxicomax38: folds 
+Uncalled bet (20) returned to gigaras
+gigaras collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc 3c 2h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: toxicomax38 (small blind) folded on the Flop
+Seat 3: gigaras (big blind) collected (40)
+
+
+
+PokerStars Hand #259508481420: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:53:05 CET [2026/01/29 9:53:05 ET]
+Table '3970182805 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: toxicomax38 (480 in chips) 
+Seat 3: gigaras (520 in chips) 
+gigaras: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 2d]
+toxicomax38: folds 
+gigaras: calls 10
+mabeal1: checks 
+*** FLOP *** [Kh 4d Th]
+gigaras: checks 
+mabeal1: bets 20
+gigaras: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kh 4d Th]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: toxicomax38 (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259508484267: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:53:24 CET [2026/01/29 9:53:24 ET]
+Table '3970182805 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: toxicomax38 (480 in chips) 
+Seat 3: gigaras (500 in chips) 
+mabeal1: posts small blind 10
+toxicomax38: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 7d]
+gigaras: folds 
+mabeal1: raises 20 to 40
+toxicomax38: calls 20
+*** FLOP *** [8c 5d 3d]
+mabeal1: bets 40
+toxicomax38: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8c 5d 3d]
+Seat 1: mabeal1 (small blind) collected (80)
+Seat 2: toxicomax38 (big blind) folded on the Flop
+Seat 3: gigaras (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259508487342: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:53:44 CET [2026/01/29 9:53:44 ET]
+Table '3970182805 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: toxicomax38 (440 in chips) 
+Seat 3: gigaras (500 in chips) 
+toxicomax38: posts small blind 10
+gigaras: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Qd]
+mabeal1: folds 
+toxicomax38: calls 10
+gigaras: checks 
+*** FLOP *** [5d Qs Ad]
+toxicomax38: checks 
+gigaras: checks 
+*** TURN *** [5d Qs Ad] [Ah]
+toxicomax38: checks 
+gigaras: bets 40
+toxicomax38: folds 
+Uncalled bet (40) returned to gigaras
+gigaras collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d Qs Ad Ah]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: toxicomax38 (small blind) folded on the Turn
+Seat 3: gigaras (big blind) collected (40)
+
+
+
+PokerStars Hand #259508491093: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:54:08 CET [2026/01/29 9:54:08 ET]
+Table '3970182805 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: toxicomax38 (420 in chips) 
+Seat 3: gigaras (520 in chips) 
+gigaras: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 5c]
+toxicomax38: calls 20
+gigaras: calls 10
+mabeal1: raises 540 to 560 and is all-in
+toxicomax38: folds 
+gigaras: folds 
+Uncalled bet (540) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: toxicomax38 (button) folded before Flop
+Seat 3: gigaras (small blind) folded before Flop
+
+
+
+PokerStars Hand #259508492801: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:54:19 CET [2026/01/29 9:54:19 ET]
+Table '3970182805 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: toxicomax38 (400 in chips) 
+Seat 3: gigaras (500 in chips) 
+mabeal1: posts small blind 10
+toxicomax38: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 3s]
+gigaras: calls 20
+mabeal1: calls 10
+toxicomax38: checks 
+*** FLOP *** [Ts 4c 7d]
+mabeal1: checks 
+toxicomax38: bets 20
+gigaras: calls 20
+mabeal1: folds 
+*** TURN *** [Ts 4c 7d] [Qc]
+toxicomax38: bets 20
+gigaras: calls 20
+*** RIVER *** [Ts 4c 7d Qc] [9h]
+toxicomax38: checks 
+gigaras: bets 140
+toxicomax38: folds 
+Uncalled bet (140) returned to gigaras
+gigaras collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Ts 4c 7d Qc 9h]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: toxicomax38 (big blind) folded on the River
+Seat 3: gigaras (button) collected (140)
+
+
+
+PokerStars Hand #259508500322: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 15:55:09 CET [2026/01/29 9:55:09 ET]
+Table '3970182805 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: toxicomax38 (340 in chips) 
+Seat 3: gigaras (580 in chips) 
+toxicomax38: posts small blind 15
+gigaras: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 7d]
+mabeal1: folds 
+toxicomax38: calls 15
+gigaras: checks 
+*** FLOP *** [Th Kd Jd]
+toxicomax38: checks 
+gigaras: bets 60
+toxicomax38: calls 60
+*** TURN *** [Th Kd Jd] [2d]
+toxicomax38: checks 
+gigaras: checks 
+*** RIVER *** [Th Kd Jd 2d] [5d]
+toxicomax38: bets 90
+gigaras: folds 
+Uncalled bet (90) returned to toxicomax38
+toxicomax38 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Th Kd Jd 2d 5d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: toxicomax38 (small blind) collected (180)
+Seat 3: gigaras (big blind) folded on the River
+
+
+
+PokerStars Hand #259508503790: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 15:55:38 CET [2026/01/29 9:55:38 ET]
+Table '3970182805 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: toxicomax38 (430 in chips) 
+Seat 3: gigaras (490 in chips) 
+gigaras: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 4c]
+toxicomax38: folds 
+gigaras: calls 15
+mabeal1: raises 550 to 580 and is all-in
+gigaras: folds 
+Uncalled bet (550) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: toxicomax38 (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) folded before Flop
+
+
+
+PokerStars Hand #259508505866: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 15:55:56 CET [2026/01/29 9:55:56 ET]
+Table '3970182805 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: toxicomax38 (430 in chips) 
+Seat 3: gigaras (460 in chips) 
+mabeal1: posts small blind 15
+toxicomax38: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 9d]
+gigaras: calls 30
+mabeal1: calls 15
+toxicomax38: checks 
+*** FLOP *** [Qc Tc 4c]
+mabeal1: checks 
+toxicomax38: checks 
+gigaras: bets 90
+mabeal1: calls 90
+toxicomax38: folds 
+*** TURN *** [Qc Tc 4c] [Ks]
+mabeal1: checks 
+gigaras: bets 30
+mabeal1: raises 210 to 240
+gigaras: folds 
+Uncalled bet (210) returned to mabeal1
+mabeal1 collected 330 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [Qc Tc 4c Ks]
+Seat 1: mabeal1 (small blind) collected (330)
+Seat 2: toxicomax38 (big blind) folded on the Flop
+Seat 3: gigaras (button) folded on the Turn
+
+
+
+PokerStars Hand #259508510613: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 15:56:35 CET [2026/01/29 9:56:35 ET]
+Table '3970182805 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (790 in chips) 
+Seat 2: toxicomax38 (400 in chips) 
+Seat 3: gigaras (310 in chips) 
+toxicomax38: posts small blind 15
+gigaras: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Qd]
+mabeal1: folds 
+toxicomax38: folds 
+Uncalled bet (15) returned to gigaras
+gigaras collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: toxicomax38 (small blind) folded before Flop
+Seat 3: gigaras (big blind) collected (30)
+
+
+
+PokerStars Hand #259508511870: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 15:56:46 CET [2026/01/29 9:56:46 ET]
+Table '3970182805 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (790 in chips) 
+Seat 2: toxicomax38 (385 in chips) 
+Seat 3: gigaras (325 in chips) 
+gigaras: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7s]
+toxicomax38: calls 30
+gigaras: calls 15
+mabeal1: checks 
+*** FLOP *** [8c 2s Jd]
+gigaras: checks 
+mabeal1: checks 
+toxicomax38: bets 45
+gigaras: folds 
+mabeal1: raises 105 to 150
+toxicomax38: calls 105
+*** TURN *** [8c 2s Jd] [Jh]
+mabeal1: checks 
+toxicomax38: bets 205 and is all-in
+mabeal1: folds 
+Uncalled bet (205) returned to toxicomax38
+toxicomax38 collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [8c 2s Jd Jh]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: toxicomax38 (button) collected (390)
+Seat 3: gigaras (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259508516368: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 15:57:23 CET [2026/01/29 9:57:23 ET]
+Table '3970182805 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (610 in chips) 
+Seat 2: toxicomax38 (595 in chips) 
+Seat 3: gigaras (295 in chips) 
+mabeal1: posts small blind 20
+toxicomax38: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 9d]
+gigaras: folds 
+mabeal1: raises 40 to 80
+toxicomax38: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (80)
+Seat 2: toxicomax38 (big blind) folded before Flop
+Seat 3: gigaras (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259508518029: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 15:57:37 CET [2026/01/29 9:57:37 ET]
+Table '3970182805 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: toxicomax38 (555 in chips) 
+Seat 3: gigaras (295 in chips) 
+toxicomax38: posts small blind 20
+gigaras: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 7s]
+mabeal1: raises 610 to 650 and is all-in
+toxicomax38: folds 
+gigaras: folds 
+Uncalled bet (610) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) collected (100)
+Seat 2: toxicomax38 (small blind) folded before Flop
+Seat 3: gigaras (big blind) folded before Flop
+
+
+
+PokerStars Hand #259508519376: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 15:57:49 CET [2026/01/29 9:57:49 ET]
+Table '3970182805 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 2: toxicomax38 (535 in chips) 
+Seat 3: gigaras (255 in chips) 
+gigaras: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7c]
+toxicomax38: folds 
+gigaras: calls 20
+mabeal1: checks 
+*** FLOP *** [Qh 7s 6s]
+gigaras: checks 
+mabeal1: checks 
+*** TURN *** [Qh 7s 6s] [8c]
+gigaras: bets 80
+mabeal1: calls 80
+*** RIVER *** [Qh 7s 6s 8c] [4s]
+gigaras: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+gigaras: shows [4d 9s] (a pair of Fours)
+mabeal1: shows [3h 7c] (a pair of Sevens)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qh 7s 6s 8c 4s]
+Seat 1: mabeal1 (big blind) showed [3h 7c] and won (240) with a pair of Sevens
+Seat 2: toxicomax38 (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) showed [4d 9s] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259508522327: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/29 15:58:14 CET [2026/01/29 9:58:14 ET]
+Table '3970182805 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (830 in chips) 
+Seat 2: toxicomax38 (535 in chips) 
+Seat 3: gigaras (135 in chips) 
+mabeal1: posts small blind 20
+toxicomax38: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9d]
+gigaras: calls 40
+mabeal1: calls 20
+toxicomax38: checks 
+*** FLOP *** [5d 9c 2h]
+mabeal1: checks 
+toxicomax38: checks 
+gigaras is disconnected 
+gigaras has timed out while disconnected
+gigaras: checks 
+*** TURN *** [5d 9c 2h] [Ts]
+mabeal1: bets 80
+toxicomax38: calls 80
+gigaras has timed out while disconnected
+gigaras: folds 
+gigaras is sitting out
+*** RIVER *** [5d 9c 2h Ts] [4s]
+mabeal1: bets 140
+toxicomax38: calls 140
+*** SHOW DOWN ***
+mabeal1: shows [7s 9d] (a pair of Nines)
+toxicomax38: shows [Td 7c] (a pair of Tens)
+toxicomax38 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [5d 9c 2h Ts 4s]
+Seat 1: mabeal1 (small blind) showed [7s 9d] and lost with a pair of Nines
+Seat 2: toxicomax38 (big blind) showed [Td 7c] and won (560) with a pair of Tens
+Seat 3: gigaras (button) folded on the Turn
+
+
+
+PokerStars Hand #259508531356: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/29 15:59:30 CET [2026/01/29 9:59:30 ET]
+Table '3970182805 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: toxicomax38 (835 in chips) 
+Seat 3: gigaras (95 in chips) is sitting out
+toxicomax38: posts small blind 30
+gigaras: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 6h]
+mabeal1 has timed out
+mabeal1: folds 
+mabeal1 is sitting out
+toxicomax38: calls 30
+gigaras: folds 
+toxicomax38 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: toxicomax38 (small blind) collected (120)
+Seat 3: gigaras (big blind) folded before Flop
+
+
+
+PokerStars Hand #259508533403: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/29 15:59:46 CET [2026/01/29 9:59:46 ET]
+Table '3970182805 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) is sitting out
+Seat 2: toxicomax38 (895 in chips) 
+Seat 3: gigaras (35 in chips) is sitting out
+gigaras: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Ah]
+mabeal1 has returned
+toxicomax38: calls 60
+gigaras: folds 
+mabeal1: raises 510 to 570 and is all-in
+toxicomax38: calls 510
+*** FLOP *** [Js 5h 7d]
+*** TURN *** [Js 5h 7d] [3s]
+*** RIVER *** [Js 5h 7d 3s] [7s]
+*** SHOW DOWN ***
+mabeal1: shows [Qh Ah] (a pair of Sevens)
+toxicomax38: shows [9d As] (a pair of Sevens - lower kicker)
+mabeal1 collected 1170 from pot
+*** SUMMARY ***
+Total pot 1170 | Rake 0 
+Board [Js 5h 7d 3s 7s]
+Seat 1: mabeal1 (big blind) showed [Qh Ah] and won (1170) with a pair of Sevens
+Seat 2: toxicomax38 (button) showed [9d As] and lost with a pair of Sevens
+Seat 3: gigaras (small blind) folded before Flop
+
+
+
+PokerStars Hand #259508536053: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/29 16:00:08 CET [2026/01/29 10:00:08 ET]
+Table '3970182805 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1170 in chips) 
+Seat 2: toxicomax38 (325 in chips) 
+Seat 3: gigaras (5 in chips) is sitting out
+mabeal1: posts small blind 30
+toxicomax38: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ks]
+gigaras: folds 
+mabeal1: calls 30
+toxicomax38: checks 
+*** FLOP *** [Qd 5h 6c]
+mabeal1: checks 
+toxicomax38: bets 120
+mabeal1: calls 120
+*** TURN *** [Qd 5h 6c] [Kc]
+mabeal1: checks 
+toxicomax38: bets 145 and is all-in
+mabeal1: calls 145
+*** RIVER *** [Qd 5h 6c Kc] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [Kh Ks] (three of a kind, Kings)
+toxicomax38: shows [8s Qs] (a pair of Queens)
+mabeal1 collected 650 from pot
+toxicomax38 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Qd 5h 6c Kc 7d]
+Seat 1: mabeal1 (small blind) showed [Kh Ks] and won (650) with three of a kind, Kings
+Seat 2: toxicomax38 (big blind) showed [8s Qs] and lost with a pair of Queens
+Seat 3: gigaras (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259508539858: Tournament #3970182805, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/29 16:00:39 CET [2026/01/29 10:00:39 ET]
+Table '3970182805 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1495 in chips) 
+Seat 3: gigaras (5 in chips) is sitting out
+mabeal1: posts small blind 30
+gigaras: posts big blind 5 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 3d]
+gigaras: folds 
+Uncalled bet (25) returned to mabeal1
+mabeal1 collected 10 from pot
+gigaras finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 10 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (10)
+Seat 3: gigaras (big blind) folded before Flop
+
+
+

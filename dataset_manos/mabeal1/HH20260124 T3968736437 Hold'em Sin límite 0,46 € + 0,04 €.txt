@@ -1,0 +1,866 @@
+﻿PokerStars Hand #259444036874: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:58:32 CET [2026/01/24 12:58:32 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Alfil05 (500 in chips) 
+mabeal1: posts small blind 10
+Alfil05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5c]
+rafamaryana2304: folds 
+mabeal1: raises 20 to 40
+Alfil05: calls 20
+*** FLOP *** [Qh 5s 2h]
+mabeal1: bets 30
+Alfil05: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qh 5s 2h]
+Seat 1: rafamaryana2304 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (80)
+Seat 3: Alfil05 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259444040867: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:58:58 CET [2026/01/24 12:58:58 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (500 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Alfil05 (460 in chips) 
+Alfil05: posts small blind 10
+rafamaryana2304: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 9d]
+mabeal1: folds 
+Alfil05: calls 10
+rafamaryana2304: raises 480 to 500 and is all-in
+Alfil05: folds 
+Uncalled bet (480) returned to rafamaryana2304
+rafamaryana2304 collected 40 from pot
+rafamaryana2304: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rafamaryana2304 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Alfil05 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259444043000: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:59:12 CET [2026/01/24 12:59:12 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (520 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Alfil05 (440 in chips) 
+rafamaryana2304: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Kc]
+Alfil05: folds 
+rafamaryana2304: calls 10
+mabeal1: checks 
+*** FLOP *** [2c 8h As]
+rafamaryana2304: checks 
+mabeal1: checks 
+*** TURN *** [2c 8h As] [5d]
+rafamaryana2304: checks 
+mabeal1: checks 
+*** RIVER *** [2c 8h As 5d] [6c]
+rafamaryana2304: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+rafamaryana2304: shows [Kd 7h] (high card Ace)
+mabeal1: shows [7c Kc] (high card Ace)
+rafamaryana2304 collected 20 from pot
+mabeal1 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c 8h As 5d 6c]
+Seat 1: rafamaryana2304 (small blind) showed [Kd 7h] and won (20) with high card Ace
+Seat 2: mabeal1 (big blind) showed [7c Kc] and won (20) with high card Ace
+Seat 3: Alfil05 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259444047534: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:59:41 CET [2026/01/24 12:59:41 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (520 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Alfil05 (440 in chips) 
+mabeal1: posts small blind 10
+Alfil05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 9c]
+rafamaryana2304: calls 20
+mabeal1: folds 
+Alfil05: checks 
+*** FLOP *** [Jc 2d 6c]
+Alfil05: checks 
+rafamaryana2304: checks 
+*** TURN *** [Jc 2d 6c] [7h]
+Alfil05: checks 
+rafamaryana2304: checks 
+*** RIVER *** [Jc 2d 6c 7h] [Qh]
+Alfil05: checks 
+rafamaryana2304: checks 
+*** SHOW DOWN ***
+Alfil05: shows [7d Th] (a pair of Sevens)
+rafamaryana2304: shows [7c Tc] (a pair of Sevens)
+Alfil05 collected 25 from pot
+rafamaryana2304 collected 25 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Jc 2d 6c 7h Qh]
+Seat 1: rafamaryana2304 (button) showed [7c Tc] and won (25) with a pair of Sevens
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Alfil05 (big blind) showed [7d Th] and won (25) with a pair of Sevens
+
+
+
+PokerStars Hand #259444050411: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 18:59:59 CET [2026/01/24 12:59:59 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (525 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: Alfil05 (445 in chips) 
+Alfil05: posts small blind 10
+rafamaryana2304: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Qc]
+mabeal1: folds 
+Alfil05: calls 10
+rafamaryana2304: checks 
+*** FLOP *** [3d Qs 2h]
+Alfil05: bets 60
+rafamaryana2304: folds 
+Uncalled bet (60) returned to Alfil05
+Alfil05 collected 40 from pot
+Alfil05: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3d Qs 2h]
+Seat 1: rafamaryana2304 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Alfil05 (small blind) collected (40)
+
+
+
+PokerStars Hand #259444053063: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 19:00:15 CET [2026/01/24 13:00:15 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (505 in chips) 
+Seat 2: mabeal1 (530 in chips) 
+Seat 3: Alfil05 (465 in chips) 
+rafamaryana2304: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 3h]
+Alfil05: calls 20
+rafamaryana2304: calls 10
+mabeal1: checks 
+*** FLOP *** [Td 7d 6h]
+rafamaryana2304: checks 
+mabeal1: checks 
+Alfil05: checks 
+*** TURN *** [Td 7d 6h] [9h]
+rafamaryana2304: checks 
+mabeal1: bets 40
+Alfil05: folds 
+rafamaryana2304: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Td 7d 6h 9h]
+Seat 1: rafamaryana2304 (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: Alfil05 (button) folded on the Turn
+
+
+
+PokerStars Hand #259444057448: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 19:00:41 CET [2026/01/24 13:00:41 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (485 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: Alfil05 (445 in chips) 
+mabeal1: posts small blind 15
+Alfil05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 4h]
+rafamaryana2304: calls 30
+mabeal1: folds 
+Alfil05: checks 
+*** FLOP *** [6h 2c Tc]
+Alfil05: bets 415 and is all-in
+rafamaryana2304: folds 
+Uncalled bet (415) returned to Alfil05
+Alfil05 collected 75 from pot
+Alfil05: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [6h 2c Tc]
+Seat 1: rafamaryana2304 (button) folded on the Flop
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Alfil05 (big blind) collected (75)
+
+
+
+PokerStars Hand #259444060952: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 19:00:59 CET [2026/01/24 13:00:59 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (455 in chips) 
+Seat 2: mabeal1 (555 in chips) 
+Seat 3: Alfil05 (490 in chips) 
+Alfil05: posts small blind 15
+rafamaryana2304: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ac]
+mabeal1: raises 30 to 60
+Alfil05: calls 45
+rafamaryana2304: folds 
+*** FLOP *** [Qh 3c 7d]
+Alfil05: checks 
+mabeal1: checks 
+*** TURN *** [Qh 3c 7d] [2d]
+Alfil05: bets 430 and is all-in
+mabeal1: folds 
+Uncalled bet (430) returned to Alfil05
+Alfil05 collected 150 from pot
+Alfil05: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Qh 3c 7d 2d]
+Seat 1: rafamaryana2304 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded on the Turn
+Seat 3: Alfil05 (small blind) collected (150)
+
+
+
+PokerStars Hand #259444064755: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 19:01:19 CET [2026/01/24 13:01:19 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (425 in chips) 
+Seat 2: mabeal1 (495 in chips) 
+Seat 3: Alfil05 (580 in chips) 
+rafamaryana2304: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Ad]
+Alfil05: calls 30
+rafamaryana2304: calls 15
+mabeal1: raises 465 to 495 and is all-in
+Alfil05: folds 
+rafamaryana2304: folds 
+Uncalled bet (465) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: rafamaryana2304 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (90)
+Seat 3: Alfil05 (button) folded before Flop
+
+
+
+PokerStars Hand #259444067641: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 19:01:33 CET [2026/01/24 13:01:33 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (395 in chips) 
+Seat 2: mabeal1 (555 in chips) 
+Seat 3: Alfil05 (550 in chips) 
+mabeal1: posts small blind 15
+Alfil05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 8d]
+rafamaryana2304: folds 
+mabeal1: raises 30 to 60
+Alfil05: calls 30
+*** FLOP *** [6d 6s Tc]
+mabeal1: bets 45
+Alfil05: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d 6s Tc]
+Seat 1: rafamaryana2304 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (120)
+Seat 3: Alfil05 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259444072040: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 19:01:54 CET [2026/01/24 13:01:54 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (395 in chips) 
+Seat 2: mabeal1 (615 in chips) 
+Seat 3: Alfil05 (490 in chips) 
+Alfil05: posts small blind 15
+rafamaryana2304: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 2c]
+mabeal1: folds 
+Alfil05: calls 15
+rafamaryana2304: checks 
+*** FLOP *** [3d 8s Qh]
+Alfil05: checks 
+rafamaryana2304: checks 
+*** TURN *** [3d 8s Qh] [Qc]
+Alfil05: bets 90
+rafamaryana2304: folds 
+Uncalled bet (90) returned to Alfil05
+Alfil05 collected 60 from pot
+Alfil05: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3d 8s Qh Qc]
+Seat 1: rafamaryana2304 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Alfil05 (small blind) collected (60)
+
+
+
+PokerStars Hand #259444075132: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 19:02:09 CET [2026/01/24 13:02:09 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (365 in chips) 
+Seat 2: mabeal1 (615 in chips) 
+Seat 3: Alfil05 (520 in chips) 
+rafamaryana2304: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Kh]
+Alfil05: calls 30
+rafamaryana2304: calls 15
+mabeal1: raises 585 to 615 and is all-in
+Alfil05: folds 
+rafamaryana2304: folds 
+Uncalled bet (585) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: rafamaryana2304 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (90)
+Seat 3: Alfil05 (button) folded before Flop
+
+
+
+PokerStars Hand #259444077352: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 19:02:19 CET [2026/01/24 13:02:19 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (335 in chips) 
+Seat 2: mabeal1 (675 in chips) 
+Seat 3: Alfil05 (490 in chips) 
+mabeal1: posts small blind 15
+Alfil05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Ts]
+rafamaryana2304: calls 30
+mabeal1: folds 
+Alfil05: checks 
+*** FLOP *** [Ad 4s 2s]
+Alfil05: checks 
+rafamaryana2304: bets 75
+Alfil05: calls 75
+*** TURN *** [Ad 4s 2s] [Kh]
+Alfil05: checks 
+rafamaryana2304: bets 230 and is all-in
+Alfil05: folds 
+Uncalled bet (230) returned to rafamaryana2304
+rafamaryana2304 collected 225 from pot
+rafamaryana2304: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [Ad 4s 2s Kh]
+Seat 1: rafamaryana2304 (button) collected (225)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Alfil05 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259444082000: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 19:02:40 CET [2026/01/24 13:02:40 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (455 in chips) 
+Seat 2: mabeal1 (660 in chips) 
+Seat 3: Alfil05 (385 in chips) 
+Alfil05: posts small blind 20
+rafamaryana2304: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8s]
+mabeal1: folds 
+Alfil05: calls 20
+rafamaryana2304: checks 
+*** FLOP *** [6d 3c 9c]
+Alfil05: checks 
+rafamaryana2304: checks 
+*** TURN *** [6d 3c 9c] [Jc]
+Alfil05: checks 
+rafamaryana2304: checks 
+*** RIVER *** [6d 3c 9c Jc] [7s]
+Alfil05: checks 
+rafamaryana2304: checks 
+*** SHOW DOWN ***
+Alfil05: shows [5s Qc] (high card Queen)
+rafamaryana2304: shows [Kc 7h] (a pair of Sevens)
+rafamaryana2304 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d 3c 9c Jc 7s]
+Seat 1: rafamaryana2304 (big blind) showed [Kc 7h] and won (80) with a pair of Sevens
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Alfil05 (small blind) showed [5s Qc] and lost with high card Queen
+
+
+
+PokerStars Hand #259444086325: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 19:02:59 CET [2026/01/24 13:02:59 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (495 in chips) 
+Seat 2: mabeal1 (660 in chips) 
+Seat 3: Alfil05 (345 in chips) 
+rafamaryana2304: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Jh]
+Alfil05: raises 305 to 345 and is all-in
+rafamaryana2304: folds 
+mabeal1: folds 
+Uncalled bet (305) returned to Alfil05
+Alfil05 collected 100 from pot
+Alfil05: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: rafamaryana2304 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Alfil05 (button) collected (100)
+
+
+
+PokerStars Hand #259444088640: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 19:03:10 CET [2026/01/24 13:03:10 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (475 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: Alfil05 (405 in chips) 
+mabeal1: posts small blind 20
+Alfil05: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 7d]
+rafamaryana2304: folds 
+mabeal1: raises 40 to 80
+Alfil05: calls 40
+*** FLOP *** [2s 6s Ks]
+mabeal1: bets 60
+Alfil05: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2s 6s Ks]
+Seat 1: rafamaryana2304 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (160)
+Seat 3: Alfil05 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259444095741: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 19:03:43 CET [2026/01/24 13:03:43 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (475 in chips) 
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: Alfil05 (325 in chips) 
+Alfil05: posts small blind 20
+rafamaryana2304: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 6d]
+mabeal1: folds 
+Alfil05: raises 285 to 325 and is all-in
+rafamaryana2304: calls 285
+*** FLOP *** [Ac 8s 2s]
+*** TURN *** [Ac 8s 2s] [4s]
+*** RIVER *** [Ac 8s 2s 4s] [3c]
+*** SHOW DOWN ***
+Alfil05: shows [Ad 2h] (two pair, Aces and Deuces)
+rafamaryana2304: shows [Js Jd] (a pair of Jacks)
+Alfil05 collected 650 from pot
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [Ac 8s 2s 4s 3c]
+Seat 1: rafamaryana2304 (big blind) showed [Js Jd] and lost with a pair of Jacks
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Alfil05 (small blind) showed [Ad 2h] and won (650) with two pair, Aces and Deuces
+
+
+
+PokerStars Hand #259444099701: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 19:04:00 CET [2026/01/24 13:04:00 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (150 in chips) 
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: Alfil05 (650 in chips) 
+rafamaryana2304: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 7s]
+Alfil05: raises 610 to 650 and is all-in
+rafamaryana2304: folds 
+mabeal1: folds 
+Uncalled bet (610) returned to Alfil05
+Alfil05 collected 100 from pot
+Alfil05: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: rafamaryana2304 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Alfil05 (button) collected (100)
+
+
+
+PokerStars Hand #259444101562: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 19:04:08 CET [2026/01/24 13:04:08 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (130 in chips) 
+Seat 2: mabeal1 (660 in chips) 
+Seat 3: Alfil05 (710 in chips) 
+mabeal1: posts small blind 20
+Alfil05: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4s]
+rafamaryana2304: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Alfil05
+Alfil05 collected 40 from pot
+Alfil05: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rafamaryana2304 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Alfil05 (big blind) collected (40)
+
+
+
+PokerStars Hand #259444103005: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 19:04:15 CET [2026/01/24 13:04:15 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (130 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: Alfil05 (730 in chips) 
+Alfil05: posts small blind 20
+rafamaryana2304: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9h]
+mabeal1: folds 
+Alfil05: folds 
+Uncalled bet (20) returned to rafamaryana2304
+rafamaryana2304 collected 40 from pot
+rafamaryana2304: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rafamaryana2304 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Alfil05 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259444104643: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/24 19:04:22 CET [2026/01/24 13:04:22 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (150 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: Alfil05 (710 in chips) 
+rafamaryana2304: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Td]
+Alfil05: folds 
+rafamaryana2304: raises 110 to 150 and is all-in
+mabeal1: calls 110
+*** FLOP *** [6s Qc Qd]
+*** TURN *** [6s Qc Qd] [6d]
+*** RIVER *** [6s Qc Qd 6d] [Ah]
+*** SHOW DOWN ***
+rafamaryana2304: shows [Ts Kh] (two pair, Queens and Sixes)
+mabeal1: shows [9s Td] (two pair, Queens and Sixes)
+rafamaryana2304 collected 150 from pot
+mabeal1 collected 150 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6s Qc Qd 6d Ah]
+Seat 1: rafamaryana2304 (small blind) showed [Ts Kh] and won (150) with two pair, Queens and Sixes
+Seat 2: mabeal1 (big blind) showed [9s Td] and won (150) with two pair, Queens and Sixes
+Seat 3: Alfil05 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259444108534: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 19:04:40 CET [2026/01/24 13:04:40 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (150 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: Alfil05 (710 in chips) 
+mabeal1: posts small blind 30
+Alfil05: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ad]
+rafamaryana2304: folds 
+mabeal1: raises 580 to 640 and is all-in
+Alfil05: folds 
+Uncalled bet (580) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: rafamaryana2304 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (120)
+Seat 3: Alfil05 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259444111941: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 19:04:55 CET [2026/01/24 13:04:55 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (150 in chips) 
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: Alfil05 (650 in chips) 
+Alfil05: posts small blind 30
+rafamaryana2304: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Ac]
+mabeal1: raises 640 to 700 and is all-in
+Alfil05: folds 
+rafamaryana2304: folds 
+Uncalled bet (640) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: rafamaryana2304 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (150)
+Seat 3: Alfil05 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259444114483: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 19:05:07 CET [2026/01/24 13:05:07 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (90 in chips) 
+Seat 2: mabeal1 (790 in chips) 
+Seat 3: Alfil05 (620 in chips) 
+rafamaryana2304: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7s]
+Alfil05: folds 
+rafamaryana2304: raises 30 to 90 and is all-in
+mabeal1: folds 
+Uncalled bet (30) returned to rafamaryana2304
+rafamaryana2304 collected 120 from pot
+rafamaryana2304: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: rafamaryana2304 (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Alfil05 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259444116017: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 19:05:14 CET [2026/01/24 13:05:14 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (150 in chips) 
+Seat 2: mabeal1 (730 in chips) 
+Seat 3: Alfil05 (620 in chips) 
+mabeal1: posts small blind 30
+Alfil05: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Ah]
+rafamaryana2304: folds 
+mabeal1: raises 670 to 730 and is all-in
+Alfil05: calls 560 and is all-in
+Uncalled bet (110) returned to mabeal1
+*** FLOP *** [7d Js 5h]
+*** TURN *** [7d Js 5h] [Ts]
+*** RIVER *** [7d Js 5h Ts] [Ks]
+*** SHOW DOWN ***
+mabeal1: shows [2s Ah] (high card Ace)
+Alfil05: shows [Ac Qs] (a straight, Ten to Ace)
+Alfil05 collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [7d Js 5h Ts Ks]
+Seat 1: rafamaryana2304 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [2s Ah] and lost with high card Ace
+Seat 3: Alfil05 (big blind) showed [Ac Qs] and won (1240) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #259444119464: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 19:05:30 CET [2026/01/24 13:05:30 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (150 in chips) 
+Seat 2: mabeal1 (110 in chips) 
+Seat 3: Alfil05 (1240 in chips) 
+Alfil05: posts small blind 30
+rafamaryana2304: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Th]
+mabeal1: folds 
+Alfil05: calls 30
+rafamaryana2304: checks 
+*** FLOP *** [7d Js 7c]
+Alfil05: bets 1180 and is all-in
+rafamaryana2304: folds 
+Uncalled bet (1180) returned to Alfil05
+Alfil05 collected 120 from pot
+Alfil05: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7d Js 7c]
+Seat 1: rafamaryana2304 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Alfil05 (small blind) collected (120)
+
+
+
+PokerStars Hand #259444122733: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 19:05:45 CET [2026/01/24 13:05:45 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (90 in chips) 
+Seat 2: mabeal1 (110 in chips) 
+Seat 3: Alfil05 (1300 in chips) 
+rafamaryana2304: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7c]
+Alfil05: folds 
+rafamaryana2304: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: rafamaryana2304 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: Alfil05 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259444123838: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 19:05:50 CET [2026/01/24 13:05:50 ET]
+Table '3968736437 1' 3-max Seat #1 is the button
+Seat 1: rafamaryana2304 (60 in chips) 
+Seat 2: mabeal1 (140 in chips) 
+Seat 3: Alfil05 (1300 in chips) 
+mabeal1: posts small blind 30
+Alfil05: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Jh]
+rafamaryana2304: calls 60 and is all-in
+mabeal1: folds 
+*** FLOP *** [2d Ac Qd]
+*** TURN *** [2d Ac Qd] [Th]
+*** RIVER *** [2d Ac Qd Th] [4h]
+*** SHOW DOWN ***
+Alfil05: shows [4s 3c] (a pair of Fours)
+rafamaryana2304: shows [2h 2c] (three of a kind, Deuces)
+rafamaryana2304 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [2d Ac Qd Th 4h]
+Seat 1: rafamaryana2304 (button) showed [2h 2c] and won (150) with three of a kind, Deuces
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Alfil05 (big blind) showed [4s 3c] and lost with a pair of Fours
+
+
+
+PokerStars Hand #259444127384: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 19:06:05 CET [2026/01/24 13:06:05 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 1: rafamaryana2304 (150 in chips) 
+Seat 2: mabeal1 (110 in chips) 
+Seat 3: Alfil05 (1240 in chips) 
+Alfil05: posts small blind 30
+rafamaryana2304: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Td]
+mabeal1: folds 
+Alfil05: calls 30
+rafamaryana2304: checks 
+*** FLOP *** [6s 2c 5h]
+Alfil05: bets 1180 and is all-in
+rafamaryana2304: folds 
+Uncalled bet (1180) returned to Alfil05
+Alfil05 collected 120 from pot
+Alfil05: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6s 2c 5h]
+Seat 1: rafamaryana2304 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Alfil05 (small blind) collected (120)
+
+
+
+PokerStars Hand #259444133666: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/24 19:06:33 CET [2026/01/24 13:06:33 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 1: rafamaryana2304 (90 in chips) 
+Seat 2: mabeal1 (110 in chips) 
+Seat 3: Alfil05 (1300 in chips) 
+rafamaryana2304: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5d]
+Alfil05: raises 60 to 120
+rafamaryana2304: calls 60 and is all-in
+mabeal1: calls 50 and is all-in
+Uncalled bet (10) returned to Alfil05
+*** FLOP *** [9c Jh 7h]
+*** TURN *** [9c Jh 7h] [Kh]
+*** RIVER *** [9c Jh 7h Kh] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [9h 5d] (a flush, King high)
+Alfil05: shows [6c 4s] (high card King)
+mabeal1 collected 40 from side pot
+rafamaryana2304: shows [4c As] (high card Ace)
+mabeal1 collected 270 from main pot
+rafamaryana2304 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 310 Main pot 270. Side pot 40. | Rake 0 
+Board [9c Jh 7h Kh 2h]
+Seat 1: rafamaryana2304 (small blind) showed [4c As] and lost with high card Ace
+Seat 2: mabeal1 (big blind) showed [9h 5d] and won (310) with a flush, King high
+Seat 3: Alfil05 (button) showed [6c 4s] and lost with high card King
+
+
+
+PokerStars Hand #259444138144: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/01/24 19:06:54 CET [2026/01/24 13:06:54 ET]
+Table '3968736437 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (310 in chips) 
+Seat 3: Alfil05 (1190 in chips) 
+mabeal1: posts small blind 40
+Alfil05: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Qs]
+mabeal1: raises 230 to 310 and is all-in
+Alfil05: folds 
+Uncalled bet (230) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (160)
+Seat 3: Alfil05 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259444139794: Tournament #3968736437, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/01/24 19:07:01 CET [2026/01/24 13:07:01 ET]
+Table '3968736437 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (390 in chips) 
+Seat 3: Alfil05 (1110 in chips) 
+Alfil05: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ah]
+Alfil05: raises 80 to 160
+mabeal1: raises 230 to 390 and is all-in
+Alfil05: calls 230
+*** FLOP *** [Qd 9d Kc]
+*** TURN *** [Qd 9d Kc] [6s]
+*** RIVER *** [Qd 9d Kc 6s] [3s]
+*** SHOW DOWN ***
+mabeal1: shows [6d Ah] (a pair of Sixes)
+Alfil05: shows [9h Qc] (two pair, Queens and Nines)
+Alfil05 collected 780 from pot
+mabeal1 finished the tournament in 2nd place
+Alfil05 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [Qd 9d Kc 6s 3s]
+Seat 2: mabeal1 (big blind) showed [6d Ah] and lost with a pair of Sixes
+Seat 3: Alfil05 (button) (small blind) showed [9h Qc] and won (780) with two pair, Queens and Nines
+
+
+

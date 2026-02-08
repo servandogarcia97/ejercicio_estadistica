@@ -1,0 +1,612 @@
+﻿PokerStars Hand #259379873589: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2026/01/19 20:20:42 CET [2026/01/19 14:20:42 ET]
+Table '3965860673 10' 8-max Seat #8 is the button
+Seat 1: Elok270 (9522 in chips) 
+Seat 2: Rutenbalo (7735 in chips) 
+Seat 3: Catharinga (10267 in chips) 
+Seat 4: NoNeedToFuss (16801 in chips) 
+Seat 5: jalf1 (17632 in chips) 
+Seat 6: fz@conqueso (13908 in chips) 
+Seat 7: mabeal1 (10000 in chips) 
+Seat 8: Kotusik20 (14150 in chips) 
+Elok270: posts the ante 60
+Rutenbalo: posts the ante 60
+Catharinga: posts the ante 60
+NoNeedToFuss: posts the ante 60
+jalf1: posts the ante 60
+fz@conqueso: posts the ante 60
+mabeal1: posts the ante 60
+Kotusik20: posts the ante 60
+Elok270: posts small blind 300
+Rutenbalo: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 5c]
+Catharinga: raises 9607 to 10207 and is all-in
+NoNeedToFuss: folds 
+jalf1: folds 
+fz@conqueso: folds 
+mabeal1: folds 
+Kotusik20: folds 
+Elok270: calls 9162 and is all-in
+Rutenbalo: folds 
+Uncalled bet (745) returned to Catharinga
+*** FLOP *** [As 9d 3h]
+*** TURN *** [As 9d 3h] [Jd]
+*** RIVER *** [As 9d 3h Jd] [8c]
+*** SHOW DOWN ***
+Elok270: shows [2c Td] (high card Ace)
+Catharinga: shows [Qs 7d] (high card Ace - Queen kicker)
+Catharinga collected 20004 from pot
+Elok270 finished the tournament
+*** SUMMARY ***
+Total pot 20004 | Rake 0 
+Board [As 9d 3h Jd 8c]
+Seat 1: Elok270 (small blind) showed [2c Td] and lost with high card Ace
+Seat 2: Rutenbalo (big blind) folded before Flop
+Seat 3: Catharinga showed [Qs 7d] and won (20004) with high card Ace
+Seat 4: NoNeedToFuss folded before Flop (didn't bet)
+Seat 5: jalf1 folded before Flop (didn't bet)
+Seat 6: fz@conqueso folded before Flop (didn't bet)
+Seat 7: mabeal1 folded before Flop (didn't bet)
+Seat 8: Kotusik20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379882345: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2026/01/19 20:21:16 CET [2026/01/19 14:21:16 ET]
+Table '3965860673 10' 8-max Seat #2 is the button
+Seat 2: Rutenbalo (7075 in chips) 
+Seat 3: Catharinga (20749 in chips) 
+Seat 4: NoNeedToFuss (16741 in chips) 
+Seat 5: jalf1 (17572 in chips) 
+Seat 6: fz@conqueso (13848 in chips) 
+Seat 7: mabeal1 (9940 in chips) 
+Seat 8: Kotusik20 (14090 in chips) 
+Rutenbalo: posts the ante 60
+Catharinga: posts the ante 60
+NoNeedToFuss: posts the ante 60
+jalf1: posts the ante 60
+fz@conqueso: posts the ante 60
+mabeal1: posts the ante 60
+Kotusik20: posts the ante 60
+Catharinga: posts small blind 300
+NoNeedToFuss: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Js]
+jalf1: folds 
+fz@conqueso: folds 
+mabeal1: folds 
+Kotusik20: raises 600 to 1200
+Rutenbalo: folds 
+Catharinga: folds 
+NoNeedToFuss: folds 
+Uncalled bet (600) returned to Kotusik20
+Kotusik20 collected 1920 from pot
+Kotusik20: doesn't show hand 
+*** SUMMARY ***
+Total pot 1920 | Rake 0 
+Seat 2: Rutenbalo (button) folded before Flop (didn't bet)
+Seat 3: Catharinga (small blind) folded before Flop
+Seat 4: NoNeedToFuss (big blind) folded before Flop
+Seat 5: jalf1 folded before Flop (didn't bet)
+Seat 6: fz@conqueso folded before Flop (didn't bet)
+Seat 7: mabeal1 folded before Flop (didn't bet)
+Seat 8: Kotusik20 collected (1920)
+
+
+
+PokerStars Hand #259379892119: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2026/01/19 20:21:54 CET [2026/01/19 14:21:54 ET]
+Table '3965860673 10' 8-max Seat #3 is the button
+Seat 1: GGDOM30390 (10000 in chips) 
+Seat 2: Rutenbalo (7015 in chips) 
+Seat 3: Catharinga (20389 in chips) 
+Seat 4: NoNeedToFuss (16081 in chips) 
+Seat 5: jalf1 (17512 in chips) 
+Seat 6: fz@conqueso (13788 in chips) 
+Seat 7: mabeal1 (9880 in chips) 
+Seat 8: Kotusik20 (15350 in chips) 
+GGDOM30390: posts the ante 60
+Rutenbalo: posts the ante 60
+Catharinga: posts the ante 60
+NoNeedToFuss: posts the ante 60
+jalf1: posts the ante 60
+fz@conqueso: posts the ante 60
+mabeal1: posts the ante 60
+Kotusik20: posts the ante 60
+NoNeedToFuss: posts small blind 300
+jalf1: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 7s]
+fz@conqueso: folds 
+mabeal1: folds 
+Kotusik20: folds 
+GGDOM30390: folds 
+Rutenbalo: raises 600 to 1200
+Catharinga: raises 19129 to 20329 and is all-in
+NoNeedToFuss: folds 
+jalf1: folds 
+Rutenbalo: calls 5755 and is all-in
+Uncalled bet (13374) returned to Catharinga
+*** FLOP *** [Jc 5d Qc]
+*** TURN *** [Jc 5d Qc] [Ac]
+*** RIVER *** [Jc 5d Qc Ac] [8c]
+*** SHOW DOWN ***
+Rutenbalo: shows [Td Qd] (a pair of Queens)
+Catharinga: shows [Jh Th] (a pair of Jacks)
+Rutenbalo collected 15290 from pot
+*** SUMMARY ***
+Total pot 15290 | Rake 0 
+Board [Jc 5d Qc Ac 8c]
+Seat 1: GGDOM30390 folded before Flop (didn't bet)
+Seat 2: Rutenbalo showed [Td Qd] and won (15290) with a pair of Queens
+Seat 3: Catharinga (button) showed [Jh Th] and lost with a pair of Jacks
+Seat 4: NoNeedToFuss (small blind) folded before Flop
+Seat 5: jalf1 (big blind) folded before Flop
+Seat 6: fz@conqueso folded before Flop (didn't bet)
+Seat 7: mabeal1 folded before Flop (didn't bet)
+Seat 8: Kotusik20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379900180: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2026/01/19 20:22:25 CET [2026/01/19 14:22:25 ET]
+Table '3965860673 10' 8-max Seat #4 is the button
+Seat 1: GGDOM30390 (9940 in chips) 
+Seat 2: Rutenbalo (15290 in chips) 
+Seat 3: Catharinga (13374 in chips) 
+Seat 4: NoNeedToFuss (15721 in chips) 
+Seat 5: jalf1 (16852 in chips) 
+Seat 6: fz@conqueso (13728 in chips) 
+Seat 7: mabeal1 (9820 in chips) 
+Seat 8: Kotusik20 (15290 in chips) 
+GGDOM30390: posts the ante 60
+Rutenbalo: posts the ante 60
+Catharinga: posts the ante 60
+NoNeedToFuss: posts the ante 60
+jalf1: posts the ante 60
+fz@conqueso: posts the ante 60
+mabeal1: posts the ante 60
+Kotusik20: posts the ante 60
+jalf1: posts small blind 300
+fz@conqueso: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d As]
+mabeal1: folds 
+Kotusik20: folds 
+GGDOM30390: raises 1980 to 2580
+Rutenbalo: folds 
+Catharinga: folds 
+NoNeedToFuss: folds 
+jalf1: folds 
+fz@conqueso: folds 
+Uncalled bet (1980) returned to GGDOM30390
+GGDOM30390 collected 1980 from pot
+*** SUMMARY ***
+Total pot 1980 | Rake 0 
+Seat 1: GGDOM30390 collected (1980)
+Seat 2: Rutenbalo folded before Flop (didn't bet)
+Seat 3: Catharinga folded before Flop (didn't bet)
+Seat 4: NoNeedToFuss (button) folded before Flop (didn't bet)
+Seat 5: jalf1 (small blind) folded before Flop
+Seat 6: fz@conqueso (big blind) folded before Flop
+Seat 7: mabeal1 folded before Flop (didn't bet)
+Seat 8: Kotusik20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379908567: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VI (300/600) - 2026/01/19 20:22:58 CET [2026/01/19 14:22:58 ET]
+Table '3965860673 10' 8-max Seat #5 is the button
+Seat 1: GGDOM30390 (11260 in chips) 
+Seat 2: Rutenbalo (15230 in chips) 
+Seat 3: Catharinga (13314 in chips) 
+Seat 4: NoNeedToFuss (15661 in chips) 
+Seat 5: jalf1 (16492 in chips) 
+Seat 6: fz@conqueso (13068 in chips) 
+Seat 7: mabeal1 (9760 in chips) 
+Seat 8: Kotusik20 (15230 in chips) 
+GGDOM30390: posts the ante 60
+Rutenbalo: posts the ante 60
+Catharinga: posts the ante 60
+NoNeedToFuss: posts the ante 60
+jalf1: posts the ante 60
+fz@conqueso: posts the ante 60
+mabeal1: posts the ante 60
+Kotusik20: posts the ante 60
+fz@conqueso: posts small blind 300
+mabeal1: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ad]
+Kotusik20: folds 
+GGDOM30390: raises 1980 to 2580
+Rutenbalo: calls 2580
+Catharinga: raises 10674 to 13254 and is all-in
+NoNeedToFuss: folds 
+jalf1: folds 
+fz@conqueso: folds 
+mabeal1: folds 
+GGDOM30390: calls 8620 and is all-in
+Rutenbalo: calls 10674
+*** FLOP *** [3d Kc Kd]
+*** TURN *** [3d Kc Kd] [Qd]
+*** RIVER *** [3d Kc Kd Qd] [7h]
+*** SHOW DOWN ***
+Rutenbalo: shows [5d 5c] (two pair, Kings and Fives)
+Catharinga: shows [Td Qh] (two pair, Kings and Queens)
+Catharinga collected 4108 from side pot
+GGDOM30390: shows [Ac Th] (a pair of Kings)
+Catharinga collected 34980 from main pot
+GGDOM30390 finished the tournament
+*** SUMMARY ***
+Total pot 39088 Main pot 34980. Side pot 4108. | Rake 0 
+Board [3d Kc Kd Qd 7h]
+Seat 1: GGDOM30390 showed [Ac Th] and lost with a pair of Kings
+Seat 2: Rutenbalo showed [5d 5c] and lost with two pair, Kings and Fives
+Seat 3: Catharinga showed [Td Qh] and won (39088) with two pair, Kings and Queens
+Seat 4: NoNeedToFuss folded before Flop (didn't bet)
+Seat 5: jalf1 (button) folded before Flop (didn't bet)
+Seat 6: fz@conqueso (small blind) folded before Flop
+Seat 7: mabeal1 (big blind) folded before Flop
+Seat 8: Kotusik20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379922352: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2026/01/19 20:23:51 CET [2026/01/19 14:23:51 ET]
+Table '3965860673 10' 8-max Seat #6 is the button
+Seat 2: Rutenbalo (1916 in chips) 
+Seat 3: Catharinga (39088 in chips) 
+Seat 4: NoNeedToFuss (15601 in chips) 
+Seat 5: jalf1 (16432 in chips) 
+Seat 6: fz@conqueso (12708 in chips) 
+Seat 7: mabeal1 (9100 in chips) 
+Seat 8: Kotusik20 (15170 in chips) 
+Rutenbalo: posts the ante 70
+Catharinga: posts the ante 70
+NoNeedToFuss: posts the ante 70
+jalf1: posts the ante 70
+fz@conqueso: posts the ante 70
+mabeal1: posts the ante 70
+Kotusik20: posts the ante 70
+mabeal1: posts small blind 350
+Kotusik20: posts big blind 700
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Jc]
+Rutenbalo: raises 1146 to 1846 and is all-in
+Catharinga: calls 1846
+NoNeedToFuss: folds 
+jalf1: folds 
+fz@conqueso: folds 
+mabeal1: folds 
+partepapos is disconnected 
+Kotusik20: folds 
+*** FLOP *** [8c 5h 3c]
+*** TURN *** [8c 5h 3c] [Kh]
+*** RIVER *** [8c 5h 3c Kh] [Ac]
+*** SHOW DOWN ***
+Rutenbalo: shows [Qh 8s] (a pair of Eights)
+Catharinga: shows [Ad 3s] (two pair, Aces and Threes)
+Catharinga collected 5232 from pot
+Rutenbalo finished the tournament
+*** SUMMARY ***
+Total pot 5232 | Rake 0 
+Board [8c 5h 3c Kh Ac]
+Seat 2: Rutenbalo showed [Qh 8s] and lost with a pair of Eights
+Seat 3: Catharinga showed [Ad 3s] and won (5232) with two pair, Aces and Threes
+Seat 4: NoNeedToFuss folded before Flop (didn't bet)
+Seat 5: jalf1 folded before Flop (didn't bet)
+Seat 6: fz@conqueso (button) folded before Flop (didn't bet)
+Seat 7: mabeal1 (small blind) folded before Flop
+Seat 8: Kotusik20 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259379930615: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2026/01/19 20:24:24 CET [2026/01/19 14:24:24 ET]
+Table '3965860673 10' 8-max Seat #7 is the button
+Seat 1: partepapos (10000 in chips) 
+Seat 3: Catharinga (42404 in chips) 
+Seat 4: NoNeedToFuss (15531 in chips) 
+Seat 5: jalf1 (16362 in chips) 
+Seat 6: fz@conqueso (12638 in chips) 
+Seat 7: mabeal1 (8680 in chips) 
+Seat 8: Kotusik20 (14400 in chips) 
+partepapos: posts the ante 70
+Catharinga: posts the ante 70
+NoNeedToFuss: posts the ante 70
+jalf1: posts the ante 70
+fz@conqueso: posts the ante 70
+mabeal1: posts the ante 70
+Kotusik20: posts the ante 70
+Kotusik20: posts small blind 350
+partepapos: posts big blind 700
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8c]
+Catharinga: folds 
+Malav1979 is disconnected 
+NoNeedToFuss: folds 
+jalf1: folds 
+fz@conqueso: raises 700 to 1400
+mabeal1: folds 
+Kotusik20: folds 
+partepapos: folds 
+Uncalled bet (700) returned to fz@conqueso
+fz@conqueso collected 2240 from pot
+fz@conqueso: doesn't show hand 
+*** SUMMARY ***
+Total pot 2240 | Rake 0 
+Seat 1: partepapos (big blind) folded before Flop
+Seat 3: Catharinga folded before Flop (didn't bet)
+Seat 4: NoNeedToFuss folded before Flop (didn't bet)
+Seat 5: jalf1 folded before Flop (didn't bet)
+Seat 6: fz@conqueso collected (2240)
+Seat 7: mabeal1 (button) folded before Flop (didn't bet)
+Seat 8: Kotusik20 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379937161: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VII (350/700) - 2026/01/19 20:24:49 CET [2026/01/19 14:24:49 ET]
+Table '3965860673 10' 8-max Seat #8 is the button
+Seat 1: partepapos (9230 in chips) 
+Seat 2: Malav1979 (10000 in chips) 
+Seat 3: Catharinga (42334 in chips) 
+Seat 4: NoNeedToFuss (15461 in chips) 
+Seat 5: jalf1 (16292 in chips) 
+Seat 6: fz@conqueso (14108 in chips) 
+Seat 7: mabeal1 (8610 in chips) 
+Seat 8: Kotusik20 (13980 in chips) 
+partepapos: posts the ante 70
+Malav1979: posts the ante 70
+Catharinga: posts the ante 70
+NoNeedToFuss: posts the ante 70
+jalf1: posts the ante 70
+fz@conqueso: posts the ante 70
+mabeal1: posts the ante 70
+Kotusik20: posts the ante 70
+partepapos: posts small blind 350
+Malav1979: posts big blind 700
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Kh]
+Catharinga: calls 700
+NoNeedToFuss: folds 
+jalf1: calls 700
+fz@conqueso: folds 
+mabeal1: folds 
+Kotusik20: folds 
+partepapos: folds 
+Malav1979: checks 
+*** FLOP *** [Kd 8h Ks]
+Malav1979: checks 
+Catharinga: checks 
+jalf1: checks 
+*** TURN *** [Kd 8h Ks] [5h]
+Malav1979: checks 
+Catharinga: checks 
+jalf1: checks 
+*** RIVER *** [Kd 8h Ks 5h] [Kc]
+Malav1979: checks 
+Catharinga: checks 
+jalf1: checks 
+*** SHOW DOWN ***
+Malav1979: shows [6d 4h] (three of a kind, Kings)
+Catharinga: shows [Qs 9c] (three of a kind, Kings - Queen kicker)
+jalf1: mucks hand 
+Catharinga collected 3010 from pot
+*** SUMMARY ***
+Total pot 3010 | Rake 0 
+Board [Kd 8h Ks 5h Kc]
+Seat 1: partepapos (small blind) folded before Flop
+Seat 2: Malav1979 (big blind) showed [6d 4h] and lost with three of a kind, Kings
+Seat 3: Catharinga showed [Qs 9c] and won (3010) with three of a kind, Kings
+Seat 4: NoNeedToFuss folded before Flop (didn't bet)
+Seat 5: jalf1 mucked [Js Th]
+Seat 6: fz@conqueso folded before Flop (didn't bet)
+Seat 7: mabeal1 folded before Flop (didn't bet)
+Seat 8: Kotusik20 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379958006: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2026/01/19 20:26:09 CET [2026/01/19 14:26:09 ET]
+Table '3965860673 10' 8-max Seat #1 is the button
+Seat 1: partepapos (8810 in chips) 
+Seat 2: Malav1979 (9230 in chips) 
+Seat 3: Catharinga (44574 in chips) 
+Seat 4: NoNeedToFuss (15391 in chips) 
+Seat 5: jalf1 (15522 in chips) 
+Seat 6: fz@conqueso (14038 in chips) 
+Seat 7: mabeal1 (8540 in chips) 
+Seat 8: Kotusik20 (13910 in chips) 
+partepapos: posts the ante 80
+Malav1979: posts the ante 80
+Catharinga: posts the ante 80
+NoNeedToFuss: posts the ante 80
+jalf1: posts the ante 80
+fz@conqueso: posts the ante 80
+mabeal1: posts the ante 80
+Kotusik20: posts the ante 80
+Malav1979: posts small blind 400
+Catharinga: posts big blind 800
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 3h]
+NoNeedToFuss: folds 
+jalf1: folds 
+fz@conqueso: folds 
+mabeal1: folds 
+Kotusik20: raises 800 to 1600
+partepapos: folds 
+Malav1979: folds 
+Catharinga: folds 
+Uncalled bet (800) returned to Kotusik20
+Kotusik20 collected 2640 from pot
+Kotusik20: doesn't show hand 
+*** SUMMARY ***
+Total pot 2640 | Rake 0 
+Seat 1: partepapos (button) folded before Flop (didn't bet)
+Seat 2: Malav1979 (small blind) folded before Flop
+Seat 3: Catharinga (big blind) folded before Flop
+Seat 4: NoNeedToFuss folded before Flop (didn't bet)
+Seat 5: jalf1 folded before Flop (didn't bet)
+Seat 6: fz@conqueso folded before Flop (didn't bet)
+Seat 7: mabeal1 folded before Flop (didn't bet)
+Seat 8: Kotusik20 collected (2640)
+
+
+
+PokerStars Hand #259379963499: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2026/01/19 20:26:31 CET [2026/01/19 14:26:31 ET]
+Table '3965860673 10' 8-max Seat #2 is the button
+Seat 1: partepapos (8730 in chips) 
+Seat 2: Malav1979 (8750 in chips) 
+Seat 3: Catharinga (43694 in chips) 
+Seat 4: NoNeedToFuss (15311 in chips) 
+Seat 5: jalf1 (15442 in chips) 
+Seat 6: fz@conqueso (13958 in chips) 
+Seat 7: mabeal1 (8460 in chips) 
+Seat 8: Kotusik20 (15670 in chips) 
+partepapos: posts the ante 80
+Malav1979: posts the ante 80
+Catharinga: posts the ante 80
+NoNeedToFuss: posts the ante 80
+jalf1: posts the ante 80
+fz@conqueso: posts the ante 80
+mabeal1: posts the ante 80
+Kotusik20: posts the ante 80
+Catharinga: posts small blind 400
+NoNeedToFuss: posts big blind 800
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qd]
+jalf1: calls 800
+fz@conqueso: folds 
+mabeal1: folds 
+Kotusik20: folds 
+partepapos: folds 
+Malav1979: calls 800
+Catharinga: calls 400
+NoNeedToFuss: checks 
+*** FLOP *** [9h Tc 7h]
+Catharinga: checks 
+NoNeedToFuss: checks 
+jalf1: bets 1920
+Malav1979: folds 
+Catharinga: folds 
+NoNeedToFuss: folds 
+Uncalled bet (1920) returned to jalf1
+jalf1 collected 3840 from pot
+jalf1: doesn't show hand 
+*** SUMMARY ***
+Total pot 3840 | Rake 0 
+Board [9h Tc 7h]
+Seat 1: partepapos folded before Flop (didn't bet)
+Seat 2: Malav1979 (button) folded on the Flop
+Seat 3: Catharinga (small blind) folded on the Flop
+Seat 4: NoNeedToFuss (big blind) folded on the Flop
+Seat 5: jalf1 collected (3840)
+Seat 6: fz@conqueso folded before Flop (didn't bet)
+Seat 7: mabeal1 folded before Flop (didn't bet)
+Seat 8: Kotusik20 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379976878: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2026/01/19 20:27:22 CET [2026/01/19 14:27:22 ET]
+Table '3965860673 10' 8-max Seat #3 is the button
+Seat 2: Malav1979 (7870 in chips) 
+Seat 3: Catharinga (42814 in chips) 
+Seat 4: NoNeedToFuss (14431 in chips) 
+Seat 5: jalf1 (18402 in chips) 
+Seat 6: fz@conqueso (13878 in chips) 
+Seat 7: mabeal1 (8380 in chips) 
+Seat 8: Kotusik20 (15590 in chips) 
+Malav1979: posts the ante 80
+Catharinga: posts the ante 80
+NoNeedToFuss: posts the ante 80
+jalf1: posts the ante 80
+fz@conqueso: posts the ante 80
+mabeal1: posts the ante 80
+Kotusik20: posts the ante 80
+NoNeedToFuss: posts small blind 400
+jalf1: posts big blind 800
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Jc]
+fz@conqueso: folds 
+mabeal1: folds 
+Kotusik20: raises 800 to 1600
+Malav1979: folds 
+Catharinga: calls 1600
+NoNeedToFuss: folds 
+jalf1: calls 800
+*** FLOP *** [6c 7h Qc]
+jalf1: checks 
+Kotusik20: bets 2534
+Catharinga: folds 
+jalf1: calls 2534
+*** TURN *** [6c 7h Qc] [5s]
+jalf1: checks 
+Kotusik20: bets 11376 and is all-in
+jalf1: calls 11376
+*** RIVER *** [6c 7h Qc 5s] [2c]
+*** SHOW DOWN ***
+jalf1: shows [Qd 4c] (a pair of Queens)
+Kotusik20: shows [Ks Qh] (a pair of Queens - King kicker)
+Kotusik20 collected 33580 from pot
+*** SUMMARY ***
+Total pot 33580 | Rake 0 
+Board [6c 7h Qc 5s 2c]
+Seat 2: Malav1979 folded before Flop (didn't bet)
+Seat 3: Catharinga (button) folded on the Flop
+Seat 4: NoNeedToFuss (small blind) folded before Flop
+Seat 5: jalf1 (big blind) showed [Qd 4c] and lost with a pair of Queens
+Seat 6: fz@conqueso folded before Flop (didn't bet)
+Seat 7: mabeal1 folded before Flop (didn't bet)
+Seat 8: Kotusik20 showed [Ks Qh] and won (33580) with a pair of Queens
+
+
+
+PokerStars Hand #259379991944: Tournament #3965860673, €0.90+€0.10 EUR Hold'em No Limit - Level VIII (400/800) - 2026/01/19 20:28:21 CET [2026/01/19 14:28:21 ET]
+Table '3965860673 10' 8-max Seat #4 is the button
+Seat 1: rafa.udlp (10845 in chips) 
+Seat 2: Malav1979 (7790 in chips) 
+Seat 3: Catharinga (41134 in chips) 
+Seat 4: NoNeedToFuss (13951 in chips) 
+Seat 5: jalf1 (2812 in chips) 
+Seat 6: fz@conqueso (13798 in chips) 
+Seat 7: mabeal1 (8300 in chips) 
+Seat 8: Kotusik20 (33580 in chips) 
+rafa.udlp: posts the ante 80
+Malav1979: posts the ante 80
+Catharinga: posts the ante 80
+NoNeedToFuss: posts the ante 80
+jalf1: posts the ante 80
+fz@conqueso: posts the ante 80
+mabeal1: posts the ante 80
+Kotusik20: posts the ante 80
+jalf1: posts small blind 400
+fz@conqueso: posts big blind 800
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Qc]
+mabeal1: raises 7420 to 8220 and is all-in
+Kotusik20: raises 7420 to 15640
+rafa.udlp: folds 
+Malav1979: folds 
+Catharinga: folds 
+NoNeedToFuss: folds 
+jalf1: calls 2332 and is all-in
+fz@conqueso: folds 
+Uncalled bet (7420) returned to Kotusik20
+*** FLOP *** [As 6h 8s]
+*** TURN *** [As 6h 8s] [4s]
+*** RIVER *** [As 6h 8s 4s] [Ad]
+*** SHOW DOWN ***
+mabeal1: shows [Js Qc] (a pair of Aces)
+Kotusik20: shows [Ac Ks] (three of a kind, Aces)
+Kotusik20 collected 10976 from side pot
+jalf1: shows [Qh Kc] (a pair of Aces)
+Kotusik20 collected 9636 from main pot
+mabeal1 finished the tournament in 164th place
+jalf1 finished the tournament in 165th place
+*** SUMMARY ***
+Total pot 20612 Main pot 9636. Side pot 10976. | Rake 0 
+Board [As 6h 8s 4s Ad]
+Seat 1: rafa.udlp folded before Flop (didn't bet)
+Seat 2: Malav1979 folded before Flop (didn't bet)
+Seat 3: Catharinga folded before Flop (didn't bet)
+Seat 4: NoNeedToFuss (button) folded before Flop (didn't bet)
+Seat 5: jalf1 (small blind) showed [Qh Kc] and lost with a pair of Aces
+Seat 6: fz@conqueso (big blind) folded before Flop
+Seat 7: mabeal1 showed [Js Qc] and lost with a pair of Aces
+Seat 8: Kotusik20 showed [Ac Ks] and won (20612) with three of a kind, Aces
+
+
+

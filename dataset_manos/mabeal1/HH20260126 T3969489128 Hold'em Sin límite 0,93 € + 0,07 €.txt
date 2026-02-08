@@ -1,0 +1,67 @@
+﻿PokerStars Hand #259478413569: Tournament #3969489128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:32:21 CET [2026/01/26 21:32:21 ET]
+Table '3969489128 1' 3-max Seat #1 is the button
+Seat 1: PoweerM (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: tempranos (500 in chips) 
+mabeal1: posts small blind 10
+tempranos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 6d]
+PoweerM: folds 
+mabeal1: raises 20 to 40
+tempranos: calls 20
+*** FLOP *** [Jc Th Td]
+mabeal1: bets 30
+tempranos: calls 30
+*** TURN *** [Jc Th Td] [7c]
+mabeal1: checks 
+tempranos: checks 
+*** RIVER *** [Jc Th Td 7c] [9d]
+mabeal1: bets 40
+tempranos: raises 110 to 150
+mabeal1: calls 110
+*** SHOW DOWN ***
+tempranos: shows [Qs 8h] (a straight, Eight to Queen)
+mabeal1: mucks hand 
+tempranos collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Jc Th Td 7c 9d]
+Seat 1: PoweerM (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) mucked [7d 6d]
+Seat 3: tempranos (big blind) showed [Qs 8h] and won (440) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #259478419687: Tournament #3969489128, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:33:12 CET [2026/01/26 21:33:12 ET]
+Table '3969489128 1' 3-max Seat #2 is the button
+Seat 1: PoweerM (500 in chips) 
+Seat 2: mabeal1 (280 in chips) 
+Seat 3: tempranos (720 in chips) 
+tempranos: posts small blind 10
+PoweerM: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 7d]
+mabeal1: raises 20 to 40
+tempranos: folds 
+PoweerM: calls 20
+*** FLOP *** [Kc 3d Jd]
+PoweerM: bets 20
+mabeal1: raises 220 to 240 and is all-in
+PoweerM: calls 220
+*** TURN *** [Kc 3d Jd] [2h]
+*** RIVER *** [Kc 3d Jd 2h] [7s]
+*** SHOW DOWN ***
+PoweerM: shows [Kd Qc] (a pair of Kings)
+mabeal1: shows [Td 7d] (a pair of Sevens)
+PoweerM collected 570 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Kc 3d Jd 2h 7s]
+Seat 1: PoweerM (big blind) showed [Kd Qc] and won (570) with a pair of Kings
+Seat 2: mabeal1 (button) showed [Td 7d] and lost with a pair of Sevens
+Seat 3: tempranos (small blind) folded before Flop
+
+
+

@@ -1,0 +1,303 @@
+﻿PokerStars Hand #259540911047: Tournament #3970936240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:29:12 CET [2026/01/31 17:29:12 ET]
+Table '3970936240 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Maku790 (500 in chips) 
+Seat 3: JuliaJaime (500 in chips) 
+Maku790: posts small blind 10
+JuliaJaime: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qd]
+mabeal1: folds 
+Maku790: calls 10
+JuliaJaime: checks 
+*** FLOP *** [4h 5d Js]
+Maku790: checks 
+JuliaJaime: checks 
+*** TURN *** [4h 5d Js] [Th]
+Maku790: checks 
+JuliaJaime: checks 
+*** RIVER *** [4h 5d Js Th] [2s]
+Maku790: bets 20
+JuliaJaime: folds 
+Uncalled bet (20) returned to Maku790
+Maku790 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h 5d Js Th 2s]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Maku790 (small blind) collected (40)
+Seat 3: JuliaJaime (big blind) folded on the River
+
+
+
+PokerStars Hand #259540914853: Tournament #3970936240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:29:28 CET [2026/01/31 17:29:28 ET]
+Table '3970936240 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Maku790 (520 in chips) 
+Seat 3: JuliaJaime (480 in chips) 
+JuliaJaime: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c As]
+Maku790: calls 20
+JuliaJaime: calls 10
+mabeal1: raises 480 to 500 and is all-in
+Maku790: folds 
+JuliaJaime: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: Maku790 (button) folded before Flop
+Seat 3: JuliaJaime (small blind) folded before Flop
+
+
+
+PokerStars Hand #259540917466: Tournament #3970936240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:29:38 CET [2026/01/31 17:29:38 ET]
+Table '3970936240 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: Maku790 (500 in chips) 
+Seat 3: JuliaJaime (460 in chips) 
+mabeal1: posts small blind 10
+Maku790: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Qc]
+JuliaJaime: calls 20
+mabeal1: calls 10
+Maku790: checks 
+*** FLOP *** [4h Kd 3c]
+mabeal1: checks 
+Maku790: checks 
+JuliaJaime: checks 
+*** TURN *** [4h Kd 3c] [6h]
+mabeal1: checks 
+Maku790: bets 20
+JuliaJaime: calls 20
+mabeal1: folds 
+*** RIVER *** [4h Kd 3c 6h] [9s]
+Maku790: checks 
+JuliaJaime: checks 
+*** SHOW DOWN ***
+Maku790: shows [Qh 7h] (high card King)
+JuliaJaime: shows [2d Ks] (a pair of Kings)
+JuliaJaime collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4h Kd 3c 6h 9s]
+Seat 1: mabeal1 (small blind) folded on the Turn
+Seat 2: Maku790 (big blind) showed [Qh 7h] and lost with high card King
+Seat 3: JuliaJaime (button) showed [2d Ks] and won (100) with a pair of Kings
+
+
+
+PokerStars Hand #259540924849: Tournament #3970936240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:30:07 CET [2026/01/31 17:30:07 ET]
+Table '3970936240 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: Maku790 (460 in chips) 
+Seat 3: JuliaJaime (520 in chips) 
+Maku790: posts small blind 10
+JuliaJaime: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Qh]
+mabeal1: raises 20 to 40
+Maku790: folds 
+JuliaJaime: calls 20
+*** FLOP *** [Qd Jh 5s]
+JuliaJaime: bets 20
+mabeal1: raises 60 to 80
+JuliaJaime: calls 60
+*** TURN *** [Qd Jh 5s] [2c]
+JuliaJaime: checks 
+mabeal1: checks 
+*** RIVER *** [Qd Jh 5s 2c] [Jd]
+JuliaJaime: checks 
+mabeal1: bets 85
+JuliaJaime: calls 85
+*** SHOW DOWN ***
+mabeal1: shows [7h Qh] (two pair, Queens and Jacks)
+JuliaJaime: shows [Qs 8s] (two pair, Queens and Jacks - Eight kicker)
+JuliaJaime collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [Qd Jh 5s 2c Jd]
+Seat 1: mabeal1 (button) showed [7h Qh] and lost with two pair, Queens and Jacks
+Seat 2: Maku790 (small blind) folded before Flop
+Seat 3: JuliaJaime (big blind) showed [Qs 8s] and won (420) with two pair, Queens and Jacks
+
+
+
+PokerStars Hand #259540936179: Tournament #3970936240, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 23:30:53 CET [2026/01/31 17:30:53 ET]
+Table '3970936240 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (315 in chips) 
+Seat 2: Maku790 (450 in chips) 
+Seat 3: JuliaJaime (735 in chips) 
+JuliaJaime: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Kh]
+Maku790: folds 
+JuliaJaime: calls 10
+mabeal1: raises 40 to 60
+JuliaJaime: calls 40
+*** FLOP *** [8c 2c 3s]
+JuliaJaime: checks 
+mabeal1: checks 
+*** TURN *** [8c 2c 3s] [3d]
+JuliaJaime: checks 
+mabeal1: checks 
+*** RIVER *** [8c 2c 3s 3d] [9d]
+JuliaJaime: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+JuliaJaime: shows [As 6h] (a pair of Threes)
+mabeal1: mucks hand 
+JuliaJaime collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c 2c 3s 3d 9d]
+Seat 1: mabeal1 (big blind) mucked [Th Kh]
+Seat 2: Maku790 (button) folded before Flop (didn't bet)
+Seat 3: JuliaJaime (small blind) showed [As 6h] and won (120) with a pair of Threes
+
+
+
+PokerStars Hand #259540942309: Tournament #3970936240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:31:18 CET [2026/01/31 17:31:18 ET]
+Table '3970936240 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (255 in chips) 
+Seat 2: Maku790 (450 in chips) 
+Seat 3: JuliaJaime (795 in chips) 
+mabeal1: posts small blind 15
+Maku790: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3d]
+JuliaJaime: calls 30
+mabeal1: folds 
+Maku790: checks 
+*** FLOP *** [Jc Ac 8c]
+Maku790: bets 30
+JuliaJaime: calls 30
+*** TURN *** [Jc Ac 8c] [9c]
+Maku790: bets 60
+JuliaJaime: calls 60
+*** RIVER *** [Jc Ac 8c 9c] [As]
+Maku790: bets 150
+JuliaJaime: folds 
+Uncalled bet (150) returned to Maku790
+Maku790 collected 255 from pot
+*** SUMMARY ***
+Total pot 255 | Rake 0 
+Board [Jc Ac 8c 9c As]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Maku790 (big blind) collected (255)
+Seat 3: JuliaJaime (button) folded on the River
+
+
+
+PokerStars Hand #259540951433: Tournament #3970936240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:31:54 CET [2026/01/31 17:31:54 ET]
+Table '3970936240 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (240 in chips) 
+Seat 2: Maku790 (585 in chips) 
+Seat 3: JuliaJaime (675 in chips) 
+Maku790: posts small blind 15
+JuliaJaime: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 7c]
+mabeal1: folds 
+Maku790: calls 15
+JuliaJaime: checks 
+*** FLOP *** [4h 3s 5h]
+Maku790: bets 30
+JuliaJaime: calls 30
+*** TURN *** [4h 3s 5h] [Ad]
+Maku790: checks 
+JuliaJaime: checks 
+*** RIVER *** [4h 3s 5h Ad] [4d]
+Maku790: bets 90
+JuliaJaime: calls 90
+*** SHOW DOWN ***
+Maku790: shows [Qs 2h] (a straight, Ace to Five)
+JuliaJaime: mucks hand 
+Maku790 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [4h 3s 5h Ad 4d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Maku790 (small blind) showed [Qs 2h] and won (300) with a straight, Ace to Five
+Seat 3: JuliaJaime (big blind) mucked [4c Ts]
+
+
+
+PokerStars Hand #259540957073: Tournament #3970936240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:32:17 CET [2026/01/31 17:32:17 ET]
+Table '3970936240 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (240 in chips) 
+Seat 2: Maku790 (735 in chips) 
+Seat 3: JuliaJaime (525 in chips) 
+JuliaJaime: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 4h]
+Maku790: raises 30 to 60
+JuliaJaime: calls 45
+mabeal1: calls 30
+*** FLOP *** [Qd 9c 7d]
+JuliaJaime: checks 
+mabeal1: checks 
+Maku790: checks 
+*** TURN *** [Qd 9c 7d] [4c]
+JuliaJaime: checks 
+mabeal1: checks 
+Maku790: checks 
+*** RIVER *** [Qd 9c 7d 4c] [2c]
+JuliaJaime: checks 
+mabeal1: checks 
+Maku790: bets 90
+JuliaJaime: calls 90
+mabeal1: folds 
+*** SHOW DOWN ***
+Maku790: shows [Kh Jd] (high card King)
+JuliaJaime: shows [Tc Td] (a pair of Tens)
+JuliaJaime collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Qd 9c 7d 4c 2c]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: Maku790 (button) showed [Kh Jd] and lost with high card King
+Seat 3: JuliaJaime (small blind) showed [Tc Td] and won (360) with a pair of Tens
+
+
+
+PokerStars Hand #259540963106: Tournament #3970936240, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 23:32:41 CET [2026/01/31 17:32:41 ET]
+Table '3970936240 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (180 in chips) 
+Seat 2: Maku790 (585 in chips) 
+Seat 3: JuliaJaime (735 in chips) 
+mabeal1: posts small blind 15
+Maku790: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th As]
+JuliaJaime: calls 30
+mabeal1: raises 150 to 180 and is all-in
+Maku790: calls 150
+JuliaJaime: calls 150
+*** FLOP *** [6d Kd 7s]
+Maku790: bets 30
+JuliaJaime: folds 
+Uncalled bet (30) returned to Maku790
+*** TURN *** [6d Kd 7s] [Jc]
+*** RIVER *** [6d Kd 7s Jc] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [Th As] (high card Ace)
+Maku790: shows [Qc Kh] (a pair of Kings)
+Maku790 collected 540 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [6d Kd 7s Jc 8h]
+Seat 1: mabeal1 (small blind) showed [Th As] and lost with high card Ace
+Seat 2: Maku790 (big blind) showed [Qc Kh] and won (540) with a pair of Kings
+Seat 3: JuliaJaime (button) folded on the Flop
+
+
+

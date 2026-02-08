@@ -1,0 +1,498 @@
+﻿PokerStars Hand #259549965875: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:43:22 CET [2026/02/01 11:43:22 ET]
+Table '3971145690 1' 3-max Seat #1 is the button
+Seat 1: yassin822000 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: pimno (500 in chips) 
+mabeal1: posts small blind 10
+pimno: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 6d]
+yassin822000: calls 20
+mabeal1: calls 10
+pimno: checks 
+*** FLOP *** [Jd 6s 9d]
+mabeal1: checks 
+pimno: checks 
+yassin822000: checks 
+*** TURN *** [Jd 6s 9d] [Kc]
+mabeal1: checks 
+pimno: bets 40
+yassin822000: calls 40
+mabeal1: calls 40
+*** RIVER *** [Jd 6s 9d Kc] [Th]
+mabeal1: checks 
+pimno: bets 120
+yassin822000: folds 
+mabeal1: folds 
+Uncalled bet (120) returned to pimno
+pimno collected 180 from pot
+pimno: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jd 6s 9d Kc Th]
+Seat 1: yassin822000 (button) folded on the River
+Seat 2: mabeal1 (small blind) folded on the River
+Seat 3: pimno (big blind) collected (180)
+
+
+
+PokerStars Hand #259549975537: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:44:01 CET [2026/02/01 11:44:01 ET]
+Table '3971145690 1' 3-max Seat #2 is the button
+Seat 1: yassin822000 (440 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: pimno (620 in chips) 
+pimno: posts small blind 10
+yassin822000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2d]
+mabeal1: folds 
+pimno: calls 10
+yassin822000: raises 20 to 40
+pimno: calls 20
+*** FLOP *** [3d Ts 4h]
+pimno: checks 
+yassin822000: checks 
+*** TURN *** [3d Ts 4h] [3s]
+pimno: checks 
+yassin822000: checks 
+*** RIVER *** [3d Ts 4h 3s] [9c]
+pimno: checks 
+yassin822000: checks 
+*** SHOW DOWN ***
+pimno: shows [Kd 6c] (a pair of Threes)
+yassin822000: mucks hand 
+pimno collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d Ts 4h 3s 9c]
+Seat 1: yassin822000 (big blind) mucked [Js 8d]
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: pimno (small blind) showed [Kd 6c] and won (80) with a pair of Threes
+
+
+
+PokerStars Hand #259549981745: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:44:26 CET [2026/02/01 11:44:26 ET]
+Table '3971145690 1' 3-max Seat #3 is the button
+Seat 1: yassin822000 (400 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: pimno (660 in chips) 
+yassin822000: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 7h]
+pimno: raises 20 to 40
+yassin822000: calls 30
+mabeal1: calls 20
+*** FLOP *** [8c 8d Kh]
+yassin822000: checks 
+mabeal1: checks 
+pimno: bets 60
+yassin822000: calls 60
+mabeal1: raises 150 to 210
+pimno: folds 
+yassin822000: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [8c 8d Kh]
+Seat 1: yassin822000 (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (300)
+Seat 3: pimno (button) folded on the Flop
+
+
+
+PokerStars Hand #259549989845: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:44:59 CET [2026/02/01 11:44:59 ET]
+Table '3971145690 1' 3-max Seat #1 is the button
+Seat 1: yassin822000 (300 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: pimno (560 in chips) 
+mabeal1: posts small blind 10
+pimno: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Qc]
+yassin822000: raises 20 to 40
+mabeal1: folds 
+pimno: folds 
+Uncalled bet (20) returned to yassin822000
+yassin822000 collected 50 from pot
+yassin822000: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: yassin822000 (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: pimno (big blind) folded before Flop
+
+
+
+PokerStars Hand #259549991699: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:45:07 CET [2026/02/01 11:45:07 ET]
+Table '3971145690 1' 3-max Seat #2 is the button
+Seat 1: yassin822000 (330 in chips) 
+Seat 2: mabeal1 (630 in chips) 
+Seat 3: pimno (540 in chips) 
+pimno: posts small blind 10
+yassin822000: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 9d]
+mabeal1: raises 20 to 40
+pimno: folds 
+yassin822000: raises 20 to 60
+mabeal1: calls 20
+*** FLOP *** [Jc 2c 2h]
+yassin822000: checks 
+mabeal1: checks 
+*** TURN *** [Jc 2c 2h] [4h]
+yassin822000: checks 
+mabeal1: checks 
+*** RIVER *** [Jc 2c 2h 4h] [Js]
+yassin822000: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+yassin822000: shows [Kd 8s] (two pair, Jacks and Deuces)
+mabeal1: mucks hand 
+yassin822000 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Jc 2c 2h 4h Js]
+Seat 1: yassin822000 (big blind) showed [Kd 8s] and won (130) with two pair, Jacks and Deuces
+Seat 2: mabeal1 (button) mucked [7d 9d]
+Seat 3: pimno (small blind) folded before Flop
+
+
+
+PokerStars Hand #259549996161: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:45:25 CET [2026/02/01 11:45:25 ET]
+Table '3971145690 1' 3-max Seat #3 is the button
+Seat 1: yassin822000 (400 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: pimno (530 in chips) 
+yassin822000: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 4d]
+pimno: folds 
+yassin822000: calls 10
+mabeal1: checks 
+*** FLOP *** [Ad 5s 2s]
+yassin822000: checks 
+mabeal1: checks 
+*** TURN *** [Ad 5s 2s] [4s]
+yassin822000: checks 
+mabeal1: checks 
+*** RIVER *** [Ad 5s 2s 4s] [Td]
+yassin822000: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to yassin822000
+yassin822000 collected 40 from pot
+yassin822000: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ad 5s 2s 4s Td]
+Seat 1: yassin822000 (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: pimno (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259550006379: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:46:06 CET [2026/02/01 11:46:06 ET]
+Table '3971145690 1' 3-max Seat #1 is the button
+Seat 1: yassin822000 (420 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: pimno (530 in chips) 
+mabeal1: posts small blind 10
+pimno: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6c]
+yassin822000: calls 20
+mabeal1: folds 
+pimno: checks 
+*** FLOP *** [5c 8h As]
+pimno: checks 
+yassin822000: checks 
+*** TURN *** [5c 8h As] [Kc]
+pimno: checks 
+yassin822000: bets 20
+pimno: calls 20
+*** RIVER *** [5c 8h As Kc] [9c]
+pimno: checks 
+yassin822000: bets 20
+pimno: folds 
+Uncalled bet (20) returned to yassin822000
+yassin822000 collected 90 from pot
+yassin822000: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5c 8h As Kc 9c]
+Seat 1: yassin822000 (button) collected (90)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: pimno (big blind) folded on the River
+
+
+
+PokerStars Hand #259550013326: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:46:35 CET [2026/02/01 11:46:35 ET]
+Table '3971145690 1' 3-max Seat #2 is the button
+Seat 1: yassin822000 (470 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: pimno (490 in chips) 
+pimno: posts small blind 15
+yassin822000: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Js]
+mabeal1: folds 
+pimno: calls 15
+yassin822000: raises 30 to 60
+pimno: calls 30
+*** FLOP *** [4h 5d 6c]
+pimno: bets 60
+yassin822000: raises 60 to 120
+pimno: folds 
+Uncalled bet (60) returned to yassin822000
+yassin822000 collected 240 from pot
+yassin822000: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [4h 5d 6c]
+Seat 1: yassin822000 (big blind) collected (240)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: pimno (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259550018689: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:46:57 CET [2026/02/01 11:46:57 ET]
+Table '3971145690 1' 3-max Seat #3 is the button
+Seat 1: yassin822000 (590 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: pimno (370 in chips) 
+yassin822000: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 7h]
+pimno: folds 
+yassin822000: calls 15
+mabeal1: checks 
+*** FLOP *** [8c Qs As]
+yassin822000: checks 
+mabeal1: bets 30
+yassin822000: calls 30
+*** TURN *** [8c Qs As] [4h]
+yassin822000: checks 
+mabeal1: checks 
+*** RIVER *** [8c Qs As 4h] [4c]
+yassin822000: checks 
+mabeal1: bets 90
+yassin822000: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Qs As 4h 4c]
+Seat 1: yassin822000 (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: pimno (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259550024941: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:47:22 CET [2026/02/01 11:47:22 ET]
+Table '3971145690 1' 3-max Seat #1 is the button
+Seat 1: yassin822000 (530 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: pimno (370 in chips) 
+mabeal1: posts small blind 15
+pimno: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Jd]
+yassin822000: calls 30
+mabeal1: raises 90 to 120
+pimno: folds 
+yassin822000: calls 90
+*** FLOP *** [Ac 6s 5d]
+mabeal1: bets 90
+yassin822000: calls 90
+*** TURN *** [Ac 6s 5d] [7d]
+mabeal1: checks 
+yassin822000: checks 
+*** RIVER *** [Ac 6s 5d 7d] [3h]
+mabeal1: checks 
+yassin822000: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+yassin822000: shows [Ks 7s] (a pair of Sevens)
+mabeal1: mucks hand 
+yassin822000 collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Ac 6s 5d 7d 3h]
+Seat 1: yassin822000 (button) showed [Ks 7s] and won (510) with a pair of Sevens
+Seat 2: mabeal1 (small blind) mucked [Kd Jd]
+Seat 3: pimno (big blind) folded before Flop
+
+
+
+PokerStars Hand #259550031978: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:47:51 CET [2026/02/01 11:47:51 ET]
+Table '3971145690 1' 3-max Seat #2 is the button
+Seat 1: yassin822000 (800 in chips) 
+Seat 2: mabeal1 (360 in chips) 
+Seat 3: pimno (340 in chips) 
+pimno: posts small blind 15
+yassin822000: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 6h]
+mabeal1: raises 30 to 60
+pimno: calls 45
+yassin822000: raises 30 to 90
+mabeal1: calls 30
+pimno: calls 30
+*** FLOP *** [As 6s 6c]
+pimno: checks 
+yassin822000: bets 30
+mabeal1: calls 30
+pimno: folds 
+*** TURN *** [As 6s 6c] [Ts]
+yassin822000: bets 30
+mabeal1: calls 30
+*** RIVER *** [As 6s 6c Ts] [2s]
+yassin822000: bets 30
+mabeal1: calls 30
+*** SHOW DOWN ***
+yassin822000: shows [8h 8s] (a flush, Ace high)
+mabeal1: mucks hand 
+yassin822000 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [As 6s 6c Ts 2s]
+Seat 1: yassin822000 (big blind) showed [8h 8s] and won (450) with a flush, Ace high
+Seat 2: mabeal1 (button) mucked [5h 6h]
+Seat 3: pimno (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259550039827: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:48:23 CET [2026/02/01 11:48:23 ET]
+Table '3971145690 1' 3-max Seat #3 is the button
+Seat 1: yassin822000 (1070 in chips) 
+Seat 2: mabeal1 (180 in chips) 
+Seat 3: pimno (250 in chips) 
+yassin822000: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 3d]
+pimno: folds 
+yassin822000: calls 15
+mabeal1: checks 
+*** FLOP *** [2s 8h 9s]
+yassin822000: checks 
+mabeal1: checks 
+*** TURN *** [2s 8h 9s] [Jc]
+yassin822000: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to yassin822000
+yassin822000 collected 60 from pot
+yassin822000: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2s 8h 9s Jc]
+Seat 1: yassin822000 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: pimno (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259550046148: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:48:49 CET [2026/02/01 11:48:49 ET]
+Table '3971145690 1' 3-max Seat #1 is the button
+Seat 1: yassin822000 (1100 in chips) 
+Seat 2: mabeal1 (150 in chips) 
+Seat 3: pimno (250 in chips) 
+mabeal1: posts small blind 15
+pimno: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 8s]
+yassin822000: calls 30
+mabeal1: folds 
+pimno: raises 220 to 250 and is all-in
+yassin822000: folds 
+Uncalled bet (220) returned to pimno
+pimno collected 75 from pot
+pimno: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: yassin822000 (button) folded before Flop
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: pimno (big blind) collected (75)
+
+
+
+PokerStars Hand #259550049358: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:49:02 CET [2026/02/01 11:49:02 ET]
+Table '3971145690 1' 3-max Seat #2 is the button
+Seat 1: yassin822000 (1070 in chips) 
+Seat 2: mabeal1 (135 in chips) 
+Seat 3: pimno (295 in chips) 
+pimno: posts small blind 15
+yassin822000: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 2h]
+mabeal1: folds 
+pimno: calls 15
+yassin822000: raises 30 to 60
+pimno: calls 30
+*** FLOP *** [9s 7c Kd]
+pimno: checks 
+yassin822000: bets 30
+pimno: calls 30
+*** TURN *** [9s 7c Kd] [5s]
+pimno: checks 
+yassin822000: bets 30
+pimno: calls 30
+*** RIVER *** [9s 7c Kd 5s] [Js]
+pimno: bets 160
+yassin822000: calls 160
+*** SHOW DOWN ***
+pimno: shows [8h Tc] (a straight, Seven to Jack)
+yassin822000: mucks hand 
+pimno collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [9s 7c Kd 5s Js]
+Seat 1: yassin822000 (big blind) mucked [Th Jd]
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: pimno (small blind) showed [8h Tc] and won (560) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #259550057476: Tournament #3971145690, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 17:49:35 CET [2026/02/01 11:49:35 ET]
+Table '3971145690 1' 3-max Seat #3 is the button
+Seat 1: yassin822000 (790 in chips) 
+Seat 2: mabeal1 (135 in chips) 
+Seat 3: pimno (575 in chips) 
+yassin822000: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 3s]
+pimno: raises 100 to 140
+yassin822000: calls 120
+mabeal1: calls 95 and is all-in
+*** FLOP *** [9c Tc 4d]
+yassin822000: checks 
+pimno: bets 40
+yassin822000: calls 40
+*** TURN *** [9c Tc 4d] [5c]
+yassin822000: checks 
+pimno: checks 
+*** RIVER *** [9c Tc 4d 5c] [5d]
+yassin822000: checks 
+pimno: checks 
+*** SHOW DOWN ***
+yassin822000: shows [3d As] (a pair of Fives)
+pimno: shows [Ks Ad] (a pair of Fives - Ace+King kicker)
+pimno collected 90 from side pot
+mabeal1: mucks hand 
+pimno collected 405 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 495 Main pot 405. Side pot 90. | Rake 0 
+Board [9c Tc 4d 5c 5d]
+Seat 1: yassin822000 (small blind) showed [3d As] and lost with a pair of Fives
+Seat 2: mabeal1 (big blind) mucked [8h 3s]
+Seat 3: pimno (button) showed [Ks Ad] and won (495) with a pair of Fives
+
+
+

@@ -1,0 +1,590 @@
+﻿PokerStars Hand #259377303353: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:03:08 CET [2026/01/19 11:03:08 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (500 in chips) 
+Seat 2: Miisterda1 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Miisterda1: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Th]
+MathysCs03: raises 20 to 40
+Miisterda1: calls 30
+mabeal1: folds 
+*** FLOP *** [9h 4s 4c]
+Miisterda1: checks 
+MathysCs03: checks 
+*** TURN *** [9h 4s 4c] [8d]
+Miisterda1: checks 
+MathysCs03: bets 20
+Miisterda1: calls 20
+*** RIVER *** [9h 4s 4c 8d] [Jh]
+Miisterda1: checks 
+MathysCs03: bets 70
+Miisterda1: folds 
+Uncalled bet (70) returned to MathysCs03
+MathysCs03 collected 140 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [9h 4s 4c 8d Jh]
+Seat 1: MathysCs03 (button) collected (140)
+Seat 2: Miisterda1 (small blind) folded on the River
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259377307710: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:03:33 CET [2026/01/19 11:03:33 ET]
+Table '3967144666 1' 3-max Seat #2 is the button
+Seat 1: MathysCs03 (580 in chips) 
+Seat 2: Miisterda1 (440 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+MathysCs03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4s]
+Miisterda1: raises 30 to 50
+mabeal1: folds 
+MathysCs03: raises 30 to 80
+Miisterda1: raises 360 to 440 and is all-in
+MathysCs03: calls 360
+*** FLOP *** [7c Jh Ks]
+*** TURN *** [7c Jh Ks] [Ac]
+*** RIVER *** [7c Jh Ks Ac] [3s]
+*** SHOW DOWN ***
+MathysCs03: shows [Kh Jd] (two pair, Kings and Jacks)
+Miisterda1: shows [Tc Th] (a pair of Tens)
+MathysCs03 collected 890 from pot
+Miisterda1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 890 | Rake 0 
+Board [7c Jh Ks Ac 3s]
+Seat 1: MathysCs03 (big blind) showed [Kh Jd] and won (890) with two pair, Kings and Jacks
+Seat 2: Miisterda1 (button) showed [Tc Th] and lost with a pair of Tens
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259377312518: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:04:01 CET [2026/01/19 11:04:01 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (1030 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+MathysCs03: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8c]
+MathysCs03: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [7d 2h Jd]
+mabeal1: checks 
+MathysCs03: bets 20
+mabeal1: raises 60 to 80
+MathysCs03: calls 60
+*** TURN *** [7d 2h Jd] [Ts]
+mabeal1: bets 120
+MathysCs03: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7d 2h Jd Ts]
+Seat 1: MathysCs03 (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (240)
+
+
+
+PokerStars Hand #259377315977: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:04:21 CET [2026/01/19 11:04:21 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (910 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+mabeal1: posts small blind 10
+MathysCs03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6s]
+mabeal1: raises 570 to 590 and is all-in
+MathysCs03: folds 
+Uncalled bet (570) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MathysCs03 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259377317060: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:04:27 CET [2026/01/19 11:04:27 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (890 in chips) 
+Seat 3: mabeal1 (610 in chips) 
+MathysCs03: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Jc]
+MathysCs03: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MathysCs03 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259377317758: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:04:31 CET [2026/01/19 11:04:31 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (880 in chips) 
+Seat 3: mabeal1 (620 in chips) 
+mabeal1: posts small blind 10
+MathysCs03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ah]
+mabeal1: raises 20 to 40
+MathysCs03: raises 20 to 60
+mabeal1: raises 560 to 620 and is all-in
+MathysCs03: folds 
+Uncalled bet (560) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: MathysCs03 (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259377320691: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:04:48 CET [2026/01/19 11:04:48 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (820 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+MathysCs03: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Qs]
+MathysCs03: raises 800 to 820 and is all-in
+mabeal1: folds 
+Uncalled bet (800) returned to MathysCs03
+MathysCs03 collected 40 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MathysCs03 (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259377321935: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:04:55 CET [2026/01/19 11:04:55 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (840 in chips) 
+Seat 3: mabeal1 (660 in chips) 
+mabeal1: posts small blind 10
+MathysCs03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 6s]
+mabeal1: calls 10
+MathysCs03: checks 
+*** FLOP *** [2h Kd Qc]
+MathysCs03: checks 
+mabeal1: bets 20
+MathysCs03: calls 20
+*** TURN *** [2h Kd Qc] [Qs]
+MathysCs03: bets 60
+mabeal1: calls 60
+*** RIVER *** [2h Kd Qc Qs] [8s]
+MathysCs03: bets 100
+mabeal1: calls 100
+*** SHOW DOWN ***
+MathysCs03: shows [7s Th] (a pair of Queens)
+mabeal1: shows [Kh 6s] (two pair, Kings and Queens)
+mabeal1 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [2h Kd Qc Qs 8s]
+Seat 1: MathysCs03 (big blind) showed [7s Th] and lost with a pair of Queens
+Seat 3: mabeal1 (button) (small blind) showed [Kh 6s] and won (400) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #259377326698: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:05:22 CET [2026/01/19 11:05:22 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (640 in chips) 
+Seat 3: mabeal1 (860 in chips) 
+MathysCs03: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6h]
+MathysCs03: raises 620 to 640 and is all-in
+mabeal1: folds 
+Uncalled bet (620) returned to MathysCs03
+MathysCs03 collected 40 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MathysCs03 (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259377328293: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:05:31 CET [2026/01/19 11:05:31 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (660 in chips) 
+Seat 3: mabeal1 (840 in chips) 
+mabeal1: posts small blind 10
+MathysCs03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd As]
+mabeal1: calls 10
+MathysCs03: raises 640 to 660 and is all-in
+mabeal1: calls 640
+*** FLOP *** [Qs Ah Tc]
+*** TURN *** [Qs Ah Tc] [Kh]
+*** RIVER *** [Qs Ah Tc Kh] [2h]
+*** SHOW DOWN ***
+MathysCs03: shows [Jc Ts] (a straight, Ten to Ace)
+mabeal1: shows [Kd As] (two pair, Aces and Kings)
+MathysCs03 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Qs Ah Tc Kh 2h]
+Seat 1: MathysCs03 (big blind) showed [Jc Ts] and won (1320) with a straight, Ten to Ace
+Seat 3: mabeal1 (button) (small blind) showed [Kd As] and lost with two pair, Aces and Kings
+
+
+
+PokerStars Hand #259377330826: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:05:45 CET [2026/01/19 11:05:45 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (1320 in chips) 
+Seat 3: mabeal1 (180 in chips) 
+MathysCs03: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kh]
+MathysCs03: calls 10
+mabeal1: raises 160 to 180 and is all-in
+MathysCs03: folds 
+Uncalled bet (160) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: MathysCs03 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259377332624: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:05:55 CET [2026/01/19 11:05:55 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (1300 in chips) 
+Seat 3: mabeal1 (200 in chips) 
+mabeal1: posts small blind 10
+MathysCs03: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 2s]
+mabeal1: folds 
+Uncalled bet (10) returned to MathysCs03
+MathysCs03 collected 20 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MathysCs03 (big blind) collected (20)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259377333530: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 17:06:01 CET [2026/01/19 11:06:01 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (1310 in chips) 
+Seat 3: mabeal1 (190 in chips) 
+MathysCs03: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 6c]
+MathysCs03: calls 10
+mabeal1: checks 
+*** FLOP *** [7h 7c 9h]
+mabeal1: checks 
+MathysCs03: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to MathysCs03
+MathysCs03 collected 40 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h 7c 9h]
+Seat 1: MathysCs03 (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259377336290: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:06:17 CET [2026/01/19 11:06:17 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (1330 in chips) 
+Seat 3: mabeal1 (170 in chips) 
+mabeal1: posts small blind 15
+MathysCs03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 8c]
+mabeal1: raises 140 to 170 and is all-in
+MathysCs03: calls 140
+*** FLOP *** [9c 7c Qc]
+*** TURN *** [9c 7c Qc] [Qh]
+*** RIVER *** [9c 7c Qc Qh] [4h]
+*** SHOW DOWN ***
+MathysCs03: shows [Ac 9d] (two pair, Queens and Nines)
+mabeal1: shows [Qd 8c] (three of a kind, Queens)
+mabeal1 collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [9c 7c Qc Qh 4h]
+Seat 1: MathysCs03 (big blind) showed [Ac 9d] and lost with two pair, Queens and Nines
+Seat 3: mabeal1 (button) (small blind) showed [Qd 8c] and won (340) with three of a kind, Queens
+
+
+
+PokerStars Hand #259377338471: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:06:29 CET [2026/01/19 11:06:29 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (1160 in chips) 
+Seat 3: mabeal1 (340 in chips) 
+MathysCs03: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Ac]
+MathysCs03: raises 1130 to 1160 and is all-in
+mabeal1: calls 310 and is all-in
+Uncalled bet (820) returned to MathysCs03
+*** FLOP *** [2h 6c Th]
+*** TURN *** [2h 6c Th] [3h]
+*** RIVER *** [2h 6c Th 3h] [5c]
+*** SHOW DOWN ***
+mabeal1: shows [6h Ac] (a pair of Sixes)
+MathysCs03: shows [Kc 8c] (high card King)
+mabeal1 collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [2h 6c Th 3h 5c]
+Seat 1: MathysCs03 (button) (small blind) showed [Kc 8c] and lost with high card King
+Seat 3: mabeal1 (big blind) showed [6h Ac] and won (680) with a pair of Sixes
+
+
+
+PokerStars Hand #259377341132: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:06:45 CET [2026/01/19 11:06:45 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (820 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+mabeal1: posts small blind 15
+MathysCs03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 3h]
+mabeal1: calls 15
+MathysCs03: raises 790 to 820 and is all-in
+mabeal1: folds 
+Uncalled bet (790) returned to MathysCs03
+MathysCs03 collected 60 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MathysCs03 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259377343130: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:06:56 CET [2026/01/19 11:06:56 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (850 in chips) 
+Seat 3: mabeal1 (650 in chips) 
+MathysCs03: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Tc]
+MathysCs03: raises 820 to 850 and is all-in
+mabeal1: folds 
+Uncalled bet (820) returned to MathysCs03
+MathysCs03 collected 60 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MathysCs03 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259377344353: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:07:03 CET [2026/01/19 11:07:03 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (880 in chips) 
+Seat 3: mabeal1 (620 in chips) 
+mabeal1: posts small blind 15
+MathysCs03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Js]
+mabeal1: calls 15
+MathysCs03: raises 850 to 880 and is all-in
+mabeal1: folds 
+Uncalled bet (850) returned to MathysCs03
+MathysCs03 collected 60 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MathysCs03 (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259377345804: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:07:11 CET [2026/01/19 11:07:11 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (910 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+MathysCs03: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Jc]
+MathysCs03: raises 880 to 910 and is all-in
+mabeal1: folds 
+Uncalled bet (880) returned to MathysCs03
+MathysCs03 collected 60 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MathysCs03 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259377347018: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:07:18 CET [2026/01/19 11:07:18 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (940 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+mabeal1: posts small blind 15
+MathysCs03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Jc]
+mabeal1: folds 
+Uncalled bet (15) returned to MathysCs03
+MathysCs03 collected 30 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MathysCs03 (big blind) collected (30)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259377347993: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:07:24 CET [2026/01/19 11:07:24 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (955 in chips) 
+Seat 3: mabeal1 (545 in chips) 
+MathysCs03: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Kc]
+MathysCs03: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: MathysCs03 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259377348771: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:07:28 CET [2026/01/19 11:07:28 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (940 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+mabeal1: posts small blind 15
+MathysCs03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Ac]
+mabeal1: calls 15
+MathysCs03: raises 910 to 940 and is all-in
+mabeal1: calls 530 and is all-in
+Uncalled bet (380) returned to MathysCs03
+*** FLOP *** [Qc Jh 7c]
+*** TURN *** [Qc Jh 7c] [5s]
+*** RIVER *** [Qc Jh 7c 5s] [Ah]
+*** SHOW DOWN ***
+MathysCs03: shows [Ad 4h] (a pair of Aces)
+mabeal1: shows [6s Ac] (a pair of Aces)
+MathysCs03 collected 560 from pot
+mabeal1 collected 560 from pot
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [Qc Jh 7c 5s Ah]
+Seat 1: MathysCs03 (big blind) showed [Ad 4h] and won (560) with a pair of Aces
+Seat 3: mabeal1 (button) (small blind) showed [6s Ac] and won (560) with a pair of Aces
+
+
+
+PokerStars Hand #259377351305: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:07:42 CET [2026/01/19 11:07:42 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (940 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+MathysCs03: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 5d]
+MathysCs03: raises 910 to 940 and is all-in
+mabeal1: folds 
+Uncalled bet (910) returned to MathysCs03
+MathysCs03 collected 60 from pot
+MathysCs03: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: MathysCs03 (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259377353033: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:07:52 CET [2026/01/19 11:07:52 ET]
+Table '3967144666 1' 3-max Seat #3 is the button
+Seat 1: MathysCs03 (970 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+mabeal1: posts small blind 15
+MathysCs03: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Kh]
+mabeal1: raises 500 to 530 and is all-in
+MathysCs03: calls 500
+*** FLOP *** [Ac 7h 3d]
+*** TURN *** [Ac 7h 3d] [Kd]
+*** RIVER *** [Ac 7h 3d Kd] [Jc]
+*** SHOW DOWN ***
+MathysCs03: shows [9h Jh] (a pair of Jacks)
+mabeal1: shows [8s Kh] (a pair of Kings)
+mabeal1 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [Ac 7h 3d Kd Jc]
+Seat 1: MathysCs03 (big blind) showed [9h Jh] and lost with a pair of Jacks
+Seat 3: mabeal1 (button) (small blind) showed [8s Kh] and won (1060) with a pair of Kings
+
+
+
+PokerStars Hand #259377355888: Tournament #3967144666, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/19 17:08:08 CET [2026/01/19 11:08:08 ET]
+Table '3967144666 1' 3-max Seat #1 is the button
+Seat 1: MathysCs03 (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+MathysCs03: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Kd]
+MathysCs03: raises 410 to 440 and is all-in
+mabeal1: calls 410
+*** FLOP *** [4h Jd 9s]
+*** TURN *** [4h Jd 9s] [4d]
+*** RIVER *** [4h Jd 9s 4d] [Ks]
+*** SHOW DOWN ***
+mabeal1: shows [Jc Kd] (two pair, Kings and Jacks)
+MathysCs03: shows [8h Kh] (two pair, Kings and Fours)
+mabeal1 collected 880 from pot
+MathysCs03 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [4h Jd 9s 4d Ks]
+Seat 1: MathysCs03 (button) (small blind) showed [8h Kh] and lost with two pair, Kings and Fours
+Seat 3: mabeal1 (big blind) showed [Jc Kd] and won (880) with two pair, Kings and Jacks
+
+
+

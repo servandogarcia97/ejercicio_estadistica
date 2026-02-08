@@ -1,0 +1,607 @@
+﻿PokerStars Hand #259577564845: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:52:05 CET [2026/02/03 11:52:05 ET]
+Table '3971746738 1' 3-max Seat #1 is the button
+Seat 1: 13NRVdeMars (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: t2qkpac (500 in chips) 
+mabeal1: posts small blind 10
+t2qkpac: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 7c]
+13NRVdeMars: folds 
+mabeal1: raises 30 to 50
+t2qkpac: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: 13NRVdeMars (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: t2qkpac (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577566849: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:52:15 CET [2026/02/03 11:52:15 ET]
+Table '3971746738 1' 3-max Seat #2 is the button
+Seat 1: 13NRVdeMars (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: t2qkpac (480 in chips) 
+t2qkpac: posts small blind 10
+13NRVdeMars: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 5c]
+mabeal1: folds 
+t2qkpac: raises 20 to 40
+13NRVdeMars: calls 20
+*** FLOP *** [2h 9d 7d]
+t2qkpac: bets 60
+13NRVdeMars: folds 
+Uncalled bet (60) returned to t2qkpac
+t2qkpac collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h 9d 7d]
+Seat 1: 13NRVdeMars (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: t2qkpac (small blind) collected (80)
+
+
+
+PokerStars Hand #259577571832: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:52:42 CET [2026/02/03 11:52:42 ET]
+Table '3971746738 1' 3-max Seat #3 is the button
+Seat 1: 13NRVdeMars (460 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: t2qkpac (520 in chips) 
+13NRVdeMars: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Th]
+t2qkpac: calls 20
+13NRVdeMars: calls 10
+mabeal1: raises 500 to 520 and is all-in
+t2qkpac: folds 
+13NRVdeMars: folds 
+Uncalled bet (500) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: 13NRVdeMars (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: t2qkpac (button) folded before Flop
+
+
+
+PokerStars Hand #259577575547: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:53:02 CET [2026/02/03 11:53:02 ET]
+Table '3971746738 1' 3-max Seat #1 is the button
+Seat 1: 13NRVdeMars (440 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: t2qkpac (500 in chips) 
+mabeal1: posts small blind 10
+t2qkpac: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Js]
+13NRVdeMars: calls 20
+mabeal1: calls 10
+t2qkpac: checks 
+*** FLOP *** [5d Jd 6h]
+mabeal1: checks 
+t2qkpac: bets 60
+13NRVdeMars: folds 
+mabeal1: calls 60
+*** TURN *** [5d Jd 6h] [Qc]
+mabeal1: checks 
+t2qkpac: checks 
+*** RIVER *** [5d Jd 6h Qc] [Ks]
+mabeal1: bets 60
+t2qkpac: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [Tc Js] (a pair of Jacks)
+t2qkpac: mucks hand 
+mabeal1 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [5d Jd 6h Qc Ks]
+Seat 1: 13NRVdeMars (button) folded on the Flop
+Seat 2: mabeal1 (small blind) showed [Tc Js] and won (300) with a pair of Jacks
+Seat 3: t2qkpac (big blind) mucked [Jc 4d]
+
+
+
+PokerStars Hand #259577581751: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:53:35 CET [2026/02/03 11:53:35 ET]
+Table '3971746738 1' 3-max Seat #2 is the button
+Seat 1: 13NRVdeMars (420 in chips) 
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: t2qkpac (360 in chips) 
+t2qkpac: posts small blind 10
+13NRVdeMars: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Kc]
+mabeal1: raises 20 to 40
+t2qkpac: calls 30
+13NRVdeMars: calls 20
+*** FLOP *** [As 5h 5c]
+t2qkpac: checks 
+13NRVdeMars: checks 
+mabeal1: checks 
+*** TURN *** [As 5h 5c] [2d]
+t2qkpac: bets 40
+13NRVdeMars: folds 
+mabeal1: calls 40
+*** RIVER *** [As 5h 5c 2d] [2s]
+t2qkpac: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+t2qkpac: shows [Kd Qc] (two pair, Fives and Deuces)
+mabeal1: shows [Td Kc] (two pair, Fives and Deuces)
+t2qkpac collected 160 from pot
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [As 5h 5c 2d 2s]
+Seat 1: 13NRVdeMars (big blind) folded on the Turn
+Seat 2: mabeal1 (button) showed [Td Kc] and won (160) with two pair, Fives and Deuces
+Seat 3: t2qkpac (small blind) showed [Kd Qc] and won (160) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #259577590474: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:54:21 CET [2026/02/03 11:54:21 ET]
+Table '3971746738 1' 3-max Seat #3 is the button
+Seat 1: 13NRVdeMars (380 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: t2qkpac (380 in chips) 
+13NRVdeMars: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8c]
+t2qkpac: calls 20
+13NRVdeMars: raises 60 to 80
+mabeal1: folds 
+t2qkpac: folds 
+Uncalled bet (60) returned to 13NRVdeMars
+13NRVdeMars collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: 13NRVdeMars (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: t2qkpac (button) folded before Flop
+
+
+
+PokerStars Hand #259577594258: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:54:41 CET [2026/02/03 11:54:41 ET]
+Table '3971746738 1' 3-max Seat #1 is the button
+Seat 1: 13NRVdeMars (420 in chips) 
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: t2qkpac (360 in chips) 
+mabeal1: posts small blind 10
+t2qkpac: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 7c]
+13NRVdeMars: calls 20
+mabeal1: folds 
+t2qkpac: checks 
+*** FLOP *** [7d Ts Js]
+t2qkpac: bets 25
+13NRVdeMars: calls 25
+*** TURN *** [7d Ts Js] [Jc]
+t2qkpac: checks 
+13NRVdeMars: checks 
+*** RIVER *** [7d Ts Js Jc] [3c]
+t2qkpac: bets 60
+13NRVdeMars: calls 60
+*** SHOW DOWN ***
+t2qkpac: shows [Td 8d] (two pair, Jacks and Tens)
+13NRVdeMars: shows [Tc Qs] (two pair, Jacks and Tens - Queen kicker)
+13NRVdeMars collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [7d Ts Js Jc 3c]
+Seat 1: 13NRVdeMars (button) showed [Tc Qs] and won (220) with two pair, Jacks and Tens
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: t2qkpac (big blind) showed [Td 8d] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #259577600519: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:55:15 CET [2026/02/03 11:55:15 ET]
+Table '3971746738 1' 3-max Seat #2 is the button
+Seat 1: 13NRVdeMars (535 in chips) 
+Seat 2: mabeal1 (710 in chips) 
+Seat 3: t2qkpac (255 in chips) 
+t2qkpac: posts small blind 15
+13NRVdeMars: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Qc]
+mabeal1: folds 
+t2qkpac: folds 
+Uncalled bet (15) returned to 13NRVdeMars
+13NRVdeMars collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: 13NRVdeMars (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: t2qkpac (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577602371: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:55:28 CET [2026/02/03 11:55:28 ET]
+Table '3971746738 1' 3-max Seat #3 is the button
+Seat 1: 13NRVdeMars (550 in chips) 
+Seat 2: mabeal1 (710 in chips) 
+Seat 3: t2qkpac (240 in chips) 
+13NRVdeMars: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Jd]
+t2qkpac: folds 
+13NRVdeMars: calls 15
+mabeal1: checks 
+*** FLOP *** [8s Jh Ac]
+13NRVdeMars: checks 
+mabeal1: bets 30
+13NRVdeMars: calls 30
+*** TURN *** [8s Jh Ac] [4d]
+13NRVdeMars: checks 
+mabeal1: bets 60
+13NRVdeMars: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8s Jh Ac 4d]
+Seat 1: 13NRVdeMars (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (120)
+Seat 3: t2qkpac (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259577606465: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:55:56 CET [2026/02/03 11:55:56 ET]
+Table '3971746738 1' 3-max Seat #1 is the button
+Seat 1: 13NRVdeMars (490 in chips) 
+Seat 2: mabeal1 (770 in chips) 
+Seat 3: t2qkpac (240 in chips) 
+mabeal1: posts small blind 15
+t2qkpac: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Qs]
+13NRVdeMars: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to t2qkpac
+t2qkpac collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: 13NRVdeMars (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: t2qkpac (big blind) collected (30)
+
+
+
+PokerStars Hand #259577608744: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:56:12 CET [2026/02/03 11:56:12 ET]
+Table '3971746738 1' 3-max Seat #2 is the button
+Seat 1: 13NRVdeMars (490 in chips) 
+Seat 2: mabeal1 (755 in chips) 
+Seat 3: t2qkpac (255 in chips) 
+t2qkpac: posts small blind 15
+13NRVdeMars: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3h]
+mabeal1: raises 30 to 60
+t2qkpac: calls 45
+13NRVdeMars: folds 
+*** FLOP *** [6d Ah Qh]
+t2qkpac: checks 
+mabeal1: bets 60
+t2qkpac: raises 60 to 120
+mabeal1: calls 60
+*** TURN *** [6d Ah Qh] [6s]
+t2qkpac: checks 
+mabeal1: checks 
+*** RIVER *** [6d Ah Qh 6s] [8s]
+t2qkpac: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+t2qkpac: shows [7s Js] (a pair of Sixes)
+mabeal1: mucks hand 
+t2qkpac collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [6d Ah Qh 6s 8s]
+Seat 1: 13NRVdeMars (big blind) folded before Flop
+Seat 2: mabeal1 (button) mucked [2h 3h]
+Seat 3: t2qkpac (small blind) showed [7s Js] and won (390) with a pair of Sixes
+
+
+
+PokerStars Hand #259577613591: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:56:46 CET [2026/02/03 11:56:46 ET]
+Table '3971746738 1' 3-max Seat #3 is the button
+Seat 1: 13NRVdeMars (460 in chips) 
+Seat 2: mabeal1 (575 in chips) 
+Seat 3: t2qkpac (465 in chips) 
+13NRVdeMars: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 8s]
+t2qkpac: folds 
+13NRVdeMars: calls 15
+mabeal1: raises 545 to 575 and is all-in
+13NRVdeMars: folds 
+Uncalled bet (545) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: 13NRVdeMars (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: t2qkpac (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259577615606: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:57:00 CET [2026/02/03 11:57:00 ET]
+Table '3971746738 1' 3-max Seat #1 is the button
+Seat 1: 13NRVdeMars (430 in chips) 
+Seat 2: mabeal1 (605 in chips) 
+Seat 3: t2qkpac (465 in chips) 
+mabeal1: posts small blind 15
+t2qkpac: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 4d]
+13NRVdeMars: calls 30
+mabeal1: calls 15
+t2qkpac: raises 435 to 465 and is all-in
+13NRVdeMars: folds 
+mabeal1: folds 
+Uncalled bet (435) returned to t2qkpac
+t2qkpac collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: 13NRVdeMars (button) folded before Flop
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: t2qkpac (big blind) collected (90)
+
+
+
+PokerStars Hand #259577618676: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:57:22 CET [2026/02/03 11:57:22 ET]
+Table '3971746738 1' 3-max Seat #2 is the button
+Seat 1: 13NRVdeMars (400 in chips) 
+Seat 2: mabeal1 (575 in chips) 
+Seat 3: t2qkpac (525 in chips) 
+t2qkpac: posts small blind 15
+13NRVdeMars: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 3s]
+mabeal1: folds 
+t2qkpac: calls 15
+13NRVdeMars: checks 
+*** FLOP *** [7h As 7c]
+t2qkpac: checks 
+13NRVdeMars: checks 
+*** TURN *** [7h As 7c] [Ac]
+t2qkpac: bets 30
+13NRVdeMars: folds 
+Uncalled bet (30) returned to t2qkpac
+t2qkpac collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h As 7c Ac]
+Seat 1: 13NRVdeMars (big blind) folded on the Turn
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: t2qkpac (small blind) collected (60)
+
+
+
+PokerStars Hand #259577622415: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:57:48 CET [2026/02/03 11:57:48 ET]
+Table '3971746738 1' 3-max Seat #3 is the button
+Seat 1: 13NRVdeMars (370 in chips) 
+Seat 2: mabeal1 (575 in chips) 
+Seat 3: t2qkpac (555 in chips) 
+13NRVdeMars: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Td]
+t2qkpac: folds 
+13NRVdeMars: calls 15
+mabeal1: checks 
+*** FLOP *** [Jc Kh 2d]
+13NRVdeMars: checks 
+mabeal1: checks 
+*** TURN *** [Jc Kh 2d] [Ah]
+13NRVdeMars: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to 13NRVdeMars
+13NRVdeMars collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc Kh 2d Ah]
+Seat 1: 13NRVdeMars (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: t2qkpac (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259577626076: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:58:13 CET [2026/02/03 11:58:13 ET]
+Table '3971746738 1' 3-max Seat #1 is the button
+Seat 1: 13NRVdeMars (400 in chips) 
+Seat 2: mabeal1 (545 in chips) 
+Seat 3: t2qkpac (555 in chips) 
+mabeal1: posts small blind 20
+t2qkpac: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Jd]
+13NRVdeMars: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to t2qkpac
+t2qkpac collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: 13NRVdeMars (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: t2qkpac (big blind) collected (40)
+
+
+
+PokerStars Hand #259577627365: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:58:22 CET [2026/02/03 11:58:22 ET]
+Table '3971746738 1' 3-max Seat #2 is the button
+Seat 1: 13NRVdeMars (400 in chips) 
+Seat 2: mabeal1 (525 in chips) 
+Seat 3: t2qkpac (575 in chips) 
+t2qkpac: posts small blind 20
+13NRVdeMars: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3s]
+mabeal1: folds 
+t2qkpac: calls 20
+13NRVdeMars: checks 
+*** FLOP *** [Ts Tc Kc]
+t2qkpac: bets 80
+13NRVdeMars: folds 
+Uncalled bet (80) returned to t2qkpac
+t2qkpac collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts Tc Kc]
+Seat 1: 13NRVdeMars (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: t2qkpac (small blind) collected (80)
+
+
+
+PokerStars Hand #259577629592: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:58:38 CET [2026/02/03 11:58:38 ET]
+Table '3971746738 1' 3-max Seat #3 is the button
+Seat 1: 13NRVdeMars (360 in chips) 
+Seat 2: mabeal1 (525 in chips) 
+Seat 3: t2qkpac (615 in chips) 
+13NRVdeMars: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8c]
+t2qkpac: calls 40
+13NRVdeMars: raises 320 to 360 and is all-in
+mabeal1: folds 
+t2qkpac: folds 
+Uncalled bet (320) returned to 13NRVdeMars
+13NRVdeMars collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: 13NRVdeMars (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: t2qkpac (button) folded before Flop
+
+
+
+PokerStars Hand #259577631473: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:58:51 CET [2026/02/03 11:58:51 ET]
+Table '3971746738 1' 3-max Seat #1 is the button
+Seat 1: 13NRVdeMars (440 in chips) 
+Seat 2: mabeal1 (485 in chips) 
+Seat 3: t2qkpac (575 in chips) 
+mabeal1: posts small blind 20
+t2qkpac: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4h]
+13NRVdeMars: folds 
+mabeal1: raises 40 to 80
+t2qkpac: raises 495 to 575 and is all-in
+mabeal1: folds 
+Uncalled bet (495) returned to t2qkpac
+t2qkpac collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: 13NRVdeMars (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: t2qkpac (big blind) collected (160)
+
+
+
+PokerStars Hand #259577633188: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:59:03 CET [2026/02/03 11:59:03 ET]
+Table '3971746738 1' 3-max Seat #2 is the button
+Seat 1: 13NRVdeMars (440 in chips) 
+Seat 2: mabeal1 (405 in chips) 
+Seat 3: t2qkpac (655 in chips) 
+t2qkpac: posts small blind 20
+13NRVdeMars: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 9c]
+mabeal1: raises 40 to 80
+t2qkpac: folds 
+13NRVdeMars: calls 40
+*** FLOP *** [4h 8s 2s]
+13NRVdeMars: checks 
+mabeal1: checks 
+*** TURN *** [4h 8s 2s] [5h]
+13NRVdeMars: checks 
+mabeal1: bets 40
+13NRVdeMars: calls 40
+*** RIVER *** [4h 8s 2s 5h] [Qh]
+13NRVdeMars: checks 
+mabeal1: bets 285 and is all-in
+13NRVdeMars: folds 
+Uncalled bet (285) returned to mabeal1
+mabeal1 collected 260 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [4h 8s 2s 5h Qh]
+Seat 1: 13NRVdeMars (big blind) folded on the River
+Seat 2: mabeal1 (button) collected (260)
+Seat 3: t2qkpac (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577637636: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:59:34 CET [2026/02/03 11:59:34 ET]
+Table '3971746738 1' 3-max Seat #3 is the button
+Seat 1: 13NRVdeMars (320 in chips) 
+Seat 2: mabeal1 (545 in chips) 
+Seat 3: t2qkpac (635 in chips) 
+13NRVdeMars: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Tc]
+t2qkpac: calls 40
+13NRVdeMars: raises 280 to 320 and is all-in
+mabeal1: raises 225 to 545 and is all-in
+t2qkpac: folds 
+Uncalled bet (225) returned to mabeal1
+*** FLOP *** [7h 8s 6h]
+*** TURN *** [7h 8s 6h] [Ah]
+*** RIVER *** [7h 8s 6h Ah] [6c]
+*** SHOW DOWN ***
+13NRVdeMars: shows [As Qc] (two pair, Aces and Sixes)
+mabeal1: shows [Ad Tc] (two pair, Aces and Sixes - lower kicker)
+13NRVdeMars collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [7h 8s 6h Ah 6c]
+Seat 1: 13NRVdeMars (small blind) showed [As Qc] and won (680) with two pair, Aces and Sixes
+Seat 2: mabeal1 (big blind) showed [Ad Tc] and lost with two pair, Aces and Sixes
+Seat 3: t2qkpac (button) folded before Flop
+
+
+
+PokerStars Hand #259577640703: Tournament #3971746738, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:59:55 CET [2026/02/03 11:59:55 ET]
+Table '3971746738 1' 3-max Seat #1 is the button
+Seat 1: 13NRVdeMars (680 in chips) 
+Seat 2: mabeal1 (225 in chips) 
+Seat 3: t2qkpac (595 in chips) 
+mabeal1: posts small blind 20
+t2qkpac: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 7h]
+13NRVdeMars: folds 
+mabeal1: raises 185 to 225 and is all-in
+t2qkpac: calls 185
+*** FLOP *** [5c Jd Ks]
+*** TURN *** [5c Jd Ks] [3s]
+*** RIVER *** [5c Jd Ks 3s] [Ts]
+*** SHOW DOWN ***
+mabeal1: shows [As 7h] (high card Ace)
+t2qkpac: shows [Qs Qh] (a pair of Queens)
+t2qkpac collected 450 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [5c Jd Ks 3s Ts]
+Seat 1: 13NRVdeMars (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [As 7h] and lost with high card Ace
+Seat 3: t2qkpac (big blind) showed [Qs Qh] and won (450) with a pair of Queens
+
+
+

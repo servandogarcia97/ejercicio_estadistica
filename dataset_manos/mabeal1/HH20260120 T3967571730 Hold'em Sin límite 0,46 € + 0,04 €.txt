@@ -1,0 +1,370 @@
+﻿PokerStars Hand #259395849979: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:23:53 CET [2026/01/20 17:23:53 ET]
+Table '3967571730 1' 3-max Seat #1 is the button
+Seat 1: UP101954 (500 in chips) 
+Seat 2: Mike6434 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Mike6434: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qd]
+UP101954: calls 20
+Mike6434: calls 10
+mabeal1: checks 
+*** FLOP *** [5c 4c 2s]
+Mike6434: checks 
+mabeal1: checks 
+UP101954: checks 
+*** TURN *** [5c 4c 2s] [Kh]
+Mike6434: checks 
+mabeal1: checks 
+UP101954: checks 
+*** RIVER *** [5c 4c 2s Kh] [Kc]
+Mike6434: bets 20
+mabeal1: calls 20
+UP101954: folds 
+*** SHOW DOWN ***
+Mike6434: shows [9c Kd] (three of a kind, Kings)
+mabeal1: mucks hand 
+Mike6434 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [5c 4c 2s Kh Kc]
+Seat 1: UP101954 (button) folded on the River
+Seat 2: Mike6434 (small blind) showed [9c Kd] and won (100) with three of a kind, Kings
+Seat 3: mabeal1 (big blind) mucked [7c Qd]
+
+
+
+PokerStars Hand #259395855374: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:24:15 CET [2026/01/20 17:24:15 ET]
+Table '3967571730 1' 3-max Seat #2 is the button
+Seat 1: UP101954 (480 in chips) 
+Seat 2: Mike6434 (560 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+UP101954: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Kh]
+Mike6434: folds 
+mabeal1: raises 20 to 40
+UP101954: calls 20
+*** FLOP *** [Jh 2c Qd]
+mabeal1: bets 30
+UP101954: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jh 2c Qd]
+Seat 1: UP101954 (big blind) folded on the Flop
+Seat 2: Mike6434 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (80)
+
+
+
+PokerStars Hand #259395861352: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:24:39 CET [2026/01/20 17:24:39 ET]
+Table '3967571730 1' 3-max Seat #3 is the button
+Seat 1: UP101954 (440 in chips) 
+Seat 2: Mike6434 (560 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+UP101954: posts small blind 10
+Mike6434: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ah]
+mabeal1: raises 480 to 500 and is all-in
+UP101954: folds 
+Mike6434: folds 
+Uncalled bet (480) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: UP101954 (small blind) folded before Flop
+Seat 2: Mike6434 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259395864240: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:24:51 CET [2026/01/20 17:24:51 ET]
+Table '3967571730 1' 3-max Seat #1 is the button
+Seat 1: UP101954 (430 in chips) 
+Seat 2: Mike6434 (540 in chips) 
+Seat 3: mabeal1 (530 in chips) 
+Mike6434: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ad]
+UP101954: folds 
+Mike6434: calls 10
+mabeal1: raises 510 to 530 and is all-in
+Mike6434: calls 510
+*** FLOP *** [4c 6c Jh]
+*** TURN *** [4c 6c Jh] [5c]
+*** RIVER *** [4c 6c Jh 5c] [5s]
+*** SHOW DOWN ***
+Mike6434: shows [Ks Qh] (a pair of Fives)
+mabeal1: shows [2h Ad] (a pair of Fives - Ace kicker)
+mabeal1 collected 1060 from pot
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [4c 6c Jh 5c 5s]
+Seat 1: UP101954 (button) folded before Flop (didn't bet)
+Seat 2: Mike6434 (small blind) showed [Ks Qh] and lost with a pair of Fives
+Seat 3: mabeal1 (big blind) showed [2h Ad] and won (1060) with a pair of Fives
+
+
+
+PokerStars Hand #259395868705: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:25:09 CET [2026/01/20 17:25:09 ET]
+Table '3967571730 1' 3-max Seat #2 is the button
+Seat 1: UP101954 (430 in chips) 
+Seat 2: Mike6434 (10 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+mabeal1: posts small blind 10
+UP101954: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 7s]
+Mike6434 is disconnected 
+Mike6434 has timed out while disconnected
+Mike6434: folds 
+Mike6434 is sitting out
+mabeal1: raises 20 to 40
+UP101954: calls 20
+*** FLOP *** [4c Qd 9s]
+mabeal1: bets 30
+UP101954: calls 30
+*** TURN *** [4c Qd 9s] [4d]
+mabeal1: checks 
+UP101954: checks 
+*** RIVER *** [4c Qd 9s 4d] [Jc]
+mabeal1: bets 105
+UP101954: folds 
+Uncalled bet (105) returned to mabeal1
+mabeal1 collected 140 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [4c Qd 9s 4d Jc]
+Seat 1: UP101954 (big blind) folded on the River
+Seat 2: Mike6434 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (140)
+
+
+
+PokerStars Hand #259395879168: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 23:25:51 CET [2026/01/20 17:25:51 ET]
+Table '3967571730 1' 3-max Seat #3 is the button
+Seat 1: UP101954 (360 in chips) 
+Seat 2: Mike6434 (10 in chips) is sitting out
+Seat 3: mabeal1 (1130 in chips) 
+UP101954: posts small blind 10
+Mike6434: posts big blind 10 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 4h]
+mabeal1: raises 1120 to 1130 and is all-in
+UP101954: folds 
+Mike6434: folds 
+Uncalled bet (1120) returned to mabeal1
+mabeal1 collected 30 from pot
+Mike6434 finished the tournament in 3rd place
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: UP101954 (small blind) folded before Flop
+Seat 2: Mike6434 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (30)
+
+
+
+PokerStars Hand #259395881754: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:26:01 CET [2026/01/20 17:26:01 ET]
+Table '3967571730 1' 3-max Seat #1 is the button
+Seat 1: UP101954 (350 in chips) 
+Seat 3: mabeal1 (1150 in chips) 
+UP101954: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ah]
+UP101954: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: UP101954 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259395882969: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:26:06 CET [2026/01/20 17:26:06 ET]
+Table '3967571730 1' 3-max Seat #3 is the button
+Seat 1: UP101954 (335 in chips) 
+Seat 3: mabeal1 (1165 in chips) 
+mabeal1: posts small blind 15
+UP101954: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9h]
+mabeal1: calls 15
+UP101954: checks 
+*** FLOP *** [Tc Jd Kd]
+UP101954: checks 
+mabeal1: checks 
+*** TURN *** [Tc Jd Kd] [7c]
+UP101954: bets 30
+mabeal1: calls 30
+*** RIVER *** [Tc Jd Kd 7c] [Th]
+UP101954: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to UP101954
+UP101954 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc Jd Kd 7c Th]
+Seat 1: UP101954 (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259395890586: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:26:37 CET [2026/01/20 17:26:37 ET]
+Table '3967571730 1' 3-max Seat #1 is the button
+Seat 1: UP101954 (395 in chips) 
+Seat 3: mabeal1 (1105 in chips) 
+UP101954: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2c]
+UP101954: calls 15
+mabeal1: checks 
+*** FLOP *** [3h Ah Qs]
+mabeal1: checks 
+UP101954: checks 
+*** TURN *** [3h Ah Qs] [6d]
+mabeal1: checks 
+UP101954: checks 
+*** RIVER *** [3h Ah Qs 6d] [4s]
+mabeal1: bets 60
+UP101954: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h Ah Qs 6d 4s]
+Seat 1: UP101954 (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259395895203: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:26:55 CET [2026/01/20 17:26:55 ET]
+Table '3967571730 1' 3-max Seat #3 is the button
+Seat 1: UP101954 (365 in chips) 
+Seat 3: mabeal1 (1135 in chips) 
+mabeal1: posts small blind 15
+UP101954: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ts]
+mabeal1: raises 30 to 60
+UP101954: calls 30
+*** FLOP *** [Jh Tc Js]
+UP101954: checks 
+mabeal1: checks 
+*** TURN *** [Jh Tc Js] [7c]
+UP101954: checks 
+mabeal1: bets 90
+UP101954: calls 90
+*** RIVER *** [Jh Tc Js 7c] [6c]
+UP101954: checks 
+mabeal1: bets 985 and is all-in
+UP101954: folds 
+Uncalled bet (985) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Jh Tc Js 7c 6c]
+Seat 1: UP101954 (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (300)
+
+
+
+PokerStars Hand #259395903705: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:27:29 CET [2026/01/20 17:27:29 ET]
+Table '3967571730 1' 3-max Seat #1 is the button
+Seat 1: UP101954 (215 in chips) 
+Seat 3: mabeal1 (1285 in chips) 
+UP101954: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9d]
+UP101954: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: UP101954 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259395905772: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:27:37 CET [2026/01/20 17:27:37 ET]
+Table '3967571730 1' 3-max Seat #3 is the button
+Seat 1: UP101954 (200 in chips) 
+Seat 3: mabeal1 (1300 in chips) 
+mabeal1: posts small blind 15
+UP101954: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2c]
+mabeal1: folds 
+Uncalled bet (15) returned to UP101954
+UP101954 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: UP101954 (big blind) collected (30)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259395908868: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:27:50 CET [2026/01/20 17:27:50 ET]
+Table '3967571730 1' 3-max Seat #1 is the button
+Seat 1: UP101954 (215 in chips) 
+Seat 3: mabeal1 (1285 in chips) 
+UP101954: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Jh]
+UP101954: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: UP101954 (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259395909758: Tournament #3967571730, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/20 23:27:54 CET [2026/01/20 17:27:54 ET]
+Table '3967571730 1' 3-max Seat #3 is the button
+Seat 1: UP101954 (200 in chips) 
+Seat 3: mabeal1 (1300 in chips) 
+mabeal1: posts small blind 15
+UP101954: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ad]
+mabeal1: raises 1270 to 1300 and is all-in
+UP101954: calls 170 and is all-in
+Uncalled bet (1100) returned to mabeal1
+*** FLOP *** [4s Ks 6s]
+*** TURN *** [4s Ks 6s] [Jc]
+*** RIVER *** [4s Ks 6s Jc] [9s]
+*** SHOW DOWN ***
+UP101954: shows [Ah Qc] (high card Ace)
+mabeal1: shows [3s Ad] (a flush, King high)
+mabeal1 collected 400 from pot
+UP101954 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [4s Ks 6s Jc 9s]
+Seat 1: UP101954 (big blind) showed [Ah Qc] and lost with high card Ace
+Seat 3: mabeal1 (button) (small blind) showed [3s Ad] and won (400) with a flush, King high
+
+
+

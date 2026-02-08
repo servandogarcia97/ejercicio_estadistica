@@ -1,0 +1,167 @@
+﻿PokerStars Hand #259553633865: Tournament #3971213140, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:29:29 CET [2026/02/01 15:29:29 ET]
+Table '3971213140 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: pepeho76 (500 in chips) 
+Seat 3: carlitosflip (500 in chips) 
+pepeho76: posts small blind 10
+carlitosflip: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 8c]
+mabeal1: folds 
+pepeho76: calls 10
+carlitosflip: raises 20 to 40
+pepeho76: calls 20
+*** FLOP *** [3d 9d 3h]
+pepeho76: checks 
+carlitosflip: checks 
+*** TURN *** [3d 9d 3h] [Js]
+pepeho76: bets 20
+carlitosflip: calls 20
+*** RIVER *** [3d 9d 3h Js] [5h]
+pepeho76: bets 100
+carlitosflip: folds 
+Uncalled bet (100) returned to pepeho76
+pepeho76 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d 9d 3h Js 5h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: pepeho76 (small blind) collected (120)
+Seat 3: carlitosflip (big blind) folded on the River
+
+
+
+PokerStars Hand #259553644774: Tournament #3971213140, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:30:04 CET [2026/02/01 15:30:04 ET]
+Table '3971213140 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: pepeho76 (560 in chips) 
+Seat 3: carlitosflip (440 in chips) 
+carlitosflip: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Jd]
+pepeho76: calls 20
+carlitosflip: folds 
+mabeal1: checks 
+*** FLOP *** [3c Ad 4d]
+mabeal1: bets 38
+pepeho76: folds 
+Uncalled bet (38) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [3c Ad 4d]
+Seat 1: mabeal1 (big blind) collected (50)
+Seat 2: pepeho76 (button) folded on the Flop
+Seat 3: carlitosflip (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553650219: Tournament #3971213140, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:30:21 CET [2026/02/01 15:30:21 ET]
+Table '3971213140 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: pepeho76 (540 in chips) 
+Seat 3: carlitosflip (430 in chips) 
+mabeal1: posts small blind 10
+pepeho76: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 9s]
+carlitosflip: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to pepeho76
+pepeho76 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: pepeho76 (big blind) collected (20)
+Seat 3: carlitosflip (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259553654730: Tournament #3971213140, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:30:36 CET [2026/02/01 15:30:36 ET]
+Table '3971213140 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: pepeho76 (550 in chips) 
+Seat 3: carlitosflip (430 in chips) 
+pepeho76: posts small blind 10
+carlitosflip: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Td]
+mabeal1: raises 20 to 40
+pepeho76: calls 30
+carlitosflip: raises 100 to 140
+mabeal1: folds 
+pepeho76: folds 
+Uncalled bet (100) returned to carlitosflip
+carlitosflip collected 120 from pot
+carlitosflip: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: pepeho76 (small blind) folded before Flop
+Seat 3: carlitosflip (big blind) collected (120)
+
+
+
+PokerStars Hand #259553659580: Tournament #3971213140, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:30:51 CET [2026/02/01 15:30:51 ET]
+Table '3971213140 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: pepeho76 (510 in chips) 
+Seat 3: carlitosflip (510 in chips) 
+carlitosflip: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Qs]
+pepeho76: calls 20
+carlitosflip: folds 
+mabeal1: checks 
+*** FLOP *** [2h Ts 5c]
+mabeal1: checks 
+pepeho76: checks 
+*** TURN *** [2h Ts 5c] [Tc]
+mabeal1: checks 
+pepeho76: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to pepeho76
+pepeho76 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [2h Ts 5c Tc]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: pepeho76 (button) collected (50)
+Seat 3: carlitosflip (small blind) folded before Flop
+
+
+
+PokerStars Hand #259553669991: Tournament #3971213140, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 21:31:25 CET [2026/02/01 15:31:25 ET]
+Table '3971213140 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (460 in chips) 
+Seat 2: pepeho76 (540 in chips) 
+Seat 3: carlitosflip (500 in chips) 
+mabeal1: posts small blind 10
+pepeho76: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Ah]
+carlitosflip: raises 20 to 40
+mabeal1: raises 420 to 460 and is all-in
+pepeho76: raises 80 to 540 and is all-in
+carlitosflip: folds 
+Uncalled bet (80) returned to pepeho76
+*** FLOP *** [Qs 9s 5s]
+*** TURN *** [Qs 9s 5s] [8d]
+*** RIVER *** [Qs 9s 5s 8d] [Kd]
+*** SHOW DOWN ***
+mabeal1: shows [Tc Ah] (high card Ace)
+pepeho76: shows [Jc Jh] (a pair of Jacks)
+pepeho76 collected 960 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [Qs 9s 5s 8d Kd]
+Seat 1: mabeal1 (small blind) showed [Tc Ah] and lost with high card Ace
+Seat 2: pepeho76 (big blind) showed [Jc Jh] and won (960) with a pair of Jacks
+Seat 3: carlitosflip (button) folded before Flop
+
+
+

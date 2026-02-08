@@ -1,0 +1,639 @@
+﻿PokerStars Hand #259478597158: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 4:00:02 CET [2026/01/26 22:00:02 ET]
+Table '3969493378 1' 3-max Seat #1 is the button
+Seat 1: rasta4500 (500 in chips) 
+Seat 2: moanna104 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+moanna104: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 6d]
+rasta4500: calls 20
+moanna104: folds 
+mabeal1: checks 
+*** FLOP *** [4s 6s 5d]
+mabeal1: checks 
+rasta4500: bets 25
+mabeal1: calls 25
+*** TURN *** [4s 6s 5d] [9h]
+mabeal1: checks 
+rasta4500: bets 20
+mabeal1: calls 20
+*** RIVER *** [4s 6s 5d 9h] [Qs]
+mabeal1: checks 
+rasta4500: checks 
+*** SHOW DOWN ***
+mabeal1: shows [2s 6d] (a pair of Sixes)
+rasta4500: shows [6h Jh] (a pair of Sixes - Queen+Jack kicker)
+rasta4500 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [4s 6s 5d 9h Qs]
+Seat 1: rasta4500 (button) showed [6h Jh] and won (140) with a pair of Sixes
+Seat 2: moanna104 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [2s 6d] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259478600441: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 4:00:37 CET [2026/01/26 22:00:37 ET]
+Table '3969493378 1' 3-max Seat #2 is the button
+Seat 1: rasta4500 (575 in chips) 
+Seat 2: moanna104 (490 in chips) 
+Seat 3: mabeal1 (435 in chips) 
+mabeal1: posts small blind 10
+rasta4500: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9h]
+moanna104: calls 20
+mabeal1: calls 10
+rasta4500: raises 60 to 80
+moanna104: calls 60
+mabeal1: folds 
+*** FLOP *** [4s 2c Th]
+rasta4500: bets 90
+moanna104: folds 
+Uncalled bet (90) returned to rasta4500
+rasta4500 collected 180 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4s 2c Th]
+Seat 1: rasta4500 (big blind) collected (180)
+Seat 2: moanna104 (button) folded on the Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478603247: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 4:01:04 CET [2026/01/26 22:01:04 ET]
+Table '3969493378 1' 3-max Seat #3 is the button
+Seat 1: rasta4500 (675 in chips) 
+Seat 2: moanna104 (410 in chips) 
+Seat 3: mabeal1 (415 in chips) 
+rasta4500: posts small blind 10
+moanna104: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 5d]
+mabeal1: folds 
+rasta4500: calls 10
+moanna104: raises 40 to 60
+rasta4500: calls 40
+*** FLOP *** [Jc 9c Qh]
+rasta4500: checks 
+moanna104: bets 60
+rasta4500: calls 60
+*** TURN *** [Jc 9c Qh] [Ac]
+rasta4500: checks 
+moanna104: bets 120
+rasta4500: raises 435 to 555 and is all-in
+moanna104: calls 170 and is all-in
+Uncalled bet (265) returned to rasta4500
+*** RIVER *** [Jc 9c Qh Ac] [Qd]
+*** SHOW DOWN ***
+rasta4500: shows [3c 9d] (two pair, Queens and Nines)
+moanna104: shows [6c 8c] (a flush, Ace high)
+moanna104 collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Jc 9c Qh Ac Qd]
+Seat 1: rasta4500 (small blind) showed [3c 9d] and lost with two pair, Queens and Nines
+Seat 2: moanna104 (big blind) showed [6c 8c] and won (820) with a flush, Ace high
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478607293: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 4:01:42 CET [2026/01/26 22:01:42 ET]
+Table '3969493378 1' 3-max Seat #1 is the button
+Seat 1: rasta4500 (265 in chips) 
+Seat 2: moanna104 (820 in chips) 
+Seat 3: mabeal1 (415 in chips) 
+moanna104: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 2h]
+rasta4500: folds 
+moanna104: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to moanna104
+moanna104 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: rasta4500 (button) folded before Flop (didn't bet)
+Seat 2: moanna104 (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259478608732: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 4:01:56 CET [2026/01/26 22:01:56 ET]
+Table '3969493378 1' 3-max Seat #2 is the button
+Seat 1: rasta4500 (265 in chips) 
+Seat 2: moanna104 (840 in chips) 
+Seat 3: mabeal1 (395 in chips) 
+mabeal1: posts small blind 10
+rasta4500: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5s]
+moanna104: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to rasta4500
+rasta4500 collected 20 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: rasta4500 (big blind) collected (20)
+Seat 2: moanna104 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478609510: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 4:02:02 CET [2026/01/26 22:02:02 ET]
+Table '3969493378 1' 3-max Seat #3 is the button
+Seat 1: rasta4500 (275 in chips) 
+Seat 2: moanna104 (840 in chips) 
+Seat 3: mabeal1 (385 in chips) 
+rasta4500: posts small blind 10
+moanna104: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Th]
+mabeal1: folds 
+rasta4500: calls 10
+moanna104: checks 
+*** FLOP *** [9h 3c 5h]
+rasta4500: checks 
+moanna104: bets 60
+rasta4500: calls 60
+*** TURN *** [9h 3c 5h] [5s]
+rasta4500: checks 
+moanna104: bets 160
+rasta4500: folds 
+Uncalled bet (160) returned to moanna104
+moanna104 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9h 3c 5h 5s]
+Seat 1: rasta4500 (small blind) folded on the Turn
+Seat 2: moanna104 (big blind) collected (160)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478613241: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 4:02:38 CET [2026/01/26 22:02:38 ET]
+Table '3969493378 1' 3-max Seat #1 is the button
+Seat 1: rasta4500 (195 in chips) 
+Seat 2: moanna104 (920 in chips) 
+Seat 3: mabeal1 (385 in chips) 
+moanna104: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6d]
+rasta4500: folds 
+moanna104: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: rasta4500 (button) folded before Flop (didn't bet)
+Seat 2: moanna104 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259478614150: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 4:02:46 CET [2026/01/26 22:02:46 ET]
+Table '3969493378 1' 3-max Seat #2 is the button
+Seat 1: rasta4500 (195 in chips) 
+Seat 2: moanna104 (910 in chips) 
+Seat 3: mabeal1 (395 in chips) 
+mabeal1: posts small blind 10
+rasta4500: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 9c]
+moanna104: raises 50 to 70
+mabeal1: calls 60
+rasta4500: folds 
+*** FLOP *** [Qd 2c 6c]
+mabeal1: checks 
+moanna104: bets 80
+mabeal1: raises 245 to 325 and is all-in
+moanna104: calls 245
+*** TURN *** [Qd 2c 6c] [8c]
+*** RIVER *** [Qd 2c 6c 8c] [4s]
+*** SHOW DOWN ***
+mabeal1: shows [Jc 9c] (a flush, Jack high)
+moanna104: shows [Ad Kd] (high card Ace)
+mabeal1 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [Qd 2c 6c 8c 4s]
+Seat 1: rasta4500 (big blind) folded before Flop
+Seat 2: moanna104 (button) showed [Ad Kd] and lost with high card Ace
+Seat 3: mabeal1 (small blind) showed [Jc 9c] and won (810) with a flush, Jack high
+
+
+
+PokerStars Hand #259478618095: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:03:22 CET [2026/01/26 22:03:22 ET]
+Table '3969493378 1' 3-max Seat #3 is the button
+Seat 1: rasta4500 (175 in chips) 
+Seat 2: moanna104 (515 in chips) 
+Seat 3: mabeal1 (810 in chips) 
+rasta4500: posts small blind 15
+moanna104: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3d]
+mabeal1: folds 
+rasta4500: calls 15
+moanna104: checks 
+*** FLOP *** [As 7s 2d]
+rasta4500: bets 145 and is all-in
+moanna104: folds 
+Uncalled bet (145) returned to rasta4500
+rasta4500 collected 60 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 7s 2d]
+Seat 1: rasta4500 (small blind) collected (60)
+Seat 2: moanna104 (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478619385: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:03:34 CET [2026/01/26 22:03:34 ET]
+Table '3969493378 1' 3-max Seat #1 is the button
+Seat 1: rasta4500 (205 in chips) 
+Seat 2: moanna104 (485 in chips) 
+Seat 3: mabeal1 (810 in chips) 
+moanna104: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 5d]
+rasta4500: raises 175 to 205 and is all-in
+moanna104: folds 
+mabeal1: folds 
+Uncalled bet (175) returned to rasta4500
+rasta4500 collected 75 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: rasta4500 (button) collected (75)
+Seat 2: moanna104 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259478620435: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:03:44 CET [2026/01/26 22:03:44 ET]
+Table '3969493378 1' 3-max Seat #2 is the button
+Seat 1: rasta4500 (250 in chips) 
+Seat 2: moanna104 (470 in chips) 
+Seat 3: mabeal1 (780 in chips) 
+mabeal1: posts small blind 15
+rasta4500: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 5s]
+moanna104: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to rasta4500
+rasta4500 collected 30 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: rasta4500 (big blind) collected (30)
+Seat 2: moanna104 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478621200: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:03:51 CET [2026/01/26 22:03:51 ET]
+Table '3969493378 1' 3-max Seat #3 is the button
+Seat 1: rasta4500 (265 in chips) 
+Seat 2: moanna104 (470 in chips) 
+Seat 3: mabeal1 (765 in chips) 
+rasta4500: posts small blind 15
+moanna104: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 9s]
+mabeal1: folds 
+rasta4500: raises 30 to 60
+moanna104: calls 30
+*** FLOP *** [2s Kc 4h]
+rasta4500: checks 
+moanna104: checks 
+*** TURN *** [2s Kc 4h] [3d]
+rasta4500: bets 205 and is all-in
+moanna104: folds 
+Uncalled bet (205) returned to rasta4500
+rasta4500 collected 120 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s Kc 4h 3d]
+Seat 1: rasta4500 (small blind) collected (120)
+Seat 2: moanna104 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259478623593: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:04:14 CET [2026/01/26 22:04:14 ET]
+Table '3969493378 1' 3-max Seat #1 is the button
+Seat 1: rasta4500 (325 in chips) 
+Seat 2: moanna104 (410 in chips) 
+Seat 3: mabeal1 (765 in chips) 
+moanna104: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 4d]
+rasta4500: raises 60 to 90
+moanna104: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to rasta4500
+rasta4500 collected 75 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: rasta4500 (button) collected (75)
+Seat 2: moanna104 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259478624646: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:04:24 CET [2026/01/26 22:04:24 ET]
+Table '3969493378 1' 3-max Seat #2 is the button
+Seat 1: rasta4500 (370 in chips) 
+Seat 2: moanna104 (395 in chips) 
+Seat 3: mabeal1 (735 in chips) 
+mabeal1: posts small blind 15
+rasta4500: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th As]
+moanna104: folds 
+mabeal1: raises 30 to 60
+rasta4500: calls 30
+*** FLOP *** [Kc 2c 7s]
+mabeal1: bets 45
+rasta4500: raises 265 to 310 and is all-in
+mabeal1: folds 
+Uncalled bet (265) returned to rasta4500
+rasta4500 collected 210 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Kc 2c 7s]
+Seat 1: rasta4500 (big blind) collected (210)
+Seat 2: moanna104 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259478626699: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:04:44 CET [2026/01/26 22:04:44 ET]
+Table '3969493378 1' 3-max Seat #3 is the button
+Seat 1: rasta4500 (475 in chips) 
+Seat 2: moanna104 (395 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+rasta4500: posts small blind 15
+moanna104: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5d]
+mabeal1: raises 600 to 630 and is all-in
+rasta4500: folds 
+moanna104: folds 
+Uncalled bet (600) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: rasta4500 (small blind) folded before Flop
+Seat 2: moanna104 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259478627563: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:04:52 CET [2026/01/26 22:04:52 ET]
+Table '3969493378 1' 3-max Seat #1 is the button
+Seat 1: rasta4500 (460 in chips) 
+Seat 2: moanna104 (365 in chips) 
+Seat 3: mabeal1 (675 in chips) 
+moanna104: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 7d]
+rasta4500: folds 
+moanna104: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: rasta4500 (button) folded before Flop (didn't bet)
+Seat 2: moanna104 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259478628179: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:04:58 CET [2026/01/26 22:04:58 ET]
+Table '3969493378 1' 3-max Seat #2 is the button
+Seat 1: rasta4500 (460 in chips) 
+Seat 2: moanna104 (350 in chips) 
+Seat 3: mabeal1 (690 in chips) 
+mabeal1: posts small blind 15
+rasta4500: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d As]
+moanna104: folds 
+mabeal1: raises 30 to 60
+rasta4500: calls 30
+*** FLOP *** [4c Kc Td]
+mabeal1: checks 
+rasta4500: checks 
+*** TURN *** [4c Kc Td] [9h]
+mabeal1: bets 90
+rasta4500: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4c Kc Td 9h]
+Seat 1: rasta4500 (big blind) folded on the Turn
+Seat 2: moanna104 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (120)
+
+
+
+PokerStars Hand #259478630689: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:05:21 CET [2026/01/26 22:05:21 ET]
+Table '3969493378 1' 3-max Seat #3 is the button
+Seat 1: rasta4500 (400 in chips) 
+Seat 2: moanna104 (350 in chips) 
+Seat 3: mabeal1 (750 in chips) 
+rasta4500: posts small blind 15
+moanna104: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 9s]
+mabeal1: raises 30 to 60
+rasta4500: calls 45
+moanna104: folds 
+*** FLOP *** [4h Th Kc]
+rasta4500: checks 
+mabeal1: bets 60
+rasta4500: calls 60
+*** TURN *** [4h Th Kc] [Qs]
+rasta4500: checks 
+mabeal1: checks 
+*** RIVER *** [4h Th Kc Qs] [2s]
+rasta4500: bets 135
+mabeal1: folds 
+Uncalled bet (135) returned to rasta4500
+rasta4500 collected 270 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [4h Th Kc Qs 2s]
+Seat 1: rasta4500 (small blind) collected (270)
+Seat 2: moanna104 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded on the River
+
+
+
+PokerStars Hand #259478633424: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 4:05:47 CET [2026/01/26 22:05:47 ET]
+Table '3969493378 1' 3-max Seat #1 is the button
+Seat 1: rasta4500 (550 in chips) 
+Seat 2: moanna104 (320 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+moanna104: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8c]
+rasta4500: raises 60 to 90
+moanna104: raises 90 to 180
+mabeal1: folds 
+rasta4500: calls 90
+*** FLOP *** [As Jh 4c]
+moanna104: bets 140 and is all-in
+rasta4500: calls 140
+*** TURN *** [As Jh 4c] [7c]
+*** RIVER *** [As Jh 4c 7c] [8d]
+*** SHOW DOWN ***
+moanna104: shows [Qh Qc] (a pair of Queens)
+rasta4500: shows [Jc Jd] (three of a kind, Jacks)
+rasta4500 collected 670 from pot
+moanna104 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [As Jh 4c 7c 8d]
+Seat 1: rasta4500 (button) showed [Jc Jd] and won (670) with three of a kind, Jacks
+Seat 2: moanna104 (small blind) showed [Qh Qc] and lost with a pair of Queens
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259478637020: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 4:06:21 CET [2026/01/26 22:06:21 ET]
+Table '3969493378 1' 3-max Seat #3 is the button
+Seat 1: rasta4500 (900 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+mabeal1: posts small blind 20
+rasta4500: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c As]
+mabeal1: raises 40 to 80
+rasta4500: calls 40
+*** FLOP *** [6d 7h 3c]
+rasta4500: checks 
+mabeal1: checks 
+*** TURN *** [6d 7h 3c] [3s]
+rasta4500: checks 
+mabeal1: checks 
+*** RIVER *** [6d 7h 3c 3s] [5h]
+rasta4500: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+rasta4500: shows [8c 6c] (two pair, Sixes and Threes)
+mabeal1: shows [4c As] (a straight, Three to Seven)
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6d 7h 3c 3s 5h]
+Seat 1: rasta4500 (big blind) showed [8c 6c] and lost with two pair, Sixes and Threes
+Seat 3: mabeal1 (button) (small blind) showed [4c As] and won (160) with a straight, Three to Seven
+
+
+
+PokerStars Hand #259478639565: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 4:06:45 CET [2026/01/26 22:06:45 ET]
+Table '3969493378 1' 3-max Seat #1 is the button
+Seat 1: rasta4500 (820 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+rasta4500: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Jc]
+rasta4500: raises 80 to 120
+mabeal1: calls 80
+*** FLOP *** [Tc 4d 3h]
+mabeal1: checks 
+rasta4500: checks 
+*** TURN *** [Tc 4d 3h] [9c]
+mabeal1: bets 120
+rasta4500: calls 120
+*** RIVER *** [Tc 4d 3h 9c] [7c]
+mabeal1: bets 440 and is all-in
+rasta4500: folds 
+Uncalled bet (440) returned to mabeal1
+mabeal1 collected 480 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Tc 4d 3h 9c 7c]
+Seat 1: rasta4500 (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (480)
+
+
+
+PokerStars Hand #259478643540: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 4:07:22 CET [2026/01/26 22:07:22 ET]
+Table '3969493378 1' 3-max Seat #3 is the button
+Seat 1: rasta4500 (580 in chips) 
+Seat 3: mabeal1 (920 in chips) 
+mabeal1: posts small blind 20
+rasta4500: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7s]
+mabeal1: raises 40 to 80
+rasta4500: raises 500 to 580 and is all-in
+mabeal1: folds 
+Uncalled bet (500) returned to rasta4500
+rasta4500 collected 160 from pot
+rasta4500: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: rasta4500 (big blind) collected (160)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478644498: Tournament #3969493378, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/27 4:07:32 CET [2026/01/26 22:07:32 ET]
+Table '3969493378 1' 3-max Seat #1 is the button
+Seat 1: rasta4500 (660 in chips) 
+Seat 3: mabeal1 (840 in chips) 
+rasta4500: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 6d]
+rasta4500: raises 80 to 120
+mabeal1: calls 80
+*** FLOP *** [Jh 3h Kh]
+mabeal1: checks 
+rasta4500: bets 120
+mabeal1: raises 600 to 720 and is all-in
+rasta4500: calls 420 and is all-in
+Uncalled bet (180) returned to mabeal1
+*** TURN *** [Jh 3h Kh] [Ks]
+*** RIVER *** [Jh 3h Kh Ks] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [Kd 6d] (three of a kind, Kings)
+rasta4500: shows [Js 5d] (two pair, Kings and Jacks)
+mabeal1 collected 1320 from pot
+rasta4500 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Jh 3h Kh Ks 8h]
+Seat 1: rasta4500 (button) (small blind) showed [Js 5d] and lost with two pair, Kings and Jacks
+Seat 3: mabeal1 (big blind) showed [Kd 6d] and won (1320) with three of a kind, Kings
+
+
+

@@ -1,0 +1,155 @@
+﻿PokerStars Hand #259521605024: Tournament #3970512481, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 17:13:14 CET [2026/01/30 11:13:14 ET]
+Table '3970512481 1' 3-max Seat #1 is the button
+Seat 1: pemasan (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Kisio7 (500 in chips) 
+mabeal1: posts small blind 10
+Kisio7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Th]
+pemasan: calls 20
+mabeal1: calls 10
+Kisio7: checks 
+*** FLOP *** [2d 5d 3s]
+mabeal1: checks 
+Kisio7: checks 
+pemasan: bets 60
+mabeal1: calls 60
+Kisio7: folds 
+*** TURN *** [2d 5d 3s] [8h]
+mabeal1: checks 
+pemasan: bets 180
+mabeal1: calls 180
+*** RIVER *** [2d 5d 3s 8h] [5s]
+mabeal1: bets 240 and is all-in
+pemasan: calls 240 and is all-in
+*** SHOW DOWN ***
+mabeal1: shows [5h Th] (three of a kind, Fives)
+pemasan: shows [2c 3c] (two pair, Fives and Threes)
+mabeal1 collected 1020 from pot
+pemasan finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [2d 5d 3s 8h 5s]
+Seat 1: pemasan (button) showed [2c 3c] and lost with two pair, Fives and Threes
+Seat 2: mabeal1 (small blind) showed [5h Th] and won (1020) with three of a kind, Fives
+Seat 3: Kisio7 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259521611545: Tournament #3970512481, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 17:13:51 CET [2026/01/30 11:13:51 ET]
+Table '3970512481 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1020 in chips) 
+Seat 3: Kisio7 (480 in chips) 
+Kisio7: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 5s]
+Kisio7: calls 10
+mabeal1: checks 
+*** FLOP *** [Th Jd 9c]
+mabeal1: checks 
+Kisio7: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Kisio7
+Kisio7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th Jd 9c]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: Kisio7 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259521613872: Tournament #3970512481, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 17:14:05 CET [2026/01/30 11:14:05 ET]
+Table '3970512481 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1000 in chips) 
+Seat 3: Kisio7 (500 in chips) 
+mabeal1: posts small blind 10
+Kisio7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8c]
+mabeal1: calls 10
+Kisio7: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [Jh 9s Jd]
+Kisio7: bets 40
+mabeal1: raises 120 to 160
+Kisio7: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Jh 9s Jd]
+Seat 2: mabeal1 (button) (small blind) collected (200)
+Seat 3: Kisio7 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259521617006: Tournament #3970512481, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 17:14:23 CET [2026/01/30 11:14:23 ET]
+Table '3970512481 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1100 in chips) 
+Seat 3: Kisio7 (400 in chips) 
+Kisio7: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 6h]
+Kisio7: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: Kisio7 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259521617938: Tournament #3970512481, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 17:14:28 CET [2026/01/30 11:14:28 ET]
+Table '3970512481 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1110 in chips) 
+Seat 3: Kisio7 (390 in chips) 
+mabeal1: posts small blind 10
+Kisio7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7c]
+mabeal1: calls 10
+Kisio7: raises 370 to 390 and is all-in
+mabeal1: folds 
+Uncalled bet (370) returned to Kisio7
+Kisio7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: Kisio7 (big blind) collected (40)
+
+
+
+PokerStars Hand #259521619291: Tournament #3970512481, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/30 17:14:36 CET [2026/01/30 11:14:36 ET]
+Table '3970512481 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1090 in chips) 
+Seat 3: Kisio7 (410 in chips) 
+Kisio7: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 7h]
+Kisio7: raises 390 to 410 and is all-in
+mabeal1: calls 390
+*** FLOP *** [3c Qc 2h]
+*** TURN *** [3c Qc 2h] [8c]
+*** RIVER *** [3c Qc 2h 8c] [2c]
+*** SHOW DOWN ***
+mabeal1: shows [7c 7h] (a flush, Queen high)
+Kisio7: shows [Td Kh] (a pair of Deuces)
+mabeal1 collected 820 from pot
+Kisio7 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [3c Qc 2h 8c 2c]
+Seat 2: mabeal1 (big blind) showed [7c 7h] and won (820) with a flush, Queen high
+Seat 3: Kisio7 (button) (small blind) showed [Td Kh] and lost with a pair of Deuces
+
+
+

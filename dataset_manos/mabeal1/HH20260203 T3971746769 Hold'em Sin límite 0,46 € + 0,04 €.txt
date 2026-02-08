@@ -1,0 +1,777 @@
+﻿PokerStars Hand #259577567204: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:52:17 CET [2026/02/03 11:52:17 ET]
+Table '3971746769 1' 3-max Seat #1 is the button
+Seat 1: Erbiles (500 in chips) 
+Seat 2: MtRoucousAddict (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+MtRoucousAddict: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Kh]
+Erbiles: calls 20
+MtRoucousAddict: calls 10
+mabeal1: checks 
+*** FLOP *** [7s 2c 6c]
+MtRoucousAddict: checks 
+mabeal1: checks 
+Erbiles: bets 20
+MtRoucousAddict: calls 20
+mabeal1: calls 20
+*** TURN *** [7s 2c 6c] [Ks]
+MtRoucousAddict: checks 
+mabeal1: bets 90
+Erbiles: folds 
+MtRoucousAddict: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7s 2c 6c Ks]
+Seat 1: Erbiles (button) folded on the Turn
+Seat 2: MtRoucousAddict (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259577573223: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:52:50 CET [2026/02/03 11:52:50 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 1: Erbiles (460 in chips) 
+Seat 2: MtRoucousAddict (460 in chips) 
+Seat 3: mabeal1 (580 in chips) 
+mabeal1: posts small blind 10
+Erbiles: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Ac]
+MtRoucousAddict: calls 20
+mabeal1: raises 560 to 580 and is all-in
+Erbiles: folds 
+MtRoucousAddict: folds 
+Uncalled bet (560) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Erbiles (big blind) folded before Flop
+Seat 2: MtRoucousAddict (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259577576069: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:53:04 CET [2026/02/03 11:53:04 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 1: Erbiles (440 in chips) 
+Seat 2: MtRoucousAddict (440 in chips) 
+Seat 3: mabeal1 (620 in chips) 
+Erbiles: posts small blind 10
+MtRoucousAddict: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Ts]
+mabeal1: folds 
+Erbiles: raises 40 to 60
+MtRoucousAddict: raises 100 to 160
+Erbiles: raises 280 to 440 and is all-in
+MtRoucousAddict: calls 280 and is all-in
+*** FLOP *** [Kc Qh 7d]
+*** TURN *** [Kc Qh 7d] [4s]
+*** RIVER *** [Kc Qh 7d 4s] [Jc]
+*** SHOW DOWN ***
+Erbiles: shows [Ah Qd] (a pair of Queens)
+MtRoucousAddict: shows [Qs Qc] (three of a kind, Queens)
+MtRoucousAddict collected 880 from pot
+Erbiles finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Kc Qh 7d 4s Jc]
+Seat 1: Erbiles (small blind) showed [Ah Qd] and lost with a pair of Queens
+Seat 2: MtRoucousAddict (big blind) showed [Qs Qc] and won (880) with three of a kind, Queens
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259577581563: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:53:34 CET [2026/02/03 11:53:34 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (880 in chips) 
+Seat 3: mabeal1 (620 in chips) 
+MtRoucousAddict: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 8c]
+MtRoucousAddict: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to MtRoucousAddict
+MtRoucousAddict collected 40 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: MtRoucousAddict (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577583430: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:53:44 CET [2026/02/03 11:53:44 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (900 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+mabeal1: posts small blind 10
+MtRoucousAddict: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3c]
+mabeal1: calls 10
+MtRoucousAddict: checks 
+*** FLOP *** [Ac Qh 7s]
+MtRoucousAddict: checks 
+mabeal1: bets 20
+MtRoucousAddict: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac Qh 7s]
+Seat 2: MtRoucousAddict (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259577586112: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 17:53:58 CET [2026/02/03 11:53:58 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (880 in chips) 
+Seat 3: mabeal1 (620 in chips) 
+MtRoucousAddict: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 7h]
+MtRoucousAddict: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [5c Tc Qs]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** TURN *** [5c Tc Qs] [7s]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** RIVER *** [5c Tc Qs 7s] [Th]
+mabeal1: bets 40
+MtRoucousAddict: calls 40
+*** SHOW DOWN ***
+mabeal1: shows [8s 7h] (two pair, Tens and Sevens)
+MtRoucousAddict: shows [8h 7d] (two pair, Tens and Sevens)
+mabeal1 collected 80 from pot
+MtRoucousAddict collected 80 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c Tc Qs 7s Th]
+Seat 2: MtRoucousAddict (button) (small blind) showed [8h 7d] and won (80) with two pair, Tens and Sevens
+Seat 3: mabeal1 (big blind) showed [8s 7h] and won (80) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #259577594604: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:54:43 CET [2026/02/03 11:54:43 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (880 in chips) 
+Seat 3: mabeal1 (620 in chips) 
+mabeal1: posts small blind 15
+MtRoucousAddict: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 9d]
+mabeal1: raises 30 to 60
+MtRoucousAddict: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: MtRoucousAddict (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259577596034: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:54:51 CET [2026/02/03 11:54:51 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (850 in chips) 
+Seat 3: mabeal1 (650 in chips) 
+MtRoucousAddict: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7h]
+MtRoucousAddict: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: MtRoucousAddict (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259577596962: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:54:55 CET [2026/02/03 11:54:55 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (835 in chips) 
+Seat 3: mabeal1 (665 in chips) 
+mabeal1: posts small blind 15
+MtRoucousAddict: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 7h]
+mabeal1: calls 15
+MtRoucousAddict: checks 
+*** FLOP *** [4s Tc 5h]
+MtRoucousAddict: checks 
+mabeal1: checks 
+*** TURN *** [4s Tc 5h] [4h]
+MtRoucousAddict: bets 60
+mabeal1: raises 135 to 195
+MtRoucousAddict: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4s Tc 5h 4h]
+Seat 2: MtRoucousAddict (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (180)
+
+
+
+PokerStars Hand #259577601198: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:55:20 CET [2026/02/03 11:55:20 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (745 in chips) 
+Seat 3: mabeal1 (755 in chips) 
+MtRoucousAddict: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 3d]
+MtRoucousAddict: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: MtRoucousAddict (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259577602007: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:55:25 CET [2026/02/03 11:55:25 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (730 in chips) 
+Seat 3: mabeal1 (770 in chips) 
+mabeal1: posts small blind 15
+MtRoucousAddict: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 6h]
+mabeal1: folds 
+Uncalled bet (15) returned to MtRoucousAddict
+MtRoucousAddict collected 30 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: MtRoucousAddict (big blind) collected (30)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577602821: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:55:31 CET [2026/02/03 11:55:31 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (745 in chips) 
+Seat 3: mabeal1 (755 in chips) 
+MtRoucousAddict: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 8c]
+MtRoucousAddict: calls 15
+mabeal1: raises 725 to 755 and is all-in
+MtRoucousAddict: folds 
+Uncalled bet (725) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: MtRoucousAddict (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259577603936: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:55:38 CET [2026/02/03 11:55:38 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (715 in chips) 
+Seat 3: mabeal1 (785 in chips) 
+mabeal1: posts small blind 15
+MtRoucousAddict: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7c]
+mabeal1: calls 15
+MtRoucousAddict: checks 
+*** FLOP *** [6h Jc 3s]
+MtRoucousAddict: checks 
+mabeal1: bets 30
+MtRoucousAddict: calls 30
+*** TURN *** [6h Jc 3s] [5c]
+MtRoucousAddict: checks 
+mabeal1: bets 60
+MtRoucousAddict: raises 150 to 210
+mabeal1: folds 
+Uncalled bet (150) returned to MtRoucousAddict
+MtRoucousAddict collected 240 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [6h Jc 3s 5c]
+Seat 2: MtRoucousAddict (big blind) collected (240)
+Seat 3: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259577608311: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 17:56:09 CET [2026/02/03 11:56:09 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (835 in chips) 
+Seat 3: mabeal1 (665 in chips) 
+MtRoucousAddict: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 3s]
+MtRoucousAddict: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [9d Qc 5d]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** TURN *** [9d Qc 5d] [9h]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** RIVER *** [9d Qc 5d 9h] [4s]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Ac 3s] (a pair of Nines)
+MtRoucousAddict: mucks hand 
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9d Qc 5d 9h 4s]
+Seat 2: MtRoucousAddict (button) (small blind) mucked [Ks 8s]
+Seat 3: mabeal1 (big blind) showed [Ac 3s] and won (120) with a pair of Nines
+
+
+
+PokerStars Hand #259577611484: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:56:32 CET [2026/02/03 11:56:32 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (775 in chips) 
+Seat 3: mabeal1 (725 in chips) 
+mabeal1: posts small blind 20
+MtRoucousAddict: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 4c]
+mabeal1: folds 
+Uncalled bet (20) returned to MtRoucousAddict
+MtRoucousAddict collected 40 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: MtRoucousAddict (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577613295: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:56:44 CET [2026/02/03 11:56:44 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (795 in chips) 
+Seat 3: mabeal1 (705 in chips) 
+MtRoucousAddict: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 4s]
+MtRoucousAddict: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to MtRoucousAddict
+MtRoucousAddict collected 80 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: MtRoucousAddict (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577614529: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:56:53 CET [2026/02/03 11:56:53 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (835 in chips) 
+Seat 3: mabeal1 (665 in chips) 
+mabeal1: posts small blind 20
+MtRoucousAddict: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6h]
+mabeal1: calls 20
+MtRoucousAddict: checks 
+*** FLOP *** [Ac 5s Ad]
+MtRoucousAddict: checks 
+mabeal1: bets 40
+MtRoucousAddict: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 5s Ad]
+Seat 2: MtRoucousAddict (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259577616918: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:57:09 CET [2026/02/03 11:57:09 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (795 in chips) 
+Seat 3: mabeal1 (705 in chips) 
+MtRoucousAddict: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 9d]
+MtRoucousAddict: calls 20
+mabeal1: checks 
+*** FLOP *** [Ad 8h 6h]
+mabeal1: checks 
+MtRoucousAddict: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to MtRoucousAddict
+MtRoucousAddict collected 80 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ad 8h 6h]
+Seat 2: MtRoucousAddict (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259577618701: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:57:22 CET [2026/02/03 11:57:22 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (835 in chips) 
+Seat 3: mabeal1 (665 in chips) 
+mabeal1: posts small blind 20
+MtRoucousAddict: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8h]
+mabeal1: calls 20
+MtRoucousAddict: checks 
+*** FLOP *** [Qd 3d Ah]
+MtRoucousAddict: checks 
+mabeal1: bets 40
+MtRoucousAddict: raises 160 to 200
+mabeal1: folds 
+Uncalled bet (160) returned to MtRoucousAddict
+MtRoucousAddict collected 160 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Qd 3d Ah]
+Seat 2: MtRoucousAddict (big blind) collected (160)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259577621289: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:57:40 CET [2026/02/03 11:57:40 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (915 in chips) 
+Seat 3: mabeal1 (585 in chips) 
+MtRoucousAddict: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 7s]
+MtRoucousAddict: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to MtRoucousAddict
+MtRoucousAddict collected 80 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: MtRoucousAddict (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259577623123: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:57:52 CET [2026/02/03 11:57:52 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (955 in chips) 
+Seat 3: mabeal1 (545 in chips) 
+mabeal1: posts small blind 20
+MtRoucousAddict: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Qc]
+mabeal1: calls 20
+MtRoucousAddict: raises 120 to 160
+mabeal1: folds 
+Uncalled bet (120) returned to MtRoucousAddict
+MtRoucousAddict collected 80 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: MtRoucousAddict (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577624424: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 17:58:01 CET [2026/02/03 11:58:01 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (995 in chips) 
+Seat 3: mabeal1 (505 in chips) 
+MtRoucousAddict: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 2c]
+MtRoucousAddict: calls 20
+mabeal1: checks 
+*** FLOP *** [Js 9c 3s]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** TURN *** [Js 9c 3s] [2s]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** RIVER *** [Js 9c 3s 2s] [8d]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qc 2c] (a pair of Deuces)
+MtRoucousAddict: mucks hand 
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js 9c 3s 2s 8d]
+Seat 2: MtRoucousAddict (button) (small blind) mucked [Qs Ac]
+Seat 3: mabeal1 (big blind) showed [Qc 2c] and won (80) with a pair of Deuces
+
+
+
+PokerStars Hand #259577627445: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:58:23 CET [2026/02/03 11:58:23 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (955 in chips) 
+Seat 3: mabeal1 (545 in chips) 
+mabeal1: posts small blind 30
+MtRoucousAddict: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 2c]
+mabeal1: folds 
+Uncalled bet (30) returned to MtRoucousAddict
+MtRoucousAddict collected 60 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: MtRoucousAddict (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577628100: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:58:27 CET [2026/02/03 11:58:27 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (985 in chips) 
+Seat 3: mabeal1 (515 in chips) 
+MtRoucousAddict: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 2s]
+MtRoucousAddict: calls 30
+mabeal1: checks 
+*** FLOP *** [2d Qh Ad]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** TURN *** [2d Qh Ad] [8d]
+mabeal1: checks 
+MtRoucousAddict: bets 60
+mabeal1: calls 60
+*** RIVER *** [2d Qh Ad 8d] [9h]
+mabeal1: checks 
+MtRoucousAddict: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+MtRoucousAddict: shows [4s Qd] (a pair of Queens)
+mabeal1: mucks hand 
+MtRoucousAddict collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2d Qh Ad 8d 9h]
+Seat 2: MtRoucousAddict (button) (small blind) showed [4s Qd] and won (360) with a pair of Queens
+Seat 3: mabeal1 (big blind) mucked [6c 2s]
+
+
+
+PokerStars Hand #259577630958: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:58:47 CET [2026/02/03 11:58:47 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (1165 in chips) 
+Seat 3: mabeal1 (335 in chips) 
+mabeal1: posts small blind 30
+MtRoucousAddict: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4s]
+mabeal1: folds 
+Uncalled bet (30) returned to MtRoucousAddict
+MtRoucousAddict collected 60 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: MtRoucousAddict (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577631866: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:58:53 CET [2026/02/03 11:58:53 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (1195 in chips) 
+Seat 3: mabeal1 (305 in chips) 
+MtRoucousAddict: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Td]
+MtRoucousAddict: calls 30
+mabeal1: raises 245 to 305 and is all-in
+MtRoucousAddict: folds 
+Uncalled bet (245) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: MtRoucousAddict (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259577633397: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:59:04 CET [2026/02/03 11:59:04 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (1135 in chips) 
+Seat 3: mabeal1 (365 in chips) 
+mabeal1: posts small blind 30
+MtRoucousAddict: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Th]
+mabeal1: raises 305 to 365 and is all-in
+MtRoucousAddict: calls 305
+*** FLOP *** [8c Ac 3c]
+*** TURN *** [8c Ac 3c] [2c]
+*** RIVER *** [8c Ac 3c 2c] [3s]
+*** SHOW DOWN ***
+MtRoucousAddict: shows [Qh Ad] (two pair, Aces and Threes)
+mabeal1: shows [Qc Th] (a flush, Ace high)
+mabeal1 collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [8c Ac 3c 2c 3s]
+Seat 2: MtRoucousAddict (big blind) showed [Qh Ad] and lost with two pair, Aces and Threes
+Seat 3: mabeal1 (button) (small blind) showed [Qc Th] and won (730) with a flush, Ace high
+
+
+
+PokerStars Hand #259577635152: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:59:16 CET [2026/02/03 11:59:16 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (770 in chips) 
+Seat 3: mabeal1 (730 in chips) 
+MtRoucousAddict: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Ks]
+MtRoucousAddict: calls 30
+mabeal1: checks 
+*** FLOP *** [8c 5c As]
+mabeal1: checks 
+MtRoucousAddict: checks 
+*** TURN *** [8c 5c As] [6s]
+mabeal1: bets 60
+MtRoucousAddict: calls 60
+*** RIVER *** [8c 5c As 6s] [Ac]
+mabeal1: checks 
+MtRoucousAddict: bets 240
+mabeal1: folds 
+Uncalled bet (240) returned to MtRoucousAddict
+MtRoucousAddict collected 240 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [8c 5c As 6s Ac]
+Seat 2: MtRoucousAddict (button) (small blind) collected (240)
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259577640568: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 17:59:55 CET [2026/02/03 11:59:55 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (890 in chips) 
+Seat 3: mabeal1 (610 in chips) 
+mabeal1: posts small blind 30
+MtRoucousAddict: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 2h]
+mabeal1: raises 550 to 610 and is all-in
+MtRoucousAddict: folds 
+Uncalled bet (550) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: MtRoucousAddict (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259577641881: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 18:00:03 CET [2026/02/03 12:00:03 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (830 in chips) 
+Seat 3: mabeal1 (670 in chips) 
+MtRoucousAddict: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Jh]
+MtRoucousAddict: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: MtRoucousAddict (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259577642461: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 18:00:07 CET [2026/02/03 12:00:07 ET]
+Table '3971746769 1' 3-max Seat #3 is the button
+Seat 2: MtRoucousAddict (800 in chips) 
+Seat 3: mabeal1 (700 in chips) 
+mabeal1: posts small blind 30
+MtRoucousAddict: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 6h]
+mabeal1: calls 30
+MtRoucousAddict: raises 740 to 800 and is all-in
+mabeal1: folds 
+Uncalled bet (740) returned to MtRoucousAddict
+MtRoucousAddict collected 120 from pot
+MtRoucousAddict: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: MtRoucousAddict (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259577644615: Tournament #3971746769, €0.46+€0.04 EUR Hold'em No Limit - Level V (40/80) - 2026/02/03 18:00:22 CET [2026/02/03 12:00:22 ET]
+Table '3971746769 1' 3-max Seat #2 is the button
+Seat 2: MtRoucousAddict (860 in chips) 
+Seat 3: mabeal1 (640 in chips) 
+MtRoucousAddict: posts small blind 40
+mabeal1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Kd]
+MtRoucousAddict: calls 40
+mabeal1: raises 560 to 640 and is all-in
+MtRoucousAddict: calls 560
+*** FLOP *** [4s 9s Tc]
+*** TURN *** [4s 9s Tc] [6h]
+*** RIVER *** [4s 9s Tc 6h] [2c]
+*** SHOW DOWN ***
+mabeal1: shows [7d Kd] (high card King)
+MtRoucousAddict: shows [Ks 2h] (a pair of Deuces)
+MtRoucousAddict collected 1280 from pot
+mabeal1 finished the tournament in 2nd place
+MtRoucousAddict wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Board [4s 9s Tc 6h 2c]
+Seat 2: MtRoucousAddict (button) (small blind) showed [Ks 2h] and won (1280) with a pair of Deuces
+Seat 3: mabeal1 (big blind) showed [7d Kd] and lost with high card King
+
+
+

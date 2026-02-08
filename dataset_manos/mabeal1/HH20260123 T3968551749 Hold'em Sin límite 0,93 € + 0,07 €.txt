@@ -1,0 +1,414 @@
+﻿PokerStars Hand #259436178265: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:20:06 CET [2026/01/23 20:20:06 ET]
+Table '3968551749 1' 3-max Seat #1 is the button
+Seat 1: Rodbotlo (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: ruisilver (500 in chips) 
+mabeal1: posts small blind 10
+ruisilver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 2s]
+Rodbotlo: calls 20
+mabeal1: folds 
+ruisilver: checks 
+*** FLOP *** [8c Js Qs]
+ruisilver: bets 20
+Rodbotlo: calls 20
+*** TURN *** [8c Js Qs] [7h]
+ruisilver: bets 20
+Rodbotlo: raises 80 to 100
+ruisilver: folds 
+Uncalled bet (80) returned to Rodbotlo
+Rodbotlo collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [8c Js Qs 7h]
+Seat 1: Rodbotlo (button) collected (130)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ruisilver (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259436182853: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:20:34 CET [2026/01/23 20:20:34 ET]
+Table '3968551749 1' 3-max Seat #2 is the button
+Seat 1: Rodbotlo (570 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: ruisilver (440 in chips) 
+ruisilver: posts small blind 10
+Rodbotlo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 4d]
+mabeal1: folds 
+ruisilver: calls 10
+Rodbotlo: checks 
+*** FLOP *** [Th 5c 6d]
+ruisilver: bets 20
+Rodbotlo: calls 20
+*** TURN *** [Th 5c 6d] [6c]
+ruisilver: checks 
+Rodbotlo: bets 120
+ruisilver: folds 
+Uncalled bet (120) returned to Rodbotlo
+Rodbotlo collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Th 5c 6d 6c]
+Seat 1: Rodbotlo (big blind) collected (80)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: ruisilver (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259436187900: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:21:05 CET [2026/01/23 20:21:05 ET]
+Table '3968551749 1' 3-max Seat #3 is the button
+Seat 1: Rodbotlo (610 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: ruisilver (400 in chips) 
+Rodbotlo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5d]
+ruisilver: calls 20
+Rodbotlo: raises 80 to 100
+mabeal1: folds 
+ruisilver: folds 
+Uncalled bet (80) returned to Rodbotlo
+Rodbotlo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Rodbotlo (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: ruisilver (button) folded before Flop
+
+
+
+PokerStars Hand #259436190572: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:21:21 CET [2026/01/23 20:21:21 ET]
+Table '3968551749 1' 3-max Seat #1 is the button
+Seat 1: Rodbotlo (650 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: ruisilver (380 in chips) 
+mabeal1: posts small blind 10
+ruisilver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc As]
+Rodbotlo: folds 
+mabeal1: raises 20 to 40
+ruisilver: calls 20
+*** FLOP *** [2h Qh 7s]
+mabeal1: bets 40
+ruisilver: calls 40
+*** TURN *** [2h Qh 7s] [9h]
+mabeal1: checks 
+ruisilver: bets 40
+mabeal1: calls 40
+*** RIVER *** [2h Qh 7s 9h] [8s]
+mabeal1: checks 
+ruisilver: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qc As] (a pair of Queens)
+ruisilver: mucks hand 
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [2h Qh 7s 9h 8s]
+Seat 1: Rodbotlo (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Qc As] and won (240) with a pair of Queens
+Seat 3: ruisilver (big blind) mucked [Kh 3c]
+
+
+
+PokerStars Hand #259436196366: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:21:57 CET [2026/01/23 20:21:57 ET]
+Table '3968551749 1' 3-max Seat #2 is the button
+Seat 1: Rodbotlo (650 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: ruisilver (260 in chips) 
+ruisilver: posts small blind 10
+Rodbotlo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Tc]
+mabeal1: raises 20 to 40
+ruisilver: folds 
+Rodbotlo: calls 20
+*** FLOP *** [5c 4s 7h]
+Rodbotlo: checks 
+mabeal1: checks 
+*** TURN *** [5c 4s 7h] [5s]
+Rodbotlo: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to Rodbotlo
+Rodbotlo collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5c 4s 7h 5s]
+Seat 1: Rodbotlo (big blind) collected (90)
+Seat 2: mabeal1 (button) folded on the Turn
+Seat 3: ruisilver (small blind) folded before Flop
+
+
+
+PokerStars Hand #259436200966: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:22:24 CET [2026/01/23 20:22:24 ET]
+Table '3968551749 1' 3-max Seat #3 is the button
+Seat 1: Rodbotlo (700 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: ruisilver (250 in chips) 
+Rodbotlo: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7s]
+ruisilver: folds 
+Rodbotlo: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Ks Ad 2d]
+Rodbotlo: bets 40
+mabeal1: calls 40
+*** TURN *** [Ks Ad 2d] [3s]
+Rodbotlo: bets 40
+mabeal1: calls 40
+*** RIVER *** [Ks Ad 2d 3s] [Qd]
+Rodbotlo: bets 100
+mabeal1: calls 100
+*** SHOW DOWN ***
+Rodbotlo: shows [Ac As] (three of a kind, Aces)
+mabeal1: mucks hand 
+Rodbotlo collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [Ks Ad 2d 3s Qd]
+Seat 1: Rodbotlo (small blind) showed [Ac As] and won (440) with three of a kind, Aces
+Seat 2: mabeal1 (big blind) mucked [Ah 7s]
+Seat 3: ruisilver (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259436206129: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/24 2:22:56 CET [2026/01/23 20:22:56 ET]
+Table '3968551749 1' 3-max Seat #1 is the button
+Seat 1: Rodbotlo (920 in chips) 
+Seat 2: mabeal1 (330 in chips) 
+Seat 3: ruisilver (250 in chips) 
+mabeal1: posts small blind 10
+ruisilver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3d]
+Rodbotlo: calls 20
+mabeal1: folds 
+ruisilver: raises 230 to 250 and is all-in
+Rodbotlo: calls 230
+*** FLOP *** [3c 2d 4h]
+*** TURN *** [3c 2d 4h] [6d]
+*** RIVER *** [3c 2d 4h 6d] [2s]
+*** SHOW DOWN ***
+ruisilver: shows [9h 9d] (two pair, Nines and Deuces)
+Rodbotlo: shows [Th Qc] (a pair of Deuces)
+ruisilver collected 510 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [3c 2d 4h 6d 2s]
+Seat 1: Rodbotlo (button) showed [Th Qc] and lost with a pair of Deuces
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: ruisilver (big blind) showed [9h 9d] and won (510) with two pair, Nines and Deuces
+
+
+
+PokerStars Hand #259436210107: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:23:20 CET [2026/01/23 20:23:20 ET]
+Table '3968551749 1' 3-max Seat #2 is the button
+Seat 1: Rodbotlo (670 in chips) 
+Seat 2: mabeal1 (320 in chips) 
+Seat 3: ruisilver (510 in chips) 
+ruisilver: posts small blind 15
+Rodbotlo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 3h]
+mabeal1: raises 290 to 320 and is all-in
+ruisilver: folds 
+Rodbotlo: calls 290
+*** FLOP *** [4s 5c Jh]
+*** TURN *** [4s 5c Jh] [2s]
+*** RIVER *** [4s 5c Jh 2s] [Qc]
+*** SHOW DOWN ***
+Rodbotlo: shows [3s Ts] (high card Queen)
+mabeal1: shows [As 3h] (a straight, Ace to Five)
+mabeal1 collected 655 from pot
+*** SUMMARY ***
+Total pot 655 | Rake 0 
+Board [4s 5c Jh 2s Qc]
+Seat 1: Rodbotlo (big blind) showed [3s Ts] and lost with high card Queen
+Seat 2: mabeal1 (button) showed [As 3h] and won (655) with a straight, Ace to Five
+Seat 3: ruisilver (small blind) folded before Flop
+
+
+
+PokerStars Hand #259436212724: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:23:36 CET [2026/01/23 20:23:36 ET]
+Table '3968551749 1' 3-max Seat #3 is the button
+Seat 1: Rodbotlo (350 in chips) 
+Seat 2: mabeal1 (655 in chips) 
+Seat 3: ruisilver (495 in chips) 
+Rodbotlo: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 3d]
+ruisilver: folds 
+Rodbotlo: raises 320 to 350 and is all-in
+mabeal1: folds 
+Uncalled bet (320) returned to Rodbotlo
+Rodbotlo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Rodbotlo (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: ruisilver (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259436214434: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:23:47 CET [2026/01/23 20:23:47 ET]
+Table '3968551749 1' 3-max Seat #1 is the button
+Seat 1: Rodbotlo (380 in chips) 
+Seat 2: mabeal1 (625 in chips) 
+Seat 3: ruisilver (495 in chips) 
+mabeal1: posts small blind 15
+ruisilver: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jd]
+Rodbotlo: calls 30
+mabeal1: raises 595 to 625 and is all-in
+ruisilver: calls 465 and is all-in
+Rodbotlo: folds 
+Uncalled bet (130) returned to mabeal1
+*** FLOP *** [3s 7h Jh]
+*** TURN *** [3s 7h Jh] [7s]
+*** RIVER *** [3s 7h Jh 7s] [Qh]
+*** SHOW DOWN ***
+mabeal1: shows [Jc Jd] (a full house, Jacks full of Sevens)
+ruisilver: shows [Ac 8s] (a pair of Sevens)
+mabeal1 collected 1020 from pot
+ruisilver finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [3s 7h Jh 7s Qh]
+Seat 1: Rodbotlo (button) folded before Flop
+Seat 2: mabeal1 (small blind) showed [Jc Jd] and won (1020) with a full house, Jacks full of Sevens
+Seat 3: ruisilver (big blind) showed [Ac 8s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #259436218290: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:24:11 CET [2026/01/23 20:24:11 ET]
+Table '3968551749 1' 3-max Seat #2 is the button
+Seat 1: Rodbotlo (350 in chips) 
+Seat 2: mabeal1 (1150 in chips) 
+mabeal1: posts small blind 15
+Rodbotlo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Jc]
+mabeal1: raises 30 to 60
+Rodbotlo: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Rodbotlo (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259436219572: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:24:18 CET [2026/01/23 20:24:18 ET]
+Table '3968551749 1' 3-max Seat #1 is the button
+Seat 1: Rodbotlo (320 in chips) 
+Seat 2: mabeal1 (1180 in chips) 
+Rodbotlo: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 2s]
+Rodbotlo: calls 15
+mabeal1: checks 
+*** FLOP *** [7h Td Ac]
+mabeal1: checks 
+Rodbotlo: bets 290 and is all-in
+mabeal1: folds 
+Uncalled bet (290) returned to Rodbotlo
+Rodbotlo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h Td Ac]
+Seat 1: Rodbotlo (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259436221693: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:24:31 CET [2026/01/23 20:24:31 ET]
+Table '3968551749 1' 3-max Seat #2 is the button
+Seat 1: Rodbotlo (350 in chips) 
+Seat 2: mabeal1 (1150 in chips) 
+mabeal1: posts small blind 15
+Rodbotlo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5d]
+mabeal1: calls 15
+Rodbotlo: raises 320 to 350 and is all-in
+mabeal1: folds 
+Uncalled bet (320) returned to Rodbotlo
+Rodbotlo collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Rodbotlo (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259436222934: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:24:39 CET [2026/01/23 20:24:39 ET]
+Table '3968551749 1' 3-max Seat #1 is the button
+Seat 1: Rodbotlo (380 in chips) 
+Seat 2: mabeal1 (1120 in chips) 
+Rodbotlo: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Js]
+Rodbotlo: calls 15
+mabeal1: checks 
+*** FLOP *** [Ks 7c 7s]
+mabeal1: checks 
+Rodbotlo: checks 
+*** TURN *** [Ks 7c 7s] [Kh]
+mabeal1: bets 30
+Rodbotlo: calls 30
+*** RIVER *** [Ks 7c 7s Kh] [6d]
+mabeal1: bets 90
+Rodbotlo: raises 120 to 210
+mabeal1: folds 
+Uncalled bet (120) returned to Rodbotlo
+Rodbotlo collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Ks 7c 7s Kh 6d]
+Seat 1: Rodbotlo (button) (small blind) collected (300)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259436226574: Tournament #3968551749, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/24 2:25:01 CET [2026/01/23 20:25:01 ET]
+Table '3968551749 1' 3-max Seat #2 is the button
+Seat 1: Rodbotlo (530 in chips) 
+Seat 2: mabeal1 (970 in chips) 
+mabeal1: posts small blind 15
+Rodbotlo: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 8d]
+mabeal1: calls 15
+Rodbotlo: checks 
+*** FLOP *** [Js 9h 3h]
+Rodbotlo: bets 500 and is all-in
+mabeal1: calls 500
+*** TURN *** [Js 9h 3h] [Qd]
+*** RIVER *** [Js 9h 3h Qd] [9s]
+*** SHOW DOWN ***
+Rodbotlo: shows [3s 2d] (two pair, Nines and Threes)
+mabeal1: shows [Ts 8d] (a straight, Eight to Queen)
+mabeal1 collected 1060 from pot
+Rodbotlo finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [Js 9h 3h Qd 9s]
+Seat 1: Rodbotlo (big blind) showed [3s 2d] and lost with two pair, Nines and Threes
+Seat 2: mabeal1 (button) (small blind) showed [Ts 8d] and won (1060) with a straight, Eight to Queen
+
+
+

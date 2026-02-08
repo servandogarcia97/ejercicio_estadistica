@@ -1,0 +1,90 @@
+﻿PokerStars Hand #259561523679: Tournament #3971389783, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:06:55 CET [2026/02/02 8:06:55 ET]
+Table '3971389783 1' 3-max Seat #1 is the button
+Seat 1: jamain15 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: jcortes1984 (500 in chips) 
+mabeal1: posts small blind 10
+jcortes1984: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Kd]
+jamain15: raises 20 to 40
+mabeal1: calls 30
+jcortes1984: calls 20
+*** FLOP *** [3s 7h 3h]
+mabeal1: checks 
+jcortes1984: checks 
+jamain15: bets 120
+mabeal1: folds 
+jcortes1984: folds 
+Uncalled bet (120) returned to jamain15
+jamain15 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3s 7h 3h]
+Seat 1: jamain15 (button) collected (120)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: jcortes1984 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259561526688: Tournament #3971389783, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:07:19 CET [2026/02/02 8:07:19 ET]
+Table '3971389783 1' 3-max Seat #2 is the button
+Seat 1: jamain15 (580 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: jcortes1984 (460 in chips) 
+jcortes1984: posts small blind 10
+jamain15: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 8s]
+mabeal1: raises 440 to 460 and is all-in
+jcortes1984: folds 
+jamain15: folds 
+Uncalled bet (440) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: jamain15 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: jcortes1984 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561528597: Tournament #3971389783, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 14:07:34 CET [2026/02/02 8:07:34 ET]
+Table '3971389783 1' 3-max Seat #3 is the button
+Seat 1: jamain15 (560 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: jcortes1984 (450 in chips) 
+jamain15: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3d]
+jcortes1984: calls 20
+jamain15: calls 10
+mabeal1: checks 
+*** FLOP *** [Ad 5d 4c]
+jamain15: checks 
+mabeal1: bets 40
+jcortes1984: folds 
+jamain15: calls 40
+*** TURN *** [Ad 5d 4c] [2h]
+jamain15: checks 
+mabeal1: bets 105
+jamain15: raises 105 to 210
+mabeal1: raises 220 to 430 and is all-in
+jamain15: calls 220
+*** RIVER *** [Ad 5d 4c 2h] [9c]
+*** SHOW DOWN ***
+jamain15: shows [6s 3s] (a straight, Deuce to Six)
+mabeal1: shows [9d 3d] (a straight, Ace to Five)
+jamain15 collected 1000 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [Ad 5d 4c 2h 9c]
+Seat 1: jamain15 (small blind) showed [6s 3s] and won (1000) with a straight, Deuce to Six
+Seat 2: mabeal1 (big blind) showed [9d 3d] and lost with a straight, Ace to Five
+Seat 3: jcortes1984 (button) folded on the Flop
+
+
+

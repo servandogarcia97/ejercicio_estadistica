@@ -1,0 +1,102 @@
+﻿PokerStars Hand #259616353087: Tournament #3972651512, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:21:32 CET [2026/02/06 11:21:32 ET]
+Table '3972651512 1' 3-max Seat #1 is the button
+Seat 1: clemocemal (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: estrellas222 (500 in chips) 
+mabeal1: posts small blind 10
+estrellas222: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Js]
+clemocemal: calls 20
+mabeal1: folds 
+estrellas222: checks 
+*** FLOP *** [Jh Qc Td]
+estrellas222: bets 20
+clemocemal: calls 20
+*** TURN *** [Jh Qc Td] [4d]
+estrellas222: bets 20
+clemocemal: calls 20
+*** RIVER *** [Jh Qc Td 4d] [Ts]
+estrellas222: bets 130
+clemocemal: calls 130
+*** SHOW DOWN ***
+estrellas222: shows [3s 8s] (a pair of Tens)
+clemocemal: shows [Qd 3h] (two pair, Queens and Tens)
+clemocemal collected 390 from pot
+*** SUMMARY ***
+Total pot 390 | Rake 0 
+Board [Jh Qc Td 4d Ts]
+Seat 1: clemocemal (button) showed [Qd 3h] and won (390) with two pair, Queens and Tens
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: estrellas222 (big blind) showed [3s 8s] and lost with a pair of Tens
+
+
+
+PokerStars Hand #259616357586: Tournament #3972651512, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:21:57 CET [2026/02/06 11:21:57 ET]
+Table '3972651512 1' 3-max Seat #2 is the button
+Seat 1: clemocemal (700 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: estrellas222 (310 in chips) 
+estrellas222: posts small blind 10
+clemocemal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 8d]
+mabeal1: folds 
+estrellas222: calls 10
+clemocemal: checks 
+*** FLOP *** [2c Th Jd]
+estrellas222: bets 20
+clemocemal: calls 20
+*** TURN *** [2c Th Jd] [Ac]
+estrellas222: bets 20
+clemocemal: calls 20
+*** RIVER *** [2c Th Jd Ac] [9h]
+estrellas222: bets 20
+clemocemal: calls 20
+*** SHOW DOWN ***
+estrellas222: shows [8s Ts] (a pair of Tens)
+clemocemal: mucks hand 
+estrellas222 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2c Th Jd Ac 9h]
+Seat 1: clemocemal (big blind) mucked [Qh 9d]
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: estrellas222 (small blind) showed [8s Ts] and won (160) with a pair of Tens
+
+
+
+PokerStars Hand #259616360984: Tournament #3972651512, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 17:22:15 CET [2026/02/06 11:22:15 ET]
+Table '3972651512 1' 3-max Seat #3 is the button
+Seat 1: clemocemal (620 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: estrellas222 (390 in chips) 
+clemocemal: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 7d]
+estrellas222: raises 370 to 390 and is all-in
+clemocemal: raises 230 to 620 and is all-in
+mabeal1: calls 470 and is all-in
+Uncalled bet (130) returned to clemocemal
+*** FLOP *** [8d 2d 3s]
+*** TURN *** [8d 2d 3s] [Th]
+*** RIVER *** [8d 2d 3s Th] [8s]
+*** SHOW DOWN ***
+clemocemal: shows [8c Ac] (three of a kind, Eights)
+mabeal1: shows [7c 7d] (two pair, Eights and Sevens)
+clemocemal collected 200 from side pot
+estrellas222: shows [5d 5h] (two pair, Eights and Fives)
+clemocemal collected 1170 from main pot
+mabeal1 finished the tournament in 2nd place
+estrellas222 finished the tournament in 3rd place
+clemocemal wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 1370 Main pot 1170. Side pot 200. | Rake 0 
+Board [8d 2d 3s Th 8s]
+Seat 1: clemocemal (small blind) showed [8c Ac] and won (1370) with three of a kind, Eights
+Seat 2: mabeal1 (big blind) showed [7c 7d] and lost with two pair, Eights and Sevens
+Seat 3: estrellas222 (button) showed [5d 5h] and lost with two pair, Eights and Fives
+
+
+

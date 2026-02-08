@@ -1,0 +1,304 @@
+﻿PokerStars Hand #259477001639: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 0:55:15 CET [2026/01/26 18:55:15 ET]
+Table '3969455424 1' 3-max Seat #1 is the button
+Seat 1: dxijay (500 in chips) 
+Seat 2: Vincenzo0621 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Vincenzo0621: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 3d]
+dxijay: folds 
+Vincenzo0621: calls 10
+mabeal1: checks 
+*** FLOP *** [9c Kd 2d]
+Vincenzo0621: checks 
+mabeal1: checks 
+*** TURN *** [9c Kd 2d] [Ad]
+Vincenzo0621: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to Vincenzo0621
+Vincenzo0621 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c Kd 2d Ad]
+Seat 1: dxijay (button) folded before Flop (didn't bet)
+Seat 2: Vincenzo0621 (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259477006319: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 0:55:48 CET [2026/01/26 18:55:48 ET]
+Table '3969455424 1' 3-max Seat #2 is the button
+Seat 1: dxijay (500 in chips) 
+Seat 2: Vincenzo0621 (520 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+dxijay: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Qc]
+Vincenzo0621: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to dxijay
+dxijay collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: dxijay (big blind) collected (20)
+Seat 2: Vincenzo0621 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259477008362: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 0:56:02 CET [2026/01/26 18:56:02 ET]
+Table '3969455424 1' 3-max Seat #3 is the button
+Seat 1: dxijay (510 in chips) 
+Seat 2: Vincenzo0621 (520 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+dxijay: posts small blind 10
+Vincenzo0621: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2h]
+mabeal1: folds 
+dxijay: raises 20 to 40
+Vincenzo0621: calls 20
+*** FLOP *** [3h 9c Qc]
+dxijay: checks 
+Vincenzo0621: bets 80
+dxijay: folds 
+Uncalled bet (80) returned to Vincenzo0621
+Vincenzo0621 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h 9c Qc]
+Seat 1: dxijay (small blind) folded on the Flop
+Seat 2: Vincenzo0621 (big blind) collected (80)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259477011056: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 0:56:21 CET [2026/01/26 18:56:21 ET]
+Table '3969455424 1' 3-max Seat #1 is the button
+Seat 1: dxijay (470 in chips) 
+Seat 2: Vincenzo0621 (560 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+Vincenzo0621: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5c]
+dxijay: folds 
+Vincenzo0621: calls 10
+mabeal1: checks 
+*** FLOP *** [6h 2d 8s]
+Vincenzo0621: checks 
+mabeal1: bets 20
+Vincenzo0621: calls 20
+*** TURN *** [6h 2d 8s] [Ad]
+Vincenzo0621: checks 
+mabeal1: checks 
+*** RIVER *** [6h 2d 8s Ad] [Td]
+Vincenzo0621: checks 
+mabeal1: bets 40
+Vincenzo0621: calls 40
+*** SHOW DOWN ***
+mabeal1: shows [8d 5c] (a pair of Eights)
+Vincenzo0621: shows [6c Ac] (two pair, Aces and Sixes)
+Vincenzo0621 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6h 2d 8s Ad Td]
+Seat 1: dxijay (button) folded before Flop (didn't bet)
+Seat 2: Vincenzo0621 (small blind) showed [6c Ac] and won (160) with two pair, Aces and Sixes
+Seat 3: mabeal1 (big blind) showed [8d 5c] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259477015325: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 0:56:50 CET [2026/01/26 18:56:50 ET]
+Table '3969455424 1' 3-max Seat #2 is the button
+Seat 1: dxijay (470 in chips) 
+Seat 2: Vincenzo0621 (640 in chips) 
+Seat 3: mabeal1 (390 in chips) 
+mabeal1: posts small blind 10
+dxijay: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kh]
+Vincenzo0621: folds 
+mabeal1: raises 20 to 40
+dxijay: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: dxijay (big blind) folded before Flop
+Seat 2: Vincenzo0621 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259477018733: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 0:57:14 CET [2026/01/26 18:57:14 ET]
+Table '3969455424 1' 3-max Seat #3 is the button
+Seat 1: dxijay (450 in chips) 
+Seat 2: Vincenzo0621 (640 in chips) 
+Seat 3: mabeal1 (410 in chips) 
+dxijay: posts small blind 10
+Vincenzo0621: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Kc]
+mabeal1: raises 20 to 40
+dxijay: folds 
+Vincenzo0621: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: dxijay (small blind) folded before Flop
+Seat 2: Vincenzo0621 (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (50)
+
+
+
+PokerStars Hand #259477020390: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 0:57:25 CET [2026/01/26 18:57:25 ET]
+Table '3969455424 1' 3-max Seat #1 is the button
+Seat 1: dxijay (440 in chips) 
+Seat 2: Vincenzo0621 (620 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+Vincenzo0621: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 7d]
+dxijay: folds 
+Vincenzo0621: calls 15
+mabeal1: checks 
+*** FLOP *** [6d Kh 7s]
+Vincenzo0621: bets 60
+mabeal1: calls 60
+*** TURN *** [6d Kh 7s] [2s]
+Vincenzo0621: checks 
+mabeal1: checks 
+*** RIVER *** [6d Kh 7s 2s] [3d]
+Vincenzo0621: bets 90
+mabeal1: calls 90
+*** SHOW DOWN ***
+Vincenzo0621: shows [8s 7h] (a pair of Sevens)
+mabeal1: shows [Th 7d] (a pair of Sevens - King+Ten kicker)
+mabeal1 collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6d Kh 7s 2s 3d]
+Seat 1: dxijay (button) folded before Flop (didn't bet)
+Seat 2: Vincenzo0621 (small blind) showed [8s 7h] and lost with a pair of Sevens
+Seat 3: mabeal1 (big blind) showed [Th 7d] and won (360) with a pair of Sevens
+
+
+
+PokerStars Hand #259477024402: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 0:57:53 CET [2026/01/26 18:57:53 ET]
+Table '3969455424 1' 3-max Seat #2 is the button
+Seat 1: dxijay (440 in chips) 
+Seat 2: Vincenzo0621 (440 in chips) 
+Seat 3: mabeal1 (620 in chips) 
+mabeal1: posts small blind 15
+dxijay: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 2s]
+Vincenzo0621: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to dxijay
+dxijay collected 30 from pot
+dxijay: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: dxijay (big blind) collected (30)
+Seat 2: Vincenzo0621 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259477026597: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 0:58:07 CET [2026/01/26 18:58:07 ET]
+Table '3969455424 1' 3-max Seat #3 is the button
+Seat 1: dxijay (455 in chips) 
+Seat 2: Vincenzo0621 (440 in chips) 
+Seat 3: mabeal1 (605 in chips) 
+dxijay: posts small blind 15
+Vincenzo0621: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Jd]
+mabeal1: folds 
+dxijay: raises 30 to 60
+Vincenzo0621: folds 
+Uncalled bet (30) returned to dxijay
+dxijay collected 60 from pot
+dxijay: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: dxijay (small blind) collected (60)
+Seat 2: Vincenzo0621 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259477027935: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 0:58:17 CET [2026/01/26 18:58:17 ET]
+Table '3969455424 1' 3-max Seat #1 is the button
+Seat 1: dxijay (485 in chips) 
+Seat 2: Vincenzo0621 (410 in chips) 
+Seat 3: mabeal1 (605 in chips) 
+Vincenzo0621: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jh]
+dxijay: raises 30 to 60
+Vincenzo0621: calls 45
+mabeal1: raises 545 to 605 and is all-in
+dxijay: folds 
+Vincenzo0621: calls 350 and is all-in
+Uncalled bet (195) returned to mabeal1
+*** FLOP *** [9d Kh 5c]
+*** TURN *** [9d Kh 5c] [8s]
+*** RIVER *** [9d Kh 5c 8s] [As]
+*** SHOW DOWN ***
+Vincenzo0621: shows [9c 6c] (a pair of Nines)
+mabeal1: shows [Jc Jh] (a pair of Jacks)
+mabeal1 collected 880 from pot
+Vincenzo0621 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [9d Kh 5c 8s As]
+Seat 1: dxijay (button) folded before Flop
+Seat 2: Vincenzo0621 (small blind) showed [9c 6c] and lost with a pair of Nines
+Seat 3: mabeal1 (big blind) showed [Jc Jh] and won (880) with a pair of Jacks
+
+
+
+PokerStars Hand #259477031348: Tournament #3969455424, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 0:58:40 CET [2026/01/26 18:58:40 ET]
+Table '3969455424 1' 3-max Seat #3 is the button
+Seat 1: dxijay (425 in chips) 
+Seat 3: mabeal1 (1075 in chips) 
+mabeal1: posts small blind 15
+dxijay: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Ks]
+mabeal1: raises 30 to 60
+dxijay: calls 30
+*** FLOP *** [6h 6c 2c]
+dxijay: checks 
+mabeal1: bets 45
+dxijay: calls 45
+*** TURN *** [6h 6c 2c] [Js]
+dxijay: checks 
+mabeal1: checks 
+*** RIVER *** [6h 6c 2c Js] [2h]
+dxijay: bets 320 and is all-in
+mabeal1: calls 320
+*** SHOW DOWN ***
+dxijay: shows [Ac 7c] (two pair, Sixes and Deuces)
+mabeal1: shows [Jc Ks] (two pair, Jacks and Sixes)
+mabeal1 collected 850 from pot
+dxijay finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [6h 6c 2c Js 2h]
+Seat 1: dxijay (big blind) showed [Ac 7c] and lost with two pair, Sixes and Deuces
+Seat 3: mabeal1 (button) (small blind) showed [Jc Ks] and won (850) with two pair, Jacks and Sixes
+
+
+

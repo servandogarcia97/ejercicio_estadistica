@@ -1,0 +1,756 @@
+﻿PokerStars Hand #259602773429: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:05:02 CET [2026/02/05 12:05:02 ET]
+Table '3972340609 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: suricat0o (500 in chips) 
+Seat 3: gigaras (500 in chips) 
+suricat0o: posts small blind 10
+gigaras: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7d]
+mabeal1: raises 20 to 40
+suricat0o: folds 
+gigaras: calls 20
+*** FLOP *** [Jd 9c Ts]
+gigaras: checks 
+mabeal1: checks 
+*** TURN *** [Jd 9c Ts] [5c]
+gigaras: checks 
+mabeal1: checks 
+*** RIVER *** [Jd 9c Ts 5c] [6d]
+gigaras: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+gigaras: shows [3c 2d] (high card Jack)
+mabeal1: shows [Kd 7d] (high card King)
+mabeal1 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Jd 9c Ts 5c 6d]
+Seat 1: mabeal1 (button) showed [Kd 7d] and won (90) with high card King
+Seat 2: suricat0o (small blind) folded before Flop
+Seat 3: gigaras (big blind) showed [3c 2d] and lost with high card Jack
+
+
+
+PokerStars Hand #259602777516: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:05:23 CET [2026/02/05 12:05:23 ET]
+Table '3972340609 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: suricat0o (490 in chips) 
+Seat 3: gigaras (460 in chips) 
+gigaras: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7s]
+suricat0o: folds 
+gigaras: calls 10
+mabeal1: checks 
+*** FLOP *** [8h Ad 3s]
+gigaras: checks 
+mabeal1: checks 
+*** TURN *** [8h Ad 3s] [4s]
+gigaras: checks 
+mabeal1: checks 
+*** RIVER *** [8h Ad 3s 4s] [2d]
+gigaras: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+gigaras: shows [6d Jc] (high card Ace)
+mabeal1: shows [4h 7s] (a pair of Fours)
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8h Ad 3s 4s 2d]
+Seat 1: mabeal1 (big blind) showed [4h 7s] and won (40) with a pair of Fours
+Seat 2: suricat0o (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) showed [6d Jc] and lost with high card Ace
+
+
+
+PokerStars Hand #259602781845: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:05:46 CET [2026/02/05 12:05:46 ET]
+Table '3972340609 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: suricat0o (490 in chips) 
+Seat 3: gigaras (440 in chips) 
+mabeal1: posts small blind 10
+suricat0o: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 6d]
+gigaras: calls 20
+mabeal1: folds 
+suricat0o: raises 40 to 60
+gigaras: calls 40
+*** FLOP *** [Ac 5d 4c]
+suricat0o: checks 
+gigaras: checks 
+*** TURN *** [Ac 5d 4c] [2s]
+suricat0o: bets 43
+gigaras: calls 43
+*** RIVER *** [Ac 5d 4c 2s] [Ad]
+suricat0o: bets 108
+gigaras: folds 
+Uncalled bet (108) returned to suricat0o
+suricat0o collected 216 from pot
+suricat0o: doesn't show hand 
+*** SUMMARY ***
+Total pot 216 | Rake 0 
+Board [Ac 5d 4c 2s Ad]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: suricat0o (big blind) collected (216)
+Seat 3: gigaras (button) folded on the River
+
+
+
+PokerStars Hand #259602788439: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:06:19 CET [2026/02/05 12:06:19 ET]
+Table '3972340609 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: suricat0o (603 in chips) 
+Seat 3: gigaras (337 in chips) 
+suricat0o: posts small blind 10
+gigaras: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7s]
+mabeal1: folds 
+suricat0o: calls 10
+gigaras: checks 
+*** FLOP *** [Ac Qc As]
+suricat0o: checks 
+gigaras: checks 
+*** TURN *** [Ac Qc As] [2d]
+suricat0o: bets 40
+gigaras: folds 
+Uncalled bet (40) returned to suricat0o
+suricat0o collected 40 from pot
+suricat0o: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac Qc As 2d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: suricat0o (small blind) collected (40)
+Seat 3: gigaras (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259602792725: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:06:41 CET [2026/02/05 12:06:41 ET]
+Table '3972340609 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: suricat0o (623 in chips) 
+Seat 3: gigaras (317 in chips) 
+gigaras: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Qh]
+suricat0o: folds 
+gigaras: calls 10
+mabeal1: checks 
+*** FLOP *** [4h 4c 7c]
+gigaras: checks 
+mabeal1: checks 
+*** TURN *** [4h 4c 7c] [3h]
+gigaras: checks 
+mabeal1: bets 30
+gigaras: calls 30
+*** RIVER *** [4h 4c 7c 3h] [7s]
+gigaras: bets 100
+mabeal1: folds 
+Uncalled bet (100) returned to gigaras
+gigaras collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4h 4c 7c 3h 7s]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: suricat0o (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) collected (100)
+
+
+
+PokerStars Hand #259602799634: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:07:17 CET [2026/02/05 12:07:17 ET]
+Table '3972340609 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: suricat0o (623 in chips) 
+Seat 3: gigaras (367 in chips) 
+mabeal1: posts small blind 10
+suricat0o: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 3d]
+gigaras: raises 20 to 40
+mabeal1: folds 
+suricat0o: calls 20
+*** FLOP *** [Tc 8c Kc]
+suricat0o: checks 
+gigaras: bets 90
+suricat0o: calls 90
+*** TURN *** [Tc 8c Kc] [Ac]
+suricat0o: bets 135
+gigaras: folds 
+Uncalled bet (135) returned to suricat0o
+suricat0o collected 270 from pot
+suricat0o: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Tc 8c Kc Ac]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: suricat0o (big blind) collected (270)
+Seat 3: gigaras (button) folded on the Turn
+
+
+
+PokerStars Hand #259602804336: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 18:07:41 CET [2026/02/05 12:07:41 ET]
+Table '3972340609 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: suricat0o (763 in chips) 
+Seat 3: gigaras (237 in chips) 
+suricat0o: posts small blind 10
+gigaras: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 3d]
+mabeal1: folds 
+suricat0o: calls 10
+gigaras: checks 
+*** FLOP *** [2h 7c 9c]
+suricat0o: checks 
+gigaras: checks 
+*** TURN *** [2h 7c 9c] [5s]
+suricat0o: bets 30
+gigaras: raises 30 to 60
+suricat0o: calls 30
+*** RIVER *** [2h 7c 9c 5s] [8h]
+suricat0o: bets 53
+gigaras: calls 53
+*** SHOW DOWN ***
+suricat0o: shows [Kh 7h] (a pair of Sevens)
+gigaras: shows [9s 4h] (a pair of Nines)
+gigaras collected 266 from pot
+*** SUMMARY ***
+Total pot 266 | Rake 0 
+Board [2h 7c 9c 5s 8h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: suricat0o (small blind) showed [Kh 7h] and lost with a pair of Sevens
+Seat 3: gigaras (big blind) showed [9s 4h] and won (266) with a pair of Nines
+
+
+
+PokerStars Hand #259602810759: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:08:14 CET [2026/02/05 12:08:14 ET]
+Table '3972340609 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: suricat0o (630 in chips) 
+Seat 3: gigaras (370 in chips) 
+gigaras: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qs]
+suricat0o: folds 
+gigaras: calls 15
+mabeal1: raises 470 to 500 and is all-in
+gigaras: folds 
+Uncalled bet (470) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: suricat0o (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602812684: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:08:24 CET [2026/02/05 12:08:24 ET]
+Table '3972340609 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: suricat0o (630 in chips) 
+Seat 3: gigaras (340 in chips) 
+mabeal1: posts small blind 15
+suricat0o: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Th]
+gigaras: calls 30
+mabeal1: folds 
+suricat0o: checks 
+*** FLOP *** [Kc 7h Ks]
+suricat0o: bets 56
+gigaras: calls 56
+*** TURN *** [Kc 7h Ks] [8c]
+suricat0o: bets 62
+gigaras: calls 62
+*** RIVER *** [Kc 7h Ks 8c] [Qc]
+suricat0o: bets 103
+gigaras: calls 103
+*** SHOW DOWN ***
+suricat0o: shows [7s 3d] (two pair, Kings and Sevens)
+gigaras: shows [Qs 7d] (two pair, Kings and Queens)
+gigaras collected 517 from pot
+*** SUMMARY ***
+Total pot 517 | Rake 0 
+Board [Kc 7h Ks 8c Qc]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: suricat0o (big blind) showed [7s 3d] and lost with two pair, Kings and Sevens
+Seat 3: gigaras (button) showed [Qs 7d] and won (517) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #259602818446: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:08:54 CET [2026/02/05 12:08:54 ET]
+Table '3972340609 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (515 in chips) 
+Seat 2: suricat0o (379 in chips) 
+Seat 3: gigaras (606 in chips) 
+suricat0o: posts small blind 15
+gigaras: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 5c]
+mabeal1: raises 30 to 60
+suricat0o: raises 120 to 180
+gigaras: folds 
+mabeal1: folds 
+Uncalled bet (120) returned to suricat0o
+suricat0o collected 150 from pot
+suricat0o: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: suricat0o (small blind) collected (150)
+Seat 3: gigaras (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602822897: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:09:17 CET [2026/02/05 12:09:17 ET]
+Table '3972340609 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 2: suricat0o (469 in chips) 
+Seat 3: gigaras (576 in chips) 
+gigaras: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 2d]
+suricat0o: folds 
+gigaras: calls 15
+mabeal1: checks 
+*** FLOP *** [3c 5d Jd]
+gigaras: checks 
+mabeal1: checks 
+*** TURN *** [3c 5d Jd] [9h]
+gigaras: checks 
+mabeal1: bets 45
+gigaras: calls 45
+*** RIVER *** [3c 5d Jd 9h] [6s]
+gigaras: checks 
+mabeal1: bets 380 and is all-in
+gigaras: folds 
+Uncalled bet (380) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [3c 5d Jd 9h 6s]
+Seat 1: mabeal1 (big blind) collected (150)
+Seat 2: suricat0o (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) folded on the River
+
+
+
+PokerStars Hand #259602827466: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:09:40 CET [2026/02/05 12:09:40 ET]
+Table '3972340609 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: suricat0o (469 in chips) 
+Seat 3: gigaras (501 in chips) 
+mabeal1: posts small blind 15
+suricat0o: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Qh]
+gigaras: calls 30
+mabeal1: raises 45 to 75
+suricat0o: folds 
+gigaras: calls 45
+*** FLOP *** [Th 8s Ah]
+mabeal1: checks 
+gigaras: checks 
+*** TURN *** [Th 8s Ah] [8c]
+mabeal1: checks 
+gigaras: checks 
+*** RIVER *** [Th 8s Ah 8c] [4c]
+mabeal1: bets 135
+gigaras: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Th 8s Ah 8c 4c]
+Seat 1: mabeal1 (small blind) collected (180)
+Seat 2: suricat0o (big blind) folded before Flop
+Seat 3: gigaras (button) folded on the River
+
+
+
+PokerStars Hand #259602837310: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:10:32 CET [2026/02/05 12:10:32 ET]
+Table '3972340609 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (635 in chips) 
+Seat 2: suricat0o (439 in chips) 
+Seat 3: gigaras (426 in chips) 
+suricat0o: posts small blind 15
+gigaras: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Qc]
+mabeal1: raises 30 to 60
+suricat0o: calls 45
+gigaras: calls 30
+*** FLOP *** [4d 4h 7h]
+suricat0o: bets 379 and is all-in
+gigaras: folds 
+mabeal1: folds 
+Uncalled bet (379) returned to suricat0o
+suricat0o collected 180 from pot
+suricat0o: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4d 4h 7h]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: suricat0o (small blind) collected (180)
+Seat 3: gigaras (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259602840105: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 18:10:46 CET [2026/02/05 12:10:46 ET]
+Table '3972340609 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (575 in chips) 
+Seat 2: suricat0o (559 in chips) 
+Seat 3: gigaras (366 in chips) 
+gigaras: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Jc]
+suricat0o: folds 
+gigaras: calls 15
+mabeal1: raises 60 to 90
+gigaras: calls 60
+*** FLOP *** [6d Kc 8d]
+gigaras: checks 
+mabeal1: bets 90
+gigaras: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6d Kc 8d]
+Seat 1: mabeal1 (big blind) collected (180)
+Seat 2: suricat0o (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259602844670: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:11:09 CET [2026/02/05 12:11:09 ET]
+Table '3972340609 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (665 in chips) 
+Seat 2: suricat0o (559 in chips) 
+Seat 3: gigaras (276 in chips) 
+mabeal1: posts small blind 20
+suricat0o: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qh]
+gigaras: calls 40
+mabeal1: raises 625 to 665 and is all-in
+suricat0o: folds 
+gigaras: folds 
+Uncalled bet (625) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (120)
+Seat 2: suricat0o (big blind) folded before Flop
+Seat 3: gigaras (button) folded before Flop
+
+
+
+PokerStars Hand #259602846291: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:11:17 CET [2026/02/05 12:11:17 ET]
+Table '3972340609 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (745 in chips) 
+Seat 2: suricat0o (519 in chips) 
+Seat 3: gigaras (236 in chips) 
+suricat0o: posts small blind 20
+gigaras: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 8d]
+mabeal1: folds 
+suricat0o: raises 40 to 80
+gigaras: calls 40
+*** FLOP *** [2c 9d Th]
+suricat0o: checks 
+gigaras: checks 
+*** TURN *** [2c 9d Th] [Jh]
+suricat0o: bets 53
+gigaras: calls 53
+*** RIVER *** [2c 9d Th Jh] [Ks]
+suricat0o: bets 128
+gigaras: calls 103 and is all-in
+Uncalled bet (25) returned to suricat0o
+*** SHOW DOWN ***
+suricat0o: shows [Tc 7c] (a pair of Tens)
+gigaras: shows [7d Qc] (a straight, Nine to King)
+gigaras collected 472 from pot
+*** SUMMARY ***
+Total pot 472 | Rake 0 
+Board [2c 9d Th Jh Ks]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: suricat0o (small blind) showed [Tc 7c] and lost with a pair of Tens
+Seat 3: gigaras (big blind) showed [7d Qc] and won (472) with a straight, Nine to King
+
+
+
+PokerStars Hand #259602854245: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:11:58 CET [2026/02/05 12:11:58 ET]
+Table '3972340609 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (745 in chips) 
+Seat 2: suricat0o (283 in chips) 
+Seat 3: gigaras (472 in chips) 
+gigaras: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Ad]
+suricat0o: folds 
+gigaras: calls 20
+mabeal1: raises 705 to 745 and is all-in
+gigaras: calls 432 and is all-in
+Uncalled bet (273) returned to mabeal1
+*** FLOP *** [Jc 7s Jd]
+*** TURN *** [Jc 7s Jd] [Js]
+*** RIVER *** [Jc 7s Jd Js] [2d]
+*** SHOW DOWN ***
+gigaras: shows [Jh Ac] (four of a kind, Jacks)
+mabeal1: shows [Qc Ad] (three of a kind, Jacks)
+gigaras collected 944 from pot
+*** SUMMARY ***
+Total pot 944 | Rake 0 
+Board [Jc 7s Jd Js 2d]
+Seat 1: mabeal1 (big blind) showed [Qc Ad] and lost with three of a kind, Jacks
+Seat 2: suricat0o (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) showed [Jh Ac] and won (944) with four of a kind, Jacks
+
+
+
+PokerStars Hand #259602857583: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:12:15 CET [2026/02/05 12:12:15 ET]
+Table '3972340609 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (273 in chips) 
+Seat 2: suricat0o (283 in chips) 
+Seat 3: gigaras (944 in chips) 
+mabeal1: posts small blind 20
+suricat0o: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 5s]
+gigaras: calls 40
+mabeal1: folds 
+suricat0o: raises 243 to 283 and is all-in
+gigaras: folds 
+Uncalled bet (243) returned to suricat0o
+suricat0o collected 100 from pot
+suricat0o: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: suricat0o (big blind) collected (100)
+Seat 3: gigaras (button) folded before Flop
+
+
+
+PokerStars Hand #259602859825: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:12:26 CET [2026/02/05 12:12:26 ET]
+Table '3972340609 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (253 in chips) 
+Seat 2: suricat0o (343 in chips) 
+Seat 3: gigaras (904 in chips) 
+suricat0o: posts small blind 20
+gigaras: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 4c]
+mabeal1: raises 213 to 253 and is all-in
+suricat0o: folds 
+gigaras: folds 
+Uncalled bet (213) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) collected (100)
+Seat 2: suricat0o (small blind) folded before Flop
+Seat 3: gigaras (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602862713: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:12:41 CET [2026/02/05 12:12:41 ET]
+Table '3972340609 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (313 in chips) 
+Seat 2: suricat0o (323 in chips) 
+Seat 3: gigaras (864 in chips) 
+gigaras: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8d]
+suricat0o: raises 283 to 323 and is all-in
+gigaras: folds 
+mabeal1: folds 
+Uncalled bet (283) returned to suricat0o
+suricat0o collected 100 from pot
+suricat0o: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: suricat0o (button) collected (100)
+Seat 3: gigaras (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602864060: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:12:48 CET [2026/02/05 12:12:48 ET]
+Table '3972340609 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (273 in chips) 
+Seat 2: suricat0o (383 in chips) 
+Seat 3: gigaras (844 in chips) 
+mabeal1: posts small blind 20
+suricat0o: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4s]
+gigaras: calls 40
+mabeal1: calls 20
+suricat0o: raises 343 to 383 and is all-in
+gigaras: folds 
+mabeal1: folds 
+Uncalled bet (343) returned to suricat0o
+suricat0o collected 120 from pot
+suricat0o: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: suricat0o (big blind) collected (120)
+Seat 3: gigaras (button) folded before Flop
+
+
+
+PokerStars Hand #259602866238: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:12:59 CET [2026/02/05 12:12:59 ET]
+Table '3972340609 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (233 in chips) 
+Seat 2: suricat0o (463 in chips) 
+Seat 3: gigaras (804 in chips) 
+suricat0o: posts small blind 20
+gigaras: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 8h]
+mabeal1: folds 
+suricat0o: calls 20
+gigaras: checks 
+*** FLOP *** [As 2c Kh]
+suricat0o: bets 80
+gigaras: calls 80
+*** TURN *** [As 2c Kh] [3c]
+suricat0o: checks 
+gigaras: checks 
+*** RIVER *** [As 2c Kh 3c] [Jh]
+suricat0o: checks 
+gigaras: bets 240
+suricat0o: folds 
+Uncalled bet (240) returned to gigaras
+gigaras collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [As 2c Kh 3c Jh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: suricat0o (small blind) folded on the River
+Seat 3: gigaras (big blind) collected (240)
+
+
+
+PokerStars Hand #259602871027: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:13:24 CET [2026/02/05 12:13:24 ET]
+Table '3972340609 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (233 in chips) 
+Seat 2: suricat0o (343 in chips) 
+Seat 3: gigaras (924 in chips) 
+gigaras: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 2c]
+suricat0o: folds 
+gigaras: calls 20
+mabeal1: checks 
+*** FLOP *** [5c Kh 9s]
+gigaras: checks 
+mabeal1: bets 40
+gigaras: calls 40
+*** TURN *** [5c Kh 9s] [Qs]
+gigaras: checks 
+mabeal1: bets 120
+gigaras: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c Kh 9s Qs]
+Seat 1: mabeal1 (big blind) collected (160)
+Seat 2: suricat0o (button) folded before Flop (didn't bet)
+Seat 3: gigaras (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259602875252: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 18:13:46 CET [2026/02/05 12:13:46 ET]
+Table '3972340609 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (313 in chips) 
+Seat 2: suricat0o (343 in chips) 
+Seat 3: gigaras (844 in chips) 
+mabeal1: posts small blind 20
+suricat0o: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7h]
+gigaras: calls 40
+mabeal1: folds 
+suricat0o: checks 
+*** FLOP *** [4c 7s Js]
+suricat0o: checks 
+gigaras: checks 
+*** TURN *** [4c 7s Js] [Tc]
+suricat0o: checks 
+gigaras: checks 
+*** RIVER *** [4c 7s Js Tc] [Qh]
+suricat0o: bets 75
+gigaras: raises 75 to 150
+suricat0o: calls 75
+*** SHOW DOWN ***
+gigaras: shows [2d Qc] (a pair of Queens)
+suricat0o: mucks hand 
+gigaras collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [4c 7s Js Tc Qh]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: suricat0o (big blind) mucked [9h 9d]
+Seat 3: gigaras (button) showed [2d Qc] and won (400) with a pair of Queens
+
+
+
+PokerStars Hand #259602881557: Tournament #3972340609, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/05 18:14:18 CET [2026/02/05 12:14:18 ET]
+Table '3972340609 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (293 in chips) 
+Seat 2: suricat0o (153 in chips) 
+Seat 3: gigaras (1054 in chips) 
+suricat0o: posts small blind 30
+gigaras: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 6d]
+mabeal1: raises 233 to 293 and is all-in
+suricat0o: calls 123 and is all-in
+gigaras: calls 233
+*** FLOP *** [4d 8c 2s]
+*** TURN *** [4d 8c 2s] [5h]
+*** RIVER *** [4d 8c 2s 5h] [5c]
+*** SHOW DOWN ***
+gigaras: shows [Qd 8h] (two pair, Eights and Fives)
+mabeal1: shows [Ad 6d] (a pair of Fives)
+gigaras collected 280 from side pot
+suricat0o: shows [Ks 3d] (a pair of Fives)
+gigaras collected 459 from main pot
+mabeal1 finished the tournament in 2nd place
+suricat0o finished the tournament in 3rd place
+gigaras wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 739 Main pot 459. Side pot 280. | Rake 0 
+Board [4d 8c 2s 5h 5c]
+Seat 1: mabeal1 (button) showed [Ad 6d] and lost with a pair of Fives
+Seat 2: suricat0o (small blind) showed [Ks 3d] and lost with a pair of Fives
+Seat 3: gigaras (big blind) showed [Qd 8h] and won (739) with two pair, Eights and Fives
+
+
+

@@ -1,0 +1,522 @@
+﻿PokerStars Hand #259549250195: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:50:33 CET [2026/02/01 10:50:33 ET]
+Table '3971131068 1' 3-max Seat #1 is the button
+Seat 1: byturbin (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: angel lin666 (500 in chips) 
+mabeal1: posts small blind 10
+angel lin666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Th]
+byturbin: folds 
+mabeal1: raises 30 to 50
+angel lin666: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: byturbin (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: angel lin666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259549252316: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:50:43 CET [2026/02/01 10:50:43 ET]
+Table '3971131068 1' 3-max Seat #2 is the button
+Seat 1: byturbin (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: angel lin666 (480 in chips) 
+angel lin666: posts small blind 10
+byturbin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ac]
+mabeal1: raises 20 to 40
+angel lin666: calls 30
+byturbin: folds 
+*** FLOP *** [Jc 6s Qc]
+angel lin666: checks 
+mabeal1: checks 
+*** TURN *** [Jc 6s Qc] [5c]
+angel lin666: bets 40
+mabeal1: calls 40
+*** RIVER *** [Jc 6s Qc 5c] [5s]
+angel lin666: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+angel lin666: shows [Kd Jh] (two pair, Jacks and Fives)
+mabeal1: mucks hand 
+angel lin666 collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [Jc 6s Qc 5c 5s]
+Seat 1: byturbin (big blind) folded before Flop
+Seat 2: mabeal1 (button) mucked [9h Ac]
+Seat 3: angel lin666 (small blind) showed [Kd Jh] and won (260) with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #259549259277: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:51:14 CET [2026/02/01 10:51:14 ET]
+Table '3971131068 1' 3-max Seat #3 is the button
+Seat 1: byturbin (480 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: angel lin666 (620 in chips) 
+byturbin: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Th]
+angel lin666: folds 
+byturbin: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: byturbin (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: angel lin666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259549261678: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:51:25 CET [2026/02/01 10:51:25 ET]
+Table '3971131068 1' 3-max Seat #1 is the button
+Seat 1: byturbin (470 in chips) 
+Seat 2: mabeal1 (410 in chips) 
+Seat 3: angel lin666 (620 in chips) 
+mabeal1: posts small blind 10
+angel lin666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 7h]
+byturbin: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to angel lin666
+angel lin666 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: byturbin (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: angel lin666 (big blind) collected (20)
+
+
+
+PokerStars Hand #259549263408: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:51:32 CET [2026/02/01 10:51:32 ET]
+Table '3971131068 1' 3-max Seat #2 is the button
+Seat 1: byturbin (470 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: angel lin666 (630 in chips) 
+angel lin666: posts small blind 10
+byturbin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Jc]
+mabeal1: folds 
+angel lin666: calls 10
+byturbin: raises 40 to 60
+angel lin666: calls 40
+*** FLOP *** [6c 4d Qd]
+angel lin666: checks 
+byturbin: bets 20
+angel lin666: calls 20
+*** TURN *** [6c 4d Qd] [7d]
+angel lin666: checks 
+byturbin: checks 
+*** RIVER *** [6c 4d Qd 7d] [Qs]
+angel lin666: bets 40
+byturbin: folds 
+Uncalled bet (40) returned to angel lin666
+angel lin666 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6c 4d Qd 7d Qs]
+Seat 1: byturbin (big blind) folded on the River
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: angel lin666 (small blind) collected (160)
+
+
+
+PokerStars Hand #259549269963: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:52:02 CET [2026/02/01 10:52:02 ET]
+Table '3971131068 1' 3-max Seat #3 is the button
+Seat 1: byturbin (390 in chips) 
+Seat 2: mabeal1 (400 in chips) 
+Seat 3: angel lin666 (710 in chips) 
+byturbin: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7d]
+angel lin666: folds 
+byturbin: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: byturbin (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: angel lin666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259549271746: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:52:10 CET [2026/02/01 10:52:10 ET]
+Table '3971131068 1' 3-max Seat #1 is the button
+Seat 1: byturbin (380 in chips) 
+Seat 2: mabeal1 (410 in chips) 
+Seat 3: angel lin666 (710 in chips) 
+mabeal1: posts small blind 10
+angel lin666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Kd]
+byturbin: folds 
+mabeal1: raises 30 to 50
+angel lin666: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: byturbin (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: angel lin666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259549274769: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:52:24 CET [2026/02/01 10:52:24 ET]
+Table '3971131068 1' 3-max Seat #2 is the button
+Seat 1: byturbin (380 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: angel lin666 (690 in chips) 
+angel lin666: posts small blind 10
+byturbin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4c]
+mabeal1: folds 
+angel lin666: raises 40 to 60
+byturbin: folds 
+Uncalled bet (40) returned to angel lin666
+angel lin666 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: byturbin (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: angel lin666 (small blind) collected (40)
+
+
+
+PokerStars Hand #259549277046: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 16:52:34 CET [2026/02/01 10:52:34 ET]
+Table '3971131068 1' 3-max Seat #3 is the button
+Seat 1: byturbin (360 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: angel lin666 (710 in chips) 
+byturbin: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 8h]
+angel lin666: folds 
+byturbin: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: byturbin (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: angel lin666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259549280337: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 16:52:49 CET [2026/02/01 10:52:49 ET]
+Table '3971131068 1' 3-max Seat #1 is the button
+Seat 1: byturbin (350 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: angel lin666 (710 in chips) 
+mabeal1: posts small blind 15
+angel lin666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Qh]
+byturbin: folds 
+mabeal1: raises 45 to 75
+angel lin666: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: byturbin (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: angel lin666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259549284453: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 16:53:08 CET [2026/02/01 10:53:08 ET]
+Table '3971131068 1' 3-max Seat #2 is the button
+Seat 1: byturbin (350 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: angel lin666 (680 in chips) 
+angel lin666: posts small blind 15
+byturbin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 9h]
+mabeal1: folds 
+angel lin666: raises 30 to 60
+byturbin: calls 30
+*** FLOP *** [7h 9d 5h]
+angel lin666: checks 
+byturbin: bets 30
+angel lin666: folds 
+Uncalled bet (30) returned to byturbin
+byturbin collected 120 from pot
+byturbin: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7h 9d 5h]
+Seat 1: byturbin (big blind) collected (120)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: angel lin666 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259549290977: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 16:53:37 CET [2026/02/01 10:53:37 ET]
+Table '3971131068 1' 3-max Seat #3 is the button
+Seat 1: byturbin (410 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: angel lin666 (620 in chips) 
+byturbin: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Ac]
+angel lin666: folds 
+byturbin: raises 60 to 90
+mabeal1: raises 380 to 470 and is all-in
+byturbin: calls 320 and is all-in
+Uncalled bet (60) returned to mabeal1
+*** FLOP *** [Kh 5h 4h]
+*** TURN *** [Kh 5h 4h] [7s]
+*** RIVER *** [Kh 5h 4h 7s] [9s]
+*** SHOW DOWN ***
+byturbin: shows [Ah Ks] (a pair of Kings)
+mabeal1: shows [Ad Ac] (a pair of Aces)
+mabeal1 collected 820 from pot
+byturbin finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Kh 5h 4h 7s 9s]
+Seat 1: byturbin (small blind) showed [Ah Ks] and lost with a pair of Kings
+Seat 2: mabeal1 (big blind) showed [Ad Ac] and won (820) with a pair of Aces
+Seat 3: angel lin666 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259549298580: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 16:54:12 CET [2026/02/01 10:54:12 ET]
+Table '3971131068 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (880 in chips) 
+Seat 3: angel lin666 (620 in chips) 
+mabeal1: posts small blind 15
+angel lin666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 4d]
+mabeal1: calls 15
+angel lin666: raises 590 to 620 and is all-in
+mabeal1: folds 
+Uncalled bet (590) returned to angel lin666
+angel lin666 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: angel lin666 (big blind) collected (60)
+
+
+
+PokerStars Hand #259549300813: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 16:54:22 CET [2026/02/01 10:54:22 ET]
+Table '3971131068 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (850 in chips) 
+Seat 3: angel lin666 (650 in chips) 
+angel lin666: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7d]
+angel lin666: calls 15
+mabeal1: checks 
+*** FLOP *** [2h 2c Td]
+mabeal1: checks 
+angel lin666: checks 
+*** TURN *** [2h 2c Td] [5d]
+mabeal1: checks 
+angel lin666: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to angel lin666
+angel lin666 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h 2c Td 5d]
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: angel lin666 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259549304770: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 16:54:41 CET [2026/02/01 10:54:41 ET]
+Table '3971131068 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (820 in chips) 
+Seat 3: angel lin666 (680 in chips) 
+mabeal1: posts small blind 20
+angel lin666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Tc]
+mabeal1: raises 40 to 80
+angel lin666: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: angel lin666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259549306825: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 16:54:50 CET [2026/02/01 10:54:50 ET]
+Table '3971131068 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (860 in chips) 
+Seat 3: angel lin666 (640 in chips) 
+angel lin666: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Jd]
+angel lin666: calls 20
+mabeal1: checks 
+*** FLOP *** [Js Th 5d]
+mabeal1: checks 
+angel lin666: checks 
+*** TURN *** [Js Th 5d] [3c]
+mabeal1: bets 60
+angel lin666: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js Th 5d 3c]
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: angel lin666 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259549309915: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 16:55:04 CET [2026/02/01 10:55:04 ET]
+Table '3971131068 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (900 in chips) 
+Seat 3: angel lin666 (600 in chips) 
+mabeal1: posts small blind 20
+angel lin666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Ah]
+mabeal1: raises 40 to 80
+angel lin666: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: angel lin666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259549311379: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 16:55:11 CET [2026/02/01 10:55:11 ET]
+Table '3971131068 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (940 in chips) 
+Seat 3: angel lin666 (560 in chips) 
+angel lin666: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 5s]
+angel lin666: calls 20
+mabeal1: raises 900 to 940 and is all-in
+angel lin666: folds 
+Uncalled bet (900) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: angel lin666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259549313398: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 16:55:24 CET [2026/02/01 10:55:24 ET]
+Table '3971131068 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (980 in chips) 
+Seat 3: angel lin666 (520 in chips) 
+mabeal1: posts small blind 20
+angel lin666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Ah]
+mabeal1: raises 940 to 980 and is all-in
+angel lin666: folds 
+Uncalled bet (940) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: angel lin666 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259549314457: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 16:55:32 CET [2026/02/01 10:55:32 ET]
+Table '3971131068 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1020 in chips) 
+Seat 3: angel lin666 (480 in chips) 
+angel lin666: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Ts]
+angel lin666: calls 20
+mabeal1: checks 
+*** FLOP *** [5d As 7h]
+mabeal1: checks 
+angel lin666: bets 40
+mabeal1: raises 80 to 120
+angel lin666: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5d As 7h]
+Seat 2: mabeal1 (big blind) collected (160)
+Seat 3: angel lin666 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259549317257: Tournament #3971131068, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 16:55:52 CET [2026/02/01 10:55:52 ET]
+Table '3971131068 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1100 in chips) 
+Seat 3: angel lin666 (400 in chips) 
+mabeal1: posts small blind 20
+angel lin666: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 6h]
+mabeal1: calls 20
+angel lin666: checks 
+*** FLOP *** [3s 2c 5c]
+angel lin666: checks 
+mabeal1: bets 40
+angel lin666: calls 40
+*** TURN *** [3s 2c 5c] [9h]
+angel lin666: checks 
+mabeal1: checks 
+*** RIVER *** [3s 2c 5c 9h] [4c]
+angel lin666: checks 
+mabeal1: bets 1020 and is all-in
+angel lin666: calls 320 and is all-in
+Uncalled bet (700) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [5h 6h] (a straight, Deuce to Six)
+angel lin666: shows [3h 5d] (two pair, Fives and Threes)
+mabeal1 collected 800 from pot
+angel lin666 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [3s 2c 5c 9h 4c]
+Seat 2: mabeal1 (button) (small blind) showed [5h 6h] and won (800) with a straight, Deuce to Six
+Seat 3: angel lin666 (big blind) showed [3h 5d] and lost with two pair, Fives and Threes
+
+
+

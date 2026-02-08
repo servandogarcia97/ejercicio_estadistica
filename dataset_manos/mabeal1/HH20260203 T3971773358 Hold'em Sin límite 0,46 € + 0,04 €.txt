@@ -1,0 +1,312 @@
+﻿PokerStars Hand #259578677016: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:21:55 CET [2026/02/03 13:21:55 ET]
+Table '3971773358 1' 3-max Seat #1 is the button
+Seat 1: Superduke2610 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Kimco125 (500 in chips) 
+mabeal1: posts small blind 10
+Kimco125: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 2d]
+Superduke2610: calls 20
+mabeal1: folds 
+Kimco125: checks 
+*** FLOP *** [Jh 5s Th]
+Kimco125: bets 20
+Superduke2610: calls 20
+*** TURN *** [Jh 5s Th] [8h]
+Kimco125: bets 20
+Superduke2610: calls 20
+*** RIVER *** [Jh 5s Th 8h] [9d]
+Kimco125: bets 20
+Superduke2610: raises 420 to 440 and is all-in
+Kimco125: folds 
+Uncalled bet (420) returned to Superduke2610
+Superduke2610 collected 170 from pot
+Superduke2610: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Jh 5s Th 8h 9d]
+Seat 1: Superduke2610 (button) collected (170)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Kimco125 (big blind) folded on the River
+
+
+
+PokerStars Hand #259578684656: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:22:28 CET [2026/02/03 13:22:28 ET]
+Table '3971773358 1' 3-max Seat #2 is the button
+Seat 1: Superduke2610 (590 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Kimco125 (420 in chips) 
+Kimco125: posts small blind 10
+Superduke2610: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 3s]
+mabeal1: raises 30 to 50
+Kimco125: calls 40
+Superduke2610: calls 30
+*** FLOP *** [7s 2c 3c]
+Kimco125: checks 
+Superduke2610: checks 
+mabeal1: checks 
+*** TURN *** [7s 2c 3c] [4h]
+Kimco125: checks 
+Superduke2610: checks 
+mabeal1: bets 75
+Kimco125: folds 
+Superduke2610: folds 
+Uncalled bet (75) returned to mabeal1
+mabeal1 collected 150 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [7s 2c 3c 4h]
+Seat 1: Superduke2610 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) collected (150)
+Seat 3: Kimco125 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259578691924: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:22:59 CET [2026/02/03 13:22:59 ET]
+Table '3971773358 1' 3-max Seat #3 is the button
+Seat 1: Superduke2610 (540 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: Kimco125 (370 in chips) 
+Superduke2610: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 6d]
+Kimco125: calls 20
+Superduke2610: calls 10
+mabeal1: checks 
+*** FLOP *** [6h 4h 2c]
+Superduke2610: checks 
+mabeal1: bets 45
+Kimco125: calls 45
+Superduke2610: calls 45
+*** TURN *** [6h 4h 2c] [As]
+Superduke2610: checks 
+mabeal1: checks 
+Kimco125: bets 195
+Superduke2610: raises 195 to 390
+mabeal1: folds 
+Kimco125: calls 110 and is all-in
+Uncalled bet (85) returned to Superduke2610
+*** RIVER *** [6h 4h 2c As] [6c]
+*** SHOW DOWN ***
+Superduke2610: shows [3d 5s] (a straight, Deuce to Six)
+Kimco125: shows [5d Ad] (two pair, Aces and Sixes)
+Superduke2610 collected 805 from pot
+Kimco125 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 805 | Rake 0 
+Board [6h 4h 2c As 6c]
+Seat 1: Superduke2610 (small blind) showed [3d 5s] and won (805) with a straight, Deuce to Six
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Kimco125 (button) showed [5d Ad] and lost with two pair, Aces and Sixes
+
+
+
+PokerStars Hand #259578702111: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:23:41 CET [2026/02/03 13:23:41 ET]
+Table '3971773358 1' 3-max Seat #2 is the button
+Seat 1: Superduke2610 (975 in chips) 
+Seat 2: mabeal1 (525 in chips) 
+mabeal1: posts small blind 10
+Superduke2610: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9c]
+mabeal1: calls 10
+Superduke2610: checks 
+*** FLOP *** [Qd 9s Jh]
+Superduke2610: checks 
+mabeal1: bets 30
+Superduke2610: calls 30
+*** TURN *** [Qd 9s Jh] [4h]
+Superduke2610: checks 
+mabeal1: bets 75
+Superduke2610: calls 75
+*** RIVER *** [Qd 9s Jh 4h] [4d]
+Superduke2610: checks 
+mabeal1: bets 400 and is all-in
+Superduke2610: folds 
+Uncalled bet (400) returned to mabeal1
+mabeal1 collected 250 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [Qd 9s Jh 4h 4d]
+Seat 1: Superduke2610 (big blind) folded on the River
+Seat 2: mabeal1 (button) (small blind) collected (250)
+
+
+
+PokerStars Hand #259578711262: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:24:20 CET [2026/02/03 13:24:20 ET]
+Table '3971773358 1' 3-max Seat #1 is the button
+Seat 1: Superduke2610 (850 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Superduke2610: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 4c]
+Superduke2610: raises 30 to 60
+mabeal1: raises 590 to 650 and is all-in
+Superduke2610: folds 
+Uncalled bet (590) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Superduke2610 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259578714189: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:24:32 CET [2026/02/03 13:24:32 ET]
+Table '3971773358 1' 3-max Seat #2 is the button
+Seat 1: Superduke2610 (790 in chips) 
+Seat 2: mabeal1 (710 in chips) 
+mabeal1: posts small blind 15
+Superduke2610: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 9c]
+mabeal1: raises 45 to 75
+Superduke2610: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Superduke2610 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259578716344: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:24:41 CET [2026/02/03 13:24:41 ET]
+Table '3971773358 1' 3-max Seat #1 is the button
+Seat 1: Superduke2610 (760 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+Superduke2610: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 5c]
+Superduke2610: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Superduke2610
+Superduke2610 collected 60 from pot
+Superduke2610: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Superduke2610 (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578718274: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:24:49 CET [2026/02/03 13:24:49 ET]
+Table '3971773358 1' 3-max Seat #2 is the button
+Seat 1: Superduke2610 (790 in chips) 
+Seat 2: mabeal1 (710 in chips) 
+mabeal1: posts small blind 15
+Superduke2610: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Th]
+mabeal1: raises 60 to 90
+Superduke2610: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Superduke2610 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259578722019: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:25:05 CET [2026/02/03 13:25:05 ET]
+Table '3971773358 1' 3-max Seat #1 is the button
+Seat 1: Superduke2610 (760 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+Superduke2610: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8s]
+Superduke2610: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [9s Ac 2s]
+mabeal1: checks 
+Superduke2610: checks 
+*** TURN *** [9s Ac 2s] [8h]
+mabeal1: checks 
+Superduke2610: bets 30
+mabeal1: calls 30
+*** RIVER *** [9s Ac 2s 8h] [Jh]
+mabeal1: checks 
+Superduke2610: bets 180
+mabeal1: folds 
+Uncalled bet (180) returned to Superduke2610
+Superduke2610 collected 180 from pot
+Superduke2610: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9s Ac 2s 8h Jh]
+Seat 1: Superduke2610 (button) (small blind) collected (180)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259578732554: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:25:50 CET [2026/02/03 13:25:50 ET]
+Table '3971773358 1' 3-max Seat #2 is the button
+Seat 1: Superduke2610 (850 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+mabeal1: posts small blind 15
+Superduke2610: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 8c]
+mabeal1: raises 30 to 60
+Superduke2610: raises 30 to 90
+mabeal1: calls 30
+*** FLOP *** [Qd 7d 5c]
+Superduke2610: checks 
+mabeal1: bets 90
+Superduke2610: raises 90 to 180
+mabeal1: folds 
+Uncalled bet (90) returned to Superduke2610
+Superduke2610 collected 360 from pot
+Superduke2610: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Qd 7d 5c]
+Seat 1: Superduke2610 (big blind) collected (360)
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259578738668: Tournament #3971773358, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 19:26:16 CET [2026/02/03 13:26:16 ET]
+Table '3971773358 1' 3-max Seat #1 is the button
+Seat 1: Superduke2610 (1030 in chips) 
+Seat 2: mabeal1 (470 in chips) 
+Superduke2610: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 8d]
+Superduke2610: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [Qh 7s 4c]
+mabeal1: checks 
+Superduke2610: bets 80
+mabeal1: raises 310 to 390 and is all-in
+Superduke2610: calls 310
+*** TURN *** [Qh 7s 4c] [7d]
+*** RIVER *** [Qh 7s 4c 7d] [Ts]
+*** SHOW DOWN ***
+mabeal1: shows [Kd 8d] (a pair of Sevens)
+Superduke2610: shows [2d 2s] (two pair, Sevens and Deuces)
+Superduke2610 collected 940 from pot
+mabeal1 finished the tournament in 2nd place
+Superduke2610 wins the tournament and receives €1.00 - congratulations!
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [Qh 7s 4c 7d Ts]
+Seat 1: Superduke2610 (button) (small blind) showed [2d 2s] and won (940) with two pair, Sevens and Deuces
+Seat 2: mabeal1 (big blind) showed [Kd 8d] and lost with a pair of Sevens
+
+
+

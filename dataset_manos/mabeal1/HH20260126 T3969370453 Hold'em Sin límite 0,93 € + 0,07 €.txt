@@ -1,0 +1,186 @@
+﻿PokerStars Hand #259472981357: Tournament #3969370453, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:29:22 CET [2026/01/26 14:29:22 ET]
+Table '3969370453 1' 3-max Seat #1 is the button
+Seat 1: Joseuto62 (500 in chips) 
+Seat 2: sylvere81 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+sylvere81: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 9c]
+Joseuto62: folds 
+sylvere81: calls 10
+mabeal1: checks 
+*** FLOP *** [Th Qs 2h]
+sylvere81: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to sylvere81
+sylvere81 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th Qs 2h]
+Seat 1: Joseuto62 (button) folded before Flop (didn't bet)
+Seat 2: sylvere81 (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259472986459: Tournament #3969370453, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:29:42 CET [2026/01/26 14:29:42 ET]
+Table '3969370453 1' 3-max Seat #2 is the button
+Seat 1: Joseuto62 (500 in chips) 
+Seat 2: sylvere81 (520 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+Joseuto62: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 6s]
+sylvere81: raises 60 to 80
+mabeal1: folds 
+Joseuto62: folds 
+Uncalled bet (60) returned to sylvere81
+sylvere81 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Joseuto62 (big blind) folded before Flop
+Seat 2: sylvere81 (button) collected (50)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472989501: Tournament #3969370453, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:29:54 CET [2026/01/26 14:29:54 ET]
+Table '3969370453 1' 3-max Seat #3 is the button
+Seat 1: Joseuto62 (480 in chips) 
+Seat 2: sylvere81 (550 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+Joseuto62: posts small blind 10
+sylvere81: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 4s]
+mabeal1: folds 
+Joseuto62: calls 10
+sylvere81: raises 530 to 550 and is all-in
+Joseuto62: folds 
+Uncalled bet (530) returned to sylvere81
+sylvere81 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Joseuto62 (small blind) folded before Flop
+Seat 2: sylvere81 (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472993867: Tournament #3969370453, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:30:09 CET [2026/01/26 14:30:09 ET]
+Table '3969370453 1' 3-max Seat #1 is the button
+Seat 1: Joseuto62 (460 in chips) 
+Seat 2: sylvere81 (570 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+sylvere81: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Jh]
+Joseuto62: folds 
+sylvere81: raises 550 to 570 and is all-in
+mabeal1: folds 
+Uncalled bet (550) returned to sylvere81
+sylvere81 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Joseuto62 (button) folded before Flop (didn't bet)
+Seat 2: sylvere81 (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259472995683: Tournament #3969370453, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:30:16 CET [2026/01/26 14:30:16 ET]
+Table '3969370453 1' 3-max Seat #2 is the button
+Seat 1: Joseuto62 (460 in chips) 
+Seat 2: sylvere81 (590 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+mabeal1: posts small blind 10
+Joseuto62: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 2h]
+sylvere81: calls 20
+mabeal1: folds 
+Joseuto62: raises 20 to 40
+sylvere81: calls 20
+*** FLOP *** [Ad Qc 5d]
+Joseuto62: bets 68
+sylvere81: raises 68 to 136
+Joseuto62: calls 68
+*** TURN *** [Ad Qc 5d] [Kc]
+Joseuto62: checks 
+sylvere81: bets 414 and is all-in
+Joseuto62: calls 284 and is all-in
+Uncalled bet (130) returned to sylvere81
+*** RIVER *** [Ad Qc 5d Kc] [Tc]
+*** SHOW DOWN ***
+Joseuto62: shows [Kd 7d] (a pair of Kings)
+sylvere81: shows [Qs 5h] (two pair, Queens and Fives)
+sylvere81 collected 930 from pot
+Joseuto62 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [Ad Qc 5d Kc Tc]
+Seat 1: Joseuto62 (big blind) showed [Kd 7d] and lost with a pair of Kings
+Seat 2: sylvere81 (button) showed [Qs 5h] and won (930) with two pair, Queens and Fives
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259473006335: Tournament #3969370453, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:30:51 CET [2026/01/26 14:30:51 ET]
+Table '3969370453 1' 3-max Seat #3 is the button
+Seat 2: sylvere81 (1060 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+mabeal1: posts small blind 10
+sylvere81: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Jh]
+mabeal1: calls 10
+sylvere81: raises 60 to 80
+mabeal1: raises 360 to 440 and is all-in
+sylvere81: calls 360
+*** FLOP *** [2c 8h Jd]
+*** TURN *** [2c 8h Jd] [6h]
+*** RIVER *** [2c 8h Jd 6h] [Ks]
+*** SHOW DOWN ***
+sylvere81: shows [7c Ac] (high card Ace)
+mabeal1: shows [Kc Jh] (two pair, Kings and Jacks)
+mabeal1 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [2c 8h Jd 6h Ks]
+Seat 2: sylvere81 (big blind) showed [7c Ac] and lost with high card Ace
+Seat 3: mabeal1 (button) (small blind) showed [Kc Jh] and won (880) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #259473011797: Tournament #3969370453, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 20:31:08 CET [2026/01/26 14:31:08 ET]
+Table '3969370453 1' 3-max Seat #2 is the button
+Seat 2: sylvere81 (620 in chips) 
+Seat 3: mabeal1 (880 in chips) 
+sylvere81: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 3c]
+sylvere81: raises 60 to 80
+mabeal1: raises 800 to 880 and is all-in
+sylvere81: calls 540 and is all-in
+Uncalled bet (260) returned to mabeal1
+*** FLOP *** [2s 5s 9d]
+*** TURN *** [2s 5s 9d] [5h]
+*** RIVER *** [2s 5s 9d 5h] [3d]
+*** SHOW DOWN ***
+mabeal1: shows [Ac 3c] (two pair, Fives and Threes)
+sylvere81: shows [Jc Tc] (a pair of Fives)
+mabeal1 collected 1240 from pot
+sylvere81 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [2s 5s 9d 5h 3d]
+Seat 2: sylvere81 (button) (small blind) showed [Jc Tc] and lost with a pair of Fives
+Seat 3: mabeal1 (big blind) showed [Ac 3c] and won (1240) with two pair, Fives and Threes
+
+
+

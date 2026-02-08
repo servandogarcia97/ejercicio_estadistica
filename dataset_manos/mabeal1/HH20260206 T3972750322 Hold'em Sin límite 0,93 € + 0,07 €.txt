@@ -1,0 +1,360 @@
+﻿PokerStars Hand #259620780357: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:47:53 CET [2026/02/06 16:47:53 ET]
+Table '3972750322 1' 3-max Seat #1 is the button
+Seat 1: MocosoPoker (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: VERGINIA82 (500 in chips) 
+mabeal1: posts small blind 10
+VERGINIA82: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 7d]
+MocosoPoker: folds 
+mabeal1: raises 30 to 50
+VERGINIA82: calls 30
+*** FLOP *** [2s Jd 4c]
+mabeal1: bets 40
+VERGINIA82: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [2s Jd 4c]
+Seat 1: MocosoPoker (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (100)
+Seat 3: VERGINIA82 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259620784344: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:48:08 CET [2026/02/06 16:48:08 ET]
+Table '3972750322 1' 3-max Seat #2 is the button
+Seat 1: MocosoPoker (500 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: VERGINIA82 (450 in chips) 
+VERGINIA82: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 9c]
+mabeal1: raises 530 to 550 and is all-in
+VERGINIA82: folds 
+MocosoPoker: folds 
+Uncalled bet (530) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: MocosoPoker (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: VERGINIA82 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259620788878: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:48:23 CET [2026/02/06 16:48:23 ET]
+Table '3972750322 1' 3-max Seat #3 is the button
+Seat 1: MocosoPoker (480 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: VERGINIA82 (440 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 2d]
+VERGINIA82: calls 20
+MocosoPoker: calls 10
+mabeal1: checks 
+*** FLOP *** [8c Kd 9c]
+MocosoPoker: checks 
+mabeal1: checks 
+VERGINIA82: bets 20
+MocosoPoker: folds 
+mabeal1: raises 40 to 60
+VERGINIA82: calls 40
+*** TURN *** [8c Kd 9c] [Kc]
+mabeal1: checks 
+VERGINIA82: checks 
+*** RIVER *** [8c Kd 9c Kc] [3s]
+mabeal1: checks 
+VERGINIA82: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Td 2d] (a pair of Kings)
+VERGINIA82: shows [Qd 9h] (two pair, Kings and Nines)
+VERGINIA82 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8c Kd 9c Kc 3s]
+Seat 1: MocosoPoker (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) showed [Td 2d] and lost with a pair of Kings
+Seat 3: VERGINIA82 (button) showed [Qd 9h] and won (180) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #259620796493: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:48:50 CET [2026/02/06 16:48:50 ET]
+Table '3972750322 1' 3-max Seat #1 is the button
+Seat 1: MocosoPoker (460 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: VERGINIA82 (540 in chips) 
+mabeal1: posts small blind 10
+VERGINIA82: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 8d]
+MocosoPoker: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to VERGINIA82
+VERGINIA82 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MocosoPoker (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: VERGINIA82 (big blind) collected (20)
+
+
+
+PokerStars Hand #259620798152: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:48:56 CET [2026/02/06 16:48:56 ET]
+Table '3972750322 1' 3-max Seat #2 is the button
+Seat 1: MocosoPoker (460 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: VERGINIA82 (550 in chips) 
+VERGINIA82: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ks]
+mabeal1: folds 
+VERGINIA82: folds 
+Uncalled bet (10) returned to MocosoPoker
+MocosoPoker collected 20 from pot
+MocosoPoker: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: MocosoPoker (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: VERGINIA82 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259620801254: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:49:08 CET [2026/02/06 16:49:08 ET]
+Table '3972750322 1' 3-max Seat #3 is the button
+Seat 1: MocosoPoker (470 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: VERGINIA82 (540 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qh]
+VERGINIA82: calls 20
+MocosoPoker: folds 
+mabeal1: checks 
+*** FLOP *** [Qd 8h Ac]
+mabeal1: checks 
+VERGINIA82: checks 
+*** TURN *** [Qd 8h Ac] [2s]
+mabeal1: bets 38
+VERGINIA82: folds 
+Uncalled bet (38) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Qd 8h Ac 2s]
+Seat 1: MocosoPoker (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (50)
+Seat 3: VERGINIA82 (button) folded on the Turn
+
+
+
+PokerStars Hand #259620806423: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:49:26 CET [2026/02/06 16:49:26 ET]
+Table '3972750322 1' 3-max Seat #1 is the button
+Seat 1: MocosoPoker (460 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: VERGINIA82 (520 in chips) 
+mabeal1: posts small blind 10
+VERGINIA82: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Jh]
+MocosoPoker: folds 
+mabeal1: raises 30 to 50
+VERGINIA82: calls 30
+*** FLOP *** [3d 5d Jd]
+mabeal1: bets 75
+VERGINIA82: calls 75
+*** TURN *** [3d 5d Jd] [Js]
+mabeal1: bets 200
+VERGINIA82: folds 
+Uncalled bet (200) returned to mabeal1
+mabeal1 collected 250 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [3d 5d Jd Js]
+Seat 1: MocosoPoker (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (250)
+Seat 3: VERGINIA82 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259620811280: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:49:44 CET [2026/02/06 16:49:44 ET]
+Table '3972750322 1' 3-max Seat #2 is the button
+Seat 1: MocosoPoker (460 in chips) 
+Seat 2: mabeal1 (645 in chips) 
+Seat 3: VERGINIA82 (395 in chips) 
+VERGINIA82: posts small blind 10
+MocosoPoker: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7h]
+mabeal1: folds 
+VERGINIA82: calls 10
+MocosoPoker: checks 
+*** FLOP *** [Kd Ks Qc]
+VERGINIA82: bets 20
+MocosoPoker: raises 40 to 60
+VERGINIA82: raises 40 to 100
+MocosoPoker: folds 
+Uncalled bet (40) returned to VERGINIA82
+VERGINIA82 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd Ks Qc]
+Seat 1: MocosoPoker (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: VERGINIA82 (small blind) collected (160)
+
+
+
+PokerStars Hand #259620816810: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:50:03 CET [2026/02/06 16:50:03 ET]
+Table '3972750322 1' 3-max Seat #3 is the button
+Seat 1: MocosoPoker (380 in chips) 
+Seat 2: mabeal1 (645 in chips) 
+Seat 3: VERGINIA82 (475 in chips) 
+MocosoPoker: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4d]
+VERGINIA82: calls 20
+MocosoPoker: calls 10
+mabeal1: checks 
+*** FLOP *** [2s Qs 6c]
+MocosoPoker: checks 
+mabeal1: checks 
+VERGINIA82: bets 20
+MocosoPoker: calls 20
+mabeal1: folds 
+*** TURN *** [2s Qs 6c] [8d]
+MocosoPoker: checks 
+VERGINIA82: bets 20
+MocosoPoker: calls 20
+*** RIVER *** [2s Qs 6c 8d] [3s]
+MocosoPoker: bets 105
+VERGINIA82: calls 105
+*** SHOW DOWN ***
+MocosoPoker: shows [5s 4c] (a straight, Deuce to Six)
+VERGINIA82: mucks hand 
+MocosoPoker collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [2s Qs 6c 8d 3s]
+Seat 1: MocosoPoker (small blind) showed [5s 4c] and won (350) with a straight, Deuce to Six
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: VERGINIA82 (button) mucked [5c Qh]
+
+
+
+PokerStars Hand #259620827288: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 22:50:41 CET [2026/02/06 16:50:41 ET]
+Table '3972750322 1' 3-max Seat #1 is the button
+Seat 1: MocosoPoker (565 in chips) 
+Seat 2: mabeal1 (625 in chips) 
+Seat 3: VERGINIA82 (310 in chips) 
+mabeal1: posts small blind 10
+VERGINIA82: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks As]
+MocosoPoker: raises 545 to 565 and is all-in
+mabeal1: raises 60 to 625 and is all-in
+VERGINIA82: folds 
+Uncalled bet (60) returned to mabeal1
+*** FLOP *** [5s Qs Kc]
+*** TURN *** [5s Qs Kc] [Td]
+*** RIVER *** [5s Qs Kc Td] [6s]
+*** SHOW DOWN ***
+mabeal1: shows [Ks As] (a flush, Ace high)
+MocosoPoker: shows [2d 2c] (a pair of Deuces)
+mabeal1 collected 1150 from pot
+MocosoPoker finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Board [5s Qs Kc Td 6s]
+Seat 1: MocosoPoker (button) showed [2d 2c] and lost with a pair of Deuces
+Seat 2: mabeal1 (small blind) showed [Ks As] and won (1150) with a flush, Ace high
+Seat 3: VERGINIA82 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259620832131: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 22:50:58 CET [2026/02/06 16:50:58 ET]
+Table '3972750322 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1210 in chips) 
+Seat 3: VERGINIA82 (290 in chips) 
+VERGINIA82: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 3s]
+VERGINIA82: raises 260 to 290 and is all-in
+mabeal1: folds 
+Uncalled bet (260) returned to VERGINIA82
+VERGINIA82 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: VERGINIA82 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259620834366: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 22:51:06 CET [2026/02/06 16:51:06 ET]
+Table '3972750322 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1180 in chips) 
+Seat 3: VERGINIA82 (320 in chips) 
+mabeal1: posts small blind 15
+VERGINIA82: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 7c]
+mabeal1: calls 15
+VERGINIA82: checks 
+*** FLOP *** [Kc 3c 4h]
+VERGINIA82: checks 
+mabeal1: bets 30
+VERGINIA82: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kc 3c 4h]
+Seat 2: mabeal1 (button) (small blind) collected (60)
+Seat 3: VERGINIA82 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259620837062: Tournament #3972750322, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/06 22:51:15 CET [2026/02/06 16:51:15 ET]
+Table '3972750322 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1210 in chips) 
+Seat 3: VERGINIA82 (290 in chips) 
+VERGINIA82: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 9h]
+VERGINIA82: calls 15
+mabeal1: raises 1180 to 1210 and is all-in
+VERGINIA82: calls 260 and is all-in
+Uncalled bet (920) returned to mabeal1
+*** FLOP *** [As 3h 5d]
+*** TURN *** [As 3h 5d] [Qh]
+*** RIVER *** [As 3h 5d Qh] [Ah]
+*** SHOW DOWN ***
+mabeal1: shows [Ac 9h] (three of a kind, Aces)
+VERGINIA82: shows [7d 6s] (a pair of Aces)
+mabeal1 collected 580 from pot
+VERGINIA82 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [As 3h 5d Qh Ah]
+Seat 2: mabeal1 (big blind) showed [Ac 9h] and won (580) with three of a kind, Aces
+Seat 3: VERGINIA82 (button) (small blind) showed [7d 6s] and lost with a pair of Aces
+
+
+

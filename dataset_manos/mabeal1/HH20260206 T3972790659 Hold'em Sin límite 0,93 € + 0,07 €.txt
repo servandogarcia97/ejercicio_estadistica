@@ -1,0 +1,374 @@
+﻿PokerStars Hand #259622577676: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 0:49:09 CET [2026/02/06 18:49:09 ET]
+Table '3972790659 1' 3-max Seat #1 is the button
+Seat 1: malaqueko (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Enrique5224 (500 in chips) 
+mabeal1: posts small blind 10
+Enrique5224: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3c]
+malaqueko: raises 480 to 500 and is all-in
+mabeal1: folds 
+Enrique5224: folds 
+Uncalled bet (480) returned to malaqueko
+malaqueko collected 50 from pot
+malaqueko: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: malaqueko (button) collected (50)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Enrique5224 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259622579592: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 0:49:18 CET [2026/02/06 18:49:18 ET]
+Table '3972790659 1' 3-max Seat #2 is the button
+Seat 1: malaqueko (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Enrique5224 (480 in chips) 
+Enrique5224: posts small blind 10
+malaqueko: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8c]
+mabeal1: raises 20 to 40
+Enrique5224: calls 30
+malaqueko: calls 20
+*** FLOP *** [Td 3s 6s]
+Enrique5224: checks 
+malaqueko: checks 
+mabeal1: checks 
+*** TURN *** [Td 3s 6s] [8d]
+Enrique5224: bets 20
+malaqueko: calls 20
+mabeal1: raises 135 to 155
+Enrique5224: folds 
+malaqueko: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Td 3s 6s 8d]
+Seat 1: malaqueko (big blind) folded on the Turn
+Seat 2: mabeal1 (button) collected (180)
+Seat 3: Enrique5224 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259622585090: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 0:49:43 CET [2026/02/06 18:49:43 ET]
+Table '3972790659 1' 3-max Seat #3 is the button
+Seat 1: malaqueko (470 in chips) 
+Seat 2: mabeal1 (610 in chips) 
+Seat 3: Enrique5224 (420 in chips) 
+malaqueko: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Jc]
+Enrique5224: calls 20
+malaqueko: calls 10
+mabeal1: raises 590 to 610 and is all-in
+Enrique5224: folds 
+malaqueko: folds 
+Uncalled bet (590) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: malaqueko (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: Enrique5224 (button) folded before Flop
+
+
+
+PokerStars Hand #259622587256: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 0:49:53 CET [2026/02/06 18:49:53 ET]
+Table '3972790659 1' 3-max Seat #1 is the button
+Seat 1: malaqueko (450 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: Enrique5224 (400 in chips) 
+mabeal1: posts small blind 10
+Enrique5224: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 3c]
+malaqueko: calls 20
+mabeal1: folds 
+Enrique5224: checks 
+*** FLOP *** [3h Jd Kc]
+Enrique5224: checks 
+malaqueko: checks 
+*** TURN *** [3h Jd Kc] [2s]
+Enrique5224: bets 20
+malaqueko: calls 20
+*** RIVER *** [3h Jd Kc 2s] [As]
+Enrique5224: bets 20
+malaqueko: folds 
+Uncalled bet (20) returned to Enrique5224
+Enrique5224 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3h Jd Kc 2s As]
+Seat 1: malaqueko (button) folded on the River
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Enrique5224 (big blind) collected (90)
+
+
+
+PokerStars Hand #259622592952: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 0:50:19 CET [2026/02/06 18:50:19 ET]
+Table '3972790659 1' 3-max Seat #2 is the button
+Seat 1: malaqueko (410 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: Enrique5224 (450 in chips) 
+Enrique5224: posts small blind 10
+malaqueko: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 4s]
+mabeal1: folds 
+Enrique5224: raises 20 to 40
+malaqueko: calls 20
+*** FLOP *** [As 2d 3s]
+Enrique5224: checks 
+malaqueko: bets 20
+Enrique5224: calls 20
+*** TURN *** [As 2d 3s] [2s]
+Enrique5224: bets 40
+malaqueko: calls 40
+*** RIVER *** [As 2d 3s 2s] [9d]
+Enrique5224: bets 100
+malaqueko: calls 100
+*** SHOW DOWN ***
+Enrique5224: shows [Kh Ah] (two pair, Aces and Deuces)
+malaqueko: mucks hand 
+Enrique5224 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [As 2d 3s 2s 9d]
+Seat 1: malaqueko (big blind) mucked [5c Ac]
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Enrique5224 (small blind) showed [Kh Ah] and won (400) with two pair, Aces and Deuces
+
+
+
+PokerStars Hand #259622599257: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/07 0:50:48 CET [2026/02/06 18:50:48 ET]
+Table '3972790659 1' 3-max Seat #3 is the button
+Seat 1: malaqueko (210 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: Enrique5224 (650 in chips) 
+malaqueko: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ts]
+Enrique5224: calls 20
+malaqueko: calls 10
+mabeal1: raises 40 to 60
+Enrique5224: calls 40
+malaqueko: folds 
+*** FLOP *** [5d 2h Qh]
+mabeal1: bets 70
+Enrique5224: calls 70
+*** TURN *** [5d 2h Qh] [Ad]
+mabeal1: checks 
+Enrique5224: bets 140
+mabeal1: calls 140
+*** RIVER *** [5d 2h Qh Ad] [9s]
+mabeal1: checks 
+Enrique5224: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qs Ts] (a pair of Queens)
+Enrique5224: mucks hand 
+mabeal1 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [5d 2h Qh Ad 9s]
+Seat 1: malaqueko (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [Qs Ts] and won (560) with a pair of Queens
+Seat 3: Enrique5224 (button) mucked [Ks 9h]
+
+
+
+PokerStars Hand #259622610116: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 0:51:38 CET [2026/02/06 18:51:38 ET]
+Table '3972790659 1' 3-max Seat #1 is the button
+Seat 1: malaqueko (190 in chips) 
+Seat 2: mabeal1 (930 in chips) 
+Seat 3: Enrique5224 (380 in chips) 
+mabeal1: posts small blind 15
+Enrique5224: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 5s]
+malaqueko: folds 
+mabeal1: raises 900 to 930 and is all-in
+Enrique5224: calls 350 and is all-in
+Uncalled bet (550) returned to mabeal1
+*** FLOP *** [Kc Kh 4s]
+*** TURN *** [Kc Kh 4s] [Jd]
+*** RIVER *** [Kc Kh 4s Jd] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [5h 5s] (two pair, Kings and Fives)
+Enrique5224: shows [As Ts] (a pair of Kings)
+mabeal1 collected 760 from pot
+Enrique5224 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [Kc Kh 4s Jd 8h]
+Seat 1: malaqueko (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [5h 5s] and won (760) with two pair, Kings and Fives
+Seat 3: Enrique5224 (big blind) showed [As Ts] and lost with a pair of Kings
+
+
+
+PokerStars Hand #259622614107: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 0:51:56 CET [2026/02/06 18:51:56 ET]
+Table '3972790659 1' 3-max Seat #2 is the button
+Seat 1: malaqueko (190 in chips) 
+Seat 2: mabeal1 (1310 in chips) 
+mabeal1: posts small blind 15
+malaqueko: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4d]
+mabeal1: folds 
+Uncalled bet (15) returned to malaqueko
+malaqueko collected 30 from pot
+malaqueko: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: malaqueko (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259622617070: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 0:52:10 CET [2026/02/06 18:52:10 ET]
+Table '3972790659 1' 3-max Seat #1 is the button
+Seat 1: malaqueko (205 in chips) 
+Seat 2: mabeal1 (1295 in chips) 
+malaqueko: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 3h]
+malaqueko: raises 175 to 205 and is all-in
+mabeal1: folds 
+Uncalled bet (175) returned to malaqueko
+malaqueko collected 60 from pot
+malaqueko: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: malaqueko (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259622621186: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 0:52:29 CET [2026/02/06 18:52:29 ET]
+Table '3972790659 1' 3-max Seat #2 is the button
+Seat 1: malaqueko (235 in chips) 
+Seat 2: mabeal1 (1265 in chips) 
+mabeal1: posts small blind 15
+malaqueko: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 6d]
+mabeal1: raises 1235 to 1265 and is all-in
+malaqueko: folds 
+Uncalled bet (1235) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: malaqueko (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259622624816: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 0:52:46 CET [2026/02/06 18:52:46 ET]
+Table '3972790659 1' 3-max Seat #1 is the button
+Seat 1: malaqueko (205 in chips) 
+Seat 2: mabeal1 (1295 in chips) 
+malaqueko: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Ad]
+malaqueko: calls 15
+mabeal1: raises 1265 to 1295 and is all-in
+malaqueko: folds 
+Uncalled bet (1265) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: malaqueko (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259622629218: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/07 0:53:06 CET [2026/02/06 18:53:06 ET]
+Table '3972790659 1' 3-max Seat #2 is the button
+Seat 1: malaqueko (175 in chips) 
+Seat 2: mabeal1 (1325 in chips) 
+mabeal1: posts small blind 15
+malaqueko: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Ks]
+mabeal1: raises 1295 to 1325 and is all-in
+malaqueko: folds 
+Uncalled bet (1295) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: malaqueko (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259622634249: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 0:53:30 CET [2026/02/06 18:53:30 ET]
+Table '3972790659 1' 3-max Seat #1 is the button
+Seat 1: malaqueko (145 in chips) 
+Seat 2: mabeal1 (1355 in chips) 
+malaqueko: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5d]
+malaqueko: calls 20
+mabeal1: checks 
+*** FLOP *** [Ac 7d 2d]
+mabeal1: checks 
+malaqueko: checks 
+*** TURN *** [Ac 7d 2d] [3h]
+mabeal1: checks 
+malaqueko: checks 
+*** RIVER *** [Ac 7d 2d 3h] [9h]
+mabeal1: bets 120
+malaqueko: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 7d 2d 3h 9h]
+Seat 1: malaqueko (button) (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259622648770: Tournament #3972790659, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/07 0:54:37 CET [2026/02/06 18:54:37 ET]
+Table '3972790659 1' 3-max Seat #2 is the button
+Seat 1: malaqueko (105 in chips) 
+Seat 2: mabeal1 (1395 in chips) 
+mabeal1: posts small blind 20
+malaqueko: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5c]
+mabeal1: raises 120 to 160
+malaqueko: calls 65 and is all-in
+Uncalled bet (55) returned to mabeal1
+*** FLOP *** [5s Qd 2c]
+*** TURN *** [5s Qd 2c] [7s]
+*** RIVER *** [5s Qd 2c 7s] [Jc]
+*** SHOW DOWN ***
+malaqueko: shows [Td As] (high card Ace)
+mabeal1: shows [9h 5c] (a pair of Fives)
+mabeal1 collected 210 from pot
+malaqueko finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [5s Qd 2c 7s Jc]
+Seat 1: malaqueko (big blind) showed [Td As] and lost with high card Ace
+Seat 2: mabeal1 (button) (small blind) showed [9h 5c] and won (210) with a pair of Fives
+
+
+

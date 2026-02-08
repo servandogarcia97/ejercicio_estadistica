@@ -1,0 +1,1267 @@
+﻿PokerStars Hand #259602351432: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level IV (100/200) - 2026/02/05 17:25:31 CET [2026/02/05 11:25:31 ET]
+Table '3970434183 4' 8-max Seat #7 is the button
+Seat 2: mabeal1 (5000 in chips) 
+Seat 3: joueur19 (7861 in chips) 
+Seat 4: dns504 (4970 in chips) 
+Seat 5: eyeeel (4160 in chips) 
+Seat 6: memess54 (15929 in chips) 
+Seat 7: Thamarrurr (3995 in chips) 
+Seat 8: yuju80 (2735 in chips) 
+mabeal1: posts the ante 20
+joueur19: posts the ante 20
+dns504: posts the ante 20
+eyeeel: posts the ante 20
+memess54: posts the ante 20
+Thamarrurr: posts the ante 20
+yuju80: posts the ante 20
+yuju80: posts small blind 100
+mabeal1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 8h]
+joueur19: folds 
+dns504: folds 
+eyeeel: calls 200
+memess54: calls 200
+Thamarrurr: folds 
+yuju80: calls 100
+mabeal1: checks 
+*** FLOP *** [2s Kh 7d]
+yuju80: checks 
+mabeal1: checks 
+eyeeel: checks 
+memess54: checks 
+*** TURN *** [2s Kh 7d] [6c]
+yuju80: checks 
+mabeal1: bets 705
+eyeeel: folds 
+memess54: calls 705
+yuju80: folds 
+*** RIVER *** [2s Kh 7d 6c] [Js]
+mabeal1: bets 2400
+memess54: folds 
+Uncalled bet (2400) returned to mabeal1
+mabeal1 collected 2350 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 2350 | Rake 0 
+Board [2s Kh 7d 6c Js]
+Seat 2: mabeal1 (big blind) collected (2350)
+Seat 3: joueur19 folded before Flop (didn't bet)
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded on the Turn
+Seat 6: memess54 folded on the River
+Seat 7: Thamarrurr (button) folded before Flop (didn't bet)
+Seat 8: yuju80 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259602363108: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level IV (100/200) - 2026/02/05 17:26:36 CET [2026/02/05 11:26:36 ET]
+Table '3970434183 4' 8-max Seat #8 is the button
+Seat 2: mabeal1 (6425 in chips) 
+Seat 3: joueur19 (7841 in chips) 
+Seat 4: dns504 (4950 in chips) 
+Seat 5: eyeeel (3940 in chips) 
+Seat 6: memess54 (15004 in chips) 
+Seat 7: Thamarrurr (3975 in chips) 
+Seat 8: yuju80 (2515 in chips) 
+mabeal1: posts the ante 20
+joueur19: posts the ante 20
+dns504: posts the ante 20
+eyeeel: posts the ante 20
+memess54: posts the ante 20
+Thamarrurr: posts the ante 20
+yuju80: posts the ante 20
+mabeal1: posts small blind 100
+joueur19: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 7c]
+dns504: folds 
+eyeeel: folds 
+memess54: raises 200 to 400
+Thamarrurr: folds 
+yuju80: calls 400
+mabeal1: folds 
+joueur19: folds 
+*** FLOP *** [Jc Ad 6d]
+memess54: checks 
+yuju80: bets 1240
+memess54: raises 1240 to 2480
+yuju80: calls 855 and is all-in
+Uncalled bet (385) returned to memess54
+*** TURN *** [Jc Ad 6d] [2h]
+*** RIVER *** [Jc Ad 6d 2h] [Jh]
+*** SHOW DOWN ***
+memess54: shows [4c Ac] (two pair, Aces and Jacks)
+yuju80: shows [Td 9d] (a pair of Jacks)
+memess54 collected 5430 from pot
+yuju80 finished the tournament
+*** SUMMARY ***
+Total pot 5430 | Rake 0 
+Board [Jc Ad 6d 2h Jh]
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joueur19 (big blind) folded before Flop
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: memess54 showed [4c Ac] and won (5430) with two pair, Aces and Jacks
+Seat 7: Thamarrurr folded before Flop (didn't bet)
+Seat 8: yuju80 (button) showed [Td 9d] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259602369437: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level IV (100/200) - 2026/02/05 17:27:12 CET [2026/02/05 11:27:12 ET]
+Table '3970434183 4' 8-max Seat #2 is the button
+Seat 2: mabeal1 (6305 in chips) 
+Seat 3: joueur19 (7621 in chips) 
+Seat 4: dns504 (4930 in chips) 
+Seat 5: eyeeel (3920 in chips) 
+Seat 6: memess54 (17919 in chips) 
+Seat 7: Thamarrurr (3955 in chips) 
+mabeal1: posts the ante 20
+joueur19: posts the ante 20
+dns504: posts the ante 20
+eyeeel: posts the ante 20
+memess54: posts the ante 20
+Thamarrurr: posts the ante 20
+joueur19: posts small blind 100
+dns504: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Td]
+eyeeel: folds 
+memess54: calls 200
+Thamarrurr: calls 200
+mabeal1: raises 800 to 1000
+joueur19: calls 900
+dns504: folds 
+memess54: calls 800
+Dani_Boys77 is disconnected 
+Thamarrurr: calls 800
+*** FLOP *** [9h 8d Jh]
+joueur19: checks 
+memess54: checks 
+Thamarrurr: checks 
+mabeal1: checks 
+*** TURN *** [9h 8d Jh] [9c]
+joueur19: checks 
+memess54: bets 400
+Thamarrurr: folds 
+mabeal1: calls 400
+joueur19: calls 400
+*** RIVER *** [9h 8d Jh 9c] [Kh]
+joueur19: checks 
+memess54: checks 
+mabeal1: bets 4885 and is all-in
+joueur19: folds 
+memess54: folds 
+Uncalled bet (4885) returned to mabeal1
+mabeal1 collected 5520 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 5520 | Rake 0 
+Board [9h 8d Jh 9c Kh]
+Seat 2: mabeal1 (button) collected (5520)
+Seat 3: joueur19 (small blind) folded on the River
+Seat 4: dns504 (big blind) folded before Flop
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: memess54 folded on the River
+Seat 7: Thamarrurr folded on the Turn
+
+
+
+PokerStars Hand #259602385014: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level IV (100/200) - 2026/02/05 17:28:39 CET [2026/02/05 11:28:39 ET]
+Table '3970434183 4' 8-max Seat #3 is the button
+Seat 1: Dani_Boys77 (6019 in chips) 
+Seat 2: mabeal1 (10405 in chips) 
+Seat 3: joueur19 (6201 in chips) 
+Seat 4: dns504 (4710 in chips) 
+Seat 5: eyeeel (3900 in chips) 
+Seat 6: memess54 (16499 in chips) 
+Seat 8: sami348 (3870 in chips) 
+Dani_Boys77: posts the ante 20
+mabeal1: posts the ante 20
+joueur19: posts the ante 20
+dns504: posts the ante 20
+eyeeel: posts the ante 20
+memess54: posts the ante 20
+sami348: posts the ante 20
+dns504: posts small blind 100
+eyeeel: posts big blind 200
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2h]
+memess54: folds 
+sami348: calls 200
+Dani_Boys77: calls 200
+mabeal1: folds 
+joueur19: folds 
+dns504: folds 
+eyeeel: checks 
+*** FLOP *** [5c Js 7c]
+eyeeel: checks 
+sami348: checks 
+Dani_Boys77: bets 210
+eyeeel: calls 210
+sami348: calls 210
+*** TURN *** [5c Js 7c] [3h]
+eyeeel: checks 
+sami348: checks 
+Dani_Boys77: bets 668
+eyeeel: folds 
+sami348: folds 
+Uncalled bet (668) returned to Dani_Boys77
+Dani_Boys77 collected 1470 from pot
+*** SUMMARY ***
+Total pot 1470 | Rake 0 
+Board [5c Js 7c 3h]
+Seat 1: Dani_Boys77 collected (1470)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 3: joueur19 (button) folded before Flop (didn't bet)
+Seat 4: dns504 (small blind) folded before Flop
+Seat 5: eyeeel (big blind) folded on the Turn
+Seat 6: memess54 folded before Flop (didn't bet)
+Seat 8: sami348 folded on the Turn
+
+
+
+PokerStars Hand #259602403734: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level V (150/300) - 2026/02/05 17:30:23 CET [2026/02/05 11:30:23 ET]
+Table '3970434183 4' 8-max Seat #4 is the button
+Seat 1: Dani_Boys77 (7059 in chips) 
+Seat 2: mabeal1 (10385 in chips) 
+Seat 3: joueur19 (6181 in chips) 
+Seat 4: dns504 (4590 in chips) 
+Seat 5: eyeeel (3470 in chips) 
+Seat 7: pablobonilla16 (5000 in chips) 
+Seat 8: sami348 (3440 in chips) 
+Dani_Boys77: posts the ante 25
+mabeal1: posts the ante 25
+joueur19: posts the ante 25
+dns504: posts the ante 25
+eyeeel: posts the ante 25
+pablobonilla16: posts the ante 25
+sami348: posts the ante 25
+eyeeel: posts small blind 150
+pablobonilla16: posts big blind 300
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7c]
+sami348: calls 300
+Dani_Boys77: folds 
+mabeal1: folds 
+joueur19: folds 
+dns504: folds 
+eyeeel: calls 150
+pablobonilla16: raises 4675 to 4975 and is all-in
+sami348: folds 
+eyeeel: folds 
+Uncalled bet (4675) returned to pablobonilla16
+pablobonilla16 collected 1075 from pot
+*** SUMMARY ***
+Total pot 1075 | Rake 0 
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 3: joueur19 folded before Flop (didn't bet)
+Seat 4: dns504 (button) folded before Flop (didn't bet)
+Seat 5: eyeeel (small blind) folded before Flop
+Seat 7: pablobonilla16 (big blind) collected (1075)
+Seat 8: sami348 folded before Flop
+
+
+
+PokerStars Hand #259602411449: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level V (150/300) - 2026/02/05 17:31:06 CET [2026/02/05 11:31:06 ET]
+Table '3970434183 4' 8-max Seat #5 is the button
+Seat 1: Dani_Boys77 (7034 in chips) 
+Seat 2: mabeal1 (10360 in chips) 
+Seat 3: joueur19 (6156 in chips) 
+Seat 4: dns504 (4565 in chips) 
+Seat 5: eyeeel (3145 in chips) 
+Seat 7: pablobonilla16 (5750 in chips) 
+Seat 8: sami348 (3115 in chips) 
+Dani_Boys77: posts the ante 25
+mabeal1: posts the ante 25
+joueur19: posts the ante 25
+dns504: posts the ante 25
+eyeeel: posts the ante 25
+pablobonilla16: posts the ante 25
+sami348: posts the ante 25
+pablobonilla16: posts small blind 150
+sami348: posts big blind 300
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ks]
+Dani_Boys77: raises 300 to 600
+mabeal1: folds 
+joueur19: folds 
+dns504: folds 
+eyeeel: folds 
+pablobonilla16: folds 
+sami348: folds 
+Uncalled bet (300) returned to Dani_Boys77
+Dani_Boys77 collected 925 from pot
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Seat 1: Dani_Boys77 collected (925)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 3: joueur19 folded before Flop (didn't bet)
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel (button) folded before Flop (didn't bet)
+Seat 7: pablobonilla16 (small blind) folded before Flop
+Seat 8: sami348 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602414811: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level V (150/300) - 2026/02/05 17:31:25 CET [2026/02/05 11:31:25 ET]
+Table '3970434183 4' 8-max Seat #7 is the button
+Seat 1: Dani_Boys77 (7634 in chips) 
+Seat 2: mabeal1 (10335 in chips) 
+Seat 3: joueur19 (6131 in chips) 
+Seat 4: dns504 (4540 in chips) 
+Seat 5: eyeeel (3120 in chips) 
+Seat 7: pablobonilla16 (5575 in chips) 
+Seat 8: sami348 (2790 in chips) 
+Dani_Boys77: posts the ante 25
+mabeal1: posts the ante 25
+joueur19: posts the ante 25
+dns504: posts the ante 25
+eyeeel: posts the ante 25
+pablobonilla16: posts the ante 25
+sami348: posts the ante 25
+sami348: posts small blind 150
+Dani_Boys77: posts big blind 300
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5c]
+mabeal1: folds 
+joueur19: folds 
+dns504: folds 
+eyeeel: folds 
+pablobonilla16: folds 
+sami348: calls 150
+Dani_Boys77: checks 
+*** FLOP *** [Kd Jc 6d]
+sami348: checks 
+Dani_Boys77: checks 
+*** TURN *** [Kd Jc 6d] [3h]
+sami348: checks 
+Dani_Boys77: checks 
+*** RIVER *** [Kd Jc 6d 3h] [9h]
+sami348: bets 300
+Dani_Boys77: calls 300
+*** SHOW DOWN ***
+sami348: shows [9d As] (a pair of Nines)
+Dani_Boys77: mucks hand 
+sami348 collected 1375 from pot
+*** SUMMARY ***
+Total pot 1375 | Rake 0 
+Board [Kd Jc 6d 3h 9h]
+Seat 1: Dani_Boys77 (big blind) mucked [4s Ad]
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 3: joueur19 folded before Flop (didn't bet)
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 7: pablobonilla16 (button) folded before Flop (didn't bet)
+Seat 8: sami348 (small blind) showed [9d As] and won (1375) with a pair of Nines
+
+
+
+PokerStars Hand #259602426238: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level V (150/300) - 2026/02/05 17:32:28 CET [2026/02/05 11:32:28 ET]
+Table '3970434183 4' 8-max Seat #8 is the button
+Seat 1: Dani_Boys77 (7009 in chips) 
+Seat 2: mabeal1 (10310 in chips) 
+Seat 3: joueur19 (6106 in chips) 
+Seat 4: dns504 (4515 in chips) 
+Seat 5: eyeeel (3095 in chips) 
+Seat 7: pablobonilla16 (5550 in chips) 
+Seat 8: sami348 (3540 in chips) 
+Dani_Boys77: posts the ante 25
+mabeal1: posts the ante 25
+joueur19: posts the ante 25
+dns504: posts the ante 25
+eyeeel: posts the ante 25
+pablobonilla16: posts the ante 25
+sami348: posts the ante 25
+Dani_Boys77: posts small blind 150
+mabeal1: posts big blind 300
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 4d]
+joueur19: folds 
+dns504: folds 
+eyeeel: folds 
+pablobonilla16: folds 
+sami348: calls 300
+Dani_Boys77: calls 150
+mabeal1: checks 
+*** FLOP *** [8h Qh Jc]
+Dani_Boys77: checks 
+mabeal1: checks 
+sami348: checks 
+*** TURN *** [8h Qh Jc] [Kc]
+Dani_Boys77: checks 
+mabeal1: bets 806
+sami348: folds 
+Dani_Boys77: calls 806
+*** RIVER *** [8h Qh Jc Kc] [8d]
+Dani_Boys77: checks 
+mabeal1: bets 1044
+Dani_Boys77: calls 1044
+*** SHOW DOWN ***
+mabeal1: shows [Kd 4d] (two pair, Kings and Eights)
+Dani_Boys77: mucks hand 
+mabeal1 collected 4775 from pot
+*** SUMMARY ***
+Total pot 4775 | Rake 0 
+Board [8h Qh Jc Kc 8d]
+Seat 1: Dani_Boys77 (small blind) mucked [Qs Td]
+Seat 2: mabeal1 (big blind) showed [Kd 4d] and won (4775) with two pair, Kings and Eights
+Seat 3: joueur19 folded before Flop (didn't bet)
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 7: pablobonilla16 folded before Flop (didn't bet)
+Seat 8: sami348 (button) folded on the Turn
+
+
+
+PokerStars Hand #259602438164: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level V (150/300) - 2026/02/05 17:33:34 CET [2026/02/05 11:33:34 ET]
+Table '3970434183 4' 8-max Seat #1 is the button
+Seat 1: Dani_Boys77 (4834 in chips) 
+Seat 2: mabeal1 (12910 in chips) 
+Seat 3: joueur19 (6081 in chips) 
+Seat 4: dns504 (4490 in chips) 
+Seat 5: eyeeel (3070 in chips) 
+Seat 7: pablobonilla16 (5525 in chips) 
+Seat 8: sami348 (3215 in chips) 
+Dani_Boys77: posts the ante 25
+mabeal1: posts the ante 25
+joueur19: posts the ante 25
+dns504: posts the ante 25
+eyeeel: posts the ante 25
+pablobonilla16: posts the ante 25
+sami348: posts the ante 25
+mabeal1: posts small blind 150
+joueur19: posts big blind 300
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Ts]
+dns504: folds 
+eyeeel: folds 
+pablobonilla16: folds 
+sami348: calls 300
+Dani_Boys77: calls 300
+mabeal1: calls 150
+joueur19: checks 
+*** FLOP *** [5c Th Td]
+mabeal1: checks 
+joueur19: checks 
+sami348: checks 
+Dani_Boys77: checks 
+*** TURN *** [5c Th Td] [Tc]
+mabeal1: bets 300
+joueur19: folds 
+sami348: calls 300
+Dani_Boys77: calls 300
+*** RIVER *** [5c Th Td Tc] [Jd]
+mabeal1: bets 1706
+sami348: folds 
+Dani_Boys77: calls 1706
+*** SHOW DOWN ***
+mabeal1: shows [Jh Ts] (four of a kind, Tens)
+Dani_Boys77: mucks hand 
+mabeal1 collected 5687 from pot
+*** SUMMARY ***
+Total pot 5687 | Rake 0 
+Board [5c Th Td Tc Jd]
+Seat 1: Dani_Boys77 (button) mucked [9s Js]
+Seat 2: mabeal1 (small blind) showed [Jh Ts] and won (5687) with four of a kind, Tens
+Seat 3: joueur19 (big blind) folded on the Turn
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 7: pablobonilla16 folded before Flop (didn't bet)
+Seat 8: sami348 folded on the River
+
+
+
+PokerStars Hand #259602451279: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level V (150/300) - 2026/02/05 17:34:48 CET [2026/02/05 11:34:48 ET]
+Table '3970434183 4' 8-max Seat #2 is the button
+Seat 1: Dani_Boys77 (2503 in chips) 
+Seat 2: mabeal1 (16266 in chips) 
+Seat 3: joueur19 (5756 in chips) 
+Seat 4: dns504 (4465 in chips) 
+Seat 5: eyeeel (3045 in chips) 
+Seat 7: pablobonilla16 (5500 in chips) 
+Seat 8: sami348 (2590 in chips) 
+Dani_Boys77: posts the ante 25
+mabeal1: posts the ante 25
+joueur19: posts the ante 25
+dns504: posts the ante 25
+eyeeel: posts the ante 25
+pablobonilla16: posts the ante 25
+sami348: posts the ante 25
+joueur19: posts small blind 150
+dns504: posts big blind 300
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Qd]
+eyeeel: folds 
+pablobonilla16: folds 
+sami348: raises 300 to 600
+Dani_Boys77: folds 
+mabeal1: folds 
+joueur19: folds 
+dns504: folds 
+Uncalled bet (300) returned to sami348
+sami348 collected 925 from pot
+sami348: doesn't show hand 
+*** SUMMARY ***
+Total pot 925 | Rake 0 
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joueur19 (small blind) folded before Flop
+Seat 4: dns504 (big blind) folded before Flop
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 7: pablobonilla16 folded before Flop (didn't bet)
+Seat 8: sami348 collected (925)
+
+
+
+PokerStars Hand #259602460420: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VI (200/400) - 2026/02/05 17:35:38 CET [2026/02/05 11:35:38 ET]
+Table '3970434183 4' 8-max Seat #3 is the button
+Seat 1: Dani_Boys77 (2478 in chips) 
+Seat 2: mabeal1 (16241 in chips) 
+Seat 3: joueur19 (5581 in chips) 
+Seat 4: dns504 (4140 in chips) 
+Seat 5: eyeeel (3020 in chips) 
+Seat 7: pablobonilla16 (5475 in chips) 
+Seat 8: sami348 (3190 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+joueur19: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+dns504: posts small blind 200
+eyeeel: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Td]
+pablobonilla16: folds 
+sami348: folds 
+Dani_Boys77: folds 
+mabeal1: folds 
+joueur19: folds 
+dns504: folds 
+Uncalled bet (200) returned to eyeeel
+eyeeel collected 750 from pot
+eyeeel: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 3: joueur19 (button) folded before Flop (didn't bet)
+Seat 4: dns504 (small blind) folded before Flop
+Seat 5: eyeeel (big blind) collected (750)
+Seat 7: pablobonilla16 folded before Flop (didn't bet)
+Seat 8: sami348 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602468125: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VI (200/400) - 2026/02/05 17:36:21 CET [2026/02/05 11:36:21 ET]
+Table '3970434183 4' 8-max Seat #4 is the button
+Seat 1: Dani_Boys77 (2428 in chips) 
+Seat 2: mabeal1 (16191 in chips) 
+Seat 3: joueur19 (5531 in chips) 
+Seat 4: dns504 (3890 in chips) 
+Seat 5: eyeeel (3520 in chips) 
+Seat 7: pablobonilla16 (5425 in chips) 
+Seat 8: sami348 (3140 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+joueur19: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+eyeeel: posts small blind 200
+pablobonilla16: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Ad]
+sami348: folds 
+Dani_Boys77: folds 
+mabeal1: raises 800 to 1200
+joueur19: folds 
+dns504: folds 
+eyeeel: folds 
+pablobonilla16: calls 800
+*** FLOP *** [5h 2h Qs]
+pablobonilla16: checks 
+mabeal1: bets 1475
+pablobonilla16: raises 2700 to 4175 and is all-in
+mabeal1: folds 
+Uncalled bet (2700) returned to pablobonilla16
+pablobonilla16 collected 5900 from pot
+*** SUMMARY ***
+Total pot 5900 | Rake 0 
+Board [5h 2h Qs]
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 folded on the Flop
+Seat 3: joueur19 folded before Flop (didn't bet)
+Seat 4: dns504 (button) folded before Flop (didn't bet)
+Seat 5: eyeeel (small blind) folded before Flop
+Seat 7: pablobonilla16 (big blind) collected (5900)
+Seat 8: sami348 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602475821: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VI (200/400) - 2026/02/05 17:37:03 CET [2026/02/05 11:37:03 ET]
+Table '3970434183 4' 8-max Seat #5 is the button
+Seat 1: Dani_Boys77 (2378 in chips) 
+Seat 2: mabeal1 (13466 in chips) 
+Seat 3: joueur19 (5481 in chips) 
+Seat 4: dns504 (3840 in chips) 
+Seat 5: eyeeel (3270 in chips) 
+Seat 7: pablobonilla16 (8600 in chips) 
+Seat 8: sami348 (3090 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+joueur19: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+pablobonilla16: posts small blind 200
+sami348: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 3c]
+Dani_Boys77: folds 
+mabeal1: folds 
+joueur19: folds 
+dns504: folds 
+eyeeel: raises 2820 to 3220 and is all-in
+pablobonilla16: folds 
+sami348: folds 
+Uncalled bet (2820) returned to eyeeel
+eyeeel collected 1350 from pot
+eyeeel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 3: joueur19 folded before Flop (didn't bet)
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel (button) collected (1350)
+Seat 7: pablobonilla16 (small blind) folded before Flop
+Seat 8: sami348 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602480157: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VI (200/400) - 2026/02/05 17:37:27 CET [2026/02/05 11:37:27 ET]
+Table '3970434183 4' 8-max Seat #7 is the button
+Seat 1: Dani_Boys77 (2328 in chips) 
+Seat 2: mabeal1 (13416 in chips) 
+Seat 3: joueur19 (5431 in chips) 
+Seat 4: dns504 (3790 in chips) 
+Seat 5: eyeeel (4170 in chips) 
+Seat 7: pablobonilla16 (8350 in chips) 
+Seat 8: sami348 (2640 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+joueur19: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+sami348: posts small blind 200
+Dani_Boys77: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 8h]
+mabeal1: folds 
+joueur19: folds 
+dns504: folds 
+eyeeel: folds 
+pablobonilla16: raises 7900 to 8300 and is all-in
+sami348: folds 
+Dani_Boys77: calls 1878 and is all-in
+Uncalled bet (6022) returned to pablobonilla16
+*** FLOP *** [Kc 5h Ks]
+*** TURN *** [Kc 5h Ks] [6d]
+*** RIVER *** [Kc 5h Ks 6d] [Ad]
+*** SHOW DOWN ***
+Dani_Boys77: shows [Kd 4s] (three of a kind, Kings)
+pablobonilla16: shows [Qd Ac] (two pair, Aces and Kings)
+Dani_Boys77 collected 5106 from pot
+*** SUMMARY ***
+Total pot 5106 | Rake 0 
+Board [Kc 5h Ks 6d Ad]
+Seat 1: Dani_Boys77 (big blind) showed [Kd 4s] and won (5106) with three of a kind, Kings
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 3: joueur19 folded before Flop (didn't bet)
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 7: pablobonilla16 (button) showed [Qd Ac] and lost with two pair, Aces and Kings
+Seat 8: sami348 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602485077: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VI (200/400) - 2026/02/05 17:37:54 CET [2026/02/05 11:37:54 ET]
+Table '3970434183 4' 8-max Seat #8 is the button
+Seat 1: Dani_Boys77 (5106 in chips) 
+Seat 2: mabeal1 (13366 in chips) 
+Seat 3: joueur19 (5381 in chips) 
+Seat 4: dns504 (3740 in chips) 
+Seat 5: eyeeel (4120 in chips) 
+Seat 7: pablobonilla16 (6022 in chips) 
+Seat 8: sami348 (2390 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+joueur19: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+Dani_Boys77: posts small blind 200
+mabeal1: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Td]
+joueur19: folds 
+dns504: folds 
+eyeeel: folds 
+pablobonilla16: raises 5572 to 5972 and is all-in
+sami348: folds 
+Dani_Boys77: folds 
+mabeal1: folds 
+Uncalled bet (5572) returned to pablobonilla16
+pablobonilla16 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: Dani_Boys77 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: joueur19 folded before Flop (didn't bet)
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 7: pablobonilla16 collected (1350)
+Seat 8: sami348 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602492025: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VI (200/400) - 2026/02/05 17:38:32 CET [2026/02/05 11:38:32 ET]
+Table '3970434183 4' 8-max Seat #1 is the button
+Seat 1: Dani_Boys77 (4856 in chips) 
+Seat 2: mabeal1 (12916 in chips) 
+Seat 3: joueur19 (5331 in chips) 
+Seat 4: dns504 (3690 in chips) 
+Seat 5: eyeeel (4070 in chips) 
+Seat 7: pablobonilla16 (6922 in chips) 
+Seat 8: sami348 (2340 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+joueur19: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+mabeal1: posts small blind 200
+joueur19: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8d]
+dns504: folds 
+eyeeel: calls 400
+pablobonilla16: calls 400
+sami348: folds 
+Dani_Boys77: folds 
+mabeal1: folds 
+joueur19: checks 
+*** FLOP *** [Qs 3d 8s]
+joueur19: checks 
+eyeeel: checks 
+TUSCA311 is disconnected 
+pablobonilla16: bets 6472 and is all-in
+joueur19: folds 
+eyeeel: folds 
+Uncalled bet (6472) returned to pablobonilla16
+pablobonilla16 collected 1750 from pot
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Board [Qs 3d 8s]
+Seat 1: Dani_Boys77 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joueur19 (big blind) folded on the Flop
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded on the Flop
+Seat 7: pablobonilla16 collected (1750)
+Seat 8: sami348 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602498265: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VI (200/400) - 2026/02/05 17:39:06 CET [2026/02/05 11:39:06 ET]
+Table '3970434183 4' 8-max Seat #2 is the button
+Seat 1: Dani_Boys77 (4806 in chips) 
+Seat 2: mabeal1 (12666 in chips) 
+Seat 3: joueur19 (4881 in chips) 
+Seat 4: dns504 (3640 in chips) 
+Seat 5: eyeeel (3620 in chips) 
+Seat 6: TUSCA311 (5000 in chips) 
+Seat 7: pablobonilla16 (8222 in chips) 
+Seat 8: sami348 (2290 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+joueur19: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+TUSCA311: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+joueur19: posts small blind 200
+dns504: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 7s]
+eyeeel: folds 
+TUSCA311: folds 
+pablobonilla16: calls 400
+sami348: folds 
+Dani_Boys77: folds 
+mabeal1: folds 
+joueur19: calls 200
+dns504: checks 
+*** FLOP *** [4d Td 9s]
+joueur19: bets 400
+dns504: folds 
+pablobonilla16: raises 7372 to 7772 and is all-in
+joueur19: calls 4031 and is all-in
+Uncalled bet (3341) returned to pablobonilla16
+*** TURN *** [4d Td 9s] [Jd]
+*** RIVER *** [4d Td 9s Jd] [Js]
+*** SHOW DOWN ***
+joueur19: shows [6h 9h] (two pair, Jacks and Nines)
+pablobonilla16: shows [9c Tc] (two pair, Jacks and Tens)
+pablobonilla16 collected 10462 from pot
+joueur19 finished the tournament
+*** SUMMARY ***
+Total pot 10462 | Rake 0 
+Board [4d Td 9s Jd Js]
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joueur19 (small blind) showed [6h 9h] and lost with two pair, Jacks and Nines
+Seat 4: dns504 (big blind) folded on the Flop
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: TUSCA311 folded before Flop (didn't bet)
+Seat 7: pablobonilla16 showed [9c Tc] and won (10462) with two pair, Jacks and Tens
+Seat 8: sami348 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602507769: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VI (200/400) - 2026/02/05 17:39:58 CET [2026/02/05 11:39:58 ET]
+Table '3970434183 4' 8-max Seat #4 is the button
+Seat 1: Dani_Boys77 (4756 in chips) 
+Seat 2: mabeal1 (12616 in chips) 
+Seat 4: dns504 (3190 in chips) 
+Seat 5: eyeeel (3570 in chips) 
+Seat 6: TUSCA311 (4950 in chips) 
+Seat 7: pablobonilla16 (13803 in chips) 
+Seat 8: sami348 (2240 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+TUSCA311: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+eyeeel: posts small blind 200
+TUSCA311: posts big blind 400
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Kd]
+pablobonilla16: folds 
+sami348: folds 
+Dani_Boys77: folds 
+mabeal1: folds 
+dns504: raises 2740 to 3140 and is all-in
+eyeeel: folds 
+TUSCA311: folds 
+Uncalled bet (2740) returned to dns504
+dns504 collected 1350 from pot
+dns504: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 4: dns504 (button) collected (1350)
+Seat 5: eyeeel (small blind) folded before Flop
+Seat 6: TUSCA311 (big blind) folded before Flop
+Seat 7: pablobonilla16 folded before Flop (didn't bet)
+Seat 8: sami348 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602512024: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VII (300/600) - 2026/02/05 17:40:21 CET [2026/02/05 11:40:21 ET]
+Table '3970434183 4' 8-max Seat #5 is the button
+Seat 1: Dani_Boys77 (4706 in chips) 
+Seat 2: mabeal1 (12566 in chips) 
+Seat 4: dns504 (4090 in chips) 
+Seat 5: eyeeel (3320 in chips) 
+Seat 6: TUSCA311 (4500 in chips) 
+Seat 7: pablobonilla16 (13753 in chips) 
+Seat 8: sami348 (2190 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+TUSCA311: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+TUSCA311: posts small blind 300
+pablobonilla16: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Kd]
+sami348: calls 600
+Dani_Boys77: calls 600
+mabeal1: folds 
+dns504: folds 
+eyeeel: folds 
+TUSCA311: folds 
+pablobonilla16: checks 
+*** FLOP *** [As Td Ac]
+pablobonilla16: checks 
+sami348: bets 1540 and is all-in
+Dani_Boys77: folds 
+pablobonilla16: folds 
+Uncalled bet (1540) returned to sami348
+sami348 collected 2450 from pot
+sami348: doesn't show hand 
+*** SUMMARY ***
+Total pot 2450 | Rake 0 
+Board [As Td Ac]
+Seat 1: Dani_Boys77 folded on the Flop
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel (button) folded before Flop (didn't bet)
+Seat 6: TUSCA311 (small blind) folded before Flop
+Seat 7: pablobonilla16 (big blind) folded on the Flop
+Seat 8: sami348 collected (2450)
+
+
+
+PokerStars Hand #259602520705: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VII (300/600) - 2026/02/05 17:41:10 CET [2026/02/05 11:41:10 ET]
+Table '3970434183 4' 8-max Seat #6 is the button
+Seat 1: Dani_Boys77 (4056 in chips) 
+Seat 2: mabeal1 (12516 in chips) 
+Seat 4: dns504 (4040 in chips) 
+Seat 5: eyeeel (3270 in chips) 
+Seat 6: TUSCA311 (4150 in chips) 
+Seat 7: pablobonilla16 (13103 in chips) 
+Seat 8: sami348 (3990 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+TUSCA311: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+pablobonilla16: posts small blind 300
+sami348: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Js]
+Dani_Boys77: folds 
+mabeal1: folds 
+dns504: raises 3390 to 3990 and is all-in
+eyeeel: folds 
+TUSCA311: folds 
+pablobonilla16: folds 
+sami348: folds 
+Uncalled bet (3390) returned to dns504
+dns504 collected 1850 from pot
+dns504: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 4: dns504 collected (1850)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: TUSCA311 (button) folded before Flop (didn't bet)
+Seat 7: pablobonilla16 (small blind) folded before Flop
+Seat 8: sami348 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259602525673: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VII (300/600) - 2026/02/05 17:41:38 CET [2026/02/05 11:41:38 ET]
+Table '3970434183 4' 8-max Seat #7 is the button
+Seat 1: Dani_Boys77 (4006 in chips) 
+Seat 2: mabeal1 (12466 in chips) 
+Seat 4: dns504 (5240 in chips) 
+Seat 5: eyeeel (3220 in chips) 
+Seat 6: TUSCA311 (4100 in chips) 
+Seat 7: pablobonilla16 (12753 in chips) 
+Seat 8: sami348 (3340 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+TUSCA311: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+sami348: posts small blind 300
+Dani_Boys77: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Qc]
+mabeal1: folds 
+dns504: folds 
+eyeeel: folds 
+TUSCA311: folds 
+pablobonilla16: raises 12103 to 12703 and is all-in
+sami348: folds 
+Dani_Boys77: calls 3356 and is all-in
+Uncalled bet (8747) returned to pablobonilla16
+*** FLOP *** [Kd 4d Td]
+*** TURN *** [Kd 4d Td] [Qd]
+*** RIVER *** [Kd 4d Td Qd] [Kh]
+*** SHOW DOWN ***
+Dani_Boys77: shows [Ad 5c] (a flush, Ace high)
+pablobonilla16: shows [Jc Kc] (three of a kind, Kings)
+Dani_Boys77 collected 8562 from pot
+*** SUMMARY ***
+Total pot 8562 | Rake 0 
+Board [Kd 4d Td Qd Kh]
+Seat 1: Dani_Boys77 (big blind) showed [Ad 5c] and won (8562) with a flush, Ace high
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: TUSCA311 folded before Flop (didn't bet)
+Seat 7: pablobonilla16 (button) showed [Jc Kc] and lost with three of a kind, Kings
+Seat 8: sami348 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602533753: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VII (300/600) - 2026/02/05 17:42:22 CET [2026/02/05 11:42:22 ET]
+Table '3970434183 4' 8-max Seat #8 is the button
+Seat 1: Dani_Boys77 (8562 in chips) 
+Seat 2: mabeal1 (12416 in chips) 
+Seat 4: dns504 (5190 in chips) 
+Seat 5: eyeeel (3170 in chips) 
+Seat 6: TUSCA311 (4050 in chips) 
+Seat 7: pablobonilla16 (8747 in chips) 
+Seat 8: sami348 (2990 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+TUSCA311: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+Dani_Boys77: posts small blind 300
+mabeal1: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ac]
+dns504: folds 
+eyeeel: folds 
+TUSCA311: calls 600
+pablobonilla16: calls 600
+sami348: folds 
+Dani_Boys77: calls 300
+mabeal1: raises 11766 to 12366 and is all-in
+TUSCA311: calls 3400 and is all-in
+pablobonilla16: calls 8097 and is all-in
+Dani_Boys77: folds 
+Uncalled bet (3669) returned to mabeal1
+*** FLOP *** [6s Tc 9s]
+*** TURN *** [6s Tc 9s] [9c]
+*** RIVER *** [6s Tc 9s 9c] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [8h Ac] (two pair, Nines and Sixes)
+pablobonilla16: shows [Kc Td] (two pair, Tens and Nines)
+pablobonilla16 collected 9394 from side pot
+TUSCA311: shows [As 7s] (two pair, Nines and Sixes)
+pablobonilla16 collected 12950 from main pot
+TUSCA311 finished the tournament in 43rd place
+*** SUMMARY ***
+Total pot 22344 Main pot 12950. Side pot 9394. | Rake 0 
+Board [6s Tc 9s 9c 6h]
+Seat 1: Dani_Boys77 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [8h Ac] and lost with two pair, Nines and Sixes
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: TUSCA311 showed [As 7s] and lost with two pair, Nines and Sixes
+Seat 7: pablobonilla16 showed [Kc Td] and won (22344) with two pair, Tens and Nines
+Seat 8: sami348 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602540166: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VII (300/600) - 2026/02/05 17:42:58 CET [2026/02/05 11:42:58 ET]
+Table '3970434183 4' 8-max Seat #1 is the button
+Seat 1: Dani_Boys77 (7912 in chips) 
+Seat 2: mabeal1 (3669 in chips) 
+Seat 4: dns504 (5140 in chips) 
+Seat 5: eyeeel (3120 in chips) 
+Seat 7: pablobonilla16 (22344 in chips) 
+Seat 8: sami348 (2940 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+mabeal1: posts small blind 300
+dns504: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Qs]
+eyeeel: folds 
+pablobonilla16: folds 
+sami348: folds 
+Dani_Boys77: calls 600
+mabeal1: raises 3019 to 3619 and is all-in
+dns504: folds 
+Dani_Boys77: folds 
+Uncalled bet (3019) returned to mabeal1
+mabeal1 collected 2100 from pot
+moguileisjc is disconnected 
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 2100 | Rake 0 
+Seat 1: Dani_Boys77 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (2100)
+Seat 4: dns504 (big blind) folded before Flop
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 7: pablobonilla16 folded before Flop (didn't bet)
+Seat 8: sami348 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602547494: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VII (300/600) - 2026/02/05 17:43:38 CET [2026/02/05 11:43:38 ET]
+Table '3970434183 4' 8-max Seat #2 is the button
+Seat 1: Dani_Boys77 (7262 in chips) 
+Seat 2: mabeal1 (5119 in chips) 
+Seat 3: moguileisjc (8340 in chips) out of hand (moved from another table into small blind)
+Seat 4: dns504 (4490 in chips) 
+Seat 5: eyeeel (3070 in chips) 
+Seat 7: pablobonilla16 (22294 in chips) 
+Seat 8: sami348 (2890 in chips) 
+moguileisjc will be allowed to play after the button
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+dns504: posts small blind 300
+eyeeel: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9d]
+pablobonilla16: folds 
+sami348: folds 
+Dani_Boys77: raises 6612 to 7212 and is all-in
+mabeal1: folds 
+dns504: folds 
+eyeeel: calls 2420 and is all-in
+Uncalled bet (4192) returned to Dani_Boys77
+*** FLOP *** [Kc 4d Tc]
+*** TURN *** [Kc 4d Tc] [Ks]
+*** RIVER *** [Kc 4d Tc Ks] [Kd]
+*** SHOW DOWN ***
+eyeeel: shows [7h Ah] (three of a kind, Kings)
+Dani_Boys77: shows [6s Ac] (three of a kind, Kings)
+eyeeel collected 3320 from pot
+Dani_Boys77 collected 3320 from pot
+*** SUMMARY ***
+Total pot 6640 | Rake 0 
+Board [Kc 4d Tc Ks Kd]
+Seat 1: Dani_Boys77 showed [6s Ac] and won (3320) with three of a kind, Kings
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 4: dns504 (small blind) folded before Flop
+Seat 5: eyeeel (big blind) showed [7h Ah] and won (3320) with three of a kind, Kings
+Seat 7: pablobonilla16 folded before Flop (didn't bet)
+Seat 8: sami348 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602552285: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VII (300/600) - 2026/02/05 17:44:03 CET [2026/02/05 11:44:03 ET]
+Table '3970434183 4' 8-max Seat #4 is the button
+Seat 1: Dani_Boys77 (7512 in chips) 
+Seat 2: mabeal1 (5069 in chips) 
+Seat 3: moguileisjc (8340 in chips) 
+Seat 4: dns504 (4140 in chips) 
+Seat 5: eyeeel (3320 in chips) 
+Seat 7: pablobonilla16 (22244 in chips) 
+Seat 8: sami348 (2840 in chips) 
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+moguileisjc: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+eyeeel: posts small blind 300
+pablobonilla16: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 9s]
+sami348: folds 
+Dani_Boys77: folds 
+mabeal1: raises 4419 to 5019 and is all-in
+moguileisjc: folds 
+dns504: calls 4090 and is all-in
+eyeeel: folds 
+pablobonilla16: folds 
+Uncalled bet (929) returned to mabeal1
+*** FLOP *** [2s 4c 6h]
+*** TURN *** [2s 4c 6h] [5h]
+*** RIVER *** [2s 4c 6h 5h] [6s]
+*** SHOW DOWN ***
+mabeal1: shows [As 9s] (a pair of Sixes)
+dns504: shows [Qd Qs] (two pair, Queens and Sixes)
+dns504 collected 9430 from pot
+*** SUMMARY ***
+Total pot 9430 | Rake 0 
+Board [2s 4c 6h 5h 6s]
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 showed [As 9s] and lost with a pair of Sixes
+Seat 3: moguileisjc folded before Flop (didn't bet)
+Seat 4: dns504 (button) showed [Qd Qs] and won (9430) with two pair, Queens and Sixes
+Seat 5: eyeeel (small blind) folded before Flop
+Seat 7: pablobonilla16 (big blind) folded before Flop
+Seat 8: sami348 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602561941: Tournament #3970434183, €0.90+€0.10 EUR Hold'em No Limit - Level VII (300/600) - 2026/02/05 17:44:56 CET [2026/02/05 11:44:56 ET]
+Table '3970434183 4' 8-max Seat #5 is the button
+Seat 1: Dani_Boys77 (7462 in chips) 
+Seat 2: mabeal1 (929 in chips) 
+Seat 3: moguileisjc (8290 in chips) 
+Seat 4: dns504 (9430 in chips) 
+Seat 5: eyeeel (2970 in chips) 
+Seat 6: Zlatoine45 (24314 in chips) out of hand (moved from another table into small blind)
+Seat 7: pablobonilla16 (21594 in chips) 
+Seat 8: sami348 (2790 in chips) 
+Zlatoine45 will be allowed to play after the button
+Dani_Boys77: posts the ante 50
+mabeal1: posts the ante 50
+moguileisjc: posts the ante 50
+dns504: posts the ante 50
+eyeeel: posts the ante 50
+pablobonilla16: posts the ante 50
+sami348: posts the ante 50
+pablobonilla16: posts small blind 300
+sami348: posts big blind 600
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Jd]
+Dani_Boys77: folds 
+mabeal1: raises 279 to 879 and is all-in
+moguileisjc: raises 600 to 1479
+dns504: folds 
+eyeeel: calls 1479
+pablobonilla16: raises 20065 to 21544 and is all-in
+sami348: folds 
+moguileisjc: folds 
+eyeeel: calls 1441 and is all-in
+Uncalled bet (18624) returned to pablobonilla16
+*** FLOP *** [9d Qd 3s]
+*** TURN *** [9d Qd 3s] [Kh]
+*** RIVER *** [9d Qd 3s Kh] [6s]
+*** SHOW DOWN ***
+pablobonilla16: shows [As Kd] (a pair of Kings)
+eyeeel: shows [5h Ad] (high card Ace)
+pablobonilla16 collected 4682 from side pot
+mabeal1: shows [2s Jd] (high card King)
+pablobonilla16 collected 4466 from main pot
+eyeeel finished the tournament in 36th place
+mabeal1 finished the tournament in 37th place
+*** SUMMARY ***
+Total pot 9148 Main pot 4466. Side pot 4682. | Rake 0 
+Board [9d Qd 3s Kh 6s]
+Seat 1: Dani_Boys77 folded before Flop (didn't bet)
+Seat 2: mabeal1 showed [2s Jd] and lost with high card King
+Seat 3: moguileisjc folded before Flop
+Seat 4: dns504 folded before Flop (didn't bet)
+Seat 5: eyeeel (button) showed [5h Ad] and lost with high card Ace
+Seat 7: pablobonilla16 (small blind) showed [As Kd] and won (9148) with a pair of Kings
+Seat 8: sami348 (big blind) folded before Flop
+
+
+

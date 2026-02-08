@@ -1,0 +1,380 @@
+﻿PokerStars Hand #259596510586: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:03:46 CET [2026/02/04 20:03:46 ET]
+Table '3972179543 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Mistergo57 (500 in chips) 
+Seat 3: lluna-ae (500 in chips) 
+Mistergo57: posts small blind 10
+lluna-ae: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 2c]
+mabeal1: folds 
+Mistergo57: calls 10
+lluna-ae: checks 
+*** FLOP *** [Jc 3d 9d]
+Mistergo57: checks 
+lluna-ae: checks 
+*** TURN *** [Jc 3d 9d] [Ah]
+Mistergo57: checks 
+lluna-ae: checks 
+*** RIVER *** [Jc 3d 9d Ah] [5c]
+Mistergo57: bets 20
+lluna-ae: folds 
+Uncalled bet (20) returned to Mistergo57
+Mistergo57 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jc 3d 9d Ah 5c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Mistergo57 (small blind) collected (40)
+Seat 3: lluna-ae (big blind) folded on the River
+
+
+
+PokerStars Hand #259596513303: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:04:04 CET [2026/02/04 20:04:04 ET]
+Table '3972179543 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Mistergo57 (520 in chips) 
+Seat 3: lluna-ae (480 in chips) 
+lluna-ae: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 9c]
+Mistergo57: calls 20
+lluna-ae: calls 10
+mabeal1: raises 480 to 500 and is all-in
+Mistergo57: folds 
+lluna-ae: calls 460 and is all-in
+Uncalled bet (20) returned to mabeal1
+*** FLOP *** [6h 7d 5s]
+*** TURN *** [6h 7d 5s] [Ad]
+*** RIVER *** [6h 7d 5s Ad] [8s]
+*** SHOW DOWN ***
+lluna-ae: shows [6c 6d] (three of a kind, Sixes)
+mabeal1: shows [As 9c] (a straight, Five to Nine)
+mabeal1 collected 980 from pot
+lluna-ae finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [6h 7d 5s Ad 8s]
+Seat 1: mabeal1 (big blind) showed [As 9c] and won (980) with a straight, Five to Nine
+Seat 2: Mistergo57 (button) folded before Flop
+Seat 3: lluna-ae (small blind) showed [6c 6d] and lost with three of a kind, Sixes
+
+
+
+PokerStars Hand #259596516838: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:04:26 CET [2026/02/04 20:04:26 ET]
+Table '3972179543 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 2: Mistergo57 (500 in chips) 
+mabeal1: posts small blind 10
+Mistergo57: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Ah]
+mabeal1: raises 30 to 50
+Mistergo57: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 2: Mistergo57 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259596518328: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:04:35 CET [2026/02/04 20:04:35 ET]
+Table '3972179543 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 2: Mistergo57 (480 in chips) 
+Mistergo57: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 4h]
+Mistergo57: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to Mistergo57
+Mistergo57 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Mistergo57 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259596520129: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:04:47 CET [2026/02/04 20:04:47 ET]
+Table '3972179543 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 2: Mistergo57 (500 in chips) 
+mabeal1: posts small blind 10
+Mistergo57: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 2c]
+mabeal1: calls 10
+Mistergo57: checks 
+*** FLOP *** [8h 6s 7s]
+Mistergo57: checks 
+mabeal1: checks 
+*** TURN *** [8h 6s 7s] [Jd]
+Mistergo57: checks 
+mabeal1: bets 30
+Mistergo57: calls 30
+*** RIVER *** [8h 6s 7s Jd] [Td]
+Mistergo57: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Mistergo57
+Mistergo57 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8h 6s 7s Jd Td]
+Seat 1: mabeal1 (button) (small blind) folded on the River
+Seat 2: Mistergo57 (big blind) collected (100)
+
+
+
+PokerStars Hand #259596523735: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:05:10 CET [2026/02/04 20:05:10 ET]
+Table '3972179543 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (950 in chips) 
+Seat 2: Mistergo57 (550 in chips) 
+Mistergo57: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 3c]
+Mistergo57: calls 10
+mabeal1: checks 
+*** FLOP *** [7h Th 2d]
+mabeal1: checks 
+Mistergo57: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Mistergo57
+Mistergo57 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h Th 2d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Mistergo57 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259596526582: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:05:28 CET [2026/02/04 20:05:28 ET]
+Table '3972179543 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (930 in chips) 
+Seat 2: Mistergo57 (570 in chips) 
+mabeal1: posts small blind 10
+Mistergo57: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Qs]
+mabeal1: calls 10
+Mistergo57: raises 20 to 40
+mabeal1: folds 
+Uncalled bet (20) returned to Mistergo57
+Mistergo57 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: Mistergo57 (big blind) collected (40)
+
+
+
+PokerStars Hand #259596528215: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:05:38 CET [2026/02/04 20:05:38 ET]
+Table '3972179543 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (910 in chips) 
+Seat 2: Mistergo57 (590 in chips) 
+Mistergo57: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 6h]
+Mistergo57: calls 10
+mabeal1: checks 
+*** FLOP *** [Qs 8s 4c]
+mabeal1: checks 
+Mistergo57: bets 20
+mabeal1: calls 20
+*** TURN *** [Qs 8s 4c] [Jd]
+mabeal1: checks 
+Mistergo57: bets 180
+mabeal1: folds 
+Uncalled bet (180) returned to Mistergo57
+Mistergo57 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qs 8s 4c Jd]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Mistergo57 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259596531477: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:05:59 CET [2026/02/04 20:05:59 ET]
+Table '3972179543 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (870 in chips) 
+Seat 2: Mistergo57 (630 in chips) 
+mabeal1: posts small blind 10
+Mistergo57: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 2s]
+mabeal1: calls 10
+Mistergo57: checks 
+*** FLOP *** [2d As Ah]
+Mistergo57: checks 
+mabeal1: bets 20
+Mistergo57: calls 20
+*** TURN *** [2d As Ah] [7h]
+Mistergo57: checks 
+mabeal1: checks 
+*** RIVER *** [2d As Ah 7h] [Ts]
+Mistergo57: checks 
+mabeal1: bets 100
+Mistergo57: folds 
+Uncalled bet (100) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d As Ah 7h Ts]
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 2: Mistergo57 (big blind) folded on the River
+
+
+
+PokerStars Hand #259596534587: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:06:20 CET [2026/02/04 20:06:20 ET]
+Table '3972179543 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (910 in chips) 
+Seat 2: Mistergo57 (590 in chips) 
+Mistergo57: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Js]
+Mistergo57: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Tc 9d 7d]
+mabeal1: checks 
+Mistergo57: checks 
+*** TURN *** [Tc 9d 7d] [7c]
+mabeal1: bets 60
+Mistergo57: calls 60
+*** RIVER *** [Tc 9d 7d 7c] [3s]
+mabeal1: checks 
+Mistergo57: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Kh Js] (a pair of Sevens)
+Mistergo57: shows [Kc Ad] (a pair of Sevens - Ace kicker)
+Mistergo57 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Tc 9d 7d 7c 3s]
+Seat 1: mabeal1 (big blind) showed [Kh Js] and lost with a pair of Sevens
+Seat 2: Mistergo57 (button) (small blind) showed [Kc Ad] and won (200) with a pair of Sevens
+
+
+
+PokerStars Hand #259596537723: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 2:06:40 CET [2026/02/04 20:06:40 ET]
+Table '3972179543 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (810 in chips) 
+Seat 2: Mistergo57 (690 in chips) 
+mabeal1: posts small blind 10
+Mistergo57: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 4c]
+mabeal1: calls 10
+Mistergo57: checks 
+*** FLOP *** [2s 3c 8s]
+Mistergo57: bets 20
+mabeal1: calls 20
+*** TURN *** [2s 3c 8s] [9d]
+Mistergo57: bets 20
+mabeal1: calls 20
+*** RIVER *** [2s 3c 8s 9d] [Jd]
+Mistergo57: bets 20
+mabeal1: raises 160 to 180
+Mistergo57: calls 160
+*** SHOW DOWN ***
+mabeal1: shows [2c 4c] (a pair of Deuces)
+Mistergo57: shows [7c 8d] (a pair of Eights)
+Mistergo57 collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [2s 3c 8s 9d Jd]
+Seat 1: mabeal1 (button) (small blind) showed [2c 4c] and lost with a pair of Deuces
+Seat 2: Mistergo57 (big blind) showed [7c 8d] and won (480) with a pair of Eights
+
+
+
+PokerStars Hand #259596541472: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:07:04 CET [2026/02/04 20:07:04 ET]
+Table '3972179543 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: Mistergo57 (930 in chips) 
+Mistergo57: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Qc]
+Mistergo57: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to Mistergo57
+Mistergo57 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Mistergo57 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259596542405: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:07:11 CET [2026/02/04 20:07:11 ET]
+Table '3972179543 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: Mistergo57 (960 in chips) 
+mabeal1: posts small blind 15
+Mistergo57: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7c]
+mabeal1: raises 30 to 60
+Mistergo57: calls 30
+*** FLOP *** [4d 9c Qh]
+Mistergo57: checks 
+mabeal1: bets 60
+Mistergo57: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d 9c Qh]
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 2: Mistergo57 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259596544269: Tournament #3972179543, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 2:07:22 CET [2026/02/04 20:07:22 ET]
+Table '3972179543 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: Mistergo57 (900 in chips) 
+Mistergo57: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 6c]
+Mistergo57: calls 15
+mabeal1: checks 
+*** FLOP *** [Qs Ac Td]
+mabeal1: checks 
+Mistergo57: bets 30
+mabeal1: calls 30
+*** TURN *** [Qs Ac Td] [As]
+mabeal1: checks 
+Mistergo57: bets 30
+mabeal1: raises 135 to 165
+Mistergo57: calls 135
+*** RIVER *** [Qs Ac Td As] [4s]
+mabeal1: bets 375 and is all-in
+Mistergo57: calls 375
+*** SHOW DOWN ***
+mabeal1: shows [Jd 6c] (a pair of Aces)
+Mistergo57: shows [Qd 2d] (two pair, Aces and Queens)
+Mistergo57 collected 1200 from pot
+mabeal1 finished the tournament in 2nd place
+Mistergo57 wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [Qs Ac Td As 4s]
+Seat 1: mabeal1 (big blind) showed [Jd 6c] and lost with a pair of Aces
+Seat 2: Mistergo57 (button) (small blind) showed [Qd 2d] and won (1200) with two pair, Aces and Queens
+
+
+

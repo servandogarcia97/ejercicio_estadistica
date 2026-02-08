@@ -1,0 +1,506 @@
+﻿PokerStars Hand #259578602675: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:16:40 CET [2026/02/03 13:16:40 ET]
+Table '3971771775 1' 3-max Seat #1 is the button
+Seat 1: thepulk (500 in chips) 
+Seat 2: flashover156 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+flashover156: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2h]
+thepulk: folds 
+flashover156: calls 10
+mabeal1: checks 
+*** FLOP *** [6d Jd Kc]
+flashover156: bets 20
+mabeal1: raises 20 to 40
+flashover156: calls 20
+*** TURN *** [6d Jd Kc] [5h]
+flashover156: checks 
+mabeal1: checks 
+*** RIVER *** [6d Jd Kc 5h] [Jh]
+flashover156: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to flashover156
+flashover156 collected 120 from pot
+flashover156: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d Jd Kc 5h Jh]
+Seat 1: thepulk (button) folded before Flop (didn't bet)
+Seat 2: flashover156 (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259578607494: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:17:00 CET [2026/02/03 13:17:00 ET]
+Table '3971771775 1' 3-max Seat #2 is the button
+Seat 1: thepulk (500 in chips) 
+Seat 2: flashover156 (560 in chips) 
+Seat 3: mabeal1 (440 in chips) 
+mabeal1: posts small blind 10
+thepulk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Ac]
+flashover156: folds 
+mabeal1: raises 30 to 50
+thepulk: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: thepulk (big blind) folded before Flop
+Seat 2: flashover156 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259578610645: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:17:13 CET [2026/02/03 13:17:13 ET]
+Table '3971771775 1' 3-max Seat #3 is the button
+Seat 1: thepulk (480 in chips) 
+Seat 2: flashover156 (560 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+thepulk: posts small blind 10
+flashover156: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Kc]
+mabeal1: folds 
+thepulk: folds 
+Uncalled bet (10) returned to flashover156
+flashover156 collected 20 from pot
+flashover156: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: thepulk (small blind) folded before Flop
+Seat 2: flashover156 (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578612838: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:17:22 CET [2026/02/03 13:17:22 ET]
+Table '3971771775 1' 3-max Seat #1 is the button
+Seat 1: thepulk (470 in chips) 
+Seat 2: flashover156 (570 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+flashover156: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Ah]
+thepulk: calls 20
+flashover156: calls 10
+mabeal1: raises 440 to 460 and is all-in
+thepulk: folds 
+flashover156: folds 
+Uncalled bet (440) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: thepulk (button) folded before Flop
+Seat 2: flashover156 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259578615707: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:17:35 CET [2026/02/03 13:17:35 ET]
+Table '3971771775 1' 3-max Seat #2 is the button
+Seat 1: thepulk (450 in chips) 
+Seat 2: flashover156 (550 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+mabeal1: posts small blind 10
+thepulk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 9h]
+flashover156: calls 20
+mabeal1: folds 
+thepulk: checks 
+*** FLOP *** [Tc 7h Th]
+thepulk: checks 
+flashover156: checks 
+*** TURN *** [Tc 7h Th] [6s]
+thepulk: checks 
+flashover156: checks 
+*** RIVER *** [Tc 7h Th 6s] [Td]
+thepulk: checks 
+flashover156: checks 
+*** SHOW DOWN ***
+thepulk: shows [5s Js] (three of a kind, Tens)
+flashover156: shows [Ah 8d] (three of a kind, Tens - Ace kicker)
+flashover156 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Tc 7h Th 6s Td]
+Seat 1: thepulk (big blind) showed [5s Js] and lost with three of a kind, Tens
+Seat 2: flashover156 (button) showed [Ah 8d] and won (50) with three of a kind, Tens
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578620025: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:17:53 CET [2026/02/03 13:17:53 ET]
+Table '3971771775 1' 3-max Seat #3 is the button
+Seat 1: thepulk (430 in chips) 
+Seat 2: flashover156 (580 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+thepulk: posts small blind 10
+flashover156: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 5s]
+mabeal1: folds 
+thepulk: calls 10
+flashover156: checks 
+*** FLOP *** [4c 4h 2s]
+thepulk: checks 
+flashover156: checks 
+*** TURN *** [4c 4h 2s] [2h]
+thepulk: bets 20
+flashover156: folds 
+Uncalled bet (20) returned to thepulk
+thepulk collected 40 from pot
+thepulk: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4c 4h 2s 2h]
+Seat 1: thepulk (small blind) collected (40)
+Seat 2: flashover156 (big blind) folded on the Turn
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578624265: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:18:11 CET [2026/02/03 13:18:11 ET]
+Table '3971771775 1' 3-max Seat #1 is the button
+Seat 1: thepulk (450 in chips) 
+Seat 2: flashover156 (560 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+flashover156: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Ts]
+thepulk: raises 20 to 40
+flashover156: calls 30
+mabeal1: folds 
+*** FLOP *** [7h 3h 5s]
+flashover156: bets 100
+thepulk: folds 
+Uncalled bet (100) returned to flashover156
+flashover156 collected 100 from pot
+flashover156: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7h 3h 5s]
+Seat 1: thepulk (button) folded on the Flop
+Seat 2: flashover156 (small blind) collected (100)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578630174: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:18:36 CET [2026/02/03 13:18:36 ET]
+Table '3971771775 1' 3-max Seat #2 is the button
+Seat 1: thepulk (410 in chips) 
+Seat 2: flashover156 (620 in chips) 
+Seat 3: mabeal1 (470 in chips) 
+mabeal1: posts small blind 10
+thepulk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jd]
+flashover156: folds 
+mabeal1: raises 40 to 60
+thepulk: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: thepulk (big blind) folded before Flop
+Seat 2: flashover156 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (40)
+
+
+
+PokerStars Hand #259578632558: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:18:46 CET [2026/02/03 13:18:46 ET]
+Table '3971771775 1' 3-max Seat #3 is the button
+Seat 1: thepulk (390 in chips) 
+Seat 2: flashover156 (620 in chips) 
+Seat 3: mabeal1 (490 in chips) 
+thepulk: posts small blind 10
+flashover156: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Ks]
+mabeal1: raises 20 to 40
+thepulk: folds 
+flashover156: raises 580 to 620 and is all-in
+mabeal1: folds 
+Uncalled bet (580) returned to flashover156
+flashover156 collected 90 from pot
+flashover156: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: thepulk (small blind) folded before Flop
+Seat 2: flashover156 (big blind) collected (90)
+Seat 3: mabeal1 (button) folded before Flop
+
+
+
+PokerStars Hand #259578635700: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:19:00 CET [2026/02/03 13:19:00 ET]
+Table '3971771775 1' 3-max Seat #1 is the button
+Seat 1: thepulk (380 in chips) 
+Seat 2: flashover156 (670 in chips) 
+Seat 3: mabeal1 (450 in chips) 
+flashover156: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3s]
+thepulk: raises 20 to 40
+flashover156: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to thepulk
+thepulk collected 50 from pot
+thepulk: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: thepulk (button) collected (50)
+Seat 2: flashover156 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578637505: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:19:08 CET [2026/02/03 13:19:08 ET]
+Table '3971771775 1' 3-max Seat #2 is the button
+Seat 1: thepulk (410 in chips) 
+Seat 2: flashover156 (660 in chips) 
+Seat 3: mabeal1 (430 in chips) 
+mabeal1: posts small blind 10
+thepulk: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jd]
+flashover156: calls 20
+mabeal1: raises 40 to 60
+thepulk: folds 
+flashover156: calls 40
+*** FLOP *** [3s 5h 8c]
+mabeal1: bets 70
+flashover156: calls 70
+*** TURN *** [3s 5h 8c] [Ts]
+mabeal1: bets 210
+flashover156: calls 210
+*** RIVER *** [3s 5h 8c Ts] [7s]
+mabeal1: bets 90 and is all-in
+flashover156: calls 90
+*** SHOW DOWN ***
+mabeal1: shows [Jc Jd] (a pair of Jacks)
+flashover156: shows [4d 4h] (a pair of Fours)
+mabeal1 collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [3s 5h 8c Ts 7s]
+Seat 1: thepulk (big blind) folded before Flop
+Seat 2: flashover156 (button) showed [4d 4h] and lost with a pair of Fours
+Seat 3: mabeal1 (small blind) showed [Jc Jd] and won (880) with a pair of Jacks
+
+
+
+PokerStars Hand #259578644298: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 19:19:36 CET [2026/02/03 13:19:36 ET]
+Table '3971771775 1' 3-max Seat #3 is the button
+Seat 1: thepulk (390 in chips) 
+Seat 2: flashover156 (230 in chips) 
+Seat 3: mabeal1 (880 in chips) 
+thepulk: posts small blind 10
+flashover156: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Kd]
+mabeal1: folds 
+thepulk: calls 10
+flashover156: checks 
+*** FLOP *** [Ad 9d 5h]
+thepulk: checks 
+flashover156: bets 20
+thepulk: folds 
+Uncalled bet (20) returned to flashover156
+flashover156 collected 40 from pot
+flashover156: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ad 9d 5h]
+Seat 1: thepulk (small blind) folded on the Flop
+Seat 2: flashover156 (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259578648232: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:19:53 CET [2026/02/03 13:19:53 ET]
+Table '3971771775 1' 3-max Seat #1 is the button
+Seat 1: thepulk (370 in chips) 
+Seat 2: flashover156 (250 in chips) 
+Seat 3: mabeal1 (880 in chips) 
+flashover156: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Kc]
+thepulk: raises 340 to 370 and is all-in
+flashover156: folds 
+mabeal1: folds 
+Uncalled bet (340) returned to thepulk
+thepulk collected 75 from pot
+thepulk: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: thepulk (button) collected (75)
+Seat 2: flashover156 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259578650309: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:20:02 CET [2026/02/03 13:20:02 ET]
+Table '3971771775 1' 3-max Seat #2 is the button
+Seat 1: thepulk (415 in chips) 
+Seat 2: flashover156 (235 in chips) 
+Seat 3: mabeal1 (850 in chips) 
+mabeal1: posts small blind 15
+thepulk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 5h]
+flashover156: calls 30
+mabeal1: raises 820 to 850 and is all-in
+thepulk: folds 
+flashover156: calls 205 and is all-in
+Uncalled bet (615) returned to mabeal1
+*** FLOP *** [6h Js 7h]
+*** TURN *** [6h Js 7h] [Tc]
+*** RIVER *** [6h Js 7h Tc] [5d]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 5h] (a pair of Fives)
+flashover156: shows [As 3c] (high card Ace)
+mabeal1 collected 500 from pot
+flashover156 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [6h Js 7h Tc 5d]
+Seat 1: thepulk (big blind) folded before Flop
+Seat 2: flashover156 (button) showed [As 3c] and lost with high card Ace
+Seat 3: mabeal1 (small blind) showed [Ah 5h] and won (500) with a pair of Fives
+
+
+
+PokerStars Hand #259578656235: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:20:27 CET [2026/02/03 13:20:27 ET]
+Table '3971771775 1' 3-max Seat #1 is the button
+Seat 1: thepulk (385 in chips) 
+Seat 3: mabeal1 (1115 in chips) 
+thepulk: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Kh]
+thepulk: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: thepulk (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259578657083: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:20:31 CET [2026/02/03 13:20:31 ET]
+Table '3971771775 1' 3-max Seat #3 is the button
+Seat 1: thepulk (370 in chips) 
+Seat 3: mabeal1 (1130 in chips) 
+mabeal1: posts small blind 15
+thepulk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Js]
+mabeal1: raises 60 to 90
+thepulk: raises 280 to 370 and is all-in
+mabeal1: calls 280
+*** FLOP *** [2d 7s 8c]
+*** TURN *** [2d 7s 8c] [6c]
+*** RIVER *** [2d 7s 8c 6c] [Ad]
+*** SHOW DOWN ***
+thepulk: shows [Ah 8s] (two pair, Aces and Eights)
+mabeal1: shows [Jc Js] (a pair of Jacks)
+thepulk collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [2d 7s 8c 6c Ad]
+Seat 1: thepulk (big blind) showed [Ah 8s] and won (740) with two pair, Aces and Eights
+Seat 3: mabeal1 (button) (small blind) showed [Jc Js] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259578661839: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:20:50 CET [2026/02/03 13:20:50 ET]
+Table '3971771775 1' 3-max Seat #1 is the button
+Seat 1: thepulk (740 in chips) 
+Seat 3: mabeal1 (760 in chips) 
+thepulk: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 6s]
+thepulk: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [4s 3d Qh]
+mabeal1: checks 
+thepulk: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to thepulk
+thepulk collected 120 from pot
+thepulk: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4s 3d Qh]
+Seat 1: thepulk (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259578665387: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:21:05 CET [2026/02/03 13:21:05 ET]
+Table '3971771775 1' 3-max Seat #3 is the button
+Seat 1: thepulk (800 in chips) 
+Seat 3: mabeal1 (700 in chips) 
+mabeal1: posts small blind 15
+thepulk: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 5h]
+mabeal1: calls 15
+thepulk: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to thepulk
+thepulk collected 60 from pot
+thepulk: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: thepulk (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259578667517: Tournament #3971771775, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 19:21:14 CET [2026/02/03 13:21:14 ET]
+Table '3971771775 1' 3-max Seat #1 is the button
+Seat 1: thepulk (830 in chips) 
+Seat 3: mabeal1 (670 in chips) 
+thepulk: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 7c]
+thepulk: calls 15
+mabeal1: checks 
+*** FLOP *** [5c 2h 7h]
+mabeal1: checks 
+thepulk: bets 30
+mabeal1: raises 90 to 120
+thepulk: calls 90
+*** TURN *** [5c 2h 7h] [Kc]
+mabeal1: bets 520 and is all-in
+thepulk: calls 520
+*** RIVER *** [5c 2h 7h Kc] [Jd]
+*** SHOW DOWN ***
+mabeal1: shows [3s 7c] (a pair of Sevens)
+thepulk: shows [Kh 7s] (two pair, Kings and Sevens)
+thepulk collected 1340 from pot
+mabeal1 finished the tournament in 2nd place
+thepulk wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [5c 2h 7h Kc Jd]
+Seat 1: thepulk (button) (small blind) showed [Kh 7s] and won (1340) with two pair, Kings and Sevens
+Seat 3: mabeal1 (big blind) showed [3s 7c] and lost with a pair of Sevens
+
+
+

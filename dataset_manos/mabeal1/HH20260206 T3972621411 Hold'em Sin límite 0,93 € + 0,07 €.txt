@@ -1,0 +1,260 @@
+﻿PokerStars Hand #259615234857: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:29:17 CET [2026/02/06 9:29:17 ET]
+Table '3972621411 1' 3-max Seat #1 is the button
+Seat 1: plomo969 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: TIXU13 (500 in chips) 
+mabeal1: posts small blind 10
+TIXU13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 2s]
+plomo969: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to TIXU13
+TIXU13 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: plomo969 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: TIXU13 (big blind) collected (20)
+
+
+
+PokerStars Hand #259615235831: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:29:24 CET [2026/02/06 9:29:24 ET]
+Table '3972621411 1' 3-max Seat #2 is the button
+Seat 1: plomo969 (500 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: TIXU13 (510 in chips) 
+TIXU13: posts small blind 10
+plomo969: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 8h]
+mabeal1: raises 20 to 40
+TIXU13: calls 30
+plomo969: folds 
+*** FLOP *** [8s 6c Js]
+TIXU13: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to TIXU13
+TIXU13 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [8s 6c Js]
+Seat 1: plomo969 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded on the Flop
+Seat 3: TIXU13 (small blind) collected (100)
+
+
+
+PokerStars Hand #259615239441: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:29:48 CET [2026/02/06 9:29:48 ET]
+Table '3972621411 1' 3-max Seat #3 is the button
+Seat 1: plomo969 (480 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: TIXU13 (570 in chips) 
+plomo969: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Js]
+TIXU13: folds 
+plomo969: calls 10
+mabeal1: raises 40 to 60
+plomo969: calls 40
+*** FLOP *** [Qs Jc Kh]
+plomo969: checks 
+mabeal1: bets 90
+plomo969: raises 330 to 420 and is all-in
+mabeal1: calls 300 and is all-in
+Uncalled bet (30) returned to plomo969
+*** TURN *** [Qs Jc Kh] [Td]
+*** RIVER *** [Qs Jc Kh Td] [9d]
+*** SHOW DOWN ***
+plomo969: shows [Kd 5d] (a straight, Nine to King)
+mabeal1: shows [Jh Js] (a straight, Nine to King)
+plomo969 collected 450 from pot
+mabeal1 collected 450 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Qs Jc Kh Td 9d]
+Seat 1: plomo969 (small blind) showed [Kd 5d] and won (450) with a straight, Nine to King
+Seat 2: mabeal1 (big blind) showed [Jh Js] and won (450) with a straight, Nine to King
+Seat 3: TIXU13 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259615242807: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:30:10 CET [2026/02/06 9:30:10 ET]
+Table '3972621411 1' 3-max Seat #1 is the button
+Seat 1: plomo969 (480 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: TIXU13 (570 in chips) 
+mabeal1: posts small blind 10
+TIXU13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5d]
+plomo969: calls 20
+mabeal1: folds 
+TIXU13: checks 
+*** FLOP *** [6d 5h 4h]
+TIXU13: checks 
+plomo969: checks 
+*** TURN *** [6d 5h 4h] [Js]
+TIXU13: bets 40
+plomo969: raises 420 to 460 and is all-in
+TIXU13: calls 420
+*** RIVER *** [6d 5h 4h Js] [4c]
+*** SHOW DOWN ***
+TIXU13: shows [Jh Ad] (two pair, Jacks and Fours)
+plomo969: shows [3s 3c] (two pair, Fours and Threes)
+TIXU13 collected 970 from pot
+plomo969 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [6d 5h 4h Js 4c]
+Seat 1: plomo969 (button) showed [3s 3c] and lost with two pair, Fours and Threes
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: TIXU13 (big blind) showed [Jh Ad] and won (970) with two pair, Jacks and Fours
+
+
+
+PokerStars Hand #259615248194: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:30:45 CET [2026/02/06 9:30:45 ET]
+Table '3972621411 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: TIXU13 (1060 in chips) 
+TIXU13: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Th]
+TIXU13: calls 10
+mabeal1: checks 
+*** FLOP *** [Js 7d Td]
+mabeal1: checks 
+TIXU13: bets 20
+mabeal1: calls 20
+*** TURN *** [Js 7d Td] [6s]
+mabeal1: checks 
+TIXU13: checks 
+*** RIVER *** [Js 7d Td 6s] [6h]
+mabeal1: bets 60
+TIXU13: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js 7d Td 6s 6h]
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: TIXU13 (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259615251080: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:31:04 CET [2026/02/06 9:31:04 ET]
+Table '3972621411 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: TIXU13 (1020 in chips) 
+mabeal1: posts small blind 10
+TIXU13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2s]
+mabeal1: calls 10
+TIXU13: raises 60 to 80
+mabeal1: folds 
+Uncalled bet (60) returned to TIXU13
+TIXU13 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: TIXU13 (big blind) collected (40)
+
+
+
+PokerStars Hand #259615252287: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:31:12 CET [2026/02/06 9:31:12 ET]
+Table '3972621411 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: TIXU13 (1040 in chips) 
+TIXU13: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9c]
+TIXU13: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: TIXU13 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259615252966: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:31:17 CET [2026/02/06 9:31:17 ET]
+Table '3972621411 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (470 in chips) 
+Seat 3: TIXU13 (1030 in chips) 
+mabeal1: posts small blind 10
+TIXU13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 3h]
+mabeal1: calls 10
+TIXU13: raises 60 to 80
+mabeal1: folds 
+Uncalled bet (60) returned to TIXU13
+TIXU13 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: TIXU13 (big blind) collected (40)
+
+
+
+PokerStars Hand #259615254152: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:31:24 CET [2026/02/06 9:31:24 ET]
+Table '3972621411 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: TIXU13 (1050 in chips) 
+TIXU13: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2c]
+TIXU13: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: TIXU13 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259615255158: Tournament #3972621411, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/06 15:31:31 CET [2026/02/06 9:31:31 ET]
+Table '3972621411 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: TIXU13 (1040 in chips) 
+mabeal1: posts small blind 10
+TIXU13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 4h]
+mabeal1: calls 10
+TIXU13: checks 
+*** FLOP *** [Kc 8h 3c]
+TIXU13: checks 
+mabeal1: bets 40
+TIXU13: calls 40
+*** TURN *** [Kc 8h 3c] [6h]
+TIXU13: checks 
+mabeal1: bets 90
+TIXU13: raises 890 to 980 and is all-in
+mabeal1: calls 310 and is all-in
+Uncalled bet (580) returned to TIXU13
+*** RIVER *** [Kc 8h 3c 6h] [9c]
+*** SHOW DOWN ***
+TIXU13: shows [8d 6s] (two pair, Eights and Sixes)
+mabeal1: shows [Kh 4h] (a pair of Kings)
+TIXU13 collected 920 from pot
+mabeal1 finished the tournament in 2nd place
+TIXU13 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Kc 8h 3c 6h 9c]
+Seat 2: mabeal1 (button) (small blind) showed [Kh 4h] and lost with a pair of Kings
+Seat 3: TIXU13 (big blind) showed [8d 6s] and won (920) with two pair, Eights and Sixes
+
+
+

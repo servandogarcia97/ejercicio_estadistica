@@ -1,0 +1,847 @@
+﻿PokerStars Hand #259470176449: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:42:52 CET [2026/01/26 10:42:52 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: mesajerez (500 in chips) 
+mabeal1: posts small blind 10
+mesajerez: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 8c]
+Darkest$hadow: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to mesajerez
+mesajerez collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Darkest$hadow (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: mesajerez (big blind) collected (20)
+
+
+
+PokerStars Hand #259470178145: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:43:02 CET [2026/01/26 10:43:02 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (500 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: mesajerez (510 in chips) 
+mesajerez: posts small blind 10
+Darkest$hadow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2d]
+mabeal1: folds 
+mesajerez: calls 10
+Darkest$hadow: checks 
+*** FLOP *** [4s Qd 9s]
+mesajerez: checks 
+Darkest$hadow: checks 
+*** TURN *** [4s Qd 9s] [Kd]
+mesajerez: checks 
+Darkest$hadow: bets 20
+mesajerez: calls 20
+*** RIVER *** [4s Qd 9s Kd] [4c]
+mesajerez: checks 
+Darkest$hadow: bets 40
+mesajerez: folds 
+Uncalled bet (40) returned to Darkest$hadow
+Darkest$hadow collected 80 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4s Qd 9s Kd 4c]
+Seat 1: Darkest$hadow (big blind) collected (80)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: mesajerez (small blind) folded on the River
+
+
+
+PokerStars Hand #259470186595: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:43:51 CET [2026/01/26 10:43:51 ET]
+Table '3969306864 1' 3-max Seat #3 is the button
+Seat 1: Darkest$hadow (540 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: mesajerez (470 in chips) 
+Darkest$hadow: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Jh]
+mesajerez: raises 80 to 100
+Darkest$hadow: raises 440 to 540 and is all-in
+mabeal1: calls 470 and is all-in
+mesajerez: calls 370 and is all-in
+Uncalled bet (50) returned to Darkest$hadow
+*** FLOP *** [2c 9h Ks]
+*** TURN *** [2c 9h Ks] [4s]
+*** RIVER *** [2c 9h Ks 4s] [5s]
+*** SHOW DOWN ***
+Darkest$hadow: shows [Qc Ah] (high card Ace)
+mabeal1: shows [Jd Jh] (a pair of Jacks)
+mabeal1 collected 40 from side pot
+mesajerez: shows [6d Ad] (high card Ace)
+mabeal1 collected 1410 from main pot
+mesajerez finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1450 Main pot 1410. Side pot 40. | Rake 0 
+Board [2c 9h Ks 4s 5s]
+Seat 1: Darkest$hadow (small blind) showed [Qc Ah] and lost with high card Ace
+Seat 2: mabeal1 (big blind) showed [Jd Jh] and won (1450) with a pair of Jacks
+Seat 3: mesajerez (button) showed [6d Ad] and lost with high card Ace
+
+
+
+PokerStars Hand #259470191097: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:44:17 CET [2026/01/26 10:44:17 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (50 in chips) 
+Seat 2: mabeal1 (1450 in chips) 
+mabeal1: posts small blind 10
+Darkest$hadow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7d]
+mabeal1: raises 20 to 40
+Darkest$hadow: raises 10 to 50 and is all-in
+mabeal1: calls 10
+*** FLOP *** [3h 3s Kh]
+*** TURN *** [3h 3s Kh] [Qs]
+*** RIVER *** [3h 3s Kh Qs] [4h]
+*** SHOW DOWN ***
+Darkest$hadow: shows [9h 8h] (a flush, King high)
+mabeal1: shows [5s 7d] (a pair of Threes)
+Darkest$hadow collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3h 3s Kh Qs 4h]
+Seat 1: Darkest$hadow (big blind) showed [9h 8h] and won (100) with a flush, King high
+Seat 2: mabeal1 (button) (small blind) showed [5s 7d] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259470196204: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:44:47 CET [2026/01/26 10:44:47 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (100 in chips) 
+Seat 2: mabeal1 (1400 in chips) 
+Darkest$hadow: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 6d]
+Darkest$hadow: raises 80 to 100 and is all-in
+mabeal1: folds 
+Uncalled bet (80) returned to Darkest$hadow
+Darkest$hadow collected 40 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470197658: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:44:56 CET [2026/01/26 10:44:56 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (120 in chips) 
+Seat 2: mabeal1 (1380 in chips) 
+mabeal1: posts small blind 10
+Darkest$hadow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 6c]
+mabeal1: raises 1360 to 1380 and is all-in
+Darkest$hadow: folds 
+Uncalled bet (1360) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Darkest$hadow (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259470198856: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:45:03 CET [2026/01/26 10:45:03 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (100 in chips) 
+Seat 2: mabeal1 (1400 in chips) 
+Darkest$hadow: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7d]
+Darkest$hadow: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259470199384: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:45:06 CET [2026/01/26 10:45:06 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (90 in chips) 
+Seat 2: mabeal1 (1410 in chips) 
+mabeal1: posts small blind 10
+Darkest$hadow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3c]
+mabeal1: folds 
+Uncalled bet (10) returned to Darkest$hadow
+Darkest$hadow collected 20 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Darkest$hadow (big blind) collected (20)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259470201206: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:45:16 CET [2026/01/26 10:45:16 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (100 in chips) 
+Seat 2: mabeal1 (1400 in chips) 
+Darkest$hadow: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Ac]
+Darkest$hadow: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259470201968: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:45:21 CET [2026/01/26 10:45:21 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (90 in chips) 
+Seat 2: mabeal1 (1410 in chips) 
+mabeal1: posts small blind 10
+Darkest$hadow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 3s]
+mabeal1: raises 1390 to 1410 and is all-in
+Darkest$hadow: folds 
+Uncalled bet (1390) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Darkest$hadow (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259470202815: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:45:26 CET [2026/01/26 10:45:26 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (70 in chips) 
+Seat 2: mabeal1 (1430 in chips) 
+Darkest$hadow: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6h]
+Darkest$hadow: raises 50 to 70 and is all-in
+mabeal1: folds 
+Uncalled bet (50) returned to Darkest$hadow
+Darkest$hadow collected 40 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470203576: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:45:30 CET [2026/01/26 10:45:30 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (90 in chips) 
+Seat 2: mabeal1 (1410 in chips) 
+mabeal1: posts small blind 10
+Darkest$hadow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5h]
+mabeal1: folds 
+Uncalled bet (10) returned to Darkest$hadow
+Darkest$hadow collected 20 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Darkest$hadow (big blind) collected (20)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259470204457: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:45:35 CET [2026/01/26 10:45:35 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (100 in chips) 
+Seat 2: mabeal1 (1400 in chips) 
+Darkest$hadow: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 8s]
+Darkest$hadow: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259470205005: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:45:39 CET [2026/01/26 10:45:39 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (90 in chips) 
+Seat 2: mabeal1 (1410 in chips) 
+mabeal1: posts small blind 10
+Darkest$hadow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Kd]
+mabeal1: raises 1390 to 1410 and is all-in
+Darkest$hadow: calls 70 and is all-in
+Uncalled bet (1320) returned to mabeal1
+*** FLOP *** [Kh Th Qh]
+*** TURN *** [Kh Th Qh] [6h]
+*** RIVER *** [Kh Th Qh 6h] [2s]
+*** SHOW DOWN ***
+Darkest$hadow: shows [Ad 7h] (a flush, King high)
+mabeal1: shows [4h Kd] (a flush, King high - lower cards)
+Darkest$hadow collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Kh Th Qh 6h 2s]
+Seat 1: Darkest$hadow (big blind) showed [Ad 7h] and won (180) with a flush, King high
+Seat 2: mabeal1 (button) (small blind) showed [4h Kd] and lost with a flush, King high
+
+
+
+PokerStars Hand #259470207134: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 16:45:51 CET [2026/01/26 10:45:51 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (180 in chips) 
+Seat 2: mabeal1 (1320 in chips) 
+Darkest$hadow: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Kd]
+Darkest$hadow: raises 160 to 180 and is all-in
+mabeal1: calls 160
+*** FLOP *** [9c Th As]
+*** TURN *** [9c Th As] [9s]
+*** RIVER *** [9c Th As 9s] [6d]
+*** SHOW DOWN ***
+mabeal1: shows [Jd Kd] (a pair of Nines)
+Darkest$hadow: shows [Qs Qd] (two pair, Queens and Nines)
+Darkest$hadow collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [9c Th As 9s 6d]
+Seat 1: Darkest$hadow (button) (small blind) showed [Qs Qd] and won (360) with two pair, Queens and Nines
+Seat 2: mabeal1 (big blind) showed [Jd Kd] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259470210691: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:46:12 CET [2026/01/26 10:46:12 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7c]
+mabeal1: folds 
+Uncalled bet (15) returned to Darkest$hadow
+Darkest$hadow collected 30 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Darkest$hadow (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259470211348: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:46:16 CET [2026/01/26 10:46:16 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (375 in chips) 
+Seat 2: mabeal1 (1125 in chips) 
+Darkest$hadow: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Kd]
+Darkest$hadow: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259470211934: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:46:19 CET [2026/01/26 10:46:19 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 4d]
+mabeal1: calls 15
+Darkest$hadow: checks 
+*** FLOP *** [3h As 9h]
+Darkest$hadow: checks 
+mabeal1: bets 30
+Darkest$hadow: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3h As 9h]
+Seat 1: Darkest$hadow (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259470214247: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:46:33 CET [2026/01/26 10:46:33 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (330 in chips) 
+Seat 2: mabeal1 (1170 in chips) 
+Darkest$hadow: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Td]
+Darkest$hadow: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259470215305: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:46:39 CET [2026/01/26 10:46:39 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (315 in chips) 
+Seat 2: mabeal1 (1185 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 6c]
+mabeal1: calls 15
+Darkest$hadow: checks 
+*** FLOP *** [9c 7d Tc]
+Darkest$hadow: checks 
+mabeal1: bets 30
+Darkest$hadow: raises 60 to 90
+mabeal1: raises 1065 to 1155 and is all-in
+Darkest$hadow: calls 195 and is all-in
+Uncalled bet (870) returned to mabeal1
+*** TURN *** [9c 7d Tc] [8c]
+*** RIVER *** [9c 7d Tc 8c] [4s]
+*** SHOW DOWN ***
+Darkest$hadow: shows [6d 8h] (a straight, Six to Ten)
+mabeal1: shows [9h 6c] (a straight, Six to Ten)
+Darkest$hadow collected 315 from pot
+mabeal1 collected 315 from pot
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [9c 7d Tc 8c 4s]
+Seat 1: Darkest$hadow (big blind) showed [6d 8h] and won (315) with a straight, Six to Ten
+Seat 2: mabeal1 (button) (small blind) showed [9h 6c] and won (315) with a straight, Six to Ten
+
+
+
+PokerStars Hand #259470219148: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:47:01 CET [2026/01/26 10:47:01 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (315 in chips) 
+Seat 2: mabeal1 (1185 in chips) 
+Darkest$hadow: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 6c]
+Darkest$hadow: raises 285 to 315 and is all-in
+mabeal1: folds 
+Uncalled bet (285) returned to Darkest$hadow
+Darkest$hadow collected 60 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470221371: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:47:13 CET [2026/01/26 10:47:13 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (345 in chips) 
+Seat 2: mabeal1 (1155 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 6s]
+mabeal1: folds 
+Uncalled bet (15) returned to Darkest$hadow
+Darkest$hadow collected 30 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Darkest$hadow (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259470223624: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:47:27 CET [2026/01/26 10:47:27 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+Darkest$hadow: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Kh]
+Darkest$hadow: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259470224263: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:47:30 CET [2026/01/26 10:47:30 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (345 in chips) 
+Seat 2: mabeal1 (1155 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 8c]
+mabeal1: calls 15
+Darkest$hadow: checks 
+*** FLOP *** [Ts 5d 3h]
+Darkest$hadow: checks 
+mabeal1: bets 30
+Darkest$hadow: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts 5d 3h]
+Seat 1: Darkest$hadow (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259470227500: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:47:49 CET [2026/01/26 10:47:49 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (315 in chips) 
+Seat 2: mabeal1 (1185 in chips) 
+Darkest$hadow: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Kc]
+Darkest$hadow: raises 285 to 315 and is all-in
+mabeal1: folds 
+Uncalled bet (285) returned to Darkest$hadow
+Darkest$hadow collected 60 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470228840: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:47:57 CET [2026/01/26 10:47:57 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (345 in chips) 
+Seat 2: mabeal1 (1155 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 3h]
+mabeal1: calls 15
+Darkest$hadow: checks 
+*** FLOP *** [Ts 8h 4d]
+Darkest$hadow: checks 
+mabeal1: bets 30
+Darkest$hadow: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts 8h 4d]
+Seat 1: Darkest$hadow (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259470230541: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:48:06 CET [2026/01/26 10:48:06 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (315 in chips) 
+Seat 2: mabeal1 (1185 in chips) 
+Darkest$hadow: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 9h]
+Darkest$hadow: raises 285 to 315 and is all-in
+mabeal1: folds 
+Uncalled bet (285) returned to Darkest$hadow
+Darkest$hadow collected 60 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470231540: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:48:12 CET [2026/01/26 10:48:12 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (345 in chips) 
+Seat 2: mabeal1 (1155 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 9h]
+mabeal1: calls 15
+Darkest$hadow: raises 315 to 345 and is all-in
+mabeal1: folds 
+Uncalled bet (315) returned to Darkest$hadow
+Darkest$hadow collected 60 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Darkest$hadow (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259470232700: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:48:19 CET [2026/01/26 10:48:19 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (375 in chips) 
+Seat 2: mabeal1 (1125 in chips) 
+Darkest$hadow: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 9s]
+Darkest$hadow: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259470233298: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:48:23 CET [2026/01/26 10:48:23 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (360 in chips) 
+Seat 2: mabeal1 (1140 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Jh]
+mabeal1: calls 15
+Darkest$hadow: raises 330 to 360 and is all-in
+mabeal1: folds 
+Uncalled bet (330) returned to Darkest$hadow
+Darkest$hadow collected 60 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Darkest$hadow (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259470234531: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:48:29 CET [2026/01/26 10:48:29 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (390 in chips) 
+Seat 2: mabeal1 (1110 in chips) 
+Darkest$hadow: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 5c]
+Darkest$hadow: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259470235153: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:48:33 CET [2026/01/26 10:48:33 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (375 in chips) 
+Seat 2: mabeal1 (1125 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 9h]
+mabeal1: raises 30 to 60
+Darkest$hadow: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Darkest$hadow (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259470236998: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:48:44 CET [2026/01/26 10:48:44 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (345 in chips) 
+Seat 2: mabeal1 (1155 in chips) 
+Darkest$hadow: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2c]
+Darkest$hadow: raises 315 to 345 and is all-in
+mabeal1: folds 
+Uncalled bet (315) returned to Darkest$hadow
+Darkest$hadow collected 60 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470237955: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 16:48:49 CET [2026/01/26 10:48:49 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (375 in chips) 
+Seat 2: mabeal1 (1125 in chips) 
+mabeal1: posts small blind 15
+Darkest$hadow: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Jd]
+mabeal1: calls 15
+Darkest$hadow: checks 
+*** FLOP *** [2h 8s Ah]
+Darkest$hadow: checks 
+mabeal1: bets 30
+Darkest$hadow: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h 8s Ah]
+Seat 1: Darkest$hadow (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259470240173: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 16:49:02 CET [2026/01/26 10:49:02 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (345 in chips) 
+Seat 2: mabeal1 (1155 in chips) 
+Darkest$hadow: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Kh]
+Darkest$hadow: raises 305 to 345 and is all-in
+mabeal1: folds 
+Uncalled bet (305) returned to Darkest$hadow
+Darkest$hadow collected 80 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470241545: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 16:49:11 CET [2026/01/26 10:49:11 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (385 in chips) 
+Seat 2: mabeal1 (1115 in chips) 
+mabeal1: posts small blind 20
+Darkest$hadow: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Kc]
+mabeal1: calls 20
+Darkest$hadow: checks 
+*** FLOP *** [Kh Ts 6c]
+Darkest$hadow: checks 
+mabeal1: checks 
+*** TURN *** [Kh Ts 6c] [4h]
+Darkest$hadow: checks 
+mabeal1: checks 
+*** RIVER *** [Kh Ts 6c 4h] [8s]
+Darkest$hadow: checks 
+mabeal1: bets 40
+Darkest$hadow: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh Ts 6c 4h 8s]
+Seat 1: Darkest$hadow (big blind) folded on the River
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259470245867: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 16:49:36 CET [2026/01/26 10:49:36 ET]
+Table '3969306864 1' 3-max Seat #1 is the button
+Seat 1: Darkest$hadow (345 in chips) 
+Seat 2: mabeal1 (1155 in chips) 
+Darkest$hadow: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 7s]
+Darkest$hadow: raises 305 to 345 and is all-in
+mabeal1: folds 
+Uncalled bet (305) returned to Darkest$hadow
+Darkest$hadow collected 80 from pot
+Darkest$hadow: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Darkest$hadow (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259470246900: Tournament #3969306864, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 16:49:42 CET [2026/01/26 10:49:42 ET]
+Table '3969306864 1' 3-max Seat #2 is the button
+Seat 1: Darkest$hadow (385 in chips) 
+Seat 2: mabeal1 (1115 in chips) 
+mabeal1: posts small blind 20
+Darkest$hadow: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 8h]
+mabeal1: calls 20
+Darkest$hadow: raises 345 to 385 and is all-in
+mabeal1: calls 345
+*** FLOP *** [9s 4h Jh]
+*** TURN *** [9s 4h Jh] [7h]
+*** RIVER *** [9s 4h Jh 7h] [7d]
+*** SHOW DOWN ***
+Darkest$hadow: shows [8c Kc] (a pair of Sevens)
+mabeal1: shows [As 8h] (a pair of Sevens - Ace kicker)
+mabeal1 collected 770 from pot
+Darkest$hadow finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 770 | Rake 0 
+Board [9s 4h Jh 7h 7d]
+Seat 1: Darkest$hadow (big blind) showed [8c Kc] and lost with a pair of Sevens
+Seat 2: mabeal1 (button) (small blind) showed [As 8h] and won (770) with a pair of Sevens
+
+
+

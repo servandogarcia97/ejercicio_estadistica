@@ -1,0 +1,69 @@
+﻿PokerStars Hand #259539719526: Tournament #3970912153, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:09:11 CET [2026/01/31 16:09:11 ET]
+Table '3970912153 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: tiiiagoli92 (500 in chips) 
+Seat 3: Orillero109 (500 in chips) 
+tiiiagoli92: posts small blind 10
+Orillero109: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 2s]
+mabeal1: folds 
+tiiiagoli92: calls 10
+Orillero109: checks 
+*** FLOP *** [8d Ad 9c]
+tiiiagoli92: checks 
+Orillero109: checks 
+*** TURN *** [8d Ad 9c] [8h]
+tiiiagoli92: checks 
+Orillero109: checks 
+*** RIVER *** [8d Ad 9c 8h] [9h]
+tiiiagoli92: checks 
+Orillero109: checks 
+*** SHOW DOWN ***
+tiiiagoli92: shows [Kc 6s] (two pair, Nines and Eights)
+Orillero109: shows [Ks Ts] (two pair, Nines and Eights)
+tiiiagoli92 collected 20 from pot
+Orillero109 collected 20 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d Ad 9c 8h 9h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: tiiiagoli92 (small blind) showed [Kc 6s] and won (20) with two pair, Nines and Eights
+Seat 3: Orillero109 (big blind) showed [Ks Ts] and won (20) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #259539725792: Tournament #3970912153, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:09:35 CET [2026/01/31 16:09:35 ET]
+Table '3970912153 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: tiiiagoli92 (500 in chips) 
+Seat 3: Orillero109 (500 in chips) 
+Orillero109: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Qh]
+tiiiagoli92: raises 20 to 40
+Orillero109: calls 30
+mabeal1: calls 20
+*** FLOP *** [6h As 2h]
+Orillero109: bets 40
+mabeal1: calls 40
+tiiiagoli92: raises 420 to 460 and is all-in
+Orillero109: folds 
+mabeal1: calls 420 and is all-in
+*** TURN *** [6h As 2h] [Td]
+*** RIVER *** [6h As 2h Td] [8s]
+*** SHOW DOWN ***
+mabeal1: shows [3h Qh] (high card Ace)
+tiiiagoli92: shows [5d Ad] (a pair of Aces)
+tiiiagoli92 collected 1080 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [6h As 2h Td 8s]
+Seat 1: mabeal1 (big blind) showed [3h Qh] and lost with high card Ace
+Seat 2: tiiiagoli92 (button) showed [5d Ad] and won (1080) with a pair of Aces
+Seat 3: Orillero109 (small blind) folded on the Flop
+
+
+

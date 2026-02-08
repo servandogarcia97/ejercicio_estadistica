@@ -1,0 +1,388 @@
+﻿PokerStars Hand #259576639268: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:07 CET [2026/02/03 10:26:07 ET]
+Table '3971724499 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Squale49 (500 in chips) 
+Seat 3: fraymiguel (500 in chips) 
+Squale49: posts small blind 10
+fraymiguel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qs]
+mabeal1: folds 
+Squale49: folds 
+Uncalled bet (10) returned to fraymiguel
+fraymiguel collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Squale49 (small blind) folded before Flop
+Seat 3: fraymiguel (big blind) collected (20)
+
+
+
+PokerStars Hand #259576640191: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:12 CET [2026/02/03 10:26:12 ET]
+Table '3971724499 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Squale49 (490 in chips) 
+Seat 3: fraymiguel (510 in chips) 
+fraymiguel: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Ks]
+Squale49: folds 
+fraymiguel: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: Squale49 (button) folded before Flop (didn't bet)
+Seat 3: fraymiguel (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576641671: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:20 CET [2026/02/03 10:26:20 ET]
+Table '3971724499 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Squale49 (490 in chips) 
+Seat 3: fraymiguel (500 in chips) 
+mabeal1: posts small blind 10
+Squale49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Jd]
+fraymiguel: folds 
+mabeal1: raises 30 to 50
+Squale49: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: Squale49 (big blind) folded before Flop
+Seat 3: fraymiguel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259576643381: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:30 CET [2026/02/03 10:26:30 ET]
+Table '3971724499 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Squale49 (470 in chips) 
+Seat 3: fraymiguel (500 in chips) 
+Squale49: posts small blind 10
+fraymiguel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3d]
+mabeal1: folds 
+Squale49: folds 
+Uncalled bet (10) returned to fraymiguel
+fraymiguel collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Squale49 (small blind) folded before Flop
+Seat 3: fraymiguel (big blind) collected (20)
+
+
+
+PokerStars Hand #259576644297: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:26:35 CET [2026/02/03 10:26:35 ET]
+Table '3971724499 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Squale49 (460 in chips) 
+Seat 3: fraymiguel (510 in chips) 
+fraymiguel: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 3h]
+Squale49: folds 
+fraymiguel: calls 10
+mabeal1: checks 
+*** FLOP *** [Jd 8d 9h]
+fraymiguel: checks 
+mabeal1: checks 
+*** TURN *** [Jd 8d 9h] [7h]
+fraymiguel: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to fraymiguel
+fraymiguel collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Jd 8d 9h 7h]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Squale49 (button) folded before Flop (didn't bet)
+Seat 3: fraymiguel (small blind) collected (40)
+
+
+
+PokerStars Hand #259576649381: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:27:04 CET [2026/02/03 10:27:04 ET]
+Table '3971724499 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Squale49 (460 in chips) 
+Seat 3: fraymiguel (530 in chips) 
+mabeal1: posts small blind 10
+Squale49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 8c]
+fraymiguel: calls 20
+mabeal1: raises 490 to 510 and is all-in
+Squale49: folds 
+fraymiguel: folds [Ac]
+Uncalled bet (490) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: Squale49 (big blind) folded before Flop
+Seat 3: fraymiguel (button) folded before Flop
+
+
+
+PokerStars Hand #259576651177: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:27:15 CET [2026/02/03 10:27:15 ET]
+Table '3971724499 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: Squale49 (440 in chips) 
+Seat 3: fraymiguel (510 in chips) 
+Squale49: posts small blind 10
+fraymiguel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4s]
+mabeal1: folds 
+Squale49: folds 
+Uncalled bet (10) returned to fraymiguel
+fraymiguel collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Squale49 (small blind) folded before Flop
+Seat 3: fraymiguel (big blind) collected (20)
+
+
+
+PokerStars Hand #259576652161: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:27:20 CET [2026/02/03 10:27:20 ET]
+Table '3971724499 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: Squale49 (430 in chips) 
+Seat 3: fraymiguel (520 in chips) 
+fraymiguel: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Tc]
+Squale49: folds 
+fraymiguel: calls 10
+mabeal1: checks 
+*** FLOP *** [8c 4s Ah]
+fraymiguel: checks 
+mabeal1: checks 
+*** TURN *** [8c 4s Ah] [Ad]
+fraymiguel: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to fraymiguel
+fraymiguel collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8c 4s Ah Ad]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 2: Squale49 (button) folded before Flop (didn't bet)
+Seat 3: fraymiguel (small blind) collected (40)
+
+
+
+PokerStars Hand #259576656676: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:27:46 CET [2026/02/03 10:27:46 ET]
+Table '3971724499 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Squale49 (430 in chips) 
+Seat 3: fraymiguel (540 in chips) 
+mabeal1: posts small blind 10
+Squale49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 4s]
+fraymiguel has timed out
+fraymiguel: folds 
+fraymiguel is sitting out
+mabeal1: raises 510 to 530 and is all-in
+Squale49: folds 
+Uncalled bet (510) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: Squale49 (big blind) folded before Flop
+Seat 3: fraymiguel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259576661380: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:28:13 CET [2026/02/03 10:28:13 ET]
+Table '3971724499 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: Squale49 (410 in chips) 
+Seat 3: fraymiguel (540 in chips) is sitting out
+Squale49: posts small blind 10
+fraymiguel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Tc]
+mabeal1: raises 20 to 40
+Squale49: raises 100 to 140
+fraymiguel: folds 
+mabeal1: folds 
+Uncalled bet (100) returned to Squale49
+Squale49 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: Squale49 (small blind) collected (100)
+Seat 3: fraymiguel (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576663036: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:28:22 CET [2026/02/03 10:28:22 ET]
+Table '3971724499 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Squale49 (470 in chips) 
+Seat 3: fraymiguel (520 in chips) is sitting out
+fraymiguel: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3h]
+Squale49: calls 20
+fraymiguel: folds 
+mabeal1: checks 
+*** FLOP *** [Kd Qd 7d]
+mabeal1: checks 
+Squale49: bets 50
+mabeal1: folds 
+Uncalled bet (50) returned to Squale49
+Squale49 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Kd Qd 7d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: Squale49 (button) collected (50)
+Seat 3: fraymiguel (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576665276: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:28:35 CET [2026/02/03 10:28:35 ET]
+Table '3971724499 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (490 in chips) 
+Seat 2: Squale49 (500 in chips) 
+Seat 3: fraymiguel (510 in chips) is sitting out
+mabeal1: posts small blind 10
+Squale49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Ts]
+fraymiguel: folds 
+mabeal1: raises 20 to 40
+Squale49: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: Squale49 (big blind) folded before Flop
+Seat 3: fraymiguel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259576666162: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:28:40 CET [2026/02/03 10:28:40 ET]
+Table '3971724499 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Squale49 (480 in chips) 
+Seat 3: fraymiguel (510 in chips) is sitting out
+Squale49: posts small blind 10
+fraymiguel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 9h]
+mabeal1: raises 20 to 40
+Squale49: raises 440 to 480 and is all-in
+fraymiguel: folds 
+mabeal1: folds 
+Uncalled bet (440) returned to Squale49
+Squale49 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: Squale49 (small blind) collected (100)
+Seat 3: fraymiguel (big blind) folded before Flop
+
+
+
+PokerStars Hand #259576667925: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:28:50 CET [2026/02/03 10:28:50 ET]
+Table '3971724499 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: Squale49 (540 in chips) 
+Seat 3: fraymiguel (490 in chips) is sitting out
+fraymiguel: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Qd]
+Squale49: folds 
+fraymiguel: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: Squale49 (button) folded before Flop (didn't bet)
+Seat 3: fraymiguel (small blind) folded before Flop
+
+
+
+PokerStars Hand #259576668743: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:28:55 CET [2026/02/03 10:28:55 ET]
+Table '3971724499 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: Squale49 (540 in chips) 
+Seat 3: fraymiguel (480 in chips) is sitting out
+mabeal1: posts small blind 10
+Squale49: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qs]
+fraymiguel: folds 
+mabeal1: raises 20 to 40
+Squale49: raises 500 to 540 and is all-in
+mabeal1: folds 
+Uncalled bet (500) returned to Squale49
+Squale49 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Squale49 (big blind) collected (80)
+Seat 3: fraymiguel (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259576670434: Tournament #3971724499, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 16:29:04 CET [2026/02/03 10:29:04 ET]
+Table '3971724499 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: Squale49 (580 in chips) 
+Seat 3: fraymiguel (480 in chips) is sitting out
+Squale49: posts small blind 10
+fraymiguel: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 3d]
+mabeal1: calls 20
+Squale49: raises 40 to 60
+fraymiguel: folds 
+fraymiguel has returned
+mabeal1: raises 380 to 440 and is all-in
+Squale49: calls 380
+*** FLOP *** [5h 7s 7d]
+*** TURN *** [5h 7s 7d] [Js]
+*** RIVER *** [5h 7s 7d Js] [Ks]
+*** SHOW DOWN ***
+Squale49: shows [9h 9s] (two pair, Nines and Sevens)
+mabeal1: shows [Qc 3d] (a pair of Sevens)
+Squale49 collected 900 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [5h 7s 7d Js Ks]
+Seat 1: mabeal1 (button) showed [Qc 3d] and lost with a pair of Sevens
+Seat 2: Squale49 (small blind) showed [9h 9s] and won (900) with two pair, Nines and Sevens
+Seat 3: fraymiguel (big blind) folded before Flop
+
+
+

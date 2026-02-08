@@ -1,0 +1,71 @@
+﻿PokerStars Hand #259508424501: Tournament #3970181661, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:46:54 CET [2026/01/29 9:46:54 ET]
+Table '3970181661 1' 3-max Seat #1 is the button
+Seat 1: amojito33 (500 in chips) 
+Seat 2: LACOTAN (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+LACOTAN: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Qd]
+amojito33: raises 20 to 40
+LACOTAN: calls 30
+mabeal1: calls 20
+*** FLOP *** [Jh 5h 8s]
+LACOTAN: checks 
+mabeal1: checks 
+amojito33: checks 
+*** TURN *** [Jh 5h 8s] [Ks]
+LACOTAN: checks 
+mabeal1: checks 
+amojito33: bets 60
+LACOTAN: calls 60
+mabeal1: folds 
+*** RIVER *** [Jh 5h 8s Ks] [9s]
+LACOTAN: checks 
+amojito33: checks 
+*** SHOW DOWN ***
+LACOTAN: shows [9d 7d] (a pair of Nines)
+amojito33: shows [Td 9c] (a pair of Nines - King+Jack+Ten kicker)
+amojito33 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Jh 5h 8s Ks 9s]
+Seat 1: amojito33 (button) showed [Td 9c] and won (240) with a pair of Nines
+Seat 2: LACOTAN (small blind) showed [9d 7d] and lost with a pair of Nines
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259508430406: Tournament #3970181661, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:47:33 CET [2026/01/29 9:47:33 ET]
+Table '3970181661 1' 3-max Seat #2 is the button
+Seat 1: amojito33 (640 in chips) 
+Seat 2: LACOTAN (400 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 10
+amojito33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 8d]
+LACOTAN: raises 20 to 40
+mabeal1: raises 420 to 460 and is all-in
+amojito33: raises 180 to 640 and is all-in
+LACOTAN: calls 360 and is all-in
+Uncalled bet (180) returned to amojito33
+*** FLOP *** [Jh Qs 9s]
+*** TURN *** [Jh Qs 9s] [2s]
+*** RIVER *** [Jh Qs 9s 2s] [3h]
+*** SHOW DOWN ***
+mabeal1: shows [Ac 8d] (high card Ace)
+amojito33: shows [Kc Ad] (high card Ace - King kicker)
+amojito33 collected 120 from side pot
+LACOTAN: shows [Tc Qd] (a pair of Queens)
+LACOTAN collected 1200 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1320 Main pot 1200. Side pot 120. | Rake 0 
+Board [Jh Qs 9s 2s 3h]
+Seat 1: amojito33 (big blind) showed [Kc Ad] and won (120) with high card Ace
+Seat 2: LACOTAN (button) showed [Tc Qd] and won (1200) with a pair of Queens
+Seat 3: mabeal1 (small blind) showed [Ac 8d] and lost with high card Ace
+
+
+

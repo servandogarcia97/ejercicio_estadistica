@@ -1,0 +1,176 @@
+﻿PokerStars Hand #259539335438: Tournament #3970903510, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:41:21 CET [2026/01/31 15:41:21 ET]
+Table '3970903510 1' 3-max Seat #1 is the button
+Seat 1: bdn976 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: pedrofer97 (500 in chips) 
+mabeal1: posts small blind 10
+pedrofer97: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6s]
+bdn976: calls 20
+mabeal1: folds 
+pedrofer97: checks 
+*** FLOP *** [4c Jd 8c]
+pedrofer97: checks 
+bdn976: bets 20
+pedrofer97: calls 20
+*** TURN *** [4c Jd 8c] [3d]
+pedrofer97: checks 
+bdn976: checks 
+*** RIVER *** [4c Jd 8c 3d] [Td]
+pedrofer97: checks 
+bdn976: bets 460 and is all-in
+pedrofer97: folds 
+Uncalled bet (460) returned to bdn976
+bdn976 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [4c Jd 8c 3d Td]
+Seat 1: bdn976 (button) collected (90)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: pedrofer97 (big blind) folded on the River
+
+
+
+PokerStars Hand #259539341758: Tournament #3970903510, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:41:47 CET [2026/01/31 15:41:47 ET]
+Table '3970903510 1' 3-max Seat #2 is the button
+Seat 1: bdn976 (550 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: pedrofer97 (460 in chips) 
+pedrofer97: posts small blind 10
+bdn976: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 2d]
+mabeal1: folds 
+pedrofer97: calls 10
+bdn976: checks 
+*** FLOP *** [Kd Js Ah]
+pedrofer97: bets 20
+bdn976: folds 
+Uncalled bet (20) returned to pedrofer97
+pedrofer97 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kd Js Ah]
+Seat 1: bdn976 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: pedrofer97 (small blind) collected (40)
+
+
+
+PokerStars Hand #259539345301: Tournament #3970903510, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:42:01 CET [2026/01/31 15:42:01 ET]
+Table '3970903510 1' 3-max Seat #3 is the button
+Seat 1: bdn976 (530 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: pedrofer97 (480 in chips) 
+bdn976: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Jd]
+pedrofer97: raises 20 to 40
+bdn976: folds 
+mabeal1: raises 450 to 490 and is all-in
+pedrofer97: folds 
+Uncalled bet (450) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: bdn976 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (90)
+Seat 3: pedrofer97 (button) folded before Flop
+
+
+
+PokerStars Hand #259539349498: Tournament #3970903510, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:42:18 CET [2026/01/31 15:42:18 ET]
+Table '3970903510 1' 3-max Seat #1 is the button
+Seat 1: bdn976 (520 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: pedrofer97 (440 in chips) 
+mabeal1: posts small blind 10
+pedrofer97: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Jd]
+bdn976: folds 
+mabeal1: raises 40 to 60
+pedrofer97: calls 40
+*** FLOP *** [2h 5c Ac]
+mabeal1: bets 40
+pedrofer97: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h 5c Ac]
+Seat 1: bdn976 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (120)
+Seat 3: pedrofer97 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259539352862: Tournament #3970903510, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:42:32 CET [2026/01/31 15:42:32 ET]
+Table '3970903510 1' 3-max Seat #2 is the button
+Seat 1: bdn976 (520 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: pedrofer97 (380 in chips) 
+pedrofer97: posts small blind 10
+bdn976: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7d]
+mabeal1: raises 20 to 40
+pedrofer97: folds 
+bdn976: calls 20
+*** FLOP *** [8h 5d 6h]
+bdn976: bets 20
+mabeal1: raises 80 to 100
+bdn976: calls 80
+*** TURN *** [8h 5d 6h] [6d]
+bdn976: bets 20
+mabeal1: raises 440 to 460 and is all-in
+bdn976: calls 360 and is all-in
+Uncalled bet (80) returned to mabeal1
+*** RIVER *** [8h 5d 6h 6d] [Ks]
+*** SHOW DOWN ***
+bdn976: shows [Kh 9c] (two pair, Kings and Sixes)
+mabeal1: shows [8d 7d] (two pair, Eights and Sixes)
+bdn976 collected 1050 from pot
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [8h 5d 6h 6d Ks]
+Seat 1: bdn976 (big blind) showed [Kh 9c] and won (1050) with two pair, Kings and Sixes
+Seat 2: mabeal1 (button) showed [8d 7d] and lost with two pair, Eights and Sixes
+Seat 3: pedrofer97 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259539359724: Tournament #3970903510, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 21:43:00 CET [2026/01/31 15:43:00 ET]
+Table '3970903510 1' 3-max Seat #3 is the button
+Seat 1: bdn976 (1050 in chips) 
+Seat 2: mabeal1 (80 in chips) 
+Seat 3: pedrofer97 (370 in chips) 
+bdn976: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Tc]
+pedrofer97: folds 
+bdn976: calls 10
+mabeal1: raises 60 to 80 and is all-in
+bdn976: calls 60
+*** FLOP *** [6c Jh 2d]
+*** TURN *** [6c Jh 2d] [4d]
+*** RIVER *** [6c Jh 2d 4d] [2s]
+*** SHOW DOWN ***
+bdn976: shows [Qh 6s] (two pair, Sixes and Deuces)
+mabeal1: shows [4h Tc] (two pair, Fours and Deuces)
+bdn976 collected 160 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [6c Jh 2d 4d 2s]
+Seat 1: bdn976 (small blind) showed [Qh 6s] and won (160) with two pair, Sixes and Deuces
+Seat 2: mabeal1 (big blind) showed [4h Tc] and lost with two pair, Fours and Deuces
+Seat 3: pedrofer97 (button) folded before Flop (didn't bet)
+
+
+

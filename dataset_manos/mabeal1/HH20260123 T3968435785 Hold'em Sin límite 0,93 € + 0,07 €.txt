@@ -1,0 +1,320 @@
+﻿PokerStars Hand #259431232431: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:17:08 CET [2026/01/23 14:17:08 ET]
+Table '3968435785 1' 3-max Seat #1 is the button
+Seat 1: kkkk1313 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: jackdemon666 (500 in chips) 
+mabeal1: posts small blind 10
+jackdemon666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Tc]
+kkkk1313: calls 20
+mabeal1: calls 10
+jackdemon666: checks 
+*** FLOP *** [Ac Th 8s]
+mabeal1: checks 
+jackdemon666: checks 
+kkkk1313: bets 40
+mabeal1: raises 60 to 100
+jackdemon666: folds 
+kkkk1313: calls 60
+*** TURN *** [Ac Th 8s] [7h]
+mabeal1: bets 135
+kkkk1313: calls 135
+*** RIVER *** [Ac Th 8s 7h] [Jd]
+mabeal1: bets 245 and is all-in
+kkkk1313: calls 245 and is all-in
+*** SHOW DOWN ***
+mabeal1: shows [8h Tc] (two pair, Tens and Eights)
+kkkk1313: shows [8c Qd] (a pair of Eights)
+mabeal1 collected 1020 from pot
+kkkk1313 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Ac Th 8s 7h Jd]
+Seat 1: kkkk1313 (button) showed [8c Qd] and lost with a pair of Eights
+Seat 2: mabeal1 (small blind) showed [8h Tc] and won (1020) with two pair, Tens and Eights
+Seat 3: jackdemon666 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259431244476: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:18:00 CET [2026/01/23 14:18:00 ET]
+Table '3968435785 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1020 in chips) 
+Seat 3: jackdemon666 (480 in chips) 
+jackdemon666: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 5s]
+jackdemon666: calls 10
+mabeal1: checks 
+*** FLOP *** [9c 4d 2h]
+mabeal1: checks 
+jackdemon666: checks 
+*** TURN *** [9c 4d 2h] [4h]
+mabeal1: bets 20
+jackdemon666: calls 20
+*** RIVER *** [9c 4d 2h 4h] [7d]
+mabeal1: checks 
+jackdemon666: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Kd 5s] (a pair of Fours)
+jackdemon666: shows [Ad Th] (a pair of Fours - Ace kicker)
+jackdemon666 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9c 4d 2h 4h 7d]
+Seat 2: mabeal1 (big blind) showed [Kd 5s] and lost with a pair of Fours
+Seat 3: jackdemon666 (button) (small blind) showed [Ad Th] and won (80) with a pair of Fours
+
+
+
+PokerStars Hand #259431249344: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:18:21 CET [2026/01/23 14:18:21 ET]
+Table '3968435785 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (980 in chips) 
+Seat 3: jackdemon666 (520 in chips) 
+mabeal1: posts small blind 10
+jackdemon666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 6s]
+mabeal1: calls 10
+jackdemon666: checks 
+*** FLOP *** [Td Ad Qd]
+jackdemon666: checks 
+mabeal1: bets 20
+jackdemon666: calls 20
+*** TURN *** [Td Ad Qd] [7h]
+jackdemon666: checks 
+mabeal1: checks 
+*** RIVER *** [Td Ad Qd 7h] [Jc]
+jackdemon666: checks 
+mabeal1: bets 60
+jackdemon666: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Td Ad Qd 7h Jc]
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: jackdemon666 (big blind) folded on the River
+
+
+
+PokerStars Hand #259431254482: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:18:42 CET [2026/01/23 14:18:42 ET]
+Table '3968435785 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1020 in chips) 
+Seat 3: jackdemon666 (480 in chips) 
+jackdemon666: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ts]
+jackdemon666: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: jackdemon666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259431255475: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:18:47 CET [2026/01/23 14:18:47 ET]
+Table '3968435785 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1030 in chips) 
+Seat 3: jackdemon666 (470 in chips) 
+mabeal1: posts small blind 10
+jackdemon666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2c]
+mabeal1: calls 10
+jackdemon666: checks 
+*** FLOP *** [Th 5d Ah]
+jackdemon666: checks 
+mabeal1: checks 
+*** TURN *** [Th 5d Ah] [3d]
+jackdemon666: checks 
+mabeal1: bets 20
+jackdemon666: calls 20
+*** RIVER *** [Th 5d Ah 3d] [6s]
+jackdemon666: checks 
+mabeal1: bets 60
+jackdemon666: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [Jd 2c] (high card Ace)
+jackdemon666: shows [Td 2h] (a pair of Tens)
+jackdemon666 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Th 5d Ah 3d 6s]
+Seat 2: mabeal1 (button) (small blind) showed [Jd 2c] and lost with high card Ace
+Seat 3: jackdemon666 (big blind) showed [Td 2h] and won (200) with a pair of Tens
+
+
+
+PokerStars Hand #259431262688: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:19:17 CET [2026/01/23 14:19:17 ET]
+Table '3968435785 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (930 in chips) 
+Seat 3: jackdemon666 (570 in chips) 
+jackdemon666: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Jd]
+jackdemon666: calls 15
+mabeal1: raises 60 to 90
+jackdemon666: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: jackdemon666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259431265713: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:19:30 CET [2026/01/23 14:19:30 ET]
+Table '3968435785 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (960 in chips) 
+Seat 3: jackdemon666 (540 in chips) 
+mabeal1: posts small blind 15
+jackdemon666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Ks]
+mabeal1: raises 30 to 60
+jackdemon666: calls 30
+*** FLOP *** [6d 7d Ts]
+jackdemon666: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to jackdemon666
+jackdemon666 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d 7d Ts]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: jackdemon666 (big blind) collected (120)
+
+
+
+PokerStars Hand #259431269796: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:19:47 CET [2026/01/23 14:19:47 ET]
+Table '3968435785 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (900 in chips) 
+Seat 3: jackdemon666 (600 in chips) 
+jackdemon666: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 6s]
+jackdemon666: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: jackdemon666 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259431270823: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:19:51 CET [2026/01/23 14:19:51 ET]
+Table '3968435785 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (915 in chips) 
+Seat 3: jackdemon666 (585 in chips) 
+mabeal1: posts small blind 15
+jackdemon666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5s]
+mabeal1: calls 15
+jackdemon666: checks 
+*** FLOP *** [6d 2c 8c]
+jackdemon666: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to jackdemon666
+jackdemon666 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d 2c 8c]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: jackdemon666 (big blind) collected (60)
+
+
+
+PokerStars Hand #259431274656: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:20:07 CET [2026/01/23 14:20:07 ET]
+Table '3968435785 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (885 in chips) 
+Seat 3: jackdemon666 (615 in chips) 
+jackdemon666: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qc]
+jackdemon666: calls 15
+mabeal1: checks 
+*** FLOP *** [7h 7s 6h]
+mabeal1: checks 
+jackdemon666: checks 
+*** TURN *** [7h 7s 6h] [Jc]
+mabeal1: bets 30
+jackdemon666: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h 7s 6h Jc]
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: jackdemon666 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259431279529: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:20:27 CET [2026/01/23 14:20:27 ET]
+Table '3968435785 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (915 in chips) 
+Seat 3: jackdemon666 (585 in chips) 
+mabeal1: posts small blind 15
+jackdemon666: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4d]
+mabeal1: calls 15
+jackdemon666: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to jackdemon666
+jackdemon666 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: jackdemon666 (big blind) collected (60)
+
+
+
+PokerStars Hand #259431282054: Tournament #3968435785, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 20:20:38 CET [2026/01/23 14:20:38 ET]
+Table '3968435785 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (885 in chips) 
+Seat 3: jackdemon666 (615 in chips) 
+jackdemon666: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Qc]
+jackdemon666: calls 15
+mabeal1: raises 60 to 90
+jackdemon666: calls 60
+*** FLOP *** [7c 6d Qh]
+mabeal1: bets 60
+jackdemon666: raises 300 to 360
+mabeal1: raises 435 to 795 and is all-in
+jackdemon666: calls 165 and is all-in
+Uncalled bet (270) returned to mabeal1
+*** TURN *** [7c 6d Qh] [Jd]
+*** RIVER *** [7c 6d Qh Jd] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [Jh Qc] (two pair, Queens and Jacks)
+jackdemon666: shows [7d 6h] (two pair, Sevens and Sixes)
+mabeal1 collected 1230 from pot
+jackdemon666 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1230 | Rake 0 
+Board [7c 6d Qh Jd 4c]
+Seat 2: mabeal1 (big blind) showed [Jh Qc] and won (1230) with two pair, Queens and Jacks
+Seat 3: jackdemon666 (button) (small blind) showed [7d 6h] and lost with two pair, Sevens and Sixes
+
+
+

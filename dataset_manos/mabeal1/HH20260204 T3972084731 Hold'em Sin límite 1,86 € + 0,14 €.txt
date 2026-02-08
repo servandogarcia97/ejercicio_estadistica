@@ -1,0 +1,499 @@
+﻿PokerStars Hand #259592288034: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:57:44 CET [2026/02/04 14:57:44 ET]
+Table '3972084731 1' 3-max Seat #1 is the button
+Seat 1: albervega05 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Leug80 (500 in chips) 
+mabeal1: posts small blind 10
+Leug80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ah]
+albervega05: folds 
+mabeal1: raises 30 to 50
+Leug80: calls 30
+*** FLOP *** [Td 7h 4h]
+mabeal1: bets 50
+Leug80: calls 50
+*** TURN *** [Td 7h 4h] [9h]
+mabeal1: bets 150
+Leug80: calls 150
+*** RIVER *** [Td 7h 4h 9h] [Qh]
+mabeal1: bets 250 and is all-in
+Leug80: folds 
+Uncalled bet (250) returned to mabeal1
+mabeal1 collected 500 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Td 7h 4h 9h Qh]
+Seat 1: albervega05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (500)
+Seat 3: Leug80 (big blind) folded on the River
+
+
+
+PokerStars Hand #259592291952: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:58:08 CET [2026/02/04 14:58:08 ET]
+Table '3972084731 1' 3-max Seat #2 is the button
+Seat 1: albervega05 (500 in chips) 
+Seat 2: mabeal1 (750 in chips) 
+Seat 3: Leug80 (250 in chips) 
+Leug80: posts small blind 10
+albervega05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 8d]
+mabeal1: folds 
+Leug80: folds 
+Uncalled bet (10) returned to albervega05
+albervega05 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: albervega05 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Leug80 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592294051: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:58:20 CET [2026/02/04 14:58:20 ET]
+Table '3972084731 1' 3-max Seat #3 is the button
+Seat 1: albervega05 (510 in chips) 
+Seat 2: mabeal1 (750 in chips) 
+Seat 3: Leug80 (240 in chips) 
+albervega05: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 5c]
+Leug80: raises 40 to 60
+albervega05: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to Leug80
+Leug80 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: albervega05 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Leug80 (button) collected (50)
+
+
+
+PokerStars Hand #259592296249: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:58:33 CET [2026/02/04 14:58:33 ET]
+Table '3972084731 1' 3-max Seat #1 is the button
+Seat 1: albervega05 (500 in chips) 
+Seat 2: mabeal1 (730 in chips) 
+Seat 3: Leug80 (270 in chips) 
+mabeal1: posts small blind 10
+Leug80: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 6h]
+albervega05: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Leug80
+Leug80 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: albervega05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Leug80 (big blind) collected (20)
+
+
+
+PokerStars Hand #259592298403: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:58:46 CET [2026/02/04 14:58:46 ET]
+Table '3972084731 1' 3-max Seat #2 is the button
+Seat 1: albervega05 (500 in chips) 
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: Leug80 (280 in chips) 
+Leug80: posts small blind 10
+albervega05: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Qc]
+mabeal1: folds 
+Leug80: calls 10
+albervega05: checks 
+*** FLOP *** [Kc Kd Qd]
+Leug80: checks 
+albervega05: checks 
+*** TURN *** [Kc Kd Qd] [8h]
+Leug80: checks 
+albervega05: bets 20
+Leug80: folds 
+Uncalled bet (20) returned to albervega05
+albervega05 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Kc Kd Qd 8h]
+Seat 1: albervega05 (big blind) collected (40)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Leug80 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259592304765: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:59:24 CET [2026/02/04 14:59:24 ET]
+Table '3972084731 1' 3-max Seat #3 is the button
+Seat 1: albervega05 (520 in chips) 
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: Leug80 (260 in chips) 
+albervega05: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Tc]
+Leug80: folds 
+albervega05: calls 10
+mabeal1: checks 
+*** FLOP *** [Ac 9s Ad]
+albervega05: checks 
+mabeal1: checks 
+*** TURN *** [Ac 9s Ad] [7s]
+albervega05: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to albervega05
+albervega05 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac 9s Ad 7s]
+Seat 1: albervega05 (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Leug80 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259592309362: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:59:52 CET [2026/02/04 14:59:52 ET]
+Table '3972084731 1' 3-max Seat #1 is the button
+Seat 1: albervega05 (540 in chips) 
+Seat 2: mabeal1 (700 in chips) 
+Seat 3: Leug80 (260 in chips) 
+mabeal1: posts small blind 15
+Leug80: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 5c]
+albervega05: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Leug80
+Leug80 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: albervega05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Leug80 (big blind) collected (30)
+
+
+
+PokerStars Hand #259592310455: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:59:58 CET [2026/02/04 14:59:58 ET]
+Table '3972084731 1' 3-max Seat #2 is the button
+Seat 1: albervega05 (540 in chips) 
+Seat 2: mabeal1 (685 in chips) 
+Seat 3: Leug80 (275 in chips) 
+Leug80: posts small blind 15
+albervega05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Qh]
+mabeal1: folds 
+Leug80: raises 245 to 275 and is all-in
+albervega05: folds 
+Uncalled bet (245) returned to Leug80
+Leug80 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: albervega05 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Leug80 (small blind) collected (60)
+
+
+
+PokerStars Hand #259592313821: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:00:16 CET [2026/02/04 15:00:16 ET]
+Table '3972084731 1' 3-max Seat #3 is the button
+Seat 1: albervega05 (510 in chips) 
+Seat 2: mabeal1 (685 in chips) 
+Seat 3: Leug80 (305 in chips) 
+albervega05: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kc]
+Leug80: folds 
+albervega05: calls 15
+mabeal1: checks 
+*** FLOP *** [4c 3s Tc]
+albervega05: checks 
+mabeal1: checks 
+*** TURN *** [4c 3s Tc] [9s]
+albervega05: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to albervega05
+albervega05 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c 3s Tc 9s]
+Seat 1: albervega05 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Turn
+Seat 3: Leug80 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259592321921: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:01:00 CET [2026/02/04 15:01:00 ET]
+Table '3972084731 1' 3-max Seat #1 is the button
+Seat 1: albervega05 (540 in chips) 
+Seat 2: mabeal1 (655 in chips) 
+Seat 3: Leug80 (305 in chips) 
+mabeal1: posts small blind 15
+Leug80: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 8c]
+albervega05: calls 30
+mabeal1: raises 625 to 655 and is all-in
+Leug80: folds 
+albervega05: calls 510 and is all-in
+Uncalled bet (115) returned to mabeal1
+*** FLOP *** [Kc 9c Jc]
+*** TURN *** [Kc 9c Jc] [3h]
+*** RIVER *** [Kc 9c Jc 3h] [2d]
+*** SHOW DOWN ***
+mabeal1: shows [8h 8c] (a pair of Eights)
+albervega05: shows [Qd Js] (a pair of Jacks)
+albervega05 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [Kc 9c Jc 3h 2d]
+Seat 1: albervega05 (button) showed [Qd Js] and won (1110) with a pair of Jacks
+Seat 2: mabeal1 (small blind) showed [8h 8c] and lost with a pair of Eights
+Seat 3: Leug80 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259592327197: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:01:25 CET [2026/02/04 15:01:25 ET]
+Table '3972084731 1' 3-max Seat #2 is the button
+Seat 1: albervega05 (1110 in chips) 
+Seat 2: mabeal1 (115 in chips) 
+Seat 3: Leug80 (275 in chips) 
+Leug80: posts small blind 15
+albervega05: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 8s]
+mabeal1: folds 
+Leug80: folds 
+Uncalled bet (15) returned to albervega05
+albervega05 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: albervega05 (big blind) collected (30)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Leug80 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259592330297: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 21:01:40 CET [2026/02/04 15:01:40 ET]
+Table '3972084731 1' 3-max Seat #3 is the button
+Seat 1: albervega05 (1125 in chips) 
+Seat 2: mabeal1 (115 in chips) 
+Seat 3: Leug80 (260 in chips) 
+albervega05: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 2h]
+Leug80: folds 
+albervega05: calls 15
+mabeal1: checks 
+*** FLOP *** [9c 3s Ks]
+albervega05: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to albervega05
+albervega05 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9c 3s Ks]
+Seat 1: albervega05 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: Leug80 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259592335833: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:02:06 CET [2026/02/04 15:02:06 ET]
+Table '3972084731 1' 3-max Seat #1 is the button
+Seat 1: albervega05 (1155 in chips) 
+Seat 2: mabeal1 (85 in chips) 
+Seat 3: Leug80 (260 in chips) 
+mabeal1: posts small blind 20
+Leug80: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Jh]
+albervega05: folds 
+mabeal1: raises 45 to 85 and is all-in
+Leug80: calls 45
+*** FLOP *** [Jc 6h 5c]
+*** TURN *** [Jc 6h 5c] [3d]
+*** RIVER *** [Jc 6h 5c 3d] [2h]
+*** SHOW DOWN ***
+mabeal1: shows [Td Jh] (a pair of Jacks)
+Leug80: shows [Qc 5s] (a pair of Fives)
+mabeal1 collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Jc 6h 5c 3d 2h]
+Seat 1: albervega05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Td Jh] and won (170) with a pair of Jacks
+Seat 3: Leug80 (big blind) showed [Qc 5s] and lost with a pair of Fives
+
+
+
+PokerStars Hand #259592339515: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:02:20 CET [2026/02/04 15:02:20 ET]
+Table '3972084731 1' 3-max Seat #2 is the button
+Seat 1: albervega05 (1155 in chips) 
+Seat 2: mabeal1 (170 in chips) 
+Seat 3: Leug80 (175 in chips) 
+Leug80: posts small blind 20
+albervega05: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 9c]
+mabeal1: raises 130 to 170 and is all-in
+Leug80: raises 5 to 175 and is all-in
+albervega05: folds 
+Uncalled bet (5) returned to Leug80
+*** FLOP *** [Qh 7h 8d]
+*** TURN *** [Qh 7h 8d] [Ac]
+*** RIVER *** [Qh 7h 8d Ac] [4s]
+*** SHOW DOWN ***
+Leug80: shows [8s Kh] (a pair of Eights)
+mabeal1: shows [Qc 9c] (a pair of Queens)
+mabeal1 collected 380 from pot
+*** SUMMARY ***
+Total pot 380 | Rake 0 
+Board [Qh 7h 8d Ac 4s]
+Seat 1: albervega05 (big blind) folded before Flop
+Seat 2: mabeal1 (button) showed [Qc 9c] and won (380) with a pair of Queens
+Seat 3: Leug80 (small blind) showed [8s Kh] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259592345287: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:02:42 CET [2026/02/04 15:02:42 ET]
+Table '3972084731 1' 3-max Seat #3 is the button
+Seat 1: albervega05 (1115 in chips) 
+Seat 2: mabeal1 (380 in chips) 
+Seat 3: Leug80 (5 in chips) 
+albervega05: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 5s]
+Leug80: calls 5 and is all-in
+albervega05: calls 20
+mabeal1: checks 
+*** FLOP *** [Td Ad 3s]
+albervega05: checks 
+mabeal1: checks 
+*** TURN *** [Td Ad 3s] [6h]
+albervega05: checks 
+mabeal1: checks 
+*** RIVER *** [Td Ad 3s 6h] [9s]
+albervega05: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+albervega05: shows [Ks 3h] (a pair of Threes)
+mabeal1: mucks hand 
+albervega05 collected 70 from side pot
+Leug80: shows [6s 4d] (a pair of Sixes)
+Leug80 collected 15 from main pot
+*** SUMMARY ***
+Total pot 85 Main pot 15. Side pot 70. | Rake 0 
+Board [Td Ad 3s 6h 9s]
+Seat 1: albervega05 (small blind) showed [Ks 3h] and won (70) with a pair of Threes
+Seat 2: mabeal1 (big blind) mucked [Kd 5s]
+Seat 3: Leug80 (button) showed [6s 4d] and won (15) with a pair of Sixes
+
+
+
+PokerStars Hand #259592355635: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 21:03:24 CET [2026/02/04 15:03:24 ET]
+Table '3972084731 1' 3-max Seat #1 is the button
+Seat 1: albervega05 (1145 in chips) 
+Seat 2: mabeal1 (340 in chips) 
+Seat 3: Leug80 (15 in chips) 
+mabeal1: posts small blind 20
+Leug80: posts big blind 15 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 4h]
+albervega05: folds 
+Uncalled bet (5) returned to mabeal1
+*** FLOP *** [Tc Ah Qs]
+*** TURN *** [Tc Ah Qs] [Ac]
+*** RIVER *** [Tc Ah Qs Ac] [Th]
+*** SHOW DOWN ***
+mabeal1: shows [Js 4h] (two pair, Aces and Tens)
+Leug80: shows [7s Kh] (two pair, Aces and Tens - King kicker)
+Leug80 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Board [Tc Ah Qs Ac Th]
+Seat 1: albervega05 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Js 4h] and lost with two pair, Aces and Tens
+Seat 3: Leug80 (big blind) showed [7s Kh] and won (30) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #259592362169: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 21:03:50 CET [2026/02/04 15:03:50 ET]
+Table '3972084731 1' 3-max Seat #2 is the button
+Seat 1: albervega05 (1145 in chips) 
+Seat 2: mabeal1 (325 in chips) 
+Seat 3: Leug80 (30 in chips) 
+Leug80: posts small blind 30 and is all-in
+albervega05: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 3d]
+mabeal1: folds 
+Uncalled bet (30) returned to albervega05
+*** FLOP *** [Jd 4s 2c]
+*** TURN *** [Jd 4s 2c] [Ts]
+*** RIVER *** [Jd 4s 2c Ts] [8s]
+*** SHOW DOWN ***
+Leug80: shows [Qc Kd] (high card King)
+albervega05: shows [4c 2s] (two pair, Fours and Deuces)
+albervega05 collected 60 from pot
+Leug80 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 4s 2c Ts 8s]
+Seat 1: albervega05 (big blind) showed [4c 2s] and won (60) with two pair, Fours and Deuces
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Leug80 (small blind) showed [Qc Kd] and lost with high card King
+
+
+
+PokerStars Hand #259592366893: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 21:04:08 CET [2026/02/04 15:04:08 ET]
+Table '3972084731 1' 3-max Seat #1 is the button
+Seat 1: albervega05 (1175 in chips) 
+Seat 2: mabeal1 (325 in chips) 
+albervega05: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 9h]
+albervega05: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: albervega05 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259592369262: Tournament #3972084731, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 21:04:18 CET [2026/02/04 15:04:18 ET]
+Table '3972084731 1' 3-max Seat #2 is the button
+Seat 1: albervega05 (1145 in chips) 
+Seat 2: mabeal1 (355 in chips) 
+mabeal1: posts small blind 30
+albervega05: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9h]
+mabeal1: raises 295 to 355 and is all-in
+albervega05: calls 295
+*** FLOP *** [Kc 3c Jh]
+*** TURN *** [Kc 3c Jh] [2d]
+*** RIVER *** [Kc 3c Jh 2d] [Ah]
+*** SHOW DOWN ***
+albervega05: shows [Td Ad] (a pair of Aces)
+mabeal1: shows [Tc 9h] (high card Ace)
+albervega05 collected 710 from pot
+mabeal1 finished the tournament in 2nd place
+albervega05 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Board [Kc 3c Jh 2d Ah]
+Seat 1: albervega05 (big blind) showed [Td Ad] and won (710) with a pair of Aces
+Seat 2: mabeal1 (button) (small blind) showed [Tc 9h] and lost with high card Ace
+
+
+

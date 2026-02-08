@@ -1,0 +1,68 @@
+﻿PokerStars Hand #259389846865: Tournament #3967445659, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:28:30 CET [2026/01/20 10:28:30 ET]
+Table '3967445659 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: delahouss1 (500 in chips) 
+Seat 3: jaimito-tlse (500 in chips) 
+delahouss1: posts small blind 10
+jaimito-tlse: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Tc]
+mabeal1: folds 
+delahouss1: raises 20 to 40
+jaimito-tlse: calls 20
+*** FLOP *** [8s Td 6d]
+delahouss1: checks 
+jaimito-tlse: checks 
+*** TURN *** [8s Td 6d] [2s]
+delahouss1: bets 20
+jaimito-tlse: calls 20
+*** RIVER *** [8s Td 6d 2s] [9d]
+delahouss1: bets 60
+jaimito-tlse: raises 60 to 120
+delahouss1: calls 60
+*** SHOW DOWN ***
+jaimito-tlse: shows [Kd 7s] (a straight, Six to Ten)
+delahouss1: mucks hand 
+jaimito-tlse collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [8s Td 6d 2s 9d]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: delahouss1 (small blind) mucked [As Ac]
+Seat 3: jaimito-tlse (big blind) showed [Kd 7s] and won (360) with a straight, Six to Ten
+
+
+
+PokerStars Hand #259389850297: Tournament #3967445659, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/20 16:28:51 CET [2026/01/20 10:28:51 ET]
+Table '3967445659 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: delahouss1 (320 in chips) 
+Seat 3: jaimito-tlse (680 in chips) 
+jaimito-tlse: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 8c]
+delahouss1: raises 20 to 40
+jaimito-tlse: calls 30
+mabeal1: calls 20
+*** FLOP *** [2h 3s Js]
+jaimito-tlse: bets 640 and is all-in
+mabeal1: calls 460 and is all-in
+delahouss1: folds 
+Uncalled bet (180) returned to jaimito-tlse
+*** TURN *** [2h 3s Js] [7d]
+*** RIVER *** [2h 3s Js 7d] [4h]
+*** SHOW DOWN ***
+jaimito-tlse: shows [Qd Qh] (a pair of Queens)
+mabeal1: shows [Jh 8c] (a pair of Jacks)
+jaimito-tlse collected 1040 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [2h 3s Js 7d 4h]
+Seat 1: mabeal1 (big blind) showed [Jh 8c] and lost with a pair of Jacks
+Seat 2: delahouss1 (button) folded on the Flop
+Seat 3: jaimito-tlse (small blind) showed [Qd Qh] and won (1040) with a pair of Queens
+
+
+

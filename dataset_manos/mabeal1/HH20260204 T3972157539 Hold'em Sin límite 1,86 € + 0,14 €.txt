@@ -1,0 +1,361 @@
+﻿PokerStars Hand #259595624080: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:39:52 CET [2026/02/04 18:39:52 ET]
+Table '3972157539 1' 3-max Seat #1 is the button
+Seat 1: Pablituss1 (500 in chips) 
+Seat 2: markelgaretx (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+markelgaretx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 7d]
+Pablituss1: calls 20
+markelgaretx: calls 10
+mabeal1: checks 
+*** FLOP *** [8h 8s 4d]
+markelgaretx: checks 
+mabeal1: checks 
+Pablituss1: bets 60
+markelgaretx: folds 
+mabeal1: calls 60
+*** TURN *** [8h 8s 4d] [9d]
+mabeal1: checks 
+Pablituss1: checks 
+*** RIVER *** [8h 8s 4d 9d] [2s]
+mabeal1: bets 60
+Pablituss1: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [4c 7d] (two pair, Eights and Fours)
+Pablituss1: shows [6h 4s] (two pair, Eights and Fours)
+mabeal1 collected 150 from pot
+Pablituss1 collected 150 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [8h 8s 4d 9d 2s]
+Seat 1: Pablituss1 (button) showed [6h 4s] and won (150) with two pair, Eights and Fours
+Seat 2: markelgaretx (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) showed [4c 7d] and won (150) with two pair, Eights and Fours
+
+
+
+PokerStars Hand #259595631430: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:40:27 CET [2026/02/04 18:40:27 ET]
+Table '3972157539 1' 3-max Seat #2 is the button
+Seat 1: Pablituss1 (510 in chips) 
+Seat 2: markelgaretx (480 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+mabeal1: posts small blind 10
+Pablituss1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 7c]
+markelgaretx: raises 20 to 40
+mabeal1: folds 
+Pablituss1: raises 20 to 60
+markelgaretx: calls 20
+*** FLOP *** [6h 8h 9d]
+Pablituss1: bets 20
+markelgaretx: raises 170 to 190
+Pablituss1: calls 170
+*** TURN *** [6h 8h 9d] [8c]
+Pablituss1: checks 
+markelgaretx: bets 70
+Pablituss1: calls 70
+*** RIVER *** [6h 8h 9d 8c] [6s]
+Pablituss1: checks 
+markelgaretx: bets 160 and is all-in
+Pablituss1: calls 160
+*** SHOW DOWN ***
+markelgaretx: shows [8d Qs] (a full house, Eights full of Sixes)
+Pablituss1: shows [Ah Jc] (two pair, Eights and Sixes)
+markelgaretx collected 970 from pot
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [6h 8h 9d 8c 6s]
+Seat 1: Pablituss1 (big blind) showed [Ah Jc] and lost with two pair, Eights and Sixes
+Seat 2: markelgaretx (button) showed [8d Qs] and won (970) with a full house, Eights full of Sixes
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595640277: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:41:09 CET [2026/02/04 18:41:09 ET]
+Table '3972157539 1' 3-max Seat #3 is the button
+Seat 1: Pablituss1 (30 in chips) 
+Seat 2: markelgaretx (970 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Pablituss1: posts small blind 10
+markelgaretx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9h]
+mabeal1: folds 
+Pablituss1: raises 10 to 30 and is all-in
+markelgaretx: calls 10
+*** FLOP *** [6d 8d 2d]
+*** TURN *** [6d 8d 2d] [Qs]
+*** RIVER *** [6d 8d 2d Qs] [2h]
+*** SHOW DOWN ***
+Pablituss1: shows [3d Jc] (a pair of Deuces)
+markelgaretx: shows [Js 2s] (three of a kind, Deuces)
+markelgaretx collected 60 from pot
+Pablituss1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6d 8d 2d Qs 2h]
+Seat 1: Pablituss1 (small blind) showed [3d Jc] and lost with a pair of Deuces
+Seat 2: markelgaretx (big blind) showed [Js 2s] and won (60) with three of a kind, Deuces
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259595644563: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:41:29 CET [2026/02/04 18:41:29 ET]
+Table '3972157539 1' 3-max Seat #2 is the button
+Seat 2: markelgaretx (1000 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+markelgaretx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8h]
+markelgaretx: calls 10
+mabeal1: checks 
+*** FLOP *** [2d Js 6c]
+mabeal1: checks 
+markelgaretx: checks 
+*** TURN *** [2d Js 6c] [Ac]
+mabeal1: bets 30
+markelgaretx: calls 30
+*** RIVER *** [2d Js 6c Ac] [2h]
+mabeal1: bets 75
+markelgaretx: calls 75
+*** SHOW DOWN ***
+mabeal1: shows [Ks 8h] (a pair of Deuces)
+markelgaretx: shows [6s 4d] (two pair, Sixes and Deuces)
+markelgaretx collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [2d Js 6c Ac 2h]
+Seat 2: markelgaretx (button) (small blind) showed [6s 4d] and won (250) with two pair, Sixes and Deuces
+Seat 3: mabeal1 (big blind) showed [Ks 8h] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259595648545: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:41:48 CET [2026/02/04 18:41:48 ET]
+Table '3972157539 1' 3-max Seat #3 is the button
+Seat 2: markelgaretx (1125 in chips) 
+Seat 3: mabeal1 (375 in chips) 
+mabeal1: posts small blind 10
+markelgaretx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 7c]
+mabeal1: calls 10
+markelgaretx: checks 
+*** FLOP *** [6s Th 4c]
+markelgaretx: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to markelgaretx
+markelgaretx collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6s Th 4c]
+Seat 2: markelgaretx (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259595650806: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:41:58 CET [2026/02/04 18:41:58 ET]
+Table '3972157539 1' 3-max Seat #2 is the button
+Seat 2: markelgaretx (1145 in chips) 
+Seat 3: mabeal1 (355 in chips) 
+markelgaretx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 6d]
+markelgaretx: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: markelgaretx (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259595651679: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:42:02 CET [2026/02/04 18:42:02 ET]
+Table '3972157539 1' 3-max Seat #3 is the button
+Seat 2: markelgaretx (1135 in chips) 
+Seat 3: mabeal1 (365 in chips) 
+mabeal1: posts small blind 10
+markelgaretx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 7s]
+mabeal1: calls 10
+markelgaretx: checks 
+*** FLOP *** [Ks 8h 2h]
+markelgaretx: checks 
+mabeal1: checks 
+*** TURN *** [Ks 8h 2h] [4s]
+markelgaretx: checks 
+mabeal1: checks 
+*** RIVER *** [Ks 8h 2h 4s] [7c]
+markelgaretx: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+markelgaretx: shows [Ts 2d] (a pair of Deuces)
+mabeal1: shows [9c 7s] (a pair of Sevens)
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ks 8h 2h 4s 7c]
+Seat 2: markelgaretx (big blind) showed [Ts 2d] and lost with a pair of Deuces
+Seat 3: mabeal1 (button) (small blind) showed [9c 7s] and won (40) with a pair of Sevens
+
+
+
+PokerStars Hand #259595658085: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:42:33 CET [2026/02/04 18:42:33 ET]
+Table '3972157539 1' 3-max Seat #2 is the button
+Seat 2: markelgaretx (1115 in chips) 
+Seat 3: mabeal1 (385 in chips) 
+markelgaretx: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 7d]
+markelgaretx: calls 10
+mabeal1: checks 
+*** FLOP *** [Th Ks 8s]
+mabeal1: checks 
+markelgaretx: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to markelgaretx
+markelgaretx collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Th Ks 8s]
+Seat 2: markelgaretx (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259595660742: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 0:42:46 CET [2026/02/04 18:42:46 ET]
+Table '3972157539 1' 3-max Seat #3 is the button
+Seat 2: markelgaretx (1135 in chips) 
+Seat 3: mabeal1 (365 in chips) 
+mabeal1: posts small blind 10
+markelgaretx: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Kh]
+mabeal1: raises 20 to 40
+markelgaretx: calls 20
+*** FLOP *** [8s 4h 6s]
+markelgaretx: checks 
+mabeal1: checks 
+*** TURN *** [8s 4h 6s] [Tc]
+markelgaretx: checks 
+mabeal1: checks 
+*** RIVER *** [8s 4h 6s Tc] [8d]
+markelgaretx: checks 
+mabeal1: bets 40
+markelgaretx: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s 4h 6s Tc 8d]
+Seat 2: markelgaretx (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259595664969: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:43:06 CET [2026/02/04 18:43:06 ET]
+Table '3972157539 1' 3-max Seat #2 is the button
+Seat 2: markelgaretx (1095 in chips) 
+Seat 3: mabeal1 (405 in chips) 
+markelgaretx: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 5d]
+markelgaretx: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [2h Ks 4s]
+mabeal1: checks 
+markelgaretx: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to markelgaretx
+markelgaretx collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h Ks 4s]
+Seat 2: markelgaretx (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259595670037: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:43:30 CET [2026/02/04 18:43:30 ET]
+Table '3972157539 1' 3-max Seat #3 is the button
+Seat 2: markelgaretx (1155 in chips) 
+Seat 3: mabeal1 (345 in chips) 
+mabeal1: posts small blind 15
+markelgaretx: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Qs]
+mabeal1: calls 15
+markelgaretx: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to markelgaretx
+markelgaretx collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: markelgaretx (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259595671667: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:43:38 CET [2026/02/04 18:43:38 ET]
+Table '3972157539 1' 3-max Seat #2 is the button
+Seat 2: markelgaretx (1185 in chips) 
+Seat 3: mabeal1 (315 in chips) 
+markelgaretx: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 7c]
+markelgaretx: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Kc Qs Kh]
+mabeal1: checks 
+markelgaretx: bets 1125 and is all-in
+mabeal1: folds 
+Uncalled bet (1125) returned to markelgaretx
+markelgaretx collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Kc Qs Kh]
+Seat 2: markelgaretx (button) (small blind) collected (120)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259595673918: Tournament #3972157539, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 0:43:48 CET [2026/02/04 18:43:48 ET]
+Table '3972157539 1' 3-max Seat #3 is the button
+Seat 2: markelgaretx (1245 in chips) 
+Seat 3: mabeal1 (255 in chips) 
+mabeal1: posts small blind 15
+markelgaretx: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qc]
+mabeal1: calls 15
+markelgaretx: raises 30 to 60
+mabeal1: raises 195 to 255 and is all-in
+markelgaretx: calls 195
+*** FLOP *** [Ad 5h 7d]
+*** TURN *** [Ad 5h 7d] [4s]
+*** RIVER *** [Ad 5h 7d 4s] [2s]
+*** SHOW DOWN ***
+markelgaretx: shows [5s As] (two pair, Aces and Fives)
+mabeal1: shows [6d Qc] (high card Ace)
+markelgaretx collected 510 from pot
+mabeal1 finished the tournament in 2nd place
+markelgaretx wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Ad 5h 7d 4s 2s]
+Seat 2: markelgaretx (big blind) showed [5s As] and won (510) with two pair, Aces and Fives
+Seat 3: mabeal1 (button) (small blind) showed [6d Qc] and lost with high card Ace
+
+
+

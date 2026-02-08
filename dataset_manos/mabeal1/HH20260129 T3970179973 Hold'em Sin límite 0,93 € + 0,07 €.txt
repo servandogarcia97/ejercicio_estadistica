@@ -1,0 +1,180 @@
+﻿PokerStars Hand #259508361441: Tournament #3970179973, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:40:01 CET [2026/01/29 9:40:01 ET]
+Table '3970179973 1' 3-max Seat #1 is the button
+Seat 1: jafc_1008 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: VilniausBaronas (500 in chips) 
+mabeal1: posts small blind 10
+VilniausBaronas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 6h]
+jafc_1008: calls 20
+mabeal1: calls 10
+VilniausBaronas: checks 
+*** FLOP *** [5c 5h 9h]
+mabeal1: checks 
+VilniausBaronas: checks 
+jafc_1008: checks 
+*** TURN *** [5c 5h 9h] [6c]
+mabeal1: checks 
+VilniausBaronas: checks 
+jafc_1008: checks 
+*** RIVER *** [5c 5h 9h 6c] [6s]
+mabeal1: bets 60
+VilniausBaronas: folds 
+jafc_1008: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [Jh 6h] (a full house, Sixes full of Fives)
+jafc_1008: mucks hand 
+mabeal1 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5c 5h 9h 6c 6s]
+Seat 1: jafc_1008 (button) mucked [Ah 7c]
+Seat 2: mabeal1 (small blind) showed [Jh 6h] and won (180) with a full house, Sixes full of Fives
+Seat 3: VilniausBaronas (big blind) folded on the River
+
+
+
+PokerStars Hand #259508369547: Tournament #3970179973, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:40:55 CET [2026/01/29 9:40:55 ET]
+Table '3970179973 1' 3-max Seat #2 is the button
+Seat 1: jafc_1008 (420 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: VilniausBaronas (480 in chips) 
+VilniausBaronas: posts small blind 10
+jafc_1008: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Kh]
+mabeal1: raises 20 to 40
+VilniausBaronas: folds 
+jafc_1008: raises 20 to 60
+mabeal1: calls 20
+*** FLOP *** [2s 3h Kd]
+jafc_1008: bets 40
+mabeal1: calls 40
+*** TURN *** [2s 3h Kd] [6s]
+jafc_1008: bets 190
+mabeal1: calls 190
+*** RIVER *** [2s 3h Kd 6s] [8d]
+jafc_1008: bets 130 and is all-in
+mabeal1: calls 130
+*** SHOW DOWN ***
+jafc_1008: shows [Ac Ad] (a pair of Aces)
+mabeal1: shows [4h Kh] (a pair of Kings)
+jafc_1008 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [2s 3h Kd 6s 8d]
+Seat 1: jafc_1008 (big blind) showed [Ac Ad] and won (850) with a pair of Aces
+Seat 2: mabeal1 (button) showed [4h Kh] and lost with a pair of Kings
+Seat 3: VilniausBaronas (small blind) folded before Flop
+
+
+
+PokerStars Hand #259508375228: Tournament #3970179973, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:41:33 CET [2026/01/29 9:41:33 ET]
+Table '3970179973 1' 3-max Seat #3 is the button
+Seat 1: jafc_1008 (850 in chips) 
+Seat 2: mabeal1 (180 in chips) 
+Seat 3: VilniausBaronas (470 in chips) 
+jafc_1008: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 7s]
+VilniausBaronas: folds 
+jafc_1008: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: jafc_1008 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: VilniausBaronas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259508378895: Tournament #3970179973, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:41:57 CET [2026/01/29 9:41:57 ET]
+Table '3970179973 1' 3-max Seat #1 is the button
+Seat 1: jafc_1008 (840 in chips) 
+Seat 2: mabeal1 (190 in chips) 
+Seat 3: VilniausBaronas (470 in chips) 
+mabeal1: posts small blind 10
+VilniausBaronas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 7h]
+jafc_1008: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to VilniausBaronas
+VilniausBaronas collected 20 from pot
+VilniausBaronas: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: jafc_1008 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: VilniausBaronas (big blind) collected (20)
+
+
+
+PokerStars Hand #259508379953: Tournament #3970179973, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:42:04 CET [2026/01/29 9:42:04 ET]
+Table '3970179973 1' 3-max Seat #2 is the button
+Seat 1: jafc_1008 (840 in chips) 
+Seat 2: mabeal1 (180 in chips) 
+Seat 3: VilniausBaronas (480 in chips) 
+VilniausBaronas: posts small blind 10
+jafc_1008: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 2c]
+mabeal1: folds 
+VilniausBaronas: calls 10
+jafc_1008: checks 
+*** FLOP *** [2d Td 8d]
+VilniausBaronas: bets 20
+jafc_1008: calls 20
+*** TURN *** [2d Td 8d] [Ah]
+VilniausBaronas: checks 
+jafc_1008: checks 
+*** RIVER *** [2d Td 8d Ah] [6d]
+VilniausBaronas: checks 
+jafc_1008: checks 
+*** SHOW DOWN ***
+VilniausBaronas: shows [Qh 8s] (a pair of Eights)
+jafc_1008: shows [Ts 7c] (a pair of Tens)
+jafc_1008 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2d Td 8d Ah 6d]
+Seat 1: jafc_1008 (big blind) showed [Ts 7c] and won (80) with a pair of Tens
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: VilniausBaronas (small blind) showed [Qh 8s] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259508384064: Tournament #3970179973, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:42:31 CET [2026/01/29 9:42:31 ET]
+Table '3970179973 1' 3-max Seat #3 is the button
+Seat 1: jafc_1008 (880 in chips) 
+Seat 2: mabeal1 (180 in chips) 
+Seat 3: VilniausBaronas (440 in chips) 
+jafc_1008: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 7d]
+VilniausBaronas: folds 
+jafc_1008: raises 20 to 40
+mabeal1: raises 140 to 180 and is all-in
+jafc_1008: calls 140
+*** FLOP *** [2s 4s 9d]
+*** TURN *** [2s 4s 9d] [Jh]
+*** RIVER *** [2s 4s 9d Jh] [2h]
+*** SHOW DOWN ***
+jafc_1008: shows [Qc 7c] (a pair of Deuces)
+mabeal1: shows [Td 7d] (a pair of Deuces - lower kicker)
+jafc_1008 collected 360 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [2s 4s 9d Jh 2h]
+Seat 1: jafc_1008 (small blind) showed [Qc 7c] and won (360) with a pair of Deuces
+Seat 2: mabeal1 (big blind) showed [Td 7d] and lost with a pair of Deuces
+Seat 3: VilniausBaronas (button) folded before Flop (didn't bet)
+
+
+

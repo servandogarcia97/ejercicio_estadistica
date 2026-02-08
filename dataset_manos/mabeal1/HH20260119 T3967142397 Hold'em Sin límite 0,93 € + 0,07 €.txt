@@ -1,0 +1,193 @@
+﻿PokerStars Hand #259377221883: Tournament #3967142397, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:53:58 CET [2026/01/19 10:53:58 ET]
+Table '3967142397 1' 3-max Seat #1 is the button
+Seat 1: mgasso07 (500 in chips) 
+Seat 2: josetemllc (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+josetemllc: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 5s]
+mgasso07: raises 20 to 40
+josetemllc: raises 460 to 500 and is all-in
+mabeal1: folds 
+mgasso07: calls 460 and is all-in
+*** FLOP *** [Td Ts 7h]
+*** TURN *** [Td Ts 7h] [Qs]
+*** RIVER *** [Td Ts 7h Qs] [5h]
+*** SHOW DOWN ***
+josetemllc: shows [Jc As] (a pair of Tens)
+mgasso07: shows [Kh 9h] (a pair of Tens - lower kicker)
+josetemllc collected 1020 from pot
+mgasso07 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Td Ts 7h Qs 5h]
+Seat 1: mgasso07 (button) showed [Kh 9h] and lost with a pair of Tens
+Seat 2: josetemllc (small blind) showed [Jc As] and won (1020) with a pair of Tens
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259377225161: Tournament #3967142397, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:54:17 CET [2026/01/19 10:54:17 ET]
+Table '3967142397 1' 3-max Seat #3 is the button
+Seat 2: josetemllc (1020 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+josetemllc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Jd]
+mabeal1: raises 20 to 40
+josetemllc: calls 20
+*** FLOP *** [Ks 5d Ah]
+josetemllc: checks 
+mabeal1: bets 40
+josetemllc: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ks 5d Ah]
+Seat 2: josetemllc (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259377229129: Tournament #3967142397, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:54:41 CET [2026/01/19 10:54:41 ET]
+Table '3967142397 1' 3-max Seat #2 is the button
+Seat 2: josetemllc (980 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+josetemllc: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 2s]
+josetemllc: calls 10
+mabeal1: checks 
+*** FLOP *** [8d 2d 2c]
+mabeal1: checks 
+josetemllc: checks 
+*** TURN *** [8d 2d 2c] [6c]
+mabeal1: checks 
+josetemllc: checks 
+*** RIVER *** [8d 2d 2c 6c] [4s]
+mabeal1: bets 20
+josetemllc: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8d 2d 2c 6c 4s]
+Seat 2: josetemllc (button) (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259377232178: Tournament #3967142397, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:54:58 CET [2026/01/19 10:54:58 ET]
+Table '3967142397 1' 3-max Seat #3 is the button
+Seat 2: josetemllc (960 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+mabeal1: posts small blind 10
+josetemllc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3c]
+mabeal1: calls 10
+josetemllc: checks 
+*** FLOP *** [4s 8s Jd]
+josetemllc: checks 
+mabeal1: bets 20
+josetemllc: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4s 8s Jd]
+Seat 2: josetemllc (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259377234131: Tournament #3967142397, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:55:10 CET [2026/01/19 10:55:10 ET]
+Table '3967142397 1' 3-max Seat #2 is the button
+Seat 2: josetemllc (940 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+josetemllc: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ts]
+josetemllc: calls 10
+mabeal1: checks 
+*** FLOP *** [5s 9h Jh]
+mabeal1: checks 
+josetemllc: checks 
+*** TURN *** [5s 9h Jh] [Qs]
+mabeal1: bets 20
+josetemllc: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5s 9h Jh Qs]
+Seat 2: josetemllc (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259377236953: Tournament #3967142397, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:55:30 CET [2026/01/19 10:55:30 ET]
+Table '3967142397 1' 3-max Seat #3 is the button
+Seat 2: josetemllc (920 in chips) 
+Seat 3: mabeal1 (580 in chips) 
+mabeal1: posts small blind 10
+josetemllc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 5c]
+mabeal1: calls 10
+josetemllc: checks 
+*** FLOP *** [3c 5s Qc]
+josetemllc: checks 
+mabeal1: checks 
+*** TURN *** [3c 5s Qc] [Jd]
+josetemllc: checks 
+mabeal1: bets 20
+josetemllc: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c 5s Qc Jd]
+Seat 2: josetemllc (big blind) folded on the Turn
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259377239854: Tournament #3967142397, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 16:55:52 CET [2026/01/19 10:55:52 ET]
+Table '3967142397 1' 3-max Seat #2 is the button
+Seat 2: josetemllc (900 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+josetemllc: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Jd]
+josetemllc: calls 10
+mabeal1: raises 580 to 600 and is all-in
+josetemllc: calls 580
+*** FLOP *** [6d Tc 3h]
+*** TURN *** [6d Tc 3h] [8h]
+*** RIVER *** [6d Tc 3h 8h] [5d]
+*** SHOW DOWN ***
+mabeal1: shows [Ac Jd] (high card Ace)
+josetemllc: shows [4d 4c] (a pair of Fours)
+josetemllc collected 1200 from pot
+mabeal1 finished the tournament in 2nd place
+josetemllc wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [6d Tc 3h 8h 5d]
+Seat 2: josetemllc (button) (small blind) showed [4d 4c] and won (1200) with a pair of Fours
+Seat 3: mabeal1 (big blind) showed [Ac Jd] and lost with high card Ace
+
+
+

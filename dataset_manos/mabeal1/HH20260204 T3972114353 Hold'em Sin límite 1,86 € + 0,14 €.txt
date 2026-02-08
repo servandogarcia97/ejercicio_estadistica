@@ -1,0 +1,569 @@
+﻿PokerStars Hand #259593688615: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:27:50 CET [2026/02/04 16:27:50 ET]
+Table '3972114353 1' 3-max Seat #1 is the button
+Seat 1: supecas (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Pirex222 (500 in chips) 
+mabeal1: posts small blind 10
+Pirex222: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9s]
+supecas: folds 
+mabeal1: raises 30 to 50
+Pirex222: calls 30
+*** FLOP *** [Ad 2h 4s]
+mabeal1: bets 40
+Pirex222: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ad 2h 4s]
+Seat 1: supecas (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (100)
+Seat 3: Pirex222 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259593692387: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:28:04 CET [2026/02/04 16:28:04 ET]
+Table '3972114353 1' 3-max Seat #2 is the button
+Seat 1: supecas (500 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: Pirex222 (450 in chips) 
+Pirex222: posts small blind 10
+supecas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Js]
+mabeal1: raises 20 to 40
+Pirex222: folds 
+supecas: calls 20
+*** FLOP *** [5d Kh 8d]
+supecas: checks 
+mabeal1: checks 
+*** TURN *** [5d Kh 8d] [Qs]
+supecas: checks 
+mabeal1: checks 
+*** RIVER *** [5d Kh 8d Qs] [Ad]
+supecas: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+supecas: shows [6s 5h] (a pair of Fives)
+mabeal1: shows [Jc Js] (a pair of Jacks)
+mabeal1 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5d Kh 8d Qs Ad]
+Seat 1: supecas (big blind) showed [6s 5h] and lost with a pair of Fives
+Seat 2: mabeal1 (button) showed [Jc Js] and won (90) with a pair of Jacks
+Seat 3: Pirex222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259593698791: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:28:26 CET [2026/02/04 16:28:26 ET]
+Table '3972114353 1' 3-max Seat #3 is the button
+Seat 1: supecas (460 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: Pirex222 (440 in chips) 
+supecas: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 5d]
+Pirex222: folds 
+supecas: calls 10
+mabeal1: checks 
+*** FLOP *** [Ac 2h 8c]
+supecas: checks 
+mabeal1: bets 20
+supecas: raises 20 to 40
+mabeal1: calls 20
+*** TURN *** [Ac 2h 8c] [4d]
+supecas: bets 60
+mabeal1: calls 60
+*** RIVER *** [Ac 2h 8c 4d] [Ad]
+supecas: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+supecas: shows [6h Tc] (a pair of Aces)
+mabeal1: shows [8d 5d] (two pair, Aces and Eights)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ac 2h 8c 4d Ad]
+Seat 1: supecas (small blind) showed [6h Tc] and lost with a pair of Aces
+Seat 2: mabeal1 (big blind) showed [8d 5d] and won (240) with two pair, Aces and Eights
+Seat 3: Pirex222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259593707128: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:28:57 CET [2026/02/04 16:28:57 ET]
+Table '3972114353 1' 3-max Seat #1 is the button
+Seat 1: supecas (340 in chips) 
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: Pirex222 (440 in chips) 
+mabeal1: posts small blind 10
+Pirex222: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ks]
+supecas: folds 
+mabeal1: raises 30 to 50
+Pirex222: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: supecas (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: Pirex222 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259593711034: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:29:11 CET [2026/02/04 16:29:11 ET]
+Table '3972114353 1' 3-max Seat #2 is the button
+Seat 1: supecas (340 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: Pirex222 (420 in chips) 
+Pirex222: posts small blind 10
+supecas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2d]
+mabeal1: folds 
+Pirex222: calls 10
+supecas: checks 
+*** FLOP *** [5s Kc 8h]
+Pirex222: bets 80
+supecas: calls 80
+*** TURN *** [5s Kc 8h] [7d]
+Pirex222: bets 80
+supecas: folds 
+Uncalled bet (80) returned to Pirex222
+Pirex222 collected 200 from pot
+Pirex222: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5s Kc 8h 7d]
+Seat 1: supecas (big blind) folded on the Turn
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Pirex222 (small blind) collected (200)
+
+
+
+PokerStars Hand #259593722178: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:29:52 CET [2026/02/04 16:29:52 ET]
+Table '3972114353 1' 3-max Seat #3 is the button
+Seat 1: supecas (240 in chips) 
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: Pirex222 (520 in chips) 
+supecas: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3h]
+Pirex222: calls 20
+supecas: calls 10
+mabeal1: checks 
+*** FLOP *** [Kh 9c Ac]
+supecas: checks 
+mabeal1: checks 
+Pirex222: bets 40
+supecas: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to Pirex222
+Pirex222 collected 60 from pot
+Pirex222: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Kh 9c Ac]
+Seat 1: supecas (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: Pirex222 (button) collected (60)
+
+
+
+PokerStars Hand #259593727930: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 22:30:13 CET [2026/02/04 16:30:13 ET]
+Table '3972114353 1' 3-max Seat #1 is the button
+Seat 1: supecas (220 in chips) 
+Seat 2: mabeal1 (720 in chips) 
+Seat 3: Pirex222 (560 in chips) 
+mabeal1: posts small blind 10
+Pirex222: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Td]
+supecas: folds 
+mabeal1: raises 30 to 50
+Pirex222: calls 30
+*** FLOP *** [4s 9h Jc]
+mabeal1: checks 
+Pirex222: bets 100
+mabeal1: calls 100
+*** TURN *** [4s 9h Jc] [3s]
+mabeal1: checks 
+Pirex222: checks 
+*** RIVER *** [4s 9h Jc 3s] [5h]
+mabeal1: bets 225
+Pirex222: folds 
+Uncalled bet (225) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [4s 9h Jc 3s 5h]
+Seat 1: supecas (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (300)
+Seat 3: Pirex222 (big blind) folded on the River
+
+
+
+PokerStars Hand #259593739587: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 22:30:55 CET [2026/02/04 16:30:55 ET]
+Table '3972114353 1' 3-max Seat #2 is the button
+Seat 1: supecas (220 in chips) 
+Seat 2: mabeal1 (870 in chips) 
+Seat 3: Pirex222 (410 in chips) 
+Pirex222: posts small blind 15
+supecas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 2c]
+mabeal1: folds 
+Pirex222: calls 15
+supecas: checks 
+*** FLOP *** [Js 3d Jc]
+Pirex222: checks 
+supecas: checks 
+*** TURN *** [Js 3d Jc] [9s]
+Pirex222: bets 90
+supecas: folds 
+Uncalled bet (90) returned to Pirex222
+Pirex222 collected 60 from pot
+Pirex222: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js 3d Jc 9s]
+Seat 1: supecas (big blind) folded on the Turn
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Pirex222 (small blind) collected (60)
+
+
+
+PokerStars Hand #259593746201: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 22:31:20 CET [2026/02/04 16:31:20 ET]
+Table '3972114353 1' 3-max Seat #3 is the button
+Seat 1: supecas (190 in chips) 
+Seat 2: mabeal1 (870 in chips) 
+Seat 3: Pirex222 (440 in chips) 
+supecas: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 5h]
+Pirex222: folds 
+supecas: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: supecas (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: Pirex222 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259593749173: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 22:31:30 CET [2026/02/04 16:31:30 ET]
+Table '3972114353 1' 3-max Seat #1 is the button
+Seat 1: supecas (175 in chips) 
+Seat 2: mabeal1 (885 in chips) 
+Seat 3: Pirex222 (440 in chips) 
+mabeal1: posts small blind 15
+Pirex222: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 5c]
+supecas: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Pirex222
+Pirex222 collected 30 from pot
+Pirex222: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: supecas (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Pirex222 (big blind) collected (30)
+
+
+
+PokerStars Hand #259593751252: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 22:31:38 CET [2026/02/04 16:31:38 ET]
+Table '3972114353 1' 3-max Seat #2 is the button
+Seat 1: supecas (175 in chips) 
+Seat 2: mabeal1 (870 in chips) 
+Seat 3: Pirex222 (455 in chips) 
+Pirex222: posts small blind 15
+supecas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 9c]
+mabeal1: raises 30 to 60
+Pirex222: folds 
+supecas: calls 30
+*** FLOP *** [5s 8h Tc]
+supecas: checks 
+mabeal1: bets 30
+supecas: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 135 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [5s 8h Tc]
+Seat 1: supecas (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (135)
+Seat 3: Pirex222 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259593758101: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 22:32:03 CET [2026/02/04 16:32:03 ET]
+Table '3972114353 1' 3-max Seat #3 is the button
+Seat 1: supecas (115 in chips) 
+Seat 2: mabeal1 (945 in chips) 
+Seat 3: Pirex222 (440 in chips) 
+supecas: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Th]
+Pirex222: calls 30
+supecas: calls 15
+mabeal1: checks 
+*** FLOP *** [5d Ks Ac]
+supecas: bets 85 and is all-in
+mabeal1: folds 
+Pirex222: calls 85
+*** TURN *** [5d Ks Ac] [8d]
+*** RIVER *** [5d Ks Ac 8d] [Jd]
+*** SHOW DOWN ***
+supecas: shows [6h As] (a pair of Aces)
+Pirex222: shows [Kd Qc] (a pair of Kings)
+supecas collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [5d Ks Ac 8d Jd]
+Seat 1: supecas (small blind) showed [6h As] and won (260) with a pair of Aces
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: Pirex222 (button) showed [Kd Qc] and lost with a pair of Kings
+
+
+
+PokerStars Hand #259593764375: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 22:32:25 CET [2026/02/04 16:32:25 ET]
+Table '3972114353 1' 3-max Seat #1 is the button
+Seat 1: supecas (260 in chips) 
+Seat 2: mabeal1 (915 in chips) 
+Seat 3: Pirex222 (325 in chips) 
+mabeal1: posts small blind 15
+Pirex222: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 9d]
+supecas: calls 30
+mabeal1: calls 15
+Pirex222: checks 
+*** FLOP *** [8d 8c 7d]
+mabeal1: checks 
+Pirex222: checks 
+supecas: bets 30
+mabeal1: calls 30
+Pirex222: folds 
+*** TURN *** [8d 8c 7d] [2c]
+mabeal1: checks 
+supecas: checks 
+*** RIVER *** [8d 8c 7d 2c] [4h]
+mabeal1: bets 60
+supecas: calls 60
+*** SHOW DOWN ***
+mabeal1: shows [Js 9d] (a pair of Eights)
+supecas: shows [Qh Ac] (a pair of Eights - Ace kicker)
+supecas collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [8d 8c 7d 2c 4h]
+Seat 1: supecas (button) showed [Qh Ac] and won (270) with a pair of Eights
+Seat 2: mabeal1 (small blind) showed [Js 9d] and lost with a pair of Eights
+Seat 3: Pirex222 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259593774883: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 22:33:04 CET [2026/02/04 16:33:04 ET]
+Table '3972114353 1' 3-max Seat #2 is the button
+Seat 1: supecas (410 in chips) 
+Seat 2: mabeal1 (795 in chips) 
+Seat 3: Pirex222 (295 in chips) 
+Pirex222: posts small blind 15
+supecas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Jd]
+mabeal1: folds 
+Pirex222: raises 30 to 60
+supecas: calls 30
+*** FLOP *** [Ad 7s 9h]
+Pirex222: checks 
+supecas: bets 350 and is all-in
+Pirex222: calls 235 and is all-in
+Uncalled bet (115) returned to supecas
+*** TURN *** [Ad 7s 9h] [9c]
+*** RIVER *** [Ad 7s 9h 9c] [2s]
+*** SHOW DOWN ***
+Pirex222: shows [Kh Kd] (two pair, Kings and Nines)
+supecas: shows [Ah 5d] (two pair, Aces and Nines)
+supecas collected 590 from pot
+Pirex222 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [Ad 7s 9h 9c 2s]
+Seat 1: supecas (big blind) showed [Ah 5d] and won (590) with two pair, Aces and Nines
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Pirex222 (small blind) showed [Kh Kd] and lost with two pair, Kings and Nines
+
+
+
+PokerStars Hand #259593783212: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 22:33:34 CET [2026/02/04 16:33:34 ET]
+Table '3972114353 1' 3-max Seat #1 is the button
+Seat 1: supecas (705 in chips) 
+Seat 2: mabeal1 (795 in chips) 
+supecas: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 4h]
+supecas: calls 15
+mabeal1: checks 
+*** FLOP *** [9d 7s 5h]
+mabeal1: checks 
+supecas: bets 60
+mabeal1: calls 60
+*** TURN *** [9d 7s 5h] [Tc]
+mabeal1: checks 
+supecas: bets 60
+mabeal1: calls 60
+*** RIVER *** [9d 7s 5h Tc] [8d]
+mabeal1: checks 
+supecas: bets 90
+mabeal1: calls 90
+*** SHOW DOWN ***
+supecas: shows [Jd 9s] (a straight, Seven to Jack)
+mabeal1: mucks hand 
+supecas collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9d 7s 5h Tc 8d]
+Seat 1: supecas (button) (small blind) showed [Jd 9s] and won (480) with a straight, Seven to Jack
+Seat 2: mabeal1 (big blind) mucked [9h 4h]
+
+
+
+PokerStars Hand #259593791838: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 22:34:05 CET [2026/02/04 16:34:05 ET]
+Table '3972114353 1' 3-max Seat #2 is the button
+Seat 1: supecas (945 in chips) 
+Seat 2: mabeal1 (555 in chips) 
+mabeal1: posts small blind 20
+supecas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ah]
+mabeal1: raises 515 to 555 and is all-in
+supecas: folds 
+Uncalled bet (515) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: supecas (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259593793870: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 22:34:13 CET [2026/02/04 16:34:13 ET]
+Table '3972114353 1' 3-max Seat #1 is the button
+Seat 1: supecas (905 in chips) 
+Seat 2: mabeal1 (595 in chips) 
+supecas: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Qc]
+supecas: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: supecas (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259593795402: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 22:34:18 CET [2026/02/04 16:34:18 ET]
+Table '3972114353 1' 3-max Seat #2 is the button
+Seat 1: supecas (885 in chips) 
+Seat 2: mabeal1 (615 in chips) 
+mabeal1: posts small blind 20
+supecas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 5s]
+mabeal1: folds 
+Uncalled bet (20) returned to supecas
+supecas collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: supecas (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259593796731: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 22:34:23 CET [2026/02/04 16:34:23 ET]
+Table '3972114353 1' 3-max Seat #1 is the button
+Seat 1: supecas (905 in chips) 
+Seat 2: mabeal1 (595 in chips) 
+supecas: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Kd]
+supecas: calls 20
+mabeal1: checks 
+*** FLOP *** [Qh 6c 9d]
+mabeal1: checks 
+supecas: checks 
+*** TURN *** [Qh 6c 9d] [8h]
+mabeal1: checks 
+supecas: checks 
+*** RIVER *** [Qh 6c 9d 8h] [7h]
+mabeal1: bets 80
+supecas: raises 240 to 320
+mabeal1: folds 
+Uncalled bet (240) returned to supecas
+supecas collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Qh 6c 9d 8h 7h]
+Seat 1: supecas (button) (small blind) collected (240)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259593803727: Tournament #3972114353, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 22:34:49 CET [2026/02/04 16:34:49 ET]
+Table '3972114353 1' 3-max Seat #2 is the button
+Seat 1: supecas (1025 in chips) 
+Seat 2: mabeal1 (475 in chips) 
+mabeal1: posts small blind 20
+supecas: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ks]
+mabeal1: raises 40 to 80
+supecas: raises 120 to 200
+mabeal1: calls 120
+*** FLOP *** [Ts Qc As]
+supecas: bets 825 and is all-in
+mabeal1: calls 275 and is all-in
+Uncalled bet (550) returned to supecas
+*** TURN *** [Ts Qc As] [4c]
+*** RIVER *** [Ts Qc As 4c] [Ah]
+*** SHOW DOWN ***
+supecas: shows [7c 7d] (two pair, Aces and Sevens)
+mabeal1: shows [8s Ks] (a pair of Aces)
+supecas collected 950 from pot
+mabeal1 finished the tournament in 2nd place
+supecas wins the tournament and receives €8.00 - congratulations!
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [Ts Qc As 4c Ah]
+Seat 1: supecas (big blind) showed [7c 7d] and won (950) with two pair, Aces and Sevens
+Seat 2: mabeal1 (button) (small blind) showed [8s Ks] and lost with a pair of Aces
+
+
+

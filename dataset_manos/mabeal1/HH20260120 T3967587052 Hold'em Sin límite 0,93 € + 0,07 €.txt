@@ -1,0 +1,648 @@
+﻿PokerStars Hand #259396490301: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 0:10:32 CET [2026/01/20 18:10:32 ET]
+Table '3967587052 1' 3-max Seat #1 is the button
+Seat 1: astray84 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Ñak967 (500 in chips) 
+mabeal1: posts small blind 10
+Ñak967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Js]
+astray84 has timed out
+astray84: folds 
+astray84 is sitting out
+astray84 has returned
+mabeal1: raises 20 to 40
+Ñak967: calls 20
+*** FLOP *** [Ac 2c 6s]
+mabeal1: bets 30
+Ñak967: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 2c 6s]
+Seat 1: astray84 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (80)
+Seat 3: Ñak967 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259396498391: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 0:11:08 CET [2026/01/20 18:11:08 ET]
+Table '3967587052 1' 3-max Seat #2 is the button
+Seat 1: astray84 (500 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Ñak967 (460 in chips) 
+Ñak967: posts small blind 10
+astray84: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9c]
+mabeal1: folds 
+Ñak967: folds 
+Uncalled bet (10) returned to astray84
+astray84 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: astray84 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Ñak967 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259396500478: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 0:11:17 CET [2026/01/20 18:11:17 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 1: astray84 (510 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Ñak967 (450 in chips) 
+astray84: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2s]
+Ñak967: calls 20
+astray84: calls 10
+mabeal1: checks 
+*** FLOP *** [5s 4d 4c]
+astray84: checks 
+mabeal1: checks 
+Ñak967: checks 
+*** TURN *** [5s 4d 4c] [4s]
+astray84 has timed out
+astray84: checks 
+mabeal1: checks 
+Ñak967: checks 
+*** RIVER *** [5s 4d 4c 4s] [8s]
+astray84: checks 
+mabeal1: checks 
+Ñak967: checks 
+*** SHOW DOWN ***
+astray84: shows [Tc Qs] (three of a kind, Fours)
+mabeal1: mucks hand 
+Ñak967: shows [9s Kd] (three of a kind, Fours - King kicker)
+Ñak967 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5s 4d 4c 4s 8s]
+Seat 1: astray84 (small blind) showed [Tc Qs] and lost with three of a kind, Fours
+Seat 2: mabeal1 (big blind) mucked [9c 2s]
+Seat 3: Ñak967 (button) showed [9s Kd] and won (60) with three of a kind, Fours
+
+
+
+PokerStars Hand #259396508067: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 0:11:51 CET [2026/01/20 18:11:51 ET]
+Table '3967587052 1' 3-max Seat #1 is the button
+Seat 1: astray84 (490 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: Ñak967 (490 in chips) 
+mabeal1: posts small blind 10
+Ñak967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4d]
+astray84: calls 20
+mabeal1: folds 
+Ñak967: checks 
+*** FLOP *** [6h 2c 4c]
+Ñak967: checks 
+astray84: bets 20
+Ñak967: calls 20
+*** TURN *** [6h 2c 4c] [Ac]
+Ñak967: checks 
+astray84: bets 20
+Ñak967: calls 20
+*** RIVER *** [6h 2c 4c Ac] [Jc]
+Ñak967: bets 65
+astray84: folds 
+Uncalled bet (65) returned to Ñak967
+Ñak967 collected 130 from pot
+Ñak967: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [6h 2c 4c Ac Jc]
+Seat 1: astray84 (button) folded on the River
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Ñak967 (big blind) collected (130)
+
+
+
+PokerStars Hand #259396514740: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 0:12:21 CET [2026/01/20 18:12:21 ET]
+Table '3967587052 1' 3-max Seat #2 is the button
+Seat 1: astray84 (430 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: Ñak967 (560 in chips) 
+Ñak967: posts small blind 10
+astray84: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Ts]
+mabeal1: folds 
+Ñak967: folds 
+Uncalled bet (10) returned to astray84
+astray84 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: astray84 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Ñak967 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259396515966: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 0:12:26 CET [2026/01/20 18:12:26 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 1: astray84 (440 in chips) 
+Seat 2: mabeal1 (510 in chips) 
+Seat 3: Ñak967 (550 in chips) 
+astray84: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Th]
+Ñak967: folds 
+astray84: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Kh 4d Kc]
+astray84: checks 
+mabeal1: checks 
+*** TURN *** [Kh 4d Kc] [Jd]
+astray84: checks 
+mabeal1: bets 40
+astray84: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kh 4d Kc Jd]
+Seat 1: astray84 (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: Ñak967 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259396523640: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 0:13:00 CET [2026/01/20 18:13:00 ET]
+Table '3967587052 1' 3-max Seat #1 is the button
+Seat 1: astray84 (400 in chips) 
+Seat 2: mabeal1 (550 in chips) 
+Seat 3: Ñak967 (550 in chips) 
+mabeal1: posts small blind 10
+Ñak967: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 3h]
+astray84: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Ñak967
+Ñak967 collected 20 from pot
+Ñak967: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: astray84 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Ñak967 (big blind) collected (20)
+
+
+
+PokerStars Hand #259396527676: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 0:13:18 CET [2026/01/20 18:13:18 ET]
+Table '3967587052 1' 3-max Seat #2 is the button
+Seat 1: astray84 (400 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Ñak967 (560 in chips) 
+Ñak967: posts small blind 10
+astray84: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Jc]
+mabeal1: folds 
+Ñak967: folds 
+Uncalled bet (10) returned to astray84
+astray84 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: astray84 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: Ñak967 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259396529022: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 0:13:24 CET [2026/01/20 18:13:24 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 1: astray84 (410 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Ñak967 (550 in chips) 
+astray84: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Js]
+Ñak967: folds 
+astray84: calls 10
+mabeal1: checks 
+*** FLOP *** [9h 9s 5h]
+astray84: checks 
+mabeal1: checks 
+*** TURN *** [9h 9s 5h] [3h]
+astray84: checks 
+mabeal1: checks 
+*** RIVER *** [9h 9s 5h 3h] [4h]
+astray84: bets 40
+mabeal1: calls 40
+*** SHOW DOWN ***
+astray84: shows [3c 4c] (two pair, Nines and Fours)
+mabeal1: shows [2h Js] (a flush, Nine high)
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h 9s 5h 3h 4h]
+Seat 1: astray84 (small blind) showed [3c 4c] and lost with two pair, Nines and Fours
+Seat 2: mabeal1 (big blind) showed [2h Js] and won (120) with a flush, Nine high
+Seat 3: Ñak967 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259396535514: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:13:52 CET [2026/01/20 18:13:52 ET]
+Table '3967587052 1' 3-max Seat #1 is the button
+Seat 1: astray84 (350 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: Ñak967 (550 in chips) 
+mabeal1: posts small blind 15
+Ñak967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 6d]
+astray84: folds 
+mabeal1: raises 30 to 60
+Ñak967: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: astray84 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: Ñak967 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259396538584: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:14:07 CET [2026/01/20 18:14:07 ET]
+Table '3967587052 1' 3-max Seat #2 is the button
+Seat 1: astray84 (350 in chips) 
+Seat 2: mabeal1 (630 in chips) 
+Seat 3: Ñak967 (520 in chips) 
+Ñak967: posts small blind 15
+astray84: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Kh]
+mabeal1: raises 30 to 60
+Ñak967: folds 
+astray84: calls 30
+*** FLOP *** [2c 2d 2h]
+astray84: checks 
+mabeal1: checks 
+*** TURN *** [2c 2d 2h] [Qh]
+astray84: bets 30
+mabeal1: calls 30
+*** RIVER *** [2c 2d 2h Qh] [6d]
+astray84: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+astray84: shows [3s 4s] (three of a kind, Deuces)
+mabeal1: shows [9s Kh] (three of a kind, Deuces - King kicker)
+mabeal1 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [2c 2d 2h Qh 6d]
+Seat 1: astray84 (big blind) showed [3s 4s] and lost with three of a kind, Deuces
+Seat 2: mabeal1 (button) showed [9s Kh] and won (195) with three of a kind, Deuces
+Seat 3: Ñak967 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259396543330: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:14:28 CET [2026/01/20 18:14:28 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 1: astray84 (260 in chips) 
+Seat 2: mabeal1 (735 in chips) 
+Seat 3: Ñak967 (505 in chips) 
+astray84: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 8c]
+Ñak967: folds 
+astray84: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: astray84 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: Ñak967 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259396544793: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:14:35 CET [2026/01/20 18:14:35 ET]
+Table '3967587052 1' 3-max Seat #1 is the button
+Seat 1: astray84 (245 in chips) 
+Seat 2: mabeal1 (750 in chips) 
+Seat 3: Ñak967 (505 in chips) 
+mabeal1: posts small blind 15
+Ñak967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h Jd]
+astray84: raises 215 to 245 and is all-in
+mabeal1: folds 
+Ñak967: calls 215
+*** FLOP *** [Kc 7c 3s]
+*** TURN *** [Kc 7c 3s] [Ah]
+*** RIVER *** [Kc 7c 3s Ah] [7d]
+*** SHOW DOWN ***
+Ñak967: shows [Ad Ks] (two pair, Aces and Kings)
+astray84: shows [3d Ac] (two pair, Aces and Sevens)
+Ñak967 collected 505 from pot
+astray84 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 505 | Rake 0 
+Board [Kc 7c 3s Ah 7d]
+Seat 1: astray84 (button) showed [3d Ac] and lost with two pair, Aces and Sevens
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Ñak967 (big blind) showed [Ad Ks] and won (505) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #259396548811: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:14:52 CET [2026/01/20 18:14:52 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (735 in chips) 
+Seat 3: Ñak967 (765 in chips) 
+Ñak967: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Jh]
+Ñak967: calls 15
+mabeal1: checks 
+*** FLOP *** [Th 7h 7d]
+mabeal1: checks 
+Ñak967: checks 
+*** TURN *** [Th 7h 7d] [9s]
+mabeal1: bets 90
+Ñak967: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Th 7h 7d 9s]
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: Ñak967 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259396553025: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:15:11 CET [2026/01/20 18:15:11 ET]
+Table '3967587052 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (765 in chips) 
+Seat 3: Ñak967 (735 in chips) 
+mabeal1: posts small blind 15
+Ñak967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 6d]
+mabeal1: calls 15
+Ñak967: checks 
+*** FLOP *** [9s Qd Td]
+Ñak967: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to Ñak967
+Ñak967 collected 60 from pot
+Ñak967: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [9s Qd Td]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: Ñak967 (big blind) collected (60)
+
+
+
+PokerStars Hand #259396555414: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:15:22 CET [2026/01/20 18:15:22 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (735 in chips) 
+Seat 3: Ñak967 (765 in chips) 
+Ñak967: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Ts]
+Ñak967: calls 15
+mabeal1: checks 
+*** FLOP *** [7c 3h 6h]
+mabeal1: checks 
+Ñak967: checks 
+*** TURN *** [7c 3h 6h] [Qd]
+mabeal1: bets 30
+Ñak967: calls 30
+*** RIVER *** [7c 3h 6h Qd] [2s]
+mabeal1: checks 
+Ñak967: checks 
+*** SHOW DOWN ***
+mabeal1: shows [9c Ts] (high card Queen)
+Ñak967: shows [Ks 5d] (high card King)
+Ñak967 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [7c 3h 6h Qd 2s]
+Seat 2: mabeal1 (big blind) showed [9c Ts] and lost with high card Queen
+Seat 3: Ñak967 (button) (small blind) showed [Ks 5d] and won (120) with high card King
+
+
+
+PokerStars Hand #259396559322: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:15:40 CET [2026/01/20 18:15:40 ET]
+Table '3967587052 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (675 in chips) 
+Seat 3: Ñak967 (825 in chips) 
+mabeal1: posts small blind 15
+Ñak967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 6s]
+mabeal1: calls 15
+Ñak967: checks 
+*** FLOP *** [Ad Ks 8c]
+Ñak967: checks 
+mabeal1: bets 30
+Ñak967: calls 30
+*** TURN *** [Ad Ks 8c] [5s]
+Ñak967: checks 
+mabeal1: bets 180
+Ñak967: calls 180
+*** RIVER *** [Ad Ks 8c 5s] [7s]
+Ñak967: checks 
+mabeal1: bets 435 and is all-in
+Ñak967: calls 435
+*** SHOW DOWN ***
+mabeal1: shows [4s 6s] (a flush, King high)
+Ñak967: shows [4c As] (a pair of Aces)
+mabeal1 collected 1350 from pot
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [Ad Ks 8c 5s 7s]
+Seat 2: mabeal1 (button) (small blind) showed [4s 6s] and won (1350) with a flush, King high
+Seat 3: Ñak967 (big blind) showed [4c As] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259396566004: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:16:10 CET [2026/01/20 18:16:10 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1350 in chips) 
+Seat 3: Ñak967 (150 in chips) 
+Ñak967: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Jd]
+Ñak967: raises 120 to 150 and is all-in
+mabeal1: calls 120
+*** FLOP *** [Kc 3d 3h]
+*** TURN *** [Kc 3d 3h] [As]
+*** RIVER *** [Kc 3d 3h As] [8c]
+*** SHOW DOWN ***
+mabeal1: shows [7s Jd] (a pair of Threes)
+Ñak967: shows [8h Jc] (two pair, Eights and Threes)
+Ñak967 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Kc 3d 3h As 8c]
+Seat 2: mabeal1 (big blind) showed [7s Jd] and lost with a pair of Threes
+Seat 3: Ñak967 (button) (small blind) showed [8h Jc] and won (300) with two pair, Eights and Threes
+
+
+
+PokerStars Hand #259396570242: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 0:16:29 CET [2026/01/20 18:16:29 ET]
+Table '3967587052 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1200 in chips) 
+Seat 3: Ñak967 (300 in chips) 
+mabeal1: posts small blind 15
+Ñak967: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3h]
+mabeal1: calls 15
+Ñak967: checks 
+*** FLOP *** [Qh 4h Tc]
+Ñak967: checks 
+mabeal1: checks 
+*** TURN *** [Qh 4h Tc] [7s]
+Ñak967: bets 30
+mabeal1: calls 30
+*** RIVER *** [Qh 4h Tc 7s] [Qd]
+Ñak967: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+Ñak967: shows [7c 6c] (two pair, Queens and Sevens)
+mabeal1: mucks hand 
+Ñak967 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qh 4h Tc 7s Qd]
+Seat 2: mabeal1 (button) (small blind) mucked [Jh 3h]
+Seat 3: Ñak967 (big blind) showed [7c 6c] and won (120) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #259396575536: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 0:16:53 CET [2026/01/20 18:16:53 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1140 in chips) 
+Seat 3: Ñak967 (360 in chips) 
+Ñak967: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js Ad]
+Ñak967: calls 20
+mabeal1: raises 1100 to 1140 and is all-in
+Ñak967: folds 
+Uncalled bet (1100) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (80)
+Seat 3: Ñak967 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259396578749: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 0:17:08 CET [2026/01/20 18:17:08 ET]
+Table '3967587052 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1180 in chips) 
+Seat 3: Ñak967 (320 in chips) 
+mabeal1: posts small blind 20
+Ñak967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 7c]
+mabeal1: raises 1140 to 1180 and is all-in
+Ñak967: folds 
+Uncalled bet (1140) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: Ñak967 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259396582577: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 0:17:25 CET [2026/01/20 18:17:25 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1220 in chips) 
+Seat 3: Ñak967 (280 in chips) 
+Ñak967: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Tc]
+Ñak967: raises 240 to 280 and is all-in
+mabeal1: folds 
+Uncalled bet (240) returned to Ñak967
+Ñak967 collected 80 from pot
+Ñak967: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: Ñak967 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259396586448: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 0:17:42 CET [2026/01/20 18:17:42 ET]
+Table '3967587052 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1180 in chips) 
+Seat 3: Ñak967 (320 in chips) 
+mabeal1: posts small blind 20
+Ñak967: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 9h]
+mabeal1: raises 1140 to 1180 and is all-in
+Ñak967: folds 
+Uncalled bet (1140) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: Ñak967 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259396589710: Tournament #3967587052, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 0:17:57 CET [2026/01/20 18:17:57 ET]
+Table '3967587052 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1220 in chips) 
+Seat 3: Ñak967 (280 in chips) 
+Ñak967: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 4d]
+Ñak967: calls 20
+mabeal1: checks 
+*** FLOP *** [Jc 3h Th]
+mabeal1: checks 
+Ñak967: bets 40
+mabeal1: calls 40
+*** TURN *** [Jc 3h Th] [2s]
+mabeal1: checks 
+Ñak967: bets 200 and is all-in
+mabeal1: calls 200
+*** RIVER *** [Jc 3h Th 2s] [As]
+*** SHOW DOWN ***
+mabeal1: shows [Jh 4d] (a pair of Jacks)
+Ñak967: shows [6d 8c] (high card Ace)
+mabeal1 collected 560 from pot
+Ñak967 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [Jc 3h Th 2s As]
+Seat 2: mabeal1 (big blind) showed [Jh 4d] and won (560) with a pair of Jacks
+Seat 3: Ñak967 (button) (small blind) showed [6d 8c] and lost with high card Ace
+
+
+

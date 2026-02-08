@@ -1,0 +1,198 @@
+﻿PokerStars Hand #259485073582: Tournament #3969646544, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:17:22 CET [2026/01/27 13:17:22 ET]
+Table '3969646544 1' 3-max Seat #1 is the button
+Seat 1: HeyLam (500 in chips) 
+Seat 2: vicblanco91 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+vicblanco91: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 4s]
+HeyLam: raises 40 to 60
+vicblanco91: calls 50
+mabeal1: raises 440 to 500 and is all-in
+HeyLam: folds 
+vicblanco91: calls 440 and is all-in
+*** FLOP *** [9h Td 5h]
+*** TURN *** [9h Td 5h] [Ks]
+*** RIVER *** [9h Td 5h Ks] [Kd]
+*** SHOW DOWN ***
+vicblanco91: shows [8s Qs] (a pair of Kings)
+mabeal1: shows [4c 4s] (two pair, Kings and Fours)
+mabeal1 collected 1060 from pot
+vicblanco91 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1060 | Rake 0 
+Board [9h Td 5h Ks Kd]
+Seat 1: HeyLam (button) folded before Flop
+Seat 2: vicblanco91 (small blind) showed [8s Qs] and lost with a pair of Kings
+Seat 3: mabeal1 (big blind) showed [4c 4s] and won (1060) with two pair, Kings and Fours
+
+
+
+PokerStars Hand #259485079059: Tournament #3969646544, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:17:46 CET [2026/01/27 13:17:46 ET]
+Table '3969646544 1' 3-max Seat #3 is the button
+Seat 1: HeyLam (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+mabeal1: posts small blind 10
+HeyLam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 4h]
+mabeal1: calls 10
+HeyLam: checks 
+*** FLOP *** [2s 3c 6s]
+HeyLam: bets 20
+mabeal1: raises 40 to 60
+HeyLam: calls 40
+*** TURN *** [2s 3c 6s] [8s]
+HeyLam: checks 
+mabeal1: checks 
+*** RIVER *** [2s 3c 6s 8s] [8c]
+HeyLam: checks 
+mabeal1: bets 80
+HeyLam: calls 80
+*** SHOW DOWN ***
+mabeal1: shows [6c 4h] (two pair, Eights and Sixes)
+HeyLam: mucks hand 
+mabeal1 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [2s 3c 6s 8s 8c]
+Seat 1: HeyLam (big blind) mucked [3d Ks]
+Seat 3: mabeal1 (button) (small blind) showed [6c 4h] and won (320) with two pair, Eights and Sixes
+
+
+
+PokerStars Hand #259485083927: Tournament #3969646544, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:18:07 CET [2026/01/27 13:18:07 ET]
+Table '3969646544 1' 3-max Seat #1 is the button
+Seat 1: HeyLam (280 in chips) 
+Seat 3: mabeal1 (1220 in chips) 
+HeyLam: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 2h]
+HeyLam: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: HeyLam (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259485085494: Tournament #3969646544, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:18:13 CET [2026/01/27 13:18:13 ET]
+Table '3969646544 1' 3-max Seat #3 is the button
+Seat 1: HeyLam (270 in chips) 
+Seat 3: mabeal1 (1230 in chips) 
+mabeal1: posts small blind 10
+HeyLam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7h]
+mabeal1: calls 10
+HeyLam: checks 
+*** FLOP *** [Qc 9s 4s]
+HeyLam: checks 
+mabeal1: bets 20
+HeyLam: calls 20
+*** TURN *** [Qc 9s 4s] [Jd]
+HeyLam: checks 
+mabeal1: checks 
+*** RIVER *** [Qc 9s 4s Jd] [8d]
+HeyLam: checks 
+mabeal1: bets 60
+HeyLam: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 9s 4s Jd 8d]
+Seat 1: HeyLam (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259485089516: Tournament #3969646544, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:18:31 CET [2026/01/27 13:18:31 ET]
+Table '3969646544 1' 3-max Seat #1 is the button
+Seat 1: HeyLam (230 in chips) 
+Seat 3: mabeal1 (1270 in chips) 
+HeyLam: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8h]
+HeyLam: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: HeyLam (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259485090531: Tournament #3969646544, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:18:36 CET [2026/01/27 13:18:36 ET]
+Table '3969646544 1' 3-max Seat #3 is the button
+Seat 1: HeyLam (220 in chips) 
+Seat 3: mabeal1 (1280 in chips) 
+mabeal1: posts small blind 10
+HeyLam: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Qd]
+mabeal1: calls 10
+HeyLam: checks 
+*** FLOP *** [8d Kc 2d]
+HeyLam: checks 
+mabeal1: bets 20
+HeyLam: calls 20
+*** TURN *** [8d Kc 2d] [Qs]
+HeyLam: checks 
+mabeal1: bets 40
+HeyLam: calls 40
+*** RIVER *** [8d Kc 2d Qs] [6c]
+HeyLam: checks 
+mabeal1: bets 1200 and is all-in
+HeyLam: calls 140 and is all-in
+Uncalled bet (1060) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [5d Qd] (a pair of Queens)
+HeyLam: shows [8s Qc] (two pair, Queens and Eights)
+HeyLam collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [8d Kc 2d Qs 6c]
+Seat 1: HeyLam (big blind) showed [8s Qc] and won (440) with two pair, Queens and Eights
+Seat 3: mabeal1 (button) (small blind) showed [5d Qd] and lost with a pair of Queens
+
+
+
+PokerStars Hand #259485097760: Tournament #3969646544, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 19:19:08 CET [2026/01/27 13:19:08 ET]
+Table '3969646544 1' 3-max Seat #1 is the button
+Seat 1: HeyLam (440 in chips) 
+Seat 3: mabeal1 (1060 in chips) 
+HeyLam: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 5d]
+HeyLam: raises 20 to 40
+mabeal1: raises 1020 to 1060 and is all-in
+HeyLam: calls 400 and is all-in
+Uncalled bet (620) returned to mabeal1
+*** FLOP *** [Jd 3d Ts]
+*** TURN *** [Jd 3d Ts] [7s]
+*** RIVER *** [Jd 3d Ts 7s] [8d]
+*** SHOW DOWN ***
+mabeal1: shows [Ad 5d] (a flush, Ace high)
+HeyLam: shows [4s As] (high card Ace)
+mabeal1 collected 880 from pot
+HeyLam finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Jd 3d Ts 7s 8d]
+Seat 1: HeyLam (button) (small blind) showed [4s As] and lost with high card Ace
+Seat 3: mabeal1 (big blind) showed [Ad 5d] and won (880) with a flush, Ace high
+
+
+

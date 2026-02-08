@@ -1,0 +1,828 @@
+﻿PokerStars Hand #259472352608: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:45:24 CET [2026/01/26 13:45:24 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: joanett0 (500 in chips) 
+mabeal1: posts small blind 10
+joanett0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 5h]
+GarciaTT416: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to joanett0
+joanett0 collected 20 from pot
+joanett0: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GarciaTT416 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joanett0 (big blind) collected (20)
+
+
+
+PokerStars Hand #259472353611: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:45:28 CET [2026/01/26 13:45:28 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (500 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: joanett0 (510 in chips) 
+joanett0: posts small blind 10
+GarciaTT416: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5d]
+mabeal1: folds 
+joanett0: folds 
+Uncalled bet (10) returned to GarciaTT416
+GarciaTT416 collected 20 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GarciaTT416 (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joanett0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472354851: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:45:34 CET [2026/01/26 13:45:34 ET]
+Table '3969357025 1' 3-max Seat #3 is the button
+Seat 1: GarciaTT416 (510 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: joanett0 (500 in chips) 
+GarciaTT416: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2s]
+joanett0: folds 
+GarciaTT416: raises 40 to 60
+mabeal1: calls 40
+*** FLOP *** [2c 6d 7c]
+GarciaTT416: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to GarciaTT416
+GarciaTT416 collected 120 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 6d 7c]
+Seat 1: GarciaTT416 (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: joanett0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472363360: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:46:08 CET [2026/01/26 13:46:08 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (570 in chips) 
+Seat 2: mabeal1 (430 in chips) 
+Seat 3: joanett0 (500 in chips) 
+mabeal1: posts small blind 10
+joanett0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 8h]
+GarciaTT416: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to joanett0
+joanett0 collected 20 from pot
+joanett0: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GarciaTT416 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joanett0 (big blind) collected (20)
+
+
+
+PokerStars Hand #259472364470: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:46:13 CET [2026/01/26 13:46:13 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (570 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: joanett0 (510 in chips) 
+joanett0: posts small blind 10
+GarciaTT416: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 3c]
+mabeal1: raises 400 to 420 and is all-in
+joanett0: folds 
+GarciaTT416: folds 
+Uncalled bet (400) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GarciaTT416 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: joanett0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472366516: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:46:21 CET [2026/01/26 13:46:21 ET]
+Table '3969357025 1' 3-max Seat #3 is the button
+Seat 1: GarciaTT416 (550 in chips) 
+Seat 2: mabeal1 (450 in chips) 
+Seat 3: joanett0 (500 in chips) 
+GarciaTT416: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 4c]
+joanett0: calls 20
+GarciaTT416: folds 
+mabeal1: checks 
+*** FLOP *** [4s 5s Kh]
+mabeal1: checks 
+joanett0: checks 
+*** TURN *** [4s 5s Kh] [Qh]
+mabeal1: checks 
+joanett0: bets 38
+mabeal1: calls 38
+*** RIVER *** [4s 5s Kh Qh] [3d]
+mabeal1: checks 
+joanett0: bets 126
+mabeal1: folds 
+Uncalled bet (126) returned to joanett0
+joanett0 collected 126 from pot
+joanett0: doesn't show hand 
+*** SUMMARY ***
+Total pot 126 | Rake 0 
+Board [4s 5s Kh Qh 3d]
+Seat 1: GarciaTT416 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded on the River
+Seat 3: joanett0 (button) collected (126)
+
+
+
+PokerStars Hand #259472372453: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:46:45 CET [2026/01/26 13:46:45 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (540 in chips) 
+Seat 2: mabeal1 (392 in chips) 
+Seat 3: joanett0 (568 in chips) 
+mabeal1: posts small blind 10
+joanett0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 3c]
+GarciaTT416: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to joanett0
+joanett0 collected 20 from pot
+joanett0: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: GarciaTT416 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joanett0 (big blind) collected (20)
+
+
+
+PokerStars Hand #259472375231: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:46:56 CET [2026/01/26 13:46:56 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (540 in chips) 
+Seat 2: mabeal1 (382 in chips) 
+Seat 3: joanett0 (578 in chips) 
+joanett0: posts small blind 10
+GarciaTT416: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 4c]
+mabeal1: raises 20 to 40
+joanett0: folds 
+GarciaTT416: calls 20
+*** FLOP *** [5c 8c 4d]
+GarciaTT416: checks 
+mabeal1: checks 
+*** TURN *** [5c 8c 4d] [Ts]
+GarciaTT416: bets 88
+mabeal1: folds 
+Uncalled bet (88) returned to GarciaTT416
+GarciaTT416 collected 90 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5c 8c 4d Ts]
+Seat 1: GarciaTT416 (big blind) collected (90)
+Seat 2: mabeal1 (button) folded on the Turn
+Seat 3: joanett0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472382156: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/26 19:47:24 CET [2026/01/26 13:47:24 ET]
+Table '3969357025 1' 3-max Seat #3 is the button
+Seat 1: GarciaTT416 (590 in chips) 
+Seat 2: mabeal1 (342 in chips) 
+Seat 3: joanett0 (568 in chips) 
+GarciaTT416: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Qd]
+joanett0: calls 20
+GarciaTT416: folds 
+mabeal1: raises 40 to 60
+joanett0: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: GarciaTT416 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (50)
+Seat 3: joanett0 (button) folded before Flop
+
+
+
+PokerStars Hand #259472384831: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 19:47:35 CET [2026/01/26 13:47:35 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (580 in chips) 
+Seat 2: mabeal1 (372 in chips) 
+Seat 3: joanett0 (548 in chips) 
+mabeal1: posts small blind 15
+joanett0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5d]
+GarciaTT416: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to joanett0
+joanett0 collected 30 from pot
+joanett0: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GarciaTT416 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joanett0 (big blind) collected (30)
+
+
+
+PokerStars Hand #259472385917: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 19:47:40 CET [2026/01/26 13:47:40 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (580 in chips) 
+Seat 2: mabeal1 (357 in chips) 
+Seat 3: joanett0 (563 in chips) 
+joanett0: posts small blind 15
+GarciaTT416: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Th]
+mabeal1: raises 30 to 60
+joanett0: folds 
+GarciaTT416: calls 30
+*** FLOP *** [Ks 9d Qh]
+GarciaTT416: checks 
+mabeal1: checks 
+*** TURN *** [Ks 9d Qh] [5c]
+GarciaTT416: checks 
+mabeal1: checks 
+*** RIVER *** [Ks 9d Qh 5c] [Ah]
+GarciaTT416: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+GarciaTT416: shows [Jc 4c] (high card Ace)
+mabeal1: shows [Ts Th] (a pair of Tens)
+mabeal1 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Ks 9d Qh 5c Ah]
+Seat 1: GarciaTT416 (big blind) showed [Jc 4c] and lost with high card Ace
+Seat 2: mabeal1 (button) showed [Ts Th] and won (135) with a pair of Tens
+Seat 3: joanett0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472392491: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 19:48:07 CET [2026/01/26 13:48:07 ET]
+Table '3969357025 1' 3-max Seat #3 is the button
+Seat 1: GarciaTT416 (520 in chips) 
+Seat 2: mabeal1 (432 in chips) 
+Seat 3: joanett0 (548 in chips) 
+GarciaTT416: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Th]
+joanett0: folds 
+GarciaTT416: raises 490 to 520 and is all-in
+mabeal1: folds 
+Uncalled bet (490) returned to GarciaTT416
+GarciaTT416 collected 60 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GarciaTT416 (small blind) collected (60)
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: joanett0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472396600: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 19:48:24 CET [2026/01/26 13:48:24 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (550 in chips) 
+Seat 2: mabeal1 (402 in chips) 
+Seat 3: joanett0 (548 in chips) 
+mabeal1: posts small blind 15
+joanett0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Qd]
+GarciaTT416: folds 
+mabeal1: raises 30 to 60
+joanett0: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GarciaTT416 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: joanett0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259472399360: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 19:48:35 CET [2026/01/26 13:48:35 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (550 in chips) 
+Seat 2: mabeal1 (432 in chips) 
+Seat 3: joanett0 (518 in chips) 
+joanett0: posts small blind 15
+GarciaTT416: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ts]
+mabeal1: folds 
+joanett0: raises 60 to 90
+GarciaTT416: folds 
+Uncalled bet (60) returned to joanett0
+joanett0 collected 60 from pot
+joanett0: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GarciaTT416 (big blind) folded before Flop
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joanett0 (small blind) collected (60)
+
+
+
+PokerStars Hand #259472402375: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 19:48:47 CET [2026/01/26 13:48:47 ET]
+Table '3969357025 1' 3-max Seat #3 is the button
+Seat 1: GarciaTT416 (520 in chips) 
+Seat 2: mabeal1 (432 in chips) 
+Seat 3: joanett0 (548 in chips) 
+GarciaTT416: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 3h]
+joanett0: raises 30 to 60
+GarciaTT416: folds 
+mabeal1: calls 30
+*** FLOP *** [Kd Ts 7c]
+mabeal1: checks 
+joanett0: bets 41
+mabeal1: calls 41
+*** TURN *** [Kd Ts 7c] [3c]
+mabeal1: checks 
+joanett0: bets 163
+mabeal1: calls 163
+*** RIVER *** [Kd Ts 7c 3c] [Qs]
+mabeal1: checks 
+joanett0: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Qh 3h] (two pair, Queens and Threes)
+joanett0: mucks hand 
+mabeal1 collected 543 from pot
+*** SUMMARY ***
+Total pot 543 | Rake 0 
+Board [Kd Ts 7c 3c Qs]
+Seat 1: GarciaTT416 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) showed [Qh 3h] and won (543) with two pair, Queens and Threes
+Seat 3: joanett0 (button) mucked [Ad 4d]
+
+
+
+PokerStars Hand #259472410634: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/26 19:49:20 CET [2026/01/26 13:49:20 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (505 in chips) 
+Seat 2: mabeal1 (711 in chips) 
+Seat 3: joanett0 (284 in chips) 
+mabeal1: posts small blind 15
+joanett0: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8h]
+GarciaTT416: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to joanett0
+joanett0 collected 30 from pot
+joanett0: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: GarciaTT416 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joanett0 (big blind) collected (30)
+
+
+
+PokerStars Hand #259472414163: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 19:49:35 CET [2026/01/26 13:49:35 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (505 in chips) 
+Seat 2: mabeal1 (696 in chips) 
+Seat 3: joanett0 (299 in chips) 
+joanett0: posts small blind 20
+GarciaTT416: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Kd]
+mabeal1: raises 40 to 80
+joanett0: folds 
+GarciaTT416: raises 425 to 505 and is all-in
+mabeal1: folds 
+Uncalled bet (425) returned to GarciaTT416
+GarciaTT416 collected 180 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Seat 1: GarciaTT416 (big blind) collected (180)
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: joanett0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472416908: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 19:49:46 CET [2026/01/26 13:49:46 ET]
+Table '3969357025 1' 3-max Seat #3 is the button
+Seat 1: GarciaTT416 (605 in chips) 
+Seat 2: mabeal1 (616 in chips) 
+Seat 3: joanett0 (279 in chips) 
+GarciaTT416: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 2s]
+joanett0: folds 
+GarciaTT416: calls 20
+mabeal1: checks 
+*** FLOP *** [Kd 7c 8d]
+GarciaTT416: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to GarciaTT416
+GarciaTT416 collected 80 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 7c 8d]
+Seat 1: GarciaTT416 (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: joanett0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259472422396: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 19:50:09 CET [2026/01/26 13:50:09 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (645 in chips) 
+Seat 2: mabeal1 (576 in chips) 
+Seat 3: joanett0 (279 in chips) 
+mabeal1: posts small blind 20
+joanett0: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7c]
+GarciaTT416: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to joanett0
+joanett0 collected 40 from pot
+joanett0: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: GarciaTT416 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: joanett0 (big blind) collected (40)
+
+
+
+PokerStars Hand #259472426191: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 19:50:24 CET [2026/01/26 13:50:24 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (645 in chips) 
+Seat 2: mabeal1 (556 in chips) 
+Seat 3: joanett0 (299 in chips) 
+joanett0: posts small blind 20
+GarciaTT416: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 6c]
+mabeal1: folds 
+joanett0: raises 259 to 299 and is all-in
+GarciaTT416: calls 259
+*** FLOP *** [3h 3c 9s]
+*** TURN *** [3h 3c 9s] [3s]
+*** RIVER *** [3h 3c 9s 3s] [6s]
+*** SHOW DOWN ***
+joanett0: shows [Jc 5c] (three of a kind, Threes)
+GarciaTT416: shows [Ah 7d] (three of a kind, Threes - Ace kicker)
+GarciaTT416 collected 598 from pot
+joanett0 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 598 | Rake 0 
+Board [3h 3c 9s 3s 6s]
+Seat 1: GarciaTT416 (big blind) showed [Ah 7d] and won (598) with three of a kind, Threes
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: joanett0 (small blind) showed [Jc 5c] and lost with three of a kind, Threes
+
+
+
+PokerStars Hand #259472430029: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 19:50:40 CET [2026/01/26 13:50:40 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (944 in chips) 
+Seat 2: mabeal1 (556 in chips) 
+GarciaTT416: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 9c]
+GarciaTT416: raises 904 to 944 and is all-in
+mabeal1: folds 
+Uncalled bet (904) returned to GarciaTT416
+GarciaTT416 collected 80 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: GarciaTT416 (button) (small blind) collected (80)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259472433908: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/26 19:50:56 CET [2026/01/26 13:50:56 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (984 in chips) 
+Seat 2: mabeal1 (516 in chips) 
+mabeal1: posts small blind 20
+GarciaTT416: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 5h]
+mabeal1: calls 20
+GarciaTT416: checks 
+*** FLOP *** [6d Jh Kd]
+GarciaTT416: checks 
+mabeal1: checks 
+*** TURN *** [6d Jh Kd] [3d]
+GarciaTT416: checks 
+mabeal1: bets 40
+GarciaTT416: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d Jh Kd 3d]
+Seat 1: GarciaTT416 (big blind) folded on the Turn
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259472442510: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:51:30 CET [2026/01/26 13:51:30 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (944 in chips) 
+Seat 2: mabeal1 (556 in chips) 
+GarciaTT416: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ac]
+GarciaTT416: calls 30
+mabeal1: raises 496 to 556 and is all-in
+GarciaTT416: folds 
+Uncalled bet (496) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GarciaTT416 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259472444467: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:51:38 CET [2026/01/26 13:51:38 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (884 in chips) 
+Seat 2: mabeal1 (616 in chips) 
+mabeal1: posts small blind 30
+GarciaTT416: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Jh]
+mabeal1: calls 30
+GarciaTT416: raises 824 to 884 and is all-in
+mabeal1: folds 
+Uncalled bet (824) returned to GarciaTT416
+GarciaTT416 collected 120 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GarciaTT416 (big blind) collected (120)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472446914: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:51:49 CET [2026/01/26 13:51:49 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (944 in chips) 
+Seat 2: mabeal1 (556 in chips) 
+GarciaTT416: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 3d]
+GarciaTT416: raises 884 to 944 and is all-in
+mabeal1: folds 
+Uncalled bet (884) returned to GarciaTT416
+GarciaTT416 collected 120 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GarciaTT416 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259472448809: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:51:56 CET [2026/01/26 13:51:56 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (1004 in chips) 
+Seat 2: mabeal1 (496 in chips) 
+mabeal1: posts small blind 30
+GarciaTT416: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Jh]
+mabeal1: calls 30
+GarciaTT416: checks 
+*** FLOP *** [5d 4c Ad]
+GarciaTT416: checks 
+mabeal1: bets 60
+GarciaTT416: calls 60
+*** TURN *** [5d 4c Ad] [3h]
+GarciaTT416: checks 
+mabeal1: checks 
+*** RIVER *** [5d 4c Ad 3h] [As]
+GarciaTT416: checks 
+mabeal1: bets 180
+GarciaTT416: raises 704 to 884 and is all-in
+mabeal1: calls 196 and is all-in
+Uncalled bet (508) returned to GarciaTT416
+*** SHOW DOWN ***
+GarciaTT416: shows [7s 5c] (two pair, Aces and Fives)
+mabeal1: shows [Ac Jh] (three of a kind, Aces)
+mabeal1 collected 992 from pot
+*** SUMMARY ***
+Total pot 992 | Rake 0 
+Board [5d 4c Ad 3h As]
+Seat 1: GarciaTT416 (big blind) showed [7s 5c] and lost with two pair, Aces and Fives
+Seat 2: mabeal1 (button) (small blind) showed [Ac Jh] and won (992) with three of a kind, Aces
+
+
+
+PokerStars Hand #259472455046: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:52:21 CET [2026/01/26 13:52:21 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (508 in chips) 
+Seat 2: mabeal1 (992 in chips) 
+GarciaTT416: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 4s]
+GarciaTT416: raises 448 to 508 and is all-in
+mabeal1: folds 
+Uncalled bet (448) returned to GarciaTT416
+GarciaTT416 collected 120 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GarciaTT416 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259472456988: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:52:29 CET [2026/01/26 13:52:29 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (568 in chips) 
+Seat 2: mabeal1 (932 in chips) 
+mabeal1: posts small blind 30
+GarciaTT416: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 6c]
+mabeal1: raises 872 to 932 and is all-in
+GarciaTT416: calls 508 and is all-in
+Uncalled bet (364) returned to mabeal1
+*** FLOP *** [Jh Ad 4s]
+*** TURN *** [Jh Ad 4s] [Td]
+*** RIVER *** [Jh Ad 4s Td] [7d]
+*** SHOW DOWN ***
+GarciaTT416: shows [8c Jc] (a pair of Jacks)
+mabeal1: shows [7s 6c] (a pair of Sevens)
+GarciaTT416 collected 1136 from pot
+*** SUMMARY ***
+Total pot 1136 | Rake 0 
+Board [Jh Ad 4s Td 7d]
+Seat 1: GarciaTT416 (big blind) showed [8c Jc] and won (1136) with a pair of Jacks
+Seat 2: mabeal1 (button) (small blind) showed [7s 6c] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #259472462242: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:52:50 CET [2026/01/26 13:52:50 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (1136 in chips) 
+Seat 2: mabeal1 (364 in chips) 
+GarciaTT416: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Qd]
+GarciaTT416: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GarciaTT416 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259472463813: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:52:56 CET [2026/01/26 13:52:56 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (1106 in chips) 
+Seat 2: mabeal1 (394 in chips) 
+mabeal1: posts small blind 30
+GarciaTT416: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2h]
+mabeal1: folds 
+Uncalled bet (30) returned to GarciaTT416
+GarciaTT416 collected 60 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: GarciaTT416 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259472466977: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:53:10 CET [2026/01/26 13:53:10 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (1136 in chips) 
+Seat 2: mabeal1 (364 in chips) 
+GarciaTT416: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Tc]
+GarciaTT416: raises 1076 to 1136 and is all-in
+mabeal1: folds 
+Uncalled bet (1076) returned to GarciaTT416
+GarciaTT416 collected 120 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GarciaTT416 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259472469552: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:53:20 CET [2026/01/26 13:53:20 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (1196 in chips) 
+Seat 2: mabeal1 (304 in chips) 
+mabeal1: posts small blind 30
+GarciaTT416: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [As 3d]
+mabeal1: raises 244 to 304 and is all-in
+GarciaTT416: folds 
+Uncalled bet (244) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GarciaTT416 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259472470816: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/26 19:53:25 CET [2026/01/26 13:53:25 ET]
+Table '3969357025 1' 3-max Seat #1 is the button
+Seat 1: GarciaTT416 (1136 in chips) 
+Seat 2: mabeal1 (364 in chips) 
+GarciaTT416: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 9d]
+GarciaTT416: raises 1076 to 1136 and is all-in
+mabeal1: folds 
+Uncalled bet (1076) returned to GarciaTT416
+GarciaTT416 collected 120 from pot
+GarciaTT416: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: GarciaTT416 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259472473495: Tournament #3969357025, €0.93+€0.07 EUR Hold'em No Limit - Level V (40/80) - 2026/01/26 19:53:36 CET [2026/01/26 13:53:36 ET]
+Table '3969357025 1' 3-max Seat #2 is the button
+Seat 1: GarciaTT416 (1196 in chips) 
+Seat 2: mabeal1 (304 in chips) 
+mabeal1: posts small blind 40
+GarciaTT416: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Jc]
+mabeal1: raises 224 to 304 and is all-in
+GarciaTT416: calls 224
+*** FLOP *** [6d 3h 6s]
+*** TURN *** [6d 3h 6s] [Th]
+*** RIVER *** [6d 3h 6s Th] [5h]
+*** SHOW DOWN ***
+GarciaTT416: shows [Qs Ah] (a pair of Sixes)
+mabeal1: shows [9d Jc] (a pair of Sixes - lower kicker)
+GarciaTT416 collected 608 from pot
+mabeal1 finished the tournament in 2nd place
+GarciaTT416 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 608 | Rake 0 
+Board [6d 3h 6s Th 5h]
+Seat 1: GarciaTT416 (big blind) showed [Qs Ah] and won (608) with a pair of Sixes
+Seat 2: mabeal1 (button) (small blind) showed [9d Jc] and lost with a pair of Sixes
+
+
+

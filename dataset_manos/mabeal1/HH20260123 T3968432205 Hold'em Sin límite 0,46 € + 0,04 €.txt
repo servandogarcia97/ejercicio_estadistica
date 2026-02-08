@@ -1,0 +1,29 @@
+﻿PokerStars Hand #259431062667: Tournament #3968432205, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 20:04:58 CET [2026/01/23 14:04:58 ET]
+Table '3968432205 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: SrConejo96 (500 in chips) 
+Seat 3: PrimoDieguin (500 in chips) 
+SrConejo96: posts small blind 10
+PrimoDieguin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Jc]
+mabeal1: raises 480 to 500 and is all-in
+SrConejo96: calls 490 and is all-in
+PrimoDieguin: folds 
+*** FLOP *** [8d Kh 9c]
+*** TURN *** [8d Kh 9c] [5h]
+*** RIVER *** [8d Kh 9c 5h] [Td]
+*** SHOW DOWN ***
+SrConejo96: shows [Js 7s] (a straight, Seven to Jack)
+mabeal1: shows [As Jc] (high card Ace)
+SrConejo96 collected 1020 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [8d Kh 9c 5h Td]
+Seat 1: mabeal1 (button) showed [As Jc] and lost with high card Ace
+Seat 2: SrConejo96 (small blind) showed [Js 7s] and won (1020) with a straight, Seven to Jack
+Seat 3: PrimoDieguin (big blind) folded before Flop
+
+
+

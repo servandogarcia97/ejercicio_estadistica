@@ -1,0 +1,549 @@
+﻿PokerStars Hand #259510311019: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:48:19 CET [2026/01/29 12:48:19 ET]
+Table '3970226198 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Oxostar7 (500 in chips) 
+Seat 3: VilniausBaronas (500 in chips) 
+Oxostar7: posts small blind 10
+VilniausBaronas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Qc]
+mabeal1: raises 20 to 40
+Oxostar7: calls 30
+VilniausBaronas: calls 20
+*** FLOP *** [2c Jh 2s]
+Oxostar7: checks 
+VilniausBaronas: checks 
+mabeal1: bets 90
+Oxostar7: folds 
+VilniausBaronas: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c Jh 2s]
+Seat 1: mabeal1 (button) collected (120)
+Seat 2: Oxostar7 (small blind) folded on the Flop
+Seat 3: VilniausBaronas (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259510315527: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:48:40 CET [2026/01/29 12:48:40 ET]
+Table '3970226198 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (580 in chips) 
+Seat 2: Oxostar7 (460 in chips) 
+Seat 3: VilniausBaronas (460 in chips) 
+VilniausBaronas: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 7d]
+Oxostar7: folds 
+VilniausBaronas: calls 10
+mabeal1: raises 560 to 580 and is all-in
+VilniausBaronas: folds 
+Uncalled bet (560) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: Oxostar7 (button) folded before Flop (didn't bet)
+Seat 3: VilniausBaronas (small blind) folded before Flop
+
+
+
+PokerStars Hand #259510317972: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:48:52 CET [2026/01/29 12:48:52 ET]
+Table '3970226198 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: Oxostar7 (460 in chips) 
+Seat 3: VilniausBaronas (440 in chips) 
+mabeal1: posts small blind 10
+Oxostar7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Qc]
+VilniausBaronas: folds 
+mabeal1: raises 20 to 40
+Oxostar7: calls 20
+*** FLOP *** [4s 8c 9h]
+mabeal1: checks 
+Oxostar7: checks 
+*** TURN *** [4s 8c 9h] [7c]
+mabeal1: bets 30
+Oxostar7: calls 30
+*** RIVER *** [4s 8c 9h 7c] [Ac]
+mabeal1: checks 
+Oxostar7: bets 140
+mabeal1: folds 
+Uncalled bet (140) returned to Oxostar7
+Oxostar7 collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [4s 8c 9h 7c Ac]
+Seat 1: mabeal1 (small blind) folded on the River
+Seat 2: Oxostar7 (big blind) collected (140)
+Seat 3: VilniausBaronas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259510324170: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:49:22 CET [2026/01/29 12:49:22 ET]
+Table '3970226198 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Oxostar7 (530 in chips) 
+Seat 3: VilniausBaronas (440 in chips) 
+Oxostar7: posts small blind 10
+VilniausBaronas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Js]
+mabeal1: folds 
+Oxostar7: calls 10
+VilniausBaronas: checks 
+*** FLOP *** [7d 2d 6c]
+Oxostar7: checks 
+VilniausBaronas: checks 
+*** TURN *** [7d 2d 6c] [Td]
+Oxostar7: checks 
+VilniausBaronas: bets 20
+Oxostar7: calls 20
+*** RIVER *** [7d 2d 6c Td] [Th]
+Oxostar7: checks 
+VilniausBaronas: bets 60
+Oxostar7: folds 
+Uncalled bet (60) returned to VilniausBaronas
+VilniausBaronas collected 80 from pot
+VilniausBaronas: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d 2d 6c Td Th]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Oxostar7 (small blind) folded on the River
+Seat 3: VilniausBaronas (big blind) collected (80)
+
+
+
+PokerStars Hand #259510330328: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:49:52 CET [2026/01/29 12:49:52 ET]
+Table '3970226198 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: Oxostar7 (490 in chips) 
+Seat 3: VilniausBaronas (480 in chips) 
+VilniausBaronas: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 7c]
+Oxostar7: calls 20
+VilniausBaronas: calls 10
+mabeal1: checks 
+*** FLOP *** [Ad 2d 5h]
+VilniausBaronas: checks 
+mabeal1: checks 
+Oxostar7: checks 
+*** TURN *** [Ad 2d 5h] [2s]
+VilniausBaronas: checks 
+mabeal1: checks 
+Oxostar7: checks 
+*** RIVER *** [Ad 2d 5h 2s] [4d]
+VilniausBaronas: bets 30
+mabeal1: folds 
+Oxostar7: folds 
+Uncalled bet (30) returned to VilniausBaronas
+VilniausBaronas collected 60 from pot
+VilniausBaronas: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ad 2d 5h 2s 4d]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: Oxostar7 (button) folded on the River
+Seat 3: VilniausBaronas (small blind) collected (60)
+
+
+
+PokerStars Hand #259510335987: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:50:19 CET [2026/01/29 12:50:19 ET]
+Table '3970226198 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Oxostar7 (470 in chips) 
+Seat 3: VilniausBaronas (520 in chips) 
+mabeal1: posts small blind 10
+Oxostar7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 9c]
+VilniausBaronas: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Oxostar7
+Oxostar7 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Oxostar7 (big blind) collected (20)
+Seat 3: VilniausBaronas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259510337979: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:50:29 CET [2026/01/29 12:50:29 ET]
+Table '3970226198 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Oxostar7 (480 in chips) 
+Seat 3: VilniausBaronas (520 in chips) 
+Oxostar7: posts small blind 10
+VilniausBaronas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 3h]
+mabeal1: folds 
+Oxostar7: folds 
+Uncalled bet (10) returned to VilniausBaronas
+VilniausBaronas collected 20 from pot
+VilniausBaronas: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Oxostar7 (small blind) folded before Flop
+Seat 3: VilniausBaronas (big blind) collected (20)
+
+
+
+PokerStars Hand #259510339243: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:50:35 CET [2026/01/29 12:50:35 ET]
+Table '3970226198 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: Oxostar7 (470 in chips) 
+Seat 3: VilniausBaronas (530 in chips) 
+VilniausBaronas: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qh]
+Oxostar7: calls 20
+VilniausBaronas: raises 510 to 530 and is all-in
+mabeal1: folds 
+Oxostar7: folds 
+Uncalled bet (510) returned to VilniausBaronas
+VilniausBaronas collected 60 from pot
+VilniausBaronas: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: Oxostar7 (button) folded before Flop
+Seat 3: VilniausBaronas (small blind) collected (60)
+
+
+
+PokerStars Hand #259510341712: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:50:47 CET [2026/01/29 12:50:47 ET]
+Table '3970226198 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: Oxostar7 (450 in chips) 
+Seat 3: VilniausBaronas (570 in chips) 
+mabeal1: posts small blind 10
+Oxostar7: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7h]
+VilniausBaronas: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to Oxostar7
+Oxostar7 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Oxostar7 (big blind) collected (20)
+Seat 3: VilniausBaronas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259510342939: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:50:52 CET [2026/01/29 12:50:52 ET]
+Table '3970226198 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: Oxostar7 (460 in chips) 
+Seat 3: VilniausBaronas (570 in chips) 
+Oxostar7: posts small blind 10
+VilniausBaronas: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 2s]
+mabeal1: folds 
+Oxostar7: calls 10
+VilniausBaronas: checks 
+*** FLOP *** [6d Kd Qd]
+Oxostar7: checks 
+VilniausBaronas: checks 
+*** TURN *** [6d Kd Qd] [Jh]
+Oxostar7: checks 
+VilniausBaronas: checks 
+*** RIVER *** [6d Kd Qd Jh] [9h]
+Oxostar7: checks 
+VilniausBaronas: checks 
+*** SHOW DOWN ***
+Oxostar7: shows [5c 9c] (a pair of Nines)
+VilniausBaronas: mucks hand 
+Oxostar7 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [6d Kd Qd Jh 9h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: Oxostar7 (small blind) showed [5c 9c] and won (40) with a pair of Nines
+Seat 3: VilniausBaronas (big blind) mucked [3d 8c]
+
+
+
+PokerStars Hand #259510348231: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 18:51:18 CET [2026/01/29 12:51:18 ET]
+Table '3970226198 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: Oxostar7 (480 in chips) 
+Seat 3: VilniausBaronas (550 in chips) 
+VilniausBaronas: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 6s]
+Oxostar7: calls 20
+VilniausBaronas: calls 10
+mabeal1: checks 
+*** FLOP *** [Jd 9s 2d]
+VilniausBaronas: checks 
+mabeal1: checks 
+Oxostar7: checks 
+*** TURN *** [Jd 9s 2d] [5d]
+VilniausBaronas: checks 
+mabeal1: checks 
+Oxostar7: checks 
+*** RIVER *** [Jd 9s 2d 5d] [8s]
+VilniausBaronas: bets 30
+mabeal1: folds 
+Oxostar7: calls 30
+*** SHOW DOWN ***
+VilniausBaronas: shows [9c Ks] (a pair of Nines)
+Oxostar7: mucks hand 
+VilniausBaronas collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Jd 9s 2d 5d 8s]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: Oxostar7 (button) mucked [Kc 8d]
+Seat 3: VilniausBaronas (small blind) showed [9c Ks] and won (120) with a pair of Nines
+
+
+
+PokerStars Hand #259510354351: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:51:47 CET [2026/01/29 12:51:47 ET]
+Table '3970226198 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (450 in chips) 
+Seat 2: Oxostar7 (430 in chips) 
+Seat 3: VilniausBaronas (620 in chips) 
+mabeal1: posts small blind 15
+Oxostar7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Qh]
+VilniausBaronas: folds 
+mabeal1: raises 30 to 60
+Oxostar7: calls 30
+*** FLOP *** [Ah Ac Ts]
+mabeal1: bets 60
+Oxostar7: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ah Ac Ts]
+Seat 1: mabeal1 (small blind) collected (120)
+Seat 2: Oxostar7 (big blind) folded on the Flop
+Seat 3: VilniausBaronas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259510356666: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:51:58 CET [2026/01/29 12:51:58 ET]
+Table '3970226198 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: Oxostar7 (370 in chips) 
+Seat 3: VilniausBaronas (620 in chips) 
+Oxostar7: posts small blind 15
+VilniausBaronas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 8c]
+mabeal1: raises 30 to 60
+Oxostar7: calls 45
+VilniausBaronas: calls 30
+*** FLOP *** [3d 8h Kc]
+Oxostar7: checks 
+VilniausBaronas: checks 
+mabeal1: bets 105
+Oxostar7: folds 
+VilniausBaronas: folds 
+Uncalled bet (105) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [3d 8h Kc]
+Seat 1: mabeal1 (button) collected (180)
+Seat 2: Oxostar7 (small blind) folded on the Flop
+Seat 3: VilniausBaronas (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259510362668: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:52:27 CET [2026/01/29 12:52:27 ET]
+Table '3970226198 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (630 in chips) 
+Seat 2: Oxostar7 (310 in chips) 
+Seat 3: VilniausBaronas (560 in chips) 
+VilniausBaronas: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 6s]
+Oxostar7: calls 30
+VilniausBaronas: folds 
+mabeal1: checks 
+*** FLOP *** [6d 9d Qh]
+mabeal1: checks 
+Oxostar7: checks 
+*** TURN *** [6d 9d Qh] [4c]
+mabeal1: bets 60
+Oxostar7: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [6d 9d Qh 4c]
+Seat 1: mabeal1 (big blind) collected (75)
+Seat 2: Oxostar7 (button) folded on the Turn
+Seat 3: VilniausBaronas (small blind) folded before Flop
+
+
+
+PokerStars Hand #259510366436: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:52:44 CET [2026/01/29 12:52:44 ET]
+Table '3970226198 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (675 in chips) 
+Seat 2: Oxostar7 (280 in chips) 
+Seat 3: VilniausBaronas (545 in chips) 
+mabeal1: posts small blind 15
+Oxostar7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Td]
+VilniausBaronas: raises 30 to 60
+mabeal1: folds 
+Oxostar7: folds 
+Uncalled bet (30) returned to VilniausBaronas
+VilniausBaronas collected 75 from pot
+VilniausBaronas: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Oxostar7 (big blind) folded before Flop
+Seat 3: VilniausBaronas (button) collected (75)
+
+
+
+PokerStars Hand #259510367680: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:52:51 CET [2026/01/29 12:52:51 ET]
+Table '3970226198 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (660 in chips) 
+Seat 2: Oxostar7 (250 in chips) 
+Seat 3: VilniausBaronas (590 in chips) 
+Oxostar7: posts small blind 15
+VilniausBaronas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Td]
+mabeal1: raises 30 to 60
+Oxostar7: calls 45
+VilniausBaronas: folds 
+*** FLOP *** [5s 9s 2h]
+Oxostar7: bets 190 and is all-in
+mabeal1: folds 
+Uncalled bet (190) returned to Oxostar7
+Oxostar7 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [5s 9s 2h]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: Oxostar7 (small blind) collected (150)
+Seat 3: VilniausBaronas (big blind) folded before Flop
+
+
+
+PokerStars Hand #259510371133: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:53:07 CET [2026/01/29 12:53:07 ET]
+Table '3970226198 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: Oxostar7 (340 in chips) 
+Seat 3: VilniausBaronas (560 in chips) 
+VilniausBaronas: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Qc]
+Oxostar7: folds 
+VilniausBaronas: calls 15
+mabeal1: raises 60 to 90
+VilniausBaronas: calls 60
+*** FLOP *** [5c Js 5h]
+VilniausBaronas: checks 
+mabeal1: bets 60
+VilniausBaronas: calls 60
+*** TURN *** [5c Js 5h] [Kc]
+VilniausBaronas: checks 
+mabeal1: bets 195
+VilniausBaronas: raises 215 to 410 and is all-in
+mabeal1: calls 215
+*** RIVER *** [5c Js 5h Kc] [Tc]
+*** SHOW DOWN ***
+VilniausBaronas: shows [Kd Jh] (two pair, Kings and Jacks)
+mabeal1: shows [Kh Qc] (two pair, Kings and Fives)
+VilniausBaronas collected 1120 from pot
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [5c Js 5h Kc Tc]
+Seat 1: mabeal1 (big blind) showed [Kh Qc] and lost with two pair, Kings and Fives
+Seat 2: Oxostar7 (button) folded before Flop (didn't bet)
+Seat 3: VilniausBaronas (small blind) showed [Kd Jh] and won (1120) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #259510378819: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:53:45 CET [2026/01/29 12:53:45 ET]
+Table '3970226198 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (40 in chips) 
+Seat 2: Oxostar7 (340 in chips) 
+Seat 3: VilniausBaronas (1120 in chips) 
+mabeal1: posts small blind 15
+Oxostar7: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5h]
+VilniausBaronas: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to Oxostar7
+Oxostar7 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: Oxostar7 (big blind) collected (30)
+Seat 3: VilniausBaronas (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259510380954: Tournament #3970226198, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 18:53:55 CET [2026/01/29 12:53:55 ET]
+Table '3970226198 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (25 in chips) 
+Seat 2: Oxostar7 (355 in chips) 
+Seat 3: VilniausBaronas (1120 in chips) 
+Oxostar7: posts small blind 15
+VilniausBaronas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Jh]
+mabeal1: calls 25 and is all-in
+Oxostar7: calls 15
+VilniausBaronas: checks 
+*** FLOP *** [Kh 5h 2d]
+Oxostar7: checks 
+VilniausBaronas: checks 
+*** TURN *** [Kh 5h 2d] [Tc]
+Oxostar7: checks 
+VilniausBaronas: bets 30
+Oxostar7: calls 30
+*** RIVER *** [Kh 5h 2d Tc] [Qs]
+Oxostar7: checks 
+VilniausBaronas: bets 60
+Oxostar7: folds 
+Uncalled bet (60) returned to VilniausBaronas
+*** SHOW DOWN ***
+VilniausBaronas: shows [Ks 4s] (a pair of Kings)
+VilniausBaronas collected 70 from side pot
+mabeal1: shows [2h Jh] (a pair of Deuces)
+VilniausBaronas collected 75 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 145 Main pot 75. Side pot 70. | Rake 0 
+Board [Kh 5h 2d Tc Qs]
+Seat 1: mabeal1 (button) showed [2h Jh] and lost with a pair of Deuces
+Seat 2: Oxostar7 (small blind) folded on the River
+Seat 3: VilniausBaronas (big blind) showed [Ks 4s] and won (145) with a pair of Kings
+
+
+

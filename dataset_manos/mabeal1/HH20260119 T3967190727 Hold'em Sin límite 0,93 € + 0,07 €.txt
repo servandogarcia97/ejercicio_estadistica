@@ -1,0 +1,130 @@
+﻿PokerStars Hand #259379291318: Tournament #3967190727, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:41:03 CET [2026/01/19 13:41:03 ET]
+Table '3967190727 1' 3-max Seat #1 is the button
+Seat 1: Nath4185 (500 in chips) 
+Seat 2: Pinocchio44fr (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+Pinocchio44fr: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 9h]
+Nath4185: calls 20
+Pinocchio44fr: calls 10
+mabeal1: checks 
+*** FLOP *** [6d 4h Tc]
+Pinocchio44fr: checks 
+mabeal1: checks 
+Nath4185: bets 20
+Pinocchio44fr: calls 20
+mabeal1: raises 80 to 100
+Nath4185: folds 
+Pinocchio44fr: folds 
+Uncalled bet (80) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d 4h Tc]
+Seat 1: Nath4185 (button) folded on the Flop
+Seat 2: Pinocchio44fr (small blind) folded on the Flop
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259379304346: Tournament #3967190727, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:41:54 CET [2026/01/19 13:41:54 ET]
+Table '3967190727 1' 3-max Seat #2 is the button
+Seat 1: Nath4185 (460 in chips) 
+Seat 2: Pinocchio44fr (460 in chips) 
+Seat 3: mabeal1 (580 in chips) 
+mabeal1: posts small blind 10
+Nath4185: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 4d]
+Pinocchio44fr: calls 20
+mabeal1: folds 
+Nath4185: checks 
+*** FLOP *** [4c 6h Kc]
+Nath4185: bets 20
+Pinocchio44fr: folds 
+Uncalled bet (20) returned to Nath4185
+Nath4185 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [4c 6h Kc]
+Seat 1: Nath4185 (big blind) collected (50)
+Seat 2: Pinocchio44fr (button) folded on the Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259379309566: Tournament #3967190727, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:42:15 CET [2026/01/19 13:42:15 ET]
+Table '3967190727 1' 3-max Seat #3 is the button
+Seat 1: Nath4185 (490 in chips) 
+Seat 2: Pinocchio44fr (440 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+Nath4185: posts small blind 10
+Pinocchio44fr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 3d]
+mabeal1: folds 
+Nath4185: calls 10
+Pinocchio44fr: checks 
+*** FLOP *** [Js 7s Kd]
+Nath4185: checks 
+Pinocchio44fr: bets 30
+Nath4185: calls 30
+*** TURN *** [Js 7s Kd] [As]
+Nath4185: bets 20
+Pinocchio44fr: raises 60 to 80
+Nath4185: calls 60
+*** RIVER *** [Js 7s Kd As] [Qs]
+Nath4185: bets 130
+Pinocchio44fr: calls 130
+*** SHOW DOWN ***
+Nath4185: shows [Qc 6d] (a pair of Queens)
+Pinocchio44fr: shows [2s 9h] (a flush, Ace high)
+Pinocchio44fr collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [Js 7s Kd As Qs]
+Seat 1: Nath4185 (small blind) showed [Qc 6d] and lost with a pair of Queens
+Seat 2: Pinocchio44fr (big blind) showed [2s 9h] and won (520) with a flush, Ace high
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259379322334: Tournament #3967190727, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/19 19:43:04 CET [2026/01/19 13:43:04 ET]
+Table '3967190727 1' 3-max Seat #1 is the button
+Seat 1: Nath4185 (230 in chips) 
+Seat 2: Pinocchio44fr (700 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+Pinocchio44fr: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Jh]
+Nath4185: calls 20
+Pinocchio44fr: calls 10
+mabeal1: raises 40 to 60
+Nath4185: folds 
+Pinocchio44fr: calls 40
+*** FLOP *** [9h 8s 4h]
+Pinocchio44fr: checks 
+mabeal1: bets 80
+Pinocchio44fr: raises 160 to 240
+mabeal1: raises 270 to 510 and is all-in
+Pinocchio44fr: calls 270
+*** TURN *** [9h 8s 4h] [Th]
+*** RIVER *** [9h 8s 4h Th] [9c]
+*** SHOW DOWN ***
+Pinocchio44fr: shows [Qh 9d] (three of a kind, Nines)
+mabeal1: shows [Jc Jh] (two pair, Jacks and Nines)
+Pinocchio44fr collected 1160 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [9h 8s 4h Th 9c]
+Seat 1: Nath4185 (button) folded before Flop
+Seat 2: Pinocchio44fr (small blind) showed [Qh 9d] and won (1160) with three of a kind, Nines
+Seat 3: mabeal1 (big blind) showed [Jc Jh] and lost with two pair, Jacks and Nines
+
+
+

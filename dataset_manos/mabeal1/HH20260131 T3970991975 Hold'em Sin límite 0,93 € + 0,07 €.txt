@@ -1,0 +1,983 @@
+﻿PokerStars Hand #259543218684: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:44:29 CET [2026/01/31 20:44:29 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: rebollov (500 in chips) 
+Seat 3: cogollitos23 (500 in chips) 
+rebollov: posts small blind 10
+cogollitos23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2c]
+mabeal1: folds 
+rebollov: calls 10
+cogollitos23: checks 
+*** FLOP *** [Ad 6s Jd]
+rebollov: checks 
+cogollitos23: bets 20
+rebollov: calls 20
+*** TURN *** [Ad 6s Jd] [7c]
+rebollov: checks 
+cogollitos23: bets 20
+rebollov: calls 20
+*** RIVER *** [Ad 6s Jd 7c] [Qc]
+rebollov: checks 
+cogollitos23: bets 20
+rebollov: calls 20
+*** SHOW DOWN ***
+cogollitos23: shows [Js 3s] (a pair of Jacks)
+rebollov: shows [5s Qh] (a pair of Queens)
+rebollov collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ad 6s Jd 7c Qc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: rebollov (small blind) showed [5s Qh] and won (160) with a pair of Queens
+Seat 3: cogollitos23 (big blind) showed [Js 3s] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259543221171: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:44:44 CET [2026/01/31 20:44:44 ET]
+Table '3970991975 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: rebollov (580 in chips) 
+Seat 3: cogollitos23 (420 in chips) 
+cogollitos23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 2c]
+rebollov: calls 20
+cogollitos23: raises 20 to 40
+mabeal1: folds 
+rebollov: calls 20
+*** FLOP *** [4d Ks 9d]
+cogollitos23: bets 40
+rebollov: folds 
+Uncalled bet (40) returned to cogollitos23
+cogollitos23 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4d Ks 9d]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: rebollov (button) folded on the Flop
+Seat 3: cogollitos23 (small blind) collected (100)
+
+
+
+PokerStars Hand #259543223545: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:45:00 CET [2026/01/31 20:45:00 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: rebollov (540 in chips) 
+Seat 3: cogollitos23 (480 in chips) 
+mabeal1: posts small blind 10
+rebollov: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 4c]
+cogollitos23: folds 
+mabeal1: calls 10
+rebollov: checks 
+*** FLOP *** [4d 9s Qc]
+mabeal1: checks 
+rebollov: bets 40
+mabeal1: calls 40
+*** TURN *** [4d 9s Qc] [3c]
+mabeal1: checks 
+rebollov: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to rebollov
+rebollov collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d 9s Qc 3c]
+Seat 1: mabeal1 (small blind) folded on the Turn
+Seat 2: rebollov (big blind) collected (120)
+Seat 3: cogollitos23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259543227083: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:45:22 CET [2026/01/31 20:45:22 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (420 in chips) 
+Seat 2: rebollov (600 in chips) 
+Seat 3: cogollitos23 (480 in chips) 
+rebollov: posts small blind 10
+cogollitos23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Kh]
+mabeal1: raises 20 to 40
+rebollov: calls 30
+cogollitos23: calls 20
+*** FLOP *** [Ad 4c 3h]
+rebollov: checks 
+cogollitos23: checks 
+mabeal1: bets 60
+rebollov: calls 60
+cogollitos23: folds 
+*** TURN *** [Ad 4c 3h] [3c]
+rebollov: checks 
+mabeal1: checks 
+*** RIVER *** [Ad 4c 3h 3c] [Qh]
+rebollov: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+rebollov: shows [7d Kd] (a pair of Threes)
+mabeal1: shows [Jc Kh] (a pair of Threes)
+rebollov collected 120 from pot
+mabeal1 collected 120 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ad 4c 3h 3c Qh]
+Seat 1: mabeal1 (button) showed [Jc Kh] and won (120) with a pair of Threes
+Seat 2: rebollov (small blind) showed [7d Kd] and won (120) with a pair of Threes
+Seat 3: cogollitos23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259543229753: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:45:39 CET [2026/01/31 20:45:39 ET]
+Table '3970991975 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: rebollov (620 in chips) 
+Seat 3: cogollitos23 (440 in chips) 
+cogollitos23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9d]
+rebollov: calls 20
+cogollitos23: raises 20 to 40
+mabeal1: calls 20
+rebollov: calls 20
+*** FLOP *** [Js Ac 5d]
+cogollitos23: bets 40
+mabeal1: folds 
+rebollov: folds 
+Uncalled bet (40) returned to cogollitos23
+cogollitos23 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Js Ac 5d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: rebollov (button) folded on the Flop
+Seat 3: cogollitos23 (small blind) collected (120)
+
+
+
+PokerStars Hand #259543232016: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:45:53 CET [2026/01/31 20:45:53 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: rebollov (580 in chips) 
+Seat 3: cogollitos23 (520 in chips) 
+mabeal1: posts small blind 10
+rebollov: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 3h]
+cogollitos23: raises 20 to 40
+mabeal1: folds 
+rebollov: calls 20
+*** FLOP *** [8d Ks Qh]
+rebollov: checks 
+cogollitos23: bets 45
+rebollov: folds 
+Uncalled bet (45) returned to cogollitos23
+cogollitos23 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [8d Ks Qh]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: rebollov (big blind) folded on the Flop
+Seat 3: cogollitos23 (button) collected (90)
+
+
+
+PokerStars Hand #259543234836: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:46:11 CET [2026/01/31 20:46:11 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (390 in chips) 
+Seat 2: rebollov (540 in chips) 
+Seat 3: cogollitos23 (570 in chips) 
+rebollov: posts small blind 10
+cogollitos23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 8c]
+mabeal1: raises 20 to 40
+rebollov: folds 
+cogollitos23: calls 20
+*** FLOP *** [4h 5h 2s]
+cogollitos23: bets 20
+mabeal1: calls 20
+*** TURN *** [4h 5h 2s] [6h]
+cogollitos23: bets 65
+mabeal1: folds 
+Uncalled bet (65) returned to cogollitos23
+cogollitos23 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [4h 5h 2s 6h]
+Seat 1: mabeal1 (button) folded on the Turn
+Seat 2: rebollov (small blind) folded before Flop
+Seat 3: cogollitos23 (big blind) collected (130)
+
+
+
+PokerStars Hand #259543237624: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:46:29 CET [2026/01/31 20:46:29 ET]
+Table '3970991975 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (330 in chips) 
+Seat 2: rebollov (530 in chips) 
+Seat 3: cogollitos23 (640 in chips) 
+cogollitos23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2s]
+rebollov: calls 20
+cogollitos23: calls 10
+mabeal1: checks 
+*** FLOP *** [Ts 3s 4d]
+cogollitos23: bets 20
+mabeal1: folds 
+rebollov: raises 100 to 120
+cogollitos23: folds 
+Uncalled bet (100) returned to rebollov
+rebollov collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Ts 3s 4d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: rebollov (button) collected (100)
+Seat 3: cogollitos23 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259543240237: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:46:46 CET [2026/01/31 20:46:46 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (310 in chips) 
+Seat 2: rebollov (590 in chips) 
+Seat 3: cogollitos23 (600 in chips) 
+mabeal1: posts small blind 10
+rebollov: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 4s]
+cogollitos23: calls 20
+mabeal1: folds 
+rebollov: raises 20 to 40
+cogollitos23: calls 20
+*** FLOP *** [9s 8s 3d]
+rebollov: checks 
+cogollitos23: bets 90
+rebollov: calls 90
+*** TURN *** [9s 8s 3d] [Ad]
+rebollov: checks 
+cogollitos23: bets 470 and is all-in
+rebollov: folds 
+Uncalled bet (470) returned to cogollitos23
+cogollitos23 collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [9s 8s 3d Ad]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: rebollov (big blind) folded on the Turn
+Seat 3: cogollitos23 (button) collected (270)
+
+
+
+PokerStars Hand #259543243198: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:47:05 CET [2026/01/31 20:47:05 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (300 in chips) 
+Seat 2: rebollov (460 in chips) 
+Seat 3: cogollitos23 (740 in chips) 
+rebollov: posts small blind 10
+cogollitos23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jc]
+mabeal1: raises 40 to 60
+rebollov: raises 140 to 200
+cogollitos23: folds 
+mabeal1: raises 100 to 300 and is all-in
+rebollov: calls 100
+*** FLOP *** [Th 2h As]
+*** TURN *** [Th 2h As] [Ac]
+*** RIVER *** [Th 2h As Ac] [3s]
+*** SHOW DOWN ***
+rebollov: shows [Qc Kd] (a pair of Aces)
+mabeal1: shows [Ad Jc] (three of a kind, Aces)
+mabeal1 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [Th 2h As Ac 3s]
+Seat 1: mabeal1 (button) showed [Ad Jc] and won (620) with three of a kind, Aces
+Seat 2: rebollov (small blind) showed [Qc Kd] and lost with a pair of Aces
+Seat 3: cogollitos23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259543245976: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 2:47:23 CET [2026/01/31 20:47:23 ET]
+Table '3970991975 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 2: rebollov (160 in chips) 
+Seat 3: cogollitos23 (720 in chips) 
+cogollitos23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 4h]
+rebollov: raises 140 to 160 and is all-in
+cogollitos23: calls 150
+mabeal1: folds 
+*** FLOP *** [5d 3d 2c]
+*** TURN *** [5d 3d 2c] [2s]
+*** RIVER *** [5d 3d 2c 2s] [Ah]
+*** SHOW DOWN ***
+cogollitos23: shows [Ts Qc] (a pair of Deuces)
+rebollov: shows [2d 6c] (three of a kind, Deuces)
+rebollov collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [5d 3d 2c 2s Ah]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: rebollov (button) showed [2d 6c] and won (340) with three of a kind, Deuces
+Seat 3: cogollitos23 (small blind) showed [Ts Qc] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #259543248923: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:47:42 CET [2026/01/31 20:47:42 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (600 in chips) 
+Seat 2: rebollov (340 in chips) 
+Seat 3: cogollitos23 (560 in chips) 
+mabeal1: posts small blind 15
+rebollov: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 6h]
+cogollitos23: calls 30
+mabeal1: raises 570 to 600 and is all-in
+rebollov: calls 310 and is all-in
+cogollitos23: folds 
+Uncalled bet (260) returned to mabeal1
+*** FLOP *** [9s 4c 5h]
+*** TURN *** [9s 4c 5h] [3s]
+*** RIVER *** [9s 4c 5h 3s] [6d]
+*** SHOW DOWN ***
+mabeal1: shows [6s 6h] (three of a kind, Sixes)
+rebollov: shows [7h Jd] (a straight, Three to Seven)
+rebollov collected 710 from pot
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Board [9s 4c 5h 3s 6d]
+Seat 1: mabeal1 (small blind) showed [6s 6h] and lost with three of a kind, Sixes
+Seat 2: rebollov (big blind) showed [7h Jd] and won (710) with a straight, Three to Seven
+Seat 3: cogollitos23 (button) folded before Flop
+
+
+
+PokerStars Hand #259543251246: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:47:57 CET [2026/01/31 20:47:57 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (260 in chips) 
+Seat 2: rebollov (710 in chips) 
+Seat 3: cogollitos23 (530 in chips) 
+rebollov: posts small blind 15
+cogollitos23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 9d]
+mabeal1: folds 
+rebollov: calls 15
+cogollitos23: checks 
+*** FLOP *** [4d Kd 6c]
+rebollov: checks 
+cogollitos23: bets 30
+rebollov: calls 30
+*** TURN *** [4d Kd 6c] [Ah]
+rebollov: checks 
+cogollitos23: bets 30
+rebollov: folds 
+Uncalled bet (30) returned to cogollitos23
+cogollitos23 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [4d Kd 6c Ah]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: rebollov (small blind) folded on the Turn
+Seat 3: cogollitos23 (big blind) collected (120)
+
+
+
+PokerStars Hand #259543253780: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:48:13 CET [2026/01/31 20:48:13 ET]
+Table '3970991975 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (260 in chips) 
+Seat 2: rebollov (650 in chips) 
+Seat 3: cogollitos23 (590 in chips) 
+cogollitos23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Kc]
+rebollov: calls 30
+cogollitos23: raises 30 to 60
+mabeal1: raises 200 to 260 and is all-in
+rebollov: folds 
+cogollitos23: calls 200
+*** FLOP *** [Th Kd Jd]
+*** TURN *** [Th Kd Jd] [Tc]
+*** RIVER *** [Th Kd Jd Tc] [9c]
+*** SHOW DOWN ***
+cogollitos23: shows [6d 6h] (two pair, Tens and Sixes)
+mabeal1: shows [Ks Kc] (a full house, Kings full of Tens)
+mabeal1 collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [Th Kd Jd Tc 9c]
+Seat 1: mabeal1 (big blind) showed [Ks Kc] and won (550) with a full house, Kings full of Tens
+Seat 2: rebollov (button) folded before Flop
+Seat 3: cogollitos23 (small blind) showed [6d 6h] and lost with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #259543256184: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:48:28 CET [2026/01/31 20:48:28 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: rebollov (620 in chips) 
+Seat 3: cogollitos23 (330 in chips) 
+mabeal1: posts small blind 15
+rebollov: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 9c]
+cogollitos23: raises 300 to 330 and is all-in
+mabeal1: folds 
+rebollov: folds 
+Uncalled bet (300) returned to cogollitos23
+cogollitos23 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: rebollov (big blind) folded before Flop
+Seat 3: cogollitos23 (button) collected (75)
+
+
+
+PokerStars Hand #259543257545: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:48:37 CET [2026/01/31 20:48:37 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 2: rebollov (590 in chips) 
+Seat 3: cogollitos23 (375 in chips) 
+rebollov: posts small blind 15
+cogollitos23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 7d]
+mabeal1: folds 
+rebollov: calls 15
+cogollitos23: checks 
+*** FLOP *** [2c 5d 9h]
+rebollov: checks 
+cogollitos23: bets 30
+rebollov: calls 30
+*** TURN *** [2c 5d 9h] [Jc]
+rebollov: checks 
+cogollitos23: bets 60
+rebollov: folds 
+Uncalled bet (60) returned to cogollitos23
+cogollitos23 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 5d 9h Jc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: rebollov (small blind) folded on the Turn
+Seat 3: cogollitos23 (big blind) collected (120)
+
+
+
+PokerStars Hand #259543262984: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:49:12 CET [2026/01/31 20:49:12 ET]
+Table '3970991975 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (535 in chips) 
+Seat 2: rebollov (530 in chips) 
+Seat 3: cogollitos23 (435 in chips) 
+cogollitos23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Ad]
+rebollov: calls 30
+cogollitos23: folds 
+mabeal1: raises 505 to 535 and is all-in
+rebollov: calls 500 and is all-in
+Uncalled bet (5) returned to mabeal1
+*** FLOP *** [9s 9c 4h]
+*** TURN *** [9s 9c 4h] [6s]
+*** RIVER *** [9s 9c 4h 6s] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [Qd Ad] (two pair, Nines and Fours)
+rebollov: shows [8s Jc] (two pair, Nines and Fours - lower kicker)
+mabeal1 collected 1075 from pot
+rebollov finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1075 | Rake 0 
+Board [9s 9c 4h 6s 4c]
+Seat 1: mabeal1 (big blind) showed [Qd Ad] and won (1075) with two pair, Nines and Fours
+Seat 2: rebollov (button) showed [8s Jc] and lost with two pair, Nines and Fours
+Seat 3: cogollitos23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259543267132: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:49:39 CET [2026/01/31 20:49:39 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1080 in chips) 
+Seat 3: cogollitos23 (420 in chips) 
+mabeal1: posts small blind 15
+cogollitos23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Ac]
+mabeal1: raises 1050 to 1080 and is all-in
+cogollitos23: folds 
+Uncalled bet (1050) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: cogollitos23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259543268565: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:49:49 CET [2026/01/31 20:49:49 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1110 in chips) 
+Seat 3: cogollitos23 (390 in chips) 
+cogollitos23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 7h]
+cogollitos23: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: cogollitos23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259543269332: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:49:54 CET [2026/01/31 20:49:54 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1125 in chips) 
+Seat 3: cogollitos23 (375 in chips) 
+mabeal1: posts small blind 15
+cogollitos23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 2d]
+mabeal1: calls 15
+cogollitos23: checks 
+*** FLOP *** [3s 9c Qc]
+cogollitos23: bets 30
+mabeal1: calls 30
+*** TURN *** [3s 9c Qc] [8h]
+cogollitos23: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to cogollitos23
+cogollitos23 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3s 9c Qc 8h]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: cogollitos23 (big blind) collected (120)
+
+
+
+PokerStars Hand #259543271373: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:50:07 CET [2026/01/31 20:50:07 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: cogollitos23 (435 in chips) 
+cogollitos23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7h]
+cogollitos23: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [4c Kc 5h]
+mabeal1: checks 
+cogollitos23: bets 30
+mabeal1: raises 120 to 150
+cogollitos23: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [4c Kc 5h]
+Seat 1: mabeal1 (big blind) collected (180)
+Seat 3: cogollitos23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259543273763: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 2:50:23 CET [2026/01/31 20:50:23 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1155 in chips) 
+Seat 3: cogollitos23 (345 in chips) 
+mabeal1: posts small blind 15
+cogollitos23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Jh]
+mabeal1: calls 15
+cogollitos23: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to cogollitos23
+cogollitos23 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: cogollitos23 (big blind) collected (60)
+
+
+
+PokerStars Hand #259543275991: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:50:38 CET [2026/01/31 20:50:38 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1125 in chips) 
+Seat 3: cogollitos23 (375 in chips) 
+cogollitos23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 7h]
+cogollitos23: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to cogollitos23
+cogollitos23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: cogollitos23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259543277766: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:50:50 CET [2026/01/31 20:50:50 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1085 in chips) 
+Seat 3: cogollitos23 (415 in chips) 
+mabeal1: posts small blind 20
+cogollitos23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2c]
+mabeal1: calls 20
+cogollitos23: checks 
+*** FLOP *** [7d Kh 2h]
+cogollitos23: bets 40
+mabeal1: calls 40
+*** TURN *** [7d Kh 2h] [8s]
+cogollitos23: bets 40
+mabeal1: calls 40
+*** RIVER *** [7d Kh 2h 8s] [8d]
+cogollitos23: bets 200
+mabeal1: calls 200
+*** SHOW DOWN ***
+cogollitos23: shows [Ks 8h] (a full house, Eights full of Kings)
+mabeal1: mucks hand 
+cogollitos23 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [7d Kh 2h 8s 8d]
+Seat 1: mabeal1 (button) (small blind) mucked [9c 2c]
+Seat 3: cogollitos23 (big blind) showed [Ks 8h] and won (640) with a full house, Eights full of Kings
+
+
+
+PokerStars Hand #259543280938: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:51:10 CET [2026/01/31 20:51:10 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (765 in chips) 
+Seat 3: cogollitos23 (735 in chips) 
+cogollitos23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 3h]
+cogollitos23: raises 695 to 735 and is all-in
+mabeal1: folds 
+Uncalled bet (695) returned to cogollitos23
+cogollitos23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: cogollitos23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259543282177: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:51:19 CET [2026/01/31 20:51:19 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (725 in chips) 
+Seat 3: cogollitos23 (775 in chips) 
+mabeal1: posts small blind 20
+cogollitos23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6d]
+mabeal1: calls 20
+cogollitos23: checks 
+*** FLOP *** [Kc 8c Tc]
+cogollitos23: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to cogollitos23
+cogollitos23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 8c Tc]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: cogollitos23 (big blind) collected (80)
+
+
+
+PokerStars Hand #259543283644: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:51:28 CET [2026/01/31 20:51:28 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (685 in chips) 
+Seat 3: cogollitos23 (815 in chips) 
+cogollitos23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Tc]
+cogollitos23: calls 20
+mabeal1: checks 
+*** FLOP *** [2s 4d 3c]
+mabeal1: checks 
+cogollitos23: bets 40
+mabeal1: raises 160 to 200
+cogollitos23: folds 
+Uncalled bet (160) returned to mabeal1
+mabeal1 collected 160 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [2s 4d 3c]
+Seat 1: mabeal1 (big blind) collected (160)
+Seat 3: cogollitos23 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259543286053: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:51:44 CET [2026/01/31 20:51:44 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (765 in chips) 
+Seat 3: cogollitos23 (735 in chips) 
+mabeal1: posts small blind 20
+cogollitos23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 3d]
+mabeal1: calls 20
+cogollitos23: checks 
+*** FLOP *** [Kc 4c 5s]
+cogollitos23: bets 40
+mabeal1: raises 280 to 320
+cogollitos23: raises 375 to 695 and is all-in
+mabeal1: folds 
+Uncalled bet (375) returned to cogollitos23
+cogollitos23 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [Kc 4c 5s]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: cogollitos23 (big blind) collected (720)
+
+
+
+PokerStars Hand #259543288832: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:52:02 CET [2026/01/31 20:52:02 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (405 in chips) 
+Seat 3: cogollitos23 (1095 in chips) 
+cogollitos23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 8c]
+cogollitos23: raises 40 to 80
+mabeal1: raises 325 to 405 and is all-in
+cogollitos23: calls 325
+*** FLOP *** [9s 8d Kh]
+*** TURN *** [9s 8d Kh] [6s]
+*** RIVER *** [9s 8d Kh 6s] [4h]
+*** SHOW DOWN ***
+mabeal1: shows [Ks 8c] (two pair, Kings and Eights)
+cogollitos23: shows [8s Kc] (two pair, Kings and Eights)
+mabeal1 collected 405 from pot
+cogollitos23 collected 405 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [9s 8d Kh 6s 4h]
+Seat 1: mabeal1 (big blind) showed [Ks 8c] and won (405) with two pair, Kings and Eights
+Seat 3: cogollitos23 (button) (small blind) showed [8s Kc] and won (405) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #259543290944: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:52:16 CET [2026/01/31 20:52:16 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (405 in chips) 
+Seat 3: cogollitos23 (1095 in chips) 
+mabeal1: posts small blind 20
+cogollitos23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ac]
+mabeal1: raises 365 to 405 and is all-in
+cogollitos23: calls 365
+*** FLOP *** [6s Kd 6h]
+*** TURN *** [6s Kd 6h] [4d]
+*** RIVER *** [6s Kd 6h 4d] [5h]
+*** SHOW DOWN ***
+cogollitos23: shows [Qh 8h] (a pair of Sixes)
+mabeal1: shows [Th Ac] (a pair of Sixes - Ace kicker)
+mabeal1 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [6s Kd 6h 4d 5h]
+Seat 1: mabeal1 (button) (small blind) showed [Th Ac] and won (810) with a pair of Sixes
+Seat 3: cogollitos23 (big blind) showed [Qh 8h] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #259543293202: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:52:30 CET [2026/01/31 20:52:30 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (810 in chips) 
+Seat 3: cogollitos23 (690 in chips) 
+cogollitos23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 8s]
+cogollitos23: raises 40 to 80
+mabeal1: folds 
+Uncalled bet (40) returned to cogollitos23
+cogollitos23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: cogollitos23 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259543294458: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:52:39 CET [2026/01/31 20:52:39 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (770 in chips) 
+Seat 3: cogollitos23 (730 in chips) 
+mabeal1: posts small blind 20
+cogollitos23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Kc]
+mabeal1: raises 40 to 80
+cogollitos23: raises 40 to 120
+mabeal1: calls 40
+*** FLOP *** [7d 3d Ks]
+cogollitos23: bets 80
+mabeal1: calls 80
+*** TURN *** [7d 3d Ks] [4s]
+cogollitos23: bets 80
+mabeal1: raises 490 to 570 and is all-in
+cogollitos23: calls 450 and is all-in
+Uncalled bet (40) returned to mabeal1
+*** RIVER *** [7d 3d Ks 4s] [Jc]
+*** SHOW DOWN ***
+cogollitos23: shows [Kh Jh] (two pair, Kings and Jacks)
+mabeal1: shows [8c Kc] (a pair of Kings)
+cogollitos23 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | Rake 0 
+Board [7d 3d Ks 4s Jc]
+Seat 1: mabeal1 (button) (small blind) showed [8c Kc] and lost with a pair of Kings
+Seat 3: cogollitos23 (big blind) showed [Kh Jh] and won (1460) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #259543297684: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:53:00 CET [2026/01/31 20:53:00 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (40 in chips) 
+Seat 3: cogollitos23 (1460 in chips) 
+cogollitos23: posts small blind 20
+mabeal1: posts big blind 40 and is all-in
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Qc]
+cogollitos23: calls 20
+*** FLOP *** [Jc Ah Jd]
+*** TURN *** [Jc Ah Jd] [Tc]
+*** RIVER *** [Jc Ah Jd Tc] [5s]
+*** SHOW DOWN ***
+mabeal1: shows [9d Qc] (a pair of Jacks)
+cogollitos23: shows [2d 7c] (a pair of Jacks - lower kicker)
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc Ah Jd Tc 5s]
+Seat 1: mabeal1 (big blind) showed [9d Qc] and won (80) with a pair of Jacks
+Seat 3: cogollitos23 (button) (small blind) showed [2d 7c] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259543299912: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:53:15 CET [2026/01/31 20:53:15 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (80 in chips) 
+Seat 3: cogollitos23 (1420 in chips) 
+mabeal1: posts small blind 20
+cogollitos23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h Jh]
+mabeal1: raises 40 to 80 and is all-in
+cogollitos23: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: cogollitos23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259543301004: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:53:22 CET [2026/01/31 20:53:22 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (120 in chips) 
+Seat 3: cogollitos23 (1380 in chips) 
+cogollitos23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 2d]
+cogollitos23: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: cogollitos23 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259543301715: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/01 2:53:27 CET [2026/01/31 20:53:27 ET]
+Table '3970991975 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (140 in chips) 
+Seat 3: cogollitos23 (1360 in chips) 
+mabeal1: posts small blind 20
+cogollitos23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Kd]
+mabeal1: raises 100 to 140 and is all-in
+cogollitos23: calls 100
+*** FLOP *** [8c Th Ac]
+*** TURN *** [8c Th Ac] [7h]
+*** RIVER *** [8c Th Ac 7h] [3h]
+*** SHOW DOWN ***
+cogollitos23: shows [Qh 8d] (a pair of Eights)
+mabeal1: shows [Ad Kd] (a pair of Aces)
+mabeal1 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [8c Th Ac 7h 3h]
+Seat 1: mabeal1 (button) (small blind) showed [Ad Kd] and won (280) with a pair of Aces
+Seat 3: cogollitos23 (big blind) showed [Qh 8d] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259543303956: Tournament #3970991975, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/01 2:53:42 CET [2026/01/31 20:53:42 ET]
+Table '3970991975 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (280 in chips) 
+Seat 3: cogollitos23 (1220 in chips) 
+cogollitos23: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 7c]
+cogollitos23: raises 60 to 120
+mabeal1: raises 160 to 280 and is all-in
+cogollitos23: calls 160
+*** FLOP *** [3s 3c 8d]
+*** TURN *** [3s 3c 8d] [8c]
+*** RIVER *** [3s 3c 8d 8c] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [9h 7c] (two pair, Eights and Threes)
+cogollitos23: shows [4h Jh] (two pair, Eights and Threes - Jack kicker)
+cogollitos23 collected 560 from pot
+mabeal1 finished the tournament in 2nd place
+cogollitos23 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [3s 3c 8d 8c 6h]
+Seat 1: mabeal1 (big blind) showed [9h 7c] and lost with two pair, Eights and Threes
+Seat 3: cogollitos23 (button) (small blind) showed [4h Jh] and won (560) with two pair, Eights and Threes
+
+
+

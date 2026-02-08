@@ -1,0 +1,452 @@
+﻿PokerStars Hand #259602637655: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:51:45 CET [2026/02/05 11:51:45 ET]
+Table '3972336842 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: ElmerGruñom (500 in chips) 
+Seat 3: frederico394 (500 in chips) 
+ElmerGruñom: posts small blind 10
+frederico394: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 2h]
+mabeal1: folds 
+ElmerGruñom: raises 30 to 50
+frederico394: calls 30
+*** FLOP *** [Kh Kd Jh]
+ElmerGruñom: bets 33
+frederico394: folds 
+Uncalled bet (33) returned to ElmerGruñom
+ElmerGruñom collected 100 from pot
+ElmerGruñom: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Kh Kd Jh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: ElmerGruñom (small blind) collected (100)
+Seat 3: frederico394 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259602642169: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:52:09 CET [2026/02/05 11:52:09 ET]
+Table '3972336842 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: ElmerGruñom (550 in chips) 
+Seat 3: frederico394 (450 in chips) 
+frederico394: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 6c]
+ElmerGruñom: raises 20 to 40
+frederico394: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to ElmerGruñom
+ElmerGruñom collected 50 from pot
+ElmerGruñom: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: ElmerGruñom (button) collected (50)
+Seat 3: frederico394 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602643861: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:52:18 CET [2026/02/05 11:52:18 ET]
+Table '3972336842 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: ElmerGruñom (580 in chips) 
+Seat 3: frederico394 (440 in chips) 
+mabeal1: posts small blind 10
+ElmerGruñom: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Qs]
+frederico394: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to ElmerGruñom
+ElmerGruñom collected 20 from pot
+ElmerGruñom: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: ElmerGruñom (big blind) collected (20)
+Seat 3: frederico394 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259602645143: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:52:25 CET [2026/02/05 11:52:25 ET]
+Table '3972336842 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: ElmerGruñom (590 in chips) 
+Seat 3: frederico394 (440 in chips) 
+ElmerGruñom: posts small blind 10
+frederico394: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 2h]
+mabeal1: folds 
+ElmerGruñom: raises 40 to 60
+frederico394: calls 40
+*** FLOP *** [8d 7s Tc]
+ElmerGruñom: bets 40
+frederico394: raises 200 to 240
+ElmerGruñom: folds 
+Uncalled bet (200) returned to frederico394
+frederico394 collected 200 from pot
+frederico394: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [8d 7s Tc]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: ElmerGruñom (small blind) folded on the Flop
+Seat 3: frederico394 (big blind) collected (200)
+
+
+
+PokerStars Hand #259602649547: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:52:48 CET [2026/02/05 11:52:48 ET]
+Table '3972336842 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (470 in chips) 
+Seat 2: ElmerGruñom (490 in chips) 
+Seat 3: frederico394 (540 in chips) 
+frederico394: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 7d]
+ElmerGruñom: folds 
+frederico394: calls 10
+mabeal1: checks 
+*** FLOP *** [3c Tc Js]
+frederico394: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to frederico394
+frederico394 collected 40 from pot
+frederico394: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c Tc Js]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: ElmerGruñom (button) folded before Flop (didn't bet)
+Seat 3: frederico394 (small blind) collected (40)
+
+
+
+PokerStars Hand #259602654271: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:53:13 CET [2026/02/05 11:53:13 ET]
+Table '3972336842 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (450 in chips) 
+Seat 2: ElmerGruñom (490 in chips) 
+Seat 3: frederico394 (560 in chips) 
+mabeal1: posts small blind 10
+ElmerGruñom: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 6h]
+frederico394: calls 20
+mabeal1: folds 
+ElmerGruñom: checks 
+*** FLOP *** [9c 2c Qd]
+ElmerGruñom: checks 
+frederico394: bets 50
+ElmerGruñom: calls 50
+*** TURN *** [9c 2c Qd] [Tc]
+ElmerGruñom: checks 
+frederico394: bets 150
+ElmerGruñom: raises 270 to 420 and is all-in
+frederico394: calls 270
+*** RIVER *** [9c 2c Qd Tc] [Qs]
+*** SHOW DOWN ***
+ElmerGruñom: shows [Qc Th] (a full house, Queens full of Tens)
+frederico394: shows [9d Ts] (two pair, Queens and Tens)
+ElmerGruñom collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [9c 2c Qd Tc Qs]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: ElmerGruñom (big blind) showed [Qc Th] and won (990) with a full house, Queens full of Tens
+Seat 3: frederico394 (button) showed [9d Ts] and lost with two pair, Queens and Tens
+
+
+
+PokerStars Hand #259602659146: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 17:53:39 CET [2026/02/05 11:53:39 ET]
+Table '3972336842 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: ElmerGruñom (990 in chips) 
+Seat 3: frederico394 (70 in chips) 
+ElmerGruñom: posts small blind 10
+frederico394: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 7s]
+mabeal1: raises 20 to 40
+ElmerGruñom: folds 
+frederico394: calls 20
+*** FLOP *** [3c Qc Jc]
+frederico394: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to frederico394
+frederico394 collected 90 from pot
+frederico394: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [3c Qc Jc]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: ElmerGruñom (small blind) folded before Flop
+Seat 3: frederico394 (big blind) collected (90)
+
+
+
+PokerStars Hand #259602662673: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:53:57 CET [2026/02/05 11:53:57 ET]
+Table '3972336842 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: ElmerGruñom (980 in chips) 
+Seat 3: frederico394 (120 in chips) 
+frederico394: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 8h]
+ElmerGruñom: folds 
+frederico394: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: ElmerGruñom (button) folded before Flop (didn't bet)
+Seat 3: frederico394 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602663748: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:54:03 CET [2026/02/05 11:54:03 ET]
+Table '3972336842 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (415 in chips) 
+Seat 2: ElmerGruñom (980 in chips) 
+Seat 3: frederico394 (105 in chips) 
+mabeal1: posts small blind 15
+ElmerGruñom: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 9s]
+frederico394: raises 75 to 105 and is all-in
+mabeal1: folds 
+ElmerGruñom: calls 75
+*** FLOP *** [9d 4d 2s]
+*** TURN *** [9d 4d 2s] [Kh]
+*** RIVER *** [9d 4d 2s Kh] [3d]
+*** SHOW DOWN ***
+ElmerGruñom: shows [6c Ah] (high card Ace)
+frederico394: shows [Qs 8c] (high card King)
+ElmerGruñom collected 225 from pot
+frederico394 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [9d 4d 2s Kh 3d]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: ElmerGruñom (big blind) showed [6c Ah] and won (225) with high card Ace
+Seat 3: frederico394 (button) showed [Qs 8c] and lost with high card King
+
+
+
+PokerStars Hand #259602667213: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:54:21 CET [2026/02/05 11:54:21 ET]
+Table '3972336842 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (400 in chips) 
+Seat 2: ElmerGruñom (1100 in chips) 
+ElmerGruñom: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 3s]
+ElmerGruñom: calls 15
+mabeal1: checks 
+*** FLOP *** [8h 2d 7h]
+mabeal1: checks 
+ElmerGruñom: bets 30
+mabeal1: calls 30
+*** TURN *** [8h 2d 7h] [As]
+mabeal1: checks 
+ElmerGruñom: bets 90
+mabeal1: calls 90
+*** RIVER *** [8h 2d 7h As] [Ks]
+mabeal1: checks 
+ElmerGruñom: bets 950 and is all-in
+mabeal1: calls 250 and is all-in
+Uncalled bet (700) returned to ElmerGruñom
+*** SHOW DOWN ***
+ElmerGruñom: shows [Qh 6h] (high card Ace)
+mabeal1: shows [7s 3s] (a pair of Sevens)
+mabeal1 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [8h 2d 7h As Ks]
+Seat 1: mabeal1 (big blind) showed [7s 3s] and won (800) with a pair of Sevens
+Seat 2: ElmerGruñom (button) (small blind) showed [Qh 6h] and lost with high card Ace
+
+
+
+PokerStars Hand #259602673069: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:54:52 CET [2026/02/05 11:54:52 ET]
+Table '3972336842 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (800 in chips) 
+Seat 2: ElmerGruñom (700 in chips) 
+mabeal1: posts small blind 15
+ElmerGruñom: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 6d]
+mabeal1: folds 
+Uncalled bet (15) returned to ElmerGruñom
+ElmerGruñom collected 30 from pot
+ElmerGruñom: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: ElmerGruñom (big blind) collected (30)
+
+
+
+PokerStars Hand #259602674660: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:55:01 CET [2026/02/05 11:55:01 ET]
+Table '3972336842 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (785 in chips) 
+Seat 2: ElmerGruñom (715 in chips) 
+ElmerGruñom: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Td]
+ElmerGruñom: calls 15
+mabeal1: raises 60 to 90
+ElmerGruñom: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: ElmerGruñom (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259602677496: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:55:18 CET [2026/02/05 11:55:18 ET]
+Table '3972336842 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (815 in chips) 
+Seat 2: ElmerGruñom (685 in chips) 
+mabeal1: posts small blind 15
+ElmerGruñom: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qd]
+mabeal1: calls 15
+ElmerGruñom: checks 
+*** FLOP *** [3s Kh Qs]
+ElmerGruñom: checks 
+mabeal1: bets 30
+ElmerGruñom: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s Kh Qs]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 2: ElmerGruñom (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259602679797: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:55:34 CET [2026/02/05 11:55:34 ET]
+Table '3972336842 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (845 in chips) 
+Seat 2: ElmerGruñom (655 in chips) 
+ElmerGruñom: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 9c]
+ElmerGruñom: raises 30 to 60
+mabeal1: folds 
+Uncalled bet (30) returned to ElmerGruñom
+ElmerGruñom collected 60 from pot
+ElmerGruñom: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: ElmerGruñom (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259602680935: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/05 17:55:42 CET [2026/02/05 11:55:42 ET]
+Table '3972336842 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (815 in chips) 
+Seat 2: ElmerGruñom (685 in chips) 
+mabeal1: posts small blind 15
+ElmerGruñom: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 8s]
+mabeal1: calls 15
+ElmerGruñom: checks 
+*** FLOP *** [6c 4c Ks]
+ElmerGruñom: checks 
+mabeal1: checks 
+*** TURN *** [6c 4c Ks] [6d]
+ElmerGruñom: checks 
+mabeal1: checks 
+*** RIVER *** [6c 4c Ks 6d] [3d]
+ElmerGruñom: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+ElmerGruñom: shows [5c 4d] (two pair, Sixes and Fours)
+mabeal1: mucks hand 
+ElmerGruñom collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6c 4c Ks 6d 3d]
+Seat 1: mabeal1 (button) (small blind) mucked [Tc 8s]
+Seat 2: ElmerGruñom (big blind) showed [5c 4d] and won (60) with two pair, Sixes and Fours
+
+
+
+PokerStars Hand #259602685220: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 17:56:12 CET [2026/02/05 11:56:12 ET]
+Table '3972336842 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (785 in chips) 
+Seat 2: ElmerGruñom (715 in chips) 
+ElmerGruñom: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 2s]
+ElmerGruñom: calls 20
+mabeal1: checks 
+*** FLOP *** [3h 5c 2d]
+mabeal1: checks 
+ElmerGruñom: bets 40
+mabeal1: calls 40
+*** TURN *** [3h 5c 2d] [Qh]
+mabeal1: checks 
+ElmerGruñom: bets 120
+mabeal1: calls 120
+*** RIVER *** [3h 5c 2d Qh] [Ts]
+mabeal1: checks 
+ElmerGruñom: bets 515 and is all-in
+mabeal1: calls 515
+*** SHOW DOWN ***
+ElmerGruñom: shows [Tc 5h] (two pair, Tens and Fives)
+mabeal1: shows [7s 2s] (a pair of Deuces)
+ElmerGruñom collected 1430 from pot
+*** SUMMARY ***
+Total pot 1430 | Rake 0 
+Board [3h 5c 2d Qh Ts]
+Seat 1: mabeal1 (big blind) showed [7s 2s] and lost with a pair of Deuces
+Seat 2: ElmerGruñom (button) (small blind) showed [Tc 5h] and won (1430) with two pair, Tens and Fives
+
+
+
+PokerStars Hand #259602690902: Tournament #3972336842, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/05 17:56:51 CET [2026/02/05 11:56:51 ET]
+Table '3972336842 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (70 in chips) 
+Seat 2: ElmerGruñom (1430 in chips) 
+mabeal1: posts small blind 20
+ElmerGruñom: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ts]
+mabeal1: raises 30 to 70 and is all-in
+ElmerGruñom: calls 30
+*** FLOP *** [Jh 2c 4h]
+*** TURN *** [Jh 2c 4h] [Ah]
+*** RIVER *** [Jh 2c 4h Ah] [Ad]
+*** SHOW DOWN ***
+ElmerGruñom: shows [9s 4s] (two pair, Aces and Fours)
+mabeal1: shows [Ks Ts] (a pair of Aces)
+ElmerGruñom collected 140 from pot
+mabeal1 finished the tournament in 2nd place
+ElmerGruñom wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Jh 2c 4h Ah Ad]
+Seat 1: mabeal1 (button) (small blind) showed [Ks Ts] and lost with a pair of Aces
+Seat 2: ElmerGruñom (big blind) showed [9s 4s] and won (140) with two pair, Aces and Fours
+
+
+

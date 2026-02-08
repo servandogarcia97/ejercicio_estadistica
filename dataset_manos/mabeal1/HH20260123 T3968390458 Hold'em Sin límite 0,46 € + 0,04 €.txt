@@ -1,0 +1,279 @@
+﻿PokerStars Hand #259429313474: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:43:20 CET [2026/01/23 11:43:20 ET]
+Table '3968390458 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: cage6443 (500 in chips) 
+mabeal1: posts small blind 10
+cage6443: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 9c]
+Nax0: folds 
+mabeal1: raises 20 to 40
+cage6443: calls 20
+*** FLOP *** [4c Js 5c]
+mabeal1: bets 30
+cage6443: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4c Js 5c]
+Seat 1: Nax0 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (80)
+Seat 3: cage6443 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259429317022: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:43:39 CET [2026/01/23 11:43:39 ET]
+Table '3968390458 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (500 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: cage6443 (460 in chips) 
+cage6443: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ad]
+mabeal1: raises 520 to 540 and is all-in
+cage6443: folds 
+Nax0: folds 
+Uncalled bet (520) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Nax0 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: cage6443 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259429319343: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:43:51 CET [2026/01/23 11:43:51 ET]
+Table '3968390458 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (480 in chips) 
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: cage6443 (450 in chips) 
+Nax0: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Qs]
+cage6443: folds 
+Nax0: calls 10
+mabeal1: checks 
+*** FLOP *** [9h Kd Kc]
+Nax0: checks 
+mabeal1: checks 
+*** TURN *** [9h Kd Kc] [Qh]
+Nax0: checks 
+mabeal1: bets 20
+Nax0: raises 60 to 80
+mabeal1: calls 60
+*** RIVER *** [9h Kd Kc Qh] [Tc]
+Nax0: bets 150
+mabeal1: calls 150
+*** SHOW DOWN ***
+Nax0: shows [Ks 4d] (three of a kind, Kings)
+mabeal1: mucks hand 
+Nax0 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [9h Kd Kc Qh Tc]
+Seat 1: Nax0 (small blind) showed [Ks 4d] and won (500) with three of a kind, Kings
+Seat 2: mabeal1 (big blind) mucked [5d Qs]
+Seat 3: cage6443 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259429323249: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:44:12 CET [2026/01/23 11:44:12 ET]
+Table '3968390458 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (730 in chips) 
+Seat 2: mabeal1 (320 in chips) 
+Seat 3: cage6443 (450 in chips) 
+mabeal1: posts small blind 10
+cage6443: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts Ah]
+Nax0: raises 20 to 40
+mabeal1: raises 280 to 320 and is all-in
+cage6443: folds 
+Nax0: folds 
+Uncalled bet (280) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Nax0 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (100)
+Seat 3: cage6443 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259429325108: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:44:22 CET [2026/01/23 11:44:22 ET]
+Table '3968390458 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (690 in chips) 
+Seat 2: mabeal1 (380 in chips) 
+Seat 3: cage6443 (430 in chips) 
+cage6443: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Jc]
+mabeal1: raises 20 to 40
+cage6443: folds 
+Nax0: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Nax0 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: cage6443 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259429326711: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:44:31 CET [2026/01/23 11:44:31 ET]
+Table '3968390458 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (670 in chips) 
+Seat 2: mabeal1 (410 in chips) 
+Seat 3: cage6443 (420 in chips) 
+Nax0: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Jd]
+cage6443: folds 
+Nax0: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Nax0 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: cage6443 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259429327911: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:44:37 CET [2026/01/23 11:44:37 ET]
+Table '3968390458 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (660 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: cage6443 (420 in chips) 
+mabeal1: posts small blind 10
+cage6443: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc As]
+Nax0: raises 20 to 40
+mabeal1: raises 380 to 420 and is all-in
+cage6443: folds 
+Nax0: folds 
+Uncalled bet (380) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Nax0 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (100)
+Seat 3: cage6443 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259429330129: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:44:49 CET [2026/01/23 11:44:49 ET]
+Table '3968390458 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (620 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: cage6443 (400 in chips) 
+cage6443: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Jc]
+mabeal1: raises 20 to 40
+cage6443: folds 
+Nax0: raises 90 to 130
+mabeal1: folds 
+Uncalled bet (90) returned to Nax0
+Nax0 collected 90 from pot
+Nax0: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Nax0 (big blind) collected (90)
+Seat 2: mabeal1 (button) folded before Flop
+Seat 3: cage6443 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259429333703: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:45:08 CET [2026/01/23 11:45:08 ET]
+Table '3968390458 1' 3-max Seat #3 is the button
+Seat 1: Nax0 (670 in chips) 
+Seat 2: mabeal1 (440 in chips) 
+Seat 3: cage6443 (390 in chips) 
+Nax0: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 4h]
+cage6443: raises 40 to 60
+Nax0: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to cage6443
+cage6443 collected 50 from pot
+cage6443: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Nax0 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: cage6443 (button) collected (50)
+
+
+
+PokerStars Hand #259429336196: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:45:21 CET [2026/01/23 11:45:21 ET]
+Table '3968390458 1' 3-max Seat #1 is the button
+Seat 1: Nax0 (660 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+Seat 3: cage6443 (420 in chips) 
+mabeal1: posts small blind 10
+cage6443: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Td]
+Nax0: raises 20 to 40
+mabeal1: raises 380 to 420 and is all-in
+cage6443: folds 
+Nax0: folds 
+Uncalled bet (380) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Nax0 (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (100)
+Seat 3: cage6443 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259429340723: Tournament #3968390458, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:45:45 CET [2026/01/23 11:45:45 ET]
+Table '3968390458 1' 3-max Seat #2 is the button
+Seat 1: Nax0 (620 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: cage6443 (400 in chips) 
+cage6443: posts small blind 10
+Nax0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 3s]
+mabeal1: raises 460 to 480 and is all-in
+cage6443: folds 
+Nax0: calls 460
+*** FLOP *** [Qs Kh Qd]
+*** TURN *** [Qs Kh Qd] [Jh]
+*** RIVER *** [Qs Kh Qd Jh] [7s]
+*** SHOW DOWN ***
+Nax0: shows [9h 9c] (two pair, Queens and Nines)
+mabeal1: shows [3c 3s] (two pair, Queens and Threes)
+Nax0 collected 970 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [Qs Kh Qd Jh 7s]
+Seat 1: Nax0 (big blind) showed [9h 9c] and won (970) with two pair, Queens and Nines
+Seat 2: mabeal1 (button) showed [3c 3s] and lost with two pair, Queens and Threes
+Seat 3: cage6443 (small blind) folded before Flop
+
+
+

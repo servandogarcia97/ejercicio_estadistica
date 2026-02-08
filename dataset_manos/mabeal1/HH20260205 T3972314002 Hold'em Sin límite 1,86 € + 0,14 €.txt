@@ -1,0 +1,138 @@
+﻿PokerStars Hand #259601689256: Tournament #3972314002, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:20:18 CET [2026/02/05 10:20:18 ET]
+Table '3972314002 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: GetluckyLana (500 in chips) 
+Seat 3: manmarc500 (500 in chips) 
+GetluckyLana: posts small blind 10
+manmarc500: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 9h]
+mabeal1: raises 20 to 40
+GetluckyLana: folds 
+manmarc500: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (button) collected (50)
+Seat 2: GetluckyLana (small blind) folded before Flop
+Seat 3: manmarc500 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259601691714: Tournament #3972314002, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:20:33 CET [2026/02/05 10:20:33 ET]
+Table '3972314002 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: GetluckyLana (490 in chips) 
+Seat 3: manmarc500 (480 in chips) 
+manmarc500: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2h]
+GetluckyLana: folds 
+manmarc500: calls 10
+mabeal1: checks 
+*** FLOP *** [2d 8h 5s]
+manmarc500: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to manmarc500
+manmarc500 collected 40 from pot
+manmarc500: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d 8h 5s]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: GetluckyLana (button) folded before Flop (didn't bet)
+Seat 3: manmarc500 (small blind) collected (40)
+
+
+
+PokerStars Hand #259601694170: Tournament #3972314002, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:20:47 CET [2026/02/05 10:20:47 ET]
+Table '3972314002 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: GetluckyLana (490 in chips) 
+Seat 3: manmarc500 (500 in chips) 
+mabeal1: posts small blind 10
+GetluckyLana: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 3h]
+manmarc500: raises 20 to 40
+mabeal1: raises 470 to 510 and is all-in
+GetluckyLana: folds 
+manmarc500: calls 460 and is all-in
+Uncalled bet (10) returned to mabeal1
+*** FLOP *** [Qh Td 9d]
+*** TURN *** [Qh Td 9d] [6h]
+*** RIVER *** [Qh Td 9d 6h] [8c]
+*** SHOW DOWN ***
+mabeal1: shows [3s 3h] (a pair of Threes)
+manmarc500: shows [Ad Ah] (a pair of Aces)
+manmarc500 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Qh Td 9d 6h 8c]
+Seat 1: mabeal1 (small blind) showed [3s 3h] and lost with a pair of Threes
+Seat 2: GetluckyLana (big blind) folded before Flop
+Seat 3: manmarc500 (button) showed [Ad Ah] and won (1020) with a pair of Aces
+
+
+
+PokerStars Hand #259601698334: Tournament #3972314002, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:21:12 CET [2026/02/05 10:21:12 ET]
+Table '3972314002 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (10 in chips) 
+Seat 2: GetluckyLana (470 in chips) 
+Seat 3: manmarc500 (1020 in chips) 
+GetluckyLana: posts small blind 10
+manmarc500: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Jh]
+mabeal1: calls 10 and is all-in
+GetluckyLana: folds 
+Uncalled bet (10) returned to manmarc500
+*** FLOP *** [Kc 3c 8h]
+*** TURN *** [Kc 3c 8h] [2s]
+*** RIVER *** [Kc 3c 8h 2s] [7d]
+*** SHOW DOWN ***
+manmarc500: shows [5c Js] (high card King)
+mabeal1: shows [9d Jh] (high card King - Jack+Nine kicker)
+mabeal1 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Board [Kc 3c 8h 2s 7d]
+Seat 1: mabeal1 (button) showed [9d Jh] and won (30) with high card King
+Seat 2: GetluckyLana (small blind) folded before Flop
+Seat 3: manmarc500 (big blind) showed [5c Js] and lost with high card King
+
+
+
+PokerStars Hand #259601700958: Tournament #3972314002, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:21:27 CET [2026/02/05 10:21:27 ET]
+Table '3972314002 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (30 in chips) 
+Seat 2: GetluckyLana (460 in chips) 
+Seat 3: manmarc500 (1010 in chips) 
+manmarc500: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 8h]
+GetluckyLana: folds 
+manmarc500: raises 20 to 40
+mabeal1: calls 10 and is all-in
+Uncalled bet (10) returned to manmarc500
+*** FLOP *** [5h Jd 9s]
+*** TURN *** [5h Jd 9s] [Ks]
+*** RIVER *** [5h Jd 9s Ks] [2d]
+*** SHOW DOWN ***
+manmarc500: shows [Qc 9c] (a pair of Nines)
+mabeal1: shows [Qh 8h] (high card King)
+manmarc500 collected 60 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5h Jd 9s Ks 2d]
+Seat 1: mabeal1 (big blind) showed [Qh 8h] and lost with high card King
+Seat 2: GetluckyLana (button) folded before Flop (didn't bet)
+Seat 3: manmarc500 (small blind) showed [Qc 9c] and won (60) with a pair of Nines
+
+
+

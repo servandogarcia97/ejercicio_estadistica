@@ -1,0 +1,502 @@
+﻿PokerStars Hand #259540026475: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:29:30 CET [2026/01/31 16:29:30 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: pedrofer97 (500 in chips) 
+mabeal1: posts small blind 10
+pedrofer97: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Qh]
+pokerion46: folds 
+mabeal1: raises 40 to 60
+pedrofer97: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pokerion46 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) collected (40)
+Seat 3: pedrofer97 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259540030024: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:29:44 CET [2026/01/31 16:29:44 ET]
+Table '3970918075 1' 3-max Seat #2 is the button
+Seat 1: pokerion46 (500 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+Seat 3: pedrofer97 (480 in chips) 
+pedrofer97: posts small blind 10
+pokerion46: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 4s]
+mabeal1: folds 
+pedrofer97: raises 30 to 50
+pokerion46: calls 30
+*** FLOP *** [3c Kh 9h]
+pedrofer97: bets 33
+pokerion46: calls 33
+*** TURN *** [3c Kh 9h] [Qc]
+pedrofer97: bets 80
+pokerion46: calls 80
+*** RIVER *** [3c Kh 9h Qc] [3d]
+pedrofer97: bets 317 and is all-in
+pokerion46: calls 317
+*** SHOW DOWN ***
+pedrofer97: shows [6h 5h] (a pair of Threes)
+pokerion46: shows [Kd 9s] (two pair, Kings and Nines)
+pokerion46 collected 960 from pot
+pedrofer97 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [3c Kh 9h Qc 3d]
+Seat 1: pokerion46 (big blind) showed [Kd 9s] and won (960) with two pair, Kings and Nines
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: pedrofer97 (small blind) showed [6h 5h] and lost with a pair of Threes
+
+
+
+PokerStars Hand #259540039225: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:30:20 CET [2026/01/31 16:30:20 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (980 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+pokerion46: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 7d]
+pokerion46: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to pokerion46
+pokerion46 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pokerion46 (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259540042601: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:30:34 CET [2026/01/31 16:30:34 ET]
+Table '3970918075 1' 3-max Seat #2 is the button
+Seat 1: pokerion46 (1000 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+mabeal1: posts small blind 10
+pokerion46: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2d]
+mabeal1: calls 10
+pokerion46: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to pokerion46
+pokerion46 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pokerion46 (big blind) collected (40)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259540044907: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:30:43 CET [2026/01/31 16:30:43 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (1020 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+pokerion46: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 7d]
+pokerion46: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Jd 9s Qs]
+mabeal1: checks 
+pokerion46: bets 40
+mabeal1: calls 40
+*** TURN *** [Jd 9s Qs] [7c]
+mabeal1: checks 
+pokerion46: checks 
+*** RIVER *** [Jd 9s Qs 7c] [9d]
+mabeal1: checks 
+pokerion46: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Jh 7d] (two pair, Jacks and Nines)
+pokerion46: mucks hand 
+mabeal1 collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jd 9s Qs 7c 9d]
+Seat 1: pokerion46 (button) (small blind) mucked [Ah 6h]
+Seat 2: mabeal1 (big blind) showed [Jh 7d] and won (160) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #259540050944: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:31:06 CET [2026/01/31 16:31:06 ET]
+Table '3970918075 1' 3-max Seat #2 is the button
+Seat 1: pokerion46 (940 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+mabeal1: posts small blind 10
+pokerion46: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ac]
+mabeal1: raises 20 to 40
+pokerion46: calls 20
+*** FLOP *** [3d Kc 4c]
+pokerion46: checks 
+mabeal1: bets 40
+pokerion46: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3d Kc 4c]
+Seat 1: pokerion46 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259540055383: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:31:23 CET [2026/01/31 16:31:23 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (900 in chips) 
+Seat 2: mabeal1 (600 in chips) 
+pokerion46: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8d]
+pokerion46: calls 10
+mabeal1: checks 
+*** FLOP *** [3h Js As]
+mabeal1: checks 
+pokerion46: checks 
+*** TURN *** [3h Js As] [6d]
+mabeal1: checks 
+pokerion46: checks 
+*** RIVER *** [3h Js As 6d] [9s]
+mabeal1: checks 
+pokerion46: checks 
+*** SHOW DOWN ***
+mabeal1: shows [2c 8d] (high card Ace)
+pokerion46: mucks hand 
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3h Js As 6d 9s]
+Seat 1: pokerion46 (button) (small blind) mucked [7c 2s]
+Seat 2: mabeal1 (big blind) showed [2c 8d] and won (40) with high card Ace
+
+
+
+PokerStars Hand #259540060510: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:31:43 CET [2026/01/31 16:31:43 ET]
+Table '3970918075 1' 3-max Seat #2 is the button
+Seat 1: pokerion46 (880 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+mabeal1: posts small blind 15
+pokerion46: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d Jh]
+mabeal1: calls 15
+pokerion46: checks 
+*** FLOP *** [4c 2h As]
+pokerion46: checks 
+mabeal1: checks 
+*** TURN *** [4c 2h As] [Qs]
+pokerion46: checks 
+mabeal1: checks 
+*** RIVER *** [4c 2h As Qs] [6c]
+pokerion46: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+pokerion46: shows [Jc Ts] (high card Ace)
+mabeal1: shows [2d Jh] (a pair of Deuces)
+mabeal1 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c 2h As Qs 6c]
+Seat 1: pokerion46 (big blind) showed [Jc Ts] and lost with high card Ace
+Seat 2: mabeal1 (button) (small blind) showed [2d Jh] and won (60) with a pair of Deuces
+
+
+
+PokerStars Hand #259540065978: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:32:04 CET [2026/01/31 16:32:04 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (850 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+pokerion46: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Js]
+pokerion46: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [Qd 9c 9s]
+mabeal1: checks 
+pokerion46: checks 
+*** TURN *** [Qd 9c 9s] [Ah]
+mabeal1: checks 
+pokerion46: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to pokerion46
+pokerion46 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd 9c 9s Ah]
+Seat 1: pokerion46 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259540074040: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:32:36 CET [2026/01/31 16:32:36 ET]
+Table '3970918075 1' 3-max Seat #2 is the button
+Seat 1: pokerion46 (910 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+mabeal1: posts small blind 15
+pokerion46: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 6s]
+mabeal1: calls 15
+pokerion46: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to pokerion46
+pokerion46 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pokerion46 (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259540077505: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:32:50 CET [2026/01/31 16:32:50 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (940 in chips) 
+Seat 2: mabeal1 (560 in chips) 
+pokerion46: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 5d]
+pokerion46: calls 15
+mabeal1: checks 
+*** FLOP *** [Ts 3s 4h]
+mabeal1: checks 
+pokerion46: checks 
+*** TURN *** [Ts 3s 4h] [7h]
+mabeal1: bets 30
+pokerion46: calls 30
+*** RIVER *** [Ts 3s 4h 7h] [7s]
+mabeal1: checks 
+pokerion46: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to pokerion46
+pokerion46 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts 3s 4h 7h 7s]
+Seat 1: pokerion46 (button) (small blind) collected (120)
+Seat 2: mabeal1 (big blind) folded on the River
+
+
+
+PokerStars Hand #259540083657: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 22:33:14 CET [2026/01/31 16:33:14 ET]
+Table '3970918075 1' 3-max Seat #2 is the button
+Seat 1: pokerion46 (1000 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+mabeal1: posts small blind 15
+pokerion46: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 2s]
+mabeal1: calls 15
+pokerion46: raises 30 to 60
+mabeal1: calls 30
+*** FLOP *** [3c 7s 2h]
+pokerion46: bets 60
+mabeal1: calls 60
+*** TURN *** [3c 7s 2h] [Kh]
+pokerion46: checks 
+mabeal1: checks 
+*** RIVER *** [3c 7s 2h Kh] [3h]
+pokerion46: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+pokerion46: shows [5d Ah] (a pair of Threes)
+mabeal1: shows [Js 2s] (two pair, Threes and Deuces)
+mabeal1 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3c 7s 2h Kh 3h]
+Seat 1: pokerion46 (big blind) showed [5d Ah] and lost with a pair of Threes
+Seat 2: mabeal1 (button) (small blind) showed [Js 2s] and won (240) with two pair, Threes and Deuces
+
+
+
+PokerStars Hand #259540094332: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:33:55 CET [2026/01/31 16:33:55 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (880 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+pokerion46: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Kh]
+pokerion46: calls 20
+mabeal1: raises 120 to 160
+pokerion46: calls 120
+*** FLOP *** [Qd As 7h]
+mabeal1: bets 160
+pokerion46: calls 160
+*** TURN *** [Qd As 7h] [6c]
+mabeal1: checks 
+pokerion46: checks 
+*** RIVER *** [Qd As 7h 6c] [9h]
+mabeal1: checks 
+pokerion46: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Jh Kh] (high card Ace)
+pokerion46: shows [Jc Qc] (a pair of Queens)
+pokerion46 collected 640 from pot
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Board [Qd As 7h 6c 9h]
+Seat 1: pokerion46 (button) (small blind) showed [Jc Qc] and won (640) with a pair of Queens
+Seat 2: mabeal1 (big blind) showed [Jh Kh] and lost with high card Ace
+
+
+
+PokerStars Hand #259540103160: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:34:30 CET [2026/01/31 16:34:30 ET]
+Table '3970918075 1' 3-max Seat #2 is the button
+Seat 1: pokerion46 (1200 in chips) 
+Seat 2: mabeal1 (300 in chips) 
+mabeal1: posts small blind 20
+pokerion46: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 8d]
+mabeal1: raises 260 to 300 and is all-in
+pokerion46: folds 
+Uncalled bet (260) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: pokerion46 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259540105143: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:34:38 CET [2026/01/31 16:34:38 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (1160 in chips) 
+Seat 2: mabeal1 (340 in chips) 
+pokerion46: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 4h]
+pokerion46: calls 20
+mabeal1: raises 300 to 340 and is all-in
+pokerion46: folds 
+Uncalled bet (300) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: pokerion46 (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259540108042: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:34:49 CET [2026/01/31 16:34:49 ET]
+Table '3970918075 1' 3-max Seat #2 is the button
+Seat 1: pokerion46 (1120 in chips) 
+Seat 2: mabeal1 (380 in chips) 
+mabeal1: posts small blind 20
+pokerion46: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh Ah]
+mabeal1: raises 340 to 380 and is all-in
+pokerion46: folds 
+Uncalled bet (340) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: pokerion46 (big blind) folded before Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259540110288: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:34:58 CET [2026/01/31 16:34:58 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (1080 in chips) 
+Seat 2: mabeal1 (420 in chips) 
+pokerion46: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2d]
+pokerion46: calls 20
+mabeal1: checks 
+*** FLOP *** [As 2c 5c]
+mabeal1: checks 
+pokerion46: checks 
+*** TURN *** [As 2c 5c] [4d]
+mabeal1: checks 
+pokerion46: checks 
+*** RIVER *** [As 2c 5c 4d] [5d]
+mabeal1: checks 
+pokerion46: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Jc 2d] (two pair, Fives and Deuces)
+pokerion46: mucks hand 
+mabeal1 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 2c 5c 4d 5d]
+Seat 1: pokerion46 (button) (small blind) mucked [Qs 8h]
+Seat 2: mabeal1 (big blind) showed [Jc 2d] and won (80) with two pair, Fives and Deuces
+
+
+
+PokerStars Hand #259540118599: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 22:35:30 CET [2026/01/31 16:35:30 ET]
+Table '3970918075 1' 3-max Seat #2 is the button
+Seat 1: pokerion46 (1040 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+mabeal1: posts small blind 20
+pokerion46: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 8h]
+mabeal1: calls 20
+pokerion46: checks 
+*** FLOP *** [4h 2c 5d]
+pokerion46: checks 
+mabeal1: bets 40
+pokerion46: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h 2c 5d]
+Seat 1: pokerion46 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259540122847: Tournament #3970918075, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/01/31 22:35:47 CET [2026/01/31 16:35:47 ET]
+Table '3970918075 1' 3-max Seat #1 is the button
+Seat 1: pokerion46 (1000 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+pokerion46: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Ad]
+pokerion46: raises 120 to 180
+mabeal1: raises 320 to 500 and is all-in
+pokerion46: calls 320
+*** FLOP *** [6d 3c Qc]
+*** TURN *** [6d 3c Qc] [7d]
+*** RIVER *** [6d 3c Qc 7d] [4h]
+*** SHOW DOWN ***
+mabeal1: shows [4s Ad] (a pair of Fours)
+pokerion46: shows [Jh Jd] (a pair of Jacks)
+pokerion46 collected 1000 from pot
+mabeal1 finished the tournament in 2nd place
+pokerion46 wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [6d 3c Qc 7d 4h]
+Seat 1: pokerion46 (button) (small blind) showed [Jh Jd] and won (1000) with a pair of Jacks
+Seat 2: mabeal1 (big blind) showed [4s Ad] and lost with a pair of Fours
+
+
+

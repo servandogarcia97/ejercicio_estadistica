@@ -1,0 +1,488 @@
+﻿PokerStars Hand #259640255102: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:53:54 CET [2026/02/08 3:53:54 ET]
+Table '3973201626 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: SOLDIERS9 (500 in chips) 
+Seat 3: ActuarioArg (500 in chips) 
+SOLDIERS9: posts small blind 10
+ActuarioArg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 4c]
+mabeal1: folds 
+SOLDIERS9: calls 10
+ActuarioArg: raises 40 to 60
+SOLDIERS9: folds 
+Uncalled bet (40) returned to ActuarioArg
+ActuarioArg collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: SOLDIERS9 (small blind) folded before Flop
+Seat 3: ActuarioArg (big blind) collected (40)
+
+
+
+PokerStars Hand #259640256325: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:54:10 CET [2026/02/08 3:54:10 ET]
+Table '3973201626 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: SOLDIERS9 (480 in chips) 
+Seat 3: ActuarioArg (520 in chips) 
+ActuarioArg: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 2d]
+SOLDIERS9: raises 460 to 480 and is all-in
+ActuarioArg: folds 
+mabeal1: folds 
+Uncalled bet (460) returned to SOLDIERS9
+SOLDIERS9 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: SOLDIERS9 (button) collected (50)
+Seat 3: ActuarioArg (small blind) folded before Flop
+
+
+
+PokerStars Hand #259640257331: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:54:23 CET [2026/02/08 3:54:23 ET]
+Table '3973201626 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: SOLDIERS9 (510 in chips) 
+Seat 3: ActuarioArg (510 in chips) 
+mabeal1: posts small blind 10
+SOLDIERS9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 5s]
+ActuarioArg: folds 
+mabeal1: raises 460 to 480 and is all-in
+SOLDIERS9: folds 
+Uncalled bet (460) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: SOLDIERS9 (big blind) folded before Flop
+Seat 3: ActuarioArg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259640257914: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:54:31 CET [2026/02/08 3:54:31 ET]
+Table '3973201626 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: SOLDIERS9 (490 in chips) 
+Seat 3: ActuarioArg (510 in chips) 
+SOLDIERS9: posts small blind 10
+ActuarioArg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4d]
+mabeal1: folds 
+SOLDIERS9: calls 10
+ActuarioArg: checks 
+*** FLOP *** [Ad Qc 7h]
+SOLDIERS9: bets 40
+ActuarioArg: folds 
+Uncalled bet (40) returned to SOLDIERS9
+SOLDIERS9 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ad Qc 7h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: SOLDIERS9 (small blind) collected (40)
+Seat 3: ActuarioArg (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259640259601: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:54:54 CET [2026/02/08 3:54:54 ET]
+Table '3973201626 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: SOLDIERS9 (510 in chips) 
+Seat 3: ActuarioArg (490 in chips) 
+ActuarioArg: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 2c]
+SOLDIERS9: folds 
+ActuarioArg: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: SOLDIERS9 (button) folded before Flop (didn't bet)
+Seat 3: ActuarioArg (small blind) folded before Flop
+
+
+
+PokerStars Hand #259640260092: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:55:00 CET [2026/02/08 3:55:00 ET]
+Table '3973201626 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: SOLDIERS9 (510 in chips) 
+Seat 3: ActuarioArg (480 in chips) 
+mabeal1: posts small blind 10
+SOLDIERS9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ac]
+ActuarioArg: folds 
+mabeal1: raises 30 to 50
+SOLDIERS9: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (40)
+Seat 2: SOLDIERS9 (big blind) folded before Flop
+Seat 3: ActuarioArg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259640260892: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:55:10 CET [2026/02/08 3:55:10 ET]
+Table '3973201626 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: SOLDIERS9 (490 in chips) 
+Seat 3: ActuarioArg (480 in chips) 
+SOLDIERS9: posts small blind 10
+ActuarioArg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Td]
+mabeal1: folds 
+SOLDIERS9: calls 10
+ActuarioArg: raises 40 to 60
+SOLDIERS9: folds 
+Uncalled bet (40) returned to ActuarioArg
+ActuarioArg collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: SOLDIERS9 (small blind) folded before Flop
+Seat 3: ActuarioArg (big blind) collected (40)
+
+
+
+PokerStars Hand #259640261750: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:55:23 CET [2026/02/08 3:55:23 ET]
+Table '3973201626 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: SOLDIERS9 (470 in chips) 
+Seat 3: ActuarioArg (500 in chips) 
+ActuarioArg: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 6h]
+SOLDIERS9: folds 
+ActuarioArg: calls 10
+mabeal1: checks 
+*** FLOP *** [Ac 7h 9c]
+ActuarioArg: bets 20
+mabeal1: raises 40 to 60
+ActuarioArg: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 7h 9c]
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 2: SOLDIERS9 (button) folded before Flop (didn't bet)
+Seat 3: ActuarioArg (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259640262615: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:55:37 CET [2026/02/08 3:55:37 ET]
+Table '3973201626 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (570 in chips) 
+Seat 2: SOLDIERS9 (470 in chips) 
+Seat 3: ActuarioArg (460 in chips) 
+mabeal1: posts small blind 10
+SOLDIERS9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 8d]
+ActuarioArg: raises 40 to 60
+mabeal1: folds 
+SOLDIERS9: folds 
+Uncalled bet (40) returned to ActuarioArg
+ActuarioArg collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: SOLDIERS9 (big blind) folded before Flop
+Seat 3: ActuarioArg (button) collected (50)
+
+
+
+PokerStars Hand #259640263320: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/08 9:55:47 CET [2026/02/08 3:55:47 ET]
+Table '3973201626 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: SOLDIERS9 (450 in chips) 
+Seat 3: ActuarioArg (490 in chips) 
+SOLDIERS9: posts small blind 10
+ActuarioArg: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 9c]
+mabeal1: folds 
+SOLDIERS9: calls 10
+ActuarioArg: raises 20 to 40
+SOLDIERS9: calls 20
+*** FLOP *** [Ah 4h 7c]
+SOLDIERS9: checks 
+ActuarioArg: bets 20
+SOLDIERS9: calls 20
+*** TURN *** [Ah 4h 7c] [Tc]
+SOLDIERS9: checks 
+ActuarioArg: bets 20
+SOLDIERS9: raises 80 to 100
+ActuarioArg: calls 80
+*** RIVER *** [Ah 4h 7c Tc] [As]
+SOLDIERS9: checks 
+ActuarioArg: bets 240
+SOLDIERS9: calls 240
+*** SHOW DOWN ***
+ActuarioArg: shows [Kh Js] (a pair of Aces)
+SOLDIERS9: shows [7d Qs] (two pair, Aces and Sevens)
+SOLDIERS9 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Ah 4h 7c Tc As]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: SOLDIERS9 (small blind) showed [7d Qs] and won (800) with two pair, Aces and Sevens
+Seat 3: ActuarioArg (big blind) showed [Kh Js] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259640265736: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:56:24 CET [2026/02/08 3:56:24 ET]
+Table '3973201626 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: SOLDIERS9 (850 in chips) 
+Seat 3: ActuarioArg (90 in chips) 
+ActuarioArg: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 8c]
+SOLDIERS9: folds 
+ActuarioArg: raises 60 to 90 and is all-in
+mabeal1: folds 
+Uncalled bet (60) returned to ActuarioArg
+ActuarioArg collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: SOLDIERS9 (button) folded before Flop (didn't bet)
+Seat 3: ActuarioArg (small blind) collected (60)
+
+
+
+PokerStars Hand #259640266260: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:56:31 CET [2026/02/08 3:56:31 ET]
+Table '3973201626 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (530 in chips) 
+Seat 2: SOLDIERS9 (850 in chips) 
+Seat 3: ActuarioArg (120 in chips) 
+mabeal1: posts small blind 15
+SOLDIERS9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Jh]
+ActuarioArg: folds 
+mabeal1: raises 45 to 75
+SOLDIERS9: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: SOLDIERS9 (big blind) folded before Flop
+Seat 3: ActuarioArg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259640266826: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:56:39 CET [2026/02/08 3:56:39 ET]
+Table '3973201626 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: SOLDIERS9 (820 in chips) 
+Seat 3: ActuarioArg (120 in chips) 
+SOLDIERS9: posts small blind 15
+ActuarioArg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Ah]
+mabeal1: raises 45 to 75
+SOLDIERS9: folds 
+ActuarioArg: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (button) collected (75)
+Seat 2: SOLDIERS9 (small blind) folded before Flop
+Seat 3: ActuarioArg (big blind) folded before Flop
+
+
+
+PokerStars Hand #259640267744: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:56:53 CET [2026/02/08 3:56:53 ET]
+Table '3973201626 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (605 in chips) 
+Seat 2: SOLDIERS9 (805 in chips) 
+Seat 3: ActuarioArg (90 in chips) 
+ActuarioArg: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 6d]
+SOLDIERS9: folds 
+ActuarioArg: raises 60 to 90 and is all-in
+mabeal1: folds 
+Uncalled bet (60) returned to ActuarioArg
+ActuarioArg collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: SOLDIERS9 (button) folded before Flop (didn't bet)
+Seat 3: ActuarioArg (small blind) collected (60)
+
+
+
+PokerStars Hand #259640268396: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:57:03 CET [2026/02/08 3:57:03 ET]
+Table '3973201626 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (575 in chips) 
+Seat 2: SOLDIERS9 (805 in chips) 
+Seat 3: ActuarioArg (120 in chips) 
+mabeal1: posts small blind 15
+SOLDIERS9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7h]
+ActuarioArg: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to SOLDIERS9
+SOLDIERS9 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: SOLDIERS9 (big blind) collected (30)
+Seat 3: ActuarioArg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259640268799: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:57:09 CET [2026/02/08 3:57:09 ET]
+Table '3973201626 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: SOLDIERS9 (820 in chips) 
+Seat 3: ActuarioArg (120 in chips) 
+SOLDIERS9: posts small blind 15
+ActuarioArg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks 4d]
+mabeal1: folds 
+SOLDIERS9: calls 15
+ActuarioArg: raises 90 to 120 and is all-in
+SOLDIERS9: folds 
+Uncalled bet (90) returned to ActuarioArg
+ActuarioArg collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: SOLDIERS9 (small blind) folded before Flop
+Seat 3: ActuarioArg (big blind) collected (60)
+
+
+
+PokerStars Hand #259640269384: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:57:18 CET [2026/02/08 3:57:18 ET]
+Table '3973201626 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: SOLDIERS9 (790 in chips) 
+Seat 3: ActuarioArg (150 in chips) 
+ActuarioArg: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Ac]
+SOLDIERS9: folds 
+ActuarioArg: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 2: SOLDIERS9 (button) folded before Flop (didn't bet)
+Seat 3: ActuarioArg (small blind) folded before Flop
+
+
+
+PokerStars Hand #259640270322: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:57:32 CET [2026/02/08 3:57:32 ET]
+Table '3973201626 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (575 in chips) 
+Seat 2: SOLDIERS9 (790 in chips) 
+Seat 3: ActuarioArg (135 in chips) 
+mabeal1: posts small blind 15
+SOLDIERS9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 5h]
+ActuarioArg: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to SOLDIERS9
+SOLDIERS9 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: SOLDIERS9 (big blind) collected (30)
+Seat 3: ActuarioArg (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259640271036: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/08 9:57:43 CET [2026/02/08 3:57:43 ET]
+Table '3973201626 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: SOLDIERS9 (805 in chips) 
+Seat 3: ActuarioArg (135 in chips) 
+SOLDIERS9: posts small blind 15
+ActuarioArg: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Ad]
+mabeal1: raises 30 to 60
+SOLDIERS9: calls 45
+ActuarioArg: calls 30
+*** FLOP *** [7h 3d 6s]
+SOLDIERS9: checks 
+ActuarioArg: bets 75 and is all-in
+mabeal1: folds 
+SOLDIERS9: folds 
+Uncalled bet (75) returned to ActuarioArg
+ActuarioArg collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [7h 3d 6s]
+Seat 1: mabeal1 (button) folded on the Flop
+Seat 2: SOLDIERS9 (small blind) folded on the Flop
+Seat 3: ActuarioArg (big blind) collected (180)
+
+
+
+PokerStars Hand #259640272578: Tournament #3973201626, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/08 9:58:05 CET [2026/02/08 3:58:05 ET]
+Table '3973201626 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: SOLDIERS9 (745 in chips) 
+Seat 3: ActuarioArg (255 in chips) 
+ActuarioArg: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 3c]
+SOLDIERS9: raises 80 to 120
+ActuarioArg: raises 135 to 255 and is all-in
+mabeal1: raises 245 to 500 and is all-in
+SOLDIERS9: calls 380
+*** FLOP *** [3h 7d Qs]
+*** TURN *** [3h 7d Qs] [9d]
+*** RIVER *** [3h 7d Qs 9d] [4h]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 3c] (a pair of Threes)
+SOLDIERS9: shows [Ks 9c] (a pair of Nines)
+SOLDIERS9 collected 490 from side pot
+ActuarioArg: shows [4s 4c] (three of a kind, Fours)
+ActuarioArg collected 765 from main pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1255 Main pot 765. Side pot 490. | Rake 0 
+Board [3h 7d Qs 9d 4h]
+Seat 1: mabeal1 (big blind) showed [Ah 3c] and lost with a pair of Threes
+Seat 2: SOLDIERS9 (button) showed [Ks 9c] and won (490) with a pair of Nines
+Seat 3: ActuarioArg (small blind) showed [4s 4c] and won (765) with three of a kind, Fours
+
+
+

@@ -1,0 +1,345 @@
+﻿PokerStars Hand #259572427844: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:51:05 CET [2026/02/02 21:51:05 ET]
+Table '3971612953 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: sanc.pt (500 in chips) 
+Seat 3: irisx93 (500 in chips) 
+sanc.pt: posts small blind 10
+irisx93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh Td]
+mabeal1: raises 20 to 40
+sanc.pt: folds 
+irisx93: calls 20
+*** FLOP *** [Jd 5d 7c]
+irisx93: checks 
+mabeal1: bets 45
+irisx93: calls 45
+*** TURN *** [Jd 5d 7c] [7d]
+irisx93: checks 
+mabeal1: bets 90
+irisx93: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [Jd 5d 7c 7d]
+Seat 1: mabeal1 (button) collected (180)
+Seat 2: sanc.pt (small blind) folded before Flop
+Seat 3: irisx93 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259572432830: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:51:48 CET [2026/02/02 21:51:48 ET]
+Table '3971612953 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: sanc.pt (490 in chips) 
+Seat 3: irisx93 (415 in chips) 
+irisx93: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 9d]
+sanc.pt: folds 
+irisx93: calls 10
+mabeal1: raises 575 to 595 and is all-in
+irisx93: folds 
+Uncalled bet (575) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: sanc.pt (button) folded before Flop (didn't bet)
+Seat 3: irisx93 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572433961: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:51:57 CET [2026/02/02 21:51:57 ET]
+Table '3971612953 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (615 in chips) 
+Seat 2: sanc.pt (490 in chips) 
+Seat 3: irisx93 (395 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac Qd]
+irisx93: calls 20
+mabeal1: raises 595 to 615 and is all-in
+sanc.pt: folds 
+irisx93: folds 
+Uncalled bet (595) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: sanc.pt (big blind) folded before Flop
+Seat 3: irisx93 (button) folded before Flop
+
+
+
+PokerStars Hand #259572435170: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:52:08 CET [2026/02/02 21:52:08 ET]
+Table '3971612953 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (655 in chips) 
+Seat 2: sanc.pt (470 in chips) 
+Seat 3: irisx93 (375 in chips) 
+sanc.pt: posts small blind 10
+irisx93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 2s]
+mabeal1: raises 20 to 40
+sanc.pt: raises 40 to 80
+irisx93: folds 
+mabeal1: folds 
+Uncalled bet (40) returned to sanc.pt
+sanc.pt collected 100 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: sanc.pt (small blind) collected (100)
+Seat 3: irisx93 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259572436892: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:52:22 CET [2026/02/02 21:52:22 ET]
+Table '3971612953 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (615 in chips) 
+Seat 2: sanc.pt (530 in chips) 
+Seat 3: irisx93 (355 in chips) 
+irisx93: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6h]
+sanc.pt: folds 
+irisx93: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 2: sanc.pt (button) folded before Flop (didn't bet)
+Seat 3: irisx93 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572437476: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:52:27 CET [2026/02/02 21:52:27 ET]
+Table '3971612953 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (625 in chips) 
+Seat 2: sanc.pt (530 in chips) 
+Seat 3: irisx93 (345 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Qd]
+irisx93: calls 20
+mabeal1: raises 60 to 80
+sanc.pt: folds 
+irisx93: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (60)
+Seat 2: sanc.pt (big blind) folded before Flop
+Seat 3: irisx93 (button) folded before Flop
+
+
+
+PokerStars Hand #259572439026: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:52:41 CET [2026/02/02 21:52:41 ET]
+Table '3971612953 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (665 in chips) 
+Seat 2: sanc.pt (510 in chips) 
+Seat 3: irisx93 (325 in chips) 
+sanc.pt: posts small blind 10
+irisx93: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 7d]
+mabeal1: folds 
+sanc.pt: raises 20 to 40
+irisx93: calls 20
+*** FLOP *** [Kd 2s 4h]
+sanc.pt: checks 
+irisx93: bets 20
+sanc.pt: calls 20
+*** TURN *** [Kd 2s 4h] [Qh]
+sanc.pt: checks 
+irisx93: bets 20
+sanc.pt: raises 30 to 50
+irisx93: calls 30
+*** RIVER *** [Kd 2s 4h Qh] [Ts]
+sanc.pt: checks 
+irisx93: checks 
+*** SHOW DOWN ***
+sanc.pt: shows [3d 3c] (a pair of Threes)
+irisx93: mucks hand 
+sanc.pt collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [Kd 2s 4h Qh Ts]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: sanc.pt (small blind) showed [3d 3c] and won (220) with a pair of Threes
+Seat 3: irisx93 (big blind) mucked [2d 5h]
+
+
+
+PokerStars Hand #259572443892: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:53:23 CET [2026/02/02 21:53:23 ET]
+Table '3971612953 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (665 in chips) 
+Seat 2: sanc.pt (620 in chips) 
+Seat 3: irisx93 (215 in chips) 
+irisx93: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 2s]
+sanc.pt: calls 20
+irisx93: calls 10
+mabeal1: checks 
+*** FLOP *** [5c 9c Js]
+irisx93: checks 
+mabeal1: checks 
+sanc.pt: checks 
+*** TURN *** [5c 9c Js] [Jh]
+irisx93: checks 
+mabeal1: checks 
+sanc.pt: checks 
+*** RIVER *** [5c 9c Js Jh] [As]
+irisx93: checks 
+mabeal1: checks 
+sanc.pt: checks 
+*** SHOW DOWN ***
+irisx93: shows [6s 7d] (a pair of Jacks)
+mabeal1: shows [8d 2s] (a pair of Jacks - Ace+Nine+Eight kicker)
+sanc.pt: shows [Kh Td] (a pair of Jacks - Ace+King kicker)
+sanc.pt collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5c 9c Js Jh As]
+Seat 1: mabeal1 (big blind) showed [8d 2s] and lost with a pair of Jacks
+Seat 2: sanc.pt (button) showed [Kh Td] and won (60) with a pair of Jacks
+Seat 3: irisx93 (small blind) showed [6s 7d] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259572448272: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:54:01 CET [2026/02/02 21:54:01 ET]
+Table '3971612953 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (645 in chips) 
+Seat 2: sanc.pt (660 in chips) 
+Seat 3: irisx93 (195 in chips) 
+mabeal1: posts small blind 10
+sanc.pt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 5d]
+irisx93: calls 20
+mabeal1: calls 10
+sanc.pt: raises 40 to 60
+irisx93: calls 40
+mabeal1: folds 
+*** FLOP *** [7s 9s Qc]
+sanc.pt: bets 140
+irisx93: folds 
+Uncalled bet (140) returned to sanc.pt
+sanc.pt collected 140 from pot
+sanc.pt: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [7s 9s Qc]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: sanc.pt (big blind) collected (140)
+Seat 3: irisx93 (button) folded on the Flop
+
+
+
+PokerStars Hand #259572452014: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:54:34 CET [2026/02/02 21:54:34 ET]
+Table '3971612953 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (625 in chips) 
+Seat 2: sanc.pt (740 in chips) 
+Seat 3: irisx93 (135 in chips) 
+sanc.pt: posts small blind 15
+irisx93: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 9c]
+mabeal1: raises 30 to 60
+sanc.pt: folds 
+irisx93: raises 75 to 135 and is all-in
+mabeal1: folds 
+Uncalled bet (75) returned to irisx93
+irisx93 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop
+Seat 2: sanc.pt (small blind) folded before Flop
+Seat 3: irisx93 (big blind) collected (135)
+
+
+
+PokerStars Hand #259572453907: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:54:50 CET [2026/02/02 21:54:50 ET]
+Table '3971612953 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (565 in chips) 
+Seat 2: sanc.pt (725 in chips) 
+Seat 3: irisx93 (210 in chips) 
+irisx93: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Jd]
+sanc.pt: folds 
+irisx93: calls 15
+mabeal1: checks 
+*** FLOP *** [Ts Kc 8d]
+irisx93: checks 
+mabeal1: checks 
+*** TURN *** [Ts Kc 8d] [Td]
+irisx93: checks 
+mabeal1: bets 30
+irisx93: calls 30
+*** RIVER *** [Ts Kc 8d Td] [2h]
+irisx93: bets 150 and is all-in
+mabeal1: folds 
+Uncalled bet (150) returned to irisx93
+irisx93 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts Kc 8d Td 2h]
+Seat 1: mabeal1 (big blind) folded on the River
+Seat 2: sanc.pt (button) folded before Flop (didn't bet)
+Seat 3: irisx93 (small blind) collected (120)
+
+
+
+PokerStars Hand #259572456297: Tournament #3971612953, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:55:11 CET [2026/02/02 21:55:11 ET]
+Table '3971612953 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (505 in chips) 
+Seat 2: sanc.pt (725 in chips) 
+Seat 3: irisx93 (270 in chips) 
+mabeal1: posts small blind 15
+sanc.pt: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 3c]
+irisx93: folds 
+mabeal1: raises 30 to 60
+sanc.pt: calls 30
+*** FLOP *** [6h Jc Kh]
+mabeal1: bets 60
+sanc.pt: calls 60
+*** TURN *** [6h Jc Kh] [9h]
+mabeal1: checks 
+sanc.pt: checks 
+*** RIVER *** [6h Jc Kh 9h] [Qh]
+mabeal1: bets 385 and is all-in
+sanc.pt: calls 385
+*** SHOW DOWN ***
+mabeal1: shows [Ad 3c] (high card Ace)
+sanc.pt: shows [Ah 7s] (a flush, Ace high)
+sanc.pt collected 1010 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [6h Jc Kh 9h Qh]
+Seat 1: mabeal1 (small blind) showed [Ad 3c] and lost with high card Ace
+Seat 2: sanc.pt (big blind) showed [Ah 7s] and won (1010) with a flush, Ace high
+Seat 3: irisx93 (button) folded before Flop (didn't bet)
+
+
+

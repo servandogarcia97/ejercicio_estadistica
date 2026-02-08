@@ -1,0 +1,549 @@
+﻿PokerStars Hand #259549722208: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:26:43 CET [2026/02/01 11:26:43 ET]
+Table '3971140765 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: alexsr_19 (500 in chips) 
+mabeal1: posts small blind 10
+alexsr_19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Kd]
+PICHONHAIR: calls 20
+mabeal1: calls 10
+alexsr_19: checks 
+*** FLOP *** [5d 4c As]
+mabeal1: checks 
+alexsr_19: checks 
+PICHONHAIR: bets 60
+mabeal1: folds 
+alexsr_19: folds 
+Uncalled bet (60) returned to PICHONHAIR
+PICHONHAIR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d 4c As]
+Seat 1: PICHONHAIR (button) collected (60)
+Seat 2: mabeal1 (small blind) folded on the Flop
+Seat 3: alexsr_19 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259549727774: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:27:07 CET [2026/02/01 11:27:07 ET]
+Table '3971140765 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (540 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: alexsr_19 (480 in chips) 
+alexsr_19: posts small blind 10
+PICHONHAIR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 8c]
+mabeal1: folds 
+alexsr_19: folds 
+Uncalled bet (10) returned to PICHONHAIR
+PICHONHAIR collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PICHONHAIR (big blind) collected (20)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: alexsr_19 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259549729350: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:27:13 CET [2026/02/01 11:27:13 ET]
+Table '3971140765 1' 3-max Seat #3 is the button
+Seat 1: PICHONHAIR (550 in chips) 
+Seat 2: mabeal1 (480 in chips) 
+Seat 3: alexsr_19 (470 in chips) 
+PICHONHAIR: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4s]
+alexsr_19: calls 20
+PICHONHAIR: calls 10
+mabeal1: checks 
+*** FLOP *** [8h 8d 9s]
+PICHONHAIR: checks 
+mabeal1: checks 
+alexsr_19: bets 60
+PICHONHAIR: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to alexsr_19
+alexsr_19 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [8h 8d 9s]
+Seat 1: PICHONHAIR (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: alexsr_19 (button) collected (60)
+
+
+
+PokerStars Hand #259549733426: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:27:30 CET [2026/02/01 11:27:30 ET]
+Table '3971140765 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (530 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: alexsr_19 (510 in chips) 
+mabeal1: posts small blind 10
+alexsr_19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6s]
+PICHONHAIR: calls 20
+mabeal1: raises 440 to 460 and is all-in
+alexsr_19: folds 
+PICHONHAIR: folds 
+Uncalled bet (440) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: PICHONHAIR (button) folded before Flop
+Seat 2: mabeal1 (small blind) collected (60)
+Seat 3: alexsr_19 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259549735506: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:27:39 CET [2026/02/01 11:27:39 ET]
+Table '3971140765 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (510 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: alexsr_19 (490 in chips) 
+alexsr_19: posts small blind 10
+PICHONHAIR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Jh]
+mabeal1: raises 20 to 40
+alexsr_19: calls 30
+PICHONHAIR: calls 20
+*** FLOP *** [Js 2d 2h]
+alexsr_19: checks 
+PICHONHAIR: bets 60
+mabeal1: calls 60
+alexsr_19: folds 
+*** TURN *** [Js 2d 2h] [7d]
+PICHONHAIR: checks 
+mabeal1: checks 
+*** RIVER *** [Js 2d 2h 7d] [4h]
+PICHONHAIR: checks 
+mabeal1: bets 180
+PICHONHAIR: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Js 2d 2h 7d 4h]
+Seat 1: PICHONHAIR (big blind) folded on the River
+Seat 2: mabeal1 (button) collected (240)
+Seat 3: alexsr_19 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259549741402: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:28:03 CET [2026/02/01 11:28:03 ET]
+Table '3971140765 1' 3-max Seat #3 is the button
+Seat 1: PICHONHAIR (410 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: alexsr_19 (450 in chips) 
+PICHONHAIR: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Qc]
+alexsr_19: folds 
+PICHONHAIR: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PICHONHAIR (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: alexsr_19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259549742585: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:28:07 CET [2026/02/01 11:28:07 ET]
+Table '3971140765 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (400 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: alexsr_19 (450 in chips) 
+mabeal1: posts small blind 10
+alexsr_19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Tc]
+PICHONHAIR: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to alexsr_19
+alexsr_19 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PICHONHAIR (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: alexsr_19 (big blind) collected (20)
+
+
+
+PokerStars Hand #259549744089: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:28:14 CET [2026/02/01 11:28:14 ET]
+Table '3971140765 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (400 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: alexsr_19 (460 in chips) 
+alexsr_19: posts small blind 10
+PICHONHAIR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 7s]
+mabeal1: folds 
+alexsr_19: calls 10
+PICHONHAIR: checks 
+*** FLOP *** [6s 8s Th]
+alexsr_19: bets 20
+PICHONHAIR: raises 360 to 380 and is all-in
+alexsr_19: folds 
+Uncalled bet (360) returned to PICHONHAIR
+PICHONHAIR collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6s 8s Th]
+Seat 1: PICHONHAIR (big blind) collected (80)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: alexsr_19 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259549747710: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:28:29 CET [2026/02/01 11:28:29 ET]
+Table '3971140765 1' 3-max Seat #3 is the button
+Seat 1: PICHONHAIR (440 in chips) 
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: alexsr_19 (420 in chips) 
+PICHONHAIR: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Kd]
+alexsr_19: folds 
+PICHONHAIR: calls 10
+mabeal1: checks 
+*** FLOP *** [Qc 3s Th]
+PICHONHAIR: checks 
+mabeal1: checks 
+*** TURN *** [Qc 3s Th] [8c]
+PICHONHAIR: checks 
+mabeal1: checks 
+*** RIVER *** [Qc 3s Th 8c] [4h]
+PICHONHAIR: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+PICHONHAIR: shows [4d 3h] (two pair, Fours and Threes)
+mabeal1: mucks hand 
+PICHONHAIR collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qc 3s Th 8c 4h]
+Seat 1: PICHONHAIR (small blind) showed [4d 3h] and won (40) with two pair, Fours and Threes
+Seat 2: mabeal1 (big blind) mucked [9c Kd]
+Seat 3: alexsr_19 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259549751334: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:28:43 CET [2026/02/01 11:28:43 ET]
+Table '3971140765 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (460 in chips) 
+Seat 2: mabeal1 (620 in chips) 
+Seat 3: alexsr_19 (420 in chips) 
+mabeal1: posts small blind 10
+alexsr_19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 3s]
+PICHONHAIR: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to alexsr_19
+alexsr_19 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: PICHONHAIR (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: alexsr_19 (big blind) collected (20)
+
+
+
+PokerStars Hand #259549753205: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:28:51 CET [2026/02/01 11:28:51 ET]
+Table '3971140765 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (460 in chips) 
+Seat 2: mabeal1 (610 in chips) 
+Seat 3: alexsr_19 (430 in chips) 
+alexsr_19: posts small blind 10
+PICHONHAIR: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 9h]
+mabeal1: folds 
+alexsr_19: calls 10
+PICHONHAIR: checks 
+*** FLOP *** [3d Ac 5c]
+alexsr_19: checks 
+PICHONHAIR: checks 
+*** TURN *** [3d Ac 5c] [Qs]
+alexsr_19: bets 20
+PICHONHAIR: calls 20
+*** RIVER *** [3d Ac 5c Qs] [4h]
+alexsr_19: bets 40
+PICHONHAIR: raises 140 to 180
+alexsr_19: calls 140
+*** SHOW DOWN ***
+PICHONHAIR: shows [7s 2d] (a straight, Ace to Five)
+alexsr_19: mucks hand 
+PICHONHAIR collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [3d Ac 5c Qs 4h]
+Seat 1: PICHONHAIR (big blind) showed [7s 2d] and won (440) with a straight, Ace to Five
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: alexsr_19 (small blind) mucked [Ad 3s]
+
+
+
+PokerStars Hand #259549760454: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:29:21 CET [2026/02/01 11:29:21 ET]
+Table '3971140765 1' 3-max Seat #3 is the button
+Seat 1: PICHONHAIR (680 in chips) 
+Seat 2: mabeal1 (610 in chips) 
+Seat 3: alexsr_19 (210 in chips) 
+PICHONHAIR: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 7h]
+alexsr_19: raises 190 to 210 and is all-in
+PICHONHAIR: folds 
+mabeal1: folds 
+Uncalled bet (190) returned to alexsr_19
+alexsr_19 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: PICHONHAIR (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: alexsr_19 (button) collected (50)
+
+
+
+PokerStars Hand #259549762933: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/01 17:29:31 CET [2026/02/01 11:29:31 ET]
+Table '3971140765 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (670 in chips) 
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: alexsr_19 (240 in chips) 
+mabeal1: posts small blind 10
+alexsr_19: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7c]
+PICHONHAIR: calls 20
+mabeal1: raises 570 to 590 and is all-in
+alexsr_19: calls 220 and is all-in
+PICHONHAIR: folds 
+Uncalled bet (350) returned to mabeal1
+*** FLOP *** [3c Ks Tc]
+*** TURN *** [3c Ks Tc] [3s]
+*** RIVER *** [3c Ks Tc 3s] [Kd]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 7c] (two pair, Kings and Threes)
+alexsr_19: shows [Jc 8c] (two pair, Kings and Threes - lower kicker)
+mabeal1 collected 500 from pot
+alexsr_19 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [3c Ks Tc 3s Kd]
+Seat 1: PICHONHAIR (button) folded before Flop
+Seat 2: mabeal1 (small blind) showed [Ah 7c] and won (500) with two pair, Kings and Threes
+Seat 3: alexsr_19 (big blind) showed [Jc 8c] and lost with two pair, Kings and Threes
+
+
+
+PokerStars Hand #259549767498: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:29:50 CET [2026/02/01 11:29:50 ET]
+Table '3971140765 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (650 in chips) 
+Seat 2: mabeal1 (850 in chips) 
+mabeal1: posts small blind 15
+PICHONHAIR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d Jh]
+mabeal1: calls 15
+PICHONHAIR: checks 
+*** FLOP *** [7d 3d Ts]
+PICHONHAIR: bets 620 and is all-in
+mabeal1: folds 
+Uncalled bet (620) returned to PICHONHAIR
+PICHONHAIR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 3d Ts]
+Seat 1: PICHONHAIR (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259549769773: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:29:59 CET [2026/02/01 11:29:59 ET]
+Table '3971140765 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (680 in chips) 
+Seat 2: mabeal1 (820 in chips) 
+PICHONHAIR: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 4c]
+PICHONHAIR: calls 15
+mabeal1: checks 
+*** FLOP *** [8s 8d 6c]
+mabeal1: checks 
+PICHONHAIR: bets 60
+mabeal1: calls 60
+*** TURN *** [8s 8d 6c] [Kc]
+mabeal1: checks 
+PICHONHAIR: checks 
+*** RIVER *** [8s 8d 6c Kc] [5h]
+mabeal1: bets 135
+PICHONHAIR: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8s 8d 6c Kc 5h]
+Seat 1: PICHONHAIR (button) (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (180)
+
+
+
+PokerStars Hand #259549774114: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:30:17 CET [2026/02/01 11:30:17 ET]
+Table '3971140765 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (590 in chips) 
+Seat 2: mabeal1 (910 in chips) 
+mabeal1: posts small blind 15
+PICHONHAIR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 9h]
+mabeal1: calls 15
+PICHONHAIR: raises 560 to 590 and is all-in
+mabeal1: folds 
+Uncalled bet (560) returned to PICHONHAIR
+PICHONHAIR collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: PICHONHAIR (big blind) collected (60)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259549775830: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:30:24 CET [2026/02/01 11:30:24 ET]
+Table '3971140765 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (620 in chips) 
+Seat 2: mabeal1 (880 in chips) 
+PICHONHAIR: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 5h]
+PICHONHAIR: calls 15
+mabeal1: raises 850 to 880 and is all-in
+PICHONHAIR: folds 
+Uncalled bet (850) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: PICHONHAIR (button) (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259549777458: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:30:30 CET [2026/02/01 11:30:30 ET]
+Table '3971140765 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (590 in chips) 
+Seat 2: mabeal1 (910 in chips) 
+mabeal1: posts small blind 15
+PICHONHAIR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 9c]
+mabeal1: raises 30 to 60
+PICHONHAIR: calls 30
+*** FLOP *** [Ah 9d 2d]
+PICHONHAIR: checks 
+mabeal1: bets 60
+PICHONHAIR: calls 60
+*** TURN *** [Ah 9d 2d] [8s]
+PICHONHAIR: checks 
+mabeal1: checks 
+*** RIVER *** [Ah 9d 2d 8s] [Js]
+PICHONHAIR: checks 
+mabeal1: bets 180
+PICHONHAIR: folds 
+Uncalled bet (180) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [Ah 9d 2d 8s Js]
+Seat 1: PICHONHAIR (big blind) folded on the River
+Seat 2: mabeal1 (button) (small blind) collected (240)
+
+
+
+PokerStars Hand #259549782299: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:30:50 CET [2026/02/01 11:30:50 ET]
+Table '3971140765 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (470 in chips) 
+Seat 2: mabeal1 (1030 in chips) 
+PICHONHAIR: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Jc]
+PICHONHAIR: calls 15
+mabeal1: raises 75 to 105
+PICHONHAIR: calls 75
+*** FLOP *** [Ad 2h Tc]
+mabeal1: bets 60
+PICHONHAIR: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 210 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Ad 2h Tc]
+Seat 1: PICHONHAIR (button) (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) collected (210)
+
+
+
+PokerStars Hand #259549786440: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:31:07 CET [2026/02/01 11:31:07 ET]
+Table '3971140765 1' 3-max Seat #2 is the button
+Seat 1: PICHONHAIR (365 in chips) 
+Seat 2: mabeal1 (1135 in chips) 
+mabeal1: posts small blind 15
+PICHONHAIR: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 3h]
+mabeal1: folds 
+Uncalled bet (15) returned to PICHONHAIR
+PICHONHAIR collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: PICHONHAIR (big blind) collected (30)
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259549787718: Tournament #3971140765, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/01 17:31:12 CET [2026/02/01 11:31:12 ET]
+Table '3971140765 1' 3-max Seat #1 is the button
+Seat 1: PICHONHAIR (380 in chips) 
+Seat 2: mabeal1 (1120 in chips) 
+PICHONHAIR: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 6c]
+PICHONHAIR: raises 350 to 380 and is all-in
+mabeal1: calls 350
+*** FLOP *** [Tc 8h Td]
+*** TURN *** [Tc 8h Td] [Ks]
+*** RIVER *** [Tc 8h Td Ks] [5h]
+*** SHOW DOWN ***
+mabeal1: shows [6s 6c] (two pair, Tens and Sixes)
+PICHONHAIR: shows [3c Ad] (a pair of Tens)
+mabeal1 collected 760 from pot
+PICHONHAIR finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [Tc 8h Td Ks 5h]
+Seat 1: PICHONHAIR (button) (small blind) showed [3c Ad] and lost with a pair of Tens
+Seat 2: mabeal1 (big blind) showed [6s 6c] and won (760) with two pair, Tens and Sixes
+
+
+

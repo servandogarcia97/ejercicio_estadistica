@@ -1,0 +1,192 @@
+﻿PokerStars Hand #259601478299: Tournament #3972308688, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:58:07 CET [2026/02/05 9:58:07 ET]
+Table '3972308688 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: tufiflas13 (500 in chips) 
+Seat 3: Kroos1997 (500 in chips) 
+tufiflas13: posts small blind 10
+Kroos1997: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Jc]
+mabeal1: raises 20 to 40
+tufiflas13: folds 
+Kroos1997: calls 20
+*** FLOP *** [9d Ts 8s]
+Kroos1997: checks 
+mabeal1: bets 30
+Kroos1997: calls 30
+*** TURN *** [9d Ts 8s] [Ac]
+Kroos1997: checks 
+mabeal1: bets 75
+Kroos1997: calls 75
+*** RIVER *** [9d Ts 8s Ac] [9c]
+Kroos1997: bets 150
+mabeal1: calls 150
+*** SHOW DOWN ***
+Kroos1997: shows [7d Jh] (a straight, Seven to Jack)
+mabeal1: shows [Qd Jc] (a straight, Eight to Queen)
+mabeal1 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [9d Ts 8s Ac 9c]
+Seat 1: mabeal1 (button) showed [Qd Jc] and won (600) with a straight, Eight to Queen
+Seat 2: tufiflas13 (small blind) folded before Flop
+Seat 3: Kroos1997 (big blind) showed [7d Jh] and lost with a straight, Seven to Jack
+
+
+
+PokerStars Hand #259601483428: Tournament #3972308688, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:58:49 CET [2026/02/05 9:58:49 ET]
+Table '3972308688 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (805 in chips) 
+Seat 2: tufiflas13 (490 in chips) 
+Seat 3: Kroos1997 (205 in chips) 
+Kroos1997: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Td]
+tufiflas13: raises 20 to 40
+Kroos1997: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to tufiflas13
+tufiflas13 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: tufiflas13 (button) collected (50)
+Seat 3: Kroos1997 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259601485305: Tournament #3972308688, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:59:03 CET [2026/02/05 9:59:03 ET]
+Table '3972308688 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (785 in chips) 
+Seat 2: tufiflas13 (520 in chips) 
+Seat 3: Kroos1997 (195 in chips) 
+mabeal1: posts small blind 10
+tufiflas13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 4s]
+Kroos1997: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to tufiflas13
+tufiflas13 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: tufiflas13 (big blind) collected (20)
+Seat 3: Kroos1997 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259601487432: Tournament #3972308688, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:59:20 CET [2026/02/05 9:59:20 ET]
+Table '3972308688 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (775 in chips) 
+Seat 2: tufiflas13 (530 in chips) 
+Seat 3: Kroos1997 (195 in chips) 
+tufiflas13: posts small blind 10
+Kroos1997: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 2d]
+mabeal1: folds 
+tufiflas13: calls 10
+Kroos1997: checks 
+*** FLOP *** [9s Ac 9d]
+tufiflas13: checks 
+Kroos1997: checks 
+*** TURN *** [9s Ac 9d] [3c]
+tufiflas13: checks 
+Kroos1997: checks 
+*** RIVER *** [9s Ac 9d 3c] [3h]
+tufiflas13: bets 20
+Kroos1997: folds 
+Uncalled bet (20) returned to tufiflas13
+tufiflas13 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9s Ac 9d 3c 3h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: tufiflas13 (small blind) collected (40)
+Seat 3: Kroos1997 (big blind) folded on the River
+
+
+
+PokerStars Hand #259601490768: Tournament #3972308688, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 15:59:47 CET [2026/02/05 9:59:47 ET]
+Table '3972308688 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (775 in chips) 
+Seat 2: tufiflas13 (550 in chips) 
+Seat 3: Kroos1997 (175 in chips) 
+Kroos1997: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Jc]
+tufiflas13: raises 50 to 70
+Kroos1997: raises 105 to 175 and is all-in
+mabeal1: folds 
+tufiflas13: calls 105
+*** FLOP *** [7d 9s 5s]
+*** TURN *** [7d 9s 5s] [Tc]
+*** RIVER *** [7d 9s 5s Tc] [Jh]
+*** SHOW DOWN ***
+Kroos1997: shows [5h Ad] (a pair of Fives)
+tufiflas13: shows [Ts Kd] (a pair of Tens)
+tufiflas13 collected 370 from pot
+Kroos1997 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [7d 9s 5s Tc Jh]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: tufiflas13 (button) showed [Ts Kd] and won (370) with a pair of Tens
+Seat 3: Kroos1997 (small blind) showed [5h Ad] and lost with a pair of Fives
+
+
+
+PokerStars Hand #259601493702: Tournament #3972308688, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:00:11 CET [2026/02/05 10:00:11 ET]
+Table '3972308688 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (755 in chips) 
+Seat 2: tufiflas13 (745 in chips) 
+mabeal1: posts small blind 10
+tufiflas13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 4c]
+mabeal1: calls 10
+tufiflas13: raises 60 to 80
+mabeal1: folds 
+Uncalled bet (60) returned to tufiflas13
+tufiflas13 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 2: tufiflas13 (big blind) collected (40)
+
+
+
+PokerStars Hand #259601495226: Tournament #3972308688, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/05 16:00:22 CET [2026/02/05 10:00:22 ET]
+Table '3972308688 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (735 in chips) 
+Seat 2: tufiflas13 (765 in chips) 
+tufiflas13: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 8c]
+tufiflas13: calls 10
+mabeal1: checks 
+*** FLOP *** [Tc 9s 2c]
+mabeal1: checks 
+tufiflas13: bets 40
+mabeal1: raises 675 to 715 and is all-in
+tufiflas13: calls 675
+*** TURN *** [Tc 9s 2c] [3h]
+*** RIVER *** [Tc 9s 2c 3h] [As]
+*** SHOW DOWN ***
+mabeal1: shows [6c 8c] (high card Ace)
+tufiflas13: shows [8h Jc] (high card Ace - Jack kicker)
+tufiflas13 collected 1470 from pot
+mabeal1 finished the tournament in 2nd place
+tufiflas13 wins the tournament and receives €6.00 - congratulations!
+*** SUMMARY ***
+Total pot 1470 | Rake 0 
+Board [Tc 9s 2c 3h As]
+Seat 1: mabeal1 (big blind) showed [6c 8c] and lost with high card Ace
+Seat 2: tufiflas13 (button) (small blind) showed [8h Jc] and won (1470) with high card Ace
+
+
+

@@ -1,0 +1,240 @@
+﻿PokerStars Hand #259478148700: Tournament #3969483289, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 2:57:19 CET [2026/01/26 20:57:19 ET]
+Table '3969483289 1' 3-max Seat #1 is the button
+Seat 1: analma06 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: Areias498 (500 in chips) 
+mabeal1: posts small blind 10
+Areias498: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 8s]
+analma06: calls 20
+mabeal1: folds 
+Areias498: checks 
+*** FLOP *** [9c 4h 2c]
+Areias498: checks 
+analma06: checks 
+*** TURN *** [9c 4h 2c] [9s]
+Areias498: checks 
+analma06: checks 
+*** RIVER *** [9c 4h 2c 9s] [8d]
+Areias498: bets 20
+analma06: calls 20
+*** SHOW DOWN ***
+Areias498: shows [7s 5d] (a pair of Nines)
+analma06: shows [Ah 6h] (a pair of Nines - Ace kicker)
+analma06 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9c 4h 2c 9s 8d]
+Seat 1: analma06 (button) showed [Ah 6h] and won (90) with a pair of Nines
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: Areias498 (big blind) showed [7s 5d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #259478152109: Tournament #3969483289, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 2:57:52 CET [2026/01/26 20:57:52 ET]
+Table '3969483289 1' 3-max Seat #2 is the button
+Seat 1: analma06 (550 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: Areias498 (460 in chips) 
+Areias498: posts small blind 10
+analma06: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad Qh]
+mabeal1: raises 20 to 40
+Areias498: folds 
+analma06: calls 20
+*** FLOP *** [5h Qd Th]
+analma06: checks 
+mabeal1: bets 68
+analma06: folds 
+Uncalled bet (68) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5h Qd Th]
+Seat 1: analma06 (big blind) folded on the Flop
+Seat 2: mabeal1 (button) collected (90)
+Seat 3: Areias498 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259478154927: Tournament #3969483289, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 2:58:19 CET [2026/01/26 20:58:19 ET]
+Table '3969483289 1' 3-max Seat #3 is the button
+Seat 1: analma06 (510 in chips) 
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: Areias498 (450 in chips) 
+analma06: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Js]
+Areias498: calls 20
+analma06: calls 10
+mabeal1: checks 
+*** FLOP *** [Jc 7c 8h]
+analma06: checks 
+mabeal1: checks 
+Areias498: checks 
+*** TURN *** [Jc 7c 8h] [8d]
+analma06: checks 
+mabeal1: bets 45
+Areias498: folds 
+analma06: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jc 7c 8h 8d]
+Seat 1: analma06 (small blind) folded on the Turn
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: Areias498 (button) folded on the Turn
+
+
+
+PokerStars Hand #259478159886: Tournament #3969483289, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 2:59:06 CET [2026/01/26 20:59:06 ET]
+Table '3969483289 1' 3-max Seat #1 is the button
+Seat 1: analma06 (490 in chips) 
+Seat 2: mabeal1 (580 in chips) 
+Seat 3: Areias498 (430 in chips) 
+mabeal1: posts small blind 10
+Areias498: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 8c]
+analma06: folds 
+mabeal1: raises 560 to 580 and is all-in
+Areias498: calls 410 and is all-in
+Uncalled bet (150) returned to mabeal1
+*** FLOP *** [Ac 8d 9d]
+*** TURN *** [Ac 8d 9d] [2s]
+*** RIVER *** [Ac 8d 9d 2s] [8h]
+*** SHOW DOWN ***
+mabeal1: shows [Ad 8c] (a full house, Eights full of Aces)
+Areias498: shows [7h Ah] (two pair, Aces and Eights)
+mabeal1 collected 860 from pot
+Areias498 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Ac 8d 9d 2s 8h]
+Seat 1: analma06 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) showed [Ad 8c] and won (860) with a full house, Eights full of Aces
+Seat 3: Areias498 (big blind) showed [7h Ah] and lost with two pair, Aces and Eights
+
+
+
+PokerStars Hand #259478163109: Tournament #3969483289, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 2:59:37 CET [2026/01/26 20:59:37 ET]
+Table '3969483289 1' 3-max Seat #2 is the button
+Seat 1: analma06 (490 in chips) 
+Seat 2: mabeal1 (1010 in chips) 
+mabeal1: posts small blind 10
+analma06: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 5d]
+mabeal1: calls 10
+analma06: checks 
+*** FLOP *** [8c 7s 5c]
+analma06: bets 20
+mabeal1: raises 40 to 60
+analma06: calls 40
+*** TURN *** [8c 7s 5c] [As]
+analma06: checks 
+mabeal1: bets 180
+analma06: calls 180
+*** RIVER *** [8c 7s 5c As] [9c]
+analma06: bets 60
+mabeal1: raises 690 to 750 and is all-in
+analma06: calls 170 and is all-in
+Uncalled bet (520) returned to mabeal1
+*** SHOW DOWN ***
+mabeal1: shows [7d 5d] (two pair, Sevens and Fives)
+analma06: shows [Jc Tc] (a flush, Jack high)
+analma06 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [8c 7s 5c As 9c]
+Seat 1: analma06 (big blind) showed [Jc Tc] and won (980) with a flush, Jack high
+Seat 2: mabeal1 (button) (small blind) showed [7d 5d] and lost with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #259478167346: Tournament #3969483289, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/27 3:00:16 CET [2026/01/26 21:00:16 ET]
+Table '3969483289 1' 3-max Seat #1 is the button
+Seat 1: analma06 (980 in chips) 
+Seat 2: mabeal1 (520 in chips) 
+analma06: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9c]
+analma06: calls 10
+mabeal1: checks 
+*** FLOP *** [3c Kd Qh]
+mabeal1: checks 
+analma06: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to analma06
+analma06 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c Kd Qh]
+Seat 1: analma06 (button) (small blind) collected (40)
+Seat 2: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259478169972: Tournament #3969483289, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:00:39 CET [2026/01/26 21:00:39 ET]
+Table '3969483289 1' 3-max Seat #2 is the button
+Seat 1: analma06 (1000 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+mabeal1: posts small blind 15
+analma06: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Jh]
+mabeal1: calls 15
+analma06: checks 
+*** FLOP *** [2h 3c 2s]
+analma06: bets 30
+mabeal1: calls 30
+*** TURN *** [2h 3c 2s] [Ts]
+analma06: bets 30
+mabeal1: raises 120 to 150
+analma06: raises 120 to 270
+mabeal1: folds 
+Uncalled bet (120) returned to analma06
+analma06 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Board [2h 3c 2s Ts]
+Seat 1: analma06 (big blind) collected (420)
+Seat 2: mabeal1 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259478173024: Tournament #3969483289, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/27 3:01:03 CET [2026/01/26 21:01:03 ET]
+Table '3969483289 1' 3-max Seat #1 is the button
+Seat 1: analma06 (1210 in chips) 
+Seat 2: mabeal1 (290 in chips) 
+analma06: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 7d]
+analma06: calls 15
+mabeal1: raises 260 to 290 and is all-in
+analma06: calls 260
+*** FLOP *** [Tc 2h 3s]
+*** TURN *** [Tc 2h 3s] [Jd]
+*** RIVER *** [Tc 2h 3s Jd] [Td]
+*** SHOW DOWN ***
+mabeal1: shows [Kd 7d] (a pair of Tens)
+analma06: shows [8h Kh] (a pair of Tens - King+Jack+Eight kicker)
+analma06 collected 580 from pot
+mabeal1 finished the tournament in 2nd place
+analma06 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [Tc 2h 3s Jd Td]
+Seat 1: analma06 (button) (small blind) showed [8h Kh] and won (580) with a pair of Tens
+Seat 2: mabeal1 (big blind) showed [Kd 7d] and lost with a pair of Tens
+
+
+

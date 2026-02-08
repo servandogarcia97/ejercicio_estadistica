@@ -1,0 +1,629 @@
+﻿PokerStars Hand #259401569021: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:56:53 CET [2026/01/21 7:56:53 ET]
+Table '3967717716 1' 3-max Seat #1 is the button
+Seat 1: javianto13 (500 in chips) 
+Seat 2: mabeal1 (500 in chips) 
+Seat 3: carlosjiver (500 in chips) 
+mabeal1: posts small blind 10
+carlosjiver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 5d]
+javianto13: folds 
+mabeal1: raises 20 to 40
+carlosjiver: raises 460 to 500 and is all-in
+mabeal1: folds 
+Uncalled bet (460) returned to carlosjiver
+carlosjiver collected 80 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: javianto13 (button) folded before Flop (didn't bet)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: carlosjiver (big blind) collected (80)
+
+
+
+PokerStars Hand #259401570418: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:57:08 CET [2026/01/21 7:57:08 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 1: javianto13 (500 in chips) 
+Seat 2: mabeal1 (460 in chips) 
+Seat 3: carlosjiver (540 in chips) 
+carlosjiver: posts small blind 10
+javianto13: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Ad]
+mabeal1: raises 20 to 40
+carlosjiver: folds 
+javianto13: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 50 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: javianto13 (big blind) folded before Flop
+Seat 2: mabeal1 (button) collected (50)
+Seat 3: carlosjiver (small blind) folded before Flop
+
+
+
+PokerStars Hand #259401571277: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:57:17 CET [2026/01/21 7:57:17 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 1: javianto13 (480 in chips) 
+Seat 2: mabeal1 (490 in chips) 
+Seat 3: carlosjiver (530 in chips) 
+javianto13: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Qd]
+carlosjiver: calls 20
+javianto13: calls 10
+mabeal1: checks 
+*** FLOP *** [6h 8d 4c]
+javianto13: bets 40
+mabeal1: calls 40
+carlosjiver: folds 
+*** TURN *** [6h 8d 4c] [2c]
+javianto13: bets 40
+mabeal1: calls 40
+*** RIVER *** [6h 8d 4c 2c] [Qh]
+javianto13: bets 40
+mabeal1: raises 350 to 390 and is all-in
+javianto13: folds 
+Uncalled bet (350) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [6h 8d 4c 2c Qh]
+Seat 1: javianto13 (small blind) folded on the River
+Seat 2: mabeal1 (big blind) collected (300)
+Seat 3: carlosjiver (button) folded on the Flop
+
+
+
+PokerStars Hand #259401574952: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:57:55 CET [2026/01/21 7:57:55 ET]
+Table '3967717716 1' 3-max Seat #1 is the button
+Seat 1: javianto13 (340 in chips) 
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: carlosjiver (510 in chips) 
+mabeal1: posts small blind 10
+carlosjiver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Td]
+javianto13: calls 20
+mabeal1: folds 
+carlosjiver: raises 490 to 510 and is all-in
+javianto13: calls 320 and is all-in
+Uncalled bet (170) returned to carlosjiver
+*** FLOP *** [Ah Js 7d]
+*** TURN *** [Ah Js 7d] [9d]
+*** RIVER *** [Ah Js 7d 9d] [Ts]
+*** SHOW DOWN ***
+carlosjiver: shows [9c Ad] (two pair, Aces and Nines)
+javianto13: shows [Ks Kh] (a pair of Kings)
+carlosjiver collected 690 from pot
+javianto13 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 690 | Rake 0 
+Board [Ah Js 7d 9d Ts]
+Seat 1: javianto13 (button) showed [Ks Kh] and lost with a pair of Kings
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: carlosjiver (big blind) showed [9c Ad] and won (690) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #259401576972: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:58:16 CET [2026/01/21 7:58:16 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (640 in chips) 
+Seat 3: carlosjiver (860 in chips) 
+carlosjiver: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Qc]
+carlosjiver: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: carlosjiver (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259401578376: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:58:30 CET [2026/01/21 7:58:30 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (650 in chips) 
+Seat 3: carlosjiver (850 in chips) 
+mabeal1: posts small blind 10
+carlosjiver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 6h]
+mabeal1: calls 10
+carlosjiver: raises 830 to 850 and is all-in
+mabeal1: folds 
+Uncalled bet (830) returned to carlosjiver
+carlosjiver collected 40 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: carlosjiver (big blind) collected (40)
+
+
+
+PokerStars Hand #259401579187: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:58:38 CET [2026/01/21 7:58:38 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (630 in chips) 
+Seat 3: carlosjiver (870 in chips) 
+carlosjiver: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Kc]
+carlosjiver: calls 10
+mabeal1: raises 40 to 60
+carlosjiver: raises 810 to 870 and is all-in
+mabeal1: folds 
+Uncalled bet (810) returned to carlosjiver
+carlosjiver collected 120 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: carlosjiver (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259401580454: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:58:51 CET [2026/01/21 7:58:51 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: carlosjiver (930 in chips) 
+mabeal1: posts small blind 10
+carlosjiver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Ad]
+mabeal1: raises 40 to 60
+carlosjiver has timed out
+carlosjiver: folds 
+carlosjiver is sitting out
+Uncalled bet (40) returned to mabeal1
+carlosjiver has returned
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (40)
+Seat 3: carlosjiver (big blind) folded before Flop
+
+
+
+PokerStars Hand #259401583547: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:59:23 CET [2026/01/21 7:59:23 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (590 in chips) 
+Seat 3: carlosjiver (910 in chips) 
+carlosjiver: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 4d]
+carlosjiver: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (20)
+Seat 3: carlosjiver (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259401583909: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:59:27 CET [2026/01/21 7:59:27 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (600 in chips) 
+Seat 3: carlosjiver (900 in chips) 
+mabeal1: posts small blind 10
+carlosjiver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Td]
+mabeal1: calls 10
+carlosjiver: checks 
+*** FLOP *** [Kc 5c 7c]
+carlosjiver: checks 
+mabeal1: bets 20
+carlosjiver: raises 860 to 880 and is all-in
+mabeal1: folds 
+Uncalled bet (860) returned to carlosjiver
+carlosjiver collected 80 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc 5c 7c]
+Seat 2: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: carlosjiver (big blind) collected (80)
+
+
+
+PokerStars Hand #259401585037: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:59:38 CET [2026/01/21 7:59:38 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: carlosjiver (940 in chips) 
+carlosjiver: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h Qd]
+carlosjiver: calls 10
+mabeal1: checks 
+*** FLOP *** [Kd Ac 9h]
+mabeal1: checks 
+carlosjiver: checks 
+*** TURN *** [Kd Ac 9h] [5d]
+mabeal1: checks 
+carlosjiver: checks 
+*** RIVER *** [Kd Ac 9h 5d] [5h]
+mabeal1: checks 
+carlosjiver: bets 60
+mabeal1: calls 60
+*** SHOW DOWN ***
+carlosjiver: shows [Qs Th] (a pair of Fives)
+mabeal1: shows [4h Qd] (a pair of Fives)
+mabeal1 collected 80 from pot
+carlosjiver collected 80 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Kd Ac 9h 5d 5h]
+Seat 2: mabeal1 (big blind) showed [4h Qd] and won (80) with a pair of Fives
+Seat 3: carlosjiver (button) (small blind) showed [Qs Th] and won (80) with a pair of Fives
+
+
+
+PokerStars Hand #259401586368: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/21 13:59:52 CET [2026/01/21 7:59:52 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (560 in chips) 
+Seat 3: carlosjiver (940 in chips) 
+mabeal1: posts small blind 10
+carlosjiver: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4c]
+mabeal1: calls 10
+carlosjiver: raises 920 to 940 and is all-in
+mabeal1: folds 
+Uncalled bet (920) returned to carlosjiver
+carlosjiver collected 40 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: carlosjiver (big blind) collected (40)
+
+
+
+PokerStars Hand #259401587594: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 14:00:04 CET [2026/01/21 8:00:04 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: carlosjiver (960 in chips) 
+carlosjiver: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh 3c]
+carlosjiver: calls 15
+mabeal1: checks 
+*** FLOP *** [5c 9d Tc]
+mabeal1: checks 
+carlosjiver: checks 
+*** TURN *** [5c 9d Tc] [9h]
+mabeal1: checks 
+carlosjiver: checks 
+*** RIVER *** [5c 9d Tc 9h] [4s]
+mabeal1: bets 30
+carlosjiver: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5c 9d Tc 9h 4s]
+Seat 2: mabeal1 (big blind) collected (60)
+Seat 3: carlosjiver (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #259401588947: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 14:00:18 CET [2026/01/21 8:00:18 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (570 in chips) 
+Seat 3: carlosjiver (930 in chips) 
+mabeal1: posts small blind 15
+carlosjiver: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Ts]
+mabeal1: calls 15
+carlosjiver: raises 900 to 930 and is all-in
+mabeal1: folds 
+Uncalled bet (900) returned to carlosjiver
+carlosjiver collected 60 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: carlosjiver (big blind) collected (60)
+
+
+
+PokerStars Hand #259401589714: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 14:00:25 CET [2026/01/21 8:00:25 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: carlosjiver (960 in chips) 
+carlosjiver: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 8h]
+carlosjiver has timed out
+carlosjiver: folds 
+carlosjiver is sitting out
+Uncalled bet (15) returned to mabeal1
+carlosjiver has returned
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: carlosjiver (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259401591310: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 14:00:40 CET [2026/01/21 8:00:40 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (555 in chips) 
+Seat 3: carlosjiver (945 in chips) 
+mabeal1: posts small blind 15
+carlosjiver: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 5h]
+mabeal1: calls 15
+carlosjiver: raises 915 to 945 and is all-in
+mabeal1: folds 
+Uncalled bet (915) returned to carlosjiver
+carlosjiver collected 60 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) folded before Flop
+Seat 3: carlosjiver (big blind) collected (60)
+
+
+
+PokerStars Hand #259401593323: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 14:00:59 CET [2026/01/21 8:00:59 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (525 in chips) 
+Seat 3: carlosjiver (975 in chips) 
+carlosjiver: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Kc]
+carlosjiver has timed out
+carlosjiver: folds 
+carlosjiver is sitting out
+Uncalled bet (15) returned to mabeal1
+carlosjiver has returned
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 2: mabeal1 (big blind) collected (30)
+Seat 3: carlosjiver (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259401595122: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 14:01:14 CET [2026/01/21 8:01:14 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (540 in chips) 
+Seat 3: carlosjiver (960 in chips) 
+mabeal1: posts small blind 15
+carlosjiver: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Qh]
+mabeal1: calls 15
+carlosjiver has timed out
+carlosjiver: checks 
+*** FLOP *** [3s Ks 6c]
+carlosjiver has timed out
+carlosjiver: checks 
+mabeal1: bets 30
+carlosjiver: raises 90 to 120
+mabeal1: raises 390 to 510 and is all-in
+carlosjiver: folds 
+Uncalled bet (390) returned to mabeal1
+mabeal1 collected 300 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [3s Ks 6c]
+Seat 2: mabeal1 (button) (small blind) collected (300)
+Seat 3: carlosjiver (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259401602274: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 14:02:12 CET [2026/01/21 8:02:12 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (690 in chips) 
+Seat 3: carlosjiver (810 in chips) 
+carlosjiver: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3s]
+carlosjiver: raises 780 to 810 and is all-in
+mabeal1: folds 
+Uncalled bet (780) returned to carlosjiver
+carlosjiver collected 60 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: carlosjiver (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259401603747: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 14:02:24 CET [2026/01/21 8:02:24 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (660 in chips) 
+Seat 3: carlosjiver (840 in chips) 
+mabeal1: posts small blind 15
+carlosjiver: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 8d]
+mabeal1: calls 15
+carlosjiver: raises 810 to 840 and is all-in
+mabeal1: calls 630 and is all-in
+Uncalled bet (180) returned to carlosjiver
+*** FLOP *** [3s 8h 5h]
+*** TURN *** [3s 8h 5h] [Jh]
+*** RIVER *** [3s 8h 5h Jh] [Ac]
+*** SHOW DOWN ***
+carlosjiver: shows [2h 8c] (a pair of Eights)
+mabeal1: shows [Kh 8d] (a pair of Eights - Ace+King kicker)
+mabeal1 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [3s 8h 5h Jh Ac]
+Seat 2: mabeal1 (button) (small blind) showed [Kh 8d] and won (1320) with a pair of Eights
+Seat 3: carlosjiver (big blind) showed [2h 8c] and lost with a pair of Eights
+
+
+
+PokerStars Hand #259401606003: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/21 14:02:42 CET [2026/01/21 8:02:42 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (1320 in chips) 
+Seat 3: carlosjiver (180 in chips) 
+carlosjiver: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 8h]
+carlosjiver: raises 150 to 180 and is all-in
+mabeal1: calls 150
+*** FLOP *** [6h Kh 7c]
+*** TURN *** [6h Kh 7c] [Qc]
+*** RIVER *** [6h Kh 7c Qc] [Kc]
+*** SHOW DOWN ***
+mabeal1: shows [Jh 8h] (a pair of Kings)
+carlosjiver: shows [7h 5d] (two pair, Kings and Sevens)
+carlosjiver collected 360 from pot
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6h Kh 7c Qc Kc]
+Seat 2: mabeal1 (big blind) showed [Jh 8h] and lost with a pair of Kings
+Seat 3: carlosjiver (button) (small blind) showed [7h 5d] and won (360) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #259401609036: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 14:03:06 CET [2026/01/21 8:03:06 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (1140 in chips) 
+Seat 3: carlosjiver (360 in chips) 
+mabeal1: posts small blind 20
+carlosjiver: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s 3h]
+mabeal1: raises 1100 to 1140 and is all-in
+carlosjiver: calls 320 and is all-in
+Uncalled bet (780) returned to mabeal1
+*** FLOP *** [4d 5h 2d]
+*** TURN *** [4d 5h 2d] [7d]
+*** RIVER *** [4d 5h 2d 7d] [2c]
+*** SHOW DOWN ***
+carlosjiver: shows [4c 4h] (a full house, Fours full of Deuces)
+mabeal1: shows [3s 3h] (two pair, Threes and Deuces)
+carlosjiver collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [4d 5h 2d 7d 2c]
+Seat 2: mabeal1 (button) (small blind) showed [3s 3h] and lost with two pair, Threes and Deuces
+Seat 3: carlosjiver (big blind) showed [4c 4h] and won (720) with a full house, Fours full of Deuces
+
+
+
+PokerStars Hand #259401611812: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 14:03:27 CET [2026/01/21 8:03:27 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (780 in chips) 
+Seat 3: carlosjiver (720 in chips) 
+carlosjiver: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Js]
+carlosjiver: raises 680 to 720 and is all-in
+mabeal1: folds 
+Uncalled bet (680) returned to carlosjiver
+carlosjiver collected 80 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: carlosjiver (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259401612659: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 14:03:33 CET [2026/01/21 8:03:33 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: carlosjiver (760 in chips) 
+mabeal1: posts small blind 20
+carlosjiver: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Kd]
+mabeal1: raises 700 to 740 and is all-in
+carlosjiver: folds 
+Uncalled bet (700) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (button) (small blind) collected (80)
+Seat 3: carlosjiver (big blind) folded before Flop
+
+
+
+PokerStars Hand #259401613615: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 14:03:41 CET [2026/01/21 8:03:41 ET]
+Table '3967717716 1' 3-max Seat #3 is the button
+Seat 2: mabeal1 (780 in chips) 
+Seat 3: carlosjiver (720 in chips) 
+carlosjiver: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c 3s]
+carlosjiver: raises 680 to 720 and is all-in
+mabeal1: folds 
+Uncalled bet (680) returned to carlosjiver
+carlosjiver collected 80 from pot
+carlosjiver: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: carlosjiver (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259401614226: Tournament #3967717716, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/21 14:03:46 CET [2026/01/21 8:03:46 ET]
+Table '3967717716 1' 3-max Seat #2 is the button
+Seat 2: mabeal1 (740 in chips) 
+Seat 3: carlosjiver (760 in chips) 
+mabeal1: posts small blind 20
+carlosjiver: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Js]
+mabeal1: calls 20
+carlosjiver: raises 720 to 760 and is all-in
+mabeal1: calls 700 and is all-in
+Uncalled bet (20) returned to carlosjiver
+*** FLOP *** [Jh 8d 8h]
+*** TURN *** [Jh 8d 8h] [4h]
+*** RIVER *** [Jh 8d 8h 4h] [2d]
+*** SHOW DOWN ***
+carlosjiver: shows [3h Ah] (a flush, Ace high)
+mabeal1: shows [9s Js] (two pair, Jacks and Eights)
+carlosjiver collected 1480 from pot
+mabeal1 finished the tournament in 2nd place
+carlosjiver wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [Jh 8d 8h 4h 2d]
+Seat 2: mabeal1 (button) (small blind) showed [9s Js] and lost with two pair, Jacks and Eights
+Seat 3: carlosjiver (big blind) showed [3h Ah] and won (1480) with a flush, Ace high
+
+
+

@@ -1,0 +1,413 @@
+﻿PokerStars Hand #259561118935: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:09:11 CET [2026/02/02 7:09:11 ET]
+Table '3971378628 1' 3-max Seat #1 is the button
+Seat 1: asertusa (500 in chips) 
+Seat 2: kilyE23 (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+kilyE23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 7c]
+asertusa: folds 
+kilyE23: calls 10
+mabeal1: checks 
+*** FLOP *** [7h Jh Ad]
+kilyE23: checks 
+mabeal1: checks 
+*** TURN *** [7h Jh Ad] [9h]
+kilyE23: bets 20
+mabeal1: calls 20
+*** RIVER *** [7h Jh Ad 9h] [7s]
+kilyE23: checks 
+mabeal1: bets 100
+kilyE23: calls 100
+*** SHOW DOWN ***
+mabeal1: shows [Kh 7c] (three of a kind, Sevens)
+kilyE23: mucks hand 
+mabeal1 collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Board [7h Jh Ad 9h 7s]
+Seat 1: asertusa (button) folded before Flop (didn't bet)
+Seat 2: kilyE23 (small blind) mucked [3c Js]
+Seat 3: mabeal1 (big blind) showed [Kh 7c] and won (280) with three of a kind, Sevens
+
+
+
+PokerStars Hand #259561122573: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:09:44 CET [2026/02/02 7:09:44 ET]
+Table '3971378628 1' 3-max Seat #2 is the button
+Seat 1: asertusa (500 in chips) 
+Seat 2: kilyE23 (360 in chips) 
+Seat 3: mabeal1 (640 in chips) 
+mabeal1: posts small blind 10
+asertusa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Ks]
+kilyE23: folds 
+mabeal1: folds 
+Uncalled bet (10) returned to asertusa
+asertusa collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: asertusa (big blind) collected (20)
+Seat 2: kilyE23 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561123829: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:09:56 CET [2026/02/02 7:09:56 ET]
+Table '3971378628 1' 3-max Seat #3 is the button
+Seat 1: asertusa (510 in chips) 
+Seat 2: kilyE23 (360 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+asertusa: posts small blind 10
+kilyE23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c 6c]
+mabeal1: folds 
+asertusa: calls 10
+kilyE23: checks 
+*** FLOP *** [Js 4c Ac]
+asertusa: checks 
+kilyE23: checks 
+*** TURN *** [Js 4c Ac] [Ks]
+asertusa: checks 
+kilyE23: checks 
+*** RIVER *** [Js 4c Ac Ks] [8c]
+asertusa: checks 
+kilyE23: bets 20
+asertusa: calls 20
+*** SHOW DOWN ***
+kilyE23: shows [9d 8s] (a pair of Eights)
+asertusa: mucks hand 
+kilyE23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js 4c Ac Ks 8c]
+Seat 1: asertusa (small blind) mucked [9h 7c]
+Seat 2: kilyE23 (big blind) showed [9d 8s] and won (80) with a pair of Eights
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561126729: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:10:23 CET [2026/02/02 7:10:23 ET]
+Table '3971378628 1' 3-max Seat #1 is the button
+Seat 1: asertusa (470 in chips) 
+Seat 2: kilyE23 (400 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+kilyE23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Qs]
+asertusa: folds 
+kilyE23: raises 20 to 40
+mabeal1: calls 20
+*** FLOP *** [Kd 5s 3d]
+kilyE23: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to kilyE23
+kilyE23 collected 80 from pot
+kilyE23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kd 5s 3d]
+Seat 1: asertusa (button) folded before Flop (didn't bet)
+Seat 2: kilyE23 (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259561130099: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 13:10:54 CET [2026/02/02 7:10:54 ET]
+Table '3971378628 1' 3-max Seat #2 is the button
+Seat 1: asertusa (470 in chips) 
+Seat 2: kilyE23 (440 in chips) 
+Seat 3: mabeal1 (590 in chips) 
+mabeal1: posts small blind 10
+asertusa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c Qc]
+kilyE23: folds 
+mabeal1: raises 30 to 50
+asertusa: calls 30
+*** FLOP *** [2s Qs 8h]
+mabeal1: bets 50
+asertusa: calls 50
+*** TURN *** [2s Qs 8h] [8s]
+mabeal1: bets 150
+asertusa: folds 
+Uncalled bet (150) returned to mabeal1
+mabeal1 collected 200 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2s Qs 8h 8s]
+Seat 1: asertusa (big blind) folded on the Turn
+Seat 2: kilyE23 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (200)
+
+
+
+PokerStars Hand #259561132729: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:11:19 CET [2026/02/02 7:11:19 ET]
+Table '3971378628 1' 3-max Seat #3 is the button
+Seat 1: asertusa (370 in chips) 
+Seat 2: kilyE23 (440 in chips) 
+Seat 3: mabeal1 (690 in chips) 
+asertusa: posts small blind 15
+kilyE23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Th]
+mabeal1: raises 30 to 60
+asertusa: raises 30 to 90
+kilyE23: folds 
+mabeal1: calls 30
+*** FLOP *** [5d 3c 7h]
+asertusa: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to asertusa
+asertusa collected 210 from pot
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [5d 3c 7h]
+Seat 1: asertusa (small blind) collected (210)
+Seat 2: kilyE23 (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded on the Flop
+
+
+
+PokerStars Hand #259561134567: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:11:35 CET [2026/02/02 7:11:35 ET]
+Table '3971378628 1' 3-max Seat #1 is the button
+Seat 1: asertusa (490 in chips) 
+Seat 2: kilyE23 (410 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+kilyE23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 3c]
+asertusa: calls 30
+kilyE23: folds 
+mabeal1: checks 
+*** FLOP *** [7h 8d Jd]
+mabeal1: checks 
+asertusa: checks 
+*** TURN *** [7h 8d Jd] [Ks]
+mabeal1: checks 
+asertusa: bets 30
+mabeal1: folds 
+Uncalled bet (30) returned to asertusa
+asertusa collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [7h 8d Jd Ks]
+Seat 1: asertusa (button) collected (75)
+Seat 2: kilyE23 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259561136798: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:11:56 CET [2026/02/02 7:11:56 ET]
+Table '3971378628 1' 3-max Seat #2 is the button
+Seat 1: asertusa (535 in chips) 
+Seat 2: kilyE23 (395 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+mabeal1: posts small blind 15
+asertusa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c As]
+kilyE23: folds 
+mabeal1: raises 540 to 570 and is all-in
+asertusa: folds 
+Uncalled bet (540) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: asertusa (big blind) folded before Flop
+Seat 2: kilyE23 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259561139427: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:12:20 CET [2026/02/02 7:12:20 ET]
+Table '3971378628 1' 3-max Seat #3 is the button
+Seat 1: asertusa (505 in chips) 
+Seat 2: kilyE23 (395 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+asertusa: posts small blind 15
+kilyE23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 9c]
+mabeal1: raises 30 to 60
+asertusa: folds 
+kilyE23: calls 30
+*** FLOP *** [8h 8d Jd]
+kilyE23: checks 
+mabeal1: checks 
+*** TURN *** [8h 8d Jd] [Ah]
+kilyE23: checks 
+mabeal1: checks 
+*** RIVER *** [8h 8d Jd Ah] [Js]
+kilyE23: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+kilyE23: shows [4h 4d] (two pair, Jacks and Eights)
+mabeal1: shows [9d 9c] (two pair, Jacks and Nines)
+mabeal1 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [8h 8d Jd Ah Js]
+Seat 1: asertusa (small blind) folded before Flop
+Seat 2: kilyE23 (big blind) showed [4h 4d] and lost with two pair, Jacks and Eights
+Seat 3: mabeal1 (button) showed [9d 9c] and won (135) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #259561141980: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 13:12:44 CET [2026/02/02 7:12:44 ET]
+Table '3971378628 1' 3-max Seat #1 is the button
+Seat 1: asertusa (490 in chips) 
+Seat 2: kilyE23 (335 in chips) 
+Seat 3: mabeal1 (675 in chips) 
+kilyE23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jc]
+asertusa: raises 30 to 60
+kilyE23: folds 
+mabeal1: calls 30
+*** FLOP *** [Qs Qc 8c]
+mabeal1: checks 
+asertusa: bets 30
+mabeal1: raises 150 to 180
+asertusa: raises 250 to 430 and is all-in
+mabeal1: folds 
+Uncalled bet (250) returned to asertusa
+asertusa collected 495 from pot
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Board [Qs Qc 8c]
+Seat 1: asertusa (button) collected (495)
+Seat 2: kilyE23 (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259561145623: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:13:17 CET [2026/02/02 7:13:17 ET]
+Table '3971378628 1' 3-max Seat #2 is the button
+Seat 1: asertusa (745 in chips) 
+Seat 2: kilyE23 (320 in chips) 
+Seat 3: mabeal1 (435 in chips) 
+mabeal1: posts small blind 20
+asertusa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 6s]
+kilyE23: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to asertusa
+asertusa collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: asertusa (big blind) collected (40)
+Seat 2: kilyE23 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259561146668: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:13:27 CET [2026/02/02 7:13:27 ET]
+Table '3971378628 1' 3-max Seat #3 is the button
+Seat 1: asertusa (765 in chips) 
+Seat 2: kilyE23 (320 in chips) 
+Seat 3: mabeal1 (415 in chips) 
+asertusa: posts small blind 20
+kilyE23: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 9d]
+mabeal1: folds 
+asertusa: calls 20
+kilyE23: checks 
+*** FLOP *** [7h 2s Th]
+asertusa: checks 
+kilyE23: checks 
+*** TURN *** [7h 2s Th] [5h]
+asertusa: bets 40
+kilyE23: calls 40
+*** RIVER *** [7h 2s Th 5h] [2c]
+asertusa: bets 40
+kilyE23: calls 40
+*** SHOW DOWN ***
+asertusa: shows [4c 5s] (two pair, Fives and Deuces)
+kilyE23: shows [7c 4d] (two pair, Sevens and Deuces)
+kilyE23 collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7h 2s Th 5h 2c]
+Seat 1: asertusa (small blind) showed [4c 5s] and lost with two pair, Fives and Deuces
+Seat 2: kilyE23 (big blind) showed [7c 4d] and won (240) with two pair, Sevens and Deuces
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259561149179: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:13:50 CET [2026/02/02 7:13:50 ET]
+Table '3971378628 1' 3-max Seat #1 is the button
+Seat 1: asertusa (645 in chips) 
+Seat 2: kilyE23 (440 in chips) 
+Seat 3: mabeal1 (415 in chips) 
+kilyE23: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 2d]
+asertusa: folds 
+kilyE23: calls 20
+mabeal1: checks 
+*** FLOP *** [Jc Kd 9h]
+kilyE23: checks 
+mabeal1: checks 
+*** TURN *** [Jc Kd 9h] [Jh]
+kilyE23: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to kilyE23
+kilyE23 collected 80 from pot
+kilyE23: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jc Kd 9h Jh]
+Seat 1: asertusa (button) folded before Flop (didn't bet)
+Seat 2: kilyE23 (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259561150878: Tournament #3971378628, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 13:14:06 CET [2026/02/02 7:14:06 ET]
+Table '3971378628 1' 3-max Seat #2 is the button
+Seat 1: asertusa (645 in chips) 
+Seat 2: kilyE23 (480 in chips) 
+Seat 3: mabeal1 (375 in chips) 
+mabeal1: posts small blind 20
+asertusa: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 9h]
+kilyE23: folds 
+mabeal1: raises 40 to 80
+asertusa: calls 40
+*** FLOP *** [Ks Qc 6s]
+mabeal1: checks 
+asertusa: bets 40
+mabeal1: calls 40
+*** TURN *** [Ks Qc 6s] [Th]
+mabeal1: checks 
+asertusa: bets 40
+mabeal1: calls 40
+*** RIVER *** [Ks Qc 6s Th] [3c]
+mabeal1: checks 
+asertusa: bets 80
+mabeal1: calls 80
+*** SHOW DOWN ***
+asertusa: shows [Qs 7d] (a pair of Queens)
+mabeal1: mucks hand 
+asertusa collected 480 from pot
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [Ks Qc 6s Th 3c]
+Seat 1: asertusa (big blind) showed [Qs 7d] and won (480) with a pair of Queens
+Seat 2: kilyE23 (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) mucked [9d 9h]
+
+
+

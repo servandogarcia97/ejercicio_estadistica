@@ -1,0 +1,979 @@
+﻿PokerStars Hand #259563596142: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:48:57 CET [2026/02/02 11:48:57 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: 57apip (500 in chips) 
+Seat 3: joseginga336 (500 in chips) 
+57apip: posts small blind 10
+joseginga336: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Qc]
+mabeal1: folds 
+57apip: folds 
+Uncalled bet (10) returned to joseginga336
+joseginga336 collected 20 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: 57apip (small blind) folded before Flop
+Seat 3: joseginga336 (big blind) collected (20)
+
+
+
+PokerStars Hand #259563597543: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:49:04 CET [2026/02/02 11:49:04 ET]
+Table '3971441755 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: 57apip (490 in chips) 
+Seat 3: joseginga336 (510 in chips) 
+joseginga336: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s Ks]
+57apip: raises 20 to 40
+joseginga336: folds 
+mabeal1: calls 20
+*** FLOP *** [Qc 5s Js]
+mabeal1: checks 
+57apip: bets 90
+mabeal1: raises 370 to 460 and is all-in
+57apip: calls 360 and is all-in
+Uncalled bet (10) returned to mabeal1
+*** TURN *** [Qc 5s Js] [2c]
+*** RIVER *** [Qc 5s Js 2c] [7s]
+*** SHOW DOWN ***
+mabeal1: shows [8s Ks] (a flush, King high)
+57apip: shows [3s Qs] (a flush, Queen high)
+mabeal1 collected 990 from pot
+57apip finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [Qc 5s Js 2c 7s]
+Seat 1: mabeal1 (big blind) showed [8s Ks] and won (990) with a flush, King high
+Seat 2: 57apip (button) showed [3s Qs] and lost with a flush, Queen high
+Seat 3: joseginga336 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563602589: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:49:30 CET [2026/02/02 11:49:30 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1000 in chips) 
+Seat 3: joseginga336 (500 in chips) 
+mabeal1: posts small blind 10
+joseginga336: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Ts]
+mabeal1: calls 10
+joseginga336: checks 
+*** FLOP *** [9c Qs Jc]
+joseginga336: checks 
+mabeal1: bets 20
+joseginga336: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9c Qs Jc]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: joseginga336 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259563604844: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:49:41 CET [2026/02/02 11:49:41 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: joseginga336 (480 in chips) 
+joseginga336: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 9c]
+joseginga336: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (20)
+Seat 3: joseginga336 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563605792: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:49:46 CET [2026/02/02 11:49:46 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1030 in chips) 
+Seat 3: joseginga336 (470 in chips) 
+mabeal1: posts small blind 10
+joseginga336: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9c]
+mabeal1: calls 10
+joseginga336: checks 
+*** FLOP *** [3d 6h 6c]
+joseginga336: checks 
+mabeal1: checks 
+*** TURN *** [3d 6h 6c] [Th]
+joseginga336: checks 
+mabeal1: bets 30
+joseginga336: calls 30
+*** RIVER *** [3d 6h 6c Th] [2h]
+joseginga336: checks 
+mabeal1: bets 75
+joseginga336: folds 
+Uncalled bet (75) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [3d 6h 6c Th 2h]
+Seat 1: mabeal1 (button) (small blind) collected (100)
+Seat 3: joseginga336 (big blind) folded on the River
+
+
+
+PokerStars Hand #259563610871: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:50:12 CET [2026/02/02 11:50:12 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1080 in chips) 
+Seat 3: joseginga336 (420 in chips) 
+joseginga336: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 4c]
+joseginga336: calls 10
+mabeal1: checks 
+*** FLOP *** [9h 2s 6d]
+mabeal1: checks 
+joseginga336: checks 
+*** TURN *** [9h 2s 6d] [Jd]
+mabeal1: checks 
+joseginga336: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to joseginga336
+joseginga336 collected 40 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9h 2s 6d Jd]
+Seat 1: mabeal1 (big blind) folded on the Turn
+Seat 3: joseginga336 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259563613592: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:50:26 CET [2026/02/02 11:50:26 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: joseginga336 (440 in chips) 
+mabeal1: posts small blind 10
+joseginga336: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4h]
+mabeal1: folds 
+Uncalled bet (10) returned to joseginga336
+joseginga336 collected 20 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: joseginga336 (big blind) collected (20)
+
+
+
+PokerStars Hand #259563614549: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:50:31 CET [2026/02/02 11:50:31 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: joseginga336 (450 in chips) 
+joseginga336: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Kc]
+joseginga336: calls 10
+mabeal1: checks 
+*** FLOP *** [Ac 2h 3d]
+mabeal1: checks 
+joseginga336: checks 
+*** TURN *** [Ac 2h 3d] [6h]
+mabeal1: checks 
+joseginga336: checks 
+*** RIVER *** [Ac 2h 3d 6h] [3s]
+mabeal1: checks 
+joseginga336: checks 
+*** SHOW DOWN ***
+mabeal1: shows [5d Kc] (a pair of Threes)
+joseginga336: mucks hand 
+mabeal1 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ac 2h 3d 6h 3s]
+Seat 1: mabeal1 (big blind) showed [5d Kc] and won (40) with a pair of Threes
+Seat 3: joseginga336 (button) (small blind) mucked [9h 5h]
+
+
+
+PokerStars Hand #259563618178: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:50:50 CET [2026/02/02 11:50:50 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1070 in chips) 
+Seat 3: joseginga336 (430 in chips) 
+mabeal1: posts small blind 10
+joseginga336: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 2s]
+mabeal1: folds 
+Uncalled bet (10) returned to joseginga336
+joseginga336 collected 20 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: joseginga336 (big blind) collected (20)
+
+
+
+PokerStars Hand #259563619948: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:50:59 CET [2026/02/02 11:50:59 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: joseginga336 (440 in chips) 
+joseginga336: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 8h]
+joseginga336: raises 420 to 440 and is all-in
+mabeal1: folds 
+Uncalled bet (420) returned to joseginga336
+joseginga336 collected 40 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: joseginga336 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259563621413: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:51:06 CET [2026/02/02 11:51:06 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1040 in chips) 
+Seat 3: joseginga336 (460 in chips) 
+mabeal1: posts small blind 10
+joseginga336: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Kc]
+mabeal1: calls 10
+joseginga336: checks 
+*** FLOP *** [Qh Ac 4s]
+joseginga336: checks 
+mabeal1: bets 20
+joseginga336: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qh Ac 4s]
+Seat 1: mabeal1 (button) (small blind) collected (40)
+Seat 3: joseginga336 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259563624309: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:51:21 CET [2026/02/02 11:51:21 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: joseginga336 (440 in chips) 
+joseginga336: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Qs]
+joseginga336: calls 10
+mabeal1: checks 
+*** FLOP *** [3c Kd 7d]
+mabeal1: checks 
+joseginga336: checks 
+*** TURN *** [3c Kd 7d] [Kh]
+mabeal1: bets 20
+joseginga336: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3c Kd 7d Kh]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: joseginga336 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259563627120: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:51:35 CET [2026/02/02 11:51:35 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1080 in chips) 
+Seat 3: joseginga336 (420 in chips) 
+mabeal1: posts small blind 10
+joseginga336: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6s]
+mabeal1: calls 10
+joseginga336: checks 
+*** FLOP *** [4h 9c 2c]
+joseginga336: checks 
+mabeal1: checks 
+*** TURN *** [4h 9c 2c] [Jh]
+joseginga336: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to joseginga336
+joseginga336 collected 40 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [4h 9c 2c Jh]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: joseginga336 (big blind) collected (40)
+
+
+
+PokerStars Hand #259563629997: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/02 17:51:50 CET [2026/02/02 11:51:50 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1060 in chips) 
+Seat 3: joseginga336 (440 in chips) 
+joseginga336: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8c Js]
+joseginga336: calls 10
+mabeal1: checks 
+*** FLOP *** [Ac 5h 6c]
+mabeal1: checks 
+joseginga336: checks 
+*** TURN *** [Ac 5h 6c] [Qs]
+mabeal1: bets 20
+joseginga336: calls 20
+*** RIVER *** [Ac 5h 6c Qs] [Kh]
+mabeal1: checks 
+joseginga336: checks 
+*** SHOW DOWN ***
+mabeal1: shows [8c Js] (high card Ace)
+joseginga336: shows [Qc 9c] (a pair of Queens)
+joseginga336 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ac 5h 6c Qs Kh]
+Seat 1: mabeal1 (big blind) showed [8c Js] and lost with high card Ace
+Seat 3: joseginga336 (button) (small blind) showed [Qc 9c] and won (80) with a pair of Queens
+
+
+
+PokerStars Hand #259563634434: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:52:13 CET [2026/02/02 11:52:13 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1020 in chips) 
+Seat 3: joseginga336 (480 in chips) 
+mabeal1: posts small blind 15
+joseginga336: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 7c]
+mabeal1: calls 15
+joseginga336: checks 
+*** FLOP *** [2d Qs 7d]
+joseginga336: checks 
+mabeal1: checks 
+*** TURN *** [2d Qs 7d] [3s]
+joseginga336: checks 
+mabeal1: bets 45
+joseginga336: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2d Qs 7d 3s]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: joseginga336 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259563636685: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:52:25 CET [2026/02/02 11:52:25 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1050 in chips) 
+Seat 3: joseginga336 (450 in chips) 
+joseginga336: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 5c]
+joseginga336: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (30)
+Seat 3: joseginga336 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563637397: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:52:28 CET [2026/02/02 11:52:28 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: joseginga336 (435 in chips) 
+mabeal1: posts small blind 15
+joseginga336: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd Js]
+mabeal1: calls 15
+joseginga336: checks 
+*** FLOP *** [As 3c Qs]
+joseginga336: checks 
+mabeal1: bets 30
+joseginga336: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [As 3c Qs]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: joseginga336 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259563640464: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:52:44 CET [2026/02/02 11:52:44 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1095 in chips) 
+Seat 3: joseginga336 (405 in chips) 
+joseginga336: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4s]
+joseginga336: calls 15
+mabeal1: raises 1065 to 1095 and is all-in
+joseginga336: folds 
+Uncalled bet (1065) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: joseginga336 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563641852: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:52:51 CET [2026/02/02 11:52:51 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1125 in chips) 
+Seat 3: joseginga336 (375 in chips) 
+mabeal1: posts small blind 15
+joseginga336: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h 9d]
+mabeal1: calls 15
+joseginga336: checks 
+*** FLOP *** [5d Ks 6h]
+joseginga336: checks 
+mabeal1: checks 
+*** TURN *** [5d Ks 6h] [4d]
+joseginga336: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to joseginga336
+joseginga336 collected 60 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5d Ks 6h 4d]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: joseginga336 (big blind) collected (60)
+
+
+
+PokerStars Hand #259563644707: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:53:06 CET [2026/02/02 11:53:06 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1095 in chips) 
+Seat 3: joseginga336 (405 in chips) 
+joseginga336: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Qd]
+joseginga336: raises 375 to 405 and is all-in
+mabeal1: folds 
+Uncalled bet (375) returned to joseginga336
+joseginga336 collected 60 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: joseginga336 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259563646188: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:53:13 CET [2026/02/02 11:53:13 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: joseginga336 (435 in chips) 
+mabeal1: posts small blind 15
+joseginga336: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Jh]
+mabeal1: calls 15
+joseginga336: raises 60 to 90
+mabeal1: folds 
+Uncalled bet (60) returned to joseginga336
+joseginga336 collected 60 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: joseginga336 (big blind) collected (60)
+
+
+
+PokerStars Hand #259563648917: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:53:27 CET [2026/02/02 11:53:27 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1035 in chips) 
+Seat 3: joseginga336 (465 in chips) 
+joseginga336: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 6s]
+joseginga336: calls 15
+mabeal1: checks 
+*** FLOP *** [Ts 6d Ad]
+mabeal1: checks 
+joseginga336: checks 
+*** TURN *** [Ts 6d Ad] [4d]
+mabeal1: bets 30
+joseginga336: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ts 6d Ad 4d]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: joseginga336 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259563651969: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:53:43 CET [2026/02/02 11:53:43 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: joseginga336 (435 in chips) 
+mabeal1: posts small blind 15
+joseginga336: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 9h]
+mabeal1: calls 15
+joseginga336: checks 
+*** FLOP *** [Jd 5d 4d]
+joseginga336: checks 
+mabeal1: bets 30
+joseginga336: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 5d 4d]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: joseginga336 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259563654113: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:53:54 CET [2026/02/02 11:53:54 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1095 in chips) 
+Seat 3: joseginga336 (405 in chips) 
+joseginga336: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 4c]
+joseginga336: calls 15
+mabeal1: checks 
+*** FLOP *** [Jd 8h Ts]
+mabeal1: checks 
+joseginga336: checks 
+*** TURN *** [Jd 8h Ts] [Jh]
+mabeal1: bets 45
+joseginga336: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Jd 8h Ts Jh]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: joseginga336 (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259563656583: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:54:07 CET [2026/02/02 11:54:07 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1125 in chips) 
+Seat 3: joseginga336 (375 in chips) 
+mabeal1: posts small blind 15
+joseginga336: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 5c]
+mabeal1: calls 15
+joseginga336: checks 
+*** FLOP *** [6h 2d Tc]
+joseginga336: checks 
+mabeal1: checks 
+*** TURN *** [6h 2d Tc] [Js]
+joseginga336: checks 
+mabeal1: bets 45
+joseginga336: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [6h 2d Tc Js]
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: joseginga336 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259563659634: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:54:23 CET [2026/02/02 11:54:23 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1155 in chips) 
+Seat 3: joseginga336 (345 in chips) 
+joseginga336: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 5s]
+joseginga336: raises 315 to 345 and is all-in
+mabeal1: folds 
+Uncalled bet (315) returned to joseginga336
+joseginga336 collected 60 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: joseginga336 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259563661051: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:54:30 CET [2026/02/02 11:54:30 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1125 in chips) 
+Seat 3: joseginga336 (375 in chips) 
+mabeal1: posts small blind 15
+joseginga336: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 9c]
+mabeal1: raises 1095 to 1125 and is all-in
+joseginga336: folds 
+Uncalled bet (1095) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (60)
+Seat 3: joseginga336 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259563663427: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:54:42 CET [2026/02/02 11:54:42 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1155 in chips) 
+Seat 3: joseginga336 (345 in chips) 
+joseginga336: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 5s]
+joseginga336: raises 315 to 345 and is all-in
+mabeal1: folds 
+Uncalled bet (315) returned to joseginga336
+joseginga336 collected 60 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: joseginga336 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259563664775: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/02 17:54:49 CET [2026/02/02 11:54:49 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1125 in chips) 
+Seat 3: joseginga336 (375 in chips) 
+mabeal1: posts small blind 15
+joseginga336: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 7h]
+mabeal1: calls 15
+joseginga336: checks 
+*** FLOP *** [Qd 5c 6d]
+joseginga336: checks 
+mabeal1: bets 30
+joseginga336: raises 120 to 150
+mabeal1: folds 
+Uncalled bet (120) returned to joseginga336
+joseginga336 collected 120 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Qd 5c 6d]
+Seat 1: mabeal1 (button) (small blind) folded on the Flop
+Seat 3: joseginga336 (big blind) collected (120)
+
+
+
+PokerStars Hand #259563668099: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:55:07 CET [2026/02/02 11:55:07 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: joseginga336 (435 in chips) 
+joseginga336: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 3s]
+joseginga336: raises 395 to 435 and is all-in
+mabeal1: folds 
+Uncalled bet (395) returned to joseginga336
+joseginga336 collected 80 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: joseginga336 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259563669289: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:55:13 CET [2026/02/02 11:55:13 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1025 in chips) 
+Seat 3: joseginga336 (475 in chips) 
+mabeal1: posts small blind 20
+joseginga336: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Ks]
+mabeal1: raises 985 to 1025 and is all-in
+joseginga336: folds 
+Uncalled bet (985) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: joseginga336 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259563670242: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:55:20 CET [2026/02/02 11:55:20 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: joseginga336 (435 in chips) 
+joseginga336: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Ad]
+joseginga336: calls 20
+mabeal1: raises 1025 to 1065 and is all-in
+joseginga336: folds 
+Uncalled bet (1025) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (80)
+Seat 3: joseginga336 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563671253: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:55:27 CET [2026/02/02 11:55:27 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 3: joseginga336 (395 in chips) 
+mabeal1: posts small blind 20
+joseginga336: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Js]
+mabeal1: raises 1065 to 1105 and is all-in
+joseginga336: folds 
+Uncalled bet (1065) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: joseginga336 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259563673437: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:55:42 CET [2026/02/02 11:55:42 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1145 in chips) 
+Seat 3: joseginga336 (355 in chips) 
+joseginga336: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 2h]
+joseginga336: calls 20
+mabeal1: checks 
+*** FLOP *** [6c Ad 6h]
+mabeal1: checks 
+joseginga336: checks 
+*** TURN *** [6c Ad 6h] [Qd]
+mabeal1: checks 
+joseginga336: checks 
+*** RIVER *** [6c Ad 6h Qd] [Ks]
+mabeal1: checks 
+joseginga336: checks 
+*** SHOW DOWN ***
+mabeal1: shows [7d 2h] (a pair of Sixes)
+joseginga336: shows [9d Qs] (two pair, Queens and Sixes)
+joseginga336 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c Ad 6h Qd Ks]
+Seat 1: mabeal1 (big blind) showed [7d 2h] and lost with a pair of Sixes
+Seat 3: joseginga336 (button) (small blind) showed [9d Qs] and won (80) with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #259563675911: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:55:59 CET [2026/02/02 11:55:59 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 3: joseginga336 (395 in chips) 
+mabeal1: posts small blind 20
+joseginga336: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 2s]
+mabeal1: calls 20
+joseginga336: raises 80 to 120
+mabeal1: folds 
+Uncalled bet (80) returned to joseginga336
+joseginga336 collected 80 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: joseginga336 (big blind) collected (80)
+
+
+
+PokerStars Hand #259563677501: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:56:10 CET [2026/02/02 11:56:10 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: joseginga336 (435 in chips) 
+joseginga336: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Js]
+joseginga336: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: joseginga336 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563678198: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:56:15 CET [2026/02/02 11:56:15 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1085 in chips) 
+Seat 3: joseginga336 (415 in chips) 
+mabeal1: posts small blind 20
+joseginga336: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d Tc]
+mabeal1: calls 20
+joseginga336: checks 
+*** FLOP *** [6h Qc 9d]
+joseginga336: checks 
+mabeal1: checks 
+*** TURN *** [6h Qc 9d] [2d]
+joseginga336: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to joseginga336
+joseginga336 collected 80 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h Qc 9d 2d]
+Seat 1: mabeal1 (button) (small blind) folded on the Turn
+Seat 3: joseginga336 (big blind) collected (80)
+
+
+
+PokerStars Hand #259563680610: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:56:31 CET [2026/02/02 11:56:31 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1045 in chips) 
+Seat 3: joseginga336 (455 in chips) 
+joseginga336: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 6s]
+joseginga336: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 3: joseginga336 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259563681318: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:56:36 CET [2026/02/02 11:56:36 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: joseginga336 (435 in chips) 
+mabeal1: posts small blind 20
+joseginga336: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 8s]
+mabeal1: raises 1025 to 1065 and is all-in
+joseginga336: folds 
+Uncalled bet (1025) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (80)
+Seat 3: joseginga336 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259563682308: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:56:43 CET [2026/02/02 11:56:43 ET]
+Table '3971441755 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (1105 in chips) 
+Seat 3: joseginga336 (395 in chips) 
+joseginga336: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 4c]
+joseginga336: raises 355 to 395 and is all-in
+mabeal1: folds 
+Uncalled bet (355) returned to joseginga336
+joseginga336 collected 80 from pot
+joseginga336: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 3: joseginga336 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259563683278: Tournament #3971441755, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/02 17:56:49 CET [2026/02/02 11:56:49 ET]
+Table '3971441755 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (1065 in chips) 
+Seat 3: joseginga336 (435 in chips) 
+mabeal1: posts small blind 20
+joseginga336: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Tc]
+mabeal1: raises 1025 to 1065 and is all-in
+joseginga336: calls 395 and is all-in
+Uncalled bet (630) returned to mabeal1
+*** FLOP *** [5d 2c 6d]
+*** TURN *** [5d 2c 6d] [Th]
+*** RIVER *** [5d 2c 6d Th] [Kd]
+*** SHOW DOWN ***
+joseginga336: shows [8h 8d] (a pair of Eights)
+mabeal1: shows [Jd Tc] (a pair of Tens)
+mabeal1 collected 870 from pot
+joseginga336 finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [5d 2c 6d Th Kd]
+Seat 1: mabeal1 (button) (small blind) showed [Jd Tc] and won (870) with a pair of Tens
+Seat 3: joseginga336 (big blind) showed [8h 8d] and lost with a pair of Eights
+
+
+

@@ -1,0 +1,577 @@
+﻿PokerStars Hand #259572156278: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:14:34 CET [2026/02/02 21:14:34 ET]
+Table '3971606474 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: jesute35 (500 in chips) 
+Seat 3: juandebeny (500 in chips) 
+jesute35: posts small blind 10
+juandebeny: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Ah]
+mabeal1: raises 20 to 40
+jesute35: folds 
+juandebeny: calls 20
+*** FLOP *** [9d 5c 4s]
+juandebeny: checks 
+mabeal1: checks 
+*** TURN *** [9d 5c 4s] [2h]
+juandebeny: checks 
+mabeal1: checks 
+*** RIVER *** [9d 5c 4s 2h] [As]
+juandebeny: checks 
+mabeal1: bets 60
+juandebeny: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9d 5c 4s 2h As]
+Seat 1: mabeal1 (button) collected (90)
+Seat 2: jesute35 (small blind) folded before Flop
+Seat 3: juandebeny (big blind) folded on the River
+
+
+
+PokerStars Hand #259572159374: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:14:57 CET [2026/02/02 21:14:57 ET]
+Table '3971606474 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (550 in chips) 
+Seat 2: jesute35 (490 in chips) 
+Seat 3: juandebeny (460 in chips) 
+juandebeny: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 7d]
+jesute35: raises 20 to 40
+juandebeny: folds 
+mabeal1: calls 20
+*** FLOP *** [8c 2c Qc]
+mabeal1: checks 
+jesute35: checks 
+*** TURN *** [8c 2c Qc] [9h]
+mabeal1: bets 45
+jesute35: calls 45
+*** RIVER *** [8c 2c Qc 9h] [Td]
+mabeal1: bets 135
+jesute35: folds 
+Uncalled bet (135) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8c 2c Qc 9h Td]
+Seat 1: mabeal1 (big blind) collected (180)
+Seat 2: jesute35 (button) folded on the River
+Seat 3: juandebeny (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572164763: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:15:38 CET [2026/02/02 21:15:38 ET]
+Table '3971606474 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (645 in chips) 
+Seat 2: jesute35 (405 in chips) 
+Seat 3: juandebeny (450 in chips) 
+mabeal1: posts small blind 10
+jesute35: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5h Qh]
+juandebeny: folds 
+mabeal1: raises 30 to 50
+jesute35: calls 30
+*** FLOP *** [9s 7s 6s]
+mabeal1: checks 
+jesute35: bets 50
+mabeal1: folds 
+Uncalled bet (50) returned to jesute35
+jesute35 collected 100 from pot
+jesute35: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [9s 7s 6s]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: jesute35 (big blind) collected (100)
+Seat 3: juandebeny (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572169524: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:16:15 CET [2026/02/02 21:16:15 ET]
+Table '3971606474 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: jesute35 (455 in chips) 
+Seat 3: juandebeny (450 in chips) 
+jesute35: posts small blind 10
+juandebeny: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 4c]
+mabeal1: folds 
+jesute35: raises 20 to 40
+juandebeny: folds 
+Uncalled bet (20) returned to jesute35
+jesute35 collected 40 from pot
+jesute35: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: jesute35 (small blind) collected (40)
+Seat 3: juandebeny (big blind) folded before Flop
+
+
+
+PokerStars Hand #259572170507: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/02/03 3:16:22 CET [2026/02/02 21:16:22 ET]
+Table '3971606474 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (595 in chips) 
+Seat 2: jesute35 (475 in chips) 
+Seat 3: juandebeny (430 in chips) 
+juandebeny: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 2s]
+jesute35: calls 20
+juandebeny: folds 
+mabeal1: checks 
+*** FLOP *** [6c 4h 3d]
+mabeal1: checks 
+jesute35: bets 25
+mabeal1: calls 25
+*** TURN *** [6c 4h 3d] [Kh]
+mabeal1: checks 
+jesute35: checks 
+*** RIVER *** [6c 4h 3d Kh] [8h]
+mabeal1: bets 75
+jesute35: folds 
+Uncalled bet (75) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [6c 4h 3d Kh 8h]
+Seat 1: mabeal1 (big blind) collected (100)
+Seat 2: jesute35 (button) folded on the River
+Seat 3: juandebeny (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572174970: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:16:56 CET [2026/02/02 21:16:56 ET]
+Table '3971606474 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (650 in chips) 
+Seat 2: jesute35 (430 in chips) 
+Seat 3: juandebeny (420 in chips) 
+mabeal1: posts small blind 15
+jesute35: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 6c]
+juandebeny: folds 
+mabeal1: raises 45 to 75
+jesute35: calls 45
+*** FLOP *** [As 2d 8d]
+mabeal1: bets 60
+jesute35: calls 60
+*** TURN *** [As 2d 8d] [Ah]
+mabeal1: checks 
+jesute35: checks 
+*** RIVER *** [As 2d 8d Ah] [8s]
+mabeal1: bets 105
+jesute35: raises 105 to 210
+mabeal1: folds 
+Uncalled bet (105) returned to jesute35
+jesute35 collected 480 from pot
+jesute35: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [As 2d 8d Ah 8s]
+Seat 1: mabeal1 (small blind) folded on the River
+Seat 2: jesute35 (big blind) collected (480)
+Seat 3: juandebeny (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572180169: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:17:36 CET [2026/02/02 21:17:36 ET]
+Table '3971606474 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: jesute35 (670 in chips) 
+Seat 3: juandebeny (420 in chips) 
+jesute35: posts small blind 15
+juandebeny: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 3s]
+mabeal1: folds 
+jesute35: calls 15
+juandebeny: checks 
+*** FLOP *** [6h 5d Jc]
+jesute35: checks 
+juandebeny: bets 60
+jesute35: calls 60
+*** TURN *** [6h 5d Jc] [Kc]
+jesute35: checks 
+juandebeny: bets 90
+jesute35: calls 90
+*** RIVER *** [6h 5d Jc Kc] [Ad]
+jesute35: bets 270
+juandebeny: folds 
+Uncalled bet (270) returned to jesute35
+jesute35 collected 360 from pot
+jesute35: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [6h 5d Jc Kc Ad]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: jesute35 (small blind) collected (360)
+Seat 3: juandebeny (big blind) folded on the River
+
+
+
+PokerStars Hand #259572184099: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:18:06 CET [2026/02/02 21:18:06 ET]
+Table '3971606474 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: jesute35 (850 in chips) 
+Seat 3: juandebeny (240 in chips) 
+juandebeny: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Ac]
+jesute35: calls 30
+juandebeny: calls 15
+mabeal1: raises 380 to 410 and is all-in
+jesute35: folds 
+juandebeny: calls 210 and is all-in
+Uncalled bet (170) returned to mabeal1
+*** FLOP *** [8h 7d Kh]
+*** TURN *** [8h 7d Kh] [4s]
+*** RIVER *** [8h 7d Kh 4s] [Js]
+*** SHOW DOWN ***
+juandebeny: shows [4h As] (a pair of Fours)
+mabeal1: shows [4c Ac] (a pair of Fours)
+juandebeny collected 255 from pot
+mabeal1 collected 255 from pot
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [8h 7d Kh 4s Js]
+Seat 1: mabeal1 (big blind) showed [4c Ac] and won (255) with a pair of Fours
+Seat 2: jesute35 (button) folded before Flop
+Seat 3: juandebeny (small blind) showed [4h As] and won (255) with a pair of Fours
+
+
+
+PokerStars Hand #259572186990: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/02/03 3:18:28 CET [2026/02/02 21:18:28 ET]
+Table '3971606474 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (425 in chips) 
+Seat 2: jesute35 (820 in chips) 
+Seat 3: juandebeny (255 in chips) 
+mabeal1: posts small blind 15
+jesute35: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Th]
+juandebeny: raises 30 to 60
+mabeal1: folds 
+jesute35: calls 30
+*** FLOP *** [4c 6c 8d]
+jesute35: checks 
+juandebeny: checks 
+*** TURN *** [4c 6c 8d] [3s]
+jesute35: checks 
+juandebeny: checks 
+*** RIVER *** [4c 6c 8d 3s] [3h]
+jesute35: checks 
+juandebeny: checks 
+*** SHOW DOWN ***
+jesute35: shows [9c 5d] (a pair of Threes)
+juandebeny: shows [Kh Jh] (a pair of Threes - King kicker)
+juandebeny collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [4c 6c 8d 3s 3h]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: jesute35 (big blind) showed [9c 5d] and lost with a pair of Threes
+Seat 3: juandebeny (button) showed [Kh Jh] and won (135) with a pair of Threes
+
+
+
+PokerStars Hand #259572190868: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 3:18:58 CET [2026/02/02 21:18:58 ET]
+Table '3971606474 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: jesute35 (760 in chips) 
+Seat 3: juandebeny (330 in chips) 
+jesute35: posts small blind 20
+juandebeny: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 3h]
+mabeal1: folds 
+jesute35: calls 20
+juandebeny: checks 
+*** FLOP *** [Ts Qh Kh]
+jesute35: checks 
+juandebeny: checks 
+*** TURN *** [Ts Qh Kh] [Tc]
+jesute35: checks 
+juandebeny: checks 
+*** RIVER *** [Ts Qh Kh Tc] [9c]
+jesute35: checks 
+juandebeny: bets 80
+jesute35: folds 
+Uncalled bet (80) returned to juandebeny
+juandebeny collected 80 from pot
+juandebeny: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Ts Qh Kh Tc 9c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: jesute35 (small blind) folded on the River
+Seat 3: juandebeny (big blind) collected (80)
+
+
+
+PokerStars Hand #259572195883: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 3:19:37 CET [2026/02/02 21:19:37 ET]
+Table '3971606474 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: jesute35 (720 in chips) 
+Seat 3: juandebeny (370 in chips) 
+juandebeny: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c Th]
+jesute35: calls 40
+juandebeny: calls 20
+mabeal1: checks 
+*** FLOP *** [9s 2c Kh]
+juandebeny: bets 60
+mabeal1: folds 
+jesute35: calls 60
+*** TURN *** [9s 2c Kh] [3s]
+juandebeny: bets 120
+jesute35: calls 120
+*** RIVER *** [9s 2c Kh 3s] [Kc]
+juandebeny: bets 150 and is all-in
+jesute35: folds 
+Uncalled bet (150) returned to juandebeny
+juandebeny collected 480 from pot
+juandebeny: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9s 2c Kh 3s Kc]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: jesute35 (button) folded on the River
+Seat 3: juandebeny (small blind) collected (480)
+
+
+
+PokerStars Hand #259572198728: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 3:19:59 CET [2026/02/02 21:19:59 ET]
+Table '3971606474 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (370 in chips) 
+Seat 2: jesute35 (500 in chips) 
+Seat 3: juandebeny (630 in chips) 
+mabeal1: posts small blind 20
+jesute35: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah Kc]
+juandebeny: folds 
+mabeal1: raises 330 to 370 and is all-in
+jesute35: folds 
+Uncalled bet (330) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: mabeal1 (small blind) collected (80)
+Seat 2: jesute35 (big blind) folded before Flop
+Seat 3: juandebeny (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259572200862: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 3:20:16 CET [2026/02/02 21:20:16 ET]
+Table '3971606474 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: jesute35 (460 in chips) 
+Seat 3: juandebeny (630 in chips) 
+jesute35: posts small blind 20
+juandebeny: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc 2c]
+mabeal1: folds 
+jesute35: calls 20
+juandebeny: checks 
+*** FLOP *** [8d 3h 5c]
+jesute35: bets 40
+juandebeny: folds 
+Uncalled bet (40) returned to jesute35
+jesute35 collected 80 from pot
+jesute35: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8d 3h 5c]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: jesute35 (small blind) collected (80)
+Seat 3: juandebeny (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259572202973: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/02/03 3:20:32 CET [2026/02/02 21:20:32 ET]
+Table '3971606474 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (410 in chips) 
+Seat 2: jesute35 (500 in chips) 
+Seat 3: juandebeny (590 in chips) 
+juandebeny: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Jd]
+jesute35: folds 
+juandebeny: calls 20
+mabeal1: checks 
+*** FLOP *** [6h 8s Td]
+juandebeny: bets 40
+mabeal1: folds 
+Uncalled bet (40) returned to juandebeny
+juandebeny collected 80 from pot
+juandebeny: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 8s Td]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: jesute35 (button) folded before Flop (didn't bet)
+Seat 3: juandebeny (small blind) collected (80)
+
+
+
+PokerStars Hand #259572205791: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 3:20:53 CET [2026/02/02 21:20:53 ET]
+Table '3971606474 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (370 in chips) 
+Seat 2: jesute35 (500 in chips) 
+Seat 3: juandebeny (630 in chips) 
+mabeal1: posts small blind 30
+jesute35: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 6d]
+juandebeny: raises 60 to 120
+mabeal1: folds 
+jesute35: calls 60
+*** FLOP *** [7s 2s 4s]
+jesute35: checks 
+juandebeny: bets 135
+jesute35: calls 135
+*** TURN *** [7s 2s 4s] [8d]
+jesute35: bets 245 and is all-in
+juandebeny: calls 245
+*** RIVER *** [7s 2s 4s 8d] [8s]
+*** SHOW DOWN ***
+jesute35: shows [Ks 8h] (a flush, King high)
+juandebeny: shows [Ah As] (a flush, Ace high)
+juandebeny collected 1030 from pot
+jesute35 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Board [7s 2s 4s 8d 8s]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: jesute35 (big blind) showed [Ks 8h] and lost with a flush, King high
+Seat 3: juandebeny (button) showed [Ah As] and won (1030) with a flush, Ace high
+
+
+
+PokerStars Hand #259572210322: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 3:21:29 CET [2026/02/02 21:21:29 ET]
+Table '3971606474 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (340 in chips) 
+Seat 3: juandebeny (1160 in chips) 
+mabeal1: posts small blind 30
+juandebeny: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h 4s]
+mabeal1: folds 
+Uncalled bet (30) returned to juandebeny
+juandebeny collected 60 from pot
+juandebeny: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) folded before Flop
+Seat 3: juandebeny (big blind) collected (60)
+
+
+
+PokerStars Hand #259572211766: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 3:21:40 CET [2026/02/02 21:21:40 ET]
+Table '3971606474 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (310 in chips) 
+Seat 3: juandebeny (1190 in chips) 
+juandebeny: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 7c]
+juandebeny: calls 30
+mabeal1: raises 250 to 310 and is all-in
+juandebeny: calls 250
+*** FLOP *** [Qd Qs Tc]
+*** TURN *** [Qd Qs Tc] [7s]
+*** RIVER *** [Qd Qs Tc 7s] [Td]
+*** SHOW DOWN ***
+mabeal1: shows [Ah 7c] (two pair, Queens and Tens)
+juandebeny: shows [3c Kc] (two pair, Queens and Tens - lower kicker)
+mabeal1 collected 620 from pot
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [Qd Qs Tc 7s Td]
+Seat 1: mabeal1 (big blind) showed [Ah 7c] and won (620) with two pair, Queens and Tens
+Seat 3: juandebeny (button) (small blind) showed [3c Kc] and lost with two pair, Queens and Tens
+
+
+
+PokerStars Hand #259572213551: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 3:21:54 CET [2026/02/02 21:21:54 ET]
+Table '3971606474 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (620 in chips) 
+Seat 3: juandebeny (880 in chips) 
+mabeal1: posts small blind 30
+juandebeny: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 8s]
+mabeal1: raises 560 to 620 and is all-in
+juandebeny: folds 
+Uncalled bet (560) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: mabeal1 (button) (small blind) collected (120)
+Seat 3: juandebeny (big blind) folded before Flop
+
+
+
+PokerStars Hand #259572214983: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 3:22:05 CET [2026/02/02 21:22:05 ET]
+Table '3971606474 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (680 in chips) 
+Seat 3: juandebeny (820 in chips) 
+juandebeny: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 2h]
+juandebeny: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 3: juandebeny (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259572215516: Tournament #3971606474, €0.93+€0.07 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/03 3:22:10 CET [2026/02/02 21:22:10 ET]
+Table '3971606474 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (710 in chips) 
+Seat 3: juandebeny (790 in chips) 
+mabeal1: posts small blind 30
+juandebeny: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Ac]
+mabeal1: raises 650 to 710 and is all-in
+juandebeny: calls 650
+*** FLOP *** [4s Qc Th]
+*** TURN *** [4s Qc Th] [8s]
+*** RIVER *** [4s Qc Th 8s] [3h]
+*** SHOW DOWN ***
+juandebeny: shows [Kc Qd] (a pair of Queens)
+mabeal1: shows [6c Ac] (high card Ace)
+juandebeny collected 1420 from pot
+mabeal1 finished the tournament in 2nd place
+juandebeny wins the tournament and receives €2.00 - congratulations!
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [4s Qc Th 8s 3h]
+Seat 1: mabeal1 (button) (small blind) showed [6c Ac] and lost with high card Ace
+Seat 3: juandebeny (big blind) showed [Kc Qd] and won (1420) with a pair of Queens
+
+
+

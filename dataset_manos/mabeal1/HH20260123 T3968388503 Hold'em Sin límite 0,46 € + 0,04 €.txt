@@ -1,0 +1,601 @@
+﻿PokerStars Hand #259429232775: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:36:14 CET [2026/01/23 11:36:14 ET]
+Table '3968388503 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: MendesOnfire (500 in chips) 
+Seat 3: Gab97229 (500 in chips) 
+MendesOnfire: posts small blind 10
+Gab97229: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c Qc]
+mabeal1: folds 
+MendesOnfire: folds 
+Uncalled bet (10) returned to Gab97229
+Gab97229 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MendesOnfire (small blind) folded before Flop
+Seat 3: Gab97229 (big blind) collected (20)
+
+
+
+PokerStars Hand #259429234039: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:36:20 CET [2026/01/23 11:36:20 ET]
+Table '3968388503 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: MendesOnfire (490 in chips) 
+Seat 3: Gab97229 (510 in chips) 
+Gab97229: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4c]
+MendesOnfire: folds 
+Gab97229: calls 10
+mabeal1: checks 
+*** FLOP *** [8h Ac 5c]
+Gab97229: checks 
+mabeal1: bets 20
+Gab97229: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [8h Ac 5c]
+Seat 1: mabeal1 (big blind) collected (40)
+Seat 2: MendesOnfire (button) folded before Flop (didn't bet)
+Seat 3: Gab97229 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259429236635: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:36:34 CET [2026/01/23 11:36:34 ET]
+Table '3968388503 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: MendesOnfire (490 in chips) 
+Seat 3: Gab97229 (490 in chips) 
+mabeal1: posts small blind 10
+MendesOnfire: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 4d]
+Gab97229: calls 20
+mabeal1: folds 
+MendesOnfire: checks 
+*** FLOP *** [Ad 9h 8h]
+MendesOnfire: checks 
+Gab97229: checks 
+*** TURN *** [Ad 9h 8h] [As]
+MendesOnfire: checks 
+Gab97229: checks 
+*** RIVER *** [Ad 9h 8h As] [7s]
+MendesOnfire: bets 60
+Gab97229: calls 60
+*** SHOW DOWN ***
+MendesOnfire: shows [6s 5s] (a straight, Five to Nine)
+Gab97229: mucks hand 
+MendesOnfire collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [Ad 9h 8h As 7s]
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: MendesOnfire (big blind) showed [6s 5s] and won (170) with a straight, Five to Nine
+Seat 3: Gab97229 (button) mucked [Kd 7c]
+
+
+
+PokerStars Hand #259429240791: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:36:56 CET [2026/01/23 11:36:56 ET]
+Table '3968388503 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (510 in chips) 
+Seat 2: MendesOnfire (580 in chips) 
+Seat 3: Gab97229 (410 in chips) 
+MendesOnfire: posts small blind 10
+Gab97229: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Ah]
+mabeal1: raises 20 to 40
+MendesOnfire: folds 
+Gab97229: calls 20
+*** FLOP *** [Qd 5d Kc]
+Gab97229: checks 
+mabeal1: bets 30
+Gab97229: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Qd 5d Kc]
+Seat 1: mabeal1 (button) collected (90)
+Seat 2: MendesOnfire (small blind) folded before Flop
+Seat 3: Gab97229 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259429245289: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:37:20 CET [2026/01/23 11:37:20 ET]
+Table '3968388503 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (560 in chips) 
+Seat 2: MendesOnfire (570 in chips) 
+Seat 3: Gab97229 (370 in chips) 
+Gab97229: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 8s]
+MendesOnfire: calls 20
+Gab97229: calls 10
+mabeal1: checks 
+*** FLOP *** [3s Ah 6h]
+Gab97229: checks 
+mabeal1: checks 
+MendesOnfire: bets 60
+Gab97229: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to MendesOnfire
+MendesOnfire collected 60 from pot
+MendesOnfire: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [3s Ah 6h]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: MendesOnfire (button) collected (60)
+Seat 3: Gab97229 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259429248006: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:37:34 CET [2026/01/23 11:37:34 ET]
+Table '3968388503 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (540 in chips) 
+Seat 2: MendesOnfire (610 in chips) 
+Seat 3: Gab97229 (350 in chips) 
+mabeal1: posts small blind 10
+MendesOnfire: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Kd]
+Gab97229: calls 20
+mabeal1: calls 10
+MendesOnfire: checks 
+*** FLOP *** [6d Jd Qd]
+mabeal1: checks 
+MendesOnfire: checks 
+Gab97229: checks 
+*** TURN *** [6d Jd Qd] [4c]
+mabeal1: checks 
+MendesOnfire: checks 
+Gab97229: checks 
+*** RIVER *** [6d Jd Qd 4c] [9c]
+mabeal1: checks 
+MendesOnfire: bets 40
+Gab97229: folds 
+mabeal1: calls 40
+*** SHOW DOWN ***
+MendesOnfire: shows [Js 5s] (a pair of Jacks)
+mabeal1: mucks hand 
+MendesOnfire collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [6d Jd Qd 4c 9c]
+Seat 1: mabeal1 (small blind) mucked [6s Kd]
+Seat 2: MendesOnfire (big blind) showed [Js 5s] and won (140) with a pair of Jacks
+Seat 3: Gab97229 (button) folded on the River
+
+
+
+PokerStars Hand #259429258190: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:38:29 CET [2026/01/23 11:38:29 ET]
+Table '3968388503 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: MendesOnfire (690 in chips) 
+Seat 3: Gab97229 (330 in chips) 
+MendesOnfire: posts small blind 10
+Gab97229: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Jc]
+mabeal1: folds 
+MendesOnfire: calls 10
+Gab97229: checks 
+*** FLOP *** [7h 5s 8c]
+MendesOnfire: checks 
+Gab97229: checks 
+*** TURN *** [7h 5s 8c] [Kd]
+MendesOnfire: checks 
+Gab97229: checks 
+*** RIVER *** [7h 5s 8c Kd] [Jh]
+MendesOnfire: checks 
+Gab97229: checks 
+*** SHOW DOWN ***
+MendesOnfire: shows [6c As] (high card Ace)
+Gab97229: shows [4c 5c] (a pair of Fives)
+Gab97229 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [7h 5s 8c Kd Jh]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MendesOnfire (small blind) showed [6c As] and lost with high card Ace
+Seat 3: Gab97229 (big blind) showed [4c 5c] and won (40) with a pair of Fives
+
+
+
+PokerStars Hand #259429263049: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:38:54 CET [2026/01/23 11:38:54 ET]
+Table '3968388503 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: MendesOnfire (670 in chips) 
+Seat 3: Gab97229 (350 in chips) 
+Gab97229: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd Qd]
+MendesOnfire: calls 20
+Gab97229: calls 10
+mabeal1: raises 40 to 60
+MendesOnfire: folds 
+Gab97229: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: MendesOnfire (button) folded before Flop
+Seat 3: Gab97229 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259429267002: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level I (10/20) - 2026/01/23 17:39:15 CET [2026/01/23 11:39:15 ET]
+Table '3968388503 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (520 in chips) 
+Seat 2: MendesOnfire (650 in chips) 
+Seat 3: Gab97229 (330 in chips) 
+mabeal1: posts small blind 10
+MendesOnfire: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 9c]
+Gab97229: calls 20
+mabeal1: calls 10
+MendesOnfire: checks 
+*** FLOP *** [5c Jc Qs]
+mabeal1: checks 
+MendesOnfire: bets 60
+Gab97229: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to MendesOnfire
+MendesOnfire collected 60 from pot
+MendesOnfire: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [5c Jc Qs]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: MendesOnfire (big blind) collected (60)
+Seat 3: Gab97229 (button) folded on the Flop
+
+
+
+PokerStars Hand #259429269972: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:39:31 CET [2026/01/23 11:39:31 ET]
+Table '3968388503 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: MendesOnfire (690 in chips) 
+Seat 3: Gab97229 (310 in chips) 
+MendesOnfire: posts small blind 15
+Gab97229: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 2d]
+mabeal1: folds 
+MendesOnfire: calls 15
+Gab97229: checks 
+*** FLOP *** [4c 8s 3s]
+MendesOnfire: checks 
+Gab97229: checks 
+*** TURN *** [4c 8s 3s] [2h]
+MendesOnfire: bets 60
+Gab97229: folds 
+Uncalled bet (60) returned to MendesOnfire
+MendesOnfire collected 60 from pot
+MendesOnfire: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4c 8s 3s 2h]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MendesOnfire (small blind) collected (60)
+Seat 3: Gab97229 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #259429273685: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:39:51 CET [2026/01/23 11:39:51 ET]
+Table '3968388503 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: MendesOnfire (720 in chips) 
+Seat 3: Gab97229 (280 in chips) 
+Gab97229: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9s]
+MendesOnfire: raises 30 to 60
+Gab97229: folds 
+mabeal1: calls 30
+*** FLOP *** [6d Ah 5d]
+mabeal1: checks 
+MendesOnfire: bets 68
+mabeal1: folds 
+Uncalled bet (68) returned to MendesOnfire
+MendesOnfire collected 135 from pot
+MendesOnfire: doesn't show hand 
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [6d Ah 5d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: MendesOnfire (button) collected (135)
+Seat 3: Gab97229 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259429276125: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:40:04 CET [2026/01/23 11:40:04 ET]
+Table '3968388503 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: MendesOnfire (795 in chips) 
+Seat 3: Gab97229 (265 in chips) 
+mabeal1: posts small blind 15
+MendesOnfire: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Qc]
+Gab97229: folds 
+mabeal1: folds 
+Uncalled bet (15) returned to MendesOnfire
+MendesOnfire collected 30 from pot
+MendesOnfire: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: MendesOnfire (big blind) collected (30)
+Seat 3: Gab97229 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259429277408: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:40:10 CET [2026/01/23 11:40:10 ET]
+Table '3968388503 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (425 in chips) 
+Seat 2: MendesOnfire (810 in chips) 
+Seat 3: Gab97229 (265 in chips) 
+MendesOnfire: posts small blind 15
+Gab97229: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 7c]
+mabeal1: folds 
+MendesOnfire: raises 30 to 60
+Gab97229: calls 30
+*** FLOP *** [8c Jd Qd]
+MendesOnfire: bets 60
+Gab97229: folds 
+Uncalled bet (60) returned to MendesOnfire
+MendesOnfire collected 120 from pot
+MendesOnfire: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Jd Qd]
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MendesOnfire (small blind) collected (120)
+Seat 3: Gab97229 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259429281078: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:40:30 CET [2026/01/23 11:40:30 ET]
+Table '3968388503 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (425 in chips) 
+Seat 2: MendesOnfire (870 in chips) 
+Seat 3: Gab97229 (205 in chips) 
+Gab97229: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 6h]
+MendesOnfire: folds 
+Gab97229: calls 15
+mabeal1: checks 
+*** FLOP *** [Js Jh 7h]
+Gab97229: checks 
+mabeal1: bets 30
+Gab97229: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Js Jh 7h]
+Seat 1: mabeal1 (big blind) collected (60)
+Seat 2: MendesOnfire (button) folded before Flop (didn't bet)
+Seat 3: Gab97229 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259429284118: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:40:46 CET [2026/01/23 11:40:46 ET]
+Table '3968388503 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (455 in chips) 
+Seat 2: MendesOnfire (870 in chips) 
+Seat 3: Gab97229 (175 in chips) 
+mabeal1: posts small blind 15
+MendesOnfire: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7c 3s]
+Gab97229: raises 30 to 60
+mabeal1: folds 
+MendesOnfire: folds 
+Uncalled bet (30) returned to Gab97229
+Gab97229 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (small blind) folded before Flop
+Seat 2: MendesOnfire (big blind) folded before Flop
+Seat 3: Gab97229 (button) collected (75)
+
+
+
+PokerStars Hand #259429286045: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:40:56 CET [2026/01/23 11:40:56 ET]
+Table '3968388503 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: MendesOnfire (840 in chips) 
+Seat 3: Gab97229 (220 in chips) 
+MendesOnfire: posts small blind 15
+Gab97229: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d 9c]
+mabeal1: folds 
+MendesOnfire: folds 
+Uncalled bet (15) returned to Gab97229
+Gab97229 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: MendesOnfire (small blind) folded before Flop
+Seat 3: Gab97229 (big blind) collected (30)
+
+
+
+PokerStars Hand #259429287486: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:41:03 CET [2026/01/23 11:41:03 ET]
+Table '3968388503 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: MendesOnfire (825 in chips) 
+Seat 3: Gab97229 (235 in chips) 
+Gab97229: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Th]
+MendesOnfire: folds 
+Gab97229: calls 15
+mabeal1: checks 
+*** FLOP *** [9s Tc 2c]
+Gab97229: checks 
+mabeal1: bets 30
+Gab97229: calls 30
+*** TURN *** [9s Tc 2c] [Ac]
+Gab97229: checks 
+mabeal1: checks 
+*** RIVER *** [9s Tc 2c Ac] [5s]
+Gab97229: checks 
+mabeal1: bets 60
+Gab97229: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s Tc 2c Ac 5s]
+Seat 1: mabeal1 (big blind) collected (120)
+Seat 2: MendesOnfire (button) folded before Flop (didn't bet)
+Seat 3: Gab97229 (small blind) folded on the River
+
+
+
+PokerStars Hand #259429291911: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:41:27 CET [2026/01/23 11:41:27 ET]
+Table '3968388503 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: MendesOnfire (825 in chips) 
+Seat 3: Gab97229 (175 in chips) 
+mabeal1: posts small blind 15
+MendesOnfire: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 9s]
+Gab97229: calls 30
+mabeal1: calls 15
+MendesOnfire: checks 
+*** FLOP *** [5d As Td]
+mabeal1: checks 
+MendesOnfire: checks 
+Gab97229: checks 
+*** TURN *** [5d As Td] [Jc]
+mabeal1: bets 45
+MendesOnfire: folds 
+Gab97229: calls 45
+*** RIVER *** [5d As Td Jc] [4h]
+mabeal1: bets 425 and is all-in
+Gab97229: folds 
+Uncalled bet (425) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5d As Td Jc 4h]
+Seat 1: mabeal1 (small blind) collected (180)
+Seat 2: MendesOnfire (big blind) folded on the Turn
+Seat 3: Gab97229 (button) folded on the River
+
+
+
+PokerStars Hand #259429298318: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level II (15/30) - 2026/01/23 17:42:00 CET [2026/01/23 11:42:00 ET]
+Table '3968388503 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (605 in chips) 
+Seat 2: MendesOnfire (795 in chips) 
+Seat 3: Gab97229 (100 in chips) 
+MendesOnfire: posts small blind 15
+Gab97229: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 4d]
+mabeal1: raises 30 to 60
+MendesOnfire: folds 
+Gab97229: raises 40 to 100 and is all-in
+mabeal1: calls 40
+*** FLOP *** [Ad 4c Qc]
+*** TURN *** [Ad 4c Qc] [Qh]
+*** RIVER *** [Ad 4c Qc Qh] [2c]
+*** SHOW DOWN ***
+Gab97229: shows [As Th] (two pair, Aces and Queens)
+mabeal1: shows [Ah 4d] (two pair, Aces and Queens - lower kicker)
+Gab97229 collected 215 from pot
+*** SUMMARY ***
+Total pot 215 | Rake 0 
+Board [Ad 4c Qc Qh 2c]
+Seat 1: mabeal1 (button) showed [Ah 4d] and lost with two pair, Aces and Queens
+Seat 2: MendesOnfire (small blind) folded before Flop
+Seat 3: Gab97229 (big blind) showed [As Th] and won (215) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #259429303405: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 17:42:27 CET [2026/01/23 11:42:27 ET]
+Table '3968388503 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (505 in chips) 
+Seat 2: MendesOnfire (780 in chips) 
+Seat 3: Gab97229 (215 in chips) 
+Gab97229: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 2d]
+MendesOnfire: raises 40 to 80
+Gab97229: raises 135 to 215 and is all-in
+mabeal1: folds 
+MendesOnfire: calls 135
+*** FLOP *** [9d Jc Kh]
+*** TURN *** [9d Jc Kh] [9h]
+*** RIVER *** [9d Jc Kh 9h] [Qs]
+*** SHOW DOWN ***
+Gab97229: shows [As Jd] (two pair, Jacks and Nines)
+MendesOnfire: shows [Kc Js] (two pair, Kings and Jacks)
+MendesOnfire collected 470 from pot
+Gab97229 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [9d Jc Kh 9h Qs]
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: MendesOnfire (button) showed [Kc Js] and won (470) with two pair, Kings and Jacks
+Seat 3: Gab97229 (small blind) showed [As Jd] and lost with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #259429307498: Tournament #3968388503, €0.46+€0.04 EUR Hold'em No Limit - Level III (20/40) - 2026/01/23 17:42:49 CET [2026/01/23 11:42:49 ET]
+Table '3968388503 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (465 in chips) 
+Seat 2: MendesOnfire (1035 in chips) 
+mabeal1: posts small blind 20
+MendesOnfire: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 2s]
+mabeal1: raises 425 to 465 and is all-in
+MendesOnfire: calls 425
+*** FLOP *** [3d As 6c]
+*** TURN *** [3d As 6c] [Qh]
+*** RIVER *** [3d As 6c Qh] [Tc]
+*** SHOW DOWN ***
+MendesOnfire: shows [Td Kc] (a pair of Tens)
+mabeal1: shows [2d 2s] (a pair of Deuces)
+MendesOnfire collected 930 from pot
+mabeal1 finished the tournament in 2nd place
+MendesOnfire wins the tournament and receives €1.50 - congratulations!
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [3d As 6c Qh Tc]
+Seat 1: mabeal1 (button) (small blind) showed [2d 2s] and lost with a pair of Deuces
+Seat 2: MendesOnfire (big blind) showed [Td Kc] and won (930) with a pair of Tens
+
+
+

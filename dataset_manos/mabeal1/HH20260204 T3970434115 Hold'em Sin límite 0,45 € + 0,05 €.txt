@@ -1,0 +1,668 @@
+﻿PokerStars Hand #259588987225: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level I (25/50) - 2026/02/04 16:45:00 CET [2026/02/04 10:45:00 ET]
+Table '3970434115 2' 6-max Seat #1 is the button
+Seat 1: karabirub11 (5000 in chips) 
+Seat 2: mabeal1 (5000 in chips) 
+Seat 3: jakeblake300 (5000 in chips) 
+Seat 5: eyeeel (5000 in chips) 
+Seat 6: Febou (5000 in chips) 
+karabirub11: posts the ante 5
+mabeal1: posts the ante 5
+jakeblake300: posts the ante 5
+eyeeel: posts the ante 5
+Febou: posts the ante 5
+mabeal1: posts small blind 25
+jakeblake300: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 3s]
+eyeeel: folds 
+Febou: calls 50
+karabirub11: calls 50
+mabeal1: folds 
+jakeblake300: checks 
+*** FLOP *** [6d 4h Jd]
+jakeblake300: checks 
+Febou: bets 50
+karabirub11: calls 50
+jakeblake300: calls 50
+*** TURN *** [6d 4h Jd] [Ah]
+jakeblake300: checks 
+Febou: checks 
+karabirub11: bets 225
+jakeblake300: folds 
+Febou: folds 
+Uncalled bet (225) returned to karabirub11
+karabirub11 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [6d 4h Jd Ah]
+Seat 1: karabirub11 (button) collected (350)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: jakeblake300 (big blind) folded on the Turn
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: Febou folded on the Turn
+
+
+
+PokerStars Hand #259588997901: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level I (25/50) - 2026/02/04 16:46:00 CET [2026/02/04 10:46:00 ET]
+Table '3970434115 2' 6-max Seat #2 is the button
+Seat 1: karabirub11 (5245 in chips) 
+Seat 2: mabeal1 (4970 in chips) 
+Seat 3: jakeblake300 (4895 in chips) 
+Seat 5: eyeeel (4995 in chips) 
+Seat 6: Febou (4895 in chips) 
+karabirub11: posts the ante 5
+mabeal1: posts the ante 5
+jakeblake300: posts the ante 5
+eyeeel: posts the ante 5
+Febou: posts the ante 5
+jakeblake300: posts small blind 25
+eyeeel: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Ah]
+Febou: calls 50
+karabirub11: calls 50
+mabeal1: folds 
+jakeblake300: calls 25
+eyeeel: checks 
+*** FLOP *** [Jc 6d Th]
+jakeblake300: checks 
+eyeeel: checks 
+Febou: checks 
+karabirub11: bets 113
+jakeblake300: folds 
+eyeeel: calls 113
+Febou: folds 
+*** TURN *** [Jc 6d Th] [Kd]
+eyeeel: checks 
+karabirub11: bets 451
+eyeeel: calls 451
+*** RIVER *** [Jc 6d Th Kd] [Kc]
+eyeeel: bets 50
+karabirub11: raises 1303 to 1353
+eyeeel: folds 
+Uncalled bet (1303) returned to karabirub11
+karabirub11 collected 1453 from pot
+*** SUMMARY ***
+Total pot 1453 | Rake 0 
+Board [Jc 6d Th Kd Kc]
+Seat 1: karabirub11 collected (1453)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: jakeblake300 (small blind) folded on the Flop
+Seat 5: eyeeel (big blind) folded on the River
+Seat 6: Febou folded on the Flop
+
+
+
+PokerStars Hand #259589014352: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level I (25/50) - 2026/02/04 16:47:31 CET [2026/02/04 10:47:31 ET]
+Table '3970434115 2' 6-max Seat #3 is the button
+Seat 1: karabirub11 (6029 in chips) 
+Seat 2: mabeal1 (4965 in chips) 
+Seat 3: jakeblake300 (4840 in chips) 
+Seat 4: hugoti96 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: eyeeel (4326 in chips) 
+Seat 6: Febou (4840 in chips) 
+hugoti96 will be allowed to play after the button
+karabirub11: posts the ante 5
+mabeal1: posts the ante 5
+jakeblake300: posts the ante 5
+eyeeel: posts the ante 5
+Febou: posts the ante 5
+eyeeel: posts small blind 25
+Febou: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d Kh]
+karabirub11: folds 
+mabeal1: folds 
+jakeblake300: raises 50 to 100
+eyeeel: calls 75
+Febou: calls 50
+*** FLOP *** [Ts Js 8c]
+eyeeel: checks 
+Febou: checks 
+jakeblake300: bets 850
+eyeeel: folds 
+Febou: folds 
+Uncalled bet (850) returned to jakeblake300
+jakeblake300 collected 325 from pot
+jakeblake300: doesn't show hand 
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [Ts Js 8c]
+Seat 1: karabirub11 folded before Flop (didn't bet)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 3: jakeblake300 (button) collected (325)
+Seat 5: eyeeel (small blind) folded on the Flop
+Seat 6: Febou (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259589022776: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level I (25/50) - 2026/02/04 16:48:18 CET [2026/02/04 10:48:18 ET]
+Table '3970434115 2' 6-max Seat #5 is the button
+Seat 2: mabeal1 (4960 in chips) 
+Seat 3: jakeblake300 (5060 in chips) 
+Seat 4: hugoti96 (5000 in chips) 
+Seat 5: eyeeel (4221 in chips) 
+Seat 6: Febou (4735 in chips) 
+mabeal1: posts the ante 5
+jakeblake300: posts the ante 5
+hugoti96: posts the ante 5
+eyeeel: posts the ante 5
+Febou: posts the ante 5
+Febou: posts small blind 25
+mabeal1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 6c]
+jakeblake300: calls 50
+hugoti96: folds 
+eyeeel: folds 
+Febou is disconnected 
+Febou has timed out while disconnected
+Febou: folds 
+Febou is sitting out
+mabeal1: checks 
+*** FLOP *** [2d 9d 2h]
+mabeal1: checks 
+jakeblake300: bets 100
+mabeal1: folds 
+Uncalled bet (100) returned to jakeblake300
+jakeblake300 collected 150 from pot
+jakeblake300: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [2d 9d 2h]
+Seat 2: mabeal1 (big blind) folded on the Flop
+Seat 3: jakeblake300 collected (150)
+Seat 4: hugoti96 folded before Flop (didn't bet)
+Seat 5: eyeeel (button) folded before Flop (didn't bet)
+Seat 6: Febou (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589028593: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level I (25/50) - 2026/02/04 16:48:49 CET [2026/02/04 10:48:49 ET]
+Table '3970434115 2' 6-max Seat #6 is the button
+Seat 1: V0ldm0rt321 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 2: mabeal1 (4905 in chips) 
+Seat 4: hugoti96 (4995 in chips) 
+Seat 5: eyeeel (4216 in chips) 
+Seat 6: Febou (4705 in chips) is sitting out
+V0ldm0rt321 will be allowed to play after the button
+mabeal1: posts the ante 5
+hugoti96: posts the ante 5
+eyeeel: posts the ante 5
+Febou: posts the ante 5
+mabeal1: posts small blind 25
+hugoti96: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5c]
+eyeeel: folds 
+Febou: folds 
+mabeal1: raises 50 to 100
+hugoti96: folds 
+Uncalled bet (50) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: mabeal1 (small blind) collected (120)
+Seat 4: hugoti96 (big blind) folded before Flop
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: Febou (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589031887: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level I (25/50) - 2026/02/04 16:49:08 CET [2026/02/04 10:49:08 ET]
+Table '3970434115 2' 6-max Seat #2 is the button
+Seat 1: V0ldm0rt321 (5000 in chips) 
+Seat 2: mabeal1 (4970 in chips) 
+Seat 4: hugoti96 (4940 in chips) 
+Seat 5: eyeeel (4211 in chips) 
+Seat 6: Febou (4700 in chips) is sitting out
+V0ldm0rt321: posts the ante 5
+mabeal1: posts the ante 5
+hugoti96: posts the ante 5
+eyeeel: posts the ante 5
+Febou: posts the ante 5
+hugoti96: posts small blind 25
+eyeeel: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qc]
+Febou: folds 
+Febou is disconnected 
+Febou has returned
+V0ldm0rt321: raises 50 to 100
+mabeal1: folds 
+hugoti96: calls 75
+eyeeel: calls 50
+*** FLOP *** [2s Ac 8s]
+hugoti96: checks 
+eyeeel: checks 
+V0ldm0rt321: bets 113
+hugoti96: folds 
+eyeeel: folds 
+Uncalled bet (113) returned to V0ldm0rt321
+V0ldm0rt321 collected 325 from pot
+V0ldm0rt321: doesn't show hand 
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [2s Ac 8s]
+Seat 1: V0ldm0rt321 collected (325)
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 4: hugoti96 (small blind) folded on the Flop
+Seat 5: eyeeel (big blind) folded on the Flop
+Seat 6: Febou folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589039510: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level I (25/50) - 2026/02/04 16:49:50 CET [2026/02/04 10:49:50 ET]
+Table '3970434115 2' 6-max Seat #4 is the button
+Seat 1: V0ldm0rt321 (5220 in chips) 
+Seat 2: mabeal1 (4965 in chips) 
+Seat 4: hugoti96 (4835 in chips) 
+Seat 5: eyeeel (4106 in chips) 
+Seat 6: Febou (4695 in chips) 
+V0ldm0rt321: posts the ante 5
+mabeal1: posts the ante 5
+hugoti96: posts the ante 5
+eyeeel: posts the ante 5
+Febou: posts the ante 5
+eyeeel: posts small blind 25
+Febou: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [2c 8s]
+V0ldm0rt321: folds 
+mabeal1: folds 
+hugoti96: calls 50
+eyeeel: calls 25
+Febou: checks 
+*** FLOP *** [9s Qd Jd]
+eyeeel: checks 
+Febou: checks 
+hugoti96: checks 
+*** TURN *** [9s Qd Jd] [6s]
+eyeeel: checks 
+Febou: bets 50
+hugoti96: calls 50
+eyeeel: calls 50
+*** RIVER *** [9s Qd Jd 6s] [4d]
+eyeeel: checks 
+Febou: bets 50
+hugoti96: folds 
+eyeeel: folds 
+Uncalled bet (50) returned to Febou
+Febou collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [9s Qd Jd 6s 4d]
+Seat 1: V0ldm0rt321 folded before Flop (didn't bet)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 4: hugoti96 (button) folded on the River
+Seat 5: eyeeel (small blind) folded on the River
+Seat 6: Febou (big blind) collected (325)
+
+
+
+PokerStars Hand #259589058686: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level II (50/100) - 2026/02/04 16:51:35 CET [2026/02/04 10:51:35 ET]
+Table '3970434115 2' 6-max Seat #5 is the button
+Seat 1: V0ldm0rt321 (5215 in chips) 
+Seat 2: mabeal1 (4960 in chips) 
+Seat 4: hugoti96 (4730 in chips) 
+Seat 5: eyeeel (4001 in chips) 
+Seat 6: Febou (4915 in chips) 
+V0ldm0rt321: posts the ante 10
+mabeal1: posts the ante 10
+hugoti96: posts the ante 10
+eyeeel: posts the ante 10
+Febou: posts the ante 10
+Febou: posts small blind 50
+V0ldm0rt321: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Th]
+mabeal1: folds 
+hugoti96: folds 
+eyeeel: folds 
+Febou: calls 50
+V0ldm0rt321: checks 
+*** FLOP *** [5s 4d Jc]
+Febou: checks 
+V0ldm0rt321: bets 100
+Febou: calls 100
+*** TURN *** [5s 4d Jc] [Jh]
+Febou: checks 
+V0ldm0rt321: bets 200
+Febou: folds 
+Uncalled bet (200) returned to V0ldm0rt321
+V0ldm0rt321 collected 450 from pot
+V0ldm0rt321: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [5s 4d Jc Jh]
+Seat 1: V0ldm0rt321 (big blind) collected (450)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 4: hugoti96 folded before Flop (didn't bet)
+Seat 5: eyeeel (button) folded before Flop (didn't bet)
+Seat 6: Febou (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259589065365: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level II (50/100) - 2026/02/04 16:52:12 CET [2026/02/04 10:52:12 ET]
+Table '3970434115 2' 6-max Seat #6 is the button
+Seat 1: V0ldm0rt321 (5455 in chips) 
+Seat 2: mabeal1 (4950 in chips) 
+Seat 4: hugoti96 (4720 in chips) 
+Seat 5: eyeeel (3991 in chips) 
+Seat 6: Febou (4705 in chips) 
+V0ldm0rt321: posts the ante 10
+mabeal1: posts the ante 10
+hugoti96: posts the ante 10
+eyeeel: posts the ante 10
+Febou: posts the ante 10
+V0ldm0rt321: posts small blind 50
+mabeal1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 6c]
+hugoti96: raises 100 to 200
+eyeeel: folds 
+Febou: folds 
+V0ldm0rt321: calls 150
+mabeal1: calls 100
+*** FLOP *** [8s Kc Js]
+V0ldm0rt321: checks 
+mabeal1: checks 
+hugoti96: bets 100
+V0ldm0rt321: folds 
+mabeal1: calls 100
+*** TURN *** [8s Kc Js] [9d]
+mabeal1: checks 
+hugoti96: bets 100
+mabeal1: raises 500 to 600
+hugoti96: calls 500
+*** RIVER *** [8s Kc Js 9d] [Ah]
+mabeal1: checks 
+hugoti96: checks 
+*** SHOW DOWN ***
+mabeal1: shows [Jh 6c] (a pair of Jacks)
+hugoti96: shows [9h 8d] (two pair, Nines and Eights)
+hugoti96 collected 2050 from pot
+*** SUMMARY ***
+Total pot 2050 | Rake 0 
+Board [8s Kc Js 9d Ah]
+Seat 1: V0ldm0rt321 (small blind) folded on the Flop
+Seat 2: mabeal1 (big blind) showed [Jh 6c] and lost with a pair of Jacks
+Seat 4: hugoti96 showed [9h 8d] and won (2050) with two pair, Nines and Eights
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: Febou (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589076033: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level II (50/100) - 2026/02/04 16:53:11 CET [2026/02/04 10:53:11 ET]
+Table '3970434115 2' 6-max Seat #1 is the button
+Seat 1: V0ldm0rt321 (5245 in chips) 
+Seat 2: mabeal1 (4040 in chips) 
+Seat 3: dns504 (4710 in chips) 
+Seat 5: eyeeel (3981 in chips) 
+Seat 6: Febou (4695 in chips) 
+V0ldm0rt321: posts the ante 10
+mabeal1: posts the ante 10
+dns504: posts the ante 10
+eyeeel: posts the ante 10
+Febou: posts the ante 10
+mabeal1: posts small blind 50
+dns504: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 2h]
+eyeeel: calls 100
+Febou: folds 
+V0ldm0rt321: raises 200 to 300
+mabeal1: folds 
+dns504: folds 
+eyeeel: calls 200
+*** FLOP *** [2s 5s Ah]
+eyeeel: checks 
+V0ldm0rt321: bets 400
+eyeeel: folds 
+Uncalled bet (400) returned to V0ldm0rt321
+V0ldm0rt321 collected 800 from pot
+V0ldm0rt321: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [2s 5s Ah]
+Seat 1: V0ldm0rt321 (button) collected (800)
+Seat 2: mabeal1 (small blind) folded before Flop
+Seat 3: dns504 (big blind) folded before Flop
+Seat 5: eyeeel folded on the Flop
+Seat 6: Febou folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259589083291: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level II (50/100) - 2026/02/04 16:53:51 CET [2026/02/04 10:53:51 ET]
+Table '3970434115 2' 6-max Seat #2 is the button
+Seat 1: V0ldm0rt321 (5735 in chips) 
+Seat 2: mabeal1 (3980 in chips) 
+Seat 3: dns504 (4600 in chips) 
+Seat 5: eyeeel (3671 in chips) 
+Seat 6: Febou (4685 in chips) 
+V0ldm0rt321: posts the ante 10
+mabeal1: posts the ante 10
+dns504: posts the ante 10
+eyeeel: posts the ante 10
+Febou: posts the ante 10
+dns504: posts small blind 50
+eyeeel: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [2d 8d]
+Febou: calls 100
+V0ldm0rt321: raises 200 to 300
+mabeal1: folds 
+dns504: folds 
+eyeeel: calls 200
+Febou: calls 200
+*** FLOP *** [6d 8h Js]
+eyeeel: bets 100
+Febou: calls 100
+V0ldm0rt321: raises 650 to 750
+eyeeel: folds 
+Febou: calls 650
+*** TURN *** [6d 8h Js] [4d]
+Febou: checks 
+V0ldm0rt321: bets 1100
+Febou: calls 1100
+*** RIVER *** [6d 8h Js 4d] [Ts]
+Febou: checks 
+V0ldm0rt321: bets 3575 and is all-in
+Febou: calls 2525 and is all-in
+Uncalled bet (1050) returned to V0ldm0rt321
+*** SHOW DOWN ***
+V0ldm0rt321: shows [Jc Th] (two pair, Jacks and Tens)
+Febou: shows [Jd 9h] (a pair of Jacks)
+V0ldm0rt321 collected 9850 from pot
+Febou finished the tournament
+*** SUMMARY ***
+Total pot 9850 | Rake 0 
+Board [6d 8h Js 4d Ts]
+Seat 1: V0ldm0rt321 showed [Jc Th] and won (9850) with two pair, Jacks and Tens
+Seat 2: mabeal1 (button) folded before Flop (didn't bet)
+Seat 3: dns504 (small blind) folded before Flop
+Seat 5: eyeeel (big blind) folded on the Flop
+Seat 6: Febou showed [Jd 9h] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259589142996: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level III (75/150) - 2026/02/04 17:00:37 CET [2026/02/04 11:00:37 ET]
+Table '3970434115 2' 6-max Seat #3 is the button
+Seat 1: V0ldm0rt321 (10900 in chips) 
+Seat 2: mabeal1 (3970 in chips) 
+Seat 3: dns504 (4540 in chips) 
+Seat 5: eyeeel (3261 in chips) 
+Seat 6: bernat6674 (5000 in chips) 
+V0ldm0rt321: posts the ante 15
+mabeal1: posts the ante 15
+dns504: posts the ante 15
+eyeeel: posts the ante 15
+bernat6674: posts the ante 15
+eyeeel: posts small blind 75
+bernat6674: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 7h]
+V0ldm0rt321 has timed out while disconnected
+V0ldm0rt321: folds 
+V0ldm0rt321 is sitting out
+mabeal1: folds 
+dns504: folds 
+paswani is disconnected 
+eyeeel: calls 75
+bernat6674: checks 
+*** FLOP *** [3d 9h 6h]
+eyeeel: checks 
+bernat6674: bets 375
+eyeeel: folds 
+Uncalled bet (375) returned to bernat6674
+bernat6674 collected 375 from pot
+bernat6674: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Board [3d 9h 6h]
+Seat 1: V0ldm0rt321 folded before Flop (didn't bet)
+Seat 2: mabeal1 folded before Flop (didn't bet)
+Seat 3: dns504 (button) folded before Flop (didn't bet)
+Seat 5: eyeeel (small blind) folded on the Flop
+Seat 6: bernat6674 (big blind) collected (375)
+
+
+
+PokerStars Hand #259589156551: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level III (75/150) - 2026/02/04 17:01:57 CET [2026/02/04 11:01:57 ET]
+Table '3970434115 2' 6-max Seat #5 is the button
+Seat 1: V0ldm0rt321 (10885 in chips) is sitting out
+Seat 2: mabeal1 (3955 in chips) 
+Seat 3: dns504 (4525 in chips) 
+Seat 4: paswani (5000 in chips) 
+Seat 5: eyeeel (3096 in chips) 
+Seat 6: bernat6674 (5210 in chips) 
+V0ldm0rt321: posts the ante 15
+mabeal1: posts the ante 15
+dns504: posts the ante 15
+paswani: posts the ante 15
+eyeeel: posts the ante 15
+bernat6674: posts the ante 15
+bernat6674: posts small blind 75
+V0ldm0rt321: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Tc]
+mabeal1: raises 150 to 300
+dns504: folds 
+paswani: folds 
+V0ldm0rt321 is disconnected 
+V0ldm0rt321 has returned
+eyeeel: folds 
+bernat6674: folds 
+V0ldm0rt321: calls 150
+*** FLOP *** [Kh 8c 2d]
+V0ldm0rt321: checks 
+mabeal1: bets 300
+V0ldm0rt321: folds 
+Uncalled bet (300) returned to mabeal1
+mabeal1 collected 765 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 765 | Rake 0 
+Board [Kh 8c 2d]
+Seat 1: V0ldm0rt321 (big blind) folded on the Flop
+Seat 2: mabeal1 collected (765)
+Seat 3: dns504 folded before Flop (didn't bet)
+Seat 4: paswani folded before Flop (didn't bet)
+Seat 5: eyeeel (button) folded before Flop (didn't bet)
+Seat 6: bernat6674 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259589163396: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level III (75/150) - 2026/02/04 17:02:33 CET [2026/02/04 11:02:33 ET]
+Table '3970434115 2' 6-max Seat #6 is the button
+Seat 1: V0ldm0rt321 (10570 in chips) 
+Seat 2: mabeal1 (4405 in chips) 
+Seat 3: dns504 (4510 in chips) 
+Seat 4: paswani (4985 in chips) 
+Seat 5: eyeeel (3081 in chips) 
+Seat 6: bernat6674 (5120 in chips) 
+V0ldm0rt321: posts the ante 15
+mabeal1: posts the ante 15
+dns504: posts the ante 15
+paswani: posts the ante 15
+eyeeel: posts the ante 15
+bernat6674: posts the ante 15
+V0ldm0rt321: posts small blind 75
+mabeal1: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Qc]
+dns504: folds 
+paswani: raises 375 to 525
+eyeeel: folds 
+bernat6674: calls 525
+V0ldm0rt321: folds 
+mabeal1: folds 
+*** FLOP *** [2d 3h 4h]
+paswani: bets 683
+bernat6674: calls 683
+*** TURN *** [2d 3h 4h] [Ad]
+paswani: bets 1366
+bernat6674: calls 1366
+*** RIVER *** [2d 3h 4h Ad] [Jh]
+paswani: checks 
+bernat6674: checks 
+*** SHOW DOWN ***
+paswani: shows [Th Td] (a pair of Tens)
+bernat6674: mucks hand 
+paswani collected 5463 from pot
+*** SUMMARY ***
+Total pot 5463 | Rake 0 
+Board [2d 3h 4h Ad Jh]
+Seat 1: V0ldm0rt321 (small blind) folded before Flop
+Seat 2: mabeal1 (big blind) folded before Flop
+Seat 3: dns504 folded before Flop (didn't bet)
+Seat 4: paswani showed [Th Td] and won (5463) with a pair of Tens
+Seat 5: eyeeel folded before Flop (didn't bet)
+Seat 6: bernat6674 (button) mucked [7h 3d]
+
+
+
+PokerStars Hand #259589175630: Tournament #3970434115, €0.45+€0.05 EUR Hold'em No Limit - Level III (75/150) - 2026/02/04 17:03:39 CET [2026/02/04 11:03:39 ET]
+Table '3970434115 2' 6-max Seat #1 is the button
+Seat 1: V0ldm0rt321 (10480 in chips) 
+Seat 2: mabeal1 (4240 in chips) 
+Seat 3: dns504 (4495 in chips) 
+Seat 4: paswani (7859 in chips) 
+Seat 6: bernat6674 (2531 in chips) 
+V0ldm0rt321: posts the ante 15
+mabeal1: posts the ante 15
+dns504: posts the ante 15
+paswani: posts the ante 15
+bernat6674: posts the ante 15
+mabeal1: posts small blind 75
+dns504: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s As]
+paswani: folds 
+bernat6674: calls 150
+V0ldm0rt321: raises 600 to 750
+mabeal1: raises 3475 to 4225 and is all-in
+dns504: folds 
+bernat6674: folds 
+lion300s is disconnected 
+V0ldm0rt321: calls 3475
+*** FLOP *** [2s Qs 3c]
+*** TURN *** [2s Qs 3c] [7d]
+*** RIVER *** [2s Qs 3c 7d] [2c]
+*** SHOW DOWN ***
+mabeal1: shows [4s As] (a pair of Deuces)
+V0ldm0rt321: shows [8s 8h] (two pair, Eights and Deuces)
+V0ldm0rt321 collected 8825 from pot
+mabeal1 finished the tournament
+*** SUMMARY ***
+Total pot 8825 | Rake 0 
+Board [2s Qs 3c 7d 2c]
+Seat 1: V0ldm0rt321 (button) showed [8s 8h] and won (8825) with two pair, Eights and Deuces
+Seat 2: mabeal1 (small blind) showed [4s As] and lost with a pair of Deuces
+Seat 3: dns504 (big blind) folded before Flop
+Seat 4: paswani folded before Flop (didn't bet)
+Seat 6: bernat6674 folded before Flop
+
+
+

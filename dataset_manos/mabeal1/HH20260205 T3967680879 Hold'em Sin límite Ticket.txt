@@ -1,0 +1,1106 @@
+﻿PokerStars Hand #259604238392: Tournament #3967680879, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/05 20:00:00 CET [2026/02/05 14:00:00 ET]
+Table '3967680879 132' 8-max Seat #1 is the button
+Seat 1: FMHB31 (5000 in chips) is sitting out
+Seat 2: soniacarneir (5000 in chips) is sitting out
+Seat 3: ruedas ps (5000 in chips) 
+Seat 4: barram32 (5000 in chips) is sitting out
+Seat 5: anapaoli (5000 in chips) is sitting out
+Seat 6: astur_cat (5000 in chips) 
+Seat 8: mabeal1 (5000 in chips) 
+FMHB31: posts the ante 5
+soniacarneir: posts the ante 5
+ruedas ps: posts the ante 5
+barram32: posts the ante 5
+anapaoli: posts the ante 5
+astur_cat: posts the ante 5
+mabeal1: posts the ante 5
+soniacarneir: posts small blind 25
+ruedas ps: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 8c]
+barram32: folds 
+anapaoli: folds 
+astur_cat: calls 50
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: folds 
+ruedas ps: checks 
+*** FLOP *** [Jd Ts 3s]
+ruedas ps: bets 50
+astur_cat: raises 50 to 100
+ruedas ps: calls 50
+*** TURN *** [Jd Ts 3s] [7c]
+ruedas ps: checks 
+astur_cat: bets 50
+ruedas ps: calls 50
+*** RIVER *** [Jd Ts 3s 7c] [Qd]
+ruedas ps: checks 
+astur_cat: bets 150
+ruedas ps: folds 
+Uncalled bet (150) returned to astur_cat
+astur_cat collected 460 from pot
+*** SUMMARY ***
+Total pot 460 | Rake 0 
+Board [Jd Ts 3s 7c Qd]
+Seat 1: FMHB31 (button) folded before Flop (didn't bet)
+Seat 2: soniacarneir (small blind) folded before Flop
+Seat 3: ruedas ps (big blind) folded on the River
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli folded before Flop (didn't bet)
+Seat 6: astur_cat collected (460)
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604247269: Tournament #3967680879, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/05 20:00:49 CET [2026/02/05 14:00:49 ET]
+Table '3967680879 132' 8-max Seat #2 is the button
+Seat 1: FMHB31 (4995 in chips) is sitting out
+Seat 2: soniacarneir (4970 in chips) is sitting out
+Seat 3: ruedas ps (4795 in chips) 
+Seat 4: barram32 (4995 in chips) is sitting out
+Seat 5: anapaoli (4995 in chips) is sitting out
+Seat 6: astur_cat (5255 in chips) 
+Seat 7: centrado98 (4995 in chips) is sitting out
+Seat 8: mabeal1 (4995 in chips) 
+FMHB31: posts the ante 5
+soniacarneir: posts the ante 5
+ruedas ps: posts the ante 5
+barram32: posts the ante 5
+anapaoli: posts the ante 5
+astur_cat: posts the ante 5
+centrado98: posts the ante 5
+mabeal1: posts the ante 5
+ruedas ps: posts small blind 25
+barram32: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc 8d]
+anapaoli: folds 
+astur_cat: folds 
+centrado98: folds 
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: folds 
+ruedas ps: calls 25
+barram32: folds 
+ruedas ps collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir (button) folded before Flop (didn't bet)
+Seat 3: ruedas ps (small blind) collected (140)
+Seat 4: barram32 (big blind) folded before Flop
+Seat 5: anapaoli folded before Flop (didn't bet)
+Seat 6: astur_cat folded before Flop (didn't bet)
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604249423: Tournament #3967680879, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/05 20:01:00 CET [2026/02/05 14:01:00 ET]
+Table '3967680879 132' 8-max Seat #3 is the button
+Seat 1: FMHB31 (4990 in chips) is sitting out
+Seat 2: soniacarneir (4965 in chips) is sitting out
+Seat 3: ruedas ps (4880 in chips) 
+Seat 4: barram32 (4940 in chips) is sitting out
+Seat 5: anapaoli (4990 in chips) is sitting out
+Seat 6: astur_cat (5250 in chips) 
+Seat 7: centrado98 (4990 in chips) is sitting out
+Seat 8: mabeal1 (4990 in chips) 
+FMHB31: posts the ante 5
+soniacarneir: posts the ante 5
+ruedas ps: posts the ante 5
+barram32: posts the ante 5
+anapaoli: posts the ante 5
+astur_cat: posts the ante 5
+centrado98: posts the ante 5
+mabeal1: posts the ante 5
+barram32: posts small blind 25
+anapaoli: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c Js]
+astur_cat: calls 50
+centrado98: folds 
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: folds 
+ruedas ps: folds 
+barram32: folds 
+anapaoli: folds 
+astur_cat collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir folded before Flop (didn't bet)
+Seat 3: ruedas ps (button) folded before Flop (didn't bet)
+Seat 4: barram32 (small blind) folded before Flop
+Seat 5: anapaoli (big blind) folded before Flop
+Seat 6: astur_cat collected (165)
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604252382: Tournament #3967680879, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/05 20:01:14 CET [2026/02/05 14:01:14 ET]
+Table '3967680879 132' 8-max Seat #4 is the button
+Seat 1: FMHB31 (4985 in chips) is sitting out
+Seat 2: soniacarneir (4960 in chips) is sitting out
+Seat 3: ruedas ps (4875 in chips) 
+Seat 4: barram32 (4910 in chips) is sitting out
+Seat 5: anapaoli (4935 in chips) is sitting out
+Seat 6: astur_cat (5360 in chips) 
+Seat 7: centrado98 (4985 in chips) is sitting out
+Seat 8: mabeal1 (4985 in chips) 
+FMHB31: posts the ante 5
+soniacarneir: posts the ante 5
+ruedas ps: posts the ante 5
+barram32: posts the ante 5
+anapaoli: posts the ante 5
+astur_cat: posts the ante 5
+centrado98: posts the ante 5
+mabeal1: posts the ante 5
+anapaoli: posts small blind 25
+astur_cat: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8s]
+centrado98: folds 
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: folds 
+ruedas ps: raises 50 to 100
+barram32: folds 
+anapaoli: folds 
+astur_cat: calls 50
+*** FLOP *** [4d 6d 7s]
+astur_cat: checks 
+ruedas ps: bets 50
+astur_cat: calls 50
+*** TURN *** [4d 6d 7s] [6s]
+astur_cat: checks 
+ruedas ps: bets 100
+astur_cat: calls 100
+*** RIVER *** [4d 6d 7s 6s] [6c]
+astur_cat: checks 
+ruedas ps: checks 
+*** SHOW DOWN ***
+astur_cat: shows [7c Ts] (a full house, Sixes full of Sevens)
+ruedas ps: mucks hand 
+astur_cat collected 565 from pot
+*** SUMMARY ***
+Total pot 565 | Rake 0 
+Board [4d 6d 7s 6s 6c]
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir folded before Flop (didn't bet)
+Seat 3: ruedas ps mucked [5d 8c]
+Seat 4: barram32 (button) folded before Flop (didn't bet)
+Seat 5: anapaoli (small blind) folded before Flop
+Seat 6: astur_cat (big blind) showed [7c Ts] and won (565) with a full house, Sixes full of Sevens
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604258532: Tournament #3967680879, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/05 20:01:41 CET [2026/02/05 14:01:41 ET]
+Table '3967680879 132' 8-max Seat #5 is the button
+Seat 1: FMHB31 (4980 in chips) is sitting out
+Seat 2: soniacarneir (4955 in chips) is sitting out
+Seat 3: ruedas ps (4620 in chips) 
+Seat 4: barram32 (4905 in chips) is sitting out
+Seat 5: anapaoli (4905 in chips) is sitting out
+Seat 6: astur_cat (5670 in chips) 
+Seat 7: centrado98 (4980 in chips) is sitting out
+Seat 8: mabeal1 (4980 in chips) 
+FMHB31: posts the ante 5
+soniacarneir: posts the ante 5
+ruedas ps: posts the ante 5
+barram32: posts the ante 5
+anapaoli: posts the ante 5
+astur_cat: posts the ante 5
+centrado98: posts the ante 5
+mabeal1: posts the ante 5
+astur_cat: posts small blind 25
+centrado98: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 7h]
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: folds 
+ruedas ps: raises 50 to 100
+barram32: folds 
+anapaoli: folds 
+astur_cat: folds 
+centrado98: folds 
+Uncalled bet (50) returned to ruedas ps
+ruedas ps collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir folded before Flop (didn't bet)
+Seat 3: ruedas ps collected (165)
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli (button) folded before Flop (didn't bet)
+Seat 6: astur_cat (small blind) folded before Flop
+Seat 7: centrado98 (big blind) folded before Flop
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604261832: Tournament #3967680879, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/05 20:01:55 CET [2026/02/05 14:01:55 ET]
+Table '3967680879 132' 8-max Seat #6 is the button
+Seat 1: FMHB31 (4975 in chips) is sitting out
+Seat 2: soniacarneir (4950 in chips) is sitting out
+Seat 3: ruedas ps (4730 in chips) 
+Seat 4: barram32 (4900 in chips) is sitting out
+Seat 5: anapaoli (4900 in chips) is sitting out
+Seat 6: astur_cat (5640 in chips) 
+Seat 7: centrado98 (4925 in chips) is sitting out
+Seat 8: mabeal1 (4975 in chips) 
+FMHB31: posts the ante 5
+soniacarneir: posts the ante 5
+ruedas ps: posts the ante 5
+barram32: posts the ante 5
+anapaoli: posts the ante 5
+astur_cat: posts the ante 5
+centrado98: posts the ante 5
+mabeal1: posts the ante 5
+centrado98: posts small blind 25
+mabeal1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Ac]
+FMHB31: folds 
+soniacarneir: folds 
+ruedas ps: raises 50 to 100
+barram32: folds 
+anapaoli: folds 
+astur_cat: calls 100
+centrado98: folds 
+anapaoli has returned
+mabeal1: calls 50
+*** FLOP *** [Qd 2d 9h]
+mabeal1: checks 
+ruedas ps: bets 50
+astur_cat: calls 50
+mabeal1: calls 50
+*** TURN *** [Qd 2d 9h] [7h]
+mabeal1: checks 
+ruedas ps: bets 50
+astur_cat: calls 50
+mabeal1: calls 50
+*** RIVER *** [Qd 2d 9h 7h] [8d]
+mabeal1: checks 
+ruedas ps: checks 
+astur_cat: checks 
+*** SHOW DOWN ***
+mabeal1: shows [6c Ac] (high card Ace)
+ruedas ps: mucks hand 
+astur_cat: shows [7s 6s] (a pair of Sevens)
+astur_cat collected 665 from pot
+*** SUMMARY ***
+Total pot 665 | Rake 0 
+Board [Qd 2d 9h 7h 8d]
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir folded before Flop (didn't bet)
+Seat 3: ruedas ps mucked [Ts 3d]
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli folded before Flop (didn't bet)
+Seat 6: astur_cat (button) showed [7s 6s] and won (665) with a pair of Sevens
+Seat 7: centrado98 (small blind) folded before Flop
+Seat 8: mabeal1 (big blind) showed [6c Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #259604270328: Tournament #3967680879, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/05 20:02:32 CET [2026/02/05 14:02:32 ET]
+Table '3967680879 132' 8-max Seat #7 is the button
+Seat 1: FMHB31 (4970 in chips) is sitting out
+Seat 2: soniacarneir (4945 in chips) is sitting out
+Seat 3: ruedas ps (4525 in chips) 
+Seat 4: barram32 (4895 in chips) is sitting out
+Seat 5: anapaoli (4895 in chips) 
+Seat 6: astur_cat (6100 in chips) 
+Seat 7: centrado98 (4895 in chips) is sitting out
+Seat 8: mabeal1 (4770 in chips) 
+FMHB31: posts the ante 5
+soniacarneir: posts the ante 5
+ruedas ps: posts the ante 5
+barram32: posts the ante 5
+anapaoli: posts the ante 5
+astur_cat: posts the ante 5
+centrado98: posts the ante 5
+mabeal1: posts the ante 5
+mabeal1: posts small blind 25
+FMHB31: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 8d]
+soniacarneir: folds 
+ruedas ps: folds 
+barram32: folds 
+anapaoli: folds 
+soniacarneir is disconnected 
+soniacarneir has returned
+astur_cat: folds 
+centrado98: folds 
+mabeal1: folds 
+Uncalled bet (25) returned to FMHB31
+FMHB31 collected 90 from pot
+FMHB31: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: FMHB31 (big blind) collected (90)
+Seat 2: soniacarneir folded before Flop (didn't bet)
+Seat 3: ruedas ps folded before Flop (didn't bet)
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli folded before Flop (didn't bet)
+Seat 6: astur_cat folded before Flop (didn't bet)
+Seat 7: centrado98 (button) folded before Flop (didn't bet)
+Seat 8: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259604277389: Tournament #3967680879, Freeroll  Hold'em No Limit - Level I (25/50) - 2026/02/05 20:03:00 CET [2026/02/05 14:03:00 ET]
+Table '3967680879 132' 8-max Seat #8 is the button
+Seat 1: FMHB31 (5030 in chips) is sitting out
+Seat 2: soniacarneir (4940 in chips) 
+Seat 3: ruedas ps (4520 in chips) 
+Seat 4: barram32 (4890 in chips) is sitting out
+Seat 5: anapaoli (4890 in chips) 
+Seat 6: astur_cat (6095 in chips) 
+Seat 7: centrado98 (4890 in chips) is sitting out
+Seat 8: mabeal1 (4740 in chips) 
+FMHB31: posts the ante 5
+soniacarneir: posts the ante 5
+ruedas ps: posts the ante 5
+barram32: posts the ante 5
+anapaoli: posts the ante 5
+astur_cat: posts the ante 5
+centrado98: posts the ante 5
+mabeal1: posts the ante 5
+FMHB31: posts small blind 25
+soniacarneir: posts big blind 50
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 6h]
+ruedas ps: raises 50 to 100
+barram32: folds 
+anapaoli: folds 
+astur_cat: folds 
+centrado98: folds 
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: calls 50
+*** FLOP *** [7s 3h Kh]
+soniacarneir: checks 
+ruedas ps: checks 
+*** TURN *** [7s 3h Kh] [9h]
+soniacarneir: checks 
+ruedas ps: bets 50
+soniacarneir: calls 50
+*** RIVER *** [7s 3h Kh 9h] [2c]
+soniacarneir: checks 
+ruedas ps: checks 
+*** SHOW DOWN ***
+soniacarneir: shows [As Qh] (high card Ace)
+ruedas ps: shows [9d 8d] (a pair of Nines)
+ruedas ps collected 365 from pot
+*** SUMMARY ***
+Total pot 365 | Rake 0 
+Board [7s 3h Kh 9h 2c]
+Seat 1: FMHB31 (small blind) folded before Flop
+Seat 2: soniacarneir (big blind) showed [As Qh] and lost with high card Ace
+Seat 3: ruedas ps showed [9d 8d] and won (365) with a pair of Nines
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli folded before Flop (didn't bet)
+Seat 6: astur_cat folded before Flop (didn't bet)
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604287302: Tournament #3967680879, Freeroll  Hold'em No Limit - Level II (30/60) - 2026/02/05 20:03:40 CET [2026/02/05 14:03:40 ET]
+Table '3967680879 132' 8-max Seat #1 is the button
+Seat 1: FMHB31 (5000 in chips) is sitting out
+Seat 2: soniacarneir (4785 in chips) 
+Seat 3: ruedas ps (4730 in chips) 
+Seat 4: barram32 (4885 in chips) is sitting out
+Seat 5: anapaoli (4885 in chips) 
+Seat 6: astur_cat (6090 in chips) 
+Seat 7: centrado98 (4885 in chips) is sitting out
+Seat 8: mabeal1 (4735 in chips) 
+FMHB31: posts the ante 6
+soniacarneir: posts the ante 6
+ruedas ps: posts the ante 6
+barram32: posts the ante 6
+anapaoli: posts the ante 6
+astur_cat: posts the ante 6
+centrado98: posts the ante 6
+mabeal1: posts the ante 6
+soniacarneir: posts small blind 30
+ruedas ps: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d Qh]
+barram32: folds 
+anapaoli: folds 
+astur_cat: raises 60 to 120
+centrado98: folds 
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: calls 90
+ruedas ps: calls 60
+*** FLOP *** [4d 5d 7s]
+soniacarneir: checks 
+ruedas ps: checks 
+astur_cat: bets 60
+soniacarneir: calls 60
+ruedas ps: calls 60
+*** TURN *** [4d 5d 7s] [Th]
+soniacarneir: checks 
+ruedas ps: checks 
+astur_cat: bets 120
+soniacarneir: folds 
+ruedas ps: calls 120
+*** RIVER *** [4d 5d 7s Th] [9s]
+ruedas ps: checks 
+astur_cat: bets 414
+ruedas ps: calls 414
+*** SHOW DOWN ***
+astur_cat: shows [Td Ah] (a pair of Tens)
+ruedas ps: mucks hand 
+astur_cat collected 1656 from pot
+*** SUMMARY ***
+Total pot 1656 | Rake 0 
+Board [4d 5d 7s Th 9s]
+Seat 1: FMHB31 (button) folded before Flop (didn't bet)
+Seat 2: soniacarneir (small blind) folded on the Turn
+Seat 3: ruedas ps (big blind) mucked [5h 8h]
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli folded before Flop (didn't bet)
+Seat 6: astur_cat showed [Td Ah] and won (1656) with a pair of Tens
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604299967: Tournament #3967680879, Freeroll  Hold'em No Limit - Level II (30/60) - 2026/02/05 20:04:31 CET [2026/02/05 14:04:31 ET]
+Table '3967680879 132' 8-max Seat #2 is the button
+Seat 1: FMHB31 (4994 in chips) is sitting out
+Seat 2: soniacarneir (4599 in chips) 
+Seat 3: ruedas ps (4010 in chips) 
+Seat 4: barram32 (4879 in chips) is sitting out
+Seat 5: anapaoli (4879 in chips) 
+Seat 6: astur_cat (7026 in chips) 
+Seat 7: centrado98 (4879 in chips) is sitting out
+Seat 8: mabeal1 (4729 in chips) 
+FMHB31: posts the ante 6
+soniacarneir: posts the ante 6
+ruedas ps: posts the ante 6
+barram32: posts the ante 6
+anapaoli: posts the ante 6
+astur_cat: posts the ante 6
+centrado98: posts the ante 6
+mabeal1: posts the ante 6
+ruedas ps: posts small blind 30
+barram32: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs 9h]
+anapaoli: folds 
+astur_cat: calls 60
+centrado98: folds 
+mabeal1: calls 60
+FMHB31: folds 
+soniacarneir: raises 60 to 120
+ruedas ps: folds 
+barram32: folds 
+astur_cat: calls 60
+mabeal1: calls 60
+*** FLOP *** [3d Qd 6h]
+astur_cat: checks 
+mabeal1: checks 
+soniacarneir: checks 
+*** TURN *** [3d Qd 6h] [4c]
+astur_cat: checks 
+mabeal1: bets 374
+soniacarneir: calls 374
+astur_cat: folds 
+*** RIVER *** [3d Qd 6h 4c] [5c]
+mabeal1: bets 420
+soniacarneir: folds 
+Uncalled bet (420) returned to mabeal1
+mabeal1 collected 1246 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1246 | Rake 0 
+Board [3d Qd 6h 4c 5c]
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir (button) folded on the River
+Seat 3: ruedas ps (small blind) folded before Flop
+Seat 4: barram32 (big blind) folded before Flop
+Seat 5: anapaoli folded before Flop (didn't bet)
+Seat 6: astur_cat folded on the Turn
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 collected (1246)
+
+
+
+PokerStars Hand #259604314513: Tournament #3967680879, Freeroll  Hold'em No Limit - Level II (30/60) - 2026/02/05 20:05:28 CET [2026/02/05 14:05:28 ET]
+Table '3967680879 132' 8-max Seat #3 is the button
+Seat 1: FMHB31 (4988 in chips) is sitting out
+Seat 2: soniacarneir (4099 in chips) 
+Seat 3: ruedas ps (3974 in chips) 
+Seat 4: barram32 (4813 in chips) is sitting out
+Seat 5: anapaoli (4873 in chips) 
+Seat 6: astur_cat (6900 in chips) 
+Seat 7: centrado98 (4873 in chips) is sitting out
+Seat 8: mabeal1 (5475 in chips) 
+FMHB31: posts the ante 6
+soniacarneir: posts the ante 6
+ruedas ps: posts the ante 6
+barram32: posts the ante 6
+anapaoli: posts the ante 6
+astur_cat: posts the ante 6
+centrado98: posts the ante 6
+mabeal1: posts the ante 6
+barram32: posts small blind 30
+anapaoli: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 5s]
+barram32 is disconnected 
+astur_cat: folds 
+centrado98: folds 
+barram32 has returned
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: calls 60
+ruedas ps: calls 60
+barram32: calls 30
+anapaoli: raises 120 to 180
+soniacarneir: calls 120
+ruedas ps: folds 
+barram32: calls 120
+*** FLOP *** [Qd Tc 6c]
+barram32: checks 
+anapaoli: checks 
+soniacarneir: checks 
+*** TURN *** [Qd Tc 6c] [3c]
+barram32: checks 
+anapaoli: checks 
+soniacarneir: checks 
+*** RIVER *** [Qd Tc 6c 3c] [9c]
+barram32: checks 
+anapaoli: checks 
+soniacarneir: checks 
+*** SHOW DOWN ***
+barram32: shows [7d Jd] (high card Queen)
+anapaoli: shows [5c Ad] (a flush, Ten high)
+soniacarneir: mucks hand 
+anapaoli collected 648 from pot
+*** SUMMARY ***
+Total pot 648 | Rake 0 
+Board [Qd Tc 6c 3c 9c]
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir mucked [9s 6s]
+Seat 3: ruedas ps (button) folded before Flop
+Seat 4: barram32 (small blind) showed [7d Jd] and lost with high card Queen
+Seat 5: anapaoli (big blind) showed [5c Ad] and won (648) with a flush, Ten high
+Seat 6: astur_cat folded before Flop (didn't bet)
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604335007: Tournament #3967680879, Freeroll  Hold'em No Limit - Level III (40/80) - 2026/02/05 20:06:50 CET [2026/02/05 14:06:50 ET]
+Table '3967680879 132' 8-max Seat #4 is the button
+Seat 1: FMHB31 (4982 in chips) is sitting out
+Seat 2: soniacarneir (3913 in chips) 
+Seat 3: ruedas ps (3908 in chips) 
+Seat 4: barram32 (4627 in chips) 
+Seat 5: anapaoli (5335 in chips) 
+Seat 6: astur_cat (6894 in chips) 
+Seat 7: centrado98 (4867 in chips) is sitting out
+Seat 8: mabeal1 (5469 in chips) 
+FMHB31: posts the ante 8
+soniacarneir: posts the ante 8
+ruedas ps: posts the ante 8
+barram32: posts the ante 8
+anapaoli: posts the ante 8
+astur_cat: posts the ante 8
+centrado98: posts the ante 8
+mabeal1: posts the ante 8
+anapaoli: posts small blind 40
+astur_cat: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jc Kc]
+centrado98: folds 
+mabeal1: raises 80 to 160
+FMHB31: folds 
+soniacarneir: calls 160
+ruedas ps: folds 
+barram32: calls 160
+anapaoli: folds 
+astur_cat: calls 80
+*** FLOP *** [5s Qd Ad]
+astur_cat: checks 
+mabeal1: checks 
+soniacarneir: checks 
+barram32: bets 160
+astur_cat: folds 
+mabeal1: calls 160
+soniacarneir: calls 160
+*** TURN *** [5s Qd Ad] [6d]
+mabeal1: checks 
+soniacarneir: checks 
+barram32: bets 160
+mabeal1: folds 
+soniacarneir: calls 160
+*** RIVER *** [5s Qd Ad 6d] [5h]
+soniacarneir: checks 
+barram32: checks 
+*** SHOW DOWN ***
+soniacarneir: shows [Kh Jh] (a pair of Fives)
+barram32: shows [8d Qc] (two pair, Queens and Fives)
+barram32 collected 1544 from pot
+*** SUMMARY ***
+Total pot 1544 | Rake 0 
+Board [5s Qd Ad 6d 5h]
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir showed [Kh Jh] and lost with a pair of Fives
+Seat 3: ruedas ps folded before Flop (didn't bet)
+Seat 4: barram32 (button) showed [8d Qc] and won (1544) with two pair, Queens and Fives
+Seat 5: anapaoli (small blind) folded before Flop
+Seat 6: astur_cat (big blind) folded on the Flop
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 folded on the Turn
+
+
+
+PokerStars Hand #259604355381: Tournament #3967680879, Freeroll  Hold'em No Limit - Level III (40/80) - 2026/02/05 20:08:11 CET [2026/02/05 14:08:11 ET]
+Table '3967680879 132' 8-max Seat #5 is the button
+Seat 1: FMHB31 (4974 in chips) is sitting out
+Seat 2: soniacarneir (3425 in chips) 
+Seat 3: ruedas ps (3900 in chips) 
+Seat 4: barram32 (5683 in chips) 
+Seat 5: anapaoli (5287 in chips) 
+Seat 6: astur_cat (6726 in chips) 
+Seat 7: centrado98 (4859 in chips) is sitting out
+Seat 8: mabeal1 (5141 in chips) 
+FMHB31: posts the ante 8
+soniacarneir: posts the ante 8
+ruedas ps: posts the ante 8
+barram32: posts the ante 8
+anapaoli: posts the ante 8
+astur_cat: posts the ante 8
+centrado98: posts the ante 8
+mabeal1: posts the ante 8
+astur_cat: posts small blind 40
+centrado98: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 5s]
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: raises 240 to 320
+ruedas ps: folds 
+barram32: calls 320
+anapaoli: raises 240 to 560
+astur_cat: folds 
+centrado98: folds 
+soniacarneir: calls 240
+barram32: calls 240
+*** FLOP *** [Ad 2h 3s]
+barram32 is disconnected 
+soniacarneir: checks 
+barram32: checks 
+anapaoli: checks 
+*** TURN *** [Ad 2h 3s] [9h]
+soniacarneir: bets 2857 and is all-in
+barram32 has timed out
+barram32: folds 
+barram32 is sitting out
+anapaoli: folds 
+Uncalled bet (2857) returned to soniacarneir
+soniacarneir collected 1864 from pot
+soniacarneir: doesn't show hand 
+*** SUMMARY ***
+Total pot 1864 | Rake 0 
+Board [Ad 2h 3s 9h]
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir collected (1864)
+Seat 3: ruedas ps folded before Flop (didn't bet)
+Seat 4: barram32 folded on the Turn
+Seat 5: anapaoli (button) folded on the Turn
+Seat 6: astur_cat (small blind) folded before Flop
+Seat 7: centrado98 (big blind) folded before Flop
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604400663: Tournament #3967680879, Freeroll  Hold'em No Limit - Level IV (50/100) - 2026/02/05 20:11:14 CET [2026/02/05 14:11:14 ET]
+Table '3967680879 132' 8-max Seat #6 is the button
+Seat 1: FMHB31 (4966 in chips) is sitting out
+Seat 2: soniacarneir (4721 in chips) 
+Seat 3: ruedas ps (3892 in chips) 
+Seat 4: barram32 (5115 in chips) is sitting out
+Seat 5: anapaoli (4719 in chips) 
+Seat 6: astur_cat (6678 in chips) 
+Seat 7: centrado98 (4771 in chips) is sitting out
+Seat 8: mabeal1 (5133 in chips) 
+FMHB31: posts the ante 10
+soniacarneir: posts the ante 10
+ruedas ps: posts the ante 10
+barram32: posts the ante 10
+anapaoli: posts the ante 10
+astur_cat: posts the ante 10
+centrado98: posts the ante 10
+mabeal1: posts the ante 10
+centrado98: posts small blind 50
+mabeal1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc 4d]
+FMHB31: folds 
+soniacarneir: folds 
+ruedas ps: raises 100 to 200
+barram32: folds 
+anapaoli: calls 200
+astur_cat: folds 
+centrado98: folds 
+mabeal1: calls 100
+*** FLOP *** [2s 9h 8s]
+mabeal1: checks 
+ruedas ps: checks 
+anapaoli: bets 730
+mabeal1: folds 
+ruedas ps: folds 
+Uncalled bet (730) returned to anapaoli
+anapaoli collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [2s 9h 8s]
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir folded before Flop (didn't bet)
+Seat 3: ruedas ps folded on the Flop
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli collected (730)
+Seat 6: astur_cat (button) folded before Flop (didn't bet)
+Seat 7: centrado98 (small blind) folded before Flop
+Seat 8: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259604416248: Tournament #3967680879, Freeroll  Hold'em No Limit - Level V (60/120) - 2026/02/05 20:12:17 CET [2026/02/05 14:12:17 ET]
+Table '3967680879 132' 8-max Seat #7 is the button
+Seat 1: FMHB31 (4956 in chips) is sitting out
+Seat 2: soniacarneir (4711 in chips) 
+Seat 3: ruedas ps (3682 in chips) 
+Seat 4: barram32 (5105 in chips) is sitting out
+Seat 5: anapaoli (5239 in chips) 
+Seat 6: astur_cat (6668 in chips) 
+Seat 7: centrado98 (4711 in chips) is sitting out
+Seat 8: mabeal1 (4923 in chips) 
+FMHB31: posts the ante 12
+soniacarneir: posts the ante 12
+ruedas ps: posts the ante 12
+barram32: posts the ante 12
+anapaoli: posts the ante 12
+astur_cat: posts the ante 12
+centrado98: posts the ante 12
+mabeal1: posts the ante 12
+mabeal1: posts small blind 60
+FMHB31: posts big blind 120
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h Js]
+soniacarneir: folds 
+ruedas ps: folds 
+barram32: folds 
+anapaoli: raises 396 to 516
+astur_cat: folds 
+centrado98: folds 
+mabeal1: folds 
+FMHB31: folds 
+Uncalled bet (396) returned to anapaoli
+anapaoli collected 396 from pot
+*** SUMMARY ***
+Total pot 396 | Rake 0 
+Seat 1: FMHB31 (big blind) folded before Flop
+Seat 2: soniacarneir folded before Flop (didn't bet)
+Seat 3: ruedas ps folded before Flop (didn't bet)
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli collected (396)
+Seat 6: astur_cat folded before Flop (didn't bet)
+Seat 7: centrado98 (button) folded before Flop (didn't bet)
+Seat 8: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259604422968: Tournament #3967680879, Freeroll  Hold'em No Limit - Level V (60/120) - 2026/02/05 20:12:45 CET [2026/02/05 14:12:45 ET]
+Table '3967680879 132' 8-max Seat #8 is the button
+Seat 1: FMHB31 (4824 in chips) is sitting out
+Seat 2: soniacarneir (4699 in chips) 
+Seat 3: ruedas ps (3670 in chips) 
+Seat 4: barram32 (5093 in chips) is sitting out
+Seat 5: anapaoli (5503 in chips) 
+Seat 6: astur_cat (6656 in chips) 
+Seat 7: centrado98 (4699 in chips) is sitting out
+Seat 8: mabeal1 (4851 in chips) 
+FMHB31: posts the ante 12
+soniacarneir: posts the ante 12
+ruedas ps: posts the ante 12
+barram32: posts the ante 12
+anapaoli: posts the ante 12
+astur_cat: posts the ante 12
+centrado98: posts the ante 12
+mabeal1: posts the ante 12
+FMHB31: posts small blind 60
+soniacarneir: posts big blind 120
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 7d]
+ruedas ps: raises 120 to 240
+barram32: folds 
+anapaoli: calls 240
+astur_cat: calls 240
+centrado98: folds 
+mabeal1: raises 4599 to 4839 and is all-in
+FMHB31: folds 
+soniacarneir: folds 
+ruedas ps: folds 
+anapaoli: folds 
+astur_cat: folds 
+Uncalled bet (4599) returned to mabeal1
+mabeal1 collected 1236 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1236 | Rake 0 
+Seat 1: FMHB31 (small blind) folded before Flop
+Seat 2: soniacarneir (big blind) folded before Flop
+Seat 3: ruedas ps folded before Flop
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli folded before Flop
+Seat 6: astur_cat folded before Flop
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 (button) collected (1236)
+
+
+
+PokerStars Hand #259604437336: Tournament #3967680879, Freeroll  Hold'em No Limit - Level V (60/120) - 2026/02/05 20:13:43 CET [2026/02/05 14:13:43 ET]
+Table '3967680879 132' 8-max Seat #1 is the button
+Seat 1: FMHB31 (4752 in chips) is sitting out
+Seat 2: soniacarneir (4567 in chips) 
+Seat 3: ruedas ps (3418 in chips) 
+Seat 4: barram32 (5081 in chips) is sitting out
+Seat 5: anapaoli (5251 in chips) 
+Seat 6: astur_cat (6404 in chips) 
+Seat 7: centrado98 (4687 in chips) is sitting out
+Seat 8: mabeal1 (5835 in chips) 
+FMHB31: posts the ante 12
+soniacarneir: posts the ante 12
+ruedas ps: posts the ante 12
+barram32: posts the ante 12
+anapaoli: posts the ante 12
+astur_cat: posts the ante 12
+centrado98: posts the ante 12
+mabeal1: posts the ante 12
+soniacarneir: posts small blind 60
+ruedas ps: posts big blind 120
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 5c]
+barram32: folds 
+anapaoli: folds 
+astur_cat: calls 120
+centrado98: folds 
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: calls 60
+ruedas ps: checks 
+*** FLOP *** [4h 8s Qc]
+soniacarneir: checks 
+ruedas ps: checks 
+astur_cat: checks 
+*** TURN *** [4h 8s Qc] [6c]
+soniacarneir: checks 
+ruedas ps: checks 
+astur_cat: checks 
+*** RIVER *** [4h 8s Qc 6c] [Kc]
+soniacarneir: bets 228
+ruedas ps: folds 
+astur_cat: folds 
+Uncalled bet (228) returned to soniacarneir
+soniacarneir collected 456 from pot
+soniacarneir: doesn't show hand 
+*** SUMMARY ***
+Total pot 456 | Rake 0 
+Board [4h 8s Qc 6c Kc]
+Seat 1: FMHB31 (button) folded before Flop (didn't bet)
+Seat 2: soniacarneir (small blind) collected (456)
+Seat 3: ruedas ps (big blind) folded on the River
+Seat 4: barram32 folded before Flop (didn't bet)
+Seat 5: anapaoli folded before Flop (didn't bet)
+Seat 6: astur_cat folded on the River
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604469068: Tournament #3967680879, Freeroll  Hold'em No Limit - Level VI (75/150) - 2026/02/05 20:15:49 CET [2026/02/05 14:15:49 ET]
+Table '3967680879 132' 8-max Seat #2 is the button
+Seat 1: FMHB31 (4740 in chips) is sitting out
+Seat 2: soniacarneir (4891 in chips) 
+Seat 3: ruedas ps (3286 in chips) 
+Seat 4: barram32 (5069 in chips) is sitting out
+Seat 5: anapaoli (5239 in chips) 
+Seat 6: astur_cat (6272 in chips) 
+Seat 7: centrado98 (4675 in chips) is sitting out
+Seat 8: mabeal1 (5823 in chips) 
+FMHB31: posts the ante 15
+soniacarneir: posts the ante 15
+ruedas ps: posts the ante 15
+barram32: posts the ante 15
+anapaoli: posts the ante 15
+astur_cat: posts the ante 15
+centrado98: posts the ante 15
+mabeal1: posts the ante 15
+ruedas ps: posts small blind 75
+barram32: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mabeal1 [4c 4d]
+anapaoli: folds 
+astur_cat: calls 150
+centrado98: folds 
+mabeal1: raises 5658 to 5808 and is all-in
+FMHB31: folds 
+soniacarneir: folds 
+ruedas ps: calls 3196 and is all-in
+barram32: folds 
+astur_cat: folds 
+Uncalled bet (2537) returned to mabeal1
+*** FLOP *** [6c 5s 8s]
+*** TURN *** [6c 5s 8s] [As]
+*** RIVER *** [6c 5s 8s As] [6h]
+*** SHOW DOWN ***
+ruedas ps: shows [Jd Js] (two pair, Jacks and Sixes)
+mabeal1: shows [4c 4d] (two pair, Sixes and Fours)
+ruedas ps collected 6962 from pot
+*** SUMMARY ***
+Total pot 6962 | Rake 0 
+Board [6c 5s 8s As 6h]
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir (button) folded before Flop (didn't bet)
+Seat 3: ruedas ps (small blind) showed [Jd Js] and won (6962) with two pair, Jacks and Sixes
+Seat 4: barram32 (big blind) folded before Flop
+Seat 5: anapaoli folded before Flop (didn't bet)
+Seat 6: astur_cat folded before Flop
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 showed [4c 4d] and lost with two pair, Sixes and Fours
+
+
+
+PokerStars Hand #259604479937: Tournament #3967680879, Freeroll  Hold'em No Limit - Level VI (75/150) - 2026/02/05 20:16:32 CET [2026/02/05 14:16:32 ET]
+Table '3967680879 132' 8-max Seat #3 is the button
+Seat 1: FMHB31 (4725 in chips) is sitting out
+Seat 2: soniacarneir (4876 in chips) 
+Seat 3: ruedas ps (6962 in chips) 
+Seat 4: barram32 (4904 in chips) is sitting out
+Seat 5: anapaoli (5224 in chips) 
+Seat 6: astur_cat (6107 in chips) 
+Seat 7: centrado98 (4660 in chips) is sitting out
+Seat 8: mabeal1 (2537 in chips) 
+FMHB31: posts the ante 15
+soniacarneir: posts the ante 15
+ruedas ps: posts the ante 15
+barram32: posts the ante 15
+anapaoli: posts the ante 15
+astur_cat: posts the ante 15
+centrado98: posts the ante 15
+mabeal1: posts the ante 15
+barram32: posts small blind 75
+anapaoli: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 5h]
+astur_cat: folds 
+centrado98: folds 
+mabeal1: folds 
+FMHB31: folds 
+soniacarneir: raises 4711 to 4861 and is all-in
+ruedas ps: folds 
+barram32: folds 
+anapaoli: folds 
+Uncalled bet (4711) returned to soniacarneir
+soniacarneir collected 495 from pot
+soniacarneir: doesn't show hand 
+*** SUMMARY ***
+Total pot 495 | Rake 0 
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir collected (495)
+Seat 3: ruedas ps (button) folded before Flop (didn't bet)
+Seat 4: barram32 (small blind) folded before Flop
+Seat 5: anapaoli (big blind) folded before Flop
+Seat 6: astur_cat folded before Flop (didn't bet)
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259604485606: Tournament #3967680879, Freeroll  Hold'em No Limit - Level VI (75/150) - 2026/02/05 20:16:54 CET [2026/02/05 14:16:54 ET]
+Table '3967680879 132' 8-max Seat #4 is the button
+Seat 1: FMHB31 (4710 in chips) is sitting out
+Seat 2: soniacarneir (5206 in chips) 
+Seat 3: ruedas ps (6947 in chips) 
+Seat 4: barram32 (4814 in chips) is sitting out
+Seat 5: anapaoli (5059 in chips) 
+Seat 6: astur_cat (6092 in chips) 
+Seat 7: centrado98 (4645 in chips) is sitting out
+Seat 8: mabeal1 (2522 in chips) 
+FMHB31: posts the ante 15
+soniacarneir: posts the ante 15
+ruedas ps: posts the ante 15
+barram32: posts the ante 15
+anapaoli: posts the ante 15
+astur_cat: posts the ante 15
+centrado98: posts the ante 15
+mabeal1: posts the ante 15
+anapaoli: posts small blind 75
+astur_cat: posts big blind 150
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9c]
+centrado98: folds 
+mabeal1: calls 150
+FMHB31: folds 
+soniacarneir: calls 150
+ruedas ps: folds 
+barram32: folds 
+anapaoli is disconnected 
+soniacarneir is disconnected 
+soniacarneir is disconnected 
+anapaoli has timed out while disconnected
+anapaoli: folds 
+anapaoli is sitting out
+astur_cat: checks 
+*** FLOP *** [9h 7s 5s]
+astur_cat: bets 150
+mabeal1: raises 600 to 750
+soniacarneir: calls 750
+astur_cat: calls 600
+*** TURN *** [9h 7s 5s] [4h]
+astur_cat: checks 
+mabeal1: bets 1607 and is all-in
+soniacarneir: calls 1607
+astur_cat: calls 1607
+*** RIVER *** [9h 7s 5s 4h] [3h]
+astur_cat: checks 
+soniacarneir: bets 2684 and is all-in
+astur_cat: calls 2684
+*** SHOW DOWN ***
+soniacarneir: shows [Th 8s] (high card Ten)
+astur_cat: shows [Ah Ad] (a pair of Aces)
+astur_cat collected 5368 from side pot
+mabeal1: shows [Ts 9c] (a pair of Nines)
+astur_cat collected 7716 from main pot
+soniacarneir finished the tournament in 832nd place
+mabeal1 finished the tournament in 833rd place
+*** SUMMARY ***
+Total pot 13084 Main pot 7716. Side pot 5368. | Rake 0 
+Board [9h 7s 5s 4h 3h]
+Seat 1: FMHB31 folded before Flop (didn't bet)
+Seat 2: soniacarneir showed [Th 8s] and lost with high card Ten
+Seat 3: ruedas ps folded before Flop (didn't bet)
+Seat 4: barram32 (button) folded before Flop (didn't bet)
+Seat 5: anapaoli (small blind) folded before Flop
+Seat 6: astur_cat (big blind) showed [Ah Ad] and won (13084) with a pair of Aces
+Seat 7: centrado98 folded before Flop (didn't bet)
+Seat 8: mabeal1 showed [Ts 9c] and lost with a pair of Nines
+
+
+

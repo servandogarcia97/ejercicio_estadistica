@@ -1,0 +1,344 @@
+﻿PokerStars Hand #259416714291: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:11:23 CET [2026/01/22 12:11:23 ET]
+Table '3968080595 1' 3-max Seat #1 is the button
+Seat 1: Wemile (500 in chips) 
+Seat 2: MaRiKyYy (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+MaRiKyYy: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qh Jc]
+Wemile: calls 20
+MaRiKyYy: raises 20 to 40
+mabeal1: calls 20
+Wemile: folds 
+*** FLOP *** [3c 4s 2d]
+MaRiKyYy: bets 50
+mabeal1: calls 50
+*** TURN *** [3c 4s 2d] [6c]
+MaRiKyYy: checks 
+mabeal1: checks 
+*** RIVER *** [3c 4s 2d 6c] [Qc]
+MaRiKyYy: bets 20
+mabeal1: raises 120 to 140
+MaRiKyYy: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 240 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3c 4s 2d 6c Qc]
+Seat 1: Wemile (button) folded before Flop
+Seat 2: MaRiKyYy (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (240)
+
+
+
+PokerStars Hand #259416722689: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:12:06 CET [2026/01/22 12:12:06 ET]
+Table '3968080595 1' 3-max Seat #2 is the button
+Seat 1: Wemile (480 in chips) 
+Seat 2: MaRiKyYy (390 in chips) 
+Seat 3: mabeal1 (630 in chips) 
+mabeal1: posts small blind 10
+Wemile: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 7c]
+MaRiKyYy: folds 
+mabeal1: raises 20 to 40
+Wemile: calls 20
+*** FLOP *** [Js Jh Ac]
+mabeal1: bets 30
+Wemile: calls 30
+*** TURN *** [Js Jh Ac] [Td]
+mabeal1: checks 
+Wemile: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to Wemile
+Wemile collected 140 from pot
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Js Jh Ac Td]
+Seat 1: Wemile (big blind) collected (140)
+Seat 2: MaRiKyYy (button) folded before Flop (didn't bet)
+Seat 3: mabeal1 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #259416731832: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:12:53 CET [2026/01/22 12:12:53 ET]
+Table '3968080595 1' 3-max Seat #3 is the button
+Seat 1: Wemile (550 in chips) 
+Seat 2: MaRiKyYy (390 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+Wemile: posts small blind 10
+MaRiKyYy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 9c]
+mabeal1: raises 20 to 40
+Wemile: calls 30
+MaRiKyYy: calls 20
+*** FLOP *** [2c Qh 6h]
+Wemile: bets 20
+MaRiKyYy: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Wemile
+Wemile collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c Qh 6h]
+Seat 1: Wemile (small blind) collected (120)
+Seat 2: MaRiKyYy (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded on the Flop
+
+
+
+PokerStars Hand #259416734743: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:13:08 CET [2026/01/22 12:13:08 ET]
+Table '3968080595 1' 3-max Seat #1 is the button
+Seat 1: Wemile (630 in chips) 
+Seat 2: MaRiKyYy (350 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+MaRiKyYy: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Jc]
+Wemile: calls 20
+MaRiKyYy: calls 10
+mabeal1: checks 
+*** FLOP *** [7h Th 3c]
+MaRiKyYy: checks 
+mabeal1: checks 
+Wemile: checks 
+*** TURN *** [7h Th 3c] [Jh]
+MaRiKyYy: checks 
+mabeal1: bets 45
+Wemile: folds 
+MaRiKyYy: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7h Th 3c Jh]
+Seat 1: Wemile (button) folded on the Turn
+Seat 2: MaRiKyYy (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259416739065: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:13:30 CET [2026/01/22 12:13:30 ET]
+Table '3968080595 1' 3-max Seat #2 is the button
+Seat 1: Wemile (610 in chips) 
+Seat 2: MaRiKyYy (330 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+mabeal1: posts small blind 10
+Wemile: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 9d]
+MaRiKyYy: calls 20
+mabeal1: folds 
+Wemile: checks 
+*** FLOP *** [5s Ad 8c]
+Wemile: bets 20
+MaRiKyYy: calls 20
+*** TURN *** [5s Ad 8c] [3c]
+Wemile: checks 
+MaRiKyYy: bets 90
+Wemile: calls 90
+*** RIVER *** [5s Ad 8c 3c] [9h]
+Wemile: bets 20
+MaRiKyYy: raises 125 to 145
+Wemile: calls 125
+*** SHOW DOWN ***
+MaRiKyYy: shows [8s 3s] (two pair, Eights and Threes)
+Wemile: mucks hand 
+MaRiKyYy collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [5s Ad 8c 3c 9h]
+Seat 1: Wemile (big blind) mucked [7h 2s]
+Seat 2: MaRiKyYy (button) showed [8s 3s] and won (560) with two pair, Eights and Threes
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416745474: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:14:03 CET [2026/01/22 12:14:03 ET]
+Table '3968080595 1' 3-max Seat #3 is the button
+Seat 1: Wemile (335 in chips) 
+Seat 2: MaRiKyYy (615 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+Wemile: posts small blind 10
+MaRiKyYy: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s Js]
+mabeal1: raises 20 to 40
+Wemile: calls 30
+MaRiKyYy: calls 20
+*** FLOP *** [8h Kd 6d]
+Wemile: bets 20
+MaRiKyYy: folds 
+mabeal1: folds 
+Uncalled bet (20) returned to Wemile
+Wemile collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8h Kd 6d]
+Seat 1: Wemile (small blind) collected (120)
+Seat 2: MaRiKyYy (big blind) folded on the Flop
+Seat 3: mabeal1 (button) folded on the Flop
+
+
+
+PokerStars Hand #259416749620: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/22 18:14:24 CET [2026/01/22 12:14:24 ET]
+Table '3968080595 1' 3-max Seat #1 is the button
+Seat 1: Wemile (415 in chips) 
+Seat 2: MaRiKyYy (575 in chips) 
+Seat 3: mabeal1 (510 in chips) 
+MaRiKyYy: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Jc]
+Wemile: calls 20
+MaRiKyYy: calls 10
+mabeal1: checks 
+*** FLOP *** [6d Kc 5c]
+MaRiKyYy: checks 
+mabeal1: checks 
+Wemile: checks 
+*** TURN *** [6d Kc 5c] [Ad]
+MaRiKyYy: checks 
+mabeal1: checks 
+Wemile: checks 
+*** RIVER *** [6d Kc 5c Ad] [5d]
+MaRiKyYy: bets 30
+mabeal1: calls 30
+Wemile: calls 30
+*** SHOW DOWN ***
+MaRiKyYy: shows [3s 3d] (two pair, Fives and Threes)
+mabeal1: mucks hand 
+Wemile: mucks hand 
+MaRiKyYy collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [6d Kc 5c Ad 5d]
+Seat 1: Wemile (button) mucked [9d 2c]
+Seat 2: MaRiKyYy (small blind) showed [3s 3d] and won (150) with two pair, Fives and Threes
+Seat 3: mabeal1 (big blind) mucked [Qs Jc]
+
+
+
+PokerStars Hand #259416756294: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:14:57 CET [2026/01/22 12:14:57 ET]
+Table '3968080595 1' 3-max Seat #2 is the button
+Seat 1: Wemile (365 in chips) 
+Seat 2: MaRiKyYy (675 in chips) 
+Seat 3: mabeal1 (460 in chips) 
+mabeal1: posts small blind 15
+Wemile: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 2d]
+MaRiKyYy: calls 30
+mabeal1: folds 
+Wemile: checks 
+*** FLOP *** [7d Th 3c]
+Wemile: bets 30
+MaRiKyYy: folds 
+Uncalled bet (30) returned to Wemile
+Wemile collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [7d Th 3c]
+Seat 1: Wemile (big blind) collected (75)
+Seat 2: MaRiKyYy (button) folded on the Flop
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259416758783: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:15:09 CET [2026/01/22 12:15:09 ET]
+Table '3968080595 1' 3-max Seat #3 is the button
+Seat 1: Wemile (410 in chips) 
+Seat 2: MaRiKyYy (645 in chips) 
+Seat 3: mabeal1 (445 in chips) 
+Wemile: posts small blind 15
+MaRiKyYy: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd 9d]
+mabeal1: raises 30 to 60
+Wemile: calls 45
+MaRiKyYy: calls 30
+*** FLOP *** [Kd Qh 6d]
+Wemile: checks 
+MaRiKyYy: bets 30
+mabeal1: raises 180 to 210
+Wemile: folds 
+MaRiKyYy: calls 180
+*** TURN *** [Kd Qh 6d] [4s]
+MaRiKyYy: checks 
+mabeal1: checks 
+*** RIVER *** [Kd Qh 6d 4s] [Jc]
+MaRiKyYy: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+MaRiKyYy: shows [Qd 5h] (a pair of Queens)
+mabeal1: mucks hand 
+MaRiKyYy collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Kd Qh 6d 4s Jc]
+Seat 1: Wemile (small blind) folded on the Flop
+Seat 2: MaRiKyYy (big blind) showed [Qd 5h] and won (600) with a pair of Queens
+Seat 3: mabeal1 (button) mucked [Jd 9d]
+
+
+
+PokerStars Hand #259416764463: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:15:38 CET [2026/01/22 12:15:38 ET]
+Table '3968080595 1' 3-max Seat #1 is the button
+Seat 1: Wemile (350 in chips) 
+Seat 2: MaRiKyYy (975 in chips) 
+Seat 3: mabeal1 (175 in chips) 
+MaRiKyYy: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 9c]
+Wemile: calls 30
+MaRiKyYy: calls 15
+mabeal1: raises 145 to 175 and is all-in
+Wemile: folds 
+MaRiKyYy: folds 
+Uncalled bet (145) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: Wemile (button) folded before Flop
+Seat 2: MaRiKyYy (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (90)
+
+
+
+PokerStars Hand #259416767354: Tournament #3968080595, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/22 18:15:52 CET [2026/01/22 12:15:52 ET]
+Table '3968080595 1' 3-max Seat #2 is the button
+Seat 1: Wemile (320 in chips) 
+Seat 2: MaRiKyYy (945 in chips) 
+Seat 3: mabeal1 (235 in chips) 
+mabeal1: posts small blind 15
+Wemile: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4d 4h]
+MaRiKyYy: calls 30
+mabeal1: raises 205 to 235 and is all-in
+Wemile: folds 
+MaRiKyYy: calls 205
+*** FLOP *** [Qs Ad Kc]
+*** TURN *** [Qs Ad Kc] [5s]
+*** RIVER *** [Qs Ad Kc 5s] [Kh]
+*** SHOW DOWN ***
+mabeal1: shows [4d 4h] (two pair, Kings and Fours)
+MaRiKyYy: shows [Kd 6h] (three of a kind, Kings)
+MaRiKyYy collected 500 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Qs Ad Kc 5s Kh]
+Seat 1: Wemile (big blind) folded before Flop
+Seat 2: MaRiKyYy (button) showed [Kd 6h] and won (500) with three of a kind, Kings
+Seat 3: mabeal1 (small blind) showed [4d 4h] and lost with two pair, Kings and Fours
+
+
+

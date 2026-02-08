@@ -1,0 +1,803 @@
+﻿PokerStars Hand #259537376433: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:21:50 CET [2026/01/31 13:21:50 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (500 in chips) 
+Seat 2: ildefl (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+ildefl: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s 9h]
+eminerio: folds 
+ildefl: calls 10
+mabeal1: checks 
+*** FLOP *** [6d 5d 3h]
+ildefl: checks 
+mabeal1: checks 
+*** TURN *** [6d 5d 3h] [5c]
+ildefl: checks 
+mabeal1: bets 40
+ildefl: calls 40
+*** RIVER *** [6d 5d 3h 5c] [Tc]
+ildefl: checks 
+mabeal1: bets 120
+ildefl: folds 
+Uncalled bet (120) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d 5d 3h 5c Tc]
+Seat 1: eminerio (button) folded before Flop (didn't bet)
+Seat 2: ildefl (small blind) folded on the River
+Seat 3: mabeal1 (big blind) collected (120)
+
+
+
+PokerStars Hand #259537382360: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:22:15 CET [2026/01/31 13:22:15 ET]
+Table '3970865031 1' 3-max Seat #2 is the button
+Seat 1: eminerio (500 in chips) 
+Seat 2: ildefl (440 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+mabeal1: posts small blind 10
+eminerio: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Qc]
+ildefl: calls 20
+mabeal1: calls 10
+eminerio: checks 
+*** FLOP *** [Jc 8c 4s]
+mabeal1: checks 
+eminerio: bets 20
+ildefl: calls 20
+mabeal1: calls 20
+*** TURN *** [Jc 8c 4s] [7s]
+mabeal1: checks 
+eminerio: checks 
+ildefl: checks 
+*** RIVER *** [Jc 8c 4s 7s] [Td]
+mabeal1: checks 
+eminerio: bets 20
+ildefl: raises 160 to 180
+mabeal1: folds 
+eminerio: folds 
+Uncalled bet (160) returned to ildefl
+ildefl collected 160 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Jc 8c 4s 7s Td]
+Seat 1: eminerio (big blind) folded on the River
+Seat 2: ildefl (button) collected (160)
+Seat 3: mabeal1 (small blind) folded on the River
+
+
+
+PokerStars Hand #259537391957: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:22:55 CET [2026/01/31 13:22:55 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (440 in chips) 
+Seat 2: ildefl (540 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+eminerio: posts small blind 10
+ildefl: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Ac]
+mabeal1: raises 20 to 40
+eminerio: folds 
+ildefl: calls 20
+*** FLOP *** [6h 2h 9h]
+ildefl: checks 
+mabeal1: checks 
+*** TURN *** [6h 2h 9h] [4c]
+ildefl: checks 
+mabeal1: checks 
+*** RIVER *** [6h 2h 9h 4c] [Qh]
+ildefl: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+ildefl: shows [Jc 7c] (high card Queen)
+mabeal1: shows [Kc Ac] (high card Ace)
+mabeal1 collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6h 2h 9h 4c Qh]
+Seat 1: eminerio (small blind) folded before Flop
+Seat 2: ildefl (big blind) showed [Jc 7c] and lost with high card Queen
+Seat 3: mabeal1 (button) showed [Kc Ac] and won (90) with high card Ace
+
+
+
+PokerStars Hand #259537396522: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:23:14 CET [2026/01/31 13:23:14 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (430 in chips) 
+Seat 2: ildefl (500 in chips) 
+Seat 3: mabeal1 (570 in chips) 
+ildefl: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Td]
+eminerio: calls 20
+ildefl: raises 60 to 80
+mabeal1: folds 
+eminerio: folds 
+Uncalled bet (60) returned to ildefl
+ildefl collected 60 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: eminerio (button) folded before Flop
+Seat 2: ildefl (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259537400053: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:23:29 CET [2026/01/31 13:23:29 ET]
+Table '3970865031 1' 3-max Seat #2 is the button
+Seat 1: eminerio (410 in chips) 
+Seat 2: ildefl (540 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+mabeal1: posts small blind 10
+eminerio: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Js 7h]
+ildefl: calls 20
+mabeal1: calls 10
+eminerio: checks 
+*** FLOP *** [8h Td 9s]
+mabeal1: checks 
+eminerio: checks 
+ildefl: checks 
+*** TURN *** [8h Td 9s] [3h]
+mabeal1: bets 60
+eminerio: folds 
+ildefl: calls 60
+*** RIVER *** [8h Td 9s 3h] [3c]
+mabeal1: bets 470 and is all-in
+ildefl: folds 
+Uncalled bet (470) returned to mabeal1
+mabeal1 collected 180 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [8h Td 9s 3h 3c]
+Seat 1: eminerio (big blind) folded on the Turn
+Seat 2: ildefl (button) folded on the River
+Seat 3: mabeal1 (small blind) collected (180)
+
+
+
+PokerStars Hand #259537406553: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:23:56 CET [2026/01/31 13:23:56 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (390 in chips) 
+Seat 2: ildefl (460 in chips) 
+Seat 3: mabeal1 (650 in chips) 
+eminerio: posts small blind 10
+ildefl: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc Qh]
+mabeal1: raises 20 to 40
+eminerio: calls 30
+ildefl: folds 
+*** FLOP *** [7s 4c 2h]
+eminerio: checks 
+mabeal1: bets 75
+eminerio: folds 
+Uncalled bet (75) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [7s 4c 2h]
+Seat 1: eminerio (small blind) folded on the Flop
+Seat 2: ildefl (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (100)
+
+
+
+PokerStars Hand #259537410212: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:24:11 CET [2026/01/31 13:24:11 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (350 in chips) 
+Seat 2: ildefl (440 in chips) 
+Seat 3: mabeal1 (710 in chips) 
+ildefl: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 6c]
+eminerio: calls 20
+ildefl: calls 10
+mabeal1: checks 
+*** FLOP *** [Qd Ad Ah]
+ildefl: bets 60
+mabeal1: folds 
+eminerio: folds 
+Uncalled bet (60) returned to ildefl
+ildefl collected 60 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Qd Ad Ah]
+Seat 1: eminerio (button) folded on the Flop
+Seat 2: ildefl (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259537414402: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:24:29 CET [2026/01/31 13:24:29 ET]
+Table '3970865031 1' 3-max Seat #2 is the button
+Seat 1: eminerio (330 in chips) 
+Seat 2: ildefl (480 in chips) 
+Seat 3: mabeal1 (690 in chips) 
+mabeal1: posts small blind 10
+eminerio: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ah]
+ildefl: calls 20
+mabeal1: raises 670 to 690 and is all-in
+eminerio: folds 
+ildefl: folds 
+Uncalled bet (670) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: eminerio (big blind) folded before Flop
+Seat 2: ildefl (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (60)
+
+
+
+PokerStars Hand #259537417144: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:24:41 CET [2026/01/31 13:24:41 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (310 in chips) 
+Seat 2: ildefl (460 in chips) 
+Seat 3: mabeal1 (730 in chips) 
+eminerio: posts small blind 10
+ildefl: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4h 7s]
+mabeal1: folds 
+eminerio: folds 
+Uncalled bet (10) returned to ildefl
+ildefl collected 20 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: eminerio (small blind) folded before Flop
+Seat 2: ildefl (big blind) collected (20)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259537419011: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 19:24:49 CET [2026/01/31 13:24:49 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (300 in chips) 
+Seat 2: ildefl (470 in chips) 
+Seat 3: mabeal1 (730 in chips) 
+ildefl: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s 9d]
+eminerio: calls 20
+ildefl: folds 
+mabeal1: checks 
+*** FLOP *** [Qh Ad 5s]
+mabeal1: checks 
+eminerio: checks 
+*** TURN *** [Qh Ad 5s] [Ah]
+mabeal1: checks 
+eminerio: checks 
+*** RIVER *** [Qh Ad 5s Ah] [Ac]
+mabeal1: checks 
+eminerio: checks 
+*** SHOW DOWN ***
+mabeal1: shows [4s 9d] (three of a kind, Aces)
+eminerio: shows [7c Jh] (three of a kind, Aces - Queen+Jack kicker)
+eminerio collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Board [Qh Ad 5s Ah Ac]
+Seat 1: eminerio (button) showed [7c Jh] and won (50) with three of a kind, Aces
+Seat 2: ildefl (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) showed [4s 9d] and lost with three of a kind, Aces
+
+
+
+PokerStars Hand #259537428152: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 19:25:27 CET [2026/01/31 13:25:27 ET]
+Table '3970865031 1' 3-max Seat #2 is the button
+Seat 1: eminerio (330 in chips) 
+Seat 2: ildefl (460 in chips) 
+Seat 3: mabeal1 (710 in chips) 
+mabeal1: posts small blind 15
+eminerio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 7h]
+ildefl: raises 75 to 105
+mabeal1: folds 
+eminerio: folds 
+Uncalled bet (75) returned to ildefl
+ildefl collected 75 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: eminerio (big blind) folded before Flop
+Seat 2: ildefl (button) collected (75)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259537431126: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 19:25:40 CET [2026/01/31 13:25:40 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (300 in chips) 
+Seat 2: ildefl (505 in chips) 
+Seat 3: mabeal1 (695 in chips) 
+eminerio: posts small blind 15
+ildefl: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ac 7c]
+mabeal1: raises 30 to 60
+eminerio: folds 
+ildefl: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 75 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: eminerio (small blind) folded before Flop
+Seat 2: ildefl (big blind) folded before Flop
+Seat 3: mabeal1 (button) collected (75)
+
+
+
+PokerStars Hand #259537434486: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 19:25:53 CET [2026/01/31 13:25:53 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (285 in chips) 
+Seat 2: ildefl (475 in chips) 
+Seat 3: mabeal1 (740 in chips) 
+ildefl: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3s]
+eminerio: folds 
+ildefl: calls 15
+mabeal1: checks 
+*** FLOP *** [2h As 7s]
+ildefl: bets 60
+mabeal1: folds 
+Uncalled bet (60) returned to ildefl
+ildefl collected 60 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [2h As 7s]
+Seat 1: eminerio (button) folded before Flop (didn't bet)
+Seat 2: ildefl (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259537437582: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 19:26:06 CET [2026/01/31 13:26:06 ET]
+Table '3970865031 1' 3-max Seat #2 is the button
+Seat 1: eminerio (285 in chips) 
+Seat 2: ildefl (505 in chips) 
+Seat 3: mabeal1 (710 in chips) 
+mabeal1: posts small blind 15
+eminerio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ah 2d]
+ildefl: calls 30
+mabeal1: raises 680 to 710 and is all-in
+eminerio: folds 
+ildefl: folds 
+Uncalled bet (680) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: eminerio (big blind) folded before Flop
+Seat 2: ildefl (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (90)
+
+
+
+PokerStars Hand #259537440205: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 19:26:17 CET [2026/01/31 13:26:17 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (255 in chips) 
+Seat 2: ildefl (475 in chips) 
+Seat 3: mabeal1 (770 in chips) 
+eminerio: posts small blind 15
+ildefl: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 3d]
+mabeal1: folds 
+eminerio: calls 15
+ildefl: checks 
+*** FLOP *** [4h 7h 3h]
+eminerio: checks 
+ildefl: checks 
+*** TURN *** [4h 7h 3h] [9d]
+eminerio: checks 
+ildefl: checks 
+*** RIVER *** [4h 7h 3h 9d] [9s]
+eminerio: bets 30
+ildefl: folds 
+Uncalled bet (30) returned to eminerio
+eminerio collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4h 7h 3h 9d 9s]
+Seat 1: eminerio (small blind) collected (60)
+Seat 2: ildefl (big blind) folded on the River
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259537446501: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 19:26:44 CET [2026/01/31 13:26:44 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (285 in chips) 
+Seat 2: ildefl (445 in chips) 
+Seat 3: mabeal1 (770 in chips) 
+ildefl: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3s Qs]
+eminerio: calls 30
+ildefl: folds 
+mabeal1: checks 
+*** FLOP *** [9s 5d 7c]
+mabeal1: checks 
+eminerio: bets 90
+mabeal1: folds 
+Uncalled bet (90) returned to eminerio
+eminerio collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [9s 5d 7c]
+Seat 1: eminerio (button) collected (75)
+Seat 2: ildefl (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259537450163: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 19:26:59 CET [2026/01/31 13:26:59 ET]
+Table '3970865031 1' 3-max Seat #2 is the button
+Seat 1: eminerio (330 in chips) 
+Seat 2: ildefl (430 in chips) 
+Seat 3: mabeal1 (740 in chips) 
+mabeal1: posts small blind 15
+eminerio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Th]
+ildefl: calls 30
+mabeal1: calls 15
+eminerio: checks 
+*** FLOP *** [5s 3s Qc]
+mabeal1: checks 
+eminerio: checks 
+ildefl: checks 
+*** TURN *** [5s 3s Qc] [5c]
+mabeal1: bets 60
+eminerio: folds 
+ildefl: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 90 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [5s 3s Qc 5c]
+Seat 1: eminerio (big blind) folded on the Turn
+Seat 2: ildefl (button) folded on the Turn
+Seat 3: mabeal1 (small blind) collected (90)
+
+
+
+PokerStars Hand #259537455585: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 19:27:22 CET [2026/01/31 13:27:22 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (300 in chips) 
+Seat 2: ildefl (400 in chips) 
+Seat 3: mabeal1 (800 in chips) 
+eminerio: posts small blind 15
+ildefl: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 8h]
+mabeal1: folds 
+eminerio: raises 60 to 90
+ildefl: calls 60
+*** FLOP *** [6h Jh Jd]
+eminerio: checks 
+ildefl: bets 310 and is all-in
+eminerio: folds 
+Uncalled bet (310) returned to ildefl
+ildefl collected 180 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6h Jh Jd]
+Seat 1: eminerio (small blind) folded on the Flop
+Seat 2: ildefl (big blind) collected (180)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259537461324: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/31 19:27:46 CET [2026/01/31 13:27:46 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (210 in chips) 
+Seat 2: ildefl (490 in chips) 
+Seat 3: mabeal1 (800 in chips) 
+ildefl: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7h 2c]
+eminerio: calls 30
+ildefl: raises 460 to 490 and is all-in
+mabeal1: folds 
+eminerio: calls 180 and is all-in
+Uncalled bet (280) returned to ildefl
+*** FLOP *** [4h As Td]
+*** TURN *** [4h As Td] [8h]
+*** RIVER *** [4h As Td 8h] [Kh]
+*** SHOW DOWN ***
+ildefl: shows [9d 9c] (a pair of Nines)
+eminerio: shows [Qs Qh] (a pair of Queens)
+eminerio collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [4h As Td 8h Kh]
+Seat 1: eminerio (button) showed [Qs Qh] and won (450) with a pair of Queens
+Seat 2: ildefl (small blind) showed [9d 9c] and lost with a pair of Nines
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259537466779: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:28:09 CET [2026/01/31 13:28:09 ET]
+Table '3970865031 1' 3-max Seat #2 is the button
+Seat 1: eminerio (450 in chips) 
+Seat 2: ildefl (280 in chips) 
+Seat 3: mabeal1 (770 in chips) 
+mabeal1: posts small blind 20
+eminerio: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 3c]
+ildefl: raises 240 to 280 and is all-in
+mabeal1: folds 
+eminerio: folds 
+Uncalled bet (240) returned to ildefl
+ildefl collected 100 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: eminerio (big blind) folded before Flop
+Seat 2: ildefl (button) collected (100)
+Seat 3: mabeal1 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259537468594: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:28:17 CET [2026/01/31 13:28:17 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (410 in chips) 
+Seat 2: ildefl (340 in chips) 
+Seat 3: mabeal1 (750 in chips) 
+eminerio: posts small blind 20
+ildefl: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 5s]
+mabeal1: folds 
+eminerio: folds 
+Uncalled bet (20) returned to ildefl
+ildefl collected 40 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: eminerio (small blind) folded before Flop
+Seat 2: ildefl (big blind) collected (40)
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259537471432: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:28:29 CET [2026/01/31 13:28:29 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (390 in chips) 
+Seat 2: ildefl (360 in chips) 
+Seat 3: mabeal1 (750 in chips) 
+ildefl: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Kd]
+eminerio: folds 
+ildefl: raises 320 to 360 and is all-in
+mabeal1: folds 
+Uncalled bet (320) returned to ildefl
+ildefl collected 80 from pot
+ildefl: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: eminerio (button) folded before Flop (didn't bet)
+Seat 2: ildefl (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259537474249: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:28:40 CET [2026/01/31 13:28:40 ET]
+Table '3970865031 1' 3-max Seat #2 is the button
+Seat 1: eminerio (390 in chips) 
+Seat 2: ildefl (400 in chips) 
+Seat 3: mabeal1 (710 in chips) 
+mabeal1: posts small blind 20
+eminerio: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ks Ah]
+ildefl: calls 40
+mabeal1: raises 670 to 710 and is all-in
+eminerio: folds 
+ildefl: calls 360 and is all-in
+Uncalled bet (310) returned to mabeal1
+*** FLOP *** [2d 3s Kc]
+*** TURN *** [2d 3s Kc] [6c]
+*** RIVER *** [2d 3s Kc 6c] [8c]
+*** SHOW DOWN ***
+mabeal1: shows [Ks Ah] (a pair of Kings)
+ildefl: shows [Jc 7h] (high card King)
+mabeal1 collected 840 from pot
+ildefl finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [2d 3s Kc 6c 8c]
+Seat 1: eminerio (big blind) folded before Flop
+Seat 2: ildefl (button) showed [Jc 7h] and lost with high card King
+Seat 3: mabeal1 (small blind) showed [Ks Ah] and won (840) with a pair of Kings
+
+
+
+PokerStars Hand #259537479380: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:29:02 CET [2026/01/31 13:29:02 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (350 in chips) 
+Seat 3: mabeal1 (1150 in chips) 
+eminerio: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 2h]
+eminerio: calls 20
+mabeal1: checks 
+*** FLOP *** [7d Jh Kd]
+mabeal1: checks 
+eminerio: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to eminerio
+eminerio collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d Jh Kd]
+Seat 1: eminerio (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259537485774: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:29:29 CET [2026/01/31 13:29:29 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (390 in chips) 
+Seat 3: mabeal1 (1110 in chips) 
+mabeal1: posts small blind 20
+eminerio: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [3d As]
+mabeal1: raises 1070 to 1110 and is all-in
+eminerio: folds 
+Uncalled bet (1070) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: eminerio (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259537487811: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:29:37 CET [2026/01/31 13:29:37 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (350 in chips) 
+Seat 3: mabeal1 (1150 in chips) 
+eminerio: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 9c]
+eminerio: calls 20
+mabeal1: checks 
+*** FLOP *** [Js Ts 2s]
+mabeal1: checks 
+eminerio: checks 
+*** TURN *** [Js Ts 2s] [As]
+mabeal1: bets 40
+eminerio: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Js Ts 2s As]
+Seat 1: eminerio (button) (small blind) folded on the Turn
+Seat 3: mabeal1 (big blind) collected (80)
+
+
+
+PokerStars Hand #259537494816: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:30:05 CET [2026/01/31 13:30:05 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (310 in chips) 
+Seat 3: mabeal1 (1190 in chips) 
+mabeal1: posts small blind 20
+eminerio: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Kh]
+mabeal1: raises 1150 to 1190 and is all-in
+eminerio: folds 
+Uncalled bet (1150) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: eminerio (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259537497404: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:30:16 CET [2026/01/31 13:30:16 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (270 in chips) 
+Seat 3: mabeal1 (1230 in chips) 
+eminerio: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c 8c]
+eminerio: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: eminerio (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259537498887: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:30:22 CET [2026/01/31 13:30:22 ET]
+Table '3970865031 1' 3-max Seat #3 is the button
+Seat 1: eminerio (250 in chips) 
+Seat 3: mabeal1 (1250 in chips) 
+mabeal1: posts small blind 20
+eminerio: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d 7h]
+mabeal1: folds 
+Uncalled bet (20) returned to eminerio
+eminerio collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: eminerio (big blind) collected (40)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259537501219: Tournament #3970865031, €0.93+€0.07 EUR Hold'em No Limit - Level III (20/40) - 2026/01/31 19:30:32 CET [2026/01/31 13:30:32 ET]
+Table '3970865031 1' 3-max Seat #1 is the button
+Seat 1: eminerio (270 in chips) 
+Seat 3: mabeal1 (1230 in chips) 
+eminerio: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qs Ac]
+eminerio: raises 230 to 270 and is all-in
+mabeal1: calls 230
+*** FLOP *** [As 2s 3c]
+*** TURN *** [As 2s 3c] [7c]
+*** RIVER *** [As 2s 3c 7c] [7d]
+*** SHOW DOWN ***
+mabeal1: shows [Qs Ac] (two pair, Aces and Sevens)
+eminerio: shows [6c 6h] (two pair, Sevens and Sixes)
+mabeal1 collected 540 from pot
+eminerio finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €3.00 - congratulations!
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [As 2s 3c 7c 7d]
+Seat 1: eminerio (button) (small blind) showed [6c 6h] and lost with two pair, Sevens and Sixes
+Seat 3: mabeal1 (big blind) showed [Qs Ac] and won (540) with two pair, Aces and Sevens
+
+
+

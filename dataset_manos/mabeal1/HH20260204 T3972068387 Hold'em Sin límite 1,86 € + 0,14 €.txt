@@ -1,0 +1,1049 @@
+﻿PokerStars Hand #259591484351: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:05:02 CET [2026/02/04 14:05:02 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (500 in chips) 
+Seat 2: shllwpnt (500 in chips) 
+Seat 3: mabeal1 (500 in chips) 
+shllwpnt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d 5d]
+lisandrohavana: raises 60 to 80
+shllwpnt: folds 
+mabeal1: folds 
+Uncalled bet (60) returned to lisandrohavana
+lisandrohavana collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: lisandrohavana (button) collected (50)
+Seat 2: shllwpnt (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591487221: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:05:14 CET [2026/02/04 14:05:14 ET]
+Table '3972068387 1' 3-max Seat #2 is the button
+Seat 1: lisandrohavana (530 in chips) 
+Seat 2: shllwpnt (490 in chips) 
+Seat 3: mabeal1 (480 in chips) 
+mabeal1: posts small blind 10
+lisandrohavana: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c 6d]
+shllwpnt: raises 20 to 40
+mabeal1: raises 440 to 480 and is all-in
+lisandrohavana: folds 
+shllwpnt: folds 
+Uncalled bet (440) returned to mabeal1
+mabeal1 collected 100 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: lisandrohavana (big blind) folded before Flop
+Seat 2: shllwpnt (button) folded before Flop
+Seat 3: mabeal1 (small blind) collected (100)
+
+
+
+PokerStars Hand #259591489044: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:05:21 CET [2026/02/04 14:05:21 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (510 in chips) 
+Seat 2: shllwpnt (450 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+lisandrohavana: posts small blind 10
+shllwpnt: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h Jc]
+mabeal1: folds 
+lisandrohavana: raises 40 to 60
+shllwpnt: folds 
+Uncalled bet (40) returned to lisandrohavana
+lisandrohavana collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lisandrohavana (small blind) collected (40)
+Seat 2: shllwpnt (big blind) folded before Flop
+Seat 3: mabeal1 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259591493215: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:05:37 CET [2026/02/04 14:05:37 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (530 in chips) 
+Seat 2: shllwpnt (430 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+shllwpnt: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [2h 7h]
+lisandrohavana: raises 40 to 60
+shllwpnt: raises 370 to 430 and is all-in
+mabeal1: folds 
+lisandrohavana: calls 370
+*** FLOP *** [Jh 6s 5d]
+*** TURN *** [Jh 6s 5d] [2c]
+*** RIVER *** [Jh 6s 5d 2c] [9s]
+*** SHOW DOWN ***
+shllwpnt: shows [As 7s] (high card Ace)
+lisandrohavana: shows [Kc 9c] (a pair of Nines)
+lisandrohavana collected 880 from pot
+shllwpnt finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Jh 6s 5d 2c 9s]
+Seat 1: lisandrohavana (button) showed [Kc 9c] and won (880) with a pair of Nines
+Seat 2: shllwpnt (small blind) showed [As 7s] and lost with high card Ace
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591503003: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:06:15 CET [2026/02/04 14:06:15 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (980 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 10
+lisandrohavana: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Tc Kc]
+mabeal1: raises 20 to 40
+lisandrohavana: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lisandrohavana (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #259591505770: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:06:26 CET [2026/02/04 14:06:26 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (960 in chips) 
+Seat 3: mabeal1 (540 in chips) 
+lisandrohavana: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9d 7d]
+lisandrohavana: folds 
+Uncalled bet (10) returned to mabeal1
+mabeal1 collected 20 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (20)
+
+
+
+PokerStars Hand #259591506824: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:06:30 CET [2026/02/04 14:06:30 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (950 in chips) 
+Seat 3: mabeal1 (550 in chips) 
+mabeal1: posts small blind 10
+lisandrohavana: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ad 3h]
+mabeal1: raises 20 to 40
+lisandrohavana: calls 20
+*** FLOP *** [9h Ts 9d]
+lisandrohavana: checks 
+mabeal1: checks 
+*** TURN *** [9h Ts 9d] [8d]
+lisandrohavana: bets 40
+mabeal1: calls 40
+*** RIVER *** [9h Ts 9d 8d] [8s]
+lisandrohavana: bets 200
+mabeal1: calls 200
+*** SHOW DOWN ***
+lisandrohavana: shows [4s Kh] (two pair, Nines and Eights)
+mabeal1: shows [Ad 3h] (two pair, Nines and Eights - Ace kicker)
+mabeal1 collected 560 from pot
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Board [9h Ts 9d 8d 8s]
+Seat 1: lisandrohavana (big blind) showed [4s Kh] and lost with two pair, Nines and Eights
+Seat 3: mabeal1 (button) (small blind) showed [Ad 3h] and won (560) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #259591511988: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:06:50 CET [2026/02/04 14:06:50 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (670 in chips) 
+Seat 3: mabeal1 (830 in chips) 
+lisandrohavana: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [5s Qc]
+lisandrohavana: raises 40 to 60
+mabeal1: folds 
+Uncalled bet (40) returned to lisandrohavana
+lisandrohavana collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) collected (40)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591515186: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level I (10/20) - 2026/02/04 20:07:03 CET [2026/02/04 14:07:03 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (690 in chips) 
+Seat 3: mabeal1 (810 in chips) 
+mabeal1: posts small blind 10
+lisandrohavana: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 6c]
+mabeal1: folds 
+Uncalled bet (10) returned to lisandrohavana
+lisandrohavana collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: lisandrohavana (big blind) collected (20)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591517362: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:07:11 CET [2026/02/04 14:07:11 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (700 in chips) 
+Seat 3: mabeal1 (800 in chips) 
+lisandrohavana: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s Kc]
+lisandrohavana: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259591518412: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:07:15 CET [2026/02/04 14:07:15 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (685 in chips) 
+Seat 3: mabeal1 (815 in chips) 
+mabeal1: posts small blind 15
+lisandrohavana: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 4c]
+mabeal1: calls 15
+lisandrohavana: checks 
+*** FLOP *** [5s 9h Qc]
+lisandrohavana: bets 60
+mabeal1: calls 60
+*** TURN *** [5s 9h Qc] [8s]
+lisandrohavana: bets 90
+mabeal1: calls 90
+*** RIVER *** [5s 9h Qc 8s] [2d]
+lisandrohavana: bets 360
+mabeal1: calls 360
+*** SHOW DOWN ***
+lisandrohavana: shows [Ks 8c] (a pair of Eights)
+mabeal1: shows [Qd 4c] (a pair of Queens)
+mabeal1 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [5s 9h Qc 8s 2d]
+Seat 1: lisandrohavana (big blind) showed [Ks 8c] and lost with a pair of Eights
+Seat 3: mabeal1 (button) (small blind) showed [Qd 4c] and won (1080) with a pair of Queens
+
+
+
+PokerStars Hand #259591522674: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:07:32 CET [2026/02/04 14:07:32 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (145 in chips) 
+Seat 3: mabeal1 (1355 in chips) 
+lisandrohavana: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d Jc]
+lisandrohavana: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259591524387: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:07:38 CET [2026/02/04 14:07:38 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (130 in chips) 
+Seat 3: mabeal1 (1370 in chips) 
+mabeal1: posts small blind 15
+lisandrohavana: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 8c]
+mabeal1: raises 90 to 120
+lisandrohavana: folds 
+Uncalled bet (90) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: lisandrohavana (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259591525865: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:07:44 CET [2026/02/04 14:07:44 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (100 in chips) 
+Seat 3: mabeal1 (1400 in chips) 
+lisandrohavana: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s 3d]
+lisandrohavana: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259591527007: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:07:48 CET [2026/02/04 14:07:48 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (85 in chips) 
+Seat 3: mabeal1 (1415 in chips) 
+mabeal1: posts small blind 15
+lisandrohavana: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qd 6s]
+mabeal1: raises 1385 to 1415 and is all-in
+lisandrohavana: calls 55 and is all-in
+Uncalled bet (1330) returned to mabeal1
+*** FLOP *** [7c 2d Js]
+*** TURN *** [7c 2d Js] [5s]
+*** RIVER *** [7c 2d Js 5s] [Jc]
+*** SHOW DOWN ***
+lisandrohavana: shows [7d 4h] (two pair, Jacks and Sevens)
+mabeal1: shows [Qd 6s] (a pair of Jacks)
+lisandrohavana collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [7c 2d Js 5s Jc]
+Seat 1: lisandrohavana (big blind) showed [7d 4h] and won (170) with two pair, Jacks and Sevens
+Seat 3: mabeal1 (button) (small blind) showed [Qd 6s] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #259591530297: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:08:01 CET [2026/02/04 14:08:01 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (170 in chips) 
+Seat 3: mabeal1 (1330 in chips) 
+lisandrohavana: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ah]
+lisandrohavana: raises 140 to 170 and is all-in
+mabeal1: calls 140
+*** FLOP *** [9d Qs 2d]
+*** TURN *** [9d Qs 2d] [5d]
+*** RIVER *** [9d Qs 2d 5d] [Qd]
+*** SHOW DOWN ***
+mabeal1: shows [As Ah] (two pair, Aces and Queens)
+lisandrohavana: shows [2h 2c] (a full house, Deuces full of Queens)
+lisandrohavana collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [9d Qs 2d 5d Qd]
+Seat 1: lisandrohavana (button) (small blind) showed [2h 2c] and won (340) with a full house, Deuces full of Queens
+Seat 3: mabeal1 (big blind) showed [As Ah] and lost with two pair, Aces and Queens
+
+
+
+PokerStars Hand #259591533836: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:08:15 CET [2026/02/04 14:08:15 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (340 in chips) 
+Seat 3: mabeal1 (1160 in chips) 
+mabeal1: posts small blind 15
+lisandrohavana: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [3h 9d]
+mabeal1: calls 15
+lisandrohavana: checks 
+*** FLOP *** [4s Qc Qh]
+lisandrohavana: checks 
+mabeal1: bets 30
+lisandrohavana: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [4s Qc Qh]
+Seat 1: lisandrohavana (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #259591538212: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:08:32 CET [2026/02/04 14:08:32 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (310 in chips) 
+Seat 3: mabeal1 (1190 in chips) 
+lisandrohavana: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [4s Ac]
+lisandrohavana: raises 280 to 310 and is all-in
+mabeal1: folds 
+Uncalled bet (280) returned to lisandrohavana
+lisandrohavana collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) collected (60)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591540074: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:08:39 CET [2026/02/04 14:08:39 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (340 in chips) 
+Seat 3: mabeal1 (1160 in chips) 
+mabeal1: posts small blind 15
+lisandrohavana: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [Ts 5h]
+mabeal1: calls 15
+lisandrohavana: checks 
+*** FLOP *** [7s 3d 2s]
+lisandrohavana: bets 310 and is all-in
+mabeal1: folds 
+Uncalled bet (310) returned to lisandrohavana
+lisandrohavana collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7s 3d 2s]
+Seat 1: lisandrohavana (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded on the Flop
+
+
+
+PokerStars Hand #259591542438: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:08:48 CET [2026/02/04 14:08:48 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (370 in chips) 
+Seat 3: mabeal1 (1130 in chips) 
+lisandrohavana: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 8c]
+lisandrohavana: folds 
+Uncalled bet (15) returned to mabeal1
+mabeal1 collected 30 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (30)
+
+
+
+PokerStars Hand #259591543573: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level II (15/30) - 2026/02/04 20:08:53 CET [2026/02/04 14:08:53 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (355 in chips) 
+Seat 3: mabeal1 (1145 in chips) 
+mabeal1: posts small blind 15
+lisandrohavana: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s Th]
+mabeal1: raises 30 to 60
+lisandrohavana: calls 30
+*** FLOP *** [Js Qh 6c]
+lisandrohavana: checks 
+mabeal1: bets 45
+lisandrohavana: folds 
+Uncalled bet (45) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Js Qh 6c]
+Seat 1: lisandrohavana (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259591547287: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:09:08 CET [2026/02/04 14:09:08 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (295 in chips) 
+Seat 3: mabeal1 (1205 in chips) 
+lisandrohavana: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8s 2s]
+lisandrohavana: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259591548394: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:09:12 CET [2026/02/04 14:09:12 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (275 in chips) 
+Seat 3: mabeal1 (1225 in chips) 
+mabeal1: posts small blind 20
+lisandrohavana: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [6d Ac]
+mabeal1: raises 1185 to 1225 and is all-in
+lisandrohavana: folds 
+Uncalled bet (1185) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: lisandrohavana (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259591550125: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:09:19 CET [2026/02/04 14:09:19 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (235 in chips) 
+Seat 3: mabeal1 (1265 in chips) 
+lisandrohavana: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 3c]
+lisandrohavana: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259591551095: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:09:23 CET [2026/02/04 14:09:23 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (215 in chips) 
+Seat 3: mabeal1 (1285 in chips) 
+mabeal1: posts small blind 20
+lisandrohavana: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [As Ad]
+mabeal1: calls 20
+lisandrohavana: checks 
+*** FLOP *** [8c 8d Qh]
+lisandrohavana: checks 
+mabeal1: checks 
+*** TURN *** [8c 8d Qh] [Ah]
+lisandrohavana: checks 
+mabeal1: checks 
+*** RIVER *** [8c 8d Qh Ah] [6s]
+lisandrohavana: checks 
+mabeal1: bets 40
+lisandrohavana: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8c 8d Qh Ah 6s]
+Seat 1: lisandrohavana (big blind) folded on the River
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259591555170: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:09:39 CET [2026/02/04 14:09:39 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (175 in chips) 
+Seat 3: mabeal1 (1325 in chips) 
+lisandrohavana: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [5d Ts]
+lisandrohavana: raises 135 to 175 and is all-in
+mabeal1: folds 
+Uncalled bet (135) returned to lisandrohavana
+lisandrohavana collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591557268: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:09:47 CET [2026/02/04 14:09:47 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (215 in chips) 
+Seat 3: mabeal1 (1285 in chips) 
+mabeal1: posts small blind 20
+lisandrohavana: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 6c]
+mabeal1: raises 1245 to 1285 and is all-in
+lisandrohavana: folds 
+Uncalled bet (1245) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: lisandrohavana (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259591559395: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:09:56 CET [2026/02/04 14:09:56 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (175 in chips) 
+Seat 3: mabeal1 (1325 in chips) 
+lisandrohavana: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Td]
+lisandrohavana: raises 135 to 175 and is all-in
+mabeal1: folds 
+Uncalled bet (135) returned to lisandrohavana
+lisandrohavana collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) collected (80)
+Seat 3: mabeal1 (big blind) folded before Flop
+
+
+
+PokerStars Hand #259591560750: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:10:01 CET [2026/02/04 14:10:01 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (215 in chips) 
+Seat 3: mabeal1 (1285 in chips) 
+mabeal1: posts small blind 20
+lisandrohavana: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 9s]
+mabeal1: raises 40 to 80
+lisandrohavana: raises 135 to 215 and is all-in
+mabeal1: calls 135
+*** FLOP *** [2d 5c Ks]
+*** TURN *** [2d 5c Ks] [6s]
+*** RIVER *** [2d 5c Ks 6s] [8c]
+*** SHOW DOWN ***
+lisandrohavana: shows [6d Qd] (a pair of Sixes)
+mabeal1: shows [Jh 9s] (high card King)
+lisandrohavana collected 430 from pot
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [2d 5c Ks 6s 8c]
+Seat 1: lisandrohavana (big blind) showed [6d Qd] and won (430) with a pair of Sixes
+Seat 3: mabeal1 (button) (small blind) showed [Jh 9s] and lost with high card King
+
+
+
+PokerStars Hand #259591564049: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:10:14 CET [2026/02/04 14:10:14 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (430 in chips) 
+Seat 3: mabeal1 (1070 in chips) 
+lisandrohavana: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th Ts]
+lisandrohavana: raises 390 to 430 and is all-in
+mabeal1: calls 390
+*** FLOP *** [Ac 6c Ks]
+*** TURN *** [Ac 6c Ks] [2c]
+*** RIVER *** [Ac 6c Ks 2c] [4c]
+*** SHOW DOWN ***
+mabeal1: shows [Th Ts] (a pair of Tens)
+lisandrohavana: shows [Qc Tc] (a flush, Ace high)
+lisandrohavana collected 860 from pot
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [Ac 6c Ks 2c 4c]
+Seat 1: lisandrohavana (button) (small blind) showed [Qc Tc] and won (860) with a flush, Ace high
+Seat 3: mabeal1 (big blind) showed [Th Ts] and lost with a pair of Tens
+
+
+
+PokerStars Hand #259591567556: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:10:28 CET [2026/02/04 14:10:28 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (860 in chips) 
+Seat 3: mabeal1 (640 in chips) 
+mabeal1: posts small blind 20
+lisandrohavana: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [2s 5s]
+mabeal1: calls 20
+lisandrohavana: checks 
+*** FLOP *** [8c 9h 8d]
+lisandrohavana: checks 
+mabeal1: bets 40
+lisandrohavana: folds 
+Uncalled bet (40) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8c 9h 8d]
+Seat 1: lisandrohavana (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #259591570750: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:10:40 CET [2026/02/04 14:10:40 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (820 in chips) 
+Seat 3: mabeal1 (680 in chips) 
+lisandrohavana: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 7h]
+lisandrohavana: raises 40 to 80
+mabeal1: calls 40
+*** FLOP *** [5d Jh 4c]
+mabeal1: checks 
+lisandrohavana: bets 80
+mabeal1: folds 
+Uncalled bet (80) returned to lisandrohavana
+lisandrohavana collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5d Jh 4c]
+Seat 1: lisandrohavana (button) (small blind) collected (160)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259591574100: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:10:53 CET [2026/02/04 14:10:53 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (900 in chips) 
+Seat 3: mabeal1 (600 in chips) 
+mabeal1: posts small blind 20
+lisandrohavana: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 8d]
+mabeal1: calls 20
+lisandrohavana: raises 860 to 900 and is all-in
+mabeal1: folds 
+Uncalled bet (860) returned to lisandrohavana
+lisandrohavana collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: lisandrohavana (big blind) collected (80)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591576099: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level III (20/40) - 2026/02/04 20:11:01 CET [2026/02/04 14:11:01 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (940 in chips) 
+Seat 3: mabeal1 (560 in chips) 
+lisandrohavana: posts small blind 20
+mabeal1: posts big blind 40
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 9d]
+lisandrohavana: folds 
+Uncalled bet (20) returned to mabeal1
+mabeal1 collected 40 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (40)
+
+
+
+PokerStars Hand #259591577952: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:11:08 CET [2026/02/04 14:11:08 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (920 in chips) 
+Seat 3: mabeal1 (580 in chips) 
+mabeal1: posts small blind 30
+lisandrohavana: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kh 2h]
+mabeal1: calls 30
+lisandrohavana: checks 
+*** FLOP *** [9h 7h 2s]
+lisandrohavana: checks 
+mabeal1: bets 60
+lisandrohavana: folds 
+Uncalled bet (60) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h 7h 2s]
+Seat 1: lisandrohavana (big blind) folded on the Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259591582125: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:11:25 CET [2026/02/04 14:11:25 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (860 in chips) 
+Seat 3: mabeal1 (640 in chips) 
+lisandrohavana: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h Qs]
+lisandrohavana: raises 60 to 120
+mabeal1: calls 60
+*** FLOP *** [7c Kc 3c]
+mabeal1: checks 
+lisandrohavana: bets 120
+mabeal1: folds 
+Uncalled bet (120) returned to lisandrohavana
+lisandrohavana collected 240 from pot
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [7c Kc 3c]
+Seat 1: lisandrohavana (button) (small blind) collected (240)
+Seat 3: mabeal1 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #259591585795: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:11:39 CET [2026/02/04 14:11:39 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (980 in chips) 
+Seat 3: mabeal1 (520 in chips) 
+mabeal1: posts small blind 30
+lisandrohavana: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6s Ad]
+mabeal1: raises 460 to 520 and is all-in
+lisandrohavana: calls 460
+*** FLOP *** [4d 5d 3h]
+*** TURN *** [4d 5d 3h] [5s]
+*** RIVER *** [4d 5d 3h 5s] [Th]
+*** SHOW DOWN ***
+lisandrohavana: shows [Qh Jc] (a pair of Fives)
+mabeal1: shows [6s Ad] (a pair of Fives - Ace kicker)
+mabeal1 collected 1040 from pot
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [4d 5d 3h 5s Th]
+Seat 1: lisandrohavana (big blind) showed [Qh Jc] and lost with a pair of Fives
+Seat 3: mabeal1 (button) (small blind) showed [6s Ad] and won (1040) with a pair of Fives
+
+
+
+PokerStars Hand #259591589013: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:11:52 CET [2026/02/04 14:11:52 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (460 in chips) 
+Seat 3: mabeal1 (1040 in chips) 
+lisandrohavana: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6h 2s]
+lisandrohavana: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259591591470: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:12:01 CET [2026/02/04 14:12:01 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (430 in chips) 
+Seat 3: mabeal1 (1070 in chips) 
+mabeal1: posts small blind 30
+lisandrohavana: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7s 9h]
+mabeal1: raises 1010 to 1070 and is all-in
+lisandrohavana: folds 
+Uncalled bet (1010) returned to mabeal1
+mabeal1 collected 120 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: lisandrohavana (big blind) folded before Flop
+Seat 3: mabeal1 (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #259591594730: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:12:14 CET [2026/02/04 14:12:14 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (370 in chips) 
+Seat 3: mabeal1 (1130 in chips) 
+lisandrohavana: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Js]
+lisandrohavana: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259591596115: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:12:19 CET [2026/02/04 14:12:19 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (340 in chips) 
+Seat 3: mabeal1 (1160 in chips) 
+mabeal1: posts small blind 30
+lisandrohavana: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [7d 9d]
+mabeal1: raises 1100 to 1160 and is all-in
+lisandrohavana: calls 280 and is all-in
+Uncalled bet (820) returned to mabeal1
+*** FLOP *** [As Ah 3h]
+*** TURN *** [As Ah 3h] [Th]
+*** RIVER *** [As Ah 3h Th] [4d]
+*** SHOW DOWN ***
+lisandrohavana: shows [Tc Js] (two pair, Aces and Tens)
+mabeal1: shows [7d 9d] (a pair of Aces)
+lisandrohavana collected 680 from pot
+*** SUMMARY ***
+Total pot 680 | Rake 0 
+Board [As Ah 3h Th 4d]
+Seat 1: lisandrohavana (big blind) showed [Tc Js] and won (680) with two pair, Aces and Tens
+Seat 3: mabeal1 (button) (small blind) showed [7d 9d] and lost with a pair of Aces
+
+
+
+PokerStars Hand #259591599497: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:12:33 CET [2026/02/04 14:12:33 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (680 in chips) 
+Seat 3: mabeal1 (820 in chips) 
+lisandrohavana: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kd 8d]
+lisandrohavana: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259591601116: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:12:39 CET [2026/02/04 14:12:39 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (650 in chips) 
+Seat 3: mabeal1 (850 in chips) 
+mabeal1: posts small blind 30
+lisandrohavana: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [6c Jc]
+mabeal1: calls 30
+lisandrohavana: raises 590 to 650 and is all-in
+mabeal1: folds 
+Uncalled bet (590) returned to lisandrohavana
+lisandrohavana collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: lisandrohavana (big blind) collected (120)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591603959: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:12:50 CET [2026/02/04 14:12:50 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (710 in chips) 
+Seat 3: mabeal1 (790 in chips) 
+lisandrohavana: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jh 3c]
+lisandrohavana: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 60 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: lisandrohavana (button) (small blind) folded before Flop
+Seat 3: mabeal1 (big blind) collected (60)
+
+
+
+PokerStars Hand #259591605071: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:12:54 CET [2026/02/04 14:12:54 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (680 in chips) 
+Seat 3: mabeal1 (820 in chips) 
+mabeal1: posts small blind 30
+lisandrohavana: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [3c Td]
+mabeal1: folds 
+Uncalled bet (30) returned to lisandrohavana
+lisandrohavana collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: lisandrohavana (big blind) collected (60)
+Seat 3: mabeal1 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #259591606564: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level IV (30/60) - 2026/02/04 20:12:59 CET [2026/02/04 14:12:59 ET]
+Table '3972068387 1' 3-max Seat #1 is the button
+Seat 1: lisandrohavana (710 in chips) 
+Seat 3: mabeal1 (790 in chips) 
+lisandrohavana: posts small blind 30
+mabeal1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to mabeal1 [Jd Ac]
+lisandrohavana: raises 650 to 710 and is all-in
+mabeal1: calls 650
+*** FLOP *** [4s 6h 9s]
+*** TURN *** [4s 6h 9s] [9c]
+*** RIVER *** [4s 6h 9s 9c] [6c]
+*** SHOW DOWN ***
+mabeal1: shows [Jd Ac] (two pair, Nines and Sixes)
+lisandrohavana: shows [Ah 8s] (two pair, Nines and Sixes)
+mabeal1 collected 710 from pot
+lisandrohavana collected 710 from pot
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [4s 6h 9s 9c 6c]
+Seat 1: lisandrohavana (button) (small blind) showed [Ah 8s] and won (710) with two pair, Nines and Sixes
+Seat 3: mabeal1 (big blind) showed [Jd Ac] and won (710) with two pair, Nines and Sixes
+
+
+
+PokerStars Hand #259591610435: Tournament #3972068387, €1.86+€0.14 EUR Hold'em No Limit - Level V (40/80) - 2026/02/04 20:13:15 CET [2026/02/04 14:13:15 ET]
+Table '3972068387 1' 3-max Seat #3 is the button
+Seat 1: lisandrohavana (710 in chips) 
+Seat 3: mabeal1 (790 in chips) 
+mabeal1: posts small blind 40
+lisandrohavana: posts big blind 80
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td Tc]
+mabeal1: raises 710 to 790 and is all-in
+lisandrohavana: calls 630 and is all-in
+Uncalled bet (80) returned to mabeal1
+*** FLOP *** [4c 5s 2s]
+*** TURN *** [4c 5s 2s] [6d]
+*** RIVER *** [4c 5s 2s 6d] [Kh]
+*** SHOW DOWN ***
+lisandrohavana: shows [5d Ad] (a pair of Fives)
+mabeal1: shows [Td Tc] (a pair of Tens)
+mabeal1 collected 1420 from pot
+lisandrohavana finished the tournament in 2nd place
+mabeal1 wins the tournament and receives €4.00 - congratulations!
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [4c 5s 2s 6d Kh]
+Seat 1: lisandrohavana (big blind) showed [5d Ad] and lost with a pair of Fives
+Seat 3: mabeal1 (button) (small blind) showed [Td Tc] and won (1420) with a pair of Tens
+
+
+

@@ -1,0 +1,36 @@
+﻿PokerStars Hand #259540132992: Tournament #3970920233, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/31 22:36:26 CET [2026/01/31 16:36:26 ET]
+Table '3970920233 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: pokerion46 (500 in chips) 
+Seat 3: curro_full (500 in chips) 
+pokerion46: posts small blind 10
+curro_full: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9c Jd]
+mabeal1: raises 20 to 40
+pokerion46: raises 20 to 60
+curro_full: folds 
+mabeal1: calls 20
+*** FLOP *** [Kc 8c Jh]
+pokerion46: bets 70
+mabeal1: calls 70
+*** TURN *** [Kc 8c Jh] [6h]
+pokerion46: bets 140
+mabeal1: calls 140
+*** RIVER *** [Kc 8c Jh 6h] [Ks]
+pokerion46: bets 230 and is all-in
+mabeal1: calls 230 and is all-in
+*** SHOW DOWN ***
+pokerion46: shows [Kh Ad] (three of a kind, Kings)
+mabeal1: shows [9c Jd] (two pair, Kings and Jacks)
+pokerion46 collected 1020 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Kc 8c Jh 6h Ks]
+Seat 1: mabeal1 (button) showed [9c Jd] and lost with two pair, Kings and Jacks
+Seat 2: pokerion46 (small blind) showed [Kh Ad] and won (1020) with three of a kind, Kings
+Seat 3: curro_full (big blind) folded before Flop
+
+
+

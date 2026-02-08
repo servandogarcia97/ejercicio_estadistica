@@ -1,0 +1,239 @@
+﻿PokerStars Hand #259508389942: Tournament #3970180881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:43:10 CET [2026/01/29 9:43:10 ET]
+Table '3970180881 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: PinhoRodri (500 in chips) 
+Seat 3: domcas23 (500 in chips) 
+PinhoRodri: posts small blind 10
+domcas23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Qc 4c]
+mabeal1: folds 
+PinhoRodri: folds 
+Uncalled bet (10) returned to domcas23
+domcas23 collected 20 from pot
+domcas23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: PinhoRodri (small blind) folded before Flop
+Seat 3: domcas23 (big blind) collected (20)
+
+
+
+PokerStars Hand #259508391336: Tournament #3970180881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:43:19 CET [2026/01/29 9:43:19 ET]
+Table '3970180881 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (500 in chips) 
+Seat 2: PinhoRodri (490 in chips) 
+Seat 3: domcas23 (510 in chips) 
+domcas23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9h 8d]
+PinhoRodri: raises 40 to 60
+domcas23: folds 
+mabeal1: calls 40
+*** FLOP *** [Kd Ac 6d]
+mabeal1: checks 
+PinhoRodri: bets 20
+mabeal1: folds 
+Uncalled bet (20) returned to PinhoRodri
+PinhoRodri collected 130 from pot
+PinhoRodri: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Kd Ac 6d]
+Seat 1: mabeal1 (big blind) folded on the Flop
+Seat 2: PinhoRodri (button) collected (130)
+Seat 3: domcas23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259508395918: Tournament #3970180881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:43:48 CET [2026/01/29 9:43:48 ET]
+Table '3970180881 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: PinhoRodri (560 in chips) 
+Seat 3: domcas23 (500 in chips) 
+mabeal1: posts small blind 10
+PinhoRodri: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Kc Td]
+domcas23: folds 
+mabeal1: raises 20 to 40
+PinhoRodri: calls 20
+*** FLOP *** [As 8c 2d]
+mabeal1: bets 30
+PinhoRodri: folds 
+Uncalled bet (30) returned to mabeal1
+mabeal1 collected 80 from pot
+mabeal1: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [As 8c 2d]
+Seat 1: mabeal1 (small blind) collected (80)
+Seat 2: PinhoRodri (big blind) folded on the Flop
+Seat 3: domcas23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259508398728: Tournament #3970180881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:44:06 CET [2026/01/29 9:44:06 ET]
+Table '3970180881 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: PinhoRodri (520 in chips) 
+Seat 3: domcas23 (500 in chips) 
+PinhoRodri: posts small blind 10
+domcas23: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [9s 3c]
+mabeal1: folds 
+PinhoRodri: folds 
+Uncalled bet (10) returned to domcas23
+domcas23 collected 20 from pot
+domcas23: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: PinhoRodri (small blind) folded before Flop
+Seat 3: domcas23 (big blind) collected (20)
+
+
+
+PokerStars Hand #259508399670: Tournament #3970180881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:44:12 CET [2026/01/29 9:44:12 ET]
+Table '3970180881 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (480 in chips) 
+Seat 2: PinhoRodri (510 in chips) 
+Seat 3: domcas23 (510 in chips) 
+domcas23: posts small blind 10
+mabeal1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Td 8d]
+PinhoRodri: folds 
+domcas23: calls 10
+mabeal1: checks 
+*** FLOP *** [2h Qd 4s]
+domcas23: checks 
+mabeal1: bets 20
+domcas23: calls 20
+*** TURN *** [2h Qd 4s] [Qs]
+domcas23: checks 
+mabeal1: checks 
+*** RIVER *** [2h Qd 4s Qs] [Kh]
+domcas23: checks 
+mabeal1: checks 
+*** SHOW DOWN ***
+domcas23: shows [7c Ah] (a pair of Queens)
+mabeal1: mucks hand 
+domcas23 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2h Qd 4s Qs Kh]
+Seat 1: mabeal1 (big blind) mucked [Td 8d]
+Seat 2: PinhoRodri (button) folded before Flop (didn't bet)
+Seat 3: domcas23 (small blind) showed [7c Ah] and won (80) with a pair of Queens
+
+
+
+PokerStars Hand #259508405265: Tournament #3970180881, €0.93+€0.07 EUR Hold'em No Limit - Level I (10/20) - 2026/01/29 15:44:49 CET [2026/01/29 9:44:49 ET]
+Table '3970180881 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (440 in chips) 
+Seat 2: PinhoRodri (510 in chips) 
+Seat 3: domcas23 (550 in chips) 
+mabeal1: posts small blind 10
+PinhoRodri: posts big blind 20
+*** HOLE CARDS ***
+Dealt to mabeal1 [Th 8d]
+domcas23: folds 
+mabeal1: raises 20 to 40
+PinhoRodri: raises 20 to 60
+mabeal1: calls 20
+*** FLOP *** [2s 6s 9d]
+mabeal1: checks 
+PinhoRodri: bets 450 and is all-in
+mabeal1: folds 
+Uncalled bet (450) returned to PinhoRodri
+PinhoRodri collected 120 from pot
+PinhoRodri: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2s 6s 9d]
+Seat 1: mabeal1 (small blind) folded on the Flop
+Seat 2: PinhoRodri (big blind) collected (120)
+Seat 3: domcas23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #259508411570: Tournament #3970180881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 15:45:30 CET [2026/01/29 9:45:30 ET]
+Table '3970180881 1' 3-max Seat #1 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: PinhoRodri (570 in chips) 
+Seat 3: domcas23 (550 in chips) 
+PinhoRodri: posts small blind 15
+domcas23: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8d 7h]
+mabeal1: folds 
+PinhoRodri: folds 
+Uncalled bet (15) returned to domcas23
+domcas23 collected 30 from pot
+domcas23: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: mabeal1 (button) folded before Flop (didn't bet)
+Seat 2: PinhoRodri (small blind) folded before Flop
+Seat 3: domcas23 (big blind) collected (30)
+
+
+
+PokerStars Hand #259508413059: Tournament #3970180881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 15:45:39 CET [2026/01/29 9:45:39 ET]
+Table '3970180881 1' 3-max Seat #2 is the button
+Seat 1: mabeal1 (380 in chips) 
+Seat 2: PinhoRodri (555 in chips) 
+Seat 3: domcas23 (565 in chips) 
+domcas23: posts small blind 15
+mabeal1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [5c 3c]
+PinhoRodri: raises 90 to 120
+domcas23: folds 
+mabeal1: folds 
+Uncalled bet (90) returned to PinhoRodri
+PinhoRodri collected 75 from pot
+PinhoRodri: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: mabeal1 (big blind) folded before Flop
+Seat 2: PinhoRodri (button) collected (75)
+Seat 3: domcas23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #259508416011: Tournament #3970180881, €0.93+€0.07 EUR Hold'em No Limit - Level II (15/30) - 2026/01/29 15:45:58 CET [2026/01/29 9:45:58 ET]
+Table '3970180881 1' 3-max Seat #3 is the button
+Seat 1: mabeal1 (350 in chips) 
+Seat 2: PinhoRodri (600 in chips) 
+Seat 3: domcas23 (550 in chips) 
+mabeal1: posts small blind 15
+PinhoRodri: posts big blind 30
+*** HOLE CARDS ***
+Dealt to mabeal1 [8h Ks]
+domcas23: folds 
+mabeal1: raises 30 to 60
+PinhoRodri: raises 30 to 90
+mabeal1: raises 260 to 350 and is all-in
+PinhoRodri: calls 260
+*** FLOP *** [8s Jc 2h]
+*** TURN *** [8s Jc 2h] [Qs]
+*** RIVER *** [8s Jc 2h Qs] [6h]
+*** SHOW DOWN ***
+mabeal1: shows [8h Ks] (a pair of Eights)
+PinhoRodri: shows [Jd Kh] (a pair of Jacks)
+PinhoRodri collected 700 from pot
+mabeal1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [8s Jc 2h Qs 6h]
+Seat 1: mabeal1 (small blind) showed [8h Ks] and lost with a pair of Eights
+Seat 2: PinhoRodri (big blind) showed [Jd Kh] and won (700) with a pair of Jacks
+Seat 3: domcas23 (button) folded before Flop (didn't bet)
+
+
+
